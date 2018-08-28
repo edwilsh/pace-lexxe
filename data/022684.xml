@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443259377989305</docid>
+  <date>07/08/2017</date>
+  <time>06:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/this-chart-shows-the-risk-of-a-short-squeeze-in-the-us-dollar-is-increasing-2017-8</url>
+  <title>This chart shows the risk of a short squeeze in the US dollar is increasing</title>
+  <content>
+Currency traders continue to abandon the US dollar, turning net short for the first time in over a year last week.
+
+According to ANZ, citing the latest Commitment of Traders (CoT) report released by the US Commodity Futures Trading Commission (CFTC) last Friday, long positioning in the greenback was reduced by a further $US2.9 billion, leaving net positioning short for the first time since May 2016.
+
+Net speculative positioning, defined by ANZ as non-commercial positions reported by the CFTC, is simply the sum of long and short options and futures positions in a particular asset, in this case the US dollar.
+
+When net positioning is short, it suggests that the market, as a whole, is looking for price weakness.
+
+This chart from ANZ shows the huge reversal in bullish US dollar bets from traders over the past eight month, mirroring the slide in the greenback over the same period.
+
+Late last year net long US dollar positioning has been as high as $US30 billion, boosted by hopes for faster US economic growth and rate increases from the Federal Reserve following the election of Donald Trump.
+
+Now traders are net short to the tune of $US2.7 billion, reflecting increased scepticism that Trump will be able to deliver on his pre-election promises.
+
+Khoon Goh and Rini Sen, strategists at ANZ, said the vast bulk of selling last week came against commodity currencies such as the Canadian and Australian dollars, along with emerging market currencies such as the Mexican peso, Russian ruble and Brazilian lira where combined net long positioning hit the highest levels in four years.
+
+While traders are continue to ditch the greenback in favour of other currencies, with sentiment increasingly pessimistic and net speculative positioning now short, Goh and Sen say the risk of a short-covering rally in the US dollar is increasing.
+
+"A rally in the DXY [Us dollar index] following the strong US non-farm payrolls data and comments from White House economic adviser Gary Cohn that he is confident that tax reforms can be accomplished by the end of the year could help stabilise sentiment in the near-term," they said.
+
+"US economic data has been surprising to the upside over the past month and if the July US CPI print, to be released later in the week, continues this trend there is the potential for a short squeeze in the USD."
+
+A short squeeze occurs when an asset price moves higher unexpectedly, forcing investors to reduce, square or reverse their bearish bets to limit potential trading losses. They often occur when heightened pessimism towards a particular asset leads to lopsided market positioning.
+
+Put another way, if everyone thinks an asset is going lower and has positioned accordingly, who else is left to sell?
+
+The US inflation report for July will be released on Friday, August 11.
+
+Headline consumer price inflation (CPI) is tipped to increase 0.2%, seeing the year-on-year rate accelerate from 1.6% to 1.8%. Core CPI - excluding the impact of volatile food and energy prices - is forecast to grow by 0.2%, leaving the annual rate unchanged at 1.7%.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commitments of Traders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rini Sen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USD</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mexican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July US CPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Khoon Goh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gary Cohn</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CFTC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DXY</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Goh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Commodity Futures Trading Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CPI</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2.9</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US30</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

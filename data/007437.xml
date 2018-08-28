@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410209604163816</docid>
+  <date>01/08/2017</date>
+  <time>22:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/tigerair-offers-1-return-airfares-to-and-from-cairns/news-story/14f15bd491fe09af919a07611022ece5</url>
+  <title>$1 return airfares on offer</title>
+  <content>
+FOURTEEN hundred seats to or from Cairns with $1 return airfares are being offered by Tigerair Australia today.
+The sale is for travel early next year between late January and late March 2018.
+The "Pay to Go, Come Back for $1" sale starts at noon today and ends at noon on Saturday.
+Tigerair Australia spokesman Joel Dwyer said the deals were expected to be snapped up fast.
+"Gather up your loose change for a return flight from one of Australia's most beautiful destinations, including Cairns, the Whitsundays or the Gold Coast," he said.
+Brisbane-Cairns flights with 500 seats are available from $95 one way/$1 return (January 30-March 27), Cairns-Melbourne $135, 400 seats (January 30-March 21) and Cairns-Sydney $139, 500 seats (January 30-March 21).
+</content>
+  <sindexList>
+  <sindex>
+    <name>January 30-March 27</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>January 30-March 21</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane-Cairns</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Joel Dwyer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns-Sydney $139, 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Come Back</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tigerair Australia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns-Melbourne $135, 400</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whitsundays</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442855651056989</docid>
+  <date>07/08/2017</date>
+  <time>04:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/national/missing-woman-off-gold-coast-beach-after-clothes-left-on-shoreline/news-story/404664bc2a7ae4466862e8f9972186d4</url>
+  <title>Missing Vic woman could be on Coast</title>
+  <content>
+POLICE are recoordinating efforts to search for a woman originally thought to have been missing off a Gold Coast beach this morning.
+Earlier, clothes found about 300 metres north of Kurrawa Beach around 6.15am this morning sparked a wide ranging search by surf-life savers and water police.
+Three council life guards, jet skis and a Surf Life Saving helicopter had been deployed in a bid to find 40-year-old Gail Elizabeth Oliver whose ID was found in a backpack containing women's clothing.
+But a few hours later police called off the water search in the belief she had not gone into the water and could still be in the area.
+Ms Oliver is a reported missing person from Victoria.
+Members of the public have come forward to advise police they had seen a woman matching her description walking off from the area overnight.
+Police are concerned for her welfare and are urging her to make contact with police straight away.
+Anyone who has seen Ms Oliver is also urged to contact PoliceLink on 131 444 immediately.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Oliver</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gail Elizabeth Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Policelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Surf Life Saving</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kurrawa Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

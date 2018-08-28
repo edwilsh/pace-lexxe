@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419662827355073</docid>
+  <date>03/08/2017</date>
+  <time>10:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/microsoft-is-releasing-a-preview-of-windows-10-that-lets-you-control-the-system-with-your-eyes-2017-8</url>
+  <title>Microsoft is releasing a preview of Windows 10 that lets you control the system with your eyes</title>
+  <content>
+Microsoft is using eye-tracking technology to allow Windows 10 users to interact with the system using nothing other than their eyes,  (which we ).
+
+The technology itself comes from Tobii, a Swedish company that has long worked on eye controlled systems, which is now partnering with the Redmond giant to make the feature part of Microsoft's operating system (OS).
+
+What Tobii refers to as "eye gaze" will appear inside Windows 10's accessibility settings as "Eye Control" in the OS' newest Windows Insider preview build (16257, for those keeping track), and will use your computer's camera to understand where on the screen you are looking at.
+
+Not all cameras work with Windows' Eye Control, however, and Tobii's own Eye Tracker 4C will be the first one to support the new feature.
+
+As soon as you activate Eye Control, a little "launchpad" will appear on the screen, and depending on where you lay your eyes, the system will let you use your eyes as a mouse, fire up an on-screen keyboard (US layout only, for now), activate text-to-speech, or reposition UI elements.
+
+The keyboard is possibly the most interesting feature of Eye Control: You can either type by looking at each letter individually, or use what Microsoft calls "shape-writing," which works like swipe keyboards on a touch screen.
+
+To type a word, stare at the first and last letter for about a second, and "simply glance at letters in between;" Windows 10 will guess what word you were thinking of, and also offer up to four different predictions in case its first choice was wrong.
+
+"With eye tracking, devices can better understand our intentions, a key ability in creating truly natural human-computer interaction," said president of Tobii Tech Oscar Werner in a statement, VentureBeat reports. "Eye tracking support in Windows 10 has the potential to form a new paradigm that fundamentally transforms how we interact with our devices."
+
+Get the latest Microsoft stock price
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Windows' Eye Control</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ora</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Eye Tracker 4C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eye Control</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Windows 10</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Swedish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tobii Tech Oscar Werner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Redmond</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>VentureBeat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tobii</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windows Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

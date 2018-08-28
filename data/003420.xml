@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404196649837132</docid>
+  <date>31/07/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/08/43/adelaide-blanketed-in-fog</url>
+  <title>Adelaide blanketed in fog</title>
+  <content>
+Drivers in Adelaide are being urged to slow down as thick fog blankets the city.
+Sea fog has drifted across parts of the western suburbs and city and South Australian Police have issued an alert cautioning drivers to slow down.
+No flights have been affected yet and the temperature in Adelaide is set to hit a top of 16C on Tuesday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Police</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

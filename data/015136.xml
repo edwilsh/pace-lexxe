@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424176838069660</docid>
+  <date>04/08/2017</date>
+  <time>04:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/bhp-engaged-in-major-sa-projects/news-story/f08db56221370205ef1839e602bc6433</url>
+  <title>BHP engaged in major SA projects</title>
+  <content>
+Mining giant BHP has embarked on the most significant investment program ever at its Olympic Dam operations in South Australia, a senior official says.
+Olympic Dam Asset President Jacqui McGill told a business lunch in Adelaide on Friday that 49 projects were currently underway worth more than $600 million.
+"This represents the most significant investment we've ever made in our South Australian operations," Ms McGill said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympic Dam</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms McGill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympic Dam Asset President Jacqui McGill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

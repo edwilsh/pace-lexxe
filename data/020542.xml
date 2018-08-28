@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438595043452344</docid>
+  <date>06/08/2017</date>
+  <time>12:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/22/06/labor-leads-coalition-53-to-47-newspoll</url>
+  <title>Labor leads coalition 53 to 47: Newspoll</title>
+  <content>
+The coalition continues to trail Labor 47 to 53 on a two-party preferred basis, the latest Newspoll shows.
+But Malcolm Turnbull has widened his lead over Opposition Leader Bill Shorten as preferred prime minister, with 46 per cent of voters preferring Mr Turnbull compared to 31 per cent who back Mr Shorten, the poll published in The Australian shows.
+Labor's primary vote has fallen slightly, from 37 to 36 per cent, while the coalition's remains unchanged at 36 per cent.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Opposition Leader Bill Shorten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Shorten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newspolls</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labor 47</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

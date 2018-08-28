@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405699888414316</docid>
+  <date>01/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/sport/nrl/supercoach/live-nrl-teams-round-22/news-story/5dc6d7fef04b1ce77d781d26778289b4</url>
+  <title>LIVE: NRL teams round 22</title>
+  <content>
+WELCOME to our live coverage of the round 22 NRL team announcements.
+Scroll down to join our live blog with Tom Sangster.
+Here are our SuperCoach predictions:
+WINNERS
+Sam Burgess - Expected to be named despite aggravating a rib injury on the weekend.
+Cameron Munster - Suffered an ankle injury on the weekend but expected to be named for the Storm, although he is in serious doubt.
+Nathan Brown - Has been cleared of concussion by Parramatta officials and is a certain starter.
+Billy Slater - Returns from concussion for the Storm.
+Jordan Rapana - Returns from suspension for the Raiders.
+LOSERS
+Andrew McCullough - Out for the season with ACL and MCL injuries.
+Shaun Lane - Expected to be named on the bench for the Sea Eagles, as per last week's late change.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Raiders</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MCL</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NRL</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SUPERCOACH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jordan Rapana</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cameron Munster</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Billy Slater</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Sangster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Burgess</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Shaun Lane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sea Eagles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nathan Brown</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Andrew McCullough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

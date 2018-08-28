@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442464809028291</docid>
+  <date>07/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/07/something-is-badly-wrong-with-how-were-protecting-ourselves/</url>
+  <title>Is spending money on counter-terrorism actually worth it?</title>
+  <content>
+The uncovering of an alleged plot involving the Khayat brothers to bring down an airliner or launch some sort of toxic gas attack in Sydney should prompt a serious rethink about how effective we are at protecting ourselves from terrorism and why we're spending so much money doing so.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Khayat</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

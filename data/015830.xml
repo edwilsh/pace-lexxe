@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423609902378368</docid>
+  <date>04/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/12/02/right-to-life-hit-vic-premier-s-electorate</url>
+  <title>Right To Life hit Vic Premier's electorate</title>
+  <content>
+Premier Daniel Andrews' electorate has been targeted by what he calls a "mischievous" and "misleading" Right To Life leaflet campaign against his proposed assisted dying laws.
+Right To Life have been dropping the pamphlet throughout nine electorates, including Mr Andrews' seat of Mulgrave, as well as Bentleigh and Macedon, both held by Labor.
+"That rather mischievous, almost misrepresentation of who the author of that pamphlet was, that's not particularly fair, I don't think that's right, it doesn't add to the debate," Mr Andrews told ABC Central Victoria on Friday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Right To Life</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ABC Central Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic Premier</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bentleigh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Daniel Andrews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mulgrave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Andrews</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macedon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

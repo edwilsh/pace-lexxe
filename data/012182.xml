@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417854646090456</docid>
+  <date>03/08/2017</date>
+  <time>03:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/banking-and-finance/austrac-alleges-cba-in-serious-breach-of-money-laundering-act-20170803-gxoirw.html</url>
+  <title>Austrac alleges CBA in 'serious' breach of money laundering act</title>
+  <content>
+Austrac has started action against Commonwealth Bank of Australia in the Federal Court, alleging "serious and systemic non-compliance" with the Anti-Money Laundering and Counter-Terrorism Financing Act.
+Peter Clark, the acting head of the financial intelligence and regulatory agency, said the moved followed an investigation by Austrac into CBA's compliance, particularly relating to its use of intelligent deposit machines.Photo: Jessica Shapiro
+The action alleges more than 53,700 contraventions of the act.
+CBA acknowledged that the civil proceedings had been brought and said it would have more to say on the specific claims "in due course".
+More to come  
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Shapiro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

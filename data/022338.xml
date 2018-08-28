@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443242198119766</docid>
+  <date>07/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/pedestrian-hit-by-train-in-hampton/news-story/ff1e1a38c76b7fb251d37e5b3ac9b911</url>
+  <title>Pedestrian hit by train in Hampton</title>
+  <content>
+A PEDESTRIAN has been hit by a train in Hampton, with train services on the Sandringham line suspended.
+Emergency services are at the scene, with boom gates down at Hampton St and police saying they are expected to remain down for several hours.
+Police are urging commuters to avoid the area.
+
+This will go right through the PM peak. I have no doubt about that. Horrible.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hampton</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Sandringham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hampton St</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

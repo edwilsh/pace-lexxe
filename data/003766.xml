@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404754995595048</docid>
+  <date>01/08/2017</date>
+  <time>00:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/review-ordered-to-fix-nbn-woes/news-story/05f849ad40eff18f9e01da880f9eecc1</url>
+  <title>Review ordered to fix NBN woes</title>
+  <content>
+The federal government has ordered a survey of customer experiences with the national broadband network amid rising complaints.
+The Australian Communications and Media Authority will carry out research on customer experiences and collect data from businesses involved in the rollout, including NBN, retailers and wholesale providers, to examine issues such as fault handling and connection time frames.
+"This information will be used to identify where customer issues most commonly arise and how those issues can be either avoided or resolved more quickly," Communications Minister Mitch Fifield said on Tuesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Minister Mitch Fifield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

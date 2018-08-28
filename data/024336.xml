@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446162775934968</docid>
+  <date>07/08/2017</date>
+  <time>17:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/08/02/57/sanctuary-city-chicago-sues-trump-administration</url>
+  <title>'Sanctuary city' Chicago sues Trump administration</title>
+  <content>
+The city of Chicago filed suit Monday against the Donald Trump administration for withholding funds from so-called "sanctuary cities" for failing to cooperate with tougher federal efforts to crack down on undocumented immigrants.
+The lawsuit, the first of its kind, challenges the Trump administration's requirement that cities detain suspects for questioning by federal immigration authorities or see their grant funding for municipal police departments withheld.
+Chicago Mayor Rahm Emanuel on Monday called the policy counterproductive.
+"By forcing us, or the police department, to choose between the values of the city and the philosophy of the police department... I think it's a false choice, and it undermines our actual safety agenda," Emanuel told CNN.
+"We will always be a welcoming city," he continued, adding that local police departments rely on the cooperation of the immigrant community -- both documented and undocumented.
+"Our police department is part of a neighborhood, part of a community, built on the premise of trust," the mayor said.
+The federal grant at the center of the lawsuit provided $2.3 million to Chicago last year to purchase police equipment, such as cars, computers, radios and Tasers, Emanuel said.
+
+Related Articles
+
+The federal government's new rules would tie the grant to requirements that, among other things, cities give federal immigration authorities unlimited access to local police stations to interrogate arrestees, Chicago officials said.
+The city is asking a federal court to declare such requirements unlawful.
+Trump has targeted sanctuary cities as part of his promised crackdown on illegal immigration, and the Department of Justice implemented the new funding requirement last month.
+Supporters of "sanctuary city" policies say requiring local police to fully cooperate with immigration enforcement erodes with the communities they serve and frustrate law enforcement efforts.
+The Department of Justice (DOJ) criticized the lawsuit in a statement that accused Emanuel of "protecting criminal aliens and putting Chicago's law enforcement at greater risk."
+The head of the DOJ, US Attorney General Jeff Sessions, last week said the policy would improve safety for immigration officers who now have to track down suspects who already had been detained and released by local police.
+"By forcing police to go into more dangerous situations to re-arrest the same criminals, these policies endanger law enforcement officers more than anyone," Sessions said.
+nov/sg
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Taser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Attorney General Jeff Sessions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chicago Mayor Rahm Emanuel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emanuel</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chicago</name>
+    <count>5</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>DOJ</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CNN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442078261966493</docid>
+  <date>07/08/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/ten-years-on-lessons-from-the-credit-crunch-20170807-gxqmyz</url>
+  <title>Ten years on, lessons from the credit crunch</title>
+  <content>
+by
+John Plender
+
+Ten years on from the credit crunch that marked the start of the greatest financial crisis in history, two important questions arise. After extensive remedial work, is the global financial system now fit for purpose? And are the advanced economies vulnerable to a further crisis of comparable magnitude?
+With the US and UK economies showing continuing, if unexciting, growth and the eurozone finally enjoying a synchronised upturn, the banks appear no longer to be holding back recovery.
+In its recent monetary policy report, the Federal Reserve stated that vulnerabilities in the US financial system remained moderate. That view is echoed by central bankers in Europe and Japan. Yet the underlying picture is complicated.
+The US banking system is notably less weak than its European counterpart. That is because American policymakers learnt from the earlier Japanese experience of boom and bust. Among the lessons were the importance of timely recognition of losses after the crisis, rigorous stress testing and the need for carefully judged strengthening of bank balance sheets, while maintaining a flow of credit to the real economy.
+
+In the eurozone, by contrast, policymakers were reluctant to confront the challenge of the sovereign debt crisis head on. Stress tests have been unstressful and banks remain undercapitalised relative to the US. Southern Europe is dogged by non-performing loans. And banks across the eurozone maintain big holdings of their own governments' debt.
+
+That highlights one important sense in which the system is not fit for purpose. The risk-weighted Basel capital adequacy regime, despite post-crisis tweaking, is fundamentally flawed. Sovereign debt enjoys excessively favourable treatment so eurozone banks stuff their balance sheets with the IOUs of seriously over-indebted governments.
+A parallel problem in the English-speaking countries is the excessively favourable treatment of mortgage debt, which encourages asset price bubbles and puts home ownership out of reach for young people.
+As for threats to financial stability, there has been much regulatory reform since the collapse of Lehman Brothers bank in 2008. This was aimed at curbing excessive risk-taking, reducing dependence on wholesale markets for funding and securing orderly resolution (unwinding) of failing banks.
+Macroprudential policies such as caps on loan-to-value ratios and counter-cyclical capital requirements have been introduced.
+
+Jay Laprete
+
+Yet vulnerabilities remain. One of the biggest, identified long ago by the Bank for International Settlements, the central bankers' bank, is asymmetric monetary policy.
+Since Alan Greenspan's tenure at the Fed, which ended in 2006, there has been a tendency for central banks to ease aggressively during busts while failing to lean against booms. This has led to a downward bias in interest rates and an upward bias in debt.
+Among leading countries, with the notable exception of Germany, government debt has spiralled since the crisis. At today's freakishly low interest rates, to which central banks have contributed through quantitative easing, this appears manageable.
+Yet it is also a debt trap from which it may be hard to escape without a bond market collapse, which would raise government borrowing costs while hitting the value of assets in bank balance sheets. Equally problematic is that banks that are too big and too interconnected to fail have grown bigger through mergers and acquisitions since the crisis.
+
+Risks are opaque and concentrated, most notably in derivatives exposures. Many are simply too big to be manageable.
+JPMorgan Chase is widely regarded as the best managed international bank. But when a group of traders lost $US6bn in 2012 in the so-called London Whale scandal it was clear that top management in New York had absolutely no clue as to what was going on.
+Policymakers' answer to the too big to fail problem is bank bail-ins, which aim to protect the taxpayer by making creditors bear the cost of restoring a failing bank to health.
+Yet some fear that they would be inadequate in a full-blown systemic crisis and that plans to co-ordinate cross-border resolution will prove problematic. Even so, there seems little likelihood today of a crisis like the one that began 10 years ago because credit expansion has not reached bubble proportions.
+
+The risk is rather of an atypical crisis in which a bungled exit from central banks' quantitative easing and an interest rate spike in the bond market exposes the fragility of an over-indebted system and prompts central banks to resume ultra-loose monetary policy.
+How much of the resulting losses would fall on bank creditors or taxpayers is an open and ultimately political question. john.plender@ft.com
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>London Whale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>English-speaking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>International Settlements</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alan Greenspan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Plender</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 6</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Lehman Brothers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Basel</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan Chase</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jay LaPrete</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IOUs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

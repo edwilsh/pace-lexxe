@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401061323650577</docid>
+  <date>31/07/2017</date>
+  <time>10:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/entertainment/movies/french-cinema-star-jeanne-moreau-dies-aged-89/news-story/e9eac9c5512ccbedbedef1f0e14f7890</url>
+  <title>French screen icon dead at 89</title>
+  <content>
+FRENCH actress Jeanne Moreau, whose seven-decade career included work with Francois Truffaut, Orson Welles, Wim Wenders and other acclaimed directors, has died aged 89.
+The French president's office announced her death in a statement Monday without providing a cause. An assistant to her agent confirmed the death but would not provide details.
+Moreau, perhaps best known for her performance in Truffaut's 1962 "Jules and Jim," continued working well into her 80s. She won awards at the Cannes Film Festival, which she presided over twice, and an honorary Oscar. President Emmanuel Macron hailed her for her deep range, extending beyond her early roles as a femme fatale into comedy and other genres, and praised her political activism.
+Information about funeral arrangements and survivors was not immediately available.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Francois Truffaut</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Emmanuel Macron</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Moreau</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Jim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wim Wenders</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>Cannes Film Festival</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Truffaut's 1962</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Jeanne Moreau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Orson Welles</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Oscar</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jules</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

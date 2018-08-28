@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442984500077788</docid>
+  <date>07/08/2017</date>
+  <time>05:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/starpharma-shares-lift-on-trial-results/news-story/7379430ebdf5320bb2a12093891568fc</url>
+  <title>Starpharma shares lift on trial results</title>
+  <content>
+Shares in Starpharma have jumped on successful results for two advanced clinical trials of the biotech firm's treatment for bacterial vaginosis - a serious condition that can cause infertility and other serious problems.
+Starpharma'sVivaGel showed effectiveness in trials to treat the condition - the most common cause of vaginal infection for women of child-bearing age and one that can lead to infertility, premature births and low birth weights as well as other complications.
+Starpharma shares were 8.25 cents, or 10.9 per cent, higher at 84.25 cents at 1411 AEST.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Starpharma</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>sVivaGel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

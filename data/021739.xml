@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441519916211005</docid>
+  <date>06/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/bail-for-arrested-uk-researcher-who-stopped-wannacry-470228</url>
+  <title>Bail for arrested UK researcher who stopped WannaCry</title>
+  <content>
+A judge in Las Vegas set a US$30,000 (A$37,853) bail for a British cyber security researcher accused of advertising and selling malicious code used to pilfer banking and credit card information.
+
+Marcus Hutchins, also known as MalwareTech, won't be released until Monday United States time.
+
+His lawyer Adrian Lobo said she expected him to be on a flight on Tuesday to Wisconsin, where a six-count indictment against him was filed in US district court. 
+
+Hutchins was receiving support from a "variety of sources" around the world to post his bail, she said.
+
+Judge Nancy Koppe dismissed a federal prosecutor's claim that Hutchins was a flight risk, though she did order him to surrender his passport. If released, Hutchins would be barred from computer use or internet access.
+
+Marcus Hutchins, 23, gained celebrity status worldwide in May when he was credited with mitigating the spread of the global WannaCry ransomware attack.
+
+He was indicted along with an unnamed co-defendant on July 12, alleged to have been involved in the creation and sale of the Kronos banking malware.
+
+The case remained under seal until Thursday, a day after his arrest in Las Vegas, where he and tens of thousands of others flocked for the annual Black Hat and Def Con security conventions.
+
+Hutchins allegedly advertised, distributed and profited from the Kronos malware between July 2014 and 2015, according to the indictment. If downloaded from email attachments, Kronos left victims' systems vulnerable to theft of banking and credit card credentials, which could have been used to siphon money from bank accounts..
+
+Hutchins was "doing well, considering what's gone on," Lobo told reporters. She said Hutchins never expected to be in his current situation and that she did not know the identity of his co-defendant.
+
+News of Hutchins' arrest on Wednesday shocked other researchers, many of whom rallied to his defence and said they did not believe he had ever engaged in cyber crime.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Lobo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MalwareTech</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Judge Nancy Koppe</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins, 23</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wisconsin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Monday United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2014</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>News of Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lobos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$30,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

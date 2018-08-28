@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398484343233477</docid>
+  <date>31/07/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4822092/dragons-coach-mcgregor-under-nrl-microscope/?cs=12</url>
+  <title>Dragons coach faces scrutiny over bunker comments</title>
+  <content>
+TOUGH PILL: The Dragons finals hopes took a hit with a 21-14 defeat to Newcastle on Saturday. Picture: AAP
+
+Frustrated Dragons coach Paul McGregor could have a new headache come Monday as his side stands on the brink of slipping out of the finals picture, with the NRL to scrutinise his post-match lashing of match officials after a shock loss to the Knights.
+A week after Ricky Stuart dodged sanctioning following his calls for referees to be made more accountable and answer questions in the immediate aftermath of a match, McGregor could face his first fine as an NRL head coach after describing the officiating as "embarrassing and incompetent".
+
+It will come against the backdrop of the St George Illawarra clipboard carrier seeking an explanation from referees boss Tony Archer over several calls which he believed hampered the Dragons against wooden spoon favourites Newcastle.
+Stuart's outburst - questioned in many quarters after his own player Sia Soliola, later banned for five matches, was allowed to stay on the field for a late hit which badly concussed Billy Slater - went unpunished because it didn't question the integrity of match officials.
+
+But McGregor's use of the words "embarrassing and incompetent", despite saying his side would take responsibility for the loss rather than blaming whistleblowers, are ones which will be most analysed after a week in which match officials have been in the spotlight after the Slater controversy.
+Any fine would be a bitter pill to swallow for the early-season Dally M Coach of the Year contender, whose side has stumbled in recent months and is in grave doubt of even making the finals with the Panthers and Raiders making late charges.
+The Dragons had two tries chalked off - one for an alleged Jason Nightingale knock-on and another for an infringement on Trent Hodkinson in the lead-up to a runaway Nene Macdonald effort.
+A dismayed McGregor accused Hodkinson of taking a dive as the Dragons bombed a chance to close in on a finals spot they have been in a pole position to secure all season.
+
+The NRL hasn't issued a breach notice this season since the Dragons were one of three clubs fined after round three for flouting concussion guidelines.
+The sanctions, which were also handed out to the Knights and Titans, originally totalled $350,000 but were later reduced as part of suspended sentences.
+The desperate Dragons can ill afford any further distractions when they try to cling to a top eight spot against the struggling Rabbitohs at the Sydney Cricket Ground on Friday night.
+
+South Sydney coach Michael Maguire also had the referees in his crosshairs over the weekend, questioning why play wasn't stopped for a concussed Adam Reynolds as the Raiders later went on to score in that set en route to a comfortable 14-point win.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Raiders</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>McGregor</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NRL</name>
+    <count>3</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Dally M Coach of the Year</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hodkinson</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sia Soliola</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Trent Hodkinson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Billy Slater</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Slater</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dragons</name>
+    <count>8</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Panther</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St George Illawarra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Cricket Ground</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jason Nightingale</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ricky Stuart</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tony Archer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Stuart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Maguire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rabbitohs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Knight</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nene Macdonald</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Titans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul McGregor</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adam Reynolds</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

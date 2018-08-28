@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445213588143731</docid>
+  <date>07/08/2017</date>
+  <time>13:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/austrac-opts-for-civil-action-over-criminal-20170807-gxqs4a</url>
+  <title>AUSTRAC's civil route to bigger fine in CBA case</title>
+  <content>
+AUSTRAC may have chosen to take civil rather than criminal action against the Commonwealth Bank of Australia because it's quicker and , legal experts say.
+Clifford Chance counsel Kirsten Scott, a former federal prosecutor who leads the firm's Australian white collar practice, said if AUSTRAC wanted to press criminal charges it would have to have done so via the Commonwealth Director of Public Prosecutions, which would take time.
+There were other reasons to opt for a civil case.
+"There is a lower standard of proof in civil proceedings," Ms Scott said.
+
+"And the fines appear to be twice as large if dealt with civilly rather than criminally."
+
+But it was also possible AUSTRAC did not believe the alleged behaviour fit within criminal offences, Ms Scott added.
+with the Anti-Money Laundering and Counter-Terrorism Financing Act.
+The  are civil, which means CBA is correct when it says "the only mechanism available to AUSTRAC to secure a pecuniary penalty from CBA is by taking court action".
+Nor could the particular offences be brought in infringement notices such as those typically used by regulators.
+
+"The power to issue infringement notices is for a narrow band of potential infringements," said Paddy Oliver, the managing director of AML Experts.
+"What is alleged against CBA are not in that section [of the Act]."
+Baker & McKenzie senior associate Emma Hunter said civil penalties carried the most hefty fines under the legislation and AUSTRAC had only twice brought such action.
+The other was a successful case against Tabcorp.  for 108 breaches of the same act.
+
+Ms Scott said it was unlikely the outcome would be $18 million times 53,000 or so alleged breaches. "The court has a balancing act to make sure it's not double punishing but that it is also taking into account the extent of the activity, which apparently occurred over a number of years. It would seem very unlikely that it will impose [a fine of $900 billion]."
+However, that did not mean CBA would only be hit with one fine, Ms Scott said.
+The bank is seeking to  as a single breach of the act and therefore liable for only one penalty unit of $18 million.
+Dennis Miralis, a partner with Nyman Gibson Miralis, said a court would take a wide range of factors into account.
+
+"With respect to any ultimate financial penalties that may be imposed, courts are generally entitled to take into account the overall misconduct alleged and impose an overall fine that represents the misconduct globally...rather than impose a fine for each contravention," he said.
+A spokesman said AUSTRAC had a range of enforcement powers under the act and they were applied according to the circumstances of each individual matter. "AUSTRAC will not comment on its decision to take court action in relation to the CBA."
+CLSA analyst Brian Johnson sought to quantify the potential fine in a note to clients, saying the fines could range from massive to inconsequential.
+Mr Johnson noted that there was a propensity for Australian regulators to avoid penalising institutions heavily.
+
+At the other end of the scale would be a strict interpretation of the maximum penalty, which would see the bank receive an .
+"The problem is that many of these transactions identified by AUSTRAC saw funds remitted outside of Australia, which could leave CBA vulnerable to fines in those domiciles where penalties for bank misbehaviour have been much bigger than in Australia," he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brian Johnson</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>CLSA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kirsten Scott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Johnson</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paddy Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dennis Miralis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>9</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Director of Public</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Scott</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Nyman Gibson Miralis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clifford Chance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emma Hunter</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AML Experts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>McKenzie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

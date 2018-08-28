@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432496189837892</docid>
+  <date>05/08/2017</date>
+  <time>12:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/22/28/us-marines-missing-off-australian-coast</url>
+  <title>US Marines missing off Australian coast</title>
+  <content>
+The United States Marine Corps is searching for missing crew after a plane crashed off the east coast of Australia.
+Ships, small boats and aircraft from the 31st Marine Expeditionary Unite and Bonhomme Richard Expeditionary Strike Group are conducting the search and rescue operations officials said in a statement posted online on Saturday night.
+The aircraft is an MV-22 Osprey.
+Three members of the crew are still missing while 23 have been recovered safely, Fox News reported.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bonhomme Richard Expeditionary Strike Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Expeditionary Unite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marines</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fox News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States Marine Corps</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

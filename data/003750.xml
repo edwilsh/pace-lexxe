@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403810102773842</docid>
+  <date>31/07/2017</date>
+  <time>21:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4824648/pizza-store-robbed-at-mayfield/?cs=305</url>
+  <title>Pizza store robbed at Mayfield</title>
+  <content>
+A man armed with an iron bar robbed a Mayfield pizza store overnight.
+Shortly after 11pm on Monday, a man entered the Maitland Road store via a rear door.
+He approached four staff members and threatened them with the iron bar before stealing a small amount of cash from the till.
+He ran from the store prior to the arrival of police.
+A crime scene was established as detectives from Newcastle Local Area Command commenced their investigations.
+The man has been described as being of Asian or Aboriginal in appearance, about 170cm tall with a thin build and brown eyes. At the time of the robbery he was wearing a green hat with a black and white patterned bandanna or balaclava with a white hooded jumper, dark woolly gloves and dark long pants with black sneakers.
+Anyone with information about this incident should contact detectives as Newcastle Local Area Command, or Crime Stoppers on 1800 333 000.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Local Area Command</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayfield</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maitland Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406223874432976</docid>
+  <date>01/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/16/19/drugged-drivers-caught-near-sa-schools</url>
+  <title>Drugged drivers caught near SA schools</title>
+  <content>
+Twenty drivers have been caught near school zones in South Australia with drugs in their system, including six who either dropping off or collecting children.
+Police conducted the crackdown on Monday with most of the positive tests coming in the Adelaide metropolitan area but also in the Murray Mallee and SA's mid-north.
+Superintendent Anthony Fioravanti says the actions of those involved were putting children at risk.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Murray Mallee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Superintendent Anthony Fioravanti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

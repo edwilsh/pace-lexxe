@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416523206207052</docid>
+  <date>02/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/08/03/sunbathers-killed-plane-emergency-landing/</url>
+  <title>Sunbathers killed as plane makes emergency landing</title>
+  <content>
+A sunbathing eight-year-old girl and a 56-year-old man have been killed as a light plane has made an emergency landing on a packed beach in Portugal.
+Hundreds of sunbathers were on the popular beach at Caparica, 30km south of the capital Lisbon, and witnesses said some sunbathers ran into the sea to avoid the plane.
+The National Maritime Authority said the man and girl died on the beach. Officials said they were not aware of any injured.
+The small aircraft, reportedly a Cessna carrying two people appeared, to be in difficulty and wobbled as it skimmed low over the sunbathers, scattering them and spreading panic on the beach, witnesses said.
+The plane appeared to have a partly broken left wing, which hung lower than the right wing, Portuguese television pictures showed.
+Officials said the accident occurred at 4.50pm local time. The dead girl was with her parents, who were unhurt, witnesses told local television channels.
+The plane passed over the dead man's legs as he sunbathed on a towel, they said. No others were reportedly hurt.
+The bodies lay covered on the sand as police cordoned off the area. The two occupants of the plane were unhurt and were being questioned by police.
+</content>
+  <sindexList>
+  <sindex>
+    <name>National Maritime Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caparica</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Portugal</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunbathers</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Lisbon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cessna</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Portuguese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

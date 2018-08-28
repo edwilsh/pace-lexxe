@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429841900026030</docid>
+  <date>05/08/2017</date>
+  <time>02:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/cold-snap-winters-friendly-reminder-ipswich/3209155/</url>
+  <title>COLD SNAP: Winter's friendly reminder for Ipswich</title>
+  <content>
+THERE is still another three weeks of winter left and the frosty conditions are all but subsiding.
+
+A southerly trough will move through the region tomorrow, bringing the chance of a Sunday afternoon or evening shower but a cold snap will pass though in its wake early next week.
+
+While Monday morning is expected to be a comfortable eight degrees, a blast of cool dry air after the rain moves means Tuesday, Wednesday and Thursday morning minimums will be back to three to four degrees.
+
+Fine weather will return from Monday lunch time with daytime averages of 23 degrees for much of next week.
+
+Consistent with Ipswich weather's reputation, the potential Sunday evening rain means temperatures will be below the August minimum average of 6.2 and above the maximum average of 22.8
+
+Bureau of Meteorology forecaster Michael Peach said if it did rain, less than 5mm was expected.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Peach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

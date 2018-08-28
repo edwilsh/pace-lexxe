@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436061012725537</docid>
+  <date>06/08/2017</date>
+  <time>02:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/influenza-spikes-early-in-nsw-with-opposition-blaming-government/8778918</url>
+  <title>Influenza cases spike early in NSW; Opposition blames Government for insufficient planning</title>
+  <content>
+The New South Wales Opposition says the State Government failed to adequately prepare for one of the worst flu seasons on record.
+Confirmed influenza cases this season are more than double for the same period last year, with 14,032 recorded cases last month, compared to 4,431 in July last year.
+Labor's health spokesman Walt Secord said the outbreak could have been prevented if the State Government encouraged more people to get their flu vaccinations.
+"The State Government knew the flu season was coming," Mr Secord said.
+"The northern hemisphere had a really bad flu season, they should have prepared a comprehensive plan encouraging people to get their flu vaccinations."
+Mr Secord said hospitals were under "enormous pressure" because of additional flu patients attending emergency departments.
+"Emergency departments in the state are at breaking point," he said.
+"We've had record numbers of people presenting to emergency departments that puts pressure on the entire hospital system."
+However, the Australian Medical Association said influenza activity has spiked earlier than previous years.
+"The past year has seen a campaign to have flu vaccinations right across the country," AMA vice-president Tony Bartone said.
+"The activity is seasonal and may have no bearing on the messaging or the take up of vaccinations."
+He said the influenza activity typically peaks in August and September.
+"We can only tell if this peak happening now is on the way down or still a sign that things will get worse, in retrospect," he said.
+"It's still not too late to have the flu vaccine, it's still not too late to have the best defence against getting influenza."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Walt Secord</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Medical Association</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Bartone</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>3</count>
+    <score>-12</score>
+  </sindex>
+  <sindex>
+    <name>Mr Secord</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales Opposition</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AMA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

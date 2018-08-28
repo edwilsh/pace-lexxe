@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441051764769845</docid>
+  <date>06/08/2017</date>
+  <time>21:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/national/melbourne-weather-winter-storm-to-hit-city/news-story/66d6f4d03052d50a84415122bcd4fb51</url>
+  <title>Wild winter storm to hit Melbourne</title>
+  <content>
+MELBURNIANS should brace for another winter storm with rain and hail forecast to hit the city later today.
+The city shivered through a miserable winter weekend, but it was good news for the snow fields with the freezing conditions dumping more than half a metre of snow in alpine areas.
+Falls Creek and Hotham had between 70-80cm of snow over the last two days.
+Storms are expected in some parts of the state late this afternoon.
+In Melbourne rain is predicted early in the morning before clearing with a top of just 12C.
+The city could also see hail and thunder.
+Winds are expected to reach up to 30km/h.
+Damaging winds with peak gusts of up to 100km/h are also predicted, which may affect Mt Buller, Mt Hotham and Falls Creek.
+Snow has been sighted in areas across regional Victoria including Gordon and Trentham.
+Bureau of Meteorology senior forecaster Dean Stewart said warmer weather is on the way.
+"There will be improvement in the middle part of the week with 15C on Tuesday and mostly dry. It'll be as high as 18C on Thursday, with winds possibly returning," he said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Trentham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Buller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gordon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Falls Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melburnians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

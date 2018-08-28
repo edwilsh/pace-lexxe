@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422836808252272</docid>
+  <date>03/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/09/00/elderly-pedestrian-hit-and-killed-in-nsw</url>
+  <title>Elderly pedestrian hit and killed in NSW</title>
+  <content>
+A 46-year-old driver has been charged with dangerous driving causing death after an elderly man was hit and killed in Sydney's inner west.
+The 83-year-old man died in hospital after he was struck by a van in Enfield on Thursday morning.
+The driver was charged with dangerous driving occasioning death and negligent driving occasioning death, NSW Police said in a statement on Friday.
+He's due to face Burwood Local Court on August 28.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Burwood Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Enfield</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

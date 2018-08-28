@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405248916842101</docid>
+  <date>01/08/2017</date>
+  <time>02:54</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/how-does-your-income-compare-to-other-australians/</url>
+  <title>How Does Your Income Compare To Other Australians?</title>
+  <content>
+According to the most recent ABS data, the average Australian income is . However, this number is pretty meaningless if you're trying to work out the mode or median: the wages at the very top and bottom invariably skew the results.
+
+If you really want to know how your income compares to the Australian average, you need to focus on people in similar circumstances to yourself. The WageSage website attempts to do the hard work for you: it limits the results to people who share your age, location and gender for much higher accuracy.
+
+Most official income statistics fail to account for age and geographic location, which are important considerations. For example, a 19-year old who lives in Penrith, NSW is technically "below average" if they earn $60,000 - but this is significantly more money than most people in their age bracket or location earn. Subsequently, the aforementioned Penrith teenager should be pretty damned chuffed!
+
+calculates a meaningful average income by focusing on age, gender and geography. The results are all based on existing income data from the Australian Tax Office (ATO).
+
+To find out how your income compares to other Australians, simply type in your yearly income, age and postcode. The site will then automatically spit out the results. You can play around with the sliders to see how your income compares to other states and age groups if you're curious. (Interestingly, my annual income is bang on the median for NSW, but nearly $20,000 higher than average for my specific post code.)
+
+The site also does a pretty good job of revealing  - selecting 'Female' results in a lower average income than a male who shares the same age and location. Again, these are official ATO figures.
+
+The Australian Bureau of Statistics (ABS) has released its average weekly earnings report which does exactly what it says on the tin. By taking the average weekly earnings and multiplying them by 52, it's possible to work out the average annual wage in Australia. Here's how much you should be earning.
+
+[]
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WageSage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Does Your Income Compare To Other Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Tax Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Penrith</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

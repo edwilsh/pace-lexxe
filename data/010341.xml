@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414942658212669</docid>
+  <date>02/08/2017</date>
+  <time>16:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/russian-propaganda-website-tracker-2017-8</url>
+  <title>A new website named after a Founding Father is tracking Russian propaganda in real time</title>
+  <content>
+A  by a former FBI special agent-turned disinformation expert claims to track Russian propaganda in near-real time, as it spreads via Twitter accounts that have been linked to Russian influence operations.
+
+Clint Watts, who garnered national media attention  before the Senate Intelligence Committee about Russia's ongoing cyber and propaganda war against the West, spearheaded the project called Hamilton 68 - a hat tip to the founding father's Federalist Papers No. 68.
+
+"In the Federalist Papers No. 68, Alexander Hamilton wrote of protecting America's electoral process from foreign meddling," the site reads, alluding to Russia's interference in the 2016 election. "Today, we face foreign interference of a type Hamilton could scarcely have imagined."
+
+Watts worked on Hamilton 68 with JM Berger, a fellow with the International Centre for Counter-Terrorism who studies extremism and propaganda on social media; Andrew Weisburd, a fellow at the Center for Cyber & Homeland Security; and Jonathon Morgan, the CEO of  and head of , a volunteer collective of data scientists and technologists.
+
+Laura Rosenberger, the director of the German Marshall Fund's ‎Alliance for Securing Democracy, was brought on by Watts as the project "moved from wish to reality," Berger told Business Insider on Wednesday.
+
+"I love working with all these folks, so it was great fun for me to see them all come together on this project," Berger said. He added that he has been working with Watts and Weisburd on Russian influence operations, and with Morgon on social media influence analysis, for about three years.
+
+The project will attempt to monitor and illustrate the themes that Russian President Vladimir Putin wants Americans to be thinking and talking about - namely, "the break up of the European Union, the dissolution of NATO and the failure of democratic governance in the United States specifically and in the West broadly," the site says.
+
+One of its objectives is to help journalists get better at recognising disinformation and propaganda - especially given how fundamental Twitter is to many reporters' daily work.
+
+Russia's influence operations are not new, nor are they confined to the United States. But as former FBI Director James Comey and National Security Agency Director Mike Rogers testified in March, the operations intensified noticeably in the run-up to the 2016 election.
+
+At one point, Russia's infamous troll factories  by the Kremlin to spread pro-Trump propaganda on social media. Freelance journalist Adrian Chen, now a staff writer at The New Yorker, discovered the trend as he was researching Russia's "army of well-paid trolls" for an explosive  published in June 2015.
+
+Hamilton 68 is now working to expose those trolls - as well as automated bots and human accounts - whose main use for Twitter appears to be an amplification of pro-Russia themes.
+
+The researchers say they are taking a holistic approach to tracking the propaganda efforts by analysing groups of accounts that appear to be pushing out Russian themes in a synchronised way, in an attempt to avoid a slippery slope toward censorship. Of the 600 accounts the site says it is monitoring, none are explicitly named.
+
+The analysts are also not attempting to define "fake news," Berger said.
+
+"We're not deciding what news and stories to highlight. We're just showing what accounts linked to Russian influence operations are tweeting about."
+
+Rosenberger, who is leading the project on the German Marshall Fund's side, made a similar point.
+
+"The approach we're taking is not about labelling anything as 'real' or 'fake', or exposing particular accounts," she told Business Insider on Wednesday. "We're simply using analytical tools to show what messages this network is promoting."
+
+Rosenberger noted that while some people "will want to continue to take those messages at face value," more will hopefully "pause and ask more questions about the source of the information they're seeing."
+
+"People need to transparently know where this information is coming from," she said.
+
+Berger noted that some of the content is "obviously false information or disinformation, such as Pizzagate or the Seth Rich conspiracy theories."
+
+The , which was quickly debunked, claimed that Democrats were operating a sex trafficking ring out of a Washington, DC, pizza joint.  whose death last year has spawned right-wing conspiracy theories aimed at casting doubt on Russia's election interference.
+
+Tweets from some accounts, like those belonging to the state-owned Russian news agencies Russia Today and Sputnik, are displayed on the site's homepage because they are explicitly and openly linked to the Kremlin.
+
+But the other accounts "were selected for their relationship to Russian-sponsored influence and disinformation campaigns, and not because of any domestic political content," according to the site.
+
+The researchers say they monitored the datasets "for months" and concluded that these 600 accounts participated "in specific disinformation campaigns synchronised with Russia Today and Sputnik News, linked to users who self-identified as promoting pro-Russian viewpoints, or were bots providing support to members of the first two categories."
+
+As of August 2, the top URL being shared by these accounts was an InfoWars story about Rich that was sourced to Trump confidante Roger Stone. The top hashtag being used by these accounts was "#MAGA" - an acronym for President Donald Trump's campaign slogan, Make America Great Again - followed closely by "#sethrich" and "#fakenews."
+
+Rosenberger also expressed concern about reports that Secretary of State Rex Tillerson  the $US80 million recently allocated by Congress to the State Department to fight ISIS propaganda and Russian disinformation.
+
+"It's pretty clear we are behind the curve here," Rosenberger said. "Our European allies have been dealing with this for quite some time."
+
+Tillerson is reportedly concerned that the funds will anger Moscow - a worry that Rosenberger said was "misplaced" and offers "insight into the naivete with which they're approaching this issue."
+
+"Russia is taking an adversarial posture toward democratic institutions and the West," she said. "Our government needs to be at forefront of that defence."
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hamilton</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russia Today</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Homeland Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Chen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MAGA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secretary of State</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Rosenberger</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>9</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jonathon Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-terrorism</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Yorker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hamilton 68</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russian President Vladimir Putin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clint Watts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democrats</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Berger</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tillerson</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Watt</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISIS</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Roger Stone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seth Rich</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>JM Berger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sputnik News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>America Great Again</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Infowars</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Laura Rosenberger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>June 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>National Security Agency Director Mike Rogers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>International Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>8</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>August 2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>NATO</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Weisburd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pizzagate</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Department</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Alexander Hamilton</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian-sponsored</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Weisburd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Securing Democracy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Founding Fathers</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FBI Director James Comey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federalist Papers No</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sputnik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senate Intelligence Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>German Marshall Fund</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

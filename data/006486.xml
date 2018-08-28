@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409608308730679</docid>
+  <date>01/08/2017</date>
+  <time>19:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/trump-helped-sons-russian-meeting-like-any-father-would/8765620</url>
+  <title>Donald Trump weighed in on son's Russia statement 'like any father would': White House</title>
+  <content>
+Related Story:
+
+Related Story:
+
+The White House has confirmed Donald Trump played a role in formulating a statement in which his son denied a meeting he had with a Russian lawyer was related to the 2016 presidential campaign, comments later shown to be misleading.
+"He certainly didn't dictate [the statement]," White House press secretary Sarah Sanders said.
+"But ... he weighed in, offered suggestion like any father would do.
+"The statement that was issued was true and there were no inaccuracies in the statement."
+
+Last month Mr Trump Jr  he was told was a Russian government lawyer who might have damaging information about Democratic presidential candidate Hillary Clinton.
+He released the emails after the New York Times reported details of the meeting.
+On Monday, the Washington Post said Mr Trump's advisers discussed the new disclosure and agreed that Mr Trump Jr should issue a truthful account of the episode so that it "couldn't be repudiated later if the full details emerged".
+But the President, who was flying home from Germany on July 8, changed the plan and "personally dictated a statement in which Mr Trump Jr said he and the Russian lawyer had 'primarily discussed a program about the adoption of Russian children'," the Post said, citing unnamed people with knowledge of the deliberations.
+It said the statement, issued to the New York Times as it prepared to publish the story, emphasised the subject of the meeting was "not a campaign issue at the time".
+Reuters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Sanders</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump Jr</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

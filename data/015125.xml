@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424172543102188</docid>
+  <date>04/08/2017</date>
+  <time>04:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/ghost-collateral-haunts-bank-loans/news-story/4f96b729564100b0b9c435d2ca477988</url>
+  <title>'Ghost collateral' haunts bank loans</title>
+  <content>
+The banker at the other end of the phone was furious, recalled Shanghai lawyer Wang Chaoyu. A pile of steel pledged as collateral for a loan of almost $US3 million from his bank, China CITIC, had vanished from a warehouse on the outskirts of the city.
+Just several months earlier, in mid-2013, Wang and the banker had visited the warehouse and verified that the steel was there.
+"The first time I went, I saw the steel," recalled Wang, an attorney at Beijing DHH Law Firm, which represents the Shanghai branch of CITIC. "Afterwards, the banker got in contact with me and said, 'The pledged assets are no longer there'.'"
+The trouble had begun in 2012, after CITIC loaned the money to Shanghai Hanning Iron and Steel Co Ltd, a privately held steel trader. Hanning failed to meet payments, according to a mediation agreement reviewed by Reuters, and CITIC took ownership of the steel. It was when CITIC moved to retrieve the collateral that the banker visited the warehouse and discovered that the 291-tonne pile of steel was no longer there, Wang said. The bank is still in court trying to recoup its losses.
+The missing collateral is a setback for CITIC. But it is indicative of a much wider problem that could endanger the health of China's financial system - fraudulent or "ghost" collateral. When bank auditors in China go looking, they too often find that collateral recorded on the books simply isn't there.
+In some cases, collateral that has been pledged simply doesn't exist. In others, it disappears as borrowers in financial distress sell the assets. There are also instances in which the same collateral has been pledged to multiple lenders. One lawyer said he discovered that the same pile of steel was used to secure loans from 10 different lenders.
+With the mainland facing its slowest growth in more than a quarter of a century, defaults are mounting as borrowers struggle to repay loans. The danger of fraudulent collateral in this situation, say economists, is that it exacerbates the problem of bad debt for China's banks, increasing the risk of financial turmoil.
+As growth slows, lenders can expect more nasty surprises, said Xin Qingquan, professor of accounting at Chongqing University. More instances of fake collateral will arise, he said.
+On May 24, Moody's Investors Service downgraded China's credit ratings for the first time in almost three decades. The ratings agency said it expects the financial strength of the economy will erode in the coming years as economic growth slows and debt continues to rise.
+The 2008 global financial crisis showed how the combination of lax lending standards and overvalued collateral can lead to disaster. The catalyst for that meltdown was the collapse in the value of housing in the United States that served as security for a mountain of highly leveraged lending, the so-called subprime mortgages.
+Now, banks in the world's second-biggest economy face their own collateral risks. Fraudulent borrowers, corrupt bankers, poor risk assessment and a weak legal system are conspiring to load China's financial system with loans lacking genuine collateral.
+A Reuters review of dozens of court cases involving collateralised loans and interviews with lawyers, regulators and 30 bankers in China reveal that fraudulent collateral - in the form of buildings, private apartments, copper and steel - is haunting loans across a wide swath of business and industry.
+The bankers interviewed by Reuters said they had encountered multiple methods by which loans were fraudulently secured, including the use of fake land certificates and bogus warehouse receipts. Most of the bankers said that kickbacks were prevalent, with loan officers turning a blind eye to the quality of collateral and knowingly accepting dubious and even fraudulent documents. Two of the bankers said they themselves had taken bribes to smooth the approval of loans.
+Overall, 23 of the 30 bankers described the existence of ghost collateral as a serious problem and expected more instances to emerge as the Chinese economy slows. The bankers interviewed come from 13 banks in China, including some of the nation's biggest lenders.
+There are no official statistics or estimates of the problem. But fraudulent collateral is "a huge issue," said Violet Ho, senior managing director and co-head of Greater China Investigations and Disputes Practice at Kroll, which conducts corporate investigations on the mainland. "Often you also see that the paperwork around collateral may be dodgy, and the bank loan officer knows, the intermediary knows, and the goods owner knows - so it's essentially a Ponzi scheme."
+Even when banks resort to the courts, there's no guarantee they'll get their money back. Inadequate legal protections for collateral and the complexity of some borrowers' business dealings can make it difficult for lenders to foreclose.
+That's what happened to CITIC after it made the $US2.71 million loan to Hanning Steel. When Hanning defaulted, CITIC won a court order freezing the collateral, after which the parties entered into mediation, lawyer Wang Chaoyu said. But the collateral is still missing.
+In response to questions from Reuters, CITIC said that the case was still being enforced in the courts and that it had since strengthened its risk management procedures. Representatives of Hanning did not respond to questions. When Reuters visited Hanning's registered Shanghai address, there was no sign of a company office there.
+Total debt in China rose to 277 per cent of gross domestic product at the end of 2016, according to Swiss bank UBS. That's a record and almost twice the figure eight years ago.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Beijing DHH Law Firm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hanning Steel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's CITIC</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Greater China Investigations</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hanning</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai Hanning Iron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wang</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kroll</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>8</count>
+    <score>-14</score>
+  </sindex>
+  <sindex>
+    <name>Steel Co Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chongqing University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Disputes Practice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Violet Ho</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>CITIC</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ponzi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wang Chaoyu</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.71</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moody's Investor Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xin Qingquan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

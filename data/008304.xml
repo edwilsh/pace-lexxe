@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411339180581912</docid>
+  <date>02/08/2017</date>
+  <time>02:32</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/iranian-hackers-used-honey-pot-bait/news-story/b65f7af0bdfaa0f81bf0127236d6e023</url>
+  <title>Iranian hackers used 'honey pot' bait</title>
+  <content>
+Hackers believed to be working for the Iranian government have impersonated a young female photographer on social media for more than a year, luring men working in industries strategically important to Tehran's regional adversaries, according to research published last week.
+The so-called Mia Ash persona has been active on sites including LinkedIn, Facebook, WhatsApp and Blogger since at least April 2016, researchers at Dell SecureWorks said.
+The campaign showed that Iran engaged in a social engineering plot to ensnare its targets with a "honey pot", a classic espionage trap often involving seduction, more commonly used by criminal hackers.
+Dell SecureWorks observed Mia Ash sending specific malware, concealed as a "photography survey" with an attachment, to a victim that matched malware sent by Iranian hacking group Cobalt Gypsy during an unsuccessful "spearphishing" email attempt to the same victim's employer in January.
+The malware, known as PupyRAT, would give an attacker complete control of a compromised computer and access to network credentials, suggesting government espionage. The researchers did not have visibility into how many targets were compromised or what Mia Ash sought to gain with the access.
+The fake profile used publicly available social media images of a real photographer based in eastern Europe to create an identity of an attractive woman in her mid-twenties who lived in London and enjoyed travel, soccer, and popular musicians including Ed Sheeran and Ellie Goulding, Dell SecureWorks said. Her social media biographies appeared to lift details from a New York photographer's LinkedIn profile.
+Dell SecureWorks said it had high confidence Mia Ash was created and operated by the Iranian hacking group known as Cobalt Gypsy.
+Iranian officials did not immediately respond to requests for comment.
+Mia Ash primarily lured middle-aged men who worked as technicians and engineers at oil and gas, aerospace and telecommunications firms in the Middle East that had been previously targeted by the same group. Those include Saudi Arabia and Israel in addition to India and the United States.
+Mia Ash's victims failed to notice that none of her profiles included a way to contact her for photography services, according to Allison Wikoff, a senior security researcher at Dell SecureWorks who tracked Mia Ash's activity.
+"These guys aren't hiring her for photography," Wikoff said. "Their main thing is, 'Wow, she's young, she's cute, she likes to travel, she's whimsical'."
+LinkedIn removed the fake Mia Ash profile before Dell SecureWorks finished its research, Wikoff said.
+Facebook, where Mia Ash listed her relationship status as "it's complicated," took down the profile last week after being contacted by Dell SecureWorks.
+Cobalt Gypsy, also known as OilRig, previously has been accused of operating a network of fake LinkedIn profiles to pose as recruiters at major companies, including Northrop Grumman Corp and General Motors, but the Mia Ash persona showed an elevated level of persistence, Wikoff said.
+Western security officials for years have considered Iran to be among the most sophisticated nation-state cyber adversaries, along with Russia, China and North Korea.
+Another report released last week by researchers at Tokyo-based Trend Micro and ClearSky of Israel described efforts to impersonate major technology brands including Twitter and Microsoft by another hacking group widely suspected of having links to Iran.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tehran</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Israel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dell SecureWorks</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mia Ash</name>
+    <count>10</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Middle East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ed Sheeran</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Arabia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ellie Goulding</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wow</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wikoff</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Allison Wikoff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northrop Grumman Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Motors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PupyRAT</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cobalt Gypsy</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>OilRig</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ClearSky of Israel</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>LinkedIn</name>
+    <count>4</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo-based Trend Micro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iranian</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

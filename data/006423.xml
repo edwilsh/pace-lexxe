@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409440805003301</docid>
+  <date>01/08/2017</date>
+  <time>19:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/us-secretary-of-state-rex-tillerson-to-north-korea-we-are-not-your-enemy/news-story/fed4c6bbb66f4a5cba11176ae4cb60b0</url>
+  <title>US to N Korea: 'We are not your enemy'</title>
+  <content>
+The United States does not seek to topple the government of North Korea and would like to have a dialogue with Pyongyang at some point, Secretary of State Rex Tillerson said.
+"We do not seek a regime change, we do not seek a collapse of the regime, we do not seek an accelerated reunification of the peninsula, we do not seek an excuse to send our military north of the 38th Parallel," Sec. Tillerson told reporters at the State Department.
+"We are not your enemy ... but you are presenting an unacceptable threat to us, and we have to respond. And we hope that at some point they will begin to understand that and we would like to sit and have a dialogue with them."
+It comes a day after US President Donald Trump told reporters at his second full Cabinet meeting that he would handle North Korea.
+"We will handle North Korea. We are gonna be able to handle them. It will be handled. We handle everything," Mr Trump said on Monday.
+North Korea, for the second time in a month, tested an intercontinental ballistic missile on Friday.
+Mr Trump responded to the test by ripping China's leadership on Twitter.
+"I am very disappointed in China," Mr Trump wrote over two Twitter messages. " ... they do nothing for us with North Korea, just talk. We will no longer allow this to continue. China could easily solve this problem!"
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SEC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>N. Korea</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>State Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

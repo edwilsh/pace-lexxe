@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434690918146360</docid>
+  <date>05/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/un-council-bans-key-n-korea-exports/news-story/df5f1497006f7a614abb5281f3c8d063</url>
+  <title>UN council bans key N. Korea exports</title>
+  <content>
+The United Nations Security Council has unanimously imposed new sanctions on North Korea over its two July intercontinental ballistic missile tests.
+The US-drafted resolution bans North Korean exports of coal, iron, iron ore, lead, lead ore and seafood.
+It also prohibits countries from increasing the current numbers of North Korean labourers working abroad, bans new joint ventures with North Korea and any new investment in current joint ventures.
+"We should not fool ourselves into thinking we have solved the problem. Not even close. The North Korean threat has not left us, it is rapidly growing more dangerous," US ambassador to the United Nations Nikki Haley told the council.
+"Further action is required. The United States is taking and will continue to take prudent defensive measures to protect ourselves and our allies," she said, adding that Washington would continue annual joint military exercises with South Korea.
+North Korea has accused the US and South Korea of escalating tensions by conducting military drills.
+North Korean ally China and Russia both slammed the US deployment of the THAAD anti-missile defence system in South Korea. China called for a halt to the deployment and for any equipment already in place to be dismantled.
+"The deployment of the THAAD system will not bring a solution to the issue of (North Korea's) nuclear testing and missile launches," China's UN ambassador Liu Jieyi told the Security Council after the vote.
+Liu also urged North Korea to "cease taking actions that might further escalate tensions".
+Russia's UN ambassador Vassily Nebenzia said sanctions should be used as a tool for engaging Pyongyang in talks and that creative new approaches were needed to address the issue.
+He said he hoped recent remarks by US Secretary of State Rex Tillerson "were sincere - that the US is not seeking to dismantle the existing (North Korea) situation or to forcibly unite the peninsula or to militarily intervene in the country".
+The Security Council has been divided on how to deal with other international crises like Syria, but the 15-member body has remained relatively united on North Korea.
+The resolution adds nine individuals and four entities to the UN blacklist, including North Korea's primary foreign exchange bank, subjecting them to a global asset freeze and travel ban.
+The US negotiated with China for a month on the latest resolution, before expanding negotiations to the full 15-member council on Friday.
+US President Donald Trump's administration has been frustrated that China has not done more to rein in North Korea. Washington has threatened to exert trade pressure on Beijing and impose sanctions on Chinese firms doing business with Pyongyang.
+Haley on Saturday thanked China for its "important contributions" to the resolution.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Liu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>9</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US Secretary of State</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liu Jieyi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vassily Nebenzia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Haley</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>N. Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia's UN</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US-drafted</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Nikki Haley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>THAAD</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Security Council</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Security Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

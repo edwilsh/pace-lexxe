@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432199837091470</docid>
+  <date>05/08/2017</date>
+  <time>11:29</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/national/search-and-rescue-operation-under-way-off-queensland-coast-after/news-story/a316019f092507cf19221ff8e787ba54</url>
+  <title>Search and rescue for US military aircraft</title>
+  <content>
+A SEARCH and rescue operation is reportedly under way off the coast after a 'mishap' involving a US Marine Corps aircraft.
+CNN Pentagon correspondent Barbara Starr has tonight tweeted that the Marine Corps has announced a search and rescue operation after a MV-22 "mishap", with small boats and warships involved in the search.
+CNN More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marine Corps</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barbara Starr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corps</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CNN More</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CNN Pentagon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

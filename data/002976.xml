@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402822260278240</docid>
+  <date>31/07/2017</date>
+  <time>17:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/01/03/22/us-diplomats-locked-out-of-russia-sites</url>
+  <title>US diplomats locked out of Russia sites</title>
+  <content>
+The US embassy in Moscow is accusing Russian authorities of barring diplomatic staff from a property on the outskirts of Moscow, after having earlier granted access for them to retrieve belongings.
+The Russian foreign ministry did not immediately respond to requests for comment.
+Staff on Monday said they had been given until midday on Tuesday to clear the building out.
+The property, in a picturesque spot on a bend in the Moskva river north-west of the Russian capital, is leased by the US embassy for its staff to use for recreation.
+Moscow has said it is taking it back as part of retaliatory measures after Washington approved a fresh round of sanctions against Russia.
+A Reuters TV cameraman outside the country residence, known in Russian as a dacha, saw five vehicles with diplomatic license plates, including a truck, arrive at the site. He said they were denied entry.
+An embassy spokeswoman said: "In line with the Russian government notification, the US Mission to Russia was supposed to have access to our dacha until noon on August 1.
+
+Related Articles
+
+"We have not had access all day today or yesterday," she said. "We refer you to the Russian government to explain why not."
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Mission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moskva</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

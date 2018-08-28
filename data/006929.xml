@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410381402859042</docid>
+  <date>01/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/perths-coldest-morning-of-the-year/news-story/a6f603134f40c42f806f83d05b6738b1</url>
+  <title>Cold and frosty morning in Perth</title>
+  <content>
+YOU'RE entitled to be feeling the chill - it's the coldest morning of the year so far in Perth.
+The Bureau of Meteorology's data shows that Perth's official minimum has fallen to 1.8C, on Wednesday morning, below the 1.9C recorded in June.
+It's almost a year to the day since Perth's previous coldest day - August 1 2016.
+But there are parts of the metropolitan area that are feeling the cold pinch even more.
+Jandakot and Perth Airport have recorded lows of 1C, while further out it was below freezing in Dwellingup and Gingin, touching -0.4C.
+Further south, it dropped to 0.6C at Collie and 0.9C at Wandering, while in the Goldfields, it was 0.4C at Leanora and 0.9 at Norseman.
+But the coldest place in WA this morning is the Wheatbelt town of Cunderdin, which fell to -0.9 at 5.27am.
+It will be mostly clear and sunny in Perth on Wednesday but the forecast maximum is just 16C but the rain returns on Thursday and it is set to persist through the weekend.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gingin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Jandakot</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1, 2016</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wheatbelt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Collie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dwellingup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Norseman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leanora</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cunderdin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldfields</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

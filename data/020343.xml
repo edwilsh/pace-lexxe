@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438401769922209</docid>
+  <date>06/08/2017</date>
+  <time>11:33</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/06/typhoon-noru-kills-two-draws-near-japan</url>
+  <title>Typhoon Noru kills two, draws near Japan</title>
+  <content>
+Strong typhoon Noru brought heavy rain and strong winds to southwest Japan, killing two people, local officials said Sunday as they warned of landslides and floods.
+
+3 HOURS AGO  UPDATED 1 HOUR AGO
+
+A man in his 60s on the remote island of Yakushima died Saturday after strong gusts made him fall hard and hit his head, the Fire and Disaster Management Agency said.
+
+A man in his 80s on neighbouring Tanegashima island drowned Saturday after he went to check on his boat and was swept into the water, according to the agency and the Kagoshima prefecture government.
+
+As of 3:00 pm (0600 GMT) Sunday, Noru was located just off the main southern island of Kyushu, according to the Japan Meteorological Agency.
+
+Noru, with gusts up to 162 kilometres (100 miles) per hour, was slowly moving northeast and was on course to make landfall in southwest Japan, possibly at Shikoku island, by early Monday.
+
+The agency warned of possible landslides, floods, heavy rain, strong winds and high waves in the southwest.
+
+"Because the typhoon is moving very slowly, some areas are facing increased risk of landslides and other disasters," it said.
+
+MORE NEWS:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kyushu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Disaster Management Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Noru</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shikoku</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yakushima</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Japan Meteorological Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kagoshima</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tanegashima</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Typhoon Noru</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 1 HOUR AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GMT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

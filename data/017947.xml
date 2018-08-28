@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430099598066085</docid>
+  <date>05/08/2017</date>
+  <time>03:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/bma-miner-seriously-injured-at-site-investigation-/3209112/</url>
+  <title>BMA miner seriously injured at site; investigation under way</title>
+  <content>
+UPDATE 11.30am: A BMA worker has been seriously injured at the Goonyella Riverside mine site on Saturday morning.
+
+He is a husband and father of a 11-month-old baby boy and believed to be in surgery currently.
+
+A BMA spokesman confirmed the incident.
+
+Queensland Ambulance Service was called to the site about 1am on Saturday.
+
+The 31-year-old man is believed to have sustained a head injury.
+
+"BHP Billiton Mitsubishi Alliance (BMA) confirms that an incident occurred at Goonyellla Riverside Mine today, which resulted in a serious injury to one of our people," the spokesman said.
+
+"Our highest priority at this stage is for the care of the individual involved in the incident.
+
+"BMA is working closely with the relevant authorities on this incident."
+
+The Daily Mercury understands that workers turning up for their shifts this morning didn't get past the gate, and were sent back to camp.
+
+The injured worker was transported to Mackay Base Hospital.
+
+Goonyella Riverside is an open cut mine that's about 30km north of Moranbah.
+
+Mining began at Riverside in 1982.
+
+INITIAL: A man is in a serious condition at the Mackay Base Hospital after sustaining a head injury at Goonyella Mine, Moranbah.
+
+Queensland Ambulance was called to the scene at 1:05am on Saturday morning.
+
+It was suggested that he was hit in the head with an object.
+
+The man will later be transported to Townsville Hospital.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMA</name>
+    <count>5</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Townsville Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BHP Billiton Mitsubishi Alliance</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Riverside</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moranbah</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goonyella Mine</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Goonyellla Riverside Mine</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Daily Mercury</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Goonyella Riverside</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mackay Base Hospital</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

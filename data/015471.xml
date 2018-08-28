@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423695801726164</docid>
+  <date>04/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/stocks-to-watch/news-story/14b37fcd21f0e9316ea212e61089a09f</url>
+  <title>Stocks to watch</title>
+  <content>
+Stocks to watch on the Australian stock exchange:
+A2M - A2 MILK COMPANY - up 14.5 cents, or 3.4 per cent, at $4.375
+The a2 Milk Company has had its application to sell its infant formula products in China accepted for review and is confident the registration will go ahead as planned.
+CBA - COMMONWEALTH BANK OF AUSTRALIA - down $2.44, or 2.9 per cent, at $81.53
+Commonwealth Bank says it would never take any action that enables crime, after being accused of more than 53,000 breaches of laws put in place to combat money laundering and terrorism financing.
+CWN - CROWN RESORTS - up 5 cents, or 0.4 per cent, at $12.82
+Casinos operator Crown Resorts has booked a 96.7 per cent lift in annual profit to $1.9 billion, but stripping out significant items and other variables, net profit was down 15.5 per cent to $343.1 million.
+TAH - TABCORP HOLDINGS - up 5.5 cents, or 1.3 per cent, at $4.345
+TTS - TATTS GROUP - down 1 cent, or 0.25 per cent, at $4.04
+Tabcorp has slipped to a full-year net loss of $20.8 million on the back of costs related to its proposed merger with Tatts, legal battles and its new UK business.
+WEB - WEBJET - up $1.54762, or 14.14 per cent, at $12.49
+Online travel agency Webjet has raised about $93 million from the institutional stage of its capital raising.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>TAH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TTs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tatts Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crown Resorts</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tatt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Milk Company</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CWN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

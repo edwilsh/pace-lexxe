@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411450849733320</docid>
+  <date>02/08/2017</date>
+  <time>02:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/12/44/woman-mauled-to-death-by-dog</url>
+  <title>Dog kills WA woman</title>
+  <content>
+A woman has died after being mauled by a dog in Western Australia.
+The woman, aged in her 50s, was attacked by a dog at a canine boarding kennel in Southern River about 1.30pm on Tuesday.
+She received life threatening injuries and was declared dead by paramedics at the scene.
+The dog has been seized by City of Gosnells rangers. 
+West Australian Police said the death is not being treated as suspicious. 
+"A report will be prepared for the Coroner," a police spokesperson told nine.com.au.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>West Australian Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

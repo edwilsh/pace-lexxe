@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407551019353516</docid>
+  <date>01/08/2017</date>
+  <time>11:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/bank-of-england-strike-first-in-50-years/news-story/ba97797815aedbb146decbde7cb231a0</url>
+  <title>Bank of England strike first in 50 years</title>
+  <content>
+Striking employees at the Bank of England have donned comical masks depicting Governor Mark Carney while picketing outside the institution demanding better pay.
+The three-day strike - the central bank's first in over 50 years - comes after workers failed to reach a deal that would allow them to keep pace with inflation, which is now at 2.6 per cent.
+Some 40 workers, including maintenance and security workers, carried signs on Tuesday reading "Bank of England staff want fair pay" as they paced outside the building.
+An official with the union, Unite, Peter Kavanagh, said the workers had "been left with no choice but to take industrial action".
+The bank says the number of strikers is small and it will "continue to operate as normal during this period".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bank of England</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Peter Kavanagh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Governor Mark Carney</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

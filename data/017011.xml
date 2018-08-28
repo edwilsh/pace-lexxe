@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427479667981368</docid>
+  <date>04/08/2017</date>
+  <time>17:10</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/teens-pilot-die-in-swiss-youth-camp-crash/news-story/2aa0e422b6f93203fe4896f0bbb8e569</url>
+  <title>Teens, pilot die in Swiss youth camp crash</title>
+  <content>
+Reuters
+
+Share
+
+Two 14-year-old boys and a pilot have died when their single-engine plane crashed into a Swiss mountain during a summer camp flight for young aviation enthusiasts.
+A 17-year-old female camper was badly hurt in the crash on Friday in the eastern canton of the Grisons. The cause was still under investigation.
+"When I heard about the terrible accident this morning my world was shattered," camp director Yves Burkhardt told reporters, adding the sightseeing flight at week's end was supposed to be a highlight for nearly 200 young people at the holiday camp that had operated without incident for 35 years.
+Authorities said the four-seat Piper aircraft, on its second flight of the day and under the control of an experienced pilot, crashed in the Diavolezza region around 10 minutes after take-off.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Piper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grisons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Diavolezza</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yves Burkhardt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

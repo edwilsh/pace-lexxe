@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400545927565681</docid>
+  <date>31/07/2017</date>
+  <time>08:39</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/telstra-wont-cop-blame-from-nbn-co-ceo-over-price-war-469766</url>
+  <title>Telstra won't cop blame from NBN Co CEO over price war</title>
+  <content>
+Telstra has expressed surprise after being singled out for criticism by NBN Co CEO Bill Morrow for allegedly being the instigator of a retail price war on NBN services.
+
+Morrow used a position paper to today call out Telstra for , forcing other ISPs to follow suit.
+
+He argued that the retail price pressure was forcing ISPs to "cut corners" on broadband quality by purchasing too little bandwidth from NBN Co to guarantee performance and speed.
+
+"Historically, Telstra is the price setter. Over the last 6 months, they have reduced their retail price by over 20 percent on the most popular 25Mbps product," Morrow said.
+
+"As a result, we have seen their market share jump over 2 percentage points to now be over 50 percent from 12 months ago.
+
+"Others have had to follow on price reductions to remain competitive."
+
+However, a Telstra spokesperson expressed surprise at the figures and sentiment.
+
+"We set our fixed broadband services apart based on network quality, service and included extras like Telstra TV and Telstra Air wi-fi data that Australians won't find anywhere else - as well as value for money," the spokesperson said.
+
+"We want our customers to have the best possible network experience on the NBN and we're careful to purchase the right level of bandwidth to support speeds."
+
+The spokesperson declined to comment on the specific retail price reduction claims made by Morrow.
+
+The allegations come after a fortnight of attacks on NBN Co from all sides over its network performance and future ability to serve the internet needs of Australians.
+
+NBN Co has found itself under sustained pressure to drop the price of its connectivity virtual circuit (CVC) charge further, particularly to make
+
+However, Morrow warned today that more cuts to CVC charges were unlikely as they would endanger NBN Co's
+
+NBN Co has also not endeared itself to industry after revealing it wants enterprise internet services subjected to the proposed broadband tax,
+
+The senate is set to hand down its findings on the broadband tax in its current form by early next week; the tax's passage through the senate is not yet assured, particularly as most of the internet industry no longer supports the tax due to its scope creep.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Telstra TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co CEO</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Telstra Air</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>5</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co CEO Bill Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

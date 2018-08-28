@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437267898545792</docid>
+  <date>06/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/facts-about-the-osprey/news-story/bb513e833ca4e063e08b298ed176084a</url>
+  <title>Facts about the Osprey</title>
+  <content>
+FACTS ABOUT THE MV-22 OSPREY:
+* Built by Boeing Co and Textron Inc's Bell Helicopter
+* called a tilt-rotor aircraft
+* can take off vertically like a helicopter and land on the decks of ships but has has two propellers that allow it to fly like a plane
+* during its testing phase between 1991 and 2000, there have been 30 fatalities, including that of 23 Marines during flight testing in 2000
+* since becoming operational in 2007, there have been five crashes
+* Dick Cheney reported trying to cancel the development of the aircraft four times as Secretary of Defence
+* each unit costs an estimated $72 million
+* was branded "a flying shame" by Time Magazine upon its launch due to concerns it was unsafe and could not shoot straight
+RECENT INCIDENTS INVOLVING THE OSPREY:
+JANUARY 2017 - three US soldiers are hurt in the "hard landing" of an Osprey in Yemen
+DECEMBER 2016 - US grounds its Osprey fleet in Japan after one aircraft ditched in the sea, injuring its crew of five when a hose connected to the aircraft broke during a refuelling exercise
+2015 - a US Osprey crashes during a training exercise in Hawaii, killing two marines.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yemen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secretary of Defense</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Osprey</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Time Magazine</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>December 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Textron Inc's Bell Helicopter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawaii</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>INCIDENTS INVOLVING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2017</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dick Cheney</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ospreys</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

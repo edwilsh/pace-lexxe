@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423609902378333</docid>
+  <date>04/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/finance-wants-to-automate-its-shared-services-hub-469965</url>
+  <title>Finance wants to automate its shared services hub</title>
+  <content>
+The Department of Finance will begin rolling out robotic process automation in its new shared services hub later this year to drive down the cost of delivering corporate services.
+
+The service delivery office (SDO) was created when the core transaction services responsibilities of the education portfolio's shared services centre  last year.
+
+It is one of six hubs that have been established across the Australian public service to consolidate core transactional corporate services - finance and HR - and back-office systems of 60 agencies.
+
+However, the SDO is struggling with the high cost of providing the transactional services because of "the resourcing needed to deliver the services in a manual, non-standardised environment", and is failing to meet the service expectations of the agencies it serves.
+
+These are the same operational efficiency issues faced by the former shared services centre when it was stripped of its core transaction responsibilities.
+
+But Finance is hoping to change that by embedding a "sustainable and scalable robotic process automation capability" to transform the way the office delivers services.
+
+It expects this will improve efficiency by up to 25 percent by June 2018 through a combination of "process standardisation, process automation and undertaking the requisite organisation changes to embed a sustainable and scalable RPA capability in the SDO operating model," according to a  posed on the Digital Marketplace.
+
+It is looking for a supplier to examine the office's core business processes and optimise, re-engineer and automate these where it deems fit "to realise improvements and harvest benefits", as well as work with the office to "establish an internal robot development".
+
+The department want suppliers to outline their experience working with RPA software such as Automation Anywhere, Blue Prism, and UiPath.
+
+Finance has already undertaken a proof of concept on four of the SDO's business processes, which it said resulted in a 10 percent reduction in the time taken to compete tasks.
+
+The chosen RPA software will be installed in the SAP Hana Enterprise Cloud or on-premise. It will need to support SAP and selected third party additions, Windows desktop environment, Office applications, and have the ability to interact with databases and image recognition.
+
+The department expects to award a contract in September and begin automating processes by the end of the year.
+
+Finance is also preparing to introduce a dedicate  for the use of the shared service hubs and reduce the more than 200 ERP systems that are currently in use across the public sector. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>HR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Department of Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Marketplace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAPS</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SDO</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>RPA</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Uipath</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Automation Anywhere</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ERP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Blue Prism</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAP Hana Enterprise Cloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

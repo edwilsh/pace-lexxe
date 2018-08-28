@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427621401904712</docid>
+  <date>04/08/2017</date>
+  <time>17:43</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/03/32/victoria-bracing-for-a-cold-wild-weekend</url>
+  <title>Victoria bracing for a cold, wild weekend</title>
+  <content>
+Victoria is bracing for wild winds, rain and freezing temperatures with a severe weather warning in place for parts of the state.
+A strong cold front will move over western Victoria in the early evening on Saturday, which will then cross the state during the night and into Sunday morning, the Bureau of Meteorology says.
+Gusts up to 90 km/h are possible over the far southwest on Saturday afternoon, moving through to Melbourne's bayside suburbs during the night.
+There will be blizzards in alpine areas with up to a metre of snow expected and winds of up to 110km/h for much of the weekend.
+People heading to alpine areas are being advised to listen to emergency broadcasts and check the VicRoads website for possible road closures.
+The front will also send temperatures plummeting across the state with a sheep graziers warning in place.
+The State Emergency Service is warning people to move vehicles under cover or away from trees and secure loose items around houses.
+
+Related Articles
+
+Melbourne can expect a showery top of 14 degrees on Saturday with an overnight of 7C.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VicRoads</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

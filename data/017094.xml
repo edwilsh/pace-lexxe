@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428076668445124</docid>
+  <date>04/08/2017</date>
+  <time>19:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/05/19/house-destroyed-by-fire-in-port-arthur</url>
+  <title>House destroyed by fire in Port Arthur</title>
+  <content>
+Fire has ripped through a house in Tasmania's Port Arthur, completely gutting the property.
+The fire broke out just after 6pm on Friday at a home on Nubeena Road.
+The residents, who were not home at the time, returned in time to rescue their dog and save their vehicles by moving them away from the scene.
+The damage was estimated at $250,000.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nubeena Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania's Port Arthur</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Arthur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

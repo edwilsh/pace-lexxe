@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445127688796065</docid>
+  <date>07/08/2017</date>
+  <time>13:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/financial-services/cba-fine-could-range-from-zero-to-billions-20170807-gxqnsb</url>
+  <title>CBA fine could range from zero to quite a lot of zeros</title>
+  <content>
+Commonwealth Bank's inability to comply with will see the bank face penalties ranging from a stern reprimand to more than double the bank's full-year cash profits.
+As the bank seeks to  of the Anti-Money Laundering and Counter-Terrorism Financing Act of 2006 as a single breach of the act - and therefore liable for only one penalty unit of $18 million - one analyst said a fine could be as high as $22 billion.
+CLSA analyst Brian Johnson sought to quantify the potential fine in a note to clients on Sunday where he said the fines could range from massive to inconsequential. Mr Johnson noted that there was a propensity for Australian regulators to avoid penalising institutions heavily.
+At the other end of the scale would be a strict interpretation of the maximum penalty - which would see the bank receive an  - an outcome most people have ruled out. The middle ground lies in precedents set by the landmark Tabcorp settlement from March of this year.
+
+for 108 breaches of the same act. Based on this example, each breach attracted a fine of $417,000 which could see the bank exposed to a $22 billion penalty. Mr Johnson, however, said that may not be the end of the matter.
+
+"The problem is that many of these transactions identified by AUSTRAC saw funds remitted outside of Australia which could leave CBA vulnerable to fines in those domiciles where penalties for bank misbehaviour have been much bigger than in Australia," Mr Johnson said.
+Over the last five years a number of international banks have been handed multibillion-dollar fines for anti-money laundering breaches including an $US8.9 billion fine paid by BNP Paribas in 2014, a $US2 billion fine paid by JP Morgan Chase and a $US1.9 billion fine paid by HSBC in 2012.
+Morgan Stanley analyst Richard Wiles also noted the size of penalties paid by banks in foreign jurisdictions, saying since 2009 European banks covered by the firm had received $US17 billion in fines for breaching US sanctions and anti-money laundering efforts.
+Morgan Stanley's Mr Wiles said the range of any potential penalties given were difficult to predict but nevertheless narrower than some others. By his calculations a fine anywhere between $50 million and $2.5 billion was possible.
+
+His lower figure of $72 million is arrived at by multiplying the number of times the bank breached section 41 of the Anti-Money Laundering and Counter-Terrorism Financing Act. A fine of this size would correspond with the fine handed to Tabcorp which breached the same section 72 times.
+The fine, however, would be much larger if the regulator sought to impose a penalty of similar magnitude to the one worn by Tabcorp. Tabcorp's $45 million fine was equivalent to 18 per cent of its forecast full-year profit - a similar fine imposed against Commonwealth Bank would be $2.5 billion.
+"The top end of this range equates to 1.7 per cent of market cap, 18 per cent of FY18 earnings or 55 basis points of CET1 capital on a pre-tax basis" he said in a note to clients.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$1.9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brian Johnson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>BNP Paribas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>CLSA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Johnson</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CET1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp's $45</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>3</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley's Mr Wiles</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Wiles</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US8.9</name>
+    <count>1</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>JP Morgan Chase</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US 17</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

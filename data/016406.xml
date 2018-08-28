@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425117435922929</docid>
+  <date>04/08/2017</date>
+  <time>08:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/cba-should-have-known-atms-might-have-bugs-20170804-gxpayl</url>
+  <title>CBA should have known the ATMs might have bugs</title>
+  <content>
+My father, a software developer, used to tell me that you can never make a system foolproof, because fools are too ingenious.
+The same might be said of the bugs that seem to be plaguing the CBA's ATMs.
+It's not hard to believe that the ATMs caught up in the might have had bugs in their software that affected their ability to report suspicious transactions, or transactions over $10,000.
+Even with the most thorough, modern development techniques, software has bugs. In fact, modern software techniques almost guarantee that software will have bugs.
+
+, wouldn't have known that their ATM software (or indeed any software anywhere in their system) could have had bugs, and taken steps to ensure that they were discovered, if not at the time they occurred, then at least over the course of time.
+
+Modern software is not the product of a single coder who can be solely responsible for its reliability. It's not even the product of a single organisation. Software developers don't reinvent the wheel every time they want to build something new. They invent as little as they must, and cobble the rest together from parts that are themselves built using that same method.
+Typically, software is built from layer upon layer of applications, application frameworks and software libraries, where each layer calls upon functions supplied by a lower layer, to achieve a new task. These lower layers, in turn, call upon even lower layers, and so on and so forth until your software has a dependency tree that has roots and branches that extend well beyond the walls of your organisation and out into the wide, messy world.
+Not only can any of these dependencies have bugs in them, but the interaction of the dependencies with each other can cause bugs.
+Software bugs are so much a part of life that developers can spend more time writing tests to catch errors in their code than they do writing actual code. But even the holy grail of software testing, what's known as "100 per cent test coverage" - where every every line of code, every function, every conceivable interaction between functions, and every conceivable use-case is tested and error free - can't guarantee bug-free code.
+
+It's not hard to know this. It's not hard to anticipate that your ATMs are going to have bugs in them, and test for it.
+A couple of lines in an Excel spreadsheet could do it: show me all the ATMs in my network that have reported an improbably low number of transactions in the past 12 months, where the value was greater than or equal to $10,000.
+Who knows? Maybe CBA officials did this. Maybe Excel had a bug in it that day, too.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ATMs</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA ATMs</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

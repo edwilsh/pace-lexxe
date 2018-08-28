@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403449325514181</docid>
+  <date>31/07/2017</date>
+  <time>19:55</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/an-australian-lawyer-rejected-by-amazon-just-raised-9-million-for-his-startup-2017-8</url>
+  <title>An Australian lawyer, rejected by Amazon, just raised $9 million for his startup</title>
+  <content>
+Australian startup A Cloud Guru, well-known to software engineers who use Amazon cloud infrastructure, has completed a $8.84 million series A round.
+
+The business is the brainchild of Australian expat Ryan Kroonenberg following a successful legal career in the United Kingdom, and his brother Sam.
+
+"I was based in London during the GFC in 2008 and the particular area of law I was in was to help people get to Australia," Ryan told Business Insider.
+
+"My whole industry went dead overnight."
+
+With a wife and two young children living in a "tiny" two-bedroom flat in London, Ryan couldn't stay out of work for long and decided, with no formal qualifications, to change careers to technology.
+
+"I really wanted a job with Amazon that - I saw that as being the safest bet," he said.
+
+"So I became obsessed with becoming AWS (Amazon Web Services)-certified."
+
+He didn't get the job with Amazon, but saw how expensive Amazon Web Services training was and thought it could be an opportunity to set up his online training.
+
+He enlisted the help from his brother Sam, who did have formal technical training and was already a successful software engineer who had worked for Microsoft, to create an online platform that delivered cheap, to-the-point AWS training.
+
+Fast forward to 2017, and their startup, A Cloud Guru, has trained more than 250,000 students in 160 countries through courses costing as little as $US15.
+
+Their client base includes corporate customers such as Xero, Expedia and US bank Capital One.
+
+Their success convinced Boston-based Elephant Venture Capital to give the Melbourne brothers $8.84 million this week as the startup's first institutional investment round.
+
+"They're destroying the existing technical training paradigm. It's amazing that they've figured out how to profitably deliver training of this calibre at a price that's accessible to everyone, and we look forward to helping them reach their millionth customer," said Elephant Venture Capital founder Andy Hunt.
+
+The money will be used to beef up headcount in marketing, B2B sales and product development, as well as branch out from AWS. Courses for Google Cloud and Microsoft Azure are expected to be offered in the future.
+
+Ryan told Business Insider that the company has such a reputation that it now trains "thousands" of AWS employees each year.
+
+"[A Cloud Guru] is the best place to learn cloud computing at the price of a movie ticket. I don't think anyone should spend thousands of dollars to learn."
+
+A Cloud Guru is headquartered in London, with offices in Melbourne, Washington DC and Austin. Sam has previously worked for Microsoft, developing products such as Disk Defragmenter for Windows Vista SP1 and Windows 7 and FAST Search.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Andy Hunt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Windows Vista SP1</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ryan</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft's Azure</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Capital One</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Kingdom</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington DC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Disk Defragmenter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sam</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Elephant Venture Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan Kroonenberg</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Cloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windows 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Web Services</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Austin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Expedia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cloud Guru</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>B2B</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AWS</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FAST Search</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston-based Elephant Venture Capital</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

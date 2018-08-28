@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441129074182238</docid>
+  <date>06/08/2017</date>
+  <time>22:08</time>
+  <isTopNews>true</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/08/00/olympic-champion-betty-cuthbert-dies-aged-79</url>
+  <title>Olympic champion Betty Cuthbert dies aged 79</title>
+  <content>
+Australian Olympic champion Betty Cuthbert has died aged 79, after suffering multiple sclerosis.
+Sydney-born Cuthbert was 18 years old when she won three gold medals at the 1956 Olympic Games in Melbourne.
+She took home gold for the 100m sprint, 200m sprint, and the 4x100m relay.
+During her career, Cuthbert set new records for the 600m and 200m sprints and the 100-yard, 220-yard and 440-yard dashes.
+Cuthbert went on to win gold in the 400m event at the 1954 Tokyo Olympic Games.
+She was diagnosed with multiple sclerosis in 1974 and battled the disease for many years after retiring from her sporting career.  
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Olympic Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cuthbert</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney-born Cuthbert</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Betty Cuthbert</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Olympic Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Olympic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

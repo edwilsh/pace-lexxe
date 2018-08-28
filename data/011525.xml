@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417730092037300</docid>
+  <date>03/08/2017</date>
+  <time>03:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/adelaide-switches-on-high-speed-internet/news-story/35dc8f5328aeee22ce4767365f51bfdf</url>
+  <title>Adelaide switches on high speed internet</title>
+  <content>
+South Australian businesses will soon have access to ultra-fast internet after the launch of a state government funded network.
+Premier Jay Weatherill says internet speeds will be 100 times faster than the national average thanks to the $7.6 million GigCity Adelaide Network, allowing SA to bring innovative high-tech technologies to global markets.
+Key sites and co-working spaces across the Adelaide CBD will be able to access the network.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide CBD</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>GigCity Adelaide Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Jay Weatherill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

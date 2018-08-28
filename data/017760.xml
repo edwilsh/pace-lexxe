@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428510460148650</docid>
+  <date>04/08/2017</date>
+  <time>21:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/local-business-takes-a-bow/3208971/</url>
+  <title>Local business takes a bow</title>
+  <content>
+THE annual Sunny's Awards took place last weekend at C.ex Coffs Harbour.
+The Coffs Harbour Chamber of Business event brought local business owners together for a night to celebrate the achievements - both individual and collective - of the Coffs Harbour business community.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Coffs Harbour Chamber of Business</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunny's Awards</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

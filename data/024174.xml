@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446931575093060</docid>
+  <date>07/08/2017</date>
+  <time>20:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/06/27/law-makes-qld-a-dumping-ground-minister</url>
+  <title>Law makes Qld a dumping ground: minister</title>
+  <content>
+Queensland's environment minister says the constitution is to blame for the state becoming a dumping ground for waste from other states.
+Steven Miles was responding to an ABC Four Corners program that revealed transport companies last year brought more than 750,000 tonnes of waste into Queensland, which does not charge a waste levy.
+Mr Miles says he's seeking legal advice on the issue and has told the ABC "the constitution is very clear that there is nothing a state government can do to restrain trade between state boundaries."
+"And so there isn't, unfortunately, a mechanism to address that waste coming from other states."
+A large amount is coming from NSW.
+Queensland Premier Annastacia Palaszczuk has promised to raise the issue with her NSW counterpart Gladys Berejiklian.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ABC's Four Corners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gladys Berejiklian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Miles</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Steven Miles</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

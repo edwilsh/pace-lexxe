@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413443714592339</docid>
+  <date>02/08/2017</date>
+  <time>10:42</time>
+  <isTopNews>true</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/02/casualties-taliban-suicide-bomber-attacks-nato-convoy-kandahar</url>
+  <title>Casualties as Taliban suicide bomber attacks NATO convoy in Kandahar</title>
+  <content>
+A Taliban suicide bomber rammed a vehicle filled with explosives into a convoy of foreign forces in Kandahar
+
+10 MINS AGO  UPDATED 9 MINS AGO
+
+A Taliban suicide bomber rammed a vehicle filled with explosives into a convoy of foreign forces in Afghanistan's restive southern province of Kandahar causing casualties Wednesday, officials said.
+
+"At around noon a car bomb targeted a convoy of foreign forces in Daman area of Kandahar," provincial police spokesman Zia Durrani told AFP.
+
+NATO confirmed in a statement that a convoy was attacked and did "cause casualties" but did not immediately give further details.
+
+At least one witness reported seeing three bodies pulled from one of vehicles.
+
+Mohammad Azim, a shopkeeper, told AFP: "I saw a foreign forces vehicle on fire after the attack. A while later helicopters landed in the area, they took three bodies out of the vehicle and flew away. There were three armoured vehicles in the convoy."
+
+The Taliban, who have a heavy presence in poppy-growing Kandahar province and have launched repeated attacks there, quickly claimed the attack by text message to AFP.
+
+The assault is the latest blow to NATO forces, who ended their more than a decade-long combat mission in Afghanistan at the end of 2014.
+
+Since then Afghan troops and police, beset by soaring casualties, have struggled to beat back the resurgent Taliban, while facing the growing menace of the Islamic State group.
+
+The Taliban have been ramping up their campaign against beleaguered government forces, underscoring rising insecurity in the war-torn country during the summer fighting season when the warmer weather tends to spur an increase in militant attacks.
+
+A recent UN report described Kandahar, which lies on the border with Pakistan, as one of the most dangerous places in the country for civilians.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UPDATED 9 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Daman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>6</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Pakistan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>6</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Zia Durrani</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NATO</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mohammad Azim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

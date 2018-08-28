@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439978022934784</docid>
+  <date>06/08/2017</date>
+  <time>17:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/03/32/queensland-police-probe-woman-s-death</url>
+  <title>Queensland police probe woman's death</title>
+  <content>
+An investigation is underway into the death of a woman whose body was found in bushland north of Cooktown, on Queensland's Cape York Peninsula.
+The body found on Sunday is believed to be 42-year-old Donna Louise Steele, who has been missing since August 3.
+Ms Steele was last spotted at a Cooktown supermarket on Wednesday, having been seen the day before at a local caravan park.
+Detectives investigating her disappearance were called to Leggett's Crossing, north of Cooktown, about 5.20am on Sunday, where the body was discovered.
+Police are treating the death as suspicious and a crime scene has been established in the area.
+Investigators have appealed for anyone with any information to come forward.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cooktown</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland's Cape York Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donna Louise Steele</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Steele</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Leggett's Crossing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 3</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

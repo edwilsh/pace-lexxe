@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397840098130709</docid>
+  <date>30/07/2017</date>
+  <time>22:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/07/31/airplane-terror-plot-foiled-marriage-equality-back-on-the-agenda/</url>
+  <title>Airplane terror plot foiled, marriage equality back on the agenda - Crikey Worm</title>
+  <content>
+TERRORIST PLANE PLOT
+
+Airport security will be tightened as Australia's security agencies react to a series of raids on homes in Surry Hills, Punchbowl, Wiley Park and Lakemba in Sydney. Four men have been detained under terrorism provisions in the raids,  the four are two fathers and two sons, linked by marriage, all Lebanese-Australian. The Daily Telegraph the plot was to use a homemade bomb disguised as a kitchen mincer to blow up an airplane bound for the Middle East.  the bomb story, saying a homemade bomb was allegedly found in the Surry Hills residence. "We have taken this threat very seriously," Australian Federal Police Commissioner Andrew Colvin said on Sunday. "You should infer we think this was credible and there was an intention and quite possibly a capability as well." The Australian, the plot was to use a "non-traditional" device to release poisoned gas in the plane, killing everyone on board. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PLANE PLOT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Punchbowl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crikey Worm</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Middle East</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wiley Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police Commissioner Andrew Colvin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lakemba</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surry Hills</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Lebanese-Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daily Telegraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

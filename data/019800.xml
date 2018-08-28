@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437018790440490</docid>
+  <date>06/08/2017</date>
+  <time>06:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/aust-backs-un-sanctions-against-nkorea/news-story/e27938b4dccad0d424f1de4a88bced1e</url>
+  <title>Aust backs UN sanctions against NKorea</title>
+  <content>
+Australia will slap travel bans and financial sanctions on several people and businesses as part of broader international actions against North Korea.
+The federal government on Sunday welcomed the unanimous adoption by the UN Security Council of new sanctions on Pyongyang over its missile tests.
+The US-drafted resolution bans North Korean exports of coal, iron, lead and seafood and any new work permits for North Korean migrant workers.
+It also freezes assets and introduces travel bans on others involved in activities assisting North Korea, and bans new joint ventures with the rogue state as well as new investment in current joint ventures.
+"Together, these measures will impose significant costs on Pyongyang's continuing illegal behaviour, and further constrain its ability to fund its weapons programs," Prime Minister Malcolm Turnbull and Foreign Minister Julie Bishop said in a joint statement.
+Australia, in support of international efforts, will apply targeted financial sanctions and travel bans on several additional individuals and seven entities.
+They urged all UN member states to take immediate steps to implement the measures.
+Mr Turnbull and Ms Bishop reiterated the need for international unity, saying North Korea posed a threat to global peace and security.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Foreign Minister Julie Bishop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NKorea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UN Security Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-drafted</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Bishop</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443452651520673</docid>
+  <date>07/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/16/17/square-watermelon-craze-gripping-japan</url>
+  <title>Square watermelon the latest craze out of Japan</title>
+  <content>
+Japan is known for its quirky creations, and they have delivered once again with cube-shaped watermelon.
+Selling for up to AU$200 in grocery stores, the square melons are the latest craze taking off in the Land of the Rising Sun.
+They measure 15cm long and are grown in custom crates to give them the unnatural shape.
+But that is not the only strange shape hitting the shelves, with growers also experimenting with love heart-shaped designs.
+ 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>AU$200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Land of the Rising</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

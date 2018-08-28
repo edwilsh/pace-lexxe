@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406262529139217</docid>
+  <date>01/08/2017</date>
+  <time>06:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Radio Australia</source>
+  <url>http://www.radioaustralia.net.au/international/2017-08-01/manus-island-asylum-seekers-demand-water-power-reconnection-at-detention-centre/1690406</url>
+  <title>Manus Island asylum seekers demand water, power reconnection at detention centre</title>
+  <content>
+Asylum seekers on Manus Island are protesting about attempts to force them to move out of the Australian-funded detention centre.
+A large group of men housed inside the centre gathered to demand Australian and Papua New Guinean authorities .
+Refugees inside the centre were told they had to leave and move into the town on Manus Island, while those men whose claims were rejected must leave PNG.
+The protest comes after .
+A 27-year-old Sudanese refugee was attacked when men broke into a guesthouse in the main town of Lorengau.
+In a separate incident, a 27-year-old Iranian asylum seeker was attacked and robbed on the street on Sunday morning.
+Asylum seekers say the town authorities told them to move as it was not safe, and want Australian authorities to continue looking after them until resettlement in the United States is finalised.
+
+Photo:(Supplied)
+</content>
+  <sindexList>
+  <sindex>
+    <name>Manus Island</name>
+    <count>3</count>
+    <score>-2.5</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian-funded</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lorengau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sudanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iranian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

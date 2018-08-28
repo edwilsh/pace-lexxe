@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416871098564749</docid>
+  <date>03/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/two-year-trial-of-driverless-shuttle-bus-for-sydney-470000</url>
+  <title>Two-year trial of driverless shuttle bus for Sydney</title>
+  <content>
+Transport for New South Wales has kicked off a trial of a driverless bus that will eventually run a route around Sydney's Olympic Park, following a similar  in Perth last year.
+
+The intial stage of the project involves safety tests at Newington Armory.
+
+A second stage in the last quarter of this year will see the bus operate at a closed section of the Olympic Park. The public is expected to be able to use the bus in the first quarter of next year, also in the Olympic Park area.
+
+The Arma electric bus is made by French company Navya. It can take up to 15 passengers and runs at an average speed of 25 kilometres an hour.
+
+It has a battery life of five to 13 hours, and uses light detection and ranging (LIDAR) sensors to perceive its surroundings.
+
+Transport minister Andrew Constance and roads minister Melinda Pavey said the trial is expected to last two years. 
+
+Pavey said the trial would be used to develop autonomous vehicles' connectivity to city infrastructure such as traffic lights, and to the public through smart devices and applications.
+
+"There is still some way to go before automated shuttles become commonplace on Australian roads, but as a government we are ready to take the next step and from here all sorts of possibilities open up for transport in NSW," Pavey said.
+
+The NSW government has introduced legislation to allow the driverless bus trial to go ahead.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>LIDAR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pavey</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arma</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melinda Pavey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Constance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympic Park</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newington Armoury</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Navya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

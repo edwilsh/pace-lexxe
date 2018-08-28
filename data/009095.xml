@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412958383278615</docid>
+  <date>02/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/mobile-phone-left-charging-sets-ascot-park-home-on-fire/news-story/30994a2ca321c918b76e65ef1c20e19a</url>
+  <title>Mobile phone left on the charger ... then this</title>
+  <content>
+A MOBILE phone left charging was believed to be the cause of a house fire at Ascot Park, prompting warnings from authorities.
+A neighbour's quick action to call triple-zero after spotting smoke coming from a duplex home on Albert St about 11am on Wednesday saved the house from being destroyed.
+Eight firefighters arrived to find the fire, but quickly contained it to the bedroom, extinguishing it in 10 minutes.
+The damage was limited to the bedroom and smoke staining throughout the home, with a total cost estimated at $30,000.
+No one was home at the time but the occupants returned shortly after.
+The Metropolitan Fire Service believed a mobile phone left charging on a bed may have ignited the mattress.
+They reminded the public to never leave mobile phones, tablets or electronic devices charging in beds or on flammable furniture - including sofas.
+"Always place items for charging on a well ventilated, nonflammable surface that is clear of combustibles," a MFS spokeswoman said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>MFS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Albert St</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ascot Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

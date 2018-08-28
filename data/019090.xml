@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434738162787245</docid>
+  <date>05/08/2017</date>
+  <time>21:20</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/06/australian-families-stymied-high-cost-childcare</url>
+  <title>Australian families stymied by high cost of childcare</title>
+  <content>
+The high cost of childcare is putting many families under severe financial stress, according to a new survey.
+
+1 HOUR AGO  UPDATED 8 MINS AGO
+
+Childcare has become one of the biggest, if not the biggest, drain on the family purse, according to a survey by News Corp Australia.
+
+The high cost of childcare is eating substantially into the average pay packet and putting many families under financial stress.
+
+Some 40 per cent of families are paying as much as or more than their mortgage.
+
+Almost a third are paying double their grocery spend for childcare, after the government rebate, while a fifth are paying triple their weekly grocery spend, the survey shows.
+
+For those on lower incomes, this means they are taking home next to no money, making it extremely difficult for many women with children to return to work.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 8 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

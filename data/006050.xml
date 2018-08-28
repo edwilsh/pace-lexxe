@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407890321777364</docid>
+  <date>01/08/2017</date>
+  <time>13:09</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/life/tech/2017/08/01/apple-reveal-iphone-8-features/</url>
+  <title>Apple accidentally reveals iPhone 8 features</title>
+  <content>
+Apple has accidentally confirmed what the latest version of the iPhone will look like, with hidden software code revealing the newest features for the much-anticipated iPhone 8.
+Firmware for the upcoming HomePod smart speaker has been found to contain secret information unveiling Apple's plan to integrate "Face ID" technology in its redesigned device.
+And according to experts, the leak will be of "great concern" to the tech company, which plans to launch the phone in September.
+iOS developer Steve Troughton-Smith dug through the code after Apple mistakenly released the software on an official public update feed earlier this week, before pulling the code.
+He found documentation from Apple confirming rumours of a bezel-free iPhone, the end of the home button, and the implementation of infrared face-recognition unlock, code-named "Pearl".
+It's been described as the biggest leak in Apple's history - and it came from Apple itself.
+I can confirm reports that HomePod's firmware reveals the existence of upcoming iPhone's infra-red face unlock in BiometricKit and elsewhere
+- Steve T-S (@stroughtonsmith)
+Mr Troughton-Smith also confirmed the iPhone's under-the-screen virtual home button appears to have been scrapped. For months Apple's new Touch ID was  as the major change to this year's iteration.
+"For what it's worth I've seen nothing to suggest an ultrasound under-the-screen Touch ID here. Looks like not this year. Quash that one," he wrote on Twitter.
+It's unclear at this time if Apple intends to replace Touch ID solely with facial recognition software.
+Brazilian iOS developer Guilherme Rambo backed Mr Troughton-Smith's findings and revealed what appears to be the design of Apple's 10th-anniversary iPhone.
+The icon, codenamed "D22", represents the shape of the new device, confirming speculation Apple's newest version would be bezel-less and without a home button.
+Me too. New bezel-less form factor as well
+- Guilherme Rambo (@_inside)
+RMIT University IT expert John Lenarcic told The New Daily the release of secret information is unlike Apple, and could severely hurt the California-based company.
+"Apple would be worried. Throughout their history they've always been secretive in what's coming next and if that has been exposed, it would be a great concern to them," Mr Lenarcic said.
+He said it was not uncommon for firmware to hold "easter eggs" or hints to upcoming technology, especially if it's been used as a test for unreleased products.
+However, according to prominent Apple investigator  this was not a test but an accidental release to the public meant for hardware developers currently working with Homepods.
+The firmware was released on iOS 11.0.2 - a full two patches ahead of what is publicly available, Mr Rambo discovered.
+Mr Lenarcic said facial recognition is the "natural progression for computers" but its complexity has often scared developers away from implementing it.
+The use of infrared, which works well in low-light situations, would solve those current problems.
+Mr Troughton-Smith said Apple's "concrete leaks" would cause problems for Apple internally.
+"This is a rough situation for Apple ... A lot of people at Apple are going to have a nasty Monday," he tweeted after the revelations.
+"For them to be the source of the only concrete leaks about it and its design is going to upset a lot of people internally."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>California-based</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lenarcic</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Steve Troughton-Smith</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS 11.0.2</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Troughton-Smith</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Rambo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian iOS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>BiometricKit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Lenarcic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Touch ID</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pearl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve T-S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RMIT University IT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>17</count>
+    <score>-15</score>
+  </sindex>
+  <sindex>
+    <name>Guilherme Rambo</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415367859983268</docid>
+  <date>02/08/2017</date>
+  <time>18:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/03/04/01/compound-targets-cancer-s-achilles-heel</url>
+  <title>Compound targets cancer's 'Achilles heel'</title>
+  <content>
+A new class of drugs that target the "Achilles heel" of cancer cells has the potential to supercharge the treatment of some of the most aggressive types of breast cancer, Australian scientists say.
+Research published in journal Science Translational Medicine found combining the drug compound S63845 with therapies such as chemotherapy effectively treated breast cancer when tested in samples taken from patient tumours.
+The compound was particularly effective in treating triple negative and HER-2 positive breast cancers.
+"Combining S63845 with standard therapies such as chemotherapy or targeted drugs such as Herceptin proved highly effective in killing these very aggressive tumour types," said Dr Delphine Merino, of Melbourne's Walter and Eliza Hall Institute of Medical Research.
+Medical oncologist Dr James Whittle says the compound works by targeting a protein called MCL-1, which has previously shown to be important for cancer cell survival.
+"MCL-1 gives cancer cells a survival advantage, allowing them to resist chemotherapy or other anti-cancer therapies that would otherwise trigger cancer cell death," Dr Whittle said.
+Triple negative breast cancers are particularly common in women with a faulty BRCA1 gene and doctors say there is an urgent need for new treatment options.
+Medical oncologist Professor Geoff Lindeman hopes the discovery will lead to better outcomes for women diagnosed with this type of breast cancer.
+"Triple negative breast cancers have not seen the same improvement in targeted therapies, or survival, as some other types of breast cancer," he said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Achilles</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>BRCA1</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Science Translational Medicine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Delphine Merino, of Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Whittle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eliza Hall Institute of Medical</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr James Whittle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herceptin</name>
+    <count>1</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>S63845</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MCL-1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Geoff Lindeman</name>
+    <count>1</count>
+    <score>2.3</score>
+  </sindex>
+  <sindex>
+    <name>Walter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

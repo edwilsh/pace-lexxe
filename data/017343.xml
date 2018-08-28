@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427561272361632</docid>
+  <date>04/08/2017</date>
+  <time>17:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/vw-exec-pleads-guilty-in-us-emissions-case/news-story/3cbe79de02ab74639fa8407ef5e991a8</url>
+  <title>VW exec pleads guilty in US emissions case</title>
+  <content>
+A Volkswagen executive has pleaded guilty in a US District Court in connection with the diesel emissions scandal that's cost the German car-maker as much as $US25 billion ($A32 billion).
+Under a plea agreement,Oliver Schmidt faces up to seven years in prison and a fine of between $US40,000 and $US400,000 after admitting conspiring to mislead US regulators and violating clean air laws.
+Schmidt will be sentenced on December 6.
+In March, Volkswagen pleaded guilty to three felony counts under a plea agreement to resolve US charges it installed secret software in vehicles to evade emissions tests.
+US prosecutors have charged eight current and former Volkswagen executives.
+Earlier this year, Schmidt was charged with 11 felony counts and federal prosecutors said he could have faced a maximum of up to 169 years in prison.
+As part of his guilty plea, prosecutors agreed to drop most of the counts and Schmidt has consented to be deported at the end of his prison sentence.
+After being informed of the existence of the emissions software in the 2015, according to the agreement, Schmidt conspired with other executives to avoid disclosing "intentional cheating" in a bid to seek regulatory approval for its model 2016 VW 2 litre diesel vehicles.
+During the period in question, Schmidt was working at the company's Wolfsburg headquarters as "one of three subordinates" to the head of engine development.
+He was arrested when he travelled to the United States in early January.
+Volkswagen said on Friday it "continues to cooperate with investigations by the Department of Justice into the conduct of individuals. It would not be appropriate to comment on any ongoing investigations or to discuss personnel matters."
+As part of the agreement, Volkswagen has agreed to spend as much as $US25 billion in the United States to resolve claims from owners and regulators over polluting diesel vehicles and offered to buy back about 500,000 vehicles.
+James Liang, a VW employee who pleaded guilty to misleading regulators, is cooperating with prosecutors and will be sentenced on August 25.
+Among those indicted earlier were Heinz-Jakob Neusser, former head of development for VW Brand and two former heads of engine development, Jens Hadler and Richard Dorenkamp.
+Most of the Volkswagen executives charged are in Germany and may not travel to the United States since Germany typically does not extradite its citizens.
+</content>
+  <sindexList>
+  <sindex>
+    <name>VW 2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>VW</name>
+    <count>2</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>US$40,000</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>VW Brand</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Volkswagen</name>
+    <count>6</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Oliver Schmidt</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Heinz-Jakob Neusser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Schmidt</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 400,000</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Liang</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Richard Dorenkamp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 25</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wolfsburg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jens Hadler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 6</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US District Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$25</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

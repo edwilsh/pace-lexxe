@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410424352532605</docid>
+  <date>01/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/national/melbourne-weather-glorious-sunshine-as-we-start-august/news-story/30c8b8941788385b7168d4094f81fcc4</url>
+  <title>Flight diverted, road warning as fog hits city</title>
+  <content>
+COMMUTERS are being urged to slow down and turn on their headlights as thick fog engulfs many parts of the city.
+The Bureau of Meteorology has issued a road weather alert for the Melbourne area due to reduced visibility making conditions dangerous.
+There are also reports of flight delays at Melbourne Airport, with one Qantas flight diverted.
+Sarah Fulton from Airservices Australia confirmed the fog is causing delays and diversions from Melbourne but the airport remains open despite earlier reports it had been closed.
+Ms Fulton said some Melbourne-bound flights had been diverted to Sydney due to the low visibility.
+"In particular it is the domestic and smaller regional aircrafts that are being affected," Ms Fulton said.
+"Most international aircrafts have been able to arrive and depart the airport because they have more advanced technology," she said.
+Airservices Australia urged passengers travelling in or out of Melbourne airport today to check with their individual airline regarding delays.
+A Melbourne Airport spokeswoman said flights were operating in and out of Tullamarine despite the reduced visibility.
+The State Emergency Service advises people to reduce speed and maintain a greater distance between them and the vehicle in front on them.
+Motorists are also urged to turn on their headlights.
+Dean Stewart, a forecaster at the Bureau of Meteorology said light winds and clear skies overnight had contributed to the thick fog this morning.
+"It's quite extensive across the Melbourne metro area," he said.
+The thickness of the fog varied across the city with Melbourne Airport experiencing visibility as low as 200m, Mr Stewart said.
+"It looks like the fog will last quite a while this morning before it turns into low cloud later in the day," he said.
+There is also a frost warning for most areas of Victoria.
+Once the fog lifts the sun will return with a top of 15C expected later today.
+Melbourne experienced glorious sunshine yesterday as it welcomed the month of August.
+The mostly sunny day reached a top of 15C and had Melburnians out and about catching the warm rays.
+The remainder of the week is also looking brighter with average temperatures of about 15C but showers forecast for the weekend.
+Bureau of Meteorology forecaster Dean Stewart said August was expected to be a drier month than usual. "There is an increased chance of below average rainfall across the state for August," he said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tullamarine</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Fulton</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Airport</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne-bound</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>5</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Fulton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Airservices Australia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melburnians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

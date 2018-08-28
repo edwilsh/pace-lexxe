@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443667399889276</docid>
+  <date>07/08/2017</date>
+  <time>07:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/woolies-shoppers-overcharged-after-glitch/news-story/40239a05b5d5b9199c9ac2dda9f73fd3</url>
+  <title>Woolies shoppers overcharged after glitch</title>
+  <content>
+Woolworths has blamed a technical glitch after some customers were charged twice for the same purchase.
+The supermarket giant says it does not know how many customers were double-charged for purchases during a short period in March and that the issue originated with Cuscal, a company used to process Woolworths payments.
+In a statement on Monday, Cuscal said the processing error meant some incorrect transactions were posted to clients' accounts and that it was working to make sure no one was left out of pocket.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cuscal</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

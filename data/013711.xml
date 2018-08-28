@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422205448047553</docid>
+  <date>03/08/2017</date>
+  <time>20:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/croc-number-explosion-salties-cane-drains-now/3208622/</url>
+  <title>Croc number explosion: Salties invade cane drains</title>
+  <content>
+CROCODILES seem to be -increasingly becoming workplace hazards for the Far North's cane farmers.
+
+A Gordonvale farmer snapped this photo of a healthy-sized saltwater croc sunning itself on the bank of a drain on his property near Mt Sapphire, south of Cairns, this week.
+
+Division 1 Councillor Brett Moller believed the croc had swum upstream from a nearby creek into the drain, which separates two cane paddocks.
+
+"I guess it shows that crocodile numbers are so great, they're forcing smaller crocs into waterways where they never used to be," he said.
+
+"It is unacceptable that we are finding them in drains through cane farms. These are not the animals' natural place."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mt Sapphire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Far North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salties</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Division 1 Councillor Brett Moller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gordonvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

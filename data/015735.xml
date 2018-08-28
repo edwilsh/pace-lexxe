@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424821083174072</docid>
+  <date>04/08/2017</date>
+  <time>06:51</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/us-residential-sells-georgia-properties/news-story/cd99c6281568141fa3a280fe26194b7f</url>
+  <title>US Residential sells Georgia properties</title>
+  <content>
+US Residential Fund will sell its remaining properties in Atlanta, Georgia for US$1.82 million (A$2.29m), compared to a December 31, 2016 book value of US$1.89 million.
+The sale of the Georgian properties will allow USR to repay debt and fund a future distribution to shareholders.
+Prior to this transaction USR held 90 single family rental properties across the states of Georgia, Ohio and Texas.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Georgian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Residential</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OHIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1.89</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$1.82</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USR</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Georgia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Residential Fund</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>December 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atlanta</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

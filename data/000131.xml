@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397968947150930</docid>
+  <date>30/07/2017</date>
+  <time>22:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/perth-weather-wild-weather-to-hit-perth-south-west-this-morning/news-story/9aa694e28cd92d3c4650c7cc66a83506</url>
+  <title>Wild weather to hit Perth, SW this morning</title>
+  <content>
+PEOPLE in Perth and the South West are being urged to brace for thunderstorms, hail and winds up to 125km/h as a huge cold front passes through this morning.
+The wild weather is forecast to hit the South West from 7am to 8am before hitting Perth about 10am to 11am and Albany between 11am and noon.
+The Bureau of Meteorology has warned there is the potential for "significant damage or destruction" to properties with winds reaching up to 125/h in some areas.
+The bureau says small hail stones, rain and hailstones could follow as the front passes.
+People in Perth, Albany, Bunbury, Katanning, Mandurah, Manjimup, Margaret River, Moora, Mount Barker, Narrogin and Northam are being urged to brace by closing curtains and blinds, staying away from windows and finding shelter.
+Police are also urging people to stay out of the ocean, saying it's not worth the risk.
+On Friday night, an apartment block in Perth's southern suburbs lost its roof after winds of almost 100km/h hit.
+Residents were tucked in bed in the Calista apartments when they heard a loud bang and the roof was flung into a nearby power pole.
+</content>
+  <sindexList>
+  <sindex>
+    <name>SW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bunbury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Calista</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Narrogin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Albany</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>South West</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manjimup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Katanning</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Barker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Moora</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

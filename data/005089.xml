@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405665528675345</docid>
+  <date>01/08/2017</date>
+  <time>04:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/la-to-host-2028-olympics-paris-firming-for-2024/3207488/</url>
+  <title>LA to host 2028 Olympics, Paris firming for 2024</title>
+  <content>
+OLYMPICS: Paris has moved a huge step closer to being chosen as the host city for the 2024 Olympic Games after rival candidate Los Angeles agreed to take the Games of 2028.
+Both cities were competing for the 2024 Olympics after several other contenders withdrew  before it was confirmed by the International Olympic Committee that LA chose to take the Games four years later.
+"The IOC welcomes this decision of the Los Angeles Olympic and Paralympic Candidature Committee," IOC President Thomas Bach said in a statement.
+Paris and LA will join London as the only cities to have hosted the summer or winter Olympics three times.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Olympic Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paralympic Candidature Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>International Olympic Committee</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>IOC</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IOC President Thomas Bach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles' Olympic</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

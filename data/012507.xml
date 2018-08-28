@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418327092500740</docid>
+  <date>03/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/messenger/exciting-travel-change-for-adelaide-metro/news-story/3b38c147effbd6f01efbf85097949cf4</url>
+  <title>'Exciting travel change' for Adelaide Metro</title>
+  <content>
+O-BAHN commuters will soon be able to enter and validate their Metrocards at the middle and rear doors of buses.
+The idea is to speed up boarding times as the new O-Bahn tunnel makes the service more popular.
+Validation machines started appearing on buses over the past month with a sign saying, "Exciting travel change coming soon!"
+A Transport Department spokeswoman said they would become active when the $160 million tunnel from Grenfell St to Hackney Rd opened "later this year".
+They will not appear on other routes "for now".
+"This may be re-evaluated at a later date," she said.
+Extra ticket inspectors will be deployed to explain the new procedure and catch fare evaders.
+
+Flyover of the new O-Bahn
+
+Flyover of the new O-Bahn tunnel
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide Metro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Department</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Metrocards</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Grenfell St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O-BAHN</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Hackney Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

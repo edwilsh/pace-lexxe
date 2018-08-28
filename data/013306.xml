@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420646374888017</docid>
+  <date>03/08/2017</date>
+  <time>14:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4831226/consumer-confidence-totally-spent/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Consumer confidence totally spent</title>
+  <content>
+Dr Anthea Bill from Hunter Research Foundation
+
+BUSINESS confidence in the Hunter and nationally is recovering but consumer spending remains subdued, new research shows. 
+The Hunter Research Foundation's latest regional economic indicators released on Friday show that the majority of Hunter businesses surveyed by the foundation have reported satisfactory or better profitability in the quarter to June this year. 
+HRF Centre lead economist Dr Anthea Bill said better trading levels was more evidence of a sustained recovery in business sentiment and performance since the downturn at the end of the mining investment boom.
+
+In contrast, consumer spending in the Hunter and across the nation had not recovered from the substantial drop following the Global Financial Crisis: "Among consumers, the region's pessimists now slightly outnumber optimists in short-term expectations for the regional economy," Dr Bill said. 
+
+The data shows that employment rose in the June quarter, while unemployment fell from 5.7 per cent in June last year to 5.1 per cent in June, 2017. The youth unemployment rate also fell from 13.6 per cent to 10.8 per cent in the last 12 months.
+
+House prices declined in the past quarter, slowing the annual rate of growth, and new housing approvals fell. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hunter</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Global Financial Crisis</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Research Foundation</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HRF Centre</name>
+    <count>1</count>
+    <score>14</score>
+  </sindex>
+  <sindex>
+    <name>Dr Anthea Bill</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Bill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

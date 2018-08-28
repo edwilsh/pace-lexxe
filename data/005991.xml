@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407331976016692</docid>
+  <date>01/08/2017</date>
+  <time>10:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/police-confirm-id-of-body-in-car-in-qld/news-story/07f87e0fc1b6343c30207d2f9159872d</url>
+  <title>Police confirm ID of body in car in Qld</title>
+  <content>
+Police have confirmed a body found in a submerged car in central Queensland belongs to missing resident Leslie Schulze.
+The 69-year-old's vehicle was pulled from eight metres of water at Toolooa Bends in South Gladstone last Wednesday night, three hours after it was discovered by divers.
+On Tuesday, detectives confirmed the body was that of Mr Schulze. They say his death is being treated as not suspicious.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Gladstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leslie Schulze</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Schulze</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toolooa Bends</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

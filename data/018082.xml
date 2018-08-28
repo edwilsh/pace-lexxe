@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430825447544963</docid>
+  <date>05/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-05/nasa-guardian-of-the-galaxy-job-application/8777940</url>
+  <title>NASA responds to job application from 9yo 'guardian of the galaxy'</title>
+  <content>
+A primary school student has impressed NASA with his offer to "learn to think like an alien" in order to protect Earth.
+Jack Davis wrote to the space agency to apply for the position of planetary protection officer, advertised on NASA's website in July.
+
+"I may be nine but I think I would be fit for the job," Jack wrote.
+"I have seen almost all the space and alien movies I can see.
+"I am great at video games.
+"I am young, so I can learn to think like an alien."
+He signed off his application: "Sincerely, Jack Davis, Guardian of the Galaxy, Fourth Grade."
+The letter impressed NASA recruiters, who sent back an encouraging reply to the would-be defender of Earth.
+"Our planetary protection officer position is really cool and is very important work," Dr James L Green, director of NASA's Planetary Science Division, wrote.
+"We are always looking for bright future scientists and engineers to help us, so I hope you will study hard and do well in school.
+"We hope to see you here at NASA one of these days!"
+The planetary protection officer job involves protecting planets, moons and asteroids from contamination during human and robotic space exploration, as well as preventing any microbes from travelling back to Earth.
+"Although the planetary protection officer position may not be in real-life what the title conjures up, it does play an important role in promoting the responsible exploration of our solar system by preventing microbial contamination of other planets and our own," NASA said in a statement.
+Dr Green said the agency's staff were happy to inspire the next generation of explorers.
+"Think of it as a gravity assist - a boost that may positively and forever change a person's course in life, and our footprint in the universe," he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jack Davis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Green</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Guardian of the Galaxy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr. James L. Green</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jack</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASA</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NASA's Planetary Science Division</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fourth Grade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

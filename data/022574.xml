@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442507758701760</docid>
+  <date>07/08/2017</date>
+  <time>03:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/gateway-motorway-death-jury-struggles-to-reach-verdict-20170807-gxqs38.html</url>
+  <title>Jury at an 'impasse' over Gateway Motorway death verdict</title>
+  <content>
+A jury has indicated it is struggling to reach a verdict in the trial of a New Zealand father of three charged over the death of a man on a busy Queensland motorway in 2015.
+Tamate Henry Heke is fighting allegations he unlawfully killed Shane Merrigan by punching the 50-year-old before he was fatally hit by a rubbish truck on the Gateway Motorway in December 2015.Photo: AAP Image
+A Brisbane Supreme Court jury retired shortly before 11am on Friday to commence deliberations but indicated via a note at 12.30pm on Monday they had reached an "impasse".
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gateway Motorway</name>
+    <count>2</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>Shane Merrigan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tamate Henry Heke</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>December 2015.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP Image</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

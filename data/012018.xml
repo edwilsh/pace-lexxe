@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418112344132225</docid>
+  <date>03/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/chemical-incident-forces-sa-state-library-evacuation/8771136</url>
+  <title>SA State Library evacuated over chemical incident, two taken to Royal Adelaide Hospital</title>
+  <content>
+Two people were taken to hospital after South Australia's State Library was evacuated because of a chemical scare caused by paint fumes.
+Dozens of people were forced out of the library complex on North Terrace in Adelaide about 12:30pm. The main part of the library has since reopened.
+Metropolitan Fire Service (MFS) and SA Ambulance crews have attended the scene.
+"Apparently there was some sort of chemical scare," said ABC Radio Adelaide presenter Peter Goers, who was on his way to a football exhibition at the library when the evacuation occurred.
+"There's a smell of ammonia in the building apparently I'm told by people leaving."
+SA Ambulance confirmed two people had been taken to the Royal Adelaide Hospital and were in a stable condition.
+Parts of the building are undergoing renovations, with extensive scaffolding outside the Mortlock wing.
+Library spokesman Beverly Scott said the workers were painting window frames before the incident happened.
+"[That] caused some fumes ... to enter the building in the first instance into the Mortlock chamber," she said.
+Ms Scott said a security guard was affected by the fumes, but said she did not know how many had received medical treatment.
+"Visitors to the library ... say they were duly treated by the ambulance people," she said.
+The Mortlock wing remains closed, but Ms Scott said people had since been allowed back into the Spence wing, which is the main part of the library complex.
+She said MFS was working to rid paint fumes from the building.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA Ambulance</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MFS</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Adelaide Hospital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA State Library</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Scott</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mortlock</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Goers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spence</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australia's State Library</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beverly Scott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Terrace</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

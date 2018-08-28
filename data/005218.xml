@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405493729981113</docid>
+  <date>01/08/2017</date>
+  <time>03:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/01/one-nation-sends-sandy-baraiolo-invoice-dated-a-month-before-she-joined/</url>
+  <title>One Nation invoices candidate for fees already paid six months earlier</title>
+  <content>
+A former One Nation candidate has received invoices in July for membership fees paid in January that were backdated to December 2016. A bewildered Sandy Baraiolo received two invoices from Pauline Hanson's One Nation on July 13 after five months of chasing the party for a record of the transaction.
+</content>
+  <sindexList>
+  <sindex>
+    <name>July 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>One Nation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pauline Hanson's One Nation</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>December 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandy Baraiolo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443577205574580</docid>
+  <date>07/08/2017</date>
+  <time>07:38</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/excelsior-tests-thompsons-prospect/news-story/c7023695cab3f188a0d04d4b07b49e63</url>
+  <title>Excelsior tests Thompsons prospect</title>
+  <content>
+Newsbites Finance
+
+Share
+
+Excelsior Gold has commenced exploration at the Thompsons prospect, and it is then intended to test the Pleasure Bound Dolerite.
+Drilling aimed at resource conversion and growth at Nerrin Nerrin has also commenced. Modelling of the Greater Zoroastrian area is progressing, with the objective of being drill ready by October. Mining is nearing completion at Zoroastrian Central, with pit completion expected during the next three weeks.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nerrin Nerrin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Excelsior</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Zoroastrian Central</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pleasure Bound Dolerite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greater Zoroastrian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Excelsior Gold</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thompson</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404419988140732</docid>
+  <date>31/07/2017</date>
+  <time>23:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/if-you-dont-use-it-get-rid-of-it/</url>
+  <title>If You Don't Use It - Get Rid Of It</title>
+  <content>
+Classic decluttering advice - the kind of stuff you've been reading on Lifehacker for years - starts with getting rid of what you don't use or need. But are you applying the same principle to your systems? A demonstration of an old vulnerability in SMB 1at DEFCON highlights this, with a Windows Server rendered useless by a Raspberry Pi and a few lines of code. Beneath the surface of your apps, lie dangerous vulnerabilities.
+
+SMB 1 is an old protocol that will be removed in the next major update to Windows 10. But until then the new flaw, dubbed SMBLoris, .
+
+Their advice is to remove the protocol from your systems.
+
+What we're really talking about here is reducing the threat surface. How many applications, protocols, drivers and other flotsom and jetsom are sitting idly on your systems? And what vulnerabilities are they hiding that you know about? Or that you don't know about.
+
+When I interviewed Data 61's , he said that there are between two and five errors per 1000 lines of code and that between 10% and 25% of those are "security exploitable".
+
+In other words all those unused bits and pieces are making you more vulnerable.
+
+With the bad guys spending more time and energy on finding vulnerable apps and services, it's time to clean up your systems and remove anything you don't need. If you require a legacy protocol like SMB 1, look for ways to isolate those applications so that they are air-gapped from the internet and your internal systems.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Raspberry Pi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Data 61</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Use It</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Get Rid Of It</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lifehacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windows 10</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SMBLoris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SMB 1</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Windows Server</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

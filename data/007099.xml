@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410639100901740</docid>
+  <date>01/08/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/afl/afl-news/west-coasts-sam-mitchell-set-to-announce-his-afl-retirement-20170801-gxnil2.html</url>
+  <title>West Coast's Sam Mitchell set to announce his AFL retirement</title>
+  <content>
+West Coast veteran Sam Mitchell is set to announce his AFL retirement on Wednesday.
+The Eagles have called a press conference for midday (AEST) in which Mitchell will address the media.Photo: AAP
+Fellow Brownlow medallist Matt Priddis announced his retirement last week, and it's expected Mitchell will follow suit, with the former Hawk also set to play out the season.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brownlow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eagles</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hawk</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Priddis</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mitchell</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Coast</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Coast's Sam Mitchell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Mitchell</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

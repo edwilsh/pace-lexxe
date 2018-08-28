@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420289892594149</docid>
+  <date>03/08/2017</date>
+  <time>13:16</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/make-movement-around-a-city-as-simple-as-a-mobile-phone-plan-ey-20170803-gxoleo</url>
+  <title>Make 'movement around a city' as simple as a mobile phone plan: EY</title>
+  <content>
+Transport services are likely to be bundled together in the future, with new technology enabling people to "subscribe" to car sharing and public transport services as easily as they order data for their mobile phones, EY has forecast.
+John Simlett, London-based partner at EY, has been pitching this vision to Australians this week in Sydney and Melbourne as part of a marketing pitch for new technology developed by the consulting group known as "Tesseract".
+"Imagine buying your movement around a city as you buy your mobile phone," Mr Simlett told The Australian Financial Review.  "You buy X hours of urban transport, Y hours of a small commercial vehicle, and Z hours of intercity transport - and you can use it any way you want to."
+As well as choosing from "all you can eat" or "pay as you go" transport plans, people could take out monthly transport subscriptions, he said.
+
+Mr Simlett, who leads EY's global mobility business, argues that new technology like blockchain will revolutionise the way people get around because it will make it easier for people to share vehicles and information.
+
+EY last week filed a patent application in the UK for Tesseract, which it is pitching as a "fractional car ownership platform" using blockchain that will track user behaviour as well as vehicle ownership and availability.
+Mr Simlett said EY could license the technology or clone it and create private blockchains for manufacturers, as well as providing it to cities to help them manage congestion. It is testing Tesseract in Singapore and Hong Kong with private-sector companies.
+Ban on-street parking
+
+Governments are looking for ways to tackle urban congestion and pollution, with some cities such as Oslo planning to  in city centres, and others imposing congestion charges to try to reduce car numbers.
+
+Governments can encourage people to share cars and use public transport by encouraging data sharing among all transport providers and developing new payment systems, Mr Simlett said.
+"Maybe blockchain is a solution for those new payment platforms - it will distribute money instantly to the right parties ... everyone's in a race to monetise the data."
+Australian policymakers have expressed concern over the collection and management of transport data. Friction is occurring between governments and the private sector as more companies start offering transport services that were previously provided by governments or introduce new services like ride-sharing that are arranged through apps, giving companies access to digital data.
+EY provides consulting services to companies like Ford to help them develop their mobility strategies.
+
+The US carmaker has started describing itself as a "mobility company" as it  into transport services like its Chariot commuter shuttle service. It has been trialling ride-sharing services it has dubbed "GoRide", as well as a parking app known as "GoPark". It launched GoBike, a new bike-sharing scheme in San Francisco, in June.
+Mr Simlett forecast rising demand for services that create experiences out of journeys and guarantee people can get to places on time.
+"Instead of you going into Citymapper and asking for a route, it will automatically tell you when to leave," he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>EY</name>
+    <count>7</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GoRide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citymapper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Simlett</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Y</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>X</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Z</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chariot</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GoBike</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GoPark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ford</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>John Simlett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oslo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

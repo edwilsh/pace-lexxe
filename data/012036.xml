@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417897595763929</docid>
+  <date>03/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/apple-spending-wisely-to-stay-fresh-20170803-gxoiwz</url>
+  <title>Apple spending wisely to stay fresh</title>
+  <content>
+by
+The Lex Column
+
+Even as Apple's market value soared above $US800bn, it reported a trifecta of decline: China, iPhones' contribution and operating margin.
+Tim Cook, chief executive, chose to brazen out the first issue. The other two shrinkage incidents are nothing to be embarrassed about. Mr Cook said that he was "very encouraged" with the quarter's performance in China,, revenues in the country fell 10 per cent, the sixth consecutive quarter of year-over-year decline.
+Two years ago, sales in China were doubling and seemed certain to overtake the Americas as Apple's biggest market. The gap in sales contribution between those two leading markets narrowed to as little as 8 percentage points - now it has widened to 27 points.
+Halting the slide, hopefully with the next iPhone model expected in September, is important. The smartphone accounted for only 55 per cent of overall revenues in the quarter, the lowest contribution in three years.
+
+Sales were respectable given the mature market: up slightly in units and revenues. It is just that the iPhone is being outpaced by the continuing strength of services - such as Apple Music and iCloud data storage - as well as a recovery in iPads and good watch sales.
+
+For too long, the iPhone has had to bear the burden of increasing the company's top line, and last year failed to deliver. Other engines are vital to justifying the renewed faith of investors.
+With a 6 per cent increase after the earnings, Apple is now up more than 50 per cent in a year. Apparently more alarming was the 23.7 per cent operating margin, the lowest in 36 quarters.
+For big mature companies such as Apple this could be viewed as bad news: costs running riot. But obsolescence beckons for any consumer electronics company, even the biggest in the world, if it fails to invest enough in future products.
+That accusation cannot be levelled at Apple. Its research and development spending hit $US2.9bn in the quarter, taking annual spending above $US11bn for the first time.
+
+As usual, there are only glimpses of where this might lead. Mr Cook noted there was a "large project" in autonomous technology that required "big investment". Whether self-driving cars or some other frontier technology, Apple has the leeway to invest - to head off a more serious kind of decline.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lex Column</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Apple Music</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>iCloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Cook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US$800</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Cook</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$2.9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>7</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US$11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

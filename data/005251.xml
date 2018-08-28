@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406387083193080</docid>
+  <date>01/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/fortescue-offers-childcare-for-perth-staff/news-story/2f233404656cfa32e69e316809f43d91</url>
+  <title>Fortescue offers childcare for Perth staff</title>
+  <content>
+Fortescue Metals has begun offering staff at its Perth headquarters a free childcare service.
+The iron ore miner has opened a family room where children can be professionally supervised when special circumstances arise that may otherwise have kept an employee at home.
+Chief executive Nev Power says the the company wants to create a welcoming and encouraging environment for women.
+"We want to make real change by providing practical solutions to support women and parents in the workplace," he said in a statement.
+The supervision will be offered by a third-party provider during standard business hours and the company said it will explore whether it can offer child supervision for late workers.
+More than 700 staff work in Fortescue's Perth office, and 17.3 per cent of the company's total workforce are women.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nev Power</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue Metals</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue's Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

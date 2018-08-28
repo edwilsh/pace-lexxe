@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424640694544740</docid>
+  <date>04/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/qantas-flights-return-to-sydney/news-story/ee9e4ef60482d27f28472001319acfe1</url>
+  <title>Qantas flights return to Sydney</title>
+  <content>
+Two Qantas jets have suffered technical issues forcing them to abandon their flights and return to Sydney.
+Airbus A380 QF7 took off from Kingsford Smith Airport just before 2pm, bound for Dallas Fort Worth in the United States but flight radars detected the plane circling and dumping fuel.
+"The flaps on the aircraft (attached to the wing) are unable to retract which means the aircraft can't fly efficiently," Qantas said in a statement on Friday afternoon.
+"As the Dallas flight is our longest on the network, the captain made the decision to return to Sydney."
+The plane is expected to land at 4pm on Friday and will be inspected by engineers.
+QF63 Sydney to Johannesburg, a Boeing 747-400, was a few hours into its flight when a different issue was discovered, a Qantas spokeswoman told AAP.
+It has already landed safely at the airport.
+"Our operational teams are working through accommodating passengers or offering them transport home before replacement services are organised," the spokeswoman said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Airbus A380 QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63 Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingsford Smith Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-Fort Worth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

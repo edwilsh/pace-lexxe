@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411712842742005</docid>
+  <date>02/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/work/careers/why-you-shouldnt-update-your-linkedin/news-story/21ce75ab846b31f832c56130b1975a41</url>
+  <title>Why you shouldn't update your LinkedIn</title>
+  <content>
+Should you update your LinkedIn profile?
+
+Share
+
+IF YOU'VE recently updated your LinkedIn profile, there's a good chance your boss knows you might be looking for work elsewhere.
+Their spy is hiQ, a San Franciso-based company which collects and analyses data from LinkedIn profiles to predict whether employees polishing their resumes are a "flight risk".
+hiQ, which was acquired by Microsoft last year, is currently suing the professional networking site in a pre-emptive lawsuit to determine whether it is legal to hoover up publicly viewable information,  .
+hiQ has been operating since 2012, and currently analyses about 175,000 profiles out of the 500 million-member network. It says it excludes profiles that require a LinkedIn account to view.
+hiQ's "retention platform", which the company says is "incredibly accurate", scours the web for "any publicly available information about a company's employees and then its data science engine extracts strong signals from that noise that indicate someone may be a flight risk".
+"Based on the statistical patterns observed across hundreds of thousands of employees, powerful machine learning models then assign each of those employees a risk score: high (red), medium (yellow), or low (green)," the company says in its promotional materials.
+"Companies are able to pinpoint with laser-like accuracy the employees that are highest risk, focus retention efforts on those employees, and keep them engaged and contributing happily to the organisation."
+Earlier this year, LinkedIn's lawyers wrote to hiQ ordering it to stop accessing the site, after attempting to ban hiQ through an IP address block. LinkedIn alleged hiQ was violating US anti-hacking laws and threatened legal action, saying it had a "right to control access to its private property".
+According to the WSJ, hiQ got in first, filing its own lawsuit in June accusing LinkedIn of attempting to stifle competition, and asking a federal judge to confirm it was complying with anti-hacking laws.
+
+Lawyers for the company said LinkedIn was trying to "criminalise access to web pages that are public for the entire world to see". "LinkedIn is trying to illegally force out a smaller competitor so that they can have the business for themselves, plain and simple," hiQ chief executive Mark Weidick in statement.
+But LinkedIn countered that hiQ's data scraping activity was not as innocent as it seemed. "Indeed, if LinkedIn members knew that hiQ was accessing and collecting their data in this manner, many would not update their profiles," the company told the court, according to the WSJ.
+</content>
+  <sindexList>
+  <sindex>
+    <name>IP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HiQ</name>
+    <count>11</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WSJ</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Franciso-based</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>LinkedIn</name>
+    <count>12</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mark Weidick</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

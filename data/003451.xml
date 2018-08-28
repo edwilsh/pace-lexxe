@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403896002121282</docid>
+  <date>31/07/2017</date>
+  <time>21:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/woman-hit-by-bus-in-brisbanes-north-bleeding-seriously-from-neck-20170731-gxmo03.html</url>
+  <title>Woman hit by bus in Brisbane's north 'bleeding seriously from neck'</title>
+  <content>
+A woman was "bleeding seriously" from the neck after she was hit by a bus in Brisbane's north early on Tuesday.
+A witness to the accident, outside Taigum Shopping Centre about 6.10am on Tuesday, told police the woman was bleeding seriously from the neck.Photo: File photo/Harrison Saragossi
+Paramedics rushed to the Beams Road address and took the woman, thought to be in her 20s, to the Royal Brisbane and Women's Hospital in a stable condition.
+A Queensland Ambulance Service spokeswoman said the woman had a cut to the neck.
+Both the 325 and 335 buses were skipping the stop following the crash, according to Translink.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>TransLink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taigum Shopping Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Women's Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Royal Brisbane</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Beams Road</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harrison Saragossi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

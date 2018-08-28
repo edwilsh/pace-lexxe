@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424778133500440</docid>
+  <date>04/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/nkorea-calls-us-ban-on-visits-sordid/news-story/b18c698856ee574acf9b1c91d1ece66c</url>
+  <title>NKorea calls US ban on visits 'sordid'</title>
+  <content>
+North Korea has criticised Washington's decision to ban US passport holders from visiting the North, with state media describing it as a "sordid" attempt to limit human exchanges.
+The North's KCNA news agency, citing an unidentified spokesman for the foreign ministry, said on Friday there was no reason for foreigners to feel threatened while in North Korea and citizens from around the world were encouraged to visit.
+"Our doors are always open for all Americans who visit our country out of goodwill and wish to see our reality," the spokesman said.
+The US State Department said this week the ban would take effect on September 1, although some, including journalists and humanitarian workers, may apply for exceptions.
+The ban will make reclusive North Korea the only country to which US citizens are banned from travelling.
+It follows the death in June of US student Otto Warmbier, who was sentenced in North Korea in 2016 to 15 years hard labour for trying to steal an item bearing a propaganda item from his hotel.
+Warmbier was in a coma when he was released by the North on humanitarian grounds and circumstances of his death remain unclear.
+KCNA did not name Warmbier in Friday's report but said the North had delivered "just punishment" to some US citizens who had carried out acts against the regime.
+North Korea is holding two Korean-American academics and a missionary as well as a Canadian pastor and three South Koreans who were doing missionary work.
+KCNA said the ban reflected Washington's view of Pyongyang as an enemy and reiterated President Donald Trump's administration should abandon its hostile policies towards the North.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>KCNA</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Otto Warmbier</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June of US</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NKorea</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>North's KCNA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US State Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warmbier</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Korean-American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

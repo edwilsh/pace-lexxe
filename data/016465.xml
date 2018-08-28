@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424898392586560</docid>
+  <date>04/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/victoria/he-was-flying-police-in-peninsula-highspeed-chase-after-kids-jump-to-safety-20170804-gxpn51.html</url>
+  <title>'He was flying': Police chase stolen Holden on Mornington Peninsula after kids leap to safety</title>
+  <content>
+An erratic driver has been arrested after he narrowly avoided hitting school-aged children in a police chase through Melbourne's south-east.
+Police began pursuing the silver Holden Commodore after it was spotted being driven on the wrong side of Bungower Road and on the footpath in the Mornington Peninsula area about 3.30pm on Friday.
+Callers to radio station 3AW said pedestrians, including children, had been forced to jump out of the way of the speeding car.
+"He was flying," caller Cam told Tom Elliott.
+
+The driver was also spotted in the Mount Eliza area and travelling at speeds of up to 200km on Eastlink in the east-bound emergency lane.
+The police air wing were involved in the pursuit but authorities refused to comment further as the incident was ongoing.
+Just before 4.30pm, police confirmed a man, the only occupant of the vehicle, had been arrested, and no one was injured in the incident.
+</content>
+  <sindexList>
+  <sindex>
+    <name>AW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mornington Peninsula</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Eliza</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bungower Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EastLink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Elliott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden Commodore</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

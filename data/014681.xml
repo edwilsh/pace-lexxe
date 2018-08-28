@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422549045438460</docid>
+  <date>03/08/2017</date>
+  <time>22:02</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/cyber-expert-who-stopped-wannacry-arrested/news-story/5548323bfd912432fccd2e83604797e5</url>
+  <title>Cyber expert who stopped WannaCry arrested</title>
+  <content>
+A cyber security researcher widely credited with helping to neutralise the global "WannaCry" ransomware attack earlier this year has been arrested by the Federal Bureau of Investigation.
+Marcus Hutchins, a British-based malware researcher who gained attention for detecting a "kill switch" that effectively disabled the WannaCry worm in May, was detained by FBI officials in Nevada days after tens of thousands of hackers descended on Las Vegas for the annual Black Hat and Def Con security conferences, a US Marshals Service spokeswoman said on Thursday.
+"We are aware that he was arrested," she said in a phone interview, declining to provide further details. "It is not our case, it is the FBI's case."
+Representatives at the FBI field office in Las Vegas and the agency's headquarters in Washington did not immediately respond to requests for comment.
+WannaCry infected hundreds of thousands of computers and caused disruptions at car factories, hospitals, shops and schools in more than 150 countries.
+Hutchins' arrest was first reported by the security website Motherboard on Thursday. It said Hutchins was detained on Wednesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Bureau of Investigation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>British-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nevada</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marshals Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

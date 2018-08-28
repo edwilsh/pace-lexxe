@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400893819922724</docid>
+  <date>31/07/2017</date>
+  <time>10:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/emergency-routes-opened-to-qatari-planes/news-story/892b65ea6a42d4564b063b504af590df</url>
+  <title>'Emergency routes' opened to Qatari planes</title>
+  <content>
+The four Arab states that have cut diplomatic and transport ties with Qatar say they have opened up "emergency routes" for Qatari planes to use.
+The United Arab Emirates' foreign ministry said on Monday that the nine corridors were being opened in co-ordination with the International Civil Aviation Organisation, which did not immediately respond to a request for comment.
+It says the routes include overseas areas managed by the UAE and one over the Mediterranean, managed by Egypt.
+The UAE, Egypt, Saudi Arabia and Bahrain cut links with Qatar in early June over allegations it supports extremists. Qatar denies the charge.
+The move forced state-backed Qatar Airways, one of the region's biggest airlines, to reroute many of its flights and scrap frequent routes to major regional destinations such as Dubai.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qatar Airways</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qatari</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Arabia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Arab Emirates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Egypt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UAE</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>International Civil Aviation Organisation</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qatar</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Arab</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bahrain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mediterranean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

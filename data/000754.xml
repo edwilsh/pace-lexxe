@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398531587874304</docid>
+  <date>31/07/2017</date>
+  <time>00:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/10/42/qld-no-body-no-parole-law-up-for-debate</url>
+  <title>Qld 'No Body, No Parole' law up for debate</title>
+  <content>
+The Queensland government's proposed 'no body, no parole' legislation will be debated in state parliament next week.
+Attorney-General Yvette D'Ath introduced the bill to Queensland's parliament in May. If passed it would mean murderers who haven't identified the location of their victims' bodies won't be released without serving maximum time.
+The proposed law was one of the key recommendations of the Sofronoff Review into the state's parole system, sparked by the killing of 81-year-old grandmother Elizabeth Kippin in her Townsville home last July allegedly by a man paroled just hours earlier.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Attorney-General Yvette D</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sofronoff Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Kippin</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ath</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

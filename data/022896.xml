@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442387499615988</docid>
+  <date>07/08/2017</date>
+  <time>03:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/12/49/road-death-jury-struggle-to-reach-verdict</url>
+  <title>Road death jury struggle to reach verdict</title>
+  <content>
+A jury has indicated it is struggling to reach a verdict in the trial of a New Zealand father of three charged over the death of a man on a busy Queensland motorway in 2015.
+Tamate Henry Heke is fighting allegations he unlawfully killed Shane Merrigan by punching the 50-year-old before he was fatally hit by a rubbish truck on the Gateway Motorway in December 2015.
+A Brisbane Supreme Court jury retired shortly before 11am on Friday to commence deliberations but indicated via a note at 12.30pm on Monday they had reached an "impasse".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gateway Motorway</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Shane Merrigan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tamate Henry Heke</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>December 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

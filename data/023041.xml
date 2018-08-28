@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443590090476796</docid>
+  <date>07/08/2017</date>
+  <time>07:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/chinese-held-for-nazi-salutes-in-berlin/news-story/1110a8532a3722b3a456fc44a4d085b2</url>
+  <title>Chinese held for Nazi salutes in Berlin</title>
+  <content>
+Two Chinese tourists have been detained for performing banned Nazi salutes in front of the German parliament in Berlin, police say.
+Officers saw the two men, aged 36 and 49, taking photos of each other making the gesture in front of the Reichstag on Saturday.
+Police said in a statement that the men were questioned at a nearby precinct but later released after leaving a security deposit of 500 euros ($A747) each.
+They face a criminal investigation for using symbols associated with organisations that are considered to be in breach of Germany's constitution. Convictions can incur a fine or a prison sentence of up to three years.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Reichstag</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berlin</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nazi</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

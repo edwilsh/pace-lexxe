@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406511637247348</docid>
+  <date>01/08/2017</date>
+  <time>07:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/17/36/ex-docker-pleads-guilty-to-police-chase</url>
+  <title>Ex-Docker pleads guilty to police chase</title>
+  <content>
+Former Fremantle Dockers footballer Shane Yarran has pleaded guilty to a string of offences relating to a police chase, but he denies stabbing a man outside a pub with a broken bottle.
+The 27-year-old has been behind bars in Hakea remand prison since May 24 when he allegedly reached 125km/h in a 60km/h zone during an early morning police pursuit in Gosnells, then hid in bushes before being found by police dog Nacho.
+He pleaded guilty in the Perth Magistrates Court on Tuesday to nine offences, including reckless driving and disorderly conduct, but pleaded not guilty to unlawful wounding, a charge that was laid after he allegedly attacked a man with a broken bottle outside the Westfield Tavern in Camillo in July 2015.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Westfield Tavern</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fremantle Dockers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nachos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gosnells</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hakea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Camillo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shane Yarran</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ex-Docker</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

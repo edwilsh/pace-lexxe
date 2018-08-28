@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424387291470468</docid>
+  <date>04/08/2017</date>
+  <time>05:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/perth-postal-worker-stomped-on-ground/news-story/b881d921ac39f4eecc9aa66bc074b308</url>
+  <title>Teen charged for attack on Perth postie</title>
+  <content>
+A teenager is facing aggravated assault charges over an attack on a 71-year-old Perth postal worker who was knocked off her motorbike and repeatedly kicked as she lay on the ground.
+Police say she was delivering mail on Templeman Place in Midland about 1.30pm on Thursday when the 19-year-old man allegedly attacked.
+The woman suffered minor injuries and was discharged from St John of God Midland Hospital later that day.
+CCTV images released by police of another man are not of the attacker, but of a someone who helped the investigation.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIDLAND</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Templeman Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Midland Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St John of God</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

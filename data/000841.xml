@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398789285915605</docid>
+  <date>31/07/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/tech-firms-are-moving-back-to-sydney-cbd-offices-469717</url>
+  <title>Tech firms are moving back to Sydney CBD offices</title>
+  <content>
+Technology firms are trading campus-like offices for CBD space in Sydney, emerging as the new driver of demand for city office space.
+
+A research note by Cushman & Wakefield suggests tech companies signed "around 40 leases" for Sydney CBD space in the past year.
+
+The firm said that while high-profile lessees like Apple, LinkedIn and Dropbox had received plenty of attention after deciding to call Martin Place home, in reality many more tech firms were similarly entering the CBD market.
+
+This is leading to two shifts: firstly in areas that could be considered the city's "tech hub", and more broadly in who is expected to drive most of the demand for Sydney CBD office space in coming years.
+
+"Macquarie Park had previously been Sydney's main tech hub," note author John Sears wrote.
+
+"This was driven by a range of factors such as a desire to create a Silicon Valley/Stamford University type research and innovation relationship with Macquarie University, campus style office accommodation and access to warehousing space for inventory."
+
+However, the rise of cloud has dampened the need for product warehousing space, Sears argued, and - recognising the value of their people - tech firms were refocusing on work environments "with excellent public transport and close proximity to retail amenities", which he said had "helped drive the move to the city".
+
+The other important shift is in who is leasing space. Whereas traditionally the finance and insurance sectors had been the key demand drivers, technology is now overtaking them.
+
+"Tech is now expected to lead the way with demand for CBD space expected to be more than three times that of the finance and insurance sector over the next five years," Sears wrote.
+
+"As a result tech is taking over from finance as being a key driver of demand for Sydney CBD office space."
+
+Cushman & Wakefield is a commercial real estate brokerage headquartered in Chicago.
+
+The firm last week unveiled its global office space forecast, detailing a boom in the construction of premium office space worldwide.
+
+While supply will immediately outstrip demand, Cushman's global chief economist Kevin Thorpe was unconcerned, believing that lessees of older, less-premium space would be tempted to shift to better digs.
+
+"I'm more concerned about what this wave of supply means for lower-grade product, which I suspect will have a difficult time competing," Thorpe said in a statement.
+
+Cushman & Wakefield predicted that Sydney would "have the lowest vacancy rate in the world by 2019, at 2.4 percent".
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dropbox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thorpe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cushman</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Thorpe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley/Stamford University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wakefield</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie University</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Martin Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chicago</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Sears</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LinkedIn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney CBD</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436675193053688</docid>
+  <date>06/08/2017</date>
+  <time>04:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/sharemarket-tipped-to-open-higher-on-better-us-payrolls-data/news-story/5ab80b171962cead270c425de6d1babb</url>
+  <title>ASX set to open higher on Monday</title>
+  <content>
+THE stock market is expected to open higher by 25 points on Monday, reversing some Friday's losses on the back of better global news.
+The main driver is US payroll figures which showed good jobs growth in the world's biggest economy.
+AMP Capital's chief economist Shane Oliver said Friday night's figures showed 209,000 jobs were created in the US in July and the unemployment rate was 4.3 per cent.
+He said the strong figures and low wages growth, of just 2.5 per cent, will result in the US Federal Reserve continuing its gradual tightening of monetary policy.
+"So that combination of good growth but relatively low inflation is something the sharemarket likes, it's almost like a Goldilocks economy - not too hot, not too cold, but just right," Dr Oliver said.
+"Not so good for workers but it's good for the companies."
+The rise in the iron ore price is another factor. It rose 7.8 per cent last week to $US74.10 per tonne on Friday. It all points to reasonable start to the week for the ASX, but share trading will start slowly due to Monday's bank holiday in NSW.
+During the week, all eyes will be on the start of the profit reporting season. One to watch is the CBA full-year's results on Wednesday.
+The bank is expected to report another record profit. Its share price fell 3.6 per cent to $80.72 last week after it was revealed on Thursday the federal government's financial intelligence unit, AUSTRAC, had accused the lender of more than 53,000 breaches of Australia's money laundering and counter-terrorism financing laws.
+Other data the market will be watching includes the NAB's business survey on Tuesday and Westpac Consumer Confidence Index on Wednesday.
+Globally, China releases its trade figures on Tuesday.
+At the close on Friday the benchmark S&P/ASX200 was down 14.5 points, or 0.25 per cent, at 5720.6, while the broader All Ordinaries index was down 13.5, or 0.23 per cent, at 5773.3.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac Consumer Confidence Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>All Ordinaries</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AMP Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldilocks</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US74.10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Oliver</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Shane Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

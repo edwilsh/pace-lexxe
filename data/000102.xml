@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397754198783724</docid>
+  <date>30/07/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4821586/gas-bottle-explosion-causes-crash/?cs=310</url>
+  <title>Gas bottle explosion causes crash</title>
+  <content>
+Gas bottle explosion causes crash
+
+HELP: The SES works to free a man from a car crash on the Pacific Highway. Pictures: Port Stephens SES
+
+HELP: The SES works to free a man from a car crash on the Pacific Highway. Pictures: Port Stephens SES
+
+HELP: The SES works to free a man from a car crash on the Pacific Highway. Pictures: Port Stephens SES
+
+HELP: The SES works to free a man from a car crash on the Pacific Highway. Pictures: Port Stephens SES
+
+exit
+
+A gas explosion was found to be the cause of a single-vehicle crash on the Pacific Highway on Saturday. 
+Emergency services were called to a crash north of Karuah about 10am. On arrival at the scene the Port Stephens State Emergency Service crew found a car and trailer had left the road and rolled multiple times. The driver of the vehicle was trapped inside.
+
+It took crews less than an hour to free the man who was taken to John Hunter Hospital. The northbound lane of the Pacific Highway was closed while the rescue took place.
+An investigation into the cause of the accident found escaping gas from a cylinder inside the vehicle created an explosion, which caused the driver to leave the road.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Port Stephens State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>4</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Karuah</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Highway</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Port Stephens SES</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

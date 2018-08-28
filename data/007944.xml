@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411369245353424</docid>
+  <date>02/08/2017</date>
+  <time>02:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/outer-east/kangaroo-attack-on-child-at-yering-gorge-cottages-being-investigated/news-story/d59837c771d5d103a7439a3f6316a0ac</url>
+  <title>Probe into roo attack on child</title>
+  <content>
+THE cause of a kangaroo attack on a young child at a popular Yering property is being investigated.
+The preschool-aged boy suffered facial injuries when he came across the kangaroo in the grounds of Yering Gorge Cottages and the Eastern Golf Club about 8am last Sunday morning.
+Paramedics treated him for head lacerations and he was taken to the Royal Children's Hospital in a stable condition.
+In a statement to the Leader, Eastern Golf Club manager Ben Telley said the accident was the first of its kind at the property, and he was trying to get more information about it.
+"An investigation of the accident is under way and our focus remains on the wellbeing of the family," he said.
+He said there were wild kangaroos on the property and they weren't fenced in, and it was too early to say if they would put in more fencing or precautions.
+"There is only rural fencing as the kangaroos move around between properties and also come from the other side of the river," he said.
+The property's website says many animals inhabit its grounds, including eastern grey kangaroos, swamp wallabies, common wombats and echidnas.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Eastern Golf Club</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yering</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ben Telley</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Children's Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Yering Gorge Cottages</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

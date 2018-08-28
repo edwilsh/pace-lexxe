@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416875393532160</docid>
+  <date>03/08/2017</date>
+  <time>00:01</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/nsw-police-get-new-protective-vests/news-story/e6c2cf9f5cc0ac756315b4fe99835282</url>
+  <title>NSW police get new protective vests</title>
+  <content>
+NSW police will be fitted out with new light-armour vests to protect them from bullets and stabbings.
+The move follows a similar rollout in Western Australia in July when frontline officers received stab-proof vests as part of new safety measures.
+NSW Police Commissioner Mick Fuller and Police Minister Troy Grant will announce the rollout of the new vests on Thursday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Police Minister Troy Grant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police Commissioner Mick Fuller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

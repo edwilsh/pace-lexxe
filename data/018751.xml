@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433234924220116</docid>
+  <date>05/08/2017</date>
+  <time>15:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/daramalan-college-welcomes-japanese-exchange-students-20170804-gxpog1.html</url>
+  <title>Daramalan College welcomes Japanese exchange students</title>
+  <content>
+Photo: Bernard Kane
+It's a rite of passage for many school children in Canberra to host international students.
+The latest is Daramalan College in Dickson which paired with its sister school in Kochi, Japan called the Kochi Gakugei School. Together they run an annual student exchange program.
+Twenty  Japanese teenagers arrived in Canberra on Friday  to experience a week of typical Aussie education. This will include subjects as diverse as Australian cooking to the history of Aboriginal art.
+Daramalan has had Japanese as part of the curriculum for many years and the parents and students are strongly supportive of these annual visits, which go a long way in increasing the understanding and acceptance of different cultures and traditions."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dickson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Daramalan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bernard Kane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kochi Gakugei School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kochi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daramalan College</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

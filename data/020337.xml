@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438255741032668</docid>
+  <date>06/08/2017</date>
+  <time>10:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/06/20/08/man-with-knife-arrested-at-eiffel-tower</url>
+  <title>Man with knife arrested at Eiffel Tower</title>
+  <content>
+French police arrested an intruder brandishing a knife at the Eiffel Tower on Saturday night which led the monument to be evacuated, sources said.
+The man, who is aged around 19 and has a history of psychological problems, forced his way past security guards and then shouted "Allahu Akbar" ("God is Greatest"), a legal source said.
+Armed soldiers who are permanently stationed at the Eiffel Tower ordered him to drop his weapon, which he did without attacking anyone, the source said, asking not to be named.
+The man, who was apparently alone, was "very quickly overpowered and arrested" and nobody was hurt, a statement from the company that runs the monument said.
+After the arrest, police at the site checked the venue and called for it to be evacuated at around 12.30am, 15 minutes before the Eiffel Tower normally closes, the statement added.
+The intruder was wearing a Paris Saint-Germain football shirt. At the time of the incident the tower was lit up with the colours of the team to welcome the club's new world-record signing, Brazilian star Neymar.
+France has been under a state of emergency since the November 2015 attacks on Paris restaurants, a concert venue and a sports stadium that left 130 people dead.
+
+Related Articles
+
+Since the first wave of terror attacks in January 2015, 239 people have been killed.
+The legal source said the man with the knife, a Frenchman born in the West African state of Mauritania, had been discharged from a psychiatric hospital in July.
+The tower reopened this morning as usual at 9.00am (local time).
+ 
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Paris</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Allahu Akbar</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>November 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Paris Saint-Germain</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Frenchman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eiffel Towers</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mauritania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Neymar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2015</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

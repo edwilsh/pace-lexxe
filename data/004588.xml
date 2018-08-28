@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405064233245344</docid>
+  <date>01/08/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/qld-universities-sex-abuse-unacceptable/news-story/3514df32a18f128f89ca589bce0a38c8</url>
+  <title>Qld universities sex abuse 'unacceptable'</title>
+  <content>
+Two Queensland universities have condemned the unacceptable rates of sexual assault and harassment on their campuses.
+Figures released by the University of Queensland and Queensland of Technology, as noted in an Australian Human Rights Commission survey, were close to the national average of 1.6 per cent of sexual assaults and 26 per cent of sexual harassment in university settings.
+"There is only one acceptable number and that is zero," UQ Vice-Chancellor Professor Peter Hoj said on Tuesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Queensland of Technology</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Human Rights Commission</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>University of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>UQ Vice-Chancellor Professor Peter Hoj</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

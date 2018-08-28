@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404810830170857</docid>
+  <date>01/08/2017</date>
+  <time>01:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/turn-on-your-phones-kill-switch-so-its-useless-if-stolen/</url>
+  <title>Turn On Your Phone's Kill Switch So It's Useless If Stolen</title>
+  <content>
+A stolen smartphone can ruin anyone's day, though our smartphones' built-in anti-theft software seems to be working, according to San Francisco District Attorney George Gascon, who cited a 50 per cent drop in phone-related robberies from 2013 to 2016 after the passage of the Smartphone Theft Prevention Act in the US.
+
+Image credit: Maurizio Pesce/
+
+requires manufacturers such as Google and Apple to include theft-deterring software. Most of it is packaged in the form of activation locks and remote device erasure software. It's already in your phone, and it's incredibly easy to make sure it's actually on.
+
+iOS: Find My iPhone
+
+Every iPhone associated with an iCloud account features both Find My iPhone, which lets you track your device's last known location, and , a feature requiring you to enter the associated username and password on the device.
+
+If you're selling your phone or giving the device to a friend, you can  after both turning Find My iPhone off and removing your account from the device itself. If your phone is stolen, Activation Lock will stop ne'er-do-wells from associating the phone with their own account, making it a useless slab of glass and aluminium.
+
+You should also enable . In iOS, visit Settings > Apple ID, then select the device you're using. From there you can enable or disable Find My iPhone, or view your currently lost device. You'll also need to enable the Find My iPhone app's location access. Turn it on in Settings > Privacy > Location Services.
+
+Android: Find My Device
+
+is Google's device tracking software, accessible in your phone's settings page. Open Settings > Google > Security, then turn on "Remotely locate this device" and "Allow remote lock and erase". From there, you can locate your device from any browser you're signed into. Just Google "find my phone" and if your Find My Device software is enabled, it should display its latest location.
+
+You'll also need to unhide your device from Google Play.  and toggle your device's visibility there.
+
+If your thief happens to factory reset the device in order to claim it for their own, they will have to prove they're you. According to Google, "You can sign in with any Google Account previously added and synced to the device as an account or user, but not as a guest. If you can't give this information during setup, you won't be able to use the device at all after factory reset."
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Find My iPhone</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phone's Kill Switch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Useless If Stolen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Location Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Play</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Find My Device</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iCloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Smartphone Theft Prevention Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco District Attorney George Gascon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Account</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maurizio Pesce</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

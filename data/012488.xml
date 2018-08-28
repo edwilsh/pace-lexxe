@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417820286351712</docid>
+  <date>03/08/2017</date>
+  <time>03:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/man-charged-after-raid-uncovers-nonactive-drug-lab/news-story/4e07c61282cacfd052ed305f690dca6b</url>
+  <title>Man charged for drug lab</title>
+  <content>
+A 27-year-old Meadowbrook man has been charged with a range of drug offences after a police raid on a house in Edenlea Drive on Wednesday.
+Detectives from the Logan District Criminal Investigation Branch and officers from the Logan Central Operations Team reported to have uncovered a "nonactive clandestine drug laboratory" along with some dangerous drugs.
+They said they found items used to produce methylamphetamine along with a firearm and a quantity of unlawful dangerous drugs in a car at the address.
+A man was taken to the Beenleigh Watchhouse where he was charged for producing dangerous drugs and other drug-related offences.
+He was expected to appear in the Beenleigh Magistrates Court on Thursday.
+Investigations are continuing.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Logan Central Operations Team</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Meadowbrook</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Logan District Criminal Investigation Branch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beenleigh Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beenleigh Watchhouse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Edenlea Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

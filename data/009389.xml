@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413697117668372</docid>
+  <date>02/08/2017</date>
+  <time>11:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/hendra-virus-detected-in-northern-nsw/news-story/fe4b411f353f81dc31a9b59a4526a417</url>
+  <title>Hendra virus detected in northern NSW</title>
+  <content>
+The presence of the often-fatal Hendra virus has been confirmed in an unvaccinated horse in the north of NSW.
+The Department of Primary Industries has urged horse owners to remain vigilant after the virus was detected in an animal at Murwillumbah.
+The property has been placed under movement restrictions by Local Land Services.
+Human infection and death have occurred following high-level exposure to body fluids from an infected horse, the Department of Primary Industries says on its website.
+"This is the second confirmed case of Hendra in NSW this year, following a Hendra virus infection in an unvaccinated horse near Lismore last month," NSW Chief Veterinary Officer Dr Christine Middlemiss said.
+The owner of the 14-year-old gelding noticed the horse was lethargic and not eating properly.
+Four days later its condition deteriorated - it became unsteady on its feet and unwilling to move.
+Tests revealed the horse had decreased gut sounds, a temperature and poor circulatory function.
+The area is no stranger to the Hendra virus as it had been detected in the region once before.
+"All known Hendra virus cases have occurred in Queensland or northern NSW, but cases could occur wherever there are flying foxes or in horses that had recent contact with flying foxes prior to movement," Dr Middlemiss said.
+Vaccination is the most effective way of reducing the risk of infection, but Dr Middlemiss said good biosecurity and personal hygiene measures should always be practiced as well.
+People and other animals should be kept away from infected or sick animals, she added.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Local Land Services</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lismore</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Dr Middlemiss</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Murwillumbah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hendra</name>
+    <count>6</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Department of Primary</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Chief Veterinary Officer Dr Christine Middlemiss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

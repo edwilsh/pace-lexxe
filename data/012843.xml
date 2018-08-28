@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419014287280153</docid>
+  <date>03/08/2017</date>
+  <time>08:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4832396/lead-dumping-set-up-at-summerhill/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Lead dumping set up at Summerhill</title>
+  <content>
+OUT OF THE RED: The Lead Abatement Strategy Area. Picture: NSW EPA
+
+NORTHERN Lake Macquarie residents will be given a way to safely dump lead-laden soil, the NSW Environment Protection Authority has announced. 
+Residents living the Lead Abatement Strategy Area will be eligible to dump the dirt at Newcastle City Council's Summerhill tip after the environmental body varied its licence. 
+
+The Newcastle Herald revealed high levels of elements including lead in the Boolaroo area near the former Pasminco smelter site through . 
+The residents must register to bring the dirt by calling 4908 6800 from August 14, creating a clear picture of which properties are using the system. 
+There is no deadline for residents to dump their soil. 
+But the dumping will not be free, with residents received a "reduced rate" after the waste levy was waived. 
+More information is available on the EPA Environment Line on 131 555 or by calling Newcastle City Council on 4974 2000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newcastle City Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Summerhill</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lead Abatement Strategy Area</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle City Council's Summerhill</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pasminco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boolaroo</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NSW Environment Protection Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Herald</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>August 14</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>EPA Environment Line</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NORTHERN Lake Macquarie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW EPA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

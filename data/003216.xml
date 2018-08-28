@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403251757015292</docid>
+  <date>31/07/2017</date>
+  <time>19:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/05/00/woman-attacked-in-hunter-home-invasion</url>
+  <title>Woman attacked in Hunter home invasion</title>
+  <content>
+A woman is recovering in hospital after she was bashed during a violent home invasion in Singleton
+The woman, 42, was attacked by a man and a woman, who is known to the victim, after they forced their way into her home at about 9pm on Monday.
+She managed to get help from a neighbour and is in hospital with facial fractures in a serious but stable condition.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Singleton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

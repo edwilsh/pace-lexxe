@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425856170310964</docid>
+  <date>04/08/2017</date>
+  <time>10:52</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/china-official-jailed-for-life-over-graft/news-story/1677cd90c265c67e92737bdff5a782a9</url>
+  <title>China official jailed for life over graft</title>
+  <content>
+China has jailed for life the former Communist Party boss of its northeastern province of Liaoning after finding him guilty of corruption as the government keeps up its crackdown on graft.
+A court in central Henan province found Wang Min guilty of bribery and dereliction of duty, and ordered all his assets seized, the official People's Daily said on Friday.
+Between 2004 and 2016, when Wang held a range of jobs, including party boss of Jilin, the province neighbouring Liaoning, he abused his position to seek personal gain in promotions for others, the paper said.
+He took bribes running to more than 146 million yuan and failed to prevent a creeping vote-buying scandal in Liaoning's provincial legislature, it said.
+Half the province's legislators were dismissed last year due to fraud.
+Wang repented and admitted his guilt, meaning he received a lighter sentence, the People's Daily said, a likely reference to his escaping the death penalty.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jilin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liaoning</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Wang</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Henan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Wang Min</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>People's Daily</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communist Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

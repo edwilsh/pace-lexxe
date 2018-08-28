@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419233330616555</docid>
+  <date>03/08/2017</date>
+  <time>09:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/opinion/columnists/never-too-late-to-press-the-reset-button-on-the-nbn-20170802-gxnlcb</url>
+  <title>Never too late to press the reset button on the National Broadband Network</title>
+  <content>
+by
+Paul Budde
+
+There are now overwhelming signs thatk. By commissioning the Australian Communications and Media Authority to conduct a review, the government has admitted as much.
+, the retail service providers (RSPs). There are large numbers of premises that are being put into the . And perhaps as many as a third of premises that are connected are having short- and long-term connection problems.
+These problems are being discussed even by media that supported the changes this government introduced to the original NBN. And they all go directly back to the change from a plan based on a future-proof all-fibre infrastructure, to one that largely depends on using the old existing telecommunications infrastructure.
+In my discussions with then shadow minister Malcolm Turnbull during 2012-13, when he started to flag the change in Coalition, he indicated that he also saw  as the ultimate solution. His argument however, was that we couldn't afford it - the costs were simply too high.
+
+My suggestion was that if that was the case, then perhaps the investment should be spread out over a longer period. However, I said we should stick to the FttH technology, as it is future-proof and will provide Australia with the best infrastructure to further build its digital economy and digital society. If the government took all the national benefits into account in calculating its return on investment, then this would significantly reduce the affordability issue that is at the core of
+
+It's well understood that digital infrastructure is essential if education, healthcare, government services and e-commerce are to keep up in future. Digital services are taking enormous costs out of our economy, and are essential to keeping these things affordable.
+But it also requires infrastructure that has enormous capacity, is highly resilient, has plenty of redundancy, is reliable and affordable, has low latency and is ubiquitous. The only technology that fits this bill is FttH. Therefore starting out on a plan that does not deliver this ultimate outcome is doomed to fail.
+The right experts are crucial
+
+The role of government is to provide the vision for the country in relation to the role digital infrastructure will have to play in our economy and society. Once this vision has been formulated it should then be handed over to the technology experts to select the technologies that are needed for this, and it is these experts who should design the infrastructure. Based on their costing models, time planning estimations can be added to it. So far we have been doing all of this the other way around.
+
+The experts should be selected according to their skills and not their political persuasion. They should look at what other countries are doing, study their plans, seek collaboration and sharing of knowledge and insights. For example, many engineering experts indicated back in 2012 and 2013 that, based on international developments, the costs related to FttH would decrease by 30-40 per cent over the following five years. Looking at FttH deployments in New Zealand, Britain and the US this prediction is on target. At the same time the costs of maintaining old infrastructure will go up, as a large part of these costs are labour-related.
+We are now starting to see that the cross-over costs points between old technologies and new technologies (FttH) are within reach. We are not quite there yet but certainly over the next few years this will happen. At that point Australia will be left not only with technology that is out-of-date but also with a network that will, on an annual maintenance cost basis, be more expensive.
+So while countries with FttH networks will see their retail costs going down, Australian users will see theirs going up. The  with its financial situation and this will only get worse with time.
+Because the network is now a patchwork of technologies it will be impossible to provide a ubiquitous level of service quality needed for commerce, entertainment, healthcare and education; and this will hamper innovation and other new economic activities because organisations will not be able to deliver high-quality services to all Australians. There will be a sharp divide between those with high-quality broadband access and those with poor access.
+
+It is never too late to press the reset button. The only solution is to take politics out of the equation and base decisions on a sound vision from the government on where it sees Australia's digital future in relation to the services it will need to provide. Then leave it to the engineers to develop the technologies that are needed for this.
+Paul Budde is managing director of BuddeComm.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Paul Budde</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTH</name>
+    <count>6</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BuddeComm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

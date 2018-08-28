@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398888070164804</docid>
+  <date>31/07/2017</date>
+  <time>02:13</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/south-east/police-identify-man-hit-by-car-on-cranbourne-rd-as-28yearold-frankston-man/news-story/c2ca97998c243389ee43716e816ae00c</url>
+  <title>Police confirm identity of pedestrian</title>
+  <content>
+POLICE have thanked the public and media for help identifying a Frankston man involved in a serious accident.
+Investigators have confirmed the pedestrian to be a 28-year-old Frankston man.
+The man continues to receive treatment in hospital and the investigation is ongoing.
+He crossed into the path of a west bound Jeep and was struck by a vehicle on Cranbourne Rd. on July 27 at about 11.10pm.
+He was flown to the Alfred with serious head, chest, pelvis and leg injuries.
+</content>
+  <sindexList>
+  <sindex>
+    <name>July 27</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Frankston</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jeep</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cranbourne Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Alfred</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

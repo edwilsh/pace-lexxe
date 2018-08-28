@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445655969784345</docid>
+  <date>07/08/2017</date>
+  <time>15:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/drug-deaths-painkillers-overdoses-worse-than-thought-2017-8</url>
+  <title>Drugs are killing far more Americans than we thought, new studies suggest</title>
+  <content>
+A new study suggests that the death toll from drug overdoses in America is much more severe than initially believed.
+
+In December, the CDC said  in 2015, with over 60% dying from opioids (prescription painkillers) and heroin. Overdose numbers have been rising for years, but the new research, , suggests that those rates were dramatically underreported.
+
+The new paper posits that one reason for this gap is that in many overdose cases, no specific drug is identified as the cause on the death certificate. Data from 1999 to 2014 suggests that was the case up to  drug deaths recorded during that period.
+
+However, even in cases in which no specific drug is listed as the cause of death, officials often do list at least one category of drug based on screenings they do at the time. For the latest study, the researchers used that information to correct the data they had on drug overdoses - and their findings were stark.
+
+Nationally, corrected death rates from opioid painkillers were 24% greater than reported rates in 2014; those for heroin were 22% higher.
+
+In the states where gaps between reported and actual death rates were greatest - Pennsylvania, Indiana, and Louisiana - the percentages differed by up to 108%.
+
+These results change the face of the US' drug overdose epidemic substantially, as can be seen on the maps below. Reported overdose deaths for opioids and heroin are on the left; corrected deaths are on the right.
+
+The corrected figures suggest that deaths from opioids were much more concentrated in the Mountain states, Rust Belt, and Industrial North - extending to New England - as well as much of the South. Heroin deaths, on the other hand, were highest in the Northeast and Rust Belt states, but had less of an effect on the South or Mountain states.
+
+"Current death certificate data are problematic for understanding the drug poisoning epidemic, with a particular issue being the frequency with which no specific drug is identified," wrote , the author of the paper and a professor at the University of Virginia, in the paper.
+
+The new analysis comes just four months after an  for the Centres for Disease Control and Prevention also suggested that the death toll was higher than originally believed.
+
+CDC field officer Victoria Hall and her Minnesota-based team reviewed a decade of death records submitted to the Minnesota Department of Health's Unexplained Death (UNEX) surveillance system.
+
+Hall, who presented the results on Monday at a CDC conference, found that of the 1,676 UNEX deaths between 2006 and 2015, approximately 3.5% had some complications due to opioid use. Those deaths were never filed as opioid-related deaths, despite some autopsies showing toxic or even lethal levels of painkillers.
+
+That's likely because the CDC classifies deaths using codes dictated by the Center's International Classification of Diseases. In some cases, if a person died due to an infectious disease, such as pneumonia, the death was classified for that only that condition, even if opioids were seen as a significant contributing factor.
+
+"While my research cannot speak to what per cent we are underestimating, we know we are missing cases," Hall . "It does seem like it is almost an iceberg of an epidemic."
+
+The UNEX system, which began in 1995, originally included other states as well, but Minnesota is the only one that's currently maintaining its system.
+
+Minnesota is far from the hardest-hit state in the opioid crisis, however - its overdose death rate .
+
+According to Hall, there is no national standard for how to file a death certificate or for what constitutes an overdose, leaving much to a medical examiner's discretion.
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indiana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Center's International Classification of Diseases</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Industrial North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UNEX</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>University of Virginia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pennsylvania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>-12</score>
+  </sindex>
+  <sindex>
+    <name>Louisiana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New England</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Disease Control</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minnesota Department of Health</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minnesota-based</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Hall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minnesota</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Rust Belt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Unexplained Death</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CDC</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

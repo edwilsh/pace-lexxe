@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424267032384384</docid>
+  <date>04/08/2017</date>
+  <time>04:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/pacific-bauxite-secures-solomon-licence/news-story/4d8a964048ebe041df30f258d9922bfd</url>
+  <title>Pacific Bauxite secures Solomon licence</title>
+  <content>
+Pacific Bauxite has been granted a prospecting licence over the South West New Georgia bauxite project, in the Western Province of the Solomon Islands.
+The company believes the project is prospective for large tonnage direct shipping ore bauxite mineralisation, which appears analogous with deposits in the Nendo and Rennell Islands, both within the Solomon Islands.
+This style of mineralisation provides the opportunity for quick, cost-effective resource definition and a simple, low cost, dig-load-ship style mining operation.
+The licence was granted for an initial three years and the company has received widespread local support.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Solomon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Province of the Solomon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nendo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South West New Georgia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rennell Islands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Solomon Islands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Bauxite</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

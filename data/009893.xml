@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414036420092105</docid>
+  <date>02/08/2017</date>
+  <time>13:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/google-and-mit-used-machine-learning-to-retouch-smartphone-photos-2017-8</url>
+  <title>Google and MIT built software that dramatically improves smartphone photos before you take them</title>
+  <content>
+Google has collaborated with researchers at the MIT on a system that can retouch your smartphone photos before you've taken them, .
+
+Their system uses machine learning algorithms  they have been taken by a professional photographer.
+
+The idea is to transform a picture by tweaking specific aspects of it, like brightness or saturation, using settings that are specific to the image in frame.
+
+That is nothing particularly new by itself; systems like this already exist, but they work on generally heavy high-resolution images.
+
+This kind of data processing is huge, and not practical for mobile devices. This is why researchers tried to use a smaller image as the source instead, but still "this doesn't work well in practice; the low-res image just leaves out too much data," the MIT researchers say.
+
+The new system learned how to tweak images by analysing a set of 5,000 photos, all of which had been retouched by five photographers. The system compared the raw, original shot to the retouched version, and understood how to mimick the readjustments.
+
+The new method consists of two new clever tricks. The first is to render changes to the original image as so-called "formulae" (think of them as a layer) rather than masks applied to a high-res image. The formulae simply contain information on how to modify the source image, without having to take and process a picture. It all happens in real time.
+
+As the user is in their device's viewfinder, the system then works out how to apply those formulae to get to the final image. In short, the system never applies the filters on a compressed image, but rather imposes the filtering layers on top of a shot that hasn't been taken yet - and users can see it while framing the shot inside the camera app.
+
+The whole system weighs around 100 megabytes, which means it's light and fast enough to operate on the fly on a mobile device. When the researchers compared their new method to another machine learning algorithm that only uses high-res shots (both input and output), they found their system took one-hundredth of the time to process.
+
+"This technology has the potential to be very useful for real-time image enhancement on mobile platforms," said Jon Barron, one of Google's AI scientists. "This paper may provide us with a way to sidestep these issues and produce new, compelling, real-time photographic experiences without draining your battery or giving you a laggy viewfinder experience."
+
+Get the latest Google stock price
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIT</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jon Barron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Google's AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

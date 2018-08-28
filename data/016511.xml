@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425327889324204</docid>
+  <date>04/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/many-students-at-school-not-vaccinated/news-story/4015644f54b5773249e8826507752212</url>
+  <title>Infected student sparks measles alert</title>
+  <content>
+Health authorities have warned doctors and parents of the potential for a measles outbreak, after a Perth high school student was confirmed with the infection after returning from a holiday in Italy which is in the grip of an epidemic.
+The WA Health Department said a substantial number of students exposed at the school have not been vaccinated against measles.
+The school has a metropolitan-wide catchment, making it likely more cases of measles will occur in Perth over the coming weeks.
+Before being diagnosed, the student was also in the Midland area on the afternoon of Tuesday, July 25 and in the early afternoon of Sunday, July 30, and may have exposed people there.
+The campus where the student attends also includes pre-school and primary school students. Although contact between secondary students and other age groups is thought to be minimal, incidental exposure of younger students cannot be excluded.
+The school has been working closely with public health staff in notifying parents of the potential exposure.
+Measles is highly contagious.
+Director of Communicable Diseases Paul Armstrong said about 9 out of 10 susceptible persons in close contact with a measles patient would develop measles.
+Early symptoms include fever, cough, runny nose and sore eyes. These are followed, about three days later, by a red blotchy rash. The rash usually starts on the face and spreads to the rest of the body. Measles can be especially severe in infants and people with poor immune systems.
+People who developed a fever with other symptom, including cough, runny nose, sore red eyes and a rash, within two to three weeks of potential exposure to someone with measles, should stay at home and consult their doctor.
+"Anyone who thinks they are infected should call ahead and mention their possible contact with measles so they can be isolated when they arrive at the GP surgery or emergency department, to prevent infecting other patients and staff," Dr Armstrong said.
+Naturally occurring measles has been eliminated from WA for about 20 years but occasional cases and small outbreaks have been associated with tourists or WA residents who are infected overseas.
+Complications following measles can be serious and include ear infections and pneumonia in about 10 per cent of cases. Around 40 per cent of cases require hospitalisation and about one person in every 1,000 will develop encephalitis, an inflammation of the brain.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIDLAND</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 30</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Health Department</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Armstrong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communicable Diseases Paul Armstrong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

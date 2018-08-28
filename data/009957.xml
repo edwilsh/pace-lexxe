@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414547521212460</docid>
+  <date>02/08/2017</date>
+  <time>14:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/00/50/trump-signs-russia-sanctions-into-law-white-house</url>
+  <title>Trump signs Russia sanctions into law: White House</title>
+  <content>
+President Donald Trump has signed into law a package of sanctions against Russia, the White House said Wednesday, after he had privately opposed the measures and his aides had lobbied against them.
+Two White House sources said Trump had signed the bill behind closed doors and away from the cameras -- in signing it, he avoided the humiliating prospect of Congress overriding his veto.
+The package introduces tough additional sanctions against Russia over alleged meddling in last year's election and its annexation of the Crimea peninsula from Ukraine.
+arb/sst
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ukraine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Crimea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

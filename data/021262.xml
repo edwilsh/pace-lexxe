@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441562865884460</docid>
+  <date>06/08/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/north-east-link-toll-road-proposed-routes-slammed-by-mayor/news-story/091b0555bea754bdaa21e987adb1c968</url>
+  <title>Mayor slams North East toll road routes</title>
+  <content>
+ROUTES proposed for the North East Link toll road could cost taxpayers $16 billion and should be dumped, according to a Melbourne council.
+It is understood four routes are being considered for the "missing link" in Melbourne's northern road network.
+However, Nillumbik mayor Peter Clarke said at least two were "obviously not viable".
+Northern suburbs councils including Nillumbik, Banyule and Manningham were due to meet with the North East Link Authority today for an update.
+Mr Clarke said one of the longer routes joining the EastLink in Ringwood to the Ring Rd through Melbourne's outer-east, via Chirnside Park and Kangaroo Ground, was expected to be too costly.
+Rather than wasting it on routes that would not be built money should be spent on -addressing congestion during construction over the next decade, Mr Clarke said.
+Premier Daniel Andrews has flagged that a preferred route would be revealed by year's end, for a construction start in 2019.
+Opposition Leader Matthew Guy said the government could not be trusted on project costs following the dumping of the East West Link.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ringwood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>East-West Link</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Clarke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EastLink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kangaroo Ground</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Premier Daniel Andrews</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Banyule</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Clarke</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chirnside Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Manningham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leader Matthew Guy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East Link</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East Link Authority</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ring Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nillumbik</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

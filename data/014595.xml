@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422454556155988</docid>
+  <date>03/08/2017</date>
+  <time>21:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/07/28/man-arrested-over-melbourne-death</url>
+  <title>Man arrested over Melbourne death</title>
+  <content>
+Homicide detectives have arrested a man after the body of another man was found in a Melbourne home.
+Emergency services made the grim discovery after they were called to Murra Court in Ashwood on Thursday night.
+At 3.50am on Friday police arrested a 45-year-old man at a nearby home in Chadstone, and he is now being interviewed.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chadstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murra Court</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashwood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424082348787336</docid>
+  <date>04/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/blaze-sweeps-through-dubai-skyscraper/news-story/3b307421e08af989e547a7edc33d8475</url>
+  <title>Blaze sweeps through Dubai skyscraper</title>
+  <content>
+A fire has ripped through one of the world's tallest residential towers in Dubai, the latest in a series of fires in tall structures in the United Arab Emirates, the Gulf's tourism and business hub, over the past three years.
+Flames shot up the sides of the Torch tower in the second blaze to hit the high-rise since 2015, forcing hundreds of occupants to flee as burning debris showered down the sides of the 337 metre tall, 79-storey structure.
+"We were sleeping and we woke up to the fire alarm and people screaming. We ran down the stairs and it took us about 10 minutes to reach from the 50th floor," a resident who gave his name as George told Reuters.
+"It was very bad. The fire was very strong at that time, about 1am. Then it started calming down over the next two hours," he added.
+The tower was evacuated, no injuries were reported, and there was no immediate word on the cause of the blaze.
+But the incident may revive questions about the safety of materials used on the exteriors of tall buildings across the wealthy Gulf region and beyond.
+An investigation by the management of the Torch after its 2015 fire found that most of the damage was to the cladding, exterior panelling used for decoration or insulation.
+Police in Britain have said they believe the system of insulation and cladding panels added during a refurbishment of London's Grenfell Tower may have contributed to the rapid spread of a fire there in June in which 80 people died.
+The UAE revised its building safety code in 2013 to require cladding on all new buildings over 15 metres tall be fire-resistant, but older buildings are exempt.
+Most of Dubai's approximately 250 high-rise buildings use cladding panels with thermoplastic cores, UAE media have reported. Panels can consist of plastic or polyurethane fillings sandwiched between aluminium sheets.
+Such cladding is not necessarily hazardous, but it can be flammable under certain circumstances and, depending on a skyscraper's design, may channel fires through windows into the interiors of buildings.
+Dubai's civil defence authorities said firefighting squads put out the blaze around 4am local time and were cooling the building.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dubai</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Arab Emirates</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UAE</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London Grenfell Tower</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>George</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gulf</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

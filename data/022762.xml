@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443392521977821</docid>
+  <date>07/08/2017</date>
+  <time>06:55</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/10-things-in-tech-you-need-to-know-today-august-7-2017-8</url>
+  <title>10 things in tech you need to know today</title>
+  <content>
+Good morning! Here's the technology news you need to know this morning.
+
+1.  The manifesto criticises company initiatives aimed at increasing gender and racial diversity and argues that Google should instead focus on "ideological diversity."
+
+2.  The new Apple Watch could also get a redesign.
+
+3.  A new patent filing by the company outlines a way to fit mobile drone maintenance stations on trains and container ships.
+
+4.  It increased production capacity for the AirPods and the wait time is going down.
+
+5.  The company, Teneo, confirmed that it has been hired by the former Uber CEO.
+
+6.  Machines will operate with a 60% yield and churn out about 79 million displays for Apple to make iPhone 8s with.
+
+7.  Apps that are found to crash a lot will be downranked in charts.
+
+8.  It originally suspended sales of the devices because of concerns that the phones collected user data.
+
+9.  There were no humans in the front seats.
+
+10.  Leaks revealed what the application will look like.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Teneo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AirPods</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Uber CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Watch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

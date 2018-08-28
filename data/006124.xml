@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408148019821212</docid>
+  <date>01/08/2017</date>
+  <time>14:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/00/02/australia-by-the-hilda-numbers</url>
+  <title>Australia by the HILDA numbers</title>
+  <content>
+AN AUSTRALIAN SNAPSHOT
+* Survey interviews the same 17,000 people every year since 2001
+* Home ownership among 18 to 39-year-olds has declined rapidly since 2001, from 36 per cent down to 25 per cent in 2015
+* From 2002 to 2014, the average home debt of young home owners with mortgages increased by 99 per cent in real terms, from $169,000 to $337,000
+* 60 per cent of men aged 22 to 25, and 48 per cent of women in the same age bracket, were living with their parents - up from 43 per cent and 27 per cent respectively in 2001
+* About 40 per cent of adults gamble at least once a month, mostly on lottery games, while about two per cent of those identify as "problem gamblers"
+* Support for equal rights for gay couples rose from 32 per cent in 2005 to 59 per cent in 2015 among men, and from 43 per cent to 67 per cent among women
+* Overall poverty has continued to fall, but child poverty in single-parent families has risen
+* Median weekly child care expenditure has risen $162 for couple families and $114 for single-parent families between 2002 and 2015
+* Household incomes have on average stopped growing since 2012, with Sydney having the smallest rate of growth in median income
+* The average retirement age for men has increased from 62.1 in the early 2000s to 66.1 between 2012 and 2015
+* For women the retirement age increased from 61.3 in the early 2000s to 63.8 over the same period
+SOURCE: The Household, Income and Labour Dynamics in Australia survey 2017
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>HILDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour Dynamics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRALIAN SNAPSHOT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

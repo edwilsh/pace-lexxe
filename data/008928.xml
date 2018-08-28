@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412528886540652</docid>
+  <date>02/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4829227/bomb-threat-made-to-hospital/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Bomb threat made to hospital</title>
+  <content>
+Cessnock Hospital
+
+Police were called to Cessnock Hospital on Monday night after reports of a bomb threat.
+Officers were forced to inspect the hospital grounds after a phone call was made by a woman who "made comments amounting to a bomb threat" about 7.30pm.
+
+Under operational protocols, staff called police who attended and cleared the premises of any threat. 
+
+The incident came after staff received a call from someone on the same phone number minutes earlier demanding details about a patient.
+The request was refused due to confidentiality reasons. The staff member told police the caller became "irate and abusive" before she hung up.
+
+Police inquires continue into the matter.
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cessnock Hospital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

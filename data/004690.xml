@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405966176390756</docid>
+  <date>01/08/2017</date>
+  <time>05:41</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/buenos-aires-herald-shuts-after-141-years/news-story/a31c62237a0829e0519737a4319f1ff5</url>
+  <title>Buenos Aires Herald shuts after 141 years</title>
+  <content>
+Deutsche Presse Agentur
+
+Share
+
+The English-language Buenos Aires Herald is closing down after 141 years.
+The newspaper, the only one in the country to have reported on the human rights violations committed under the military junta (1976-83), had already been reduced to a weekly edition last year.
+It had initially supported the 1976 coup which overthrew president Isabel Peron, but changed its stance when the junta began murdering and "disappearing" opponents.
+Editor Robert Cox was forced out in 1979 and went to the US, after being arrested and receiving death threats against his family.
+Nevertheless, the Herald continued to report on the junta's rights violations.
+The paper was founded in 1876 by Scottish immigrant William Cathcart. It was bought by US company Evening Post Publishing Company in 1968 but was taken over by Grupo 23 in 2007.
+Just a year later it was bought by AmFin SA who made the decision to close it down.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Isabel Peron</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grupo 23</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Buenos Aires Herald</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>William Cathcart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Presse-Agentur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AmFin SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Evening Post Publishing Company</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Cox</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>English-language Buenos Aires Herald</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

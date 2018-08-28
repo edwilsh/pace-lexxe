@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421037216920389</docid>
+  <date>03/08/2017</date>
+  <time>16:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/gopro-stock-price-is-rising-ahead-of-second-quarter-earnings-2017-8</url>
+  <title>GoPro is climbing ahead of earnings</title>
+  <content>
+releases its second-quarter earnings after the bell on Thursday and its stock is rallying ahead of the release;  at about $US8.19 apiece.
+
+Wall Street is expecting a loss of $US0.40 per share on revenue of $US269.167 million, according to data from Bloomberg.
+
+2016 was the first year since 2011 that  and the first time that GoPro lost money.
+
+Analysts are mostly bearish on the stock. An overwhelming 92.9% of analysts either rate the company as either a hold or a sell, per Bloomberg.
+
+The company has a history of beating Wall Street's expectations. GoPro has beat earnings estimates in eight of the last 12 quarters, Bloomberg data shows.
+
+GoPro has struggled this year with sahres down 6.28% while the tech-heavy Nasdaq is up 20.06%.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US8.19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US0.40</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US269.167</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GoPro</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

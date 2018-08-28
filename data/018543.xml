@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432290031405432</docid>
+  <date>05/08/2017</date>
+  <time>11:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/national/search-under-way-after-us-mv22-military-helicopter-crash-off-queensland-coast-20170805-gxq5ay.html</url>
+  <title>Search under way after US military helicopter 'mishap' off Queensland coast</title>
+  <content>
+A search is under way after a US military helicopter crashed off the coast of Queensland.
+The aircraft, an MV-22 Osprey, is believed to have crashed on Saturday afternoon, with several of those on board unaccounted for.Photo: US Army
+In a statement, the US Marine Corps Public Affairs Office said there had been a "mishap".
+"The United States Marine Corps confirms there is an active search and rescue mission ongoing for service members involved in an MV-22 mishap off the east coast of Australia," the statement said.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corps Public Affairs Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Army</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States Marine Corps</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

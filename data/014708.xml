@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423450988585893</docid>
+  <date>04/08/2017</date>
+  <time>01:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/australia-retail-sales-june-2017-8</url>
+  <title>HERE COMES AUSTRALIAN RETAIL SALES...</title>
+  <content>
+Australia's retail sales report for June is about to be released.
+
+Economists expect sales to grow by 0.2%, well below the pace seen in the prior two months.
+
+Retail sales volumes - something that will feed directly into household consumption in Australian GDP - are tipped to grow by a robust 1.2% in the June quarter.
+
+This page will be updated as soon at the report is released at 11.30am AEST.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>COMES AUSTRALIAN RETAIL SALES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian GDP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

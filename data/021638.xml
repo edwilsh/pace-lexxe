@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441610110525268</docid>
+  <date>07/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets/china-seeks-to-shed-light-on-its-shadow-banking-system-20170806-gxqay1.html</url>
+  <title>China seeks to shed light on its shadow banking system</title>
+  <content>
+The bulk of economists and investors outside China agree: the country's already high debt levels are growing too fast and threaten its extraordinary run of economic growth.
+That worry is most commonly expressed in reference to the country's debt-to-GDP ratio. It's estimated by UBS to stand about 280 per cent - on par with the United Kingdom, and slightly ahead of the United States and the European Union.Photo: Stefan Postles
+But those developed nations aren't adding on credit at double-digit rates. China is. And given the central role of debt in the global financial crisis, that has many worrying that the country is heading towards some kind of financial meltdown.
+The issue is particularly pertinent in Australia. Hopes to extend our record-breaking run of economic growth in the coming years depends greatly on our major trading partner's continued ability to grow. The Reserve Bank in its recent updated forecasts expects our economy to grow by a booming 3.5 per cent in 2019. What are the chances of that if China is wrestling with a financial crisis?
+So the question continues to be asked here and abroad: when will China tackle its debt "problem"?
+The answer: not any time soon.
+
+"They have no intention" of reducing overall leverage in the economy, UBS China economist Donna Kwok says.
+"What's more important? Making sure that growth remains stable, or addressing this need to lower the debt-to-GDP ratio at a cost of destabilising growth?"
+﻿Kwok asks this rhetorically. She points to several "unique factors" that allow China to continue to build up debt without the risk of a meltdown.
+Government priorities
+
+First, the government largely owns the biggest lenders (banks) and borrowers (corporates), which means they have an outsized influence over debtors and creditors in the system. Second, more than 95 per cent of the debt is locally financed (rather than funded by flighty offshore lenders), and mainly through the banking system. Third, domestic savings are very high, mostly as deposits in the banks. And last, policymakers continue to control the movement of money in and out of the country, reducing the risk of damaging capital flight.
+While not focused on overall leverage in the real economy, Chinese policymakers are intent on lowering the pace of credit. But more importantly, this year regulators have moved decisively to reduce risks in the so-called "shadow banking" sector - those corners of the system where credit flows but which are often unregulated and unreported.
+Shadow credit now accounts for 30 per cent of total system credit, Kwok says. And through a complex web of transactions, large banks lend to smaller banks, which then pass that funding on to non-bank financial institutions, in what Kwok refers to as a "layering effect". This web of relationships make it difficult for regulators - and even the banks - to ascertain where the ultimate money has flowed, how it has been used, and what risks are attached.
+This year, the People's Bank of China has worked hard to shed light into the shadow banking system, which has tripled in size over the past decade as policymakers moved to encourage innovation in the financial sector.
+"Right now a lot of the supervisory and regulatory tightening is all geared towards pushing for financial de-leverage and the unwinding of these types of layers," Kwok says.
+"There is no provisioning [for parts of the shadow credit system], there is no buffering, there are no checks and balances," Kwok explains. "If something happens in that part of the credit system it will be much harder for them to pin down where the problem is and go in and inject liquidity, or resuscitate or smooth credit supply."
+So far this tightening of financial regulation has done little to slow the economy. It was a stronger than expected first half of the year, in which GDP expanded at a rate of 6.9 per cent after inflation, well above the official target of at least 6.5 per cent. Kwok puts that down to the usual lagged effect of a reduction in credit on the real economy, but strong growth in corporate profitability has also helped ameliorate the impact by reducing Chinese businesses' need to borrow.
+There is no "magic level" of debt-to-GDP, Kwok says. Instead of focusing on overall leverage levels, Kwok believes it is better to focus on potential points of weakness, such as signs of accelerating capital outflows and the continued rise in shadow credit.
+"This is a step in the right direction on a long journey towards one day when China may de-leverage the real economy," Kwok says. "But right now, we are talking about financial deleverage."
+</content>
+  <sindexList>
+  <sindex>
+    <name>United Kingdom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Union.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donna Kwok</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UBS China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kwok</name>
+    <count>9</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Stefan Postles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>People's Bank of China</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

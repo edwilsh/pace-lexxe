@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417171746280104</docid>
+  <date>03/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/03/31/qld-road-rage-manslaughter-trial-nears-end</url>
+  <title>Motorway became 'Fast and Furious': court</title>
+  <content>
+A New Zealander on trial over the death of a man after a roadside confrontation was minding his own business when a busy Queensland motorway "turned into a version of the Fast and the Furious", a court has heard.
+Tamate Henry Heke is fighting allegations he unlawfully killed Shane Merrigan by punching the 50-year-old before he was fatally hit by a rubbish truck on the Gateway Motorway on December 1, 2015.
+In his closing remarks on Thursday, defence barrister Anthony Kimmins told the Brisbane Supreme Court the motorway "turned into a version of the Fast and the Furious" for his client that afternoon because of Mr Merrigan's aggressive driving style.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Merrigan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gateway Motorway</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Shane Merrigan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tamate Henry Heke</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Furious</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Kimmins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealanders</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

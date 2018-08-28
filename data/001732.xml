@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399957517035873</docid>
+  <date>31/07/2017</date>
+  <time>06:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/big-bash-t20-leagues-just-got-a-little-bigger/3207078/</url>
+  <title>Big Bash T20 leagues just got a little bigger</title>
+  <content>
+THE Big Bash League will be bigger than ever this summer, with the competition expanded from 32 regular season matches to 40.
+The fixture lists for both BBL 07 and the Women's Big Bash League were released on Monday, with WBBL 03 kicking off on December 9 and the men's competition beginning on December 19 with a Sydney Smash clash between the Thunder and the Sixers.
+Both tournaments will finish on February 4.
+The expanded season means each BBL 07 side will play 10 games during the regular season, up from the eight they played last summer. Each side will also receive an additional home match.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Bash League</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Women's Big Bash League</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BBL 07</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sixers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Smash</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>February 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bash T20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 19</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>December 9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WBBL 03</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thunder</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

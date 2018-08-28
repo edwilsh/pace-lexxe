@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416652055228137</docid>
+  <date>02/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/ausgrid-lands-record-us-debt-deal-20170802-gxo80f</url>
+  <title>Ausgrid lands record US debt deal</title>
+  <content>
+Ausgrid has made a successful debut in United States debt markets, closing the books on the biggest ever deal by an Australian issuer into the US privately issued debt market. 
+Sources said Ausgrid raised the $2 billion it was after, including more than $US1.6 billion in the US Private Placement market, to refinance a bridge loan in full. 
+It is understood to be the biggest deal ever by an Australian issuer to USPP investors. 
+Funds raised were to refinance Ausgrid's $2 billion bridge loan, taken out when IFM Investors and AustralianSuper bought into the electricity distributor last year as part of a wider $12 billion debt package.
+
+It was Ausgrid's first time in front of US debt investors. 
+
+UBS advised Ausgrid, while the deal's bookrunners were Bank of America Merrill Lynch, Commonwealth Bank of Australia and National Australia Bank. 
+
+The raising comes only a fortnight after fellow NSW electricity infrastructure company TransGrid tapped the United States Private Placement market for a combination of 10-year, 12-year and 15-year debt worth $US727 million. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>US1.6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US727</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Private Placement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IFM Investors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States Private Placement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USPP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ausgrid's $2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransGrid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AustralianSuper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ausgrid</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Merrill Lynch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Australia Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

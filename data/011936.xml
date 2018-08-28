@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417687142363640</docid>
+  <date>03/08/2017</date>
+  <time>03:10</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/dow-jumps-22000-but-beware-the-landing/news-story/762299070f91de306b6b6af2594ce7bb</url>
+  <title>Dow jumps 22,000, but beware the landing</title>
+  <content>
+Rodrigo CamposReuters
+
+Share
+
+The blue-chip Dow Jones Industrial Average has closed above the 22,000 mark for the first time but investor fears about the sustainability of the gains took the shine off the milestone.
+The rally lost momentum during the day's trading and despite the recent runup, helped by strong earnings from Apple Inc and Boeing Co, some technical indicators were flashing warning signs.
+"The market gain has been built on a narrow group of issues. That typically is not indicative of great health," said Mark Luschini, chief investment strategist at Janney Montgomery Scott in Philadelphia. "I would not be shocked ... if we saw a pullback."
+And with the Dow industrials at a record high, Dow theory suggests that the Dow Transportation Average index should also hit a record in order to confirm the market's march higher.
+But that index trails the Dow industrials' year-to-date performance by almost 10 percentage points and is nearly 6 per cent below its own July 14 record high.
+Also, overall market breadth, or the number of winning stocks relative to losers, is weakening even as the major US indexes hover near record highs.
+That means the broad gains have been driven by advances in a declining number of companies, and market watchers fear they could be hard to sustain.
+The number of 52-week lows among NYSE- and Nasdaq-traded stocks is at its highest since late June while the number of 52-week highs has dropped sharply since mid-July.
+Apple, McDonald's Corp and UnitedHealth Group Inc have each added more than 200 points to the index.
+
+The Dow is a price-weighted index, meaning names like Apple, with its $157 price tag, and Boeing, which closed Wednesday near $238 per share, will generally have more of an influence over the index than components like the roughly $25 per share General Electric Co.
+The lack of breadth as well as the underperformance by the Dow transports could be a signal that the market rally could be sputtering out, at least for now.
+Julian Emanuel, executive director of US equity and derivatives strategy at UBS in New York, said the weakness of the S&P 500 and Nasdaq on Wednesday versus the strength of Apple shares showed an "underlying fatigue in the rally".
+The S&P 500 and Nasdaq Composite traded flat on Wednesday, even as Apple jumped nearly 5 per cent.
+Naeem Aslam, chief market analyst at Think Markets in London, said the Dow milestone was "a remarkable thing for investors ... but at the same time, this could also be a trap if the momentum does not follow".
+The more than eight-year-old bull market in US stocks got a second wind after last year's election of Donald Trump as US president, on expectations that his business-friendly policies including tax cuts and deregulation would boost corporate gains and economic growth.
+But tax cuts and other parts of the Trump agenda have not materialised, leaving earnings growth as the real engine of the market.
+"Earnings growth allows the market to be patient about Washington. It allows the market to be patient about fiscal reform," said Steven Chiavarone, portfolio manager at Federated Investors in New York, who said they would "be buyers on any weakness".
+Fundamentals remain strong. With 350 of 500 companies' reports in, the S&P 500 index is on track to post back-to-back double-digit quarterly earnings growth for the first time in almost six years.
+Still, the market is expensive by historical standards. Investors are paying $US18 for every $US1 in expected S&P 500 earnings over the next 12 months, near the highest since 2004 and above the long-term price-to-earnings average multiple of 15.
+"The market isn't without issues as it relates to valuations which are full if not somewhat expensive," said Mark Luschini, chief investment strategist at Janney Montgomery Scott in Philadelphia. He expects the Dow to go beyond 22,000, however.
+There is also summer seasonality to take into account. Neil Wilson, senior market analyst at ETX Capital in London, said the Dow's runup past 22,000 was "indicative of a bull market speeding to a top".
+"August is usually not a great month for stocks, up five times in the last 20, so there is caution about how long this can be sustained beyond earnings season euphoria," Wilson said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>UnitedHealth Group Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Luschini</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Think Markets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wilson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 14</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janney Montgomery Scott</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Julian Emanuel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NYSE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Electric Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETX Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rodrigo CamposReuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>McDonald's Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq-traded</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>9</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Transportation Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Naeem Aslam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federated Investors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>STEVEN CHIAVARONE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Philadelphia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Neil Wilson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

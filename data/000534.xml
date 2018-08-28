@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398574537547736</docid>
+  <date>31/07/2017</date>
+  <time>01:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/woman-has-surgery-to-evade-a47m-debt/news-story/34758c5bbaa7e9f44eb9cfbe8aa181be</url>
+  <title>Woman has surgery to evade $A4.7m debt</title>
+  <content>
+A 59-year old woman from the central Chinese city of Wuhan transformed her appearance through plastic surgery in order to avoid 25 million yuan ($A4.7 million) of personal debts, state news agency Xinhua said.
+In a case highlighting the challenges facing China as it tries to establish a "credit society", police officers were reported to be "astonished" after apprehending the woman, who fled to the southeastern Chinese city of Shenzhen after a court in Wuhan ordered her to pay off her debt.
+"We were very surprised at the scene," the official Xinhua news agency quoted a policeman as saying. "She looked in her thirties and was different from the photos we had."
+The woman, identified as Zhu Najuan, also confessed to using other people's identity cards to travel across the country by train. She financed her plastic surgery using borrowed bank cards, Xinhua said late on Friday.
+Representatives from more than 300 Chinese cities released a declaration earlier in July promising to make more credit available for consumer spending, part of the country's efforts to find new sources of economic growth and reduce its dependence on heavy industry and state-driven infrastructure investment.
+But as the country strives to make more credit available to individuals, it is also facing a surge in household debt, which is estimated to have reached around 50 per cent of gross domestic product last year, more than doubling in less than a decade.
+As regulators try to establish a reliable nationwide credit rating system, authorities across the country are also exploring new ways to crack down on those who do not pay debts.
+According to state media, one court in Jiangsu province has drawn up a blacklist of defaulters. Anyone who telephones an individual on the blacklist will first be forced to listen to a pre-recorded message saying "please urge this person to fulfil their legal obligations".
+Xinhua said the city of Wuhan has also launched a series of crackdowns on debt defaulters, and detained a total of 186 people in the first half of the year.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Xinhua</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shenzhen</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Jiangsu</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Zhu Najuan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wuhan</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  </sindexList>
+</snippet>

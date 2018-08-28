@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418412991847992</docid>
+  <date>03/08/2017</date>
+  <time>05:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/video/video-news/video-nsw-news/exlabor-ministers-attempted-billiondollar-fraud-20170803-4wr7a.html</url>
+  <title>Ex-Labor ministers attempted billion-dollar fraud</title>
+  <content>
+Former Labor ministers, Joe Tripodi and Tony Kelly, falsified a cabinet document in an attempt to deliver untold wealth to the family of Eddie Obeid, says Fairfax Media reporter Kate McClymont.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ex-Labor</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kate McClymont</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Kelly</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eddie Obeid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joe Tripodi</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

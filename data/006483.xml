@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409586833893880</docid>
+  <date>01/08/2017</date>
+  <time>19:44</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bitcoin-price-fork-might-happen-again-2017-8</url>
+  <title>Bitcoin might split again  --  here's what you need to know</title>
+  <content>
+Bitcoin power brokers were unable to come behind a single solution that would have preserved a unified cryptocurrency by Tuesday morning's deadline.
+
+As such, the digital currency has officially : bitcoin cash and bitcoin.
+
+Bitcoin cash is a fork of the bitcoin system: It's a new software that has all the history of the old platform - the main difference being it will have 8 megabyte blocks instead of 1 megabyte blocks, making it faster.
+
+Miners have been able to mine for bitcoin cash since this morning. But the first bitcoin cash was reportedly mined at about 2:20 PM, .
+
+But some bitcoin enthusiasts think this will only be the first split the cryptocurrency will experience.
+
+that should guide the cryptocurrency's blockchain network.
+
+On one side are the so-called core developers. They are in favour of smaller bitcoin blocks to protect it against hacks. On the other side are the miners, who want to increase the size of blocks to make the network faster and more scalable.
+
+Until last week, the solution known as Segwit2x, which would double the size of bitcoin blocks to 2 megabytes, had universal support. Those pro-Segwit2x miners who did not participate in the fork began implementing part of Segwit2x today.
+
+According to Charles Morris, a chief investment officer of NextBlock Global, an investment firm with digital assets, since Segwit2x is not fully implemented, another fork is on the horizon.
+
+The part of Segwit2x that increases the block size will not be implemented for another three months, according to Morris.
+
+"Hardliners who don't want to see the size of blocks increase could spark another fork down the line," he said.
+
+Peter Borovykh of Blockchain Driven, a blockchain technology company, told Business Insider that Tuesday's split sets a precedent.
+
+"Bitcoin is no longer immutable," he told Business Insider. "If one fork happens, then it could trigger an avalanche."
+
+Arthur Hayes, the CEO of BitMex, a bitcoin derivatives exchange,  when all is said in done there could be up to four iterations of bitcoin.
+
+To be sure, that doesn't mean Hayes think they will all become worthless.
+
+"There are people with billions of dollars of skin in the game and they will ultimately go with the superior bitcoin network, and then the market will follow," Hayes concluded.
+
+In the end, Hayes thinks the winning bitcoin could reach $US5,000 a coin.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SegWit2</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hayes</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of BitMex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Borovykh of Blockchain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$5,000</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Charles Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NextBlock Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arthur Hayes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

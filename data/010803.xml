@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416952702944985</docid>
+  <date>03/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4829237/bumbag-of-drugs-dumped-under-car/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Bumbag of drugs dumped under car</title>
+  <content>
+Police are on the hunt for a man after a bumbag full of drugs was ditched under a car in Beresfield on Wednesday morning.
+The bumbag contained what police believed was methamphetamine, five ecstacy tablets and a set of electronic scales.
+
+The methamphetamine was stored inside three resealable bags which had a combined weight of 31 grams. 
+
+The bumbag discovery came after police spotted a white Hyundai Excel in Yarrum Avenue about 1am.
+
+Police pulled up behind the vehicle after it stopped in front of a house.
+Two men got out of the car before the male passenger fell to the ground. 
+Unknown to police at the time, the 34-year-old man allegedly placed the bumbag under the vehicle before he got up and walked into a house.
+Police found the bumbag after the man left the scene.
+
+Officers went to the home to try and arrest the man, but he was not there.
+The 32-year-old driver of the vehicle was released without penalty.
+Police inquiries continue into the matter.
+
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bumbag</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarrum Avenue</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Beresfield</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hyundai Excel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

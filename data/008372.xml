@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412150929412552</docid>
+  <date>02/08/2017</date>
+  <time>05:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/15/27/child-among-15-injured-in-melb-tram-crash</url>
+  <title>Child among 15 injured in Melb tram crash</title>
+  <content>
+A young child is among at least six people injured after two trams collided in Melbourne's CBD.
+The crash happened at Melbourne's Docklands precinct at 2.39pm on Wednesday.
+Paramedics are at the scene assessing 15 people with six reported to have minor injuries.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Melb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Docklands</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

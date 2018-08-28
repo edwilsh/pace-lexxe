@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404763585529804</docid>
+  <date>01/08/2017</date>
+  <time>01:01</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/oil-market-tightens-as-refiners-scramble/news-story/52a3e4d8fb4d45d8af362b6a94894a88</url>
+  <title>Oil market tightens as refiners scramble</title>
+  <content>
+John Kemp, Reuters market analystReuters
+
+Share
+
+Physical crude markets are at last showing signs of tightening as record refinery consumption in the United States coincides with a slowdown in oil exports from the Middle East Gulf.
+US refineries processed an average of almost 17.3 million barrels of crude per day last week, an increase of 620,000 barrels per day (bpd) compared with the same week in 2016.
+Fuel consumption by US motorists remains largely flat but US refineries are seeing higher demand for petrol and diesel from Latin America where supplies have been hit by local refinery problems.
+Refinery crude consumption remains high in most other geographical markets in an indication fuel demand is growing strongly, especially in emerging economies.
+OPEC exports have been rising as a result of increasing output from Libya and Nigeria, which are not capped under the organisation's production deal, and poor compliance from some members.
+But Saudi Arabia has been restricting exports in recent weeks and has stated exports will be below 6.6 million bpd in August, compared with 7.3 million bpd in August 2016, and the lowest for the month since 2010.
+Saudi Arabia and Iraq both tend to export less during the summer because they use more crude domestically to burn in power plants to meet air-conditioning demand.
+So some of the slowdown in Saudi exports may be seasonal, but officials are keen to frame it as a deliberate policy to accelerate the reduction of global oil stocks. Saudi sources have said export allocations to the United States, Europe and Asia will all be cut sharply in August.
+The prospective reductions have left refiners scrambling to find replacement crude which is tightening the physical market for all grades.
+
+Demand for medium and heavy crudes, with a high yield of middle distillates, has been strong since the start of the year, helping narrow the light-heavy differential .
+But intensive refinery runs during the second and third quarters have seen strong demand for light crudes as well, tightening the market for light oils, even as supplies from North America and Africa have increased.
+One consequence is that commercial crude stocks in the United States have fallen more rapidly than normal at this time of year and are now below year-ago levels.
+The tightening supply-demand balance has been reflected in a sharp improvement in the calendar spreads for Brent crude for the remainder of 2017 and through 2018.
+The Brent spread between September and October 2017 has tightened to just 3 cents per barrel contango on Thursday, from 32 cents per barrel in the middle of June.
+Other inter-month spreads have also tightened significantly with a tighter contango indicating traders now expect a lower level of inventories throughout the period.
+The physical crude market now looks significantly tighter than it did in the first half of June, which has coincided with a renewed rise in bullish hedge fund positions and a modest rise in spot prices.
+The critical question is how much of this improvement is seasonal and how much will be sustained once summer is over.
+John Kemp is a Reuters market analyst. The views expressed are his own.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Latin America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Arabia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Libya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nigeria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saudi</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>John Kemp</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Africa</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Middle East Gulf</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>analystReuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OPEC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

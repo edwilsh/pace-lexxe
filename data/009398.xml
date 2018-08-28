@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413701412635768</docid>
+  <date>02/08/2017</date>
+  <time>11:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/elderly-vic-man-robbed-scooter-keys-taken/news-story/af00c2434e4c1dab83b79f16fb618275</url>
+  <title>Elderly Vic man robbed, scooter keys taken</title>
+  <content>
+Two thugs have thrown an elderly Victorian man off his mobility scooter before taking his valuables and keys and telling him to "walk away".
+The 69-year-old was travelling through Rosebud on his scooter with his dog on Wednesday morning when he was confronted by two men on the foreshore, police say.
+The offenders demanded his wallet, and when he said he didn't have one, they took him off his scooter and stole his phone, ring and watch.
+They then took the keys to his scooter and he was forced to walk to a shopping centre to call police.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rosebud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

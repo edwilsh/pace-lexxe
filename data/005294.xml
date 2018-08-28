@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406468687573432</docid>
+  <date>01/08/2017</date>
+  <time>07:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/jk-rowling-sorry-for-trump-disabled-swipe/news-story/3bf5fd7e32df52a0808354fcc7b2ef68</url>
+  <title>JK Rowling sorry for Trump disabled swipe</title>
+  <content>
+JK Rowling has apologised for accusing US President Donald Trump of ignoring a disabled child.
+The Harry Potter author called the US leader "horrible" after a clip appeared to show him refusing to shake the boy's hand in the White House.
+But the boy's mother, Marjorie Kelly Weer, corrected Rowling with a post on Facebook.
+"If someone can please get a message to JK Rowling: Trump didn't snub my son & Monty wasn't even trying to shake his hand," she wrote.
+The writer "apologised unreservedly" in a series of Twitter posts.
+"Re: my tweets about the small boy in a wheelchair whose proffered hand the president appeared to ignore in press footage," she wrote.
+"Multiple sources have informed me that that was not a full or accurate representation of their interaction.
+"I very clearly projected my own sensitivities around the issue of disabled people being overlooked or ignored onto the images I saw and if that caused any distress to that boy or his family, I apologise unreservedly."
+Rowling has deleted her original tweets on the subject.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Marjorie Kelly Weer</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>JK Rowling</name>
+    <count>3</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Harry Potter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rowling</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Monty</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

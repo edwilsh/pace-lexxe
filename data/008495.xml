@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412284073400704</docid>
+  <date>02/08/2017</date>
+  <time>06:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/indonesian-volcano-spews-hot-gas/news-story/b22517c0984d890dedfb3ad4687e7bcd</url>
+  <title>Indonesian volcano spews hot gas</title>
+  <content>
+Deadly Mount Sinabung on Indonesia's Sumatra island is again spewing hot ash kilometres into the sky.
+The volcano in North Sumatra province on Wednesday sent gas and volcanic matter 4.5 kilometres to the east, said national disaster management agency spokesman Sutopo Nugroho.
+"Residents are advised to remain alert."
+The 2460-metre volcano has erupted intermittently since late 2013, displacing thousands of people.
+Sixteen people were killed in early 2014 during an intense period of eruptions.
+Indonesia sits on the Pacific Ring of Fire, an area known for seismic upheavals and volcanic eruptions.
+The country is home to about 130 active volcanoes.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Indonesian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Sinabung</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia's Sumatra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Ring of Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sutopo Nugroho</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Sumatra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

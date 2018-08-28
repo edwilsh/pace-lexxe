@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446167070902380</docid>
+  <date>07/08/2017</date>
+  <time>17:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/03/33/assisted-dying-debate-set-for-parliament</url>
+  <title>Assisted dying debate set for parliament</title>
+  <content>
+Victorian MPs are returning to parliament for the first time since the Andrews government announced it will draft laws giving the terminally ill a say on when they die.
+Premier Daniel Andrews hopes to see a conscience vote on the scheme, which he says will be the "safest" in the world, by the end of this year.
+The Labor government has endorsed all 66 recommendations made by an expert panel charged with investigating an assisted-dying scheme, however not all within the government will vote for the laws.
+Mr Andrews' deputy, James Merlino, has long said he does not support euthanasia and reaffirmed his position during the winter break.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Victorian MPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Daniel Andrews</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Andrews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Merlino</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

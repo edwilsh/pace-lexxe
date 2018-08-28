@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423777406105777</docid>
+  <date>04/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/rba-slightly-downgrades-growth-forecast-for-australian-economy/8774854</url>
+  <title>Reserve Bank optimistic about the future, as long as the Australian dollar doesn't climb higher</title>
+  <content>
+The Reserve Bank has slightly downgraded its growth forecasts for the Australian economy while predicting a bounce back over the next few years as inflation returns to normal levels.
+In its quarterly statement on monetary policy released this morning, the RBA sees growth in December 2017 of 2 to 3 percent edging back from 2.5 to 3.5 per cent in the previous forecast in May.
+"The economy is expected to grow at an annual rate of around 3 per cent over the next couple of years which is a bit higher than estimates of potential growth," the RBA said.
+After falling below the RBA's target band of 2 to 3 per cent in the most recent quarter, the central bank sees inflation returning to 2.5 to 3.5 per cent by June next year.
+The RBA cited business investment growth, a higher iron ore price and an unemployment rate of below 5.5 per cent as evidence of its more positive outlook.
+"The outlook continues to be supported by accommodative monetary policy and an improvement in the global economy," the statement said.
+The Reserve Bank left the cash rate on hold at its August meeting judging the record low 1.5 per cent level to be consistent with sustainable economic growth.
+The RBA believes the pickup in inflation will be boosted by a declining capacity in the labour market which is expected to lead to a gradual increase in wages growth from the currently low levels.
+The RBA also believes the recent decision by the Fair Work Commission to increase minimum and award wages could "add a little" to wages growth in the September quarter.
+"Inflationary pressures would instead emerge more quickly if workers seek to catch up after a long period of low wage growth," the RBA said.
+It also believes increases in the tobacco excise over the next few years will help push inflation higher.
+Higher Aussie dollar is a concern
+
+However, the RBA repeated concerns that the Australian dollar - which broke through 80 US cents earlier this week - has been at levels not seen since 2014.
+The statement warned that its forecasts for growth and inflation rely on the exchange rate remaining around current levels.
+"Further exchange rate appreciation would tend to generate a slower pickup in economic activity and inflation than currently forecast."
+Despite the bullish outlook, the RBA is warning that continued slow wage growth could continue for "some time" and weigh on a consumption driven recovery.
+"Some households may feel constrained from spending more out of their current incomes because of high levels of household debt," the RBA said.
+"This effect would become more prominent if housing prices and other housing market conditions were to weaken significantly."
+The RBA said while established real estate remains strong in Australian east coast cites, conditions have eased more so in Sydney rather than Melbourne.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>11</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>December 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fair Work Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

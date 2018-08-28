@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412318433139588</docid>
+  <date>02/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/child-among-15-injured-in-melb-tram-crash/news-story/7afc5719a28cc2a3f612b96957d2a31c</url>
+  <title>Four hospitalised in Melbourne tram crash</title>
+  <content>
+Four people including a young child have been taken to hospital, with more than a dozen people assessed after a Melbourne CBD tram crash.
+Emergency services rushed to Melbourne's Docklands precinct at 2.39pm on Wednesday after one tram appeared to rear-end another.
+Passenger Yasmin tweeted she experienced the "traumatising" accident first hand.
+"Left the scene but still shaking. Hope everyone is okay. That was traumatising," she posted on Wednesday.
+A pre-school aged child was taken to the Royal Children's Hospital in a stable condition.
+Two people were taken to the Royal Melbourne Hospital and a third was taken to the Alfred Hospital, all three adults are in a stable condition.
+Paramedics were called to the scene to assess up to 15 people.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yasmin</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Docklands</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Royal Children's Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Alfred Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

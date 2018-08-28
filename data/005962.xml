@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406425737899713</docid>
+  <date>01/08/2017</date>
+  <time>07:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/five-arrested-in-cranbourne-north-carrum-downs-bikie-bust/news-story/a71806fbf3e595e7bef5125fc43d2ca2</url>
+  <title>Five arrested in police bikie bust</title>
+  <content>
+A BIKIE bust in Melbourne's southeast has led to the arrest of five people and the seizure of illegal weapons and drugs.
+A known associate of the Comancheros Motorcycle Club was among the alleged crooks taken into custody following early morning raids on Tuesday morning.
+Detectives from the anti-bikie Echo Taskforce, alongside Casey Crime Investigation Unit, stormed into a Cranbourne North address about 6am.
+A 24-year-old Hampton Park man with links to the Comancheros was led from the house, as well as an 18-year-old woman.
+Police allegedly found drugs and weapons, and also seized a prized bikie vest baring club patches.
+Two Hampton Park men, aged 20 and 21, were arrested at separate addresses during simultaneous raids.
+Drugs and weapons were also seized at those addresses.
+A final warrant was executed at a home in Carrum Downs, during which a 26-year-old man was taken into custody.
+"The community can be assured and confident that Victoria Police will continue its strong focus on any criminal activities associated with rival Outlaw Motorcycle Gangs and any other groups," Victoria Police said in a statement.
+Do you know more about outlaw gang activity?
+Email:
+</content>
+  <sindexList>
+  <sindex>
+    <name>Carrum Downs</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Outlaw Motorcycle Gangs</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Comancheros</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hampton Park</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Casey Crime Investigation Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cranbourne North</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Comancheros Motorcycle Club</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Echo Taskforce</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

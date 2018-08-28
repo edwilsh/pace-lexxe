@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424297097155923</docid>
+  <date>04/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/car-crashes-into-home-at-windsor-gardens/news-story/f56c045a039befb3f5d5b1b28de028f6</url>
+  <title>Crash, bang: Lucky no one was in the lounge room</title>
+  <content>
+WAS this lucky or unlucky for the occupants of a northeastern suburbs home? Depends on your perspective.
+A runaway car smashed through their lounge room wall today, causing a lot of damage - but the home's two occupants were in a different part of the house and escaped injury.
+At 11am, a white Ford Ranger ute came off McLaughlan Rd, Windsor Garden, and crashed through a fence and into the home's lounge room.
+The driver, a 22-year-old Parafield Gardens man, was taken to the Modbury Hospital for observation.
+Two people were home at the time of the incident but were at the rear of the house and escaped without injury.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Parafield Gardens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ford Ranger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>McLaughlan Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Modbury Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windsor Gardens</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

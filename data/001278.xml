@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398961084610264</docid>
+  <date>31/07/2017</date>
+  <time>02:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/12/20/central-qld-house-fires-suspicious-police</url>
+  <title>Central Qld house fires suspicious: police</title>
+  <content>
+Fires which destroyed one Rockhampton home and damaged two others are being treated by police as suspicious.
+Emergency services were called to a Murray Street address before 5am on Monday where they found three buildings on fire.
+No one was home at the destroyed house and no one from the other homes were injured.
+Police are appealing to the public for information.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central Qld</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murray Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

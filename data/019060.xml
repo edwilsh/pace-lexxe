@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435077465206264</docid>
+  <date>05/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/business/breaking-news/uk-ready-to-pay-40-bn-euros-to-leave-eu/news-story/6fced3f175dba3df88fa807fdd4afa6b</url>
+  <title>UK ready to pay 40 bn euros to leave EU</title>
+  <content>
+Britain is ready to pay up to 40 billion euros ($A59 billion) as part of a deal to leave the European Union, the Sunday Telegraph newspaper is reporting.
+Citing three unnamed government sources the newspaper said Britain was only prepared to pay the sum as part of a wider deal that included a trade agreement with the EU.
+"We know (the EU's) position is 60 billion euros, but the actual bottom line is 50 billion euros. Ours is closer to 30 billion euros but the actual landing zone is 40 billion euros, even if the public and politicians are not all there yet," the newspaper quoted "a senior Whitehall source" as saying.
+The British government ministry in charge of EU negotiations declined to comment on the report. Britain has previously said it will pay any outstanding liabilities, but has not given a figure.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>EU</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday Telegraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whitehall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

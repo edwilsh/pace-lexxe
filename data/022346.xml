@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443109054131332</docid>
+  <date>07/08/2017</date>
+  <time>05:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/appeal-to-find-missing-victorian-woman/news-story/2c9583f0135a52bc74654d57f707311e</url>
+  <title>Missing Victorian woman found safe</title>
+  <content>
+A missing Victorian woman whose backpack was discovered on a Gold Coast beach has been found.
+Police confirmed on Monday afternoon that 40-year-old Gail Elizabeth Oliver has been located safe and well.
+It followed an earlier appeal for information after a member of the public found her backpack on Kurrawa Beach at Broadbeach about 6.15am.
+A search of the beach and water had failed to locate the 40-year-old, who was reported missing in her home state.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Broadbeach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gail Elizabeth Oliver</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kurrawa Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

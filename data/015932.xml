@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423996449440384</docid>
+  <date>04/08/2017</date>
+  <time>03:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/13/23/pm-defends-cash-support-for-new-balis</url>
+  <title>PM defends cash support for "new Balis"</title>
+  <content>
+Malcolm Turnbull has defended Australia's decision to provide money to the World Bank to help boost Indonesian tourism and create 10 so-called new Balis.
+During a trip to Broome in Western Australia, the prime minister dismissed claims the unknown contribution was aimed at encouraging Australians to fly over local tourism destinations such as the Kimberley region in Western Australia.
+"We are focused on tourism in Australia and we're making substantial investments into tourism infrastructure like the Cape Leveque road here in the Kimberley," he told reporters.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Indonesian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kimberley</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cape Leveque</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Broome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bali</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

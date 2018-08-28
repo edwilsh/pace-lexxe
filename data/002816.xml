@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402096410790450</docid>
+  <date>31/07/2017</date>
+  <time>14:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/terror-threat-leads-to-long-lines-for-passengers-at-darwin-airport/news-story/03b3237f6e68dcd5467ecc34dd63594b</url>
+  <title>Threat causes long lines at Darwin airport</title>
+  <content>
+LINES stretched more than 30m at Darwin airport on Monday as the impact from increased security measures caused delays.
+The airport was operating only one screening point at the far end of the check-in area, with random bag searches also being done in the centre of the check-in area.
+David and Cheryl Jones arrived at the airport with about two hours to spare, after Virgin Australia warned them of long wait times at security. The couple was then pulled aside for a random bag search.
+"We were expecting it to be busy and then, before we had even dropped our bags off, they pulled us out and searched them," Mr Jones said.
+"But then we got to go ahead of the line and check-in so it was fine by us. And we'd much rather have more security than get blown up."
+Despite the long lines, the couple said they moved quickly. "Security staff have done a top job," Mr Jones said.
+Confusion was added to the mix with the middle screening point also closed.
+An airport spokeswoman said it was due to a faulty escalator.
+The increased security measures came after police foiled an alleged terror plot in Sydney on Saturday.
+Two would-be father and son terror teams were allegedly behind a plot to blow up an international flight out of Sydney using a homemade bomb disguised as a kitchen mincer. Until last week the four men - the fathers aged in their 40s - were totally unknown to the nation's counter-terrorism authorities with only one conviction for negligent driving between them.
+But that all changed when police picked up a "small piece of intelligence" about the possible "Islamist-inspired" plot to use a crude homemade bomb.
+It is believed the plot involved smuggling the device onto a flight bound for the Middle East, possibly Dubai, hidden in carry-on luggage. Australian Federal Police Commissioner Andrew Colvin said a court ruled the four could be detained without charge for seven days from their arrest under counter-terrorism laws.
+"We believe we have disrupted a legitimate and credible attempt to attack an aircraft," Mr Colvin said.
+A Darwin International Airport spokeswoman said it was not " experiencing lengthy delays ... however we recommend passengers should arrive at the airport at least 20-30 minutes earlier than usual."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Middle East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamist-inspired</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Virgin Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Colvin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Jones</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police Commissioner Andrew Colvin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin International Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cheryl Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

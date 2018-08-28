@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401752813399061</docid>
+  <date>31/07/2017</date>
+  <time>13:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/how-it-sold-onlineonly-auction-pushes-adelaide-house-34000-over-reserve-20170728-gxl33r</url>
+  <title>How it Sold: online-only auction pushes Adelaide house $34,000 over reserve</title>
+  <content>
+The Australian Financial Review has spoken to the team behind last week's most intriguing property sale for our column, How it Sold.
+The property: A three-bedroom double-fronted cottage with one bathroom at 16 Foster Street, Norwood SA. Sold at auction $844,000.
+Who was the agent/agency? Charles Booth, Bernard Booth Adelaide and co-investor, online auction platform Apax.com.au. Patrick Booth, director Apax. Buyer Andrew [surname withheld].
+How long was this on the market? [Charles] Three and a half weeks.
+
+Jonathan Kissock
+
+Why did this one sell? The house was in a good location. It was three years from the inception of the [online-only auction] idea to building the platform and getting the legals and the back end right. 
+
+Was it overpriced? No. The reserve was $810,000.
+What did you think it would go for? Probably about where it finished.
+What was surprising about it?
+[Andrew] We cooked dinner in the kitchen while we were at the auction! We had the laptop open on the desk and just were both going back and forward from the screen on the laptop. It was weird to start with, just thinking about it. We'd bid at a standard auction before. This was the first time at an online auction from inside our house. 
+
+Supplied
+
+[Charles] It got under way very quickly, then there was a bit of a standoff for about 15 mins or so. That was the nerve-wracking part. If you've not met the reserve, you need to think: do I place a vendor bid, or do I drop the increments? Then, as the time started going down things got going again. Four of the bidders had bid up to [the reserve of] $810,000 but the winning bidder only started bidding at about $825,000 and very late in the piece. 
+Their idea was always to come in near the end so they could see where the market was and who the strong bidders were. They had quite a large $10,000-rise opening to knock a few others out. It was them and one other for the final $9000, in the final 10 minutes of the auction.
+[Patrick] The eventual purchaser was battling it out with an investor bidding from Melbourne over the final minutes of the auction.
+[Charles] The auction's always set for 30 minutes, but if in the last three minutes a closing bid is made, the clock will tick back to 3 minutes. That's the three calls - the three-minute mark is the first call, the two-minute mark is the second call and the one-minute mark is the third call. Each time a bid is made, the count goes back to three minutes. 
+
+[Andrew] We [decided] to wait for the other bidders to make the running and once they slowed we would have a better idea of where the market was to make a decision. Towards the end, it almost became like an ebay auction where you have a lot of action happening in the last few minutes. The underbidder would wait until the clock had almost run down and bid again, whereas we - in response to a bid - would bid fairly quickly. On one of the bids almost towards the end, the underbidder bid with about 3 seconds remaining on the clock. We realised if they were bidding late into the call of the hammer, that we'd have to wait right until the clock wound down.
+[Charles] Initially at the start of the auction, I had a minimum $10,000 increment rise. Then, as we got to the reserve price, I changed the increment to $1000 rises. Anyone could make a bid from $1000 to $50,000.
+[Andrew] It was unusual to have finished our meal while we were buying a house. It was a very different experience. 
+Did you open a bottle to celebrate? 
+
+[Andrew] My wife is a doctor on call so we couldn't have a celebratory drink afterwards. We just were very happily quietly in our living room.
+Do you reckon we'll see another result like this: a) next week b) next year c) next cycle d) never?
+
+[Charles] a) 
+Next week. There's very little quality stock on the market and it's a strong market in Adelaide. In about three weeks we'll be getting another online-only auction under way. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Andrew</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apax</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Booth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charles Booth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Charles</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bernard Booth Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Foster Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Kissock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Norwood SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

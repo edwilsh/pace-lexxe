@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417901890731380</docid>
+  <date>03/08/2017</date>
+  <time>04:00</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/fewer-airport-delays-for-travellers-pm/news-story/3b793008563c257698ab794f1c55fae7</url>
+  <title>Fewer airport delays for travellers: PM</title>
+  <content>
+Lisa MartinAustralian Associated Press
+
+Share
+
+Prime Minister Malcolm Turnbull expects there will be fewer delays at Australian airports for travellers after authorities disrupted an aviation terror threat.
+ASIO has moved to restore the aviation threat level to what it was before the alleged plot to bring down a plane was uncovered.
+Mr Turnbull on Thursday said enhanced security measures will continue at airports but will be modified to reduce delays.
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lisa MartinAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410467302206363</docid>
+  <date>01/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4827805/police-search-for-man-following-windale-pursuit/?cs=305</url>
+  <title>Police search for man following Windale pursuit</title>
+  <content>
+Police are looking for a man following a police pursuit in Windale on Tuesday, which ended when the driver fled the scene.
+About 8.20pm officers were patrolling South Street when they tried to pull over a Toyota utility to breath-test the driver.
+It is alleged the vehicle failed to stop and a pursuit was initiated.
+At the intersection of James and Munro Streets, the male driver got out of the car and fled on foot.
+The utility began to roll backwards and hit the police car. No one was injured in the crash.
+Officers have spoken with a female passenger within the vehicle, and are continuing with their inquiries to locate the driver.
+Police are urging anyone with information in relation to this incident to call Crime Stoppers on 1800 333 000.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Munro Streets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windale</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>James</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

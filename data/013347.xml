@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420521820833340</docid>
+  <date>03/08/2017</date>
+  <time>14:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/life/travel/munich-rises-to-the-top-as-a-tourist-paradise/news-story/fa7fe0cffee62d63470cfd93d11b1605</url>
+  <title>Munich rises to the top</title>
+  <content>
+We're sitting quietly in a bar called Unterfahrt (no joking) in Munich, Germany.
+It's a jazz club and the audience is paying respectful attention to the music of bassist Sven Faller and his trio. Faller's compositions are contemplative and complement his occasional poetry reading, but even without much German we get the drift. It's very digestible jazz appropriate to the surroundings.
+For Unterfahrt means underground and during World War II this basement was an air-raid -shelter.
+Tonight's event is a distinct contrast to those terrible days more than 70 years ago when the Allies and Germany set about bombing each other to destruction. In my imagination I can hear ominous whistling noises and explosions in the street above, but the music is soothing and brings us back to the present day.
+Munich did suffer catastrophic damage but the city has been restored to its former glory and today it's one of the most attractive German cities, with a heritage that goes back centuries as an important trading centre. Manufacturing too, as the headquarters of BMW, Siemens and other giants.
+It's a vibrant, colourful city with village-like precincts that have their own character.
+We're staying in one such 'hood called the Brienner Quartier in a heritage-listed boutique hotel called the Splendid-Dollmann where we meet Barbara, a native of the area and an excellent guide. Over coffee at the venerable Cafe Luitpold, with its nearly 200 years of history (and its mouth-watering array of cakes and pastries), we're told that the area around Briennerstrasse is now the go-to place for local designer fashion and craft shops. Munich is on the move.
+At lunch we meet Robert, local identity and marketing expert, who briefs us on the long history of Munich dating back to medieval times. He suggests visits to many of the city's landmarks including the recently opened National Socialism Documentation Centre. This brilliantly curated exhibition sets out to chronicle and explain the rise of the Nazi party as a political movement following Germany's defeat in World War I, and the subsequent events leading to World War II.
+The exhibition is housed in a building commissioned in 2008 by the Munich City Council.
+A specification of the design competition was to submit a concept relating to the special historic significance of the site: the building's architecture and the design of the outdoor area were to signify a fundamental break with the -former Nazi buildings in the neighbourhood, especially the notorious "Fuhrer Building" next door (today, ironically, the University of Music and Performing Arts).
+How Germany is dealing with its history in a completely open and transparent way is enlightening. We plan on staying an hour, and leave after three. The NSDC should be on everyone's itinerary, especially in these times of turbulence in Europe.
+A stay in the Brienner Quartier offers just a small sample of what Munich has to offer: there's the old city centre nearby and excellent shopping to add to the list, plus famous beer halls such as the legendary Hofbrauhaus.
+Don't be surprised if you happen to find yourself saddling up for a giant schnitzel and a litre of beer to round off your visit to one of -Europe's most interesting cities.
+simply-munich.com
+brienner-quartier.de
+ns-dokuzentrum-muenchen.de
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sven Faller</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brienner Quartier</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hofbrauhaus</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>University of Music</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cafe Luitpold</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NSDC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siemens</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>World War I</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Robert</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Socialism Documentation Centre</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Splendid-Dollmann</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Munich City Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Unterfahrt</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Barbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Munich</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Briennerstrasse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fuhrer Building</name>
+    <count>1</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>World War II</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nazi</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Performing Arts</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

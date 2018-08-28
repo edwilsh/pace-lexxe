@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398656141927556</docid>
+  <date>31/07/2017</date>
+  <time>01:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/police-urge-witness-to-car-breakin-at-kambah-pool-to-come-forward-20170731-gxm1n6.html</url>
+  <title>Police urge Kambah Pool theft witness to come forward</title>
+  <content>
+Thieves broke into a car at Kambah pool before driving off in a stolen grey BMW linked to a string of Canberra burglaries and firearm offences.
+At 12:00pm on Thursday, July 6, the owner of the car returned to find his vehicle broken in to, with a witness saying they saw two men around the car.Photo: Supplied
+Police urged this witness to come forward as they would be able to describe the alleged offenders.
+The stolen grey BMW 523i is linked to a number of serious offences in Canberra, police said.
+Anyone who had any information that could assist police were urged to contact Crime Stoppers on 1800 333 000 or via the .
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BMW 523</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kambah Pool</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kambah</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

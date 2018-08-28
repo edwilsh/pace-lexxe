@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443328097467305</docid>
+  <date>07/08/2017</date>
+  <time>06:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/companies/thousands-of-woolworths-customers-billed-twice-for-purchases-made-in-march/news-story/771da82d714578a0e5d9c4f1d5240129</url>
+  <title>Check your bank account today</title>
+  <content>
+WOOLWORTHS has confirmed an issue with its payments provider has caused customers around the country to be charged again for purchases made in March.
+Customers flooded to the supermarket's Facebook page on Monday to complain, with some reporting hundreds of dollars missing from their bank accounts. The issue affects both online and in-store purchases. Woolworths could not confirm how many customers had been affected, but it is believed to be in the thousands.
+"Today I have been double billed by Woolworths for transactions from the 11th of March, Woolworths have stolen almost $300 and I want my money back," wrote Leanne Stewart. Donna Carthey added: "Any idea when the money you took out of my account incorrectly will be repaid?"
+Kylie Willey said she noticed $245 missing from her account this morning for transactions on the 11th, 12th and 13th of March. "Pretty poor service, Woolworths. You stuffed up! How many times has this happened and I've missed it?" she wrote. "How safe are our cards with you that you can re-access them months later?"
+Thomas Miller said his bank account had been debited for a transaction on the 3rd of March. "The only reason I noticed this was the account is inactive with a zero balance which suddenly was a negative," he wrote. "The bank says it is Woolworths fault/problem. Please explain how and why this has happened? How many times has this happened in the past?"
+Cat Steele wrote: "Can someone please tell me why Woolworths took money out of my account today with a date of 13th of March? Why do you still have my card details four months later after this supposed transaction? What the hell is going on? This is not okay."
+Emma Bell added: "I love paying for my groceries twice, Woolworths - especially six months later! Good work."
+A Woolworths spokeswoman said: "We have received confirmation from Cuscal, one of our payment processors that service financial institutions, that due to an error at their data centre a limited number of Woolworths customers may have received incorrect transactions on accounts processed by Cuscal.
+"We are working closely with Cuscal and can confirm any payment errors will be corrected as soon as possible. We apologise for the inconvenience this may cause customers. If further information is required please contact 1300 767 969."
+A Cuscal spokesman said: "Due to a processing error last night some incorrect transactions were posted to our clients' customers' accounts this morning. We apologise for the stress and inconvenience this is causing people. We are working urgently to correct the errors."
+
+Five top tips on how to shop for your family and save at the checkout
+
+How to spend only $50 a week on groceries
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Miller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cuscal</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>10</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Donna Carthey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cat Steele</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kylie Willey</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Leanne Stewart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emma Bell</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443590090476800</docid>
+  <date>07/08/2017</date>
+  <time>07:41</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/cba-points-at-it-flaw-in-laundering-case/news-story/3a84c6c0252ad3a2703ea3b8d1f31ba3</url>
+  <title>CBA points at IT flaw in laundering case</title>
+  <content>
+Simone ZiaziarisAustralian Associated Press
+
+Share
+
+The Commonwealth Bank has suggested that 53,000 alleged breaches of money laundering laws listed in a case brought against it by regulators could be treated as a single matter because they all stemmed from the same IT error.
+Following the launch of civil proceedings against CBA by the federal government's financial intelligence unit AUSTRAC last Thursday, the bank on Monday outlined a software problem it said was the cause of more than 53,000 transactions not being flagged to authorities as required.
+As CBA boss Ian Narev gave media interviews on Sunday and Monday warning against jumping to conclusions, the bank's share price rose almost one per cent to $81.52 on Monday, recovering some of the heavy falls suffered on Friday.
+"I understand there is very little goodwill for banks in general, and for CBA in particular, so when something like this happens people jump to conclusions," Mr Narev told The Australian newspaper.
+AUSTRAC alleges CBA failed to provide on-time reports of 53,506 cash transactions of $10,000 or more and totalling $625 million that were made through the bank's new Intelligent Deposit Machines (IDMs) from November, 2012 to September, 2015.
+In a statement on Monday CBA said a coding error, which occurred following a software update to its IDMs in late 2012, was responsible for the required Threshold Transaction Reports (TTRs) not being generated.
+CBA said the fault was fixed within a month of it being discovered in 2015.
+"The vast majority of the reporting failures alleged in the statement of claim (approximately 53,000) relate specifically to this coding error," CBA said, adding it recognised that the AUSTRAC case includes other serious allegations unrelated to the TTRs.
+AUSTRAC also claims CBA failed to assess the money laundering and terrorism financing risk of IDMs before rolling them out in 2012, and only took its first steps to assess those risks in mid-2015.
+
+It accused CBA of failing to report suspicious matters involving $77 million worth of transactions, either on time or at all.
+The bank could face a maximum penalty of $18 million for each of the 53,700 contraventions, if found guilty.
+CMC Markets chief strategist Michael McCarthy said investors were forming a more balanced view now that CBA had reviewed the AUSTRAC case and said it will defend the allegations.
+"We saw an initial knee-jerk reaction to the news but CBA has now released a statement and given the othersider of the story," Mr McCarthy said on Monday.
+CBA acknowledged it needed to be more vigilant in the area of financial crime and money laundering and admitted "mistakes can be made".
+"In an organisation as large as Commonwealth Bank, mistakes can be made," the bank said.
+"We know that because we are a big organisation, these mistakes can have significant impact".
+The bank will file a defence, with a first case management meeting between AUSTRAC and CBA to be held on September 4.
+CBA is due to release its full-year results on Wednesday and is expected to report another record profit.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Deposit Machines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simone ZiaziarisAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Threshold Transaction Reports</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ian Narev</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday CBA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Narev</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael McCarthy</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TTRs</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CMC Markets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mr. McCarthy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>14</count>
+    <score>13</score>
+  </sindex>
+  </sindexList>
+</snippet>

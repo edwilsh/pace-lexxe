@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427479667981384</docid>
+  <date>04/08/2017</date>
+  <time>17:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/massive-car-bomb-in-somali-capital/news-story/f8d1448c5d0639e054a5d8f7793c6b71</url>
+  <title>Massive car bomb in Somali capital</title>
+  <content>
+An explosives-laden car has blown up in the centre of Somalia's capital Mogadishu, killing at least one person and injuring another, police say.
+The vehicle was parked next to a hospital in a busy road that is flanked by several hotels.
+There was no immediate claim of responsibility, though the Islamist militant group Al Shabaab has launched frequent attacks in the city.
+"So far, I have seen one dead civilian. She was a woman. One man was also injured," Mohamed Hussein, a police officer, told Reuters on Friday.
+The explosion comes hours after the US military confirmed it had killed a high-level al-Shabab extremist commander in an airstrike last weekend.
+Ali Mohamed Hussein had been blamed for planning deadly attacks in Mogadishu and is the highest-level al-Shabaab commander killed this year.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Al-Shabaab</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mohamed Hussein</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Somalia</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Shabaab</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Somalis</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shabab</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>MOGADISHU</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ali Mohamed Hussein</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Islamist</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

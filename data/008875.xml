@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411712842741948</docid>
+  <date>02/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/casey-afflecks-wife-files-for-divorce/news-story/b6231f1e6dde0b5bb6f74e74388ea711</url>
+  <title>Casey Affleck's wife files for divorce</title>
+  <content>
+Sam BlewettPress Association
+
+Share
+
+The wife of Oscar-winning actor Casey Affleck has filed for divorce.
+Summer Phoenix reportedly cited "irreconcilable differences" in the papers lodged in Los Angeles Superior Court on Monday.
+Affleck and Phoenix, who is the sister of actor Joaquin Phoenix, announced they had "amicably" split after nearly a decade of marriage in March last year, shortly after he won his best actor Oscar for Manchester By The Sea.
+But the document, according to reports, shows they separated in November 2015 and sees Phoenix request joint legal and physical custody of their sons, who are nine and 13.
+During the Oscars season reports resurfaced of two women who brought sexual harassment suits against Affleck, 41.
+Affleck, who denied the allegations said to have happened during the making of 2010's I'm Still Here, settled the lawsuit out of court.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Still Here</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam BlewettPress Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Affleck</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oscar-winning</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Joaquin Phoenix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Casey Affleck</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles Superior Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Manchester By</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PHOENIX</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Oscar</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

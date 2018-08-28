@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397664004469608</docid>
+  <date>30/07/2017</date>
+  <time>21:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/07/16/another-lib-mp-backs-vote-on-gay-marriage</url>
+  <title>Another Lib MP backs vote on gay marriage</title>
+  <content>
+The Turnbull government is under renewed pressure from within its own ranks to allow a free parliamentary vote on same-sex marriage.
+A week out from parliament returning from its long winter break, openly-gay Liberal MP Trevor Evans says he is in discussion with a number of his colleagues about different options to settle the issue.
+"But I think the quickest and most likely course now is to allow politicians to have a free vote ... and I support that," he told The Australian on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lib MP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Liberal MP Trevor Evans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

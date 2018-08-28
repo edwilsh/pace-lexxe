@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409741452719389</docid>
+  <date>01/08/2017</date>
+  <time>20:20</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/wa-firies-pick-motorola-for-7m-cad-deal-469858</url>
+  <title>WA firies pick Motorola for $7m CAD deal</title>
+  <content>
+The West Australian Department of Fire and Emergency Services has selected Motorola Solutions to replace its legacy computer aided dispatch (CAD) system.
+
+The three-year deal valued at $7 million will see the agency take up Motorola's PremierOneCAD platform to give it "greater visibility of responses for better decision making and resource management".
+
+It is the same platform that was delivered to West Australia Police in 2015 to , and will allow the two agencies to better co-ordinate incident responses.
+
+DFES' decision to take up the same CAD platform reflects the government's push to improve service delivery by aligning technology and business functions. It has been looking at the platform as a possible replacement since the start of 2016.
+
+The agency's current CAD consists of two bespoke systems: one that supports the State Emergency Services and another that handles all other emergency response needs.
+
+However, it is no longer commercially supported and is expensive to integrate with new solutions.
+
+The new platform will provide fire fighters with "instant and precise, mapping, dispatch and premise hazard information" that can be accessed on mobile devices.
+
+Motorola Solutions is also the supplier behind the , which supports WAPOL, DFES, and the Department of Corrective Services.
+
+The deal represents the latest inroad into the Australian emergency services sector for the company. It recently picked up a  to roll out 10,000 iPhones and iPad Minis across the state over the next five years.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>iPad Minis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Motorola's PremierOneCAD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Motorola</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Motorola Solutions</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DFES</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>West Australian Department of Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Australia Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Corrective</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WAPOL</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CAD</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

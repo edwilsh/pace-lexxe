@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403208807341523</docid>
+  <date>31/07/2017</date>
+  <time>18:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/former-nsa-boss-questions-malcolm-turnbull-encryption-laws/8761542</url>
+  <title>Encrypted message access laws Malcolm Turnbull proposed questioned by ex-NSA boss</title>
+  <content>
+The Federal Government's bid to force tech companies to reveal terrorists' secret conversations could be unachievable, according to the former deputy director of the US National Security Agency (NSA).
+
+Key points:
+
+Former NSA boss questioned if the kind of access the Government wants is "feasible"
+Chris Inglis said companies wouldn't need to create "backdoors" but allow agencies to exploit vulnerabilities
+Australian Government calling for powers the US Government won't, he said
+
+Chris Inglis had a 28-year career with the NSA and now advises private companies on how to detect Edward Snowden-style leakers within their ranks.
+He told the ABC the  is to be admired, but the technology may prove problematic.
+"I don't know how feasible it is to achieve the kind of access the Government might want to have under the rule of law, the technology is tough to get exactly right," Mr Inglis told the ABC.
+"But the Government is honour-bound to try to pursue both the defence of individual rights and collective security."
+Encrypted messages affect close to 90 per cent of ASIO's priority cases and the laws would be modelled on .
+Technology experts, like adjust professor at the Centre for Internet Safety Professor Nigel Phair, have .
+
+"From a technical perspective we are looking at very high-end computing power that makes it really, really difficult to decrypt a message on the fly, it's just not a simple process," he said.
+Facebook has already indicated it will resist the Government's laws, saying weakening encryption for intelligence agencies would mean weakening it for everyone.
+"Because of the way end-to-end encryption works, we can't read the contents of individual encrypted messages," a spokesman said.
+But Mr Inglis said technology companies would not need to create a so-called backdoor to messages, but rather allow intelligence agencies to exploit vulnerabilities.
+The , but exploited it rather than reporting it to the company.
+"Here's the dirty little secret: most of these devices already have what might be technically described as a backdoor - their update mechanisms, their patch mechanisms," he said.
+"My read on what you are trying to do is to put that issue on the table and say, 'we are not going to create backdoors, but we are going to try and use the capabilities that already exist'."
+Australia calling for powers US Government won't
+
+Mr Inglis said the Australian Government was pushing for legal powers the US Government had not called for.
+"We have not had as rich a debate as what I sense is going on in Australia," he said.
+"The Government by and large has not stepped in and directed that we are either going to seek a solution, we are still trying to find a voluntary way forward."
+When Prime Minister Malcolm Turnbull announced the legislation, he noted strong libertarian tendencies of US-based technology companies.
+Mr Inglis said Australia was "in the middle of the pack" when it came to cyber security planning.
+"You are currently working through how to balance individual privacy - the defence of liberty as well as we would say in the states - and the pursuit of collective security," he said.
+"No-one is exempt from the threats that are traversing across the cyber space at this moment in time."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chris Inglis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSA</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Government</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Government</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Edward Snowden-style</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Internet Safety Professor Nigel Phair</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Inglis</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US National Security Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

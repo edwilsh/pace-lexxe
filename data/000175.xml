@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398059141465109</docid>
+  <date>30/07/2017</date>
+  <time>23:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/07/31/08/10/australian-model-michelle-leslie-detained-at-la-airport</url>
+  <title>Australian model Michelle Leslie detained at LA airport</title>
+  <content>
+Lingerie model Michelle Leslie has been filmed being escorted away by an airport official shortly after arriving at Los Angeles with partner and musician Daniel Johns yesterday.
+Leslie, 36, reportedly encountered a problem while attempting to check in at an automated passport kiosk, which resulted in her being detained.
+Leslie and Johns, of Silverchair fame, were filmed kissing briefly before she was escorted away. It is not currently known whether Leslie remains in US immigration custody.
+Leslie was previously arrested and jailed in Bali's notorious Kerobokan Jail for the possession of two ecstasy pills in 2005.
+The couple shared a photo of the pair together to Instagram in May, appearing to confirm their relationship.
+It came just months after a shirtless Johns was photographed collapsing in the street after leaving a bar in Sydney's Double Bay in December last year.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>LA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Leslie, 36</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Johns, of Silverchair</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>John</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney's Double Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michelle Leslie</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Johns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bali</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leslie</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kerobokan Jail</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

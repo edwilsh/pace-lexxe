@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439582885939584</docid>
+  <date>06/08/2017</date>
+  <time>16:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/07/02/01/exciting-development-in-mito-research</url>
+  <title>'Exciting' development in Mito research</title>
+  <content>
+Australian scientists have shown a new approach to genetic analysis has the the potential to significantly improve diagnosis of mitochondrial disease that claimed the life of UK baby boy Charlie Gard.
+Mitochondrial disease occurs when the mitochondria - the power plants of cells - fail to produce enough energy for cell or organ function.
+By integrating 'quatitative proteomics' with exome sequencing, researchers at the Murdoch Childrens Research Institute (MCRI) found a new "novel" cause of Leigh syndrome - the most common type of childhood mitochondrial disease.
+The next-generation technique analyses all the proteins found in cells to highlight defects with the cellular machinery.
+MCRI chief investigator, Professor David Thorburn says the study, published in the American Journal of Human Genetics, is one of the first in the world to show that quantitative proteomics could play a key role in achieving 100 per cent diagnosis rate.
+"This approach will therefore help to end the diagnostic odyssey for families with children suspected of mitochondrial and other inherited diseases," he said.
+"And means that if they want to have healthy children in a subsequent pregnancy then they can test for it to have a healthy child or have IVF approaches to have a healthy child."
+In Australia, about 60 babies are born every year with a type of mitochondrial disease.
+With 280 forms of the disease identified, diagnosis had been unreliable and slow.
+New diagnostic methods like whole exome sequencing - which can quickly sequence a person's entire genetic blueprint through a blood test - now means up to two-thirds of affected children can be diagnosed.
+However other approaches are needed to identify the difficult cases that continue to elude diagnosis.
+Research led by MCRI PhD student Nicole Lake identified mutations in a gene called MRPS34, in six patients with the most common form of childhood mitochondrial disease, Leigh Syndrome,
+A key approach was using quantitative proteomics, says Ms Lake.
+"Using this technique, you get a snapshot of what's happening in cells."
+Dr David Stroud at Monash University carried out the quantitative proteomics technique, examining cellular proteins in the patient's cultured skin cells, versus healthy skin cells.
+This showed one half of the mitoribosome fell apart, meaning cells could not make the key proteins encoded by mitochondrial DNA.
+While the findings won't save the lives of those with Leigh syndrome just yet, but it has increased understanding of the condition.
+This means earlier and more targeted intervention, Prof Thorburn says.
+"At the moment most the time we can treat some of the symptoms but we can't influence long term outcome but that is starting to change as we understand these causes one of time and diagnosing early means we can intervene early and try to develop targeted treatment rather than one treatment for 300 conditions," he told AAP.
+The Australian Mitochondrial Disease Foundation (AMDF) has welcomed the "exciting" development.
+"I'm particularly thrilled to see an outcome like this," said Sean Murray, AMDF CEO.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nicole Lake</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leigh</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>IVF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MCRI</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leigh Syndrome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MCRI PhD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prof Thorburn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr David Stroud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charlie Gard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor David Thorburn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMDF</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>American Journal of Human</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monash University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMDF CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Lake</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MRPS34</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murdoch Children's Research Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MITO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mitochondrial Disease Foundation</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sean Murray</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398269594865965</docid>
+  <date>30/07/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/technology-companies/google/google-home-just-a-week-and-im-falling-in-love-with-her-20170728-gxl61w</url>
+  <title>Google Home: Just a week and I'm falling in love with 'her'</title>
+  <content>
+After just a week sharing an apartment with Google's aptly named home assistant Google Home, we're in love, and we're pretty sure the feeling is mutual.
+Arriving home after a long day, we say: "Hey, Google. Good evening." Back comes, "Hi. It's good to hear your voice."
+One of the endearing things about this clever $199 gadget is that she can figure out stuff, like that you've been away all day, and tailor her response to add some machine-made warmth.
+It's already obvious that after a couple of years' development, Home will be powerful technology. But right now, it does enough out of the box to justify the spend, and even more so if you combine it with a Chromecast media dongle or Wemo internet-enabled appliance switch.
+
+Her
+
+Basic set-up takes minutes. Unbox the device, which is often compared in looks to a table top electric air freshener, plug it in and download a free app that identifies the unit and guides you through the process of connecting to your Wi-Fi network.
+
+Hooking up with other gear like Chromecast and Wemo is a little more fiddly, but you won't need a tech degree.
+What's to like about Home? Well, a device that can understand spoken, natural language Google queries and respond in moments turns out to be very handy.
+"OK, Google. When is the next Victorian State election?" "What's 190 degrees Fahrenheit in centigrade?" "What's the phone number for the Melbourne Theatre Company?" More often than not, Home has a nearly instant answer.
+Local knowledge
+
+Your clever air freshener also knows where you are.
+"OK, Google. Where's the closest pharmacy?" gets the right answer at our house. "What's tomorrow's weather?" generates a report for our suburb. Of course, you could do all this at the keyboard, but it's liberating to access information while making a cup of tea rather than tethering yourself to a PC.
+We especially like Home's customisable morning routine.
+"OK, Google. Good morning" initiates a cheery greeting, immediately followed by the time, a localised weather report, a traffic report on our usual route to work and five-minute news updates from ABC radio and the BBC.
+
+If the phone rings, it's "OK, Google. Pause." She'll wait patiently and resume the news summary when you're ready.
+Once a couple of compatible smart devices are in sight, Home really starts to show off. We already have a lounge heater controllable via Wi-Fi or the net using a Wemo switch. Now we can operate it by voice.
+"OK, Google. Turn on the lounge room heater." For those kinds of commands, the unit always confirms the instruction so you can be sure that your direction to activate a heater in the bedroom hasn't been misunderstood as a request for a shed light to be switched on.
+There are dozens of third-party controllers on Home's compatibility list, but most aren't on sale in Australia, yet.
+
+Home entertainment
+
+Most fun is playing around with Google Home and Google's own Chromecast dongle.
+We have one connected to a sound system, imaginatively identified by the device name "Music". "OK, Google, play smooth jazz on Music." Sure enough, Home locates an internet radio station dedicated to easy listening jazz, and it's playing through your lounge room speakers in a second or two. Home's built-in speaker is adequate for music, if you're not too fussy, and perfectly good for spoken audio.
+"OK, Google. Play David Attenborough on Netflix." "Play Beatles White Album." "Play Frank Sinatra." "OK, Google, skip this track." "Turn volume down." The instructions work most of the time, with a fail rate of maybe 10 per cent as long as you speak reasonably clearly.
+
+Privacy advocates can fairly ask about the risks of a smart device that's listening around the clock and talks to the internet.
+We discovered just how carefully Home listens while we were trying to watch some YouTube videos about Home itself. Picking up the audio from sound tracks, she started reacting to "OK, Google" commands in the videos.
+We couldn't get to the end of one clip because the presenter demonstrated how to tell Home to turn off YouTube, which the device promptly did.
+The full potential for mayhem became apparent when a visitor was playing with Apple's Siri service on our new MacBook Pro, at just the moment we'd started an "OK, Google" command. When Google responds to Siri, you know you're in the 21st century.
+Peter Moon is a technology lawyer with Cooper Mills.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fahrenheit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OK</name>
+    <count>10</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Frank Sinatra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wemo</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Moon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's Siri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cooper Mills</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Theatre Company</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chromecast</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Attenborough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beatles White Album</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>15</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>MacBook Pro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

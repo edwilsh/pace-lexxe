@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405571039393426</docid>
+  <date>01/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/tasmania-first-in-telstras-15-billion-network-for-the-future-program/news-story/90d6d707ad9fb6aed99f107590e43edc</url>
+  <title>Unable to complete request</title>
+  <content>
+We apologise for any inconvenience caused. If you require assistance, please email
+Our Customer Service Centre is open Monday to Friday 7:30am to 6:00pm and 7:30am to 11:30am (AEST) on
+Saturdays and national public holidays.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Customer Service Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

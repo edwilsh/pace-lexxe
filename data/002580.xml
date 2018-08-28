@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401327611628177</docid>
+  <date>31/07/2017</date>
+  <time>11:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/bitcoin-price-swings-ahead-of-tuesdays-big-decision-2017-7</url>
+  <title>Bitcoin swings ahead of Tuesday's big decision</title>
+  <content>
+traders are on edge as they await the outcome of the civil war that will decide the fate of the crytpocurrency. On Tuesday, core developers and miners will decide whether bitcoin remains as is, or if there will be a hard fork that splinters the cryptocurrency.
+
+Bitcoin is trading up 0.52% at near $US2,773 a coin.
+
+Up until recently, it looked like everyone was on board with , a proposal that, according to bitcoin evangelist Paul McNeal, moves the threshold for implementation down to 80% and also allows for a small increase in the size of blocks on the chain to 2 MBs. That was until , an alternative to both bitcoin and the SegWit2x version, entered the picture.
+
+"Bitcoin cash basically came out of nowhere," Charlie Morris, the chief investment officer of NextBlock Global, an investment firm with digital assets, told Business Insider." A group of miners who didn't like SegWit2x are going to opt for this new software that will increase the size of blocks from the current 1 megabyte to 8."
+
+For what it's worth, the majority of bets placed in the  aren't predicting a good outcome for bitcoin. Accroding to Ed Pownell, a company spokesperson at Bodog, of the 470 people who have wagered on the event, "310 people think the price will dip below $US2,000 per coin."
+
+Bitcoin is up 186% in 2017.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SegWit2</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charlie Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2,000</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ed Pownell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NextBlock Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul McNeal</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bodog</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Accroding</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,773</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

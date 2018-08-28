@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417919070600897</docid>
+  <date>03/08/2017</date>
+  <time>04:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/a-diy-pharmaceutical-revolution-is-coming-if-it-doesnt-kill-us-first/</url>
+  <title>A DIY Pharmaceutical Revolution Is Coming, If It Doesn't Kill Us First</title>
+  <content>
+Illustration: Angelica Alzona/Gizmodo
+As Mixael Laufer tells it, the vision came to him in El Salvador. Laufer was visiting Central America as a human rights envoy, touring a tiny, rural mountain town with the Marin County Peace and Justice Coalition. When he arrived at the town's medical clinic, it had just run out of birth control.
+
+"I thought to myself, 'This is a country where there are there are methamphetamine and ecstasy labs everywhere. Birth control isn't that much more complicated,'" Laufer told Gizmodo. "'Why aren't these people just making their own birth control?'"
+
+This, it turned out, would be his life's big "aha" moment, and the beginning of an obsession. The world is already , cooking up highs at home. Laufer wondered why he couldn't take the same approach to drugs that are legal.
+
+Laufer has a doctorate in mathematics, not medicine. By day, he's a maths professor at Menlo College, a small private university in the heart of Silicon Valley. He's also a pharmahacker, the most visible and outspoken member of a small community of hobbyist chemists who believe that pharmaceuticals, like some software, should be open-source and accessible to all. In 2015, he founded the , a loose consortium of hackers and scientists aiming to kickstart a DIY revolution for legal drugs.
+
+"People should be able to take control of their own health choices," he said.
+
+Laufer has the air of an anarchist preacher, albeit one who sometimes wears a tie to work. His speech is grand and always very serious, an unyielding stream of dramatic platitudes. "If you work within an external regulatory structure, you have no choice," he said. "It is a black box you cannot audit."
+
+Last spring, when the price of a two-pack of EpiPens in the US ballooned to more than $US600 ($753), Laufer published instructions for how to make a version of it for about $US30 ($38), hacked together using needles, a syringe and an  for insulin readily available on the web. When he grabbed headlines amidst the EpiPen pricing scandal, the FDA issued a strongly worded warning against the use of his DIY version.
+
+"It's essential to remember that epinephrine auto-injectors are life-saving products, and it is critical that they are made to a high standard of quality so patients can rely on them to work safely and effectively," an FDA spokesperson told Gizmodo.
+
+In Laufer's mind, though, the bigger threat is capitalism, and the lack of accessibility to healthcare that it can create. His revolution does not stop at cobbling together an off-brand epinephrine auto-injector from a few disparate parts you can order on the internet. His vision is something far grander - and more dangerous. Laufer wants to design an Easy Bake Oven for prescription drugs, and then offer anyone who wants to try their hand at life-or-death chemistry the instructions for how to build their own at home. The revolution will not take place in the streets, but in the kitchens of self-taught scientists seeking affordable prescription pills.
+
+"This stuff," he said, "should be no more difficult than IKEA furniture to put together."
+
+If you've ever built IKEA furniture though, you might quibble with how easy it really is to put together without error. Instructions for an alpha version of the "Apothecary MicroLab" offered on 's website were difficult to understand at best, explaining how to build an  using, among other things, an open-source sous vide controller and a mason jar. Laufer envisions that his army of DIY chemists will build and then program this minilab to manufacture small quantities of their drug of choice. Recently, he uploaded instructions on how , the medication that Martin Shkreli controversially raised  per tablet.
+
+Everything, Laufer is careful to say, is still very much a work-in-progress. In the coming weeks, he plans to debut a beta version of the MicroLab, one that, after partnering with a UX designer and employing more sophisticated hardware, will be truly as easy to build as a Malm bed.
+
+"It will be really IKEA-like," he said. "There is a list of parts to order, and then you just have to 3D-print this one part. You can just upload the design and order that part online." (When asked to review the code and instructions for the alpha version of the Apothecary MicroLab, a biohacker familiar with it called it "bullshit" and laughed. A professor who had seen a demo of the later version expressed strong scepticism that it would really work.)
+
+Eventually, Laufer plans to release instructions that make building your own mini pharma-factory extremely simple, along with instructions for manufacturing five other drugs at home, including Solvadi, a hepatitis C drug; Glaxo's HIV prevention pill, GSK-744; and mifepristone and misoprostol, the two pills that together can induce abortion.
+
+While the FDA has no real say in whether you whip up your own aspirin or birth control at home, an FDA spokesperson stressed to Gizmodo that it is a very, very bad idea. "Using unapproved prescription drugs for personal use is a potentially dangerous practice," the spokesperson said. "Neither the FDA nor the American public have any assurance that unapproved products are effective, safe or produced under current good manufacturing practices.‎ Unapproved drugs may be contaminated, sub-potent, super-potent or counterfeit."
+
+Jeremiah Johnson, whose  studies synthetic chemistry, elaborated on the risks. It would be easy, he said, to wind up making the wrong drug, or to formulate the right drug wrongly or dose it incorrectly. It would also be easy to hurt yourself while making the drug, because chemistry is, well, kind of dangerous sometimes. "It would not be a good idea to DIY pharmaceuticals," he told Gizmodo. "There is no way that I can see to make this process recommended."
+
+All of this adds up to suggest that, as you might have suspected, it is ill-advised to make your own bespoke, mason jar-manufactured pharmaceuticals at home. There are an awful lot of things that can go wrong, untimely death not the least likely among them.
+
+Laufer counters this by offering that he has made his own aspirin, ingested it, and is perfectly fine. "People who think this is unsafe should think about it for more than two seconds," he said. "If someone is dying of a chronic disease, there's already not much worse they can get."
+
+When I visited Laufer at Menlo College's Atherton campus, he was preparing to give a lecture later that evening on counting cards. ("It's just an easy maths problem and it's flashy and fun," he said. "It's a gimmicky way to get kids interested in maths.") There were flyers plastered all over the building in which he indeed looked like a Vegas magician. He was worried no one would show up.
+
+Overdressed for university life in a vest and purple tie, he scrolled through his email inbox. Everyday, he told me, he gets emails from people desperate for more affordable drugs. He sees himself as a sort of pharmahacker Robin Hood.
+
+I countered that some of the drugs he hopes people will make at home aren't taken by people who are dying, like the abortion pills. Mifepristone and misoprostol are required to be taken under medical supervision, because even when the drugs are perfectly fine . Women can suffer excessive bleeding, sepsis and, in rare cases, . They could have an incomplete abortion, or get an infection. Or take the pill when they are too far along, increasing the risk of complications.
+
+"OK, I grant that," he said. "But when someone doesn't have access to an essential medicine, what's left in terms of their options?"
+
+There is, though, a version of the more democratic future Laufer envisions that reads slightly less absurd. And it's already in the works in the labs of scientists at some of the most prestigious academic institutions in the world.
+
+At Harvard's Wyss Institute, biochemist  is developing a system for medical field operatives that he hopes will make preparing life-saving drugs much like making a Cup of Noodles. Last spring, he co-authored  in the journal Cell on how to use freeze-dried pellets and water to make drugs on the fly. The pellets contain the necessary chemical building blocks for certain drugs, cells stripped of their inner materials that translate genetic instructions into molecules, then frozen and dried out. They also freeze-dried the DNA carrying the instructions for how to make specific drug-creating molecules. Add water, and kickstart the chemical reactions that would turn them into therapies.
+
+The idea is that it might be easier (and cheaper) to get those pieces to far flung locations than pre-made drugs. Some drugs, for example, do not remain stable unless they remain very cold. This makes it difficult to get them to, say, a field hospital in the middle of the desert.
+
+"Right now this could be deployed for troops or people in far-off places where they don't have great access to drugs," Nguyen told Gizmodo. "But there is also talk of using this for democratising biotechnology."
+
+The system was successfully used to make several small-molecule drugs and a diptheria vaccine that tested safe when used on mice. One day, perhaps, the system could be used by consumers to make drugs cheaper, a build-it-at-home approach that makes drugs more affordable.
+
+The challenge in making something that might one day be used by the average consumer rather than, say, a rural field doctor, he said, is making something the average consumer truly can't screw up. "What we've tried to do is eliminate as many steps as possible," he said. In his vision, even the amount of water you might need for his freeze-dried drug system would be pre-packaged. It would work, perhaps, like a 3D-printer, requiring you to simply download the instructions for whatever drug you might want to make.
+
+"You need to reduce the number of steps," he said. "Like ramen: You have a bag of ramen and there's seasoning and they tell you how much water you need. It's very hard to screw up ramen, though I guess people still probably do."
+
+Across the way at MIT, Jose Gomez-Marquez's lab is working on a similar project. Instead of a Cup of Noodle or IKEA for pharmaceuticals, though, he envisions it instead as a Keurig. "The challenge is how do I make something that my mum can use," he said.
+
+Productising the DIY approach, though, he said, risks subjecting it, too, to the same market forces that make the EpiPen's price surge by hundreds of dollars. "The challenge is how do you do that so it doesn't actually become Keurig," he said. "Afterall, the reason we have the Epipen problem is that people bought into a form factor." Johnson echoed this concern. "At the end of the day, the drug would still be the drug whether or not the company or the consumer makes it, and discovering a new drug is extremely expensive," he said. Pre-packaged drug mixes might allow medicine to travel to rural places in suboptimal conditions, but he questioned whether it might ever actually make them cheaper.
+
+At the University of Glasgow in Scotland, chemist Lee Cronin has demonstrated the  of what he hopes will eventually allow people to 3D-print medicine with ease. For now the technology is quite a ways from that - instead, his lab uses a 3D printer to initiate chemical reactions that create drugs.
+
+"The dream is to turn the practical process of making molecules into code and then those bits of code into molecules and drugs," he told Gizmodo. In Cronin's version of the future, though, this DIY tech is not something to be used by the average consumer - at least not until such a technology has been around for a very long time. Instead, the technology dovetails with personalised medicine, to allow pharmacists on every corner to simply print up custom pills according to a person's genome.
+
+"I think of it like the printing press," he said. "Once that was a highly specialised tool, now everyone has a printing press in their pocket. If it was possible for you to print a drug at home without anything going wrong that would be great, but we're simply a long way from there."
+
+Nguyen and Gomez-Marquez both said their projects also still have many fundamental kinks to work out. Regulating such a product, too, would be tough. The FDA tests drugs for efficacy and safety, but it would instead need to shift gears to test not only the ingredients but the instructions for making them. Nguyen said that if an agency like DARPA threw its weight behind a project like his, it could probably be ready for consumers within a decade. Without government support, it's possible it could take many decades to reach consumers, if ever.
+
+"I think it's going to be possible," said Gomez-Marquez. "The technology is getting there."
+
+When the EpiPen prices surged, though they garnered less attention than Laufer, at least a few medical professionals came up with their own DIY hacks. In Maine, a  up with her own version of the injector, which she now puts together and sells to her patients. ("I've had people travel hours to have an appointment with me," she told Gizmodo.) In Seattle, an EMS responder  alternative now in wide-use throughout the region.
+
+There are, of course, even more experimental futures being envisioned. The artist, biohacker and provocateur Mary "Maggic" Tsang, for example, is working to create  protocols, and . (In a performance that is more art than science, Tsang suggests that a woman could simply pee out estrogen, extract it from her urine and give it to someone else who might need it.)
+
+Others are more sceptical in their vision. The Open Insulin project is in the final stages of gathering evidence to show that it has successfully produced insulin in E.coli, a major feat. Eventually, the group would love if people could produce their own insulin at home, but that day is so far off that the project's director suggested it wasn't even really worth talking about.
+
+"We could have insulin by the end of the year," it's director, Anthony Di Franco, told Gizmodo. "But this will still be something for research purposes. We do not advise actually putting it in your body."
+
+MIT's Gomez-Marquez said he thinks Laufer's project is more about publicity than actually democratising access to pharmaceuticals. Indeed, when I asked Laufer if he could put me in touch with anyone who'd actually used either his mini lab or EpiPen instructions, he told me that for legal reasons he uses the "WikiLeaks model" and distances himself from anyone who might actually be using them. I searched far and wide in biohacker circles and found no one who had ever heard of anyone who had actually tried it out.
+
+Putting the idea out there, though, could be dangerous. "It's important that if we do these things, people trust the process. Otherwise it becomes like snake oil," said Gomez-Marquez. "The worst that can happen is somebody that's gullible out there tries this and fails, with disastrous consequences."
+
+In a world where people are already , perhaps it seems inevitable that one day we will be able to brew up some aspirin when we get a headache just as easily as we might brew up a cup of coffee. But, if and when that future comes, let's hope it comes in hermetically sealed packaging.
+
+WATCH MORE: Science & Health News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Justice Coalition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WikiLeaks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IKEA-like</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Open Insulin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EMS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Easy-Bake Ovens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mary</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malm</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>IKEA</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US30 ($38</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nguyen</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D-print</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DARPA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MIT's Gomez-Marquez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Solvadi</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Menlo College's Atherton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pre-packaged</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeremiah Johnson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Robin Hood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gomez-Marquez</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mixael Laufer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>El Salvador</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DIY Pharmaceutical Revolution Is Coming</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Johnson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Di Franco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Productising</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seattle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D Printer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GSK-744</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>University of Glasgow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvard's Wyss Institute</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>EpiPen</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US600 ($753</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kill Us First</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Keurig</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cup of Noodles</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marin County Peace</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glaxo's HIV</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>DIY</name>
+    <count>7</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MicroLab</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Laufer</name>
+    <count>17</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Maggic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jose Gomez-Marquez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin Shkreli</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Angelica Alzona/Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FDA</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Maine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scotland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cronin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Menlo College</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apothecary MicroLab</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lee Cronin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tsang</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Health News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

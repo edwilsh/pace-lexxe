@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403389195971073</docid>
+  <date>31/07/2017</date>
+  <time>19:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bitcoin-and-bitcoin-cash-2017-7</url>
+  <title>Bitcoin will likely split into 2  --  and it's all because of bitcoin cash</title>
+  <content>
+Bitcoin will likely split into two separate currencies on Tuesday, and it's all thanks to bitcoin cash.
+
+For years,  over the structure of the blockchain network that underpins the red-hot currency.
+
+On one side of this war, there are the so-called core developers who want to keep the blocks that make up the network limited in their size to protect against hacks. On the other side, are the miners who want to increase the size of blocks to make the network faster.
+
+In order to find some middle ground, some business executives and miners came up with a proposal known as SegWit2x, which would increase the size of bitcoin blocks to 2 megabytes. And up until last week, .
+
+That was until bitcoin cash, an alternative to both the original bitcoin and the SegWit2x version, entered from stage left.
+
+"Bitcoin cash basically came out of nowhere," Charlie Morris, the chief investment officer of NextBlock Global, an investment firm with digital assets, told Business Insider."A group of miners who didn't like SegWit2x are going to opt for this new software that will increase the size of blocks from the current 1 megabyte to 8."
+
+As a result, a split in bitcoin on August 1 at 8:20 AM EST, the deadline for Segwit2x implementation, appears to be very likely.
+
+According to Morris, as soon as the split takes place most people will see their bitcoin holdings double. But that doesn't mean the value of investors' holdings will double.
+
+Morris told Business Insider that bitcoin cash (BCC) has been trading in the futures market for about $US200 to $US400. Thus, if a split were to occur BCC would trade somewhere in that range while the value of bitcoin would witness a decline equal to the value of the new bitcoin.
+
+The , according to Morris, will most likely resemble the Ethereum split. Bitcoin's rival, , eventually leading to the creation of the version of the cryptocurrency we know today.
+
+"It will be similar to what happened with Ethereum when Ethereum came to the scene," Morris said."The two currencies marketcap equaled out to the marketcap of the original Ethereum."
+
+He said BCC has been trading in the futures market for about $US200-$US400. Thus, if a split were to occur BCC would likely trade somewhere in that range and the value of bitcoin would witness a decline equal to the value of the new bitcoin.
+
+On the whole, most bitcoin enthusiasts aren't too concerned about a fork.
+
+"In general, I think the fork is a healthy process because it's similar to how evolution works in nature," Yoni Ben Shimon, co-founder and CEO at  told Business Insider in an email. "And that is the main reason bitcoin will never die - it's because it can adapt itself to changes."
+
+Arthur Hayes, CEO of BitMex, a bitcoin derivative exchange, told Business Insider he thinks a fork will benefit the cryptocurrency in the long run, despite short term volatility.
+
+"There are people with billions of dollars of skin in the game and they will ultimately go with the superior bitcoin network, and then the market will follow," Hayes concluded.
+
+In the end, he thinks the winning bitcoin could reach $US5,000 a coin.
+
+Bitcoin is up close to 200% in 2017, trading at $US2,808.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCC</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SegWit2</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hayes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charlie Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of BitMex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$400</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yoni Ben Shimon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$5,000</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US2,808</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ethereum</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NextBlock Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arthur Hayes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US200</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morris</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

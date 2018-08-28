@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417429444321660</docid>
+  <date>03/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/49/delays-in-colosimo-drug-charge-court-case</url>
+  <title>Delays in Colosimo drug charge court case</title>
+  <content>
+Australian actor Vince Colosimo wasn't in court to hear a Melbourne magistrate's frustration over delays in his drug-driving case.
+Colosimo, 50, is charged with driving with drugs in his system and being behind the wheel while suspended after being stopped by police recently.
+The Underbelly actor's matter was mentioned by the Melbourne Magistrates' Court on Thursday but Colosimo was not required to appear in person and was interstate.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colosimo</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vince Colosimo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colosimo, 50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438212791359246</docid>
+  <date>06/08/2017</date>
+  <time>10:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/man-trapped-killed-in-regional-nsw-crash/news-story/4088e10f0d3e26986a7ebbde82035435</url>
+  <title>Man trapped, killed in regional NSW crash</title>
+  <content>
+A man has been killed in a suspected head-on collision in the NSW Hunter region.
+Police say the man was trapped in his car and died after the collision in Howes Valley on Sunday afternoon.
+A woman was treated by paramedics and taken to John Hunter Hospital.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Howes Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

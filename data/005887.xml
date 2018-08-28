@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406387083193056</docid>
+  <date>01/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/nsw/2017/08/01/asbestos-sydney-opera-house/</url>
+  <title>Asbestos discovered in Sydney Opera House, 25 workers exposed</title>
+  <content>
+A work ban has been imposed on renovation work at the Sydney Opera House after asbestos was found in the wiring.
+The Electrical Trades Union (ETU) said 25 workers involved in the $200 million renovation had been exposed to the fibres while working in a service duct.
+The union said it took too long for workers to be told about the discovery.
+"Our ETU members have been exposed to deadly asbestos," the ETU's Justin Page said.
+"The contractor Downer failed to notify our members for approximately five days that asbestos had been detected and confirmed at that site.
+"Our members raised the issue of [the] possible presence of asbestos last Monday."
+SafeWork NSW is now investigating the matter and will assess all the circumstances.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Downer</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Electrical Trades Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETU's Justin Page</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Etu</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Opera House</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SafeWork NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

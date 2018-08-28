@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405506614883241</docid>
+  <date>01/08/2017</date>
+  <time>03:54</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/hackers-breach-cybersecurity-company-in-apparent-revenge-on-employee/</url>
+  <title>Hackers Breach Cybersecurity Company In Apparent Revenge On Employee</title>
+  <content>
+A threat analyst at the cybersecurity firm Mandiant has been hacked and the attackers are claiming to have lurked on his computer for a year, collecting his login credentials for various sites and tracking his location.
+
+Photo: Getty
+
+The hackers got their hands on some internal data about the clients Mandiant and its parent company FireEye protect, including the Israeli Defence Forces. Mandiant confirmed the data breach.
+
+"We are aware of reports that a Mandiant employee's social media accounts and personal laptop have been compromised. We are investigating this situation, and have taken steps to limit further exposure," a FireEye spokesperson told Gizmodo. "While our investigation is ongoing, there is currently no evidence that FireEye or Mandiant corporate systems have been compromised. Our top priority is ensuring that our customer data is secure. To date, we have confirmed the exposure of business documents related to two separate customers in Israel, and have addressed this situation with those customers directly." The investigation is ongoing, the spokesperson added.
+
+Mandiant's employee, Adi Peretz, appears to have been targeted because of his work - a post apparently written by the hackers mentions that Peretz may have disrupted one of their breach plans. Here's what they allegedly had to say:
+
+Although it's easy to laugh at a guy whose LinkedIn page got  with a picture of a hairy butt, the hack just goes to show that even security professionals can be vulnerable. Industry professionals are probably taking some time today for a security checkup, and .
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adi Peretz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Israel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandiant</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Israeli Defense Forces</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peretz</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>FireEye</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Breach Cybersecurity Company In Apparent Revenge On Employee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LinkedIn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Getty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

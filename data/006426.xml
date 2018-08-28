@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409440805003368</docid>
+  <date>01/08/2017</date>
+  <time>19:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/logan-parks-not-given-high-priority-on-411m-fire-ant-crackdown/news-story/4446f53b60a4779225060f183f3afd55</url>
+  <title>$411m plan to stop fire ant march</title>
+  <content>
+AGRICULTURE ministers from across the nation have committed to fund a 10-year $411.4 million plan to rid Australia of red imported fire ants.
+The news came a week after The Albert & Logan News revealed at least five parks in Logan were infected with the pest which has a bite that can kill a baby.
+State Agriculture Minister Bill Byrne said all ministers at last week's Agricultural Ministers' Forum in Canberra agreed it was in the national interest to double treatment and surveillance. The expanded fire ant treatment program will start in September and run until May.
+It is unknown whether Logan parks will be treated under the new program with the first treatments kicking off at high-risk infestation areas including Lockyer Valley and Scenic Rim.
+Mr Byrne said there was still a lot of work to do but Australia was the closest any country had come to eradicating the pest, which was estimated to cost up to $45 billion over 20 years.
+</content>
+  <sindexList>
+  <sindex>
+    <name>LOGAN</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Lockyer Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scenic Rim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Byrne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Agriculture Minister Bill Byrne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Logan News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Agricultural Ministers' Forum</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Alberts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

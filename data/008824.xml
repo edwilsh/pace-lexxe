@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411541044047957</docid>
+  <date>02/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/12/59/blacktown-police-pursuit-allegedly-stolen-vehicle</url>
+  <title>Stolen vehicle dodges police during wild three-hour pursuit</title>
+  <content>
+A man driving a stolen car has twice dodged police as he led them through a wild chase for almost three hours in Sydney's west yesterday.
+The 28-year-old was spotted in the allegedly stolen Toyota Camry in Palmyra Avenue at Willmot by police about 3pm yesterday.
+A police helicopter was called in to track the car after two failed pursuits to stop it at Lethbridge Park and Llandilo, including an attempt to stop the car using road spikes. 
+As the car continued onto the M7 Motorway towards Blacktown it entered an underground car park on Stephen Street, where the driver allegedly attempted to steal another vehicle from a 63-year-old woman.
+He was unsuccessful and ran back onto the street where he was arrested by police.
+He was taken to Blacktown Hospital under police guard for non-life threatening injuries.
+On release he was charged on five accounts including Skye's Law.
+
+Related Articles
+
+The man was refused bail to appear in court today.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>M7 Motorway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Llandilo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blacktown Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Camry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Palmyra Avenue</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Blacktown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lethbridge Park</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Skye's Law</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Willmot</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

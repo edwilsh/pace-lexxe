@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431254944278196</docid>
+  <date>05/08/2017</date>
+  <time>07:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/melbourne-plane-crash-victim-improves/news-story/d9bce365d527b5b56bbcee0e806689aa</url>
+  <title>Melbourne plane crash victim improves</title>
+  <content>
+A flight instructor and his student remain in hospital - one fighting for life, the other in a serious condition - after their plane crashed in a Melbourne paddock.
+The ultralight Bristell two-seater crashed at Clyde North on Thursday morning, leaving one of the men trapped in wreckage for more than an hour.
+A man aged in his 20s was initially listed as critical but a spokesman from The Alfred hospital on Saturday said he had improved slightly and was in a serious but stable condition.
+A second man, believed to be in his 30s, remains in Royal Melbourne Hospital in a critical condition.
+The aircraft was registered to Learn to Fly Melbourne, which is based at Moorabbin Airport.
+Civil Aviation Safety Authority spokesman Peter Gibson says the ultralight was on a training flight when it crashed.
+"It was on a dual training flight with an instructor and a student on board," Mr Gibson said on Thursday.
+Recreational Aviation Australia is investigating the crash and spent Thursday and Friday assessing the scene.
+A report is expected in the coming weeks.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Peter Gibson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Gibson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fly Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alfred</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Civil Aviation Safety Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bristell</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aviation Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

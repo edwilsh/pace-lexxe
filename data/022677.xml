@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442894305763075</docid>
+  <date>07/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-07/woolworths-system-glitch-takes-money-from-customers/8781628</url>
+  <title>Woolworths system glitch withdraws money from customers' accounts</title>
+  <content>
+Angry Woolworths customers say they have had money withdrawn from their accounts because of a computer glitch that has re-processed six-month-old transactions.
+
+Key points
+
+Woolworths says payment service Cuscal to blame for error
+Number of affected customers is unknown
+Customers concerned about security of their bank details
+
+Woolworths has blamed the transactions on its payment processor, Cuscal.
+"We have received confirmation from Cuscal, one of our payment processors that service credit unions and other financial institutions, that due to an error at their data centre, a limited number of Woolworths customers may have received incorrect transactions," the company said in a statement.
+It is not known how many people have been affected, but dozens of angry Woolworths took to social media to complain about the withdrawn cash.
+Tony Dafter from Narrabri in New South Wales noticed Woolworths had taken $61.12 from his Visa debit account this morning.
+He immediately called Woolworths' customer service line.
+"They said it is a known issue being reported today and they are taking details, but they have no idea when it will be sorted or when I will get my money back," Mr Dafter told the ABC.
+"I want the money back now. It was quite easy for them to withdraw it, so I don't understand how it can't be returned today."
+Jake Brown from Mitcham in Victoria said he had about $150 withdrawn from his account today based on transactions he made at Woolworths and BWS in March.
+"We are extremely tight this week but will be OK for one day. What about others who are not?" Mr Brown said.
+He contacted his bank and Woolworths, which both described the transactions as a basic system error.
+Fears bank details kept on file
+
+Mr Brown said he was deeply concerned his account details may have been kept on file by Woolworths for six months.
+"Why are credit card details still on file? And if they're kept on file by a third party, how secure are they?" he said.
+Woolworths has promised to reverse the transactions today.
+"We are working closely with Cuscal and can confirm any payment errors will be corrected within 24 hours," the company said.
+"We apologise for the inconvenience this may cause customers. If further information is required please contact 1300 767 969."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BWS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Narrabri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cuscal</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>12</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Dafter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Brown</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Dafter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jake Brown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MITCHAM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

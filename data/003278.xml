@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403891707153980</docid>
+  <date>31/07/2017</date>
+  <time>21:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/07/24/pm-must-warn-trump-over-north-korea-rudd</url>
+  <title>PM must warn Trump over North Korea: Rudd</title>
+  <content>
+Prime Minister Malcolm Turnbull should call Donald Trump and urge caution over North Korea, Kevin Rudd says.
+The former Labor prime minister says calm and cool heads must prevail as tensions escalate between the US and the rogue regime, calling on allied leaders to step in and warn the Trump administration.
+"Allied prime ministers, including the Australian prime minister, should be picking up the telephone to Washington and urging caution," Mr Rudd told Sky News on Tuesday.
+"The state of drift at the moment on North Korea in the direction of a crisis and even conflict ... should give us all real pause for concern."
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418967042638995</docid>
+  <date>03/08/2017</date>
+  <time>08:08</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/financial-services/some-of-austracs-allegations-against-cba-are-jawdropping-20170803-gxolzp</url>
+  <title>Has CBA's technological ability got ahead of its legal regulations?</title>
+  <content>
+Allegations of customers "cuckoo smurfing" and using Commonwealth Bank of Australia accounts to launder money for making and importing drugs will rattle the nation's largest bank to the core.
+deposited millions of dollars into CBA accounts using fake names and used the bank's fancy ATM machines to process dirty cash are confronting enough.
+But they've been compounded by numerous allegations in documents filed in the Federal Court on Thursday that CBA failed to properly monitor and report suspicious activity.
+Even after being notified by the Australian Federal Police that they were investigating money-laundering in various CBA accounts, the bank is said to have kept some of those accounts open and processed transactions.
+
+These serious allegations will now be tested in court. But before then, Commonwealth Bank - which reports full-year profits next Wednesday - will be forced into a period of introspection about how its procedures in such a sensitive area for banks appear to have failed it, and how its relationship with the financial transactions regulator has stooped so low that it has had to turn to litigation.
+
+The incredible size of the potential maximum fine for the 53,500 breaches of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 - which amounts to a staggering $960 billion, given each breach carries a maximum penalty of $18 million - will ensure this matter reverberates up to the most senior ranks of the bank. (Earlier this year, the  for 108 breaches of the same act.)
+Some of the allegations made against CBA are jaw-dropping.
+AUSTRAC says the NSW Police advised the bank they were investigating "cuckoo smurfing" in 2015. That year, the NSW Crime Commission said this was a popular technique used by importers of the dangerous drug ice.
+On its website, AUSTRAC says the technique's terminology derives from cuckoo birds, which "lay their eggs in the nests of other species of birds which then unwittingly take care of the eggs believing them to be their own. In a similar manner, the perpetrators of this money laundering typology seek to transfer wealth through the bank accounts of innocent third parties."
+
+Drug smugglers turn to CBA
+
+Much of the nefarious activity in the CBA accounts occurred in the second half of calendar 2014, and through to 2015. Several customers appear to have already been subjected to criminal proceedings and convicted.
+But by late 2014, banks in Australia, and around the world, were very much on notice about heightened risk of anti-money laundering and counter-terrorism financing compliance given the rise of Islamic State.
+For example,  in late 2014 due to fears its US correspondent bank would cut them out of the US financial system because of heightened concerns about funds being potentially sent to terrorists.
+
+It appears CBA's shady customers were more focused on drugs.
+AUSTRAC alleges a "Money laundering syndicate No. 4" was operating through CBA accounts between February 2015 and May 2016. During this time, more than $21 million - the "illicit proceeds of a drug importation and distribution syndicate" - was deposited into 11 accounts.
+AUSTRAC said while CBA knew some of the transactions were suspicious, "a number of transactions on these accounts were not the subject of any transaction monitoring alerts".
+And even after it became aware of suspicious activity - including after being told about it by the Australian Federal Police - CBA appears to have permitted accounts to remain open and for transactions to keep flowing through them.
+
+While CBA was banking members of a separate money laundering syndicate from late 2014 to August 2015, AUSTRAC alleges just over $20 million was deposited into 30 CBA accounts - of which 29 were in fake names.
+AUSTRAC's legal claim suggests a technique known as "structured deposits" was commonly used, where the amounts deposited were just below the threshold limit for AUSTRAC reporting.
+'Repeatedly failed'
+
+However, even after identifying some of these as suspicious, CBA is alleged to have "repeatedly failed" to provide AUSTRAC with a "suspicious matter report", another requirement of the legislation.
+
+The case will also raise questions inside CBA about whether its technological ability has got ahead of its legal regulations.
+Much of the alleged laundering took place through the bank's "Intelligent Deposit Machines" - which can take up to 200 notes per deposit (so up to $20,000 per transaction) and do not limit the number of deposits that can be made each day, according to AUSTRAC. It says the machines "facilitate anonymous cash deposits".
+The regulator alleges that before rolling out its IDMs, CBA "did not carry out a [money laundering/terrorism financing] risk assessment", nor did it conduct  one of these responding to the "exponential rise in cash deposits through IDMs, nor in response to alerts raised by internal transaction monitoring services."
+Indeed, AUSTRAC alleges CBA did not take any steps to assess money laundering and terrorism financing from the machines until mid-2015, three years after they were introduced - by which time almost $9 billion of cash had been deposited into them.
+CBA said on Thursday its efforts to "continuously improve" compliance would continue, and that it took its regulatory obligations "extremely seriously". This included investing more than $230 million in its anti-money laundering compliance and reporting processes and systems, it said.
+It seems that whatever the outcome of this legal case, that number is not going to be reduced in the coming years.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act 2006</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 2015</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>10</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>February 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Crime Commission</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Deposit Machines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>18</count>
+    <score>-11</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

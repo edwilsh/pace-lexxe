@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412455872095488</docid>
+  <date>02/08/2017</date>
+  <time>06:52</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/business/markets/miner-retreat-keeps-asx-stuck-in-range-20170802-gxnrfa.html</url>
+  <title>Miner retreat keeps ASX stuck in range</title>
+  <content>
+Shares drifted lower during Wednesday, underperforming regional markets as a slide in commodity prices weighed on local miners.
+Widespread global optimism failed to filter through to the ASX, despite Wall Street's Dow Jones hitting another record high.Photo: AP
+The benchmark S&P/ASX200 index fell 0.5 per cent to 5744.2 points, with a 1.6 per cent slide in BHP Billiton weighing heaviest.
+Investors were largely treading water in afternoon trade ahead of Rio Tinto's results, released after the market closed, though another slew of company results gave investors plenty to think about. 
+"Wednesday was a bit mixed, there were no real definitive swings in any sector either way," said Karen Jorritsma, head of equity sales at Citi. 
+"Some of the REITs are a bit softer and it's been largely a non-event in the banks. Overall reporting season is seeing moves in individual stocks rather than large swings in sentiment." 
+
+Despite posting a 22 per cent increase in adjusted net income to $US101.6 million, ResMed investors sent the stock tumbling. It closed down 5.7 per cent, the biggest percentage loss on the benchmark index. 
+A pushback of Syrah Resources' graphite project has seen investors exit the stock en masse, and on Wednesday the stock tumbled another 3.9 per cent, capping off a 13 per cent fall since last week. It didn't help that Macquarie downgraded the stock to "neutral", from "outperform".
+
+You will now receive updates from
+
+Business AM Newsletter
+
+Business AM Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+Conversely, investors snapped up Genworth Mortgage Insurance shares, following the release of the company's half-year result.
+Despite posting a 35 per cent decline in net profit after tax to $88.7 million, a plan to buy back $100 million of shares as well as a flagged special dividend gave investors cause to send the stock up 6 per cent. 
+UBS reiterated its "buy" rating and increased the price target for Star Entertainment Group, driving shares up 4 per cent. 
+Investors punished Navitas for the second day in a row, after the education provider released a less-than stellar full-year result on Monday. Shares closed 3.4 per cent lower. Navitas reported a 10.8 per cent decline in profit after tax from ordinary activities to $80.3 million. 
+Stock Watch: Webjet
+
+Online travel agent Webjet's shares were put into a trading halt on Wednesday ahead of announcing a major acquisition and a round of capital raising. The company will return to trade once it has completed the institutional component of the capital raising, or by start of trade Friday. According to Street Talk, Webjet is seeking to pay around $200 million for Jac Travel, a business to business travel agent based in the UK. Webjet's shares dipped last week when it revealed it was in over how it accounts for transactions linked to tour operator Thomas Cook. The stock has four 'buy' ratings and four 'holds', with an average price target of $11.68.
+Market movers
+
+Bitcoin split
+Bitcoin may have divided into two separate blockchains on Tuesday night, generating a new clone called 'Bitcoin Cash' but the mothership's downward slide has so far been contained, signalling confidence the biggest cryptocurrency will come out of the split unscathed. Bitcoin Cash was on Wednesday trading at $US365.81, up 24.2 per cent, according to coinmarketcap.com, already making it the fourth largest cryptocurrency by market cap, while Bitcoin was at $US2690, down just 6 per cent. But traders noted that so far only a small fraction of bitcoin miners have been contributing their computing power to the new blockchain.
+Off the mark
+This year's biggest forecasting miss by economists has come on US inflation, which has delivered an almost unprecedented string of downside surprises since April, JP Morgan's John Normand notes. The consequence for markets has been a more rapid decline in the US dollar, a steeper ascent in US equities (because a weak currency boosts earnings), as well as the outperformance of emerging market assets. Mr Normand expects inflation to gradually lift in the second half of this year, saying the next few weeks could deliver a volatility shock given a data calendar thicker with inflation releases.
+BHP's leap
+BHP may have been hit by profit taking on Wednesday, but its recent rally has seen it leapfrog NAB as the fourth largest member of the ASX 200 index. The shares have jumped more than 16 per cent since mid-June, thanks to a rebound in commodity prices, taking BHP's market cap to $132.1 billion. Overall, that's second only to CBA's $146 billion, but because the Big Australian - like Rio Tinto - is dual-listed a part of its market cap doesn't make it into local index calculations. Meanwhile, NAB's shares are still down 12 per cent from their peaks three months ago.
+Tech rally
+The US tech giants continue to defy nay sayers with stellar sales and seemingly endless higher market valuations, with Apple's latest results poised to drive the Dow Jones through the 22,000-point mark. Apple was the last of the major techs to report this season and the results overall have exceeded expectations. "There's little sign that technology companies are dramatically overvalued," said Capital Economics' Oliver Jones. "The key difference between today and the dot com bubble of the late 1990s and early 2000s is that the recent strength appears justified by improved earnings, both actual and projected."
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Star Entertainment Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Normand</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>REIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Capital Economics' Oliver Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karen Jorritsma</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US365.81</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BHP Billiton</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Mortgage Insurance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US2690</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street's Dow Jones</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Navitas</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CBA's $146</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JP Morgan's John Normand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syrah Resources</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Street Talk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US101.6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jac Travel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Resmed</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

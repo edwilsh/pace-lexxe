@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441305167843264</docid>
+  <date>06/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/08/43/fishermen-knocked-unconscious-by-whale</url>
+  <title>Fishermen knocked unconscious by whale</title>
+  <content>
+A whale has slammed into a charter boat in the Whitsundays, knocking two fishermen unconscious.
+The RACQ CQ Helciopter was called to rescue four men following the incident on Saturday, off the coast of Bowen, with one man suffering a deep head laceration.
+An RACQ CQ crewman said those onboard had been "thrown about the boat" by the "enormous impact" of the collision.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bowen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RACQ CQ Helciopter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>RACQ CQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whitsundays</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

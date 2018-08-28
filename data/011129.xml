@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416351407512256</docid>
+  <date>02/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/blogs/andrew-bolt/dow-rises-krugman-goes-splat/news-story/854928feaf733f5806090b928b6567ef</url>
+  <title>DOW RISES, KRUGMAN GOES SPLAT</title>
+  <content>
+on Donald Trump's election: "It really does now look like President Donald J. Trump, and markets are plunging... If the question is when markets will recover, a first-pass answer is never." 
+"The Dow Jones industrial average on Wednesday roared above 22,000 for the first time in history."
+Krugman is a perfect example of how malice blinds.
+</content>
+  <sindexList>
+  <sindex>
+    <name>President Donald J. Trump</name>
+    <count>1</count>
+    <score>-2.7</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>KRUGMAN GOES SPLAT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DOW RISES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Krugman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

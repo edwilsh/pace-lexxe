@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404591786835479</docid>
+  <date>01/08/2017</date>
+  <time>00:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/heat-on-rba-as-residential-property-lending-hits-a-record-20170731-gxmene</url>
+  <title>Heat on RBA as residential property borrowing hits a record</title>
+  <content>
+Residential property borrowing continues to grow despite repeated attempts by regulators to jawbone banks and borrowers into cutting back, according to official statistics.
+The nation's  which is bigger than the country's gross domestic product and nearly equivalent to superannuation savings, the latest numbers from the Reserve Bank of Australia reveal.
+Borrowers and mortgage brokers, which act as intermediaries between property buyers and lenders, claim that overall demand and loan growth remains strong, despite more subdued investor demand in some markets.
+Investors continue to dominate total property borrowing, despite efforts by banks and regulators to encourage owner-occupiers and reduce speculative demand in the overheating sector.
+
+Westpac Group is growing its loan book the most aggressively. Commonwealth Bank of Australia is pulling back hard on interest-only investors, while non-bank lenders, which recently came under the regulatory aegis of APRA, are making big gains.
+
+John Flavell, chief executive of listed brokerage Mortgage Choice, said overall demand is robust and any slowing was probably due to seasonal factors, such as colder weather.
+Buyer demand is expected to be boosted by first-time home buyer incentives due to be introduced in the immediate future.
+About $55 billion worth of interest-only investor loans, or about 10 per cent of the category's loan book, have been switched to owner-occupiers in response to a sustained campaign by regulators and lenders during the past 12 months, according to the RBA.
+
+Speed and growth limits have been imposed on lenders to reduce interest-only repayments because of regulatory concerns that lower rates were driving up prices and increasing financial distress, according to the RBA.
+But investors continue to dominate the property market, with investor loans rising by 7.4 per cent in the 12 months to the end of June, compared to 6.2 per cent growth in owner-occupiers, the RBA numbers reveal.
+Banking analysts described the message as "mixed" because consumer credit growth exceeded their estimates and business credit was below.
+But strong weekend auction clearance results of more than 70 per cent and record prices for development sites and prestige properties continue to defy regulatory attempts to lower demand for property.
+
+"This is nuts," said Martin North, principal of Digital Finance Analytics, an independent consultancy. "Either the regulators are not serious about slowing household debt growth and recent language is simply lip service, or they are hoping their interventions so far will work through, given time."
+All the major lenders are below the 10 per cent speed limit imposed by the Australian Prudential Regulation Authority, with Macquarie Bank and Bank of Queensland well under the cap. Those over the cap include ME Bank and Bank of Australia.
+Investment interest-only loans are typically about 31 basis points higher than 12 months ago, according to analysis by Canstar, which compares interest rates.
+That more than doubles the average increase for investment principal and interest loans. Owner-occupied principal and interest loans have fallen on average by about seven basis points.
+
+Non-bank lenders, which have been offering much more competitive rates than main street authorised deposit-taking institutions, have posed a $5 billion increase in their loan books to $115 billion.
+The four majors grew their residential property books by about 5.4 per cent during the 12 months to June with Westpac up by 6.5 per cent, NAB 6.2 per cent CBA 6.2 per cent and ANZ 4.4 per cent.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bank of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin North</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB 6.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ 4.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canstar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Flavell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA 6.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mortgage Choice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Finance Analytics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

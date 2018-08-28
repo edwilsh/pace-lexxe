@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443027449751568</docid>
+  <date>07/08/2017</date>
+  <time>05:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/death-toll-at-26-in-vietnam-flash-floods/news-story/a802c853e192b024375951a7ee6567e6</url>
+  <title>Death toll at 26 in Vietnam flash floods</title>
+  <content>
+The death toll after flash floods in northern Vietnam has risen to 26 with 15 others still missing.
+The floods, which started early on Thursday following heavy rain, have claimed lives in the provinces of Son La, Yen Bai, Dien Bien, Cao Bang and Lai Chau, which are among Vietnam's poorest, local authorities say.
+Rain continued to fall in the region bringing total rainfall to 492 millimetres on Monday with many roads, bridges and houses destroyed.
+The initial estimated damage is around $US43 million ($A54 million), authorities added.
+More rain is forecast for the next 24 hours.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cao Bang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vietnam</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Son La</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dien Bien</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lai Chau</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US$43</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

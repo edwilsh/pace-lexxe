@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411764382350401</docid>
+  <date>02/08/2017</date>
+  <time>04:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/how-to-send-web-pages-from-your-phone-to-your-pc/</url>
+  <title>How To Send Web Pages From Your Phone To Your PC</title>
+  <content>
+It isn't hard to go from reading an article on your phone to reading it on your laptop. All you need to do is remember where you found it, right? But searching for something you already have in front of you is redundant, especially since companies such as Google, Microsoft and Apple all have ways to take what's on your phone and bring it to your desktop in an instant. Chances are, with a few settings tweaks, you can enable the feature right now.
+
+Image credit: Microsoft
+
+Microsoft's 'Continue on PC' is Device Agnostic
+
+The company's new "" feature is a site sharing tool for both Android and iOS devices. It exists as an app that lives in your device's "share sheet", the icon that lets you perform actions such as sharing images, sites or messages to social media services or other apps. Hit your share icon, select "Continue on PC", and watch the page you're looking at appear on the corresponding screen.
+
+You can download Continue on PC in the . You'll need to sign in with the same account you use on your PC. You can link your phone to your PC by visiting Settings > Phone. After you link the two devices and install the app, you can choose to continue "now" which opens up your PC browser, or "later" which places the link of your choice in your Windows 10 Action Center, the operating system's notification tray.
+
+If you don't have an offsite cloud storage plan (and you really should), Google's newest update to its cloud storage service Google Drive is ready to fix your gaping data backup hole by letting you pick which folders on your device you'd like to back up to Google Drive instead of forcing you to put the files into a single Google Drive folder. It's called Backup & Sync.
+
+iOS Users Can Use the Built-In Handoff Feature
+
+With iOS you can send whatever site you're looking at on your iOS device to your Mac using Handoff, one of Apple's "" features that syncs compatible apps between Mac and iOS devices. If you're on an iOS device and looking at some webpage or are using a supported app such as Messages, Safari or Bear, you'll see the corresponding icon appear in your dock, letting you leave your phone alone and access it from your Mac. Even when using Safari on my iPhone, Handoff uses whatever default app I designate, making Chrome my go-to browser on the desktop.
+
+You'll have to jump through a few hoops such as turning Bluetooth on and signing in with iCloud to get Handoff working, but once it's up and running you'll be able to see every supported iOS app in your Mac's dock, ready to help you continue doing what you're doing.
+
+You can enable Handoff in your iOS device by going to Settings > General > Handoff. You can do the same on your Mac by opening System Preferences > General, and checking the Allow Handoff option.
+
+Google Chrome Supports Tab Syncing
+
+If you'd rather keep your content's cross-pollination strictly to the web, Google has your back. Signing into Chrome with your Google account  keeping your browser history, extensions and login information accessible in nearly every iteration of Google Chrome (though extensions don't work on Android or iOS devices).
+
+If you're looking at a piece of news or checking the menu of some restaurant on your phone, you can plop down in front of your PC or Mac, open the History tab (with ⌘-Y or CTRL-Y), and see the tabs and history of your other synced devices. You can do the same on mobile devices, which will list your synced devices and the last visited sites so you can resume your browsing.
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>CTRL-Y</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mac</name>
+    <count>6</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>PC</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>8</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS Users Can Use</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Drive</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Google Chrome Supports Tab Syncing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Built-In Handoff Feature</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Send Web Pages From Your Phone To Your PC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Safari</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Y</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iCloud</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Windows 10 Action Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Allow Handoff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluetooth</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>System Preferences</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Device Agnostic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's Chrome</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

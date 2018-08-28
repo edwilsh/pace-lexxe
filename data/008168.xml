@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411798742089152</docid>
+  <date>02/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/motorola-scores-wa-emergency-deal/news-story/7ac03cd4af59854d79d860a32a4dc5b2</url>
+  <title>Motorola scores WA deal</title>
+  <content>
+Motorola Solutions has scored a $7.1 million deal with the Western Australian Department of Fire & Emergency Services (DFES) to deliver a new computer aided dispatch (CAD) system.
+The agreement follows on an $11m investment by Western Australia Police (WAPOL) in 2015 into the same CAD system, paving the way for the two critical state emergency services to work together during events.
+CAD systems have become important information hubs between public safety agencies and the general public and Motorola Solutions ANZ VP Steve Crutchfield said the upgrade will help DFES better deploy its resources in the event of a critical incident.
+"Having precise, resource-based information also means the agency can send the best available resources to deal with any situation, for example, sending in the best-equipped appliance (i.e. fire truck) to respond to contain a hazardous chemical or gas leak," Mr Crutchfield said.
+"The PremierOne platform also represents a launch pad for the agency to increase its mobility by providing fire fighters with information that can be accessed on the move via tablets, smartphones or other devices.
+The CAD deployment also puts DFES in the frame for greater collaboration with WAPOL.
+"There has already been strong collaboration and engagement between Western Australia's fire and police services with the two agencies appointing the same project lead to deliver this technology upgrade," Mr Crutchfield said.
+"That helps to two agencies to form a clear, real time picture of what is happening at any time, so that better decisions can be made to protect community safety."
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PremierOne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Motorola</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Motorola Solutions</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DFES</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Western Australian Department of Fire</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Crutchfield</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Motorola Solutions ANZ VP Steve Crutchfield</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WAPOL</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CAD</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

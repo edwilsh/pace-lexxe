@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404849484877212</docid>
+  <date>01/08/2017</date>
+  <time>01:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/11/14/brisbane-school-rocked-by-sex-abuse-claim</url>
+  <title>Brisbane school rocked by sex abuse claim</title>
+  <content>
+A Catholic girls' school in Brisbane has become the latest institution to be rocked by reports of the historical sexual abuse of one of its students.
+Mt St Michael's College principal Sharon Volp emailed a letter to current and former students on Monday confirming it had received a "formal complaint" about the actions of a former staff member in 1976-78.
+Ms Volp said the matter had been referred to police but urged anyone with similar concerns to come forward and contact the school.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Volp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Catholic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt St Michael's College</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sharon Volp</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

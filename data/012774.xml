@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419546863235620</docid>
+  <date>03/08/2017</date>
+  <time>10:23</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/bmw-profit-rises-on-sales-of-new-5series/news-story/d7a32ba362ac9497a402512484e07391</url>
+  <title>BMW profit rises on sales of new 5-Series</title>
+  <content>
+BMW's net profit rose 14 per cent in the second quarter as earnings were boosted by the new version of the 5-Series sedan, the German luxury car maker says.
+Profit rose to 2.21 billion euros ($A3.3 billion) in the April-June period from 1.95 billion euros a year earlier.
+The profit figure beat analyst expectations for 2.01 billion euros as compiled by financial information provider FactSet.
+Revenues rose 7.4 per cent to 49.2 billion euros.
+Chief executive Harald Krueger said on Thursday that strong earnings would ensure the company could expand its efforts in battery-powered and autonomous cars.
+Krueger said "huge changes lie ahead in the world of mobility and it is vital that our company is in top shape to tackle them".
+Electric cars remain a small part of the market but car makers say they will become increasingly important as battery range improves and governments press for more low-emissions vehicles.
+BMW AG sold 42,600 electric vehicles in the quarter, up 80 per cent.
+The company makes the i3 and i8 battery vehicles and sells hybrid versions of conventional mainstays such as the big 7-Series sedan.
+The company is relying on its core business selling luxury vehicles with petrol and diesel engines to generate the profits that will enable massive investment to meet expected changes in the auto industry.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harald Krueger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BMW AG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FactSet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Krueger</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>April-June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

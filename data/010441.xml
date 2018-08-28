@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416308457838484</docid>
+  <date>02/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/07/44/men-charged-for-central-qld-bomb-hoaxes</url>
+  <title>Men charged for central Qld bomb hoaxes</title>
+  <content>
+Two men have been charged for staging bomb hoaxes on a major shopping centre and a service station in central Queensland.
+Threatening phone calls were made to the staff of KFC at Stockland Rockhampton on June 22, sparking an evacuation of the shopping centre.
+Later that evening a second hoax call was made to a local service station.
+A 24-year old and 22-year-old man will appear in Rockhampton Magistrates Court on Thursday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>KFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockland Rockhampton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

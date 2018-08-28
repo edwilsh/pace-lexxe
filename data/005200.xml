@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405094298017059</docid>
+  <date>01/08/2017</date>
+  <time>02:18</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/anz-says-canadastyle-property-tax-unlikely-to-work-as-well-in-australia-20170731-gxmqcb</url>
+  <title>ANZ says Canada-style property tax unlikely to work as well in Australia</title>
+  <content>
+Taxes on foreign purchases are unlikely to slow Australia's rapid housing price growth as much as in Canada because the restrictions on foreign purchasers are already greater in Australia and the tax imposts are smaller, new ANZ research says.
+Further, any denting of price growth and confidence from foreign purchase restrictions was found to be temporary, economists Daniel Wilson and Daniel Gradwell said, citing the experience of , where the imposition of a 15 per cent surcharge on foreign buyer residential purchases in August last year only dulled the market for four months before prices started rising again.
+"Regulation can certainly have an impact on prices, at least in the first instances," Mr Gradwell told The Australian Financial Review. "But there's still a question mark about the sustainability of those changes."
+Australia's housing market, in which separate figures on Tuesday showed , faces similar challenges to Canada, with growing demand for homes from overseas buyers thought to be one factor pushing prices higher in some premium market segments.
+
+However, there are differences between the two countries that limit any impact of restrictions on Australia's buoyant eastern coast markets even in the short term.
+
+In Canada, foreigners are permitted to buy both new and existing property, which means they play a greater part in the housing market of Canadian cities. In Australia, where foreign, non-resident buyers are already restricted to new property, they account for a smaller share of the market.
+Further, the 15 per cent Non-Resident Speculation Tax levied by authorities in British Columbia and  provinces was greater than the foreign buyer surcharges in New South Wales (where it is 8 per cent), Victoria (7 per cent), and Queensland (3 per cent), so the extra financial disincentive for foreign buyers was less in Australia, the ANZ economists said.
+Canada's experience also showed that, since the imposition of foreign surcharges and of separate rent controls in cities such as Vancouver and Toronto, investors - both foreign and domestic - had started to move to other cities not subject to the same limits. This was in turn distorting smaller property markets with even less ability to cope with an influx of investment, and strengthened the argument for consistent, nationwide policy measures, they said.
+"Australia should avoid such measures and instead aim for a coordinated policy response across all states and territories," they said.
+
+Canada's higher interest rates were also slowing the market, Mr Gradwell said. Even though more Canadians have fixed-rate mortgages with five-year terms in than Australia, where flexible rate-mortgages predominate, the 72-basis-point rise in the Canadian 5-year government bond since June - greater than  - gave a clue about the likely effect of higher borrowing rates on the property market in Australia, he said.
+"It's not just that one-off Bank of Canada increase," Mr Gradwell said. "The way the bond yields have started to tick up as well. It's something we haven't seen in Australia yet."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Toronto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>British Columbia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Non-Resident Speculation Tax</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>11</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Gradwell</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria (7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland (3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Wilson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada-style</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bank of Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Gradwell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Vancouver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

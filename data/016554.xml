@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424941342260529</docid>
+  <date>04/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/share-dispute-linked-to-altair-fund-manager-philip-parker-settled-20170804-gxp8sz</url>
+  <title>Share dispute linked to Altair fund manager Philip Parker settled</title>
+  <content>
+A  linked to the fund manager Philip Parker and Altair Asset Management has been settled out of court.
+Lawyers informed Justice David Hammerschlag in the New South Wales Supreme Court on Friday that the parties had come to an agreement during mediation, and a hearing set down for September 25 was vacated.
+Mr Parker, who was the chairman and chief investment officer of Altair, was  and FM Parker Pty Ltd.
+The action and its numerous cross-claims were set off when Mrs Parker filed suit against Attis Capital, its director David Reynolds, and Altair Assets and Pepsec (an entity linked to Mr Parker and Altair).
+
+"We think that there is too much risk in this market at the moment, we think it's crazy," Mr Parker said at the time explaining the reasoning behind his decision .
+The fund manager subsequently stated that his decision to  was entirely predicated on his view of the market, and denied that it was in any way tied to the court action.
+Comment was sought from legal representatives of Mr Reynolds, Mrs Parker and Mr Parker on Friday.
+According to documents filed in the course of proceedings, the dispute centred on a loan obtained by Pepsec from Attis Capital. That loan was obtained using Mrs Parker's multimillion-dollar share portfolio as collateral, and which was subsequently sold. Mrs Parker argued that she never approved the transfer or the sale of her shares. The defendants including Mr Parker denied any wrongdoing.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mrs Parker</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Attis Capital</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Altair Assets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FM Parker Pty Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Parker</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Justice David Hammerschlag</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Reynolds</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales Supreme Court</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Pepsec</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altair Asset Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Reynolds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Parker</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

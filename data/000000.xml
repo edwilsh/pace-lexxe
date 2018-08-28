@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397578105122424</docid>
+  <date>30/07/2017</date>
+  <time>21:08</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/technology/innovation/carbon-emissions-artificial-intelligence-used-to-fight-deforestation-in-congo-20170730-gxlslh.html</url>
+  <title>Carbon emissions: Artificial intelligence used to fight deforestation in Congo</title>
+  <content>
+A new technique using artificial intelligence to predict where deforestation is most likely to occur could help the Democratic Republic of Congo (DRC) preserve its shrinking rainforest and cut carbon emissions, researchers have said.
+Congo's rainforest, the world's second-largest after the Amazon, is under pressure from farms, mines, logging and infrastructure development, scientists say.Photo: Theresa Ambrose
+Protecting forests is widely seen as one of the cheapest and most effective ways to reduce the emissions driving global warming. The DRC jungle is also home to threatened species such as gorillas.
+But conservation efforts in DRC have suffered from a lack of precise data on which areas of the country's vast territory are most at risk of losing their pristine vegetation, said Thomas Maschler, a researcher at the World Resources Institute (WRI).
+"We don't have fine-grain information on what is actually happening on the ground," he told the Thomson Reuters Foundation.
+To address the problem Maschler and other scientists at the Washington-based WRI used a computer algorithm based on machine learning, a type of artificial intelligence.
+
+The computer was fed inputs, including satellite-derived data, detailing how the landscape in a number of regions, accounting for almost a fifth of the country, had changed between 2000 and 2014.
+The program was asked to use the information to analyse links between deforestation and the factors driving it, such as proximity to roads or settlements, and to produce a detailed map forecasting future losses.
+
+You will now receive updates from
+
+Technology Newsletter
+
+Technology Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+Overall the application predicted that woods covering an area roughly the size of Luxembourg would be cut down by 2025 - releasing 205 million metric tons of carbon dioxide into the atmosphere.
+The study improved on earlier predictions that could only forecast average deforestation levels in DRC over large swathes of land, said Maschler.
+"Now, we can say: 'actually the corridor along the road between these two villages is at risk'," Maschler said by phone late on Thursday.
+The analysis will allow conservation groups to better decide where to focus their efforts and help the government shape its land use and climate change policy, said scientist Elizabeth Goldman who co-authored the research.
+The DRC has pledged to restore 3 million hectares of forest to reduce carbon emissions under the 2015 Paris Agreement, she said.
+But Goldman said the benefits of doing that would be outweighed by more than six times by simply cutting predicted forest losses by 10 per cent.
+Thomson Reuters Foundation
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>World Resources Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maschler</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Goldman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WRI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Congo</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters Foundation</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris Agreement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Luxembourg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democratic Republic of Congo</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington-based WRI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Theresa Ambrose</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Goldman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DRC</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Maschler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416866803597226</docid>
+  <date>02/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/adani-railway-should-be-aus-built-hanson/news-story/68536dd456e9d5f09779dded2e00e9fa</url>
+  <title>Adani railway should be Aus built: Hanson</title>
+  <content>
+Pauline Hanson wants a railway between Adani's mega-coal mine and the Queensland coast to be built and owned by the state or federal government.
+The One Nation leader told ABC Radio on Thursday the infrastructure could generate $1 billion a year in revenue, so it shouldn't be given to "foreign investors to own and control".
+She also claimed she had been informed the Indian company planned to sell a minority stake in the controversial Galilee Basin project in the next "couple of years".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Galilee Basin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adani</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>One Nation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pauline Hanson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hansons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

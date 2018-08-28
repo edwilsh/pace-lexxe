@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442516348636441</docid>
+  <date>07/08/2017</date>
+  <time>03:31</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/07/council-has-hours-act-cbd-tent-city</url>
+  <title>Council has hours to act on CBD tent city</title>
+  <content>
+Gladys Berejiklian says the NSW government will dismantle a homeless settlement in Sydney's city centre if council doesn't "do the right thing" on Monday.
+
+1 HOUR AGO 
+
+The NSW government will intervene to dismantle a homeless settlement in Sydney's CBD if council doesn't decide to act at an upcoming meeting, Gladys Berejiklian says.
+
+The premier on Monday said the City of Sydney council needed to "do the right thing" and use its powers to remove the camp.
+
+"They've got a meeting tonight, if they don't act and use their existing powers we're going to have to - but I want to stress, they're powers that are very, very rarely used by the state government," Ms Berejiklian told reporters in western Sydney.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Berejiklian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>City of Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gladys Berejiklian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney CBD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

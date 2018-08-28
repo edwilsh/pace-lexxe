@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398445688527280</docid>
+  <date>31/07/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/accc-in-sa-to-investigate-power-prices/news-story/84e59fc070aa07873012985a5791193d</url>
+  <title>ACCC in SA to investigate power prices</title>
+  <content>
+Australia's competition watchdog is holding a public forum in Adelaide to look into what's behind the state's soaring electricity bills.
+The Australian Competition and Consumer Commission meeting on Monday is part of a national roadshow giving customers a chance to raise their concerns about a lack of competition and pricing issues in the energy sector.
+"A key focus for the ACCC is to determine the main drivers of retail electricity price increases over time and what can be done about these," ACCC chairman Rod Sims said at the inquiry's launch in May.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACCC</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Competition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rod Sims</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Consumer Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

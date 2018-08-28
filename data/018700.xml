@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433015880885919</docid>
+  <date>05/08/2017</date>
+  <time>14:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/russias-ex-ambassador-to-us-rejects-accusations-of-meddling/8778226</url>
+  <title>Accusations of Russian links to Trump campaign 'shameful', says ex-ambassador to US</title>
+  <content>
+The former Russian ambassador to the United States has strongly denied accusations of meddling in the US presidential election.
+Sergei Kislyak, who has just returned from Washington, said on state television he was merely doing his job as a diplomat when he met with members of President Donald Trump's team.
+He said he also had met with representatives of Hillary Clinton's campaign, but did not give any names.
+Mr Kislyak described the US accusations against him as absurd and "shameful" for the US, adding that the official acknowledgement that his phone conversations were bugged was "unhealthy".
+"Any diplomat, Russian or not, works to better understand the policy of a country he's posted to, figure out what the new administration's course is and understand where cooperation is possible," Mr Kislyak said.
+Mr Kislyak's contacts with members of Mr Trump's team have been part of congressional and FBI investigations into possible collusion between the Trump campaign and Russia. Moscow has denied any interference in the US election.
+Asked about his contacts with Michael Flynn, who served briefly as Mr Trump's national security adviser before being fired in February, Mr Kislyak said that they did not discuss any secrets.
+"We talked about very basic things," he said.
+"There are a few subjects important for Russia-US cooperation, primarily terrorism, and it was one of the subjects we talked about. Our conversations were legitimate, calm and absolutely transparent."
+Mr  about whether he and the ambassador had discussed Washington's sanctions against Russia in a phone call.
+Mr Kislyak insisted that they had not talked about sanctions, adding that he had specific orders from Moscow not to chat the restrictive measures.
+"I had instructions not to discuss sanctions," he said.
+"We haven't been involved in any discussions or bargaining over sanctions, because we believe that they have been introduced unlawfully."
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Sergei Kislyak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Michael Flynn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kislyak</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russia-US</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

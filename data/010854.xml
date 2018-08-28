@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416914048238650</docid>
+  <date>03/08/2017</date>
+  <time>00:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/driver-dead-after-wa-highway-crash-near-leeman-north-of-perth/news-story/0eac4c81c0c925c4da3e1f8359a7618c</url>
+  <title>Driver dead after WA highway crash</title>
+  <content>
+A MOTORIST has been killed in a collision between two cars, possibly while attempting to make a u-turn, on a highway near Leeman, north of Perth.
+The fatal crash occurred between a Holden Commodore and a Ford Territory on Indian Ocean Drive, about 10km north of Leeman, at about 1.25pm on Wednesday.
+Both vehicles were travelling north when the collision occurred. Police believe the driver of the Commodore had been attempting a u-turn.
+The driver of Commodore, a 49-year-old man from Innaloo, died from his injuries.
+The driver and passenger in the Territory did not receive any serious injuries.
+Anyone with information should call Crime Stoppers on 1800 333 000 or report online to
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Leeman</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commodore</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ford Territory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indian Ocean Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden Commodore</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Innaloo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

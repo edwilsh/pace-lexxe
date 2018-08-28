@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420521820833372</docid>
+  <date>03/08/2017</date>
+  <time>14:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/townsville-traffic-woman-critical-after-one-of-two-pedestrian-accidents/news-story/b9a8812461769669d5242c0a1346a84a</url>
+  <title>Woman critical after pedestrian incidents</title>
+  <content>
+TWO female pedestrians have been hit by vehicles in separate incidents in Townsville, leaving one in a critical condition.
+A 34-year-old was walking inbound along Bayswater Rd, Mount Louisa, about 7 o'clock last night with a male friend when she was hit by a four-wheel-drive approaching a roundabout.
+The woman was taken to Townsville Hospital with critical injuries. Her friend was uninjured.
+The Forensic Crash Unit was investigating.
+And a girl, believed to be 13, was transported to Townsville Hospital with minor injuries after she was hit by a car outside the Stockland shopping centre at Aitkenvale about 9pm.
+A Queensland Ambulance spokeswoman said the patient was up and walking but was taken to hospital as a precaution.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Forensic Crash Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Townsville Hospital</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Aitkenvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bayswater Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Louisa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockland</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440884261043097</docid>
+  <date>06/08/2017</date>
+  <time>21:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2016/01/you-need-a-budgets-new-web-app-runs-in-any-browser-switches-to-a-subscription-pricing-model/</url>
+  <title>You Need A Budget's New Web App Runs In Any Browser, Switches To A Subscription Pricing Model</title>
+  <content>
+You Need a Budget has long been one of the most popular personal finance tools around, and now it's launching a new web app that comes with a new pricing model.
+
+The new version of You Need a Budget is a web app, meaning that it will run in any browser without needing to install additional software. It also means a new subscription model for pricing: $US5/month or $US50/year. As far as features are concerned, there's a ton of differences, including . The web app format also means syncing is taken away from Dropbox and works directly with YNAB's servers. There's so many changes in how it works that  and is giving away a  while also offering up  (or just ). In short, it's an entirely different approach for YNAB, but thankfully the company's doing everything they can to ease the transition for users.
+
+If you're not a fan of the web app format,  will see support through the end of this year, and a desktop version of the new You Need a Budget is supposedly in the works.
+
+[YNAB]
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dropbox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subscription Pricing Model</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Need A Budget's New Web App Runs In Any Browser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YNAB</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

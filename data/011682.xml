@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418030739752387</docid>
+  <date>03/08/2017</date>
+  <time>04:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/brand/chanticleer/amazons-australian-plans-kick-into-top-gear-but-the-impacts-overcooked-20170803-gxocxx</url>
+  <title>Don't believe the hype as Amazon hits Australia</title>
+  <content>
+Amazon's much-hyped Australian debut has just kicked into top gear. There has been so much secrecy around online giant's plans to disrupt the nation's $300 million retail industry that the market has been seizing on any snippet of news about its intentions.
+There is now no doubt Amazon has big plans for Australia although the impact it is having on the share prices of existing retailers has been over-egged.
+Amazon is still not saying when it expects to launch in Australia, but it has announced the man who will be in charge of its local operations. Amazon has chosen an insider for the job, which was once tipped as a possible opening for Australia Post's Ahmed Fahour.
+Amazon has already launched a massive recruitment drive in Melbourne and Sydney. There is talk of recruiting as many as 500 sales staff and buyers for Amazon's new Park street headquarters in Sydney, which one insider says is surprisingly drab given Amazon's status as a fast-growing disruptor.
+
+Amazon has also announced it will create "hundreds of new jobs" opening its first Australian fulfilment centre in Melbourne. It is now recruiting for roles such as operations managers, pickers, packers, systems technicians and HR specialists. The planned 24,000 square metre fulfilment centre has already been announced.
+
+Analysts expect Amazon to launch in Australia next year, although this could still happen before Christmas.
+Amazon is also believed to be in talks with logistics companies as it seeks to establish its own distribution infrastructure.
+There is no doubt Amazon will have a huge impact on the Australian industry as it has in other countries, but the short-term negatives have been over-inflated, partly because of the hype surrounding its arrival. UBS says Amazon will take 2 per cent of retail sales within give years of entering Australia, growing revenues from $400 million to $3.5 billion by 2023.
+Long-terrm, Amazon will change Australians' expectations around shopping which will force existing bricks and mortar retailers to up their game if they want to keep up.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>14</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Australia Post's Ahmed Fahour</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christmas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

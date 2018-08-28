@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416175313849742</docid>
+  <date>02/08/2017</date>
+  <time>21:18</time>
+  <isTopNews>true</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/victoria/random-thornbury-attack-man-punches-woman-in-side-of-head-flees-20170802-gxo72w.html</url>
+  <title>Mumbling man punches woman in side of head, flees</title>
+  <content>
+Photo: Victoria Police
+A mumbling man punched a woman in the side of the head in an unprovoked attack in Thornbury.
+The woman, 29, was strolling down Mansfield Street about 10.15pm on July 25 when a man approached her from behind.
+She screamed, and the man punched her in the side of the head before running off toward Dundas Street.
+The woman later told police her attacker was about 183 centimetres tall, with dark skin and closely cropped hair. He was mumbling and slurring in a foreign language.
+With the victim's help police have put together a composite image of the man. Anyone with information is asked to call Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Thornbury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dundas Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mansfield Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

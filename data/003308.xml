@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403981901468696</docid>
+  <date>31/07/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/energy/us-oil-rallies-above-us50-a-barrel-seen-encouraging-more-shale-drilling-20170731-gxmo19.html</url>
+  <title>US oil rallies above $US50 a barrel, seen encouraging more shale drilling</title>
+  <content>
+Oil prices rose to two-month highs, ending the strongest month of the year for crude futures, boosted in part by expectations of US sanctions against Venezuela's oil sector and as supply concerns have waned in recent weeks.
+During the trading day, chatter centred around potential US Treasury sanctions targeting the country's oil sector in response to Venezuela's Sunday election which Washington denounced as a "sham".Photo: Bloomberg
+That helped boost prices prior to settlement due to concern about possible limits on oil imports from Venezuela or exports of US fuel to that country. After the close, however, the US Treasury Department announced sanctions limited only to Venezuelan President Nicolas Maduro.
+"As far as the oil market is concerned that's a non-event," said James Williams, president of energy consultant WTRG Economics in London, Arkansas. "It's just eye candy as far as I can see."
+Benchmark Brent crude rose 0.3 per cent to settle at $US52.65. Brent earlier hit $US52.92 a barrel, its highest since May 25. US light crude oil rose nearly 1 per cent to settle $US50.17 a barrel.
+Some OPEC and non-OPEC members will meet on August 7-8 in Abu Dhabi to assess how the group can increase compliance with production cuts that began on January 1.
+
+A Reuters survey overnight indicated output from OPEC members rose, with June production revised up by 200,000 bpd.
+In Europe, a production outage at Royal Dutch Shell Plc's 404,000 barrel-per-day Pernis refinery in the Netherlands following a fire sent benchmark European diesel margins to their highest since November 2015 at $US14.60 a barrel.
+The Brent front-month spread
+
+The strength in Brent prices pushed WTI-Brent spread
+
+US crude inventories have fallen by 10 per cent from their March peaks to 483.4 million barrels.
+
+Drilling for new US production is slowing, with just 10 rigs added in July, the fewest since May 2016.
+However, US shale production is not rolling over, said Rob Haworth, senior investment strategist at US Bank Wealth Management, who said producers may ramp up production now that oil has rallied.
+"I think this rally may be somewhat limited," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rob Haworth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US52.92</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.65</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Treasury Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50.17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pernis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WTI-Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Bank Wealth Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Treasuries</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>WTRG Economics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arkansas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan President Nicolas Maduro</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Royal Dutch Shell Plc's 404,000</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US14.60</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Williams</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Abu Dhabi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>May 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>OPEC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

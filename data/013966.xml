@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422450261188493</docid>
+  <date>03/08/2017</date>
+  <time>21:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4832613/police-officer-hit-by-car-prior-to-mayfield-arrest/?cs=305</url>
+  <title>Police officer hit by car prior to Mayfield arrest</title>
+  <content>
+A man has been arrested and charged after a police pursuit which started in Port Stephens on Thursday.
+About 9.15am  police attempted to stop a Holden sedan in Medowie.
+As police exited their car, one officer was struck by the Holden sedan and suffered minor injuries. The officer attempted to detain the driver but was unsuccessful. 
+A police pursuit was initiated but had to be terminated a short time later in nearby Williamtown.
+Police again caught up with Holden in Mayfield, where the car had come to a stop due to mechanical issues. The driver fled the scene, while two passengers, a 17-year-old boy and 20-year-old woman, were arrested.
+A man, believed to be the driver of the Holden, then entered the cab of a nearby truck and assaulted the driver. Local police assisted by the Police Dog Unit pulled the man from the vehicle and placed him under arrest.
+Industrial Drive, Mayfield, was closed for about 15 minutes during the police operation.
+All three arrested people were taken to Waratah Police Station. The woman and 17-year-old boy were released without charge.
+The 19-year-old man was taken to the Mater Hospital for treatment to minor injuries before returning to the police station.
+He was charged with 18 offences surrounding the pursuits and resisting arrest. He has also been charged with eight outstanding warrants.
+He has been refused bail and is due to appear before Newcastle Local Court on Friday.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mater Hospital</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medowie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Police Dog Unit</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Waratah Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Williamtown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayfield</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Stephens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

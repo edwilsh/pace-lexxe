@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432242786764804</docid>
+  <date>05/08/2017</date>
+  <time>11:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/21/30/damaging-winds-for-parts-of-sa</url>
+  <title>Damaging winds for parts of SA</title>
+  <content>
+Residents in Port Pirie, north of Adelaide, have been advised to stay indoors and away from windows with wild storms thrashing the area.
+The SES advised people on Saturday evening they were in danger from flying debris, falling trees and downed powerlines.
+There was also a travel warning in place and an advisory to stay off roads unless absolutely necessary.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Pirie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

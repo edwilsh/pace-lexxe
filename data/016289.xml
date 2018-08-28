@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425503982986489</docid>
+  <date>04/08/2017</date>
+  <time>09:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/what-is-kronos-marcus-hutchins-malwaretech-arrested-banking-trojan-2017-8</url>
+  <title>The 'hero' hacker who stopped WannaCry was accused of creating the 'Kronos' malware  --  here's what it is</title>
+  <content>
+The security community was shocked on Thursday when .
+
+Hutchins - better known as MalwareTech online - has been accused of being behind another piece of nasty malware: Kronos.
+
+In May this year, WannaCry spread around the world, crippling hospitals and seriously disrupting businesses. It infected organisations in 150 countries, encrypting data and demanding a bitcoin bounty to unlock it, and was only stopped when Hutchins inadvertently triggered a "kill switch" while investigating it.
+
+WannaCry had a massive effect on Britain's NHS (National Health Service), and as such the researcher attracted significant media attention and praise for his actions. He was even offered a $US10,000 (£7,600) reward, .
+
+As such, his indictment in America, after attending the hacker conference Defcon, has been met with shock and confusion. So what is Kronos? The indictment defines it like so:
+
+"Kronos" was the name given to a particular type of malware that recorded and exfiltrated user credentials and personally identifying information from protected computers." Kronos malware was commonly referred to as a "banking Trojan."
+
+In other words: It's malicious software that can steal victims' banking details, which can then be used to break into their accounts and commit fraud.
+
+add extra forms to the banking webpages on infected users' computers - prompting them to enter further personal info like PIN codes.
+
+The indictment alleges that Hutchins created the malware, after which it was advertised for sale online in 2014. There is an unnamed co-defendant in the case, who is accused of advertising Kronos online (including on the now-shuttered dark web marketplace AlphaBay) and selling it.
+
+Kronos was advertised for sale for $US3,000 (£2,282), the indictment says,  (£5,324) - far more than most other similar malware. The researchers wrote:
+
+"The business side of this offer is interesting as well. Most malware today is sold in the low hundreds of dollars, sometimes even offered for free due to several malware source code leaks. Comparatively, the Kronos malware carries a hefty cost of $US7,000. This price, however, is not the first time a new malware seller has demanded a premium. Approximately four years ago, Carberp was released and priced at $US10,000 (and $US15,000 for the addition of the VNC module, which is almost a standard capability of today's financial malware). The Kronos seller also offers a one-week testing server for $US1,000, during which time a potential client will have access to the malware's control panel and all the bot's capabilities."
+
+Here's a translation of the original advertisement for Kronos,
+
+:
+
+I present you a new banking Trojan
+Compatible with 64 and 32bit rootkit Trojan is equipped with the tools to give you successful banking actions.Formgrabber: Works on Chrome, IE, FF in latest versions. Works on the majority of older versions as well. Steals logs from each website Webinjects: Works on latest Chrome, IE, FF, latest and majority of older versions. Injections are in Zeus config format, so it's easy to transfer the config from one another.32 and 64bit Ring3 rootkit: The Trojan also has a ring 3 rootkit that defends it from other Trojans.
+Proactive Bypass: The Trojan uses an undetected injection method to work in a secure process and bypass proactive anti-virus protections. Encrypted Communication: Connection between bot and panel is encrypted to protect against sniffers. Usermode Sandbox and rootkit bypass: The Trojan is able to bypass any hook in usermode functions which bypasses rootkits or sandboxes which use these hooks.
+1000$ a week of testing. The server will be hosted only for you. You need just a domain or a payment including the domain fee. You'll have full access to the C&C, without any limits or restrictions during test mode.7000$ Lifetime product licence, free updates and bug removals. New modules will not be free , and you will need to pay additionally. We accept Perfect Money, Bitcoin, WMZ, BTC-E.comCurrently the Trojan is written in its fullest. Next week we will have tests and bug fixing, then release. Pre-ordering the Trojan will give you a discount.
+
+Here's the full indictment:
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>FF</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IE</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Webinjects</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trojans</name>
+    <count>9</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Zeus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$7,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Health Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pre-ordering</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Ring3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WMZ</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MalwareTech</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>10</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>VNC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carberp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10,000 (£7,600</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Formgrabber</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Usermode Sandbox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3,000 (£2,282</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perfect Money</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Britain's NHS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$15,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$10,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBay</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>BTC-E.comCurrently</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

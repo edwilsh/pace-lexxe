@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407117227647580</docid>
+  <date>01/08/2017</date>
+  <time>10:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/rspca-removes-21-cats-from-vic-house/news-story/a0f710641150057c23254c6a5d0bbcc5</url>
+  <title>RSPCA removes 21 cats from Vic house</title>
+  <content>
+RSPCA inspectors have seized 21 cats from a house in Victoria that were at immediate risk.
+Inspectors obtained a court order to remove the cats from the Murrindindi property on Tuesday following an earlier inspection.
+"We concluded that the living conditions were detrimental to the cats' welfare which was seriously compromised," inspector Guy Gorman said in statement.
+The cats were taken to an RSPCA facility where they are being treated for cat flu and fleas.
+The RSPCA declined to comment further as the investigation is ongoing.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Guy Gorman</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murrindindi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSPCA</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

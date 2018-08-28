@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397925997477544</docid>
+  <date>30/07/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/08/25/vic-church-leaders-oppose-dying-laws</url>
+  <title>Vic church leaders oppose dying laws</title>
+  <content>
+Some of Victoria's most high profile church leaders have signed a joint letter opposing the state's plans to introduce assisted dying legislation.
+Catholic Archbishop Denis Hart and Anglican Archbishop Philip Freier are among a group of Victorian religious leaders who signed a joint letter published on Monday, rejecting the push for assisted dying legislation.
+A cross-party committee of MPs recommended Victoria come up with a bill to legalise assisted dying, and the government plans to introduce it for debate before the end of the year.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MPs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Anglican Archbishop Philip Freier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Catholic Archbishop Denis Hart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

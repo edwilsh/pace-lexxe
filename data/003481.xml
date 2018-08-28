@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404368448532144</docid>
+  <date>31/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets-live/markets-live-aussie-jumps-as-rba-meets-20170731-gxmpcx.html</url>
+  <title>Markets Live: Aussie jumps as RBA meets</title>
+  <content>
+The Dow Jones hit a record high on Wall Street overnight, helped by Boeing, while selling in Facebook, Alphabet and other technology companies kept the S&P 500 flat and pulled the Nasdaq lower.
+
+The S&P 500 information technology dipped 0.5 per cent, with Facebook falling 1.8 per cent and Alphabet , Google's parent company, down 1.4 per cent.
+
+"The bull market is sort of broadening out and people are taking a few profits off the table on some these stocks that have done exceedingly well," said Randy Frederick, vice president of trading and derivatives for Charles Schwab in Austin, Texas.
+
+Boeing rose 1 per cent and hit a record high of $US243.60 after JPMorgan raised its price target on the world's biggest plane maker to $US280. The stock was the largest contributor to the Dow's gains.
+
+Apple, which is expected to report quarterly results after market close on Tuesday, dipped 0.6 per cent.
+
+Investors have been counting on earnings to support high valuations for equities.
+
+S&P 500 earnings are expected on average to have grown 10.8 per cent in the second quarter, according to Thomson Reuters I/B/E/S.
+
+"We're probably seeing peak earnings," said Ed Keon, portfolio manager at QMA, a multi-asset manager in Newark, New Jersey. "I think we'll be a little slower in the second half."
+
+The Dow Jones added 0.3 per cent while the S&P 500 slipped 0.1 per cent. The Nasdaq Composite dropped 0.4 per cent.
+
+The National Association of Realtors said its Pending Home Sales Index, based on contracts signed last month, jumped 1.5 per cent to a reading of 110.2.
+
+Snap fell 2.5 per cent as some investors were allowed for the first time to sell shares following the Snapchat owner's March initial public offer.
+
+Discovery Communications dropped 8.8 per cent after it said it would buy Scripps Networks Interactive for $11.9 billion.
+Good morning and welcome to the Markets Live blog for Tuesday.
+
+Your editors today are Jens Meyer and Patrick Commins.
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Charles Schwab</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ed Keon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US243.60</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pending Home Sales Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scripps Networks Interactive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QMA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Commins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Association of Realtors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Randy Frederick</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Snapchat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US280</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

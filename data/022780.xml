@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442589363081268</docid>
+  <date>07/08/2017</date>
+  <time>03:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/13/43/woman-told-to-take-pill-by-rapist-court</url>
+  <title>Woman told to take pill by rapist: court</title>
+  <content>
+A drunk and stoned young Brisbane woman allegedly raped by a friend during a night out was told to take the morning-after pill by her attacker, a court has heard.
+Two men are on trial at the Brisbane District Court accused of the April 2015 attack, with Abdulahi Omar Mohammed charged with sexual assault and Ibrahim Sulejmanovic charged with her rape.
+"Hi ya, I think we both got a little bit out of control last night ... also since we were both highly intoxicated I think it's best for you to take the morning-after pill, just to be safe," the alleged rapist texted the woman the next morning, crown prosecutor Jennifer O'Brien said as she opened her case on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane District Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abdulahi Omar Mohammed</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Jennifer O'Brien</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ibrahim Sulejmanovic</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

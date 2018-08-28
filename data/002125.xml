@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400163675469452</docid>
+  <date>31/07/2017</date>
+  <time>07:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-07-31/former-pngdf-commander-slams-lack-of-discipline-in/8760918</url>
+  <title>Former PNGDF Commander slams lack of discipline in Army and Police</title>
+  <content>
+A former Papua New Guinea Defence Force Commander says the Police Commissioner and current PNGDF Commander have failed to impose proper discipline on the people under their command.
+General Jerry Singirok, who is standing for the Pangu Party in Madang where vote counting is still underway, says police and soldiers have been involved in moonlighting as security for political candidates and parties.
+He says members of the disciplined forces have been involved in serious incidents during the campaign and the subsequent vote counting, including an attempt to kidnap at least one newly-elected MP.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MP</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Madang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Jerry Singirok</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea Defence Force Commander</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pangu Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Police Commissioner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNGDF Commander</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427715891186641</docid>
+  <date>04/08/2017</date>
+  <time>18:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/harvard-admits-majority-nonwhite-class-first-time-2017-8</url>
+  <title>Harvard admitted a majority nonwhite class for the first time in history</title>
+  <content>
+For the first time in its nearly 400-year history, Harvard has admitted a majority nonwhite class,
+
+Official figures released by the college show that the entering class of 2021 is:
+
+• 22.2% Asian American
+• 14.6% African American
+• 11.6% Hispanic or Latino
+• 2.5% Native American or Pacific Islander
+
+Of the entering freshman class, 50.8% are from minority groups, an increase from the 47.3% figure last year, The Globe reported.
+
+The news comes just as the Department of Justice indicated it planned to  related to its admissions process.
+
+called Students for Fair Admissions  in 2015, alleging that the college and other Ivy League institutions use racial quotas to admit students to the detriment of more qualified Asian-American applicants. The group includes a coalition of more than 60 Asian-American groups.
+
+NOW WATCH: Ideas videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Asian-American</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Latino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Islander</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hispanics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fair Admissions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Native American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>African-American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Globe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvard</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ivy League</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

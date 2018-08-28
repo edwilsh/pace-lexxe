@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440721052284224</docid>
+  <date>06/08/2017</date>
+  <time>20:33</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/technology/innovation/uq-researchers-lead-project-that-could-make-almost-anything-recyclable-20170728-gxkvvw.html</url>
+  <title>UQ researchers lead project that could make almost anything recyclable</title>
+  <content>
+Scientists have created a computer simulation to help scientists modify a bacteria that could lead to almost anything being recyclable.
+Researchers at the University of Queensland's Australian Institute for Bio-engineering and Nanotechnology worked in partnership with US company LanzaTech to develop a computer model that will help scientists streamline the fermentation of carbon emissions.Photo: Dr Esteban Marcellin
+The project was designed to build upon the natural qualities of the Clostridium autoethanogenum bacteria, which transforms emissions such as carbon monoxide and carbon dioxide into ethanol in a process called syngas fermentation.
+The bacteria, originally discovered in rabbit droppings, belonged to one of the oldest living microorganism families on the planet.
+AIBN researcher Dr Esteban Marcellin was excited over its possible uses.
+"The beauty of it is you can gasify pretty much anything," he said.
+
+​"You could in theory convert municipal solid waste or any waste stream into chemicals.
+"That means once you finish eating something you put it in the rubbish bin and instead of going into landfill it could go into a gasifier and then on to the fermenter."
+
+You will now receive updates from
+
+Technology Newsletter
+
+Technology Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+LanzaTech has so far used the bacteria in a process that involved placing fermentors on the end of steel-mill smokestacks to capture their carbon emissions and transform it into biofuel.
+By simulating the cellular metabolism of any bacteria-gene pairing, the computer model allows scientists to create bacteria that more efficiently captures carbon emissions and select pairings that allow the emissions to be transformed into other products.
+"Instead of modifying the bacteria to see if adding new genes is going to work, we can do it inside the computer," Dr Marcellin said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>UQ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Esteban Marcellin</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bio-engineering</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Marcellin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clostridium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AIBN</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LanzaTech</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

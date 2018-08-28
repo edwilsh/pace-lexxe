@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441992362619696</docid>
+  <date>07/08/2017</date>
+  <time>01:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/entertainment/2017/08/07/11/04/former-top-gear-tv-personality-jeremy-clarkson-hospitalised-in-spain</url>
+  <title>Former Top Gear host Jeremy Clarkson hospitalized in Spain</title>
+  <content>
+Television personality Jeremy Clarkson has been hospitalised with pneumonia while holidaying in Mallorca.
+The Grand Tour motoring show said Clarkson was hospitalised Friday while on a break in Spain. Clarkson posted an image on social media Saturday showing his arm with a hospital identity badge.
+The 57-year-old quipped: "not the sort of bangles I usually choose on holiday".
+Clarkson had been on vacation with his family after shooting the Amazon Prime show with co-hosts Richard Hammond and James May.
+The trio are the former hosts of the BBC program Top Gear. They signed with Amazon for The Grand Tour, after Clarkson was fired for punching a producer in a dustup while filming.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James May</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeremy Clarkson</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Clarkson</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Spain</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mallorca</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grand Tour</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Top Gear</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Hammond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Prime</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

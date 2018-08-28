@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422630649818779</docid>
+  <date>03/08/2017</date>
+  <time>22:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/world/fire-breaks-out-on-the-outside-of-the-famous-tsukiji-fish-market-in-japan/news-story/2beee04ca5382482ba65c2e08e3c5c71</url>
+  <title>Huge fire at world famous fish market</title>
+  <content>
+A FIRE broke out in four buildings at the world's largest and most famous fish market in Japan, which attracts thousands of tourists daily.
+Store owners and tourists were forced to evacuate at the Tsukiji fish market as the incident continues.
+Firefighters battled the blaze as helicopters hovered overhead.
+The Tokyo Fire Department reported that the building was burning at "Tsukiji fish market" in Tokyo from 3pm Thursday local time, NHK reports.
+According to the Tokyo Fire Department and other media outlets, the fire started in a three-storey building.
+A total of 43 fire engines were deployed to extinguish the fire, NHK said. "I could tell immediately that it's a fire," said Kiyoshi Kimura, the head of the Sushizanmai restaurant chain, who was at his office in the area when the fire broke out.
+"So I called managers and had everyone evacuated from our restaurants," Kimura told AFP.
+But local reports say three buildings then caught fire after the main blaze broke out, making it a total of four fires in the outer market area, covering up to 200sqm, Channel NewsAsia reports.
+Locals told of how they could smell smoke and ash 3.5km away near the famous Tokyo Tower.
+No reports of injuries or fatalities have emerged yet as plumes of smoke emerged from the area.
+Pictures from the scene have emerged on social media as Tokyo's police and fire department investigate the cause of the fire.
+The 80-year-old Tsukiji fish market is known worldwide for its new year tuna auctions, and is one of Japan's biggest tourist attractions.
+More than 1,600 tonnes of seafood worth about $1.6bn yen go through the market every day.
+The fish market - the largest in the world - is also moving from its current location to the site of a former gas plant.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NHK</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tsukiji</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Tower</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sushizanmai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Channel NewsAsia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Fire Department</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kiyoshi Kimura</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kimura</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

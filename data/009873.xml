@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414676370234376</docid>
+  <date>02/08/2017</date>
+  <time>15:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/donald-trump-approves-russian-sanctions-over-meddling-in-the-2016-election-that-he-won/news-story/a5405412bce3ce0a6bb25727903f9223</url>
+  <title>Trump signs 'flawed' Russian sanctions</title>
+  <content>
+WHITE House officials say US President Donald Trump has signed a bill to impose new sanctions on Russia.
+Two White House officials said that the president signed the bill on Wednesday morning Washington DC time.
+The package of stiff financial sanctions against Russia passed Congress with overwhelming support.
+It was in response to information that Russia meddled in the US elections, however it has denied doing so.
+Moscow responded to the sanctions by ordering a reduction in the number of US diplomats in Russia.
+The officials spoke on the condition of anonymity because they were not authorised to speak publicly before an official statement.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Washington DC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>1.8</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441262218169770</docid>
+  <date>06/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/seriously-injured-man-missing-after-railway-estate-disturbance/news-story/9acbeeac1bd445eaa6370119081f5c5d</url>
+  <title>'Seriously injured' man missing</title>
+  <content>
+POLICE are appealing for help to find a man who they believe was seriously injured during a disturbance in Railway Estate on Sunday night.
+About 10.30pm police were called to a Second Street apartment following reports of a disturbance at the address.
+One man left the address prior to police arrival and officers believe the man may be seriously injured and in need of medical assistance.
+Anyone who may know of the injured man's whereabouts is urged to call police or QAS.
+Three men are currently assisting with inquiries.
+Investigations are continuing.
+Anyone with information can contact Crime Stoppers on 1800 333 000 or if it's an emergency, dial 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Railway Estate</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>QAS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Second Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

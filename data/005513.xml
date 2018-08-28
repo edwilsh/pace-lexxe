@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406945428952633</docid>
+  <date>01/08/2017</date>
+  <time>09:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/fdas-smoke-signals-not-all-bad-20170801-gxmt00</url>
+  <title>FDA's smoke signals not all bad</title>
+  <content>
+by
+The Lex Column
+
+The Trump administration is making little legislative headway. But it can at least slash regulations with gusto.
+Surprising, then, that a government that has rolled back rules on power-plant emissions should propose new ones on personal lung pollution.
+Shares in Altria have fallen 9 per cent and British American Tobacco by 7 per cent since the Food and Drug Administration said that it aimed to reduce nicotine in cigarettes to lessen their addictive properties, while supporting new safer alternatives.
+The sell-off was not universal, however. Philip Morris International shares, after a brief dip in sympathy with the sector, ended up in positive territory on Friday.
+
+PMI, which sells Marlboro internationally after its spin-off from Altria in 2008, has an advantage: the Switzerland-based company can dodge the rules thanks to its focus outside the US.
+
+BAT, however, paid $US49bn in January for the remaining stake in Reynolds American, maker of Newports and Camel.
+Yet the US is not such a hostile place for Big Tobacco. Altria's sell-off, which went as far as 19 per cent at one stage on Friday, looks exaggerated.
+Even as the number of smokers in the US has continued to fall, industry revenues have risen thanks to higher prices. Last year, volume sales fell 2 per cent to 263.4bn cigarettes, while the value rose 1 per cent to $94.4bn, according to Euromonitor International.
+BAT's bet is still good.The sector is still vulnerable to state intervention of course. But there is a long way to go before any new curbs are implemented.
+
+The permissive attitude to ecigarettes, the other side of the proposal, is more likely to stick.
+All should benefit - but none more so than PMI, which possesses one of the most promising ecigarettes.
+Even before Friday, Wells Fargo estimated it would be enough to reverse declining revenues and more than double earnings growth.
+Rather than bask in its remoteness from the US, it can seize the moment.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lex Column</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Euromonitor International</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wells Fargo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Switzerland-based</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>British American Tobacco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reynolds American</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Marlboro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altria</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Drug Administration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FDA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Philip Morris International</name>
+    <count>1</count>
+    <score>-0.67</score>
+  </sindex>
+  <sindex>
+    <name>Big Tobacco</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US49</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414216808722949</docid>
+  <date>02/08/2017</date>
+  <time>13:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/commercial/hotels-and-leisure/hotel-deals-fall-60pc-in-first-six-months-of-2017-20170802-gxnu1g</url>
+  <title>Hotel deals fall 60pc in first six months of 2017</title>
+  <content>
+Hotel deals hit a three-year-low of just $600 million in the first six months of the year, according to figures compiled by CBRE Hotels.
+This was a 60 per cent fall from the $1.5 billion worth of hotels that changed hands in the first half of 2016 as investors struggled to find buying opportunities at the top end of town.
+"The hotel markets in major hubs such as Sydney and Melbourne remain tightly held, so it is unsurprising that transaction volumes have been muted compared to previous years," said CBRE Hotels national director Wayne Bunz.
+"Owners have been unwilling to park with prized assets, despite a strong appetite from investors to increase their hotel holdings, and this trend is unlikely to change in the second half of 2017," he said.
+
+The other noteworthy deal was the $140 million sale of the InterContinental Sydney Double Bay by Royal Hotels to Zobon Real Estate & Shanghai United.
+With few buying opportunities, investors are choosing to buy into development opportunities as witnessed by Sydney hotel mogul Jerry Schwartz reaching an agreement to acquire  within the Central Park development from the Liberman family's Impact Investment Group.
+Mr Bunz said reviving markets such as Cairns in Tropical North Queensland were attracting investor capital - applications have been lodged for more than 400 new rooms "in a city that hasn't seen a new hotel in almost 20 years".
+According to CBRE, Canberra was the top performing hotel market over the year to June - RevPar (revenue per available room) increased 10.4 per cent  following a 5.4 per cent rise in average daily rates and a 5.4 per cent increase in occupancy.  Sydney was the other hotel market to post strong growth.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wayne Bunz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Hotels</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RevPar</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Impact Investment Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>InterContinental Sydney Double Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jerry Schwartz</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CBRE Hotels</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Bunz</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBRE</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Liberman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai United</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zobon Real Estate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tropical North Queensland</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

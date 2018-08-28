@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422879757926284</docid>
+  <date>03/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets-live/markets-live-asx-stuck-while-wall-st-parties-20170803-gxp3al.html</url>
+  <title>Markets Live: ASX stuck while Wall St parties</title>
+  <content>
+Good morning and welcome to the Markets Live blog for Friday.
+Your editors today are Jens Meyer and Patrick Commins.
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Commins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

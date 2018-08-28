@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402263914518620</docid>
+  <date>31/07/2017</date>
+  <time>15:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Radio Australia</source>
+  <url>http://www.radioaustralia.net.au/international/2017-07-31/kabul-attack-islamic-state-group-claims-responsibility-for-deadly-iraqi-embassy-attack/1690190</url>
+  <title>Kabul attack: Islamic State group claims responsibility for deadly Iraqi embassy attack</title>
+  <content>
+The Islamic State group has claimed responsibility for an attack on the Iraqi embassy in Kabul that began with a suicide bomb blast at the main gate, allowing gunmen to enter the building and battle security forces.
+
+Key points:
+
+Gunmen entered Iraqi embassy building, and battled security forces
+Attack kicked off with suicide bomb attack at main gate
+Islamic State says seven guards killed in the attack
+
+The assault came a week after 35 people were killed in a Taliban attack on government workers in Kabul and underlines Afghanistan's precarious security as the United States weighs an overhaul of its policy in the region.
+Afghan security forces confronted three gunmen for hours before the Interior Ministry announced in mid-afternoon that the attack, in a normally busy business district of the capital, had been suppressed.
+"Terrorist attack on Iraqi embassy in Kabul over after all terrorists killed," the ministry said in a statement.
+The Islamic State group's news outlet said two attackers had blown up the gate, killing seven guards, and two fighters had broken into the compound.
+There was no immediate official word on casualties but an Italian-operated hospital nearby said two injured people had been brought in for treatment.
+The Islamic State group has carried out a series of high-profile attacks in Kabul, mostly targeting members of the mainly Shiite Hazara community, and fuelling concerns of a possible spill over into Afghanistan from fighting in Syria and Iraq.
+The local branch of the movement, often called Daesh, is often known as Islamic State in Khorasan (ISIS-K), after an old name for the region that now includes Afghanistan.
+US commanders say it has been severely hit by a campaign of drone strikes and joint Afghan and US Special Forces operations, with hundreds of fighters and commanders killed.
+However Afghan security officials say the movement operates in as many as nine provinces, from Nangarhar and Kunar in the east to Badakhshan, Jawzjan and Faryab in the north and Baghdis and Ghor in the west.
+The Taliban, fighting to re-establish strict Islamic law 16 years after being expelled by a US-led campaign in 2001, have opposed Islamic State.
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Special Forces</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nangarhar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Iraqis</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shiite Hazara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baghdis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-led</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Islamic</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Interior Ministry</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Faryab</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jawzjan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>5</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kunar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>ISIS-K</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Khorasan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ghor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daesh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Badakhshan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Italian-operated</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

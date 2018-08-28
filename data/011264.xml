@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416136659142841</docid>
+  <date>02/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/how-adha-is-trying-to-secure-gp-clinics-469963</url>
+  <title>How ADHA is trying to secure GP clinics</title>
+  <content>
+It's no secret that your local doctor's office is unlikely to have the best protections when it comes to securing your personal health records.
+
+In this small business environment, technology often gets pushed to the bottom of the priority list when contending with life or death matters.
+
+It means medical practices often fall victim to ransomware attacks that exploit vulnerabilities in old software - like the recent WannaCry epidemic - and hold patient and practice data to ransom.
+
+Health services was the second most frequently breached industry in 2016, according to Symantec. Medical records also fetch a pretty penny on the black market, at somewhere around US$10 per record on average.
+
+But with the shift to an online health record for every Australian looming - and in light of the recent access control issues raised in the discovery of black market sales of Medicare details - strengthening these weak links in the chain becomes all the more pertinent.
+
+From next year every Australian will get an e-health record, unless they explicitly remove their consent.
+
+It means the Australian Digital Health Agency (ADHA) will be in charge of securing around 22 million e-health records within a big ecosystem of healthcare providers.
+
+"We've worked on the basis that one record is worth US$1 and we've got 22 million of them - is that enough for somebody to get out of bed and try to steal our data? I think it is," ADHA chief information security officer Anthony Kitzelmann told the Technology in Government conference.
+
+This is why the ADHA will spend $15.8 million this year alone shoring up the security of the My Health Record system.
+
+This focus on security was also behind the hiring of Kitzelmann, a former Lockheed Martin CISO who
+
+But one of ADHA's biggest challenges is working out what an applicable standard for digital health in Australia looks like in lieu of any prescriptive documentation.
+
+"Is the ISM an appropriate standard? Is the ISO standard applicable? HIPAA regulations out of the US? Which one works, which is fit for purpose?" Kitzelmann said.
+
+An internal review conducted in the lead-up to the policy switch to opt-out e-health records found that there were elements of all these standards that could apply to Australia's e-health ecosystem.
+
+More importantly what came out of the review process was that ADHA needed to change its focus and move to a risk-based governance model.
+
+"If we have a large jurisdiction that has 130,000 employees and a massive investment in their health strategy, we'd expect them to sit [high up] in terms of their security performance," Kitzelmann said.
+
+"But how do we measure when it's a general practice run by a husband and wife, the husband is the GP and the wife is the receptionist, IT support and nurse at lunchtime? What do we expect them to do to protect citizen records in an appropriate way? And how do we help them get that balance?
+
+"Because we know quite well they're going to be sitting on a Windows XP machine that has vulnerabilities up the kazoo, and that it's going to be a point of egress into the national system that we need to mitigate and manage.
+
+"[However] we also need to understand that it's irresponsible of us to say 'you need to be on Windows 10, patched within 24 hours, and running this AV software' - it's just not going to happen."
+
+ADHA's solution to this problem has been to amalgamate elements of all the relevant standards into a risk-based governance model that helps GPs have "good clinical hygiene with their cyber security practices".
+
+It is currently working with the Royal Australian College of General Practitioners to develop a single standard that provides "practical, commonsense guidelines" outlining what clinics can do to be more secure.
+
+However, Kitzelmann said ADHA recognised that while GPs would "try their best", they would "never be truly secure".
+
+This led to a second conversation around getting the health software community to do some of the heavy lifting.
+
+"[We've been looking at] how to incentivise the software developer community to build products that are more secure. Demonstrate to us that they're taking the risk away from the GP so [doctors] can do their job and get on with healthcare without having these overheads," Kitzelmann said.
+
+"And we've actually been getting exceptional feedback from the private sector - they're saying they want to partner with us and understand what best practice looks like so they can create and encapsulate a security model that allows practitioners to interact with the national system in such a way that they can still be secure and the records looked after."
+
+If that problem could be solved through the software providers, it would mean ADHA wouldn't need to worry so much about the endpoint devices within GP clinics, he said.
+
+"If we can crack that, I really don't care if they're accessing [the e-health system] from an Android device, an iPhone, a Windows XP machine or a fully patched Windows 10 machine with all the security bells and whistles, because the product itself is protected. Our aim is to remove that burden."
+
+Securing systems in lead-up to opt-out
+
+ADHA's internal $15.8 million security investment over the next year will largely be focused on audit logging and user behaviour analytics, in order to understand what normal activity on the My Health Record system looks like.
+
+"If a gynaecologist jumps on and looks up the file of a 47-year-old man, that should raise a flag. But what happens when we see a large jurisdiction download a million records off the national system?" Kitzelmann said.
+
+"That may be part of their DR process, but it also could be the sign of a compromised system downstream that we need to defend against and create automated responses for. That's what we need to understand."
+
+Around 22 percent of the total security spend this year will go on improving audit logging, to give ADHA a better understanding of the threat environment.
+
+"The data that we are now collecting is allowing us to make informed decisions around what is normal behaviour - when is it appropriate to see an external application making a call from an offshore IP address, when should collaboration systems be connected to our environment - so we can start to build a picture of normal behaviour."
+
+The agency is also about to tie its audit logging into its access control system so it can make sure activity recorded on any one individual lines up.
+
+"No administrator can touch a box in my environment without going into a dedicated, isolated clean room that is physically protected inside a zone two facility with dedicated, locked down machines, individual credentials, and multi-factor authentication," Kitzelmann said.
+
+"And they hit a third-party software product that actually does the interaction with the server to transfer the passwords across. I get an audit log of every time one of those machines fires up to say User X is on there.
+
+"Once we tie that up with the access control system we get both sides of the puzzle: have they defeated our protective security, and have they defeated our virtual security. They're the sorts of things that really lift the game.
+
+"At our point of maturity we need to move to the next stage and invest holistically, and maybe do less of the capability and spread it across the spectrum so we get a defence-in-depth model."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GP</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AV</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ISM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ISO</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Symantec</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Health Record</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kitzelmann</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Windows XP</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Windows 10</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HIPAA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Kitzelmann</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lockheed Martin CISO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Australian College of General</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Medicare</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adha</name>
+    <count>11</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Australian Digital Health Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>User X</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

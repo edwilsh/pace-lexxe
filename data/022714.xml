@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442159866345856</docid>
+  <date>07/08/2017</date>
+  <time>02:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/north/rspca-queensland-appeals-for-information-about-dog-allegedly-bashed-with-hammer/news-story/48a20732eead9877183b56dfeefc9a8e</url>
+  <title>RSPCA looking for dog allegedly bashed with hammer</title>
+  <content>
+RSPCA Queensland is appealing for information about a dog which was allegedly bashed with a hammer and has not been seen since.
+RSPCA spokesman Michael Beatty said the incident occurred about 6.30pm on Wednesday, July 17, at Mott St, Gaythorne.
+Mr Beatty said it was alleged that Cheeky, a four-year-old Staffordshire bull terrier, and a blue Australian cattle dog escaped from their yard and attacked a small dog at that time.
+"Cheeky was restrained by the owner of the small dog who then allegedly hit her with a hammer," he said.
+Cheeky has not been seen since and the RSPCA is urging anyone who may have witnessed the incident or saw someone disposing of a body to come forward.
+Cheeky is white with black patches and was wearing a studded black leather collar at the time of her disappearance.
+Phone the RSPCA on 1300 264 625.
+</content>
+  <sindexList>
+  <sindex>
+    <name>RSPCA Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Staffordshire</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mott St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSPCA</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Michael Beatty</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gaythorne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Beatty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

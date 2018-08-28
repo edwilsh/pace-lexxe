@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444483443689640</docid>
+  <date>07/08/2017</date>
+  <time>11:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/20/58/heavy-snow-leads-to-avalanches-on-vic-alps</url>
+  <title>Heavy snow leads to avalanches on Vic Alps</title>
+  <content>
+Heavy snowfall has led to avalanches on the Victorian Alps, with emergency services warning tourists to steer clear of remote areas.
+Avalanches on Monday led ski resorts to conduct controlled avalanches to reduce risk ahead of Tuesday's forecast warmer weather and strong winds, Vic Emergency said.
+"You should avoid activities such as skiing, snowboarding, or hiking in remote areas of the Alps as there is an increased risk of avalanches," an advice message read.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Vic Emergency</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Alps</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic Alps</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alps</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434669443309697</docid>
+  <date>05/08/2017</date>
+  <time>21:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/can-you-distinguish-these-real-british-places-from-fake-ones-an-ai-made-up/</url>
+  <title>Can You Distinguish These Real British Places From Fake Ones An AI Made Up?</title>
+  <content>
+Artificial intelligence networks have already come to the rescue of ,  and  who are looking for wacky new names. Now, digital consultant Dan Hon wants to use those same neural networks to help Britain come up with even more amusing place names.
+
+Image: Wikimedia/Google Maps/Gizmodo
+
+It isn't that the country necessarily needs help when it comes to humorously naming its quaint towns and villages. This is a place that's already come up with locales such as Papplewick, Blubberhouses and Picklescott. But these neural networks are just sitting around collecting dust - or  - so Dom figured this was as good a task as any for the machine learning tools.
+
+After feeding it a dataset of almost 50,000 real British place names, the neural network  fake ones, but how convincing are they? Take  below and see if you can distinguish between the mind of a computer, and the mind of a marmalade-lover.
+
+[ via ]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Blubberhouses</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papplewick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wikimedia/Google Maps/Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Picklescott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Distinguish These Real British Places From Fake Ones An AI Made Up</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dan Hon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

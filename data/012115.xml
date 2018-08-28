@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417468099028344</docid>
+  <date>03/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/man-found-dead-in-northern-nsw/news-story/a76a0a4c48ba0849fecf41b0aac3e198</url>
+  <title>Man found dead in northern NSW</title>
+  <content>
+A man has been found dead at a home in northern NSW.
+Police and paramedics were called to a home at Walcha at 2am on Wednesday.
+A NSW Police spokeswoman says it's too early to know whether the man's death is suspicious but a crime scene has been established.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Walcha</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

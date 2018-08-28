@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424039399113852</docid>
+  <date>04/08/2017</date>
+  <time>03:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/jewellery-store-in-melbournes-north-hit-by-robbers/news-story/83a0c3d0734e847842a1d406e8fb4b52</url>
+  <title>Robbers' daylight jewellery store raid</title>
+  <content>
+ROBBERS have targeted a jewellery store in Melbourne's north in a smash and grab raid.
+Grounds Jewellers in Settlement Rd, Thomastown, was hit around midday.
+The Herald Sun understands up to seven offenders were involved and travelled to the store in two vehicles.
+A woman who works at the store confirmed there was a robbery.
+"They didn't get away with much," she said.
+"There is a lot of security here and fortunately that slowed them down."
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Settlement Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomastown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herald Sun</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

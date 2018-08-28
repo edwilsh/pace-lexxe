@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404892434550880</docid>
+  <date>01/08/2017</date>
+  <time>01:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/leading-charities-look-to-blockchain/news-story/dd408a270ccedfe7275323e9aa1f7373</url>
+  <title>Leading charities look to blockchain</title>
+  <content>
+Digital financial tool 'blockchain' is being put to use in the humanitarian sector to try to ensure every penny of aid makes its way to projects and is not wasted.
+Britain's Start Network, which includes 42 leading aid agencies such as Oxfam, Care International and Save the Children, has teamed up with social enterprise start up Disberse to use blockchain, the network said.
+"This exciting partnership could lead to the transformation needed in the way money flows through the humanitarian system," said Sean Lowrie, director of Start Network.
+"(It) could catalyse a new way of working, one that is transparent, fast and which drives accountability to taxpayers and those affected by crises."
+Blockchain, which first emerged as the system underpinning the virtual currency bitcoin, is a digital shared record of transactions maintained by a network of computers on the internet, without the need of a centralised authority.
+It has become a key technology in both the public and private sectors, given its ability to record and keep track of assets or transactions without the need for middlemen.
+The new Disberse platform will use the blockchain technology to ensure that less money is lost to banking fees, poor exchange rates and currency fluctuations, Start Network said.
+Fraud is also a major issue within the international aid system.
+In 2012, former United Nations Secretary General Ban Ki-moon said 30 per cent of all UN development assistance was lost to corruption.
+As blockchain automatically records transactions on a secure ledger, donors can easily follow the money, lowering the risk of financial misuse.
+A UK-based charity "Positive Women" has already completed a pilot project using the Disberse platform to reduce its transfer fees to educational projects in Swaziland.
+Aid was sent from Britain to four Swaziland schools, via a local aid group, and the savings made by using the Disberse platform enabled Positive Women to fund an additional three students' fees for a year.
+"We normally use our bank to transfer funds, but transfers have become increasingly expensive and slow," said Sarah Llewellyn, director of Positive Women.
+"Using Disberse, we saved 2.5 per cent (on fees), which covered the costs of a year's education for an additional three girls."
+The new partnership using the blockchain technology will now scale up to work on a series of small disbursements within Start Network's existing programs over the next six months.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Care International</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Secretary General Ban Ki-moon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sean Lowrie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain's Start Network</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Oxfam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK-based</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Start Network</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Positive Women</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Llewellyn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Disberse</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Swaziland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420130978800540</docid>
+  <date>03/08/2017</date>
+  <time>12:39</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/finance-news/2017/08/03/money-laundering-risk-cba/</url>
+  <title>'Take their bonuses': CBA accused in landmark case</title>
+  <content>
+Senior executives at Commonwealth Bank should be stripped of their bonuses, or worse, if the organisation is found guilty of allowing crime gangs to launder money through its ATMs, says one of Australia's foremost experts on financial crime.
+On Thursday, the Australian Transactions Reports and Analysis Centre (AUSTRAC) launched a landmark legal case against CBA by alleging in the Federal Court it  a staggering 53,700 times.
+It was the first time in Australian history that such legal action had been brought against any financial institution, let alone the country's biggest bank.
+The allegations are damaging for the bank. The New Daily confirmed with AUSTRAC that each offence carries a maximum penalty of $18 million. If convicted of all 53,700 alleged breaches, fines could total almost $1 trillion, more than six times the value of the company.
+AUSTRAC will allege the bank did nothing to stop its ATM deposit machines being used by criminals to launder money, even after being warned by federal police.
+AUSTRAC is also alleging that after CBA became aware of suspected money laundering it failed to report suspicious matters and did not monitor customers for money laundering risk.
+'Cynical'
+
+Dr David Chaikin at The University of Sydney said, if proven, the alleged conduct must have been a "cynical exercise".
+"The team who developed this product must have won out against the compliance people. Because I know many compliance people in the money laundering area and they would have warned of the risks," he told The New Daily.
+"The trading people who get rewarded for introducing these products that make the banks millions of dollars, they must have won out on that battle.
+"And that can be sheeted home to senior management, if not the board. I will be interested to see if any heads roll."
+The Commonwealth Bank said it was "reviewing the nature of the proceedings", and that it took its regulatory obligations "extremely seriously".
+In 2012, it installed 'intelligent deposit machines' across its branches. These ATMs can accept up to $20,000 cash at a time, anonymously, without proof of identity. Only a CBA card and a CBA account is required.
+A money laundering expert, who asked not to be named, said "anybody can have a card".
+"I can give you my bank card and give you $9000 to deposit and you can do that on my behalf," he told The New Daily.
+The illicit money is then "layered" through multiple transfers to make it harder to detect, before being sent back to the criminals, he said.
+"It might be sent overseas. It might be pooled into one or two bigger accounts in Australia. It might be moved around. It might be sent to another bank. The more moves there are, the harder it is to track."
+CBA 'ignored warnings'
+
+AUSTRAC will allege that not only did the bank fail to assess the risk before installing the new ATMs, and fail to report thousands of deposits over the $10,000 threshold, but also that it ignored police warnings.
+A document  in the Federal Court lists five separate crime gangs whose members were convicted in Australia of laundering millions of dollars through CBA, mostly using ATM deposits, between 2014 and 2016.
+AUSTRAC recently negotiated a $45 million settlement with Tabcorp for less severe money laundering breaches.
+Dr Chaikin said any financial penalty imposed on CBA is likely to be "much larger".
+"Hundreds of millions of dollars wouldn't surprise me."
+If the company is fined, senior management should at the very least pay up by sacrificing their bonuses, Dr Chaikin said.
+"Senior management shouldn't be able to avoid responsibility and at the same time be paid handsome bonuses while allowing this to take place.
+"It shouldn't be the customers and shareholders who pay for this."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>University of Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Dr Chaikin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr David Chaikin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Transaction Reports</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Analysis Centre</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>8</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

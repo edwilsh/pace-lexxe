@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443753299236552</docid>
+  <date>07/08/2017</date>
+  <time>08:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/18/08/labor-leader-queries-privatised-power</url>
+  <title>Labor leader queries privatised power</title>
+  <content>
+Labor leader Bill Shorten says the privatisation of electricity generators has contributed to higher power prices.
+Mr Shorten was asked in the Labor caucus meeting on Monday about the opposition's approach to energy providers, as power bills soar across the country.
+He told the meeting Labor was pushing for export controls on gas and acknowledged the privatisation of generators has been a "contributor".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Shorten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Shorten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

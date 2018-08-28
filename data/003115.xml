@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402560267268324</docid>
+  <date>31/07/2017</date>
+  <time>16:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/02/25/shot-fired-into-home-on-nsw-south-coast</url>
+  <title>Shot fired into home on NSW south coast</title>
+  <content>
+No one was injured when a gunshot was fired into a home on the New South Wales south coast.
+Two men allegedly knocked on the front door of the Warilla home at about 12:30am on Tuesday and started an argument with the male resident.
+The two men then fired a shot into the front window of the house, before fleeing in a white sedan.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Warilla</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

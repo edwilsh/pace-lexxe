@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403767153099913</docid>
+  <date>31/07/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/apple-fails-to-kill-lawsuit-claiming-it-broke-facetime-469785</url>
+  <title>Apple fails to kill lawsuit claiming it 'broke' FaceTime</title>
+  <content>
+Apple has failed in its bid to dismiss a lawsuit claiming it disabled the popular FaceTime video conferencing feature on older iPhones to force users to upgrade.
+
+US district judge Lucy Koh ruled late on Friday that iPhone 4 and 4S users can pursue nationwide class action claims that Apple intentionally "broke" FaceTime to save money from routing calls through servers owned by Akamai Technologies.
+
+Neither Apple nor lawyers for the plaintiffs immediately responded to requests for comment.
+
+Apple began using Akamai's servers after losing a lawsuit in 2012 in which VirnetX claimed that FaceTime technology infringed its patents.
+
+Testimony from a 2016 retrial in that case showed that Apple paid Akamai US$50 million in one six-month period.
+
+The plaintiffs said Apple eventually created a cheaper alternative for its iOS 7 operating system, and in April 2014 disabled FaceTime on iOS 6 and earlier systems.
+
+Koh said the plaintiffs alleged some measurable loss to their phones' value, and could try to show that Apple's conduct constituted a trespass and violated state consumer protection laws.
+
+The judge twice quoted from what the plaintiffs said was an Apple employee's internal email characterising iOS 6 users as "basically screwed" because of the disabling of FaceTime.
+
+She also rejected Apple's argument that the plaintiffs suffered no economic loss because FaceTime was a "free" service.
+
+"FaceTime is a 'feature' of the iPhone and thus a component of the iPhone's cost," Koh said in a footnote. "Indeed, Apple advertised FaceTime as 'one more thing that makes an iPhone an iPhone'."
+
+The plaintiffs are led by Christina Grace of Marin County, California, and Ken Potter of San Diego County, California, who both owned the iPhone 4. Akamai was not named as a defendant.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 4</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Diego County</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Koh</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ken Potter of San</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS 6</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iOS 7</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Lucy Koh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christina Grace of Marin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Akamai</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>VirnetX</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>April 2014</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>FaceTime</name>
+    <count>9</count>
+    <score>-13</score>
+  </sindex>
+  <sindex>
+    <name>Akamai Technologies</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>11</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Akamai US$50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

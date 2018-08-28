@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404969743963281</docid>
+  <date>01/08/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/donald-trump-dictated-sons-misleading-statement:-reports/8763048</url>
+  <title>Donald Trump dictated son's 'misleading' Russian lawyer meeting statement, US media reports</title>
+  <content>
+US President Donald Trump dictated a misleading statement in which his son Donald Trump Jr said a meeting he had with a Russian lawyer in June 2016 was not related to his father's presidential campaign, the Washington Post has reported.
+Last month Mr Trump Jr  he was told was a Russian government lawyer who might have damaging information about Democratic presidential candidate Hillary Clinton.
+He released the emails after the New York Times reported details of the meeting.
+Today the Washington Post said Trump advisers discussed the new disclosure and agreed that Mr Trump Jr should issue a truthful account of the episode so that it "couldn't be repudiated later if the full details emerged".
+But the President, who was flying home from Germany on July 8, changed the plan and "personally dictated a statement in which Mr Trump Jr said he and the Russian lawyer had 'primarily discussed a program about the adoption of Russian children'," the Post said, citing unnamed people with knowledge of the deliberations.
+It said the statement, issued to the New York Times as it prepared to publish the story, emphasised the subject of the meeting was not a campaign issue at the time.
+But the claims were later shown to be misleading, and Mr Trump Jr ultimately released an email chain on Twitter showing he agreed to the meeting to obtain incriminating information on Mrs Clinton as part of Moscow's support for the then Republican candidate.
+"The Crown prosecutor of Russia ... offered to provide the Trump campaign with some official documents and information that would incriminate Hillary and her dealings with Russia and would be very useful to your father," said the June 3, 2016, email to Mr Trump Jr from publicist Rob Goldstone.
+"This is obviously very high level and sensitive information but is part of Russia and its Government's support for Mr Trump," according to the email posted by Mr Trump Jr on Twitter.
+"If it's what you say I love it," Mr Trump Jr partly replied in the exchange, which he said represented the entire chain of his emails about the meeting, .
+The White House did not immediately respond to a Reuters request for comment on the Post's story, nor did Mr Trump's outside counsel Marc Kasowitz and Mr Trump Jr's attorney, Alan Futerfas.
+US investigators are probing whether there was collusion between the Kremlin and Mr Trump's Republican presidential campaign.
+US intelligence agencies have concluded that Moscow sought to hurt Mrs Clinton and help Mr Trump in the 2016 election. Russia denies any interference, and Mr Trump has denied collusion with Russia.
+The President applauded his son's "transparency" after he released the email exchanges on July 11.
+"It remains unclear exactly how much the President knew at the time of the flight about Trump Jr's meeting," the Washington Post said.
+Reuters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Crown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 3, 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alan Futerfas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rob Goldstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Republicans</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Hillary</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump Jr</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mrs. Clinton</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marc Kasowitz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump's Republican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

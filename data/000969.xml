@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398935314806013</docid>
+  <date>31/07/2017</date>
+  <time>02:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/07/australia-won-the-amazon-robotics-challenge-with-cartman-a-cheap-robot-held-together-with-cable-ties/</url>
+  <title>Australia Won The Amazon Robotics Challenge With 'Cartman', A Cheap Robot Held Together With Cable Ties</title>
+  <content>
+Credit: Anthony Weate, QUT
+
+Meet Cartman, the QUT-built robot and contender for the 2017 Amazon Robotics Challenge in Japan. Featuring team mates from the Australian Centre for Robotic Vision.
+Featuring QUT Distinguished Professor Peter Corke.
+
+The Australian Centre for Robotic Vision at QUT has grabbed first prize and US $80,000 in the Amazon Robotics Challenge with its custom-built Cartesian robot, Cartman.
+
+Cartman beat out 16 other teams from around the world, despite being the cheapest build competing, and one of its parts being held on with cable ties.
+
+The challenge was held last night at RoboCup in Nagoya, Japan. Two teams represented Australia, with teams tasked to build their own hardware and software to successfully pick and stow items in a warehouse.
+
+While Amazon is able to quickly package and ship millions of items to customers from their network of fulfillment centers, the commercial technologies to solve automated picking in unstructured environments are yet to be developed.
+
+Eight teams made it through to the finals, with the Australian Centre for Robotic Vision placing fifth after the picking and stowing rounds.
+
+"It was a tense few hours," according to the Centre's COO Dr Sue Keay, "our team top scored early with 272 points on the final combined stowing and picking task but we then had to wait on the results for five other teams, many of whom had outperformed us in the rounds, before it became clear that we had won."
+
+"Not bad for a robot that was only unpacked and reassembled out of suitcases a few days before the event, with at least one key component held together with cable ties."
+
+Cartman can move along three axes at right angles to each other, like a gantry crane, and featured a rotating gripper that allowed the robot to pick up items using either suction or a simple two-finger grip.
+
+The team's win may be due to building a custom-made robot, with team leader Juxi pointing out that Cartman gives more flexibility to complete the tasks than most robots can offer.
+
+"Cartman is robust and tackles the task in an innovative way and is also cost effective. We learnt from our experience last year when we used an off-the-shelf robot. I think we had the lowest cost robot at the event!"
+
+Fifteen members of the Centre's 27-strong team of researchers, sourced from QUT, The University of Adelaide and the Australian National University, were in Japan for the event.
+
+"We feel brilliant, we say thank you very much for all the support we've received. The competition was a lot of work but really rewarding and a lot of fun," says Adam Tow, a PhD researcher with the Centre, based at QUT. The team invested more than 15,000 hours into the project.
+
+The time and effort paid off according to Dr Chris Lehnert, a roboticist at QUT, "Everything from the robot design, vision systems and grasping system worked flawlessly in the finals. The competition was tough, so many of the improbable scenarios that we thought would never occur did occur."
+
+The Challenge combined object recognition, pose recognition, grasp planning, compliant manipulation, motion planning, task planning, task execution, and error detection and recovery. The robots were scored by how many items they successfully picked and stowed in a fixed amount of time.
+
+"We are world leaders in robotic vision and we're pushing the boundaries of computer vision and machine learning to complete these tasks in an unstructured environment," says Juxi.
+
+Cartman's vision system was the result of hours of training data and training time, according to Dr Anton Milan, "We had to create a robust vision system to cope with objects that we only got to see during the competition."
+
+"Our vision system had the perfect trade-off of training data, training time and accuracy. One feature of our system was that it worked off a very small amount of hand annotated training data. We only needed just seven images of each unseen item for us to be able to detect them."
+
+University of Adelaide team member Dr Trung Pham agrees, "one of the most important factors contributing to the team's success was the seamless integration of world-leading robotics and vision. Our robot uses deep learning to see robustly and acts reliably due to smart design. The competition was a fantastic chance for us to truly test our state-of-the-art algorithms as well as opening up new real-world challenges that go beyond academic research."
+
+"It feels amazing to have accomplished this" says Anton. "Excellent team effort. Looking at the overall performance across all teams, we see huge advances in robotics and AI. We definitely have very exciting times ahead of us."
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cheap Robot Held Together With Cable Ties</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Centre</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Centre's COO Dr Sue Keay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nagoya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adam Tow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robotic Vision</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QUT</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>PhD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartesian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QUT Distinguished Professor Peter Corke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Robotics Challenge With</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Chris Lehnert</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cartman</name>
+    <count>8</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Weate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RoboCup</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>QUT-built</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Robotics Challenge</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Anton Milan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Trung Pham</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia Won</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Adelaide</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Juxi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

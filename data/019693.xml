@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437018790440476</docid>
+  <date>06/08/2017</date>
+  <time>06:11</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/bouncers-bashed-with-bollards-in-bendigo/news-story/1e420f8d5c9472289d14c92184bb2a79</url>
+  <title>Bouncers bashed with bollards in Bendigo</title>
+  <content>
+Caroline SchelleAustralian Associated Press
+
+Share
+
+A teenager has serious head injuries after he and two bouncers were bashed with metal bollards outside a nightclub in the regional Victorian town of Bendigo.
+Two men who were thrown out of the club at 1am on Sunday used crowd control bollards to attack the bouncers and the 19-year-old man who was hit in the face and knocked unconscious, police say.
+The teen was taken to hospital with serious head injuries and police are looking for the two men who they believe were part of a larger group at the club.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bendigo</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Caroline SchelleAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429889144666760</docid>
+  <date>05/08/2017</date>
+  <time>02:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/sport/afl/more-news/afl-live-geelong-v-sydney-friday-night-footy/news-story/b6e2534c1c875ee38f91b95aee68bae1</url>
+  <title>No Buddy, no problem for Swans</title>
+  <content>
+SYDNEY has cemented its place in the top eight with a thumping win over Geelong at Simonds Stadium.
+The insult - it was the Cats' biggest loss at home since 2006 - was compounded by an injury to captain Joel Selwood.
+The Cats' top-two hopes have also taken a blow and they could slide to fourth depending on results this weekend.
+FIND OUT IN OUR LIVE BLOG BELOW
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Simonds Stadium</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Joel Selwood</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Swans</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>LIVE BLOG BELOW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geelong</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

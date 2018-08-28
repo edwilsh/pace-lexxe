@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425675781681240</docid>
+  <date>04/08/2017</date>
+  <time>10:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/04/19/59/student-sparks-perth-measles-alert</url>
+  <title>Student sparks Perth measles alert</title>
+  <content>
+A Perth school student has returned from overseas with measles, sparking a citywide health alert.
+While still infectious, the student attended Perth Waldorf School in Bibra Lake after which a "substantial number" of pupils were identified as not having been vaccinated, the WA department of health said on Friday
+Waldorf, which takes pre- and primary school enrolments, has a metropolitan-wide catchment area, prompting the warning for the entire Perth area.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waldorf</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bibra Lake</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth Waldorf School</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

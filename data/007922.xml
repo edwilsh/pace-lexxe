@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411330590647128</docid>
+  <date>02/08/2017</date>
+  <time>02:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/stocks-to-watch-on-wednesday/news-story/9ca290ee5a66b44e4fcc33c3ce50eca7</url>
+  <title>Stocks to watch on Wednesday</title>
+  <content>
+Stocks to watch on the Australian stock exchange:
+APO - APN OUTDOOR - up 1 cent, or 0.2 per cent, at $4.63
+The billboard advertising giant's chief executive Richard Herring will step down at the end of September.
+GMA - GENWORTH MORTGAGE INSURANCE - up 12 cents, or 4 per cent, at $3.14
+The company's half year profit dropped 35 per cent due to adverse portfolio revaluations, higher delinquencies and a slip in premiums.
+RMD - RESMED - down 53 cents, or 5.5 per cent, at $9.13
+The respiratory face mask and machine maker's annual profit fell slightly despite higher revenue.
+RIO - RIO TINTO - down 12 cents, or 0.2 per cent, at $65.83
+The mining giant is expected to report a big jump in half year underlying profit to around $US4 billion when it releases its financial results after the market closes for trade on Wednesday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Mortgage Insurance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$4</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Richard Herring</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RMD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GMA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Resmed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APN Outdoor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

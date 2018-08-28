@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399601034745088</docid>
+  <date>31/07/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/14/54/tas-drug-legalisation-backed-by-ex-judge</url>
+  <title>Tas drug legalisation backed by ex-judge</title>
+  <content>
+A former Tasmanian chief magistrate has backed a report which calls on the state to decriminalise illegal drugs and increase rehabilitation funding.
+Community Legal Centres Tasmania on Monday released a study advocating a health-based approach to tackle the state's "failing" war on drugs.
+It's been supported by ex-judge Michael Hill, who says low-range offenders will have better prospects of rehabilitation if they are kept out of the criminal justice system.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Michael Hill</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Legal Centres Tasmania</name>
+    <count>1</count>
+    <score>0.33</score>
+  </sindex>
+  </sindexList>
+</snippet>

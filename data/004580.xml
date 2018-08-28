@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405837327369753</docid>
+  <date>01/08/2017</date>
+  <time>05:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/north/ifly-looks-to-soar-into-westfield-chermside/news-story/cf7874450304822bcc328f3feab2e702</url>
+  <title>Indoor skydive venue plan</title>
+  <content>
+THRILL seekers could soon be taking to the skies at Chermside - but not at 12,000 feet.
+iFLY Australia has submitted a development application for an indoor skydiving centre at Westfield Chermside, between the cinemas and Gympie Rd.
+The project would be a Brisbane-first and proposes a glass wind tunnel for skydiving alongside party rooms, a viewing area, preparation classrooms and amenities.
+iFLY pitches an "exhilarating experience and a highly addictive sport" where there is "no parachute, no jumping, and nothing attaching you to planet Earth".
+It's not the first time iFLY has sought to set up in Brisbane. It gained council approval for a site at Virginia in 2013, but an iFLY spokesman said Chermside was the preferred long-term option.
+"From a business model perspective, Chermside is the number one shopping centre in Australia," the spokesman said.
+"(An iFLY in Brisbane) has been four years in the making, but we took a long- term view."
+The spokesman said iFLY had withdrawn from plans at Virginia.
+The development requires 30 established carpark spaces to be removed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chermside</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Virginia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iFLY</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Westfield Chermside</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gympie Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iFLY Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane-first</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

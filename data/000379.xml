@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398445688527192</docid>
+  <date>31/07/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/scientists-discover-tricks-of-bacteria/news-story/1c0c658f59b4b5edda594134b4802b51</url>
+  <title>Scientists discover tricks of bacteria</title>
+  <content>
+A common hospital bug resistant to antibiotics evades the immune system by making itself a small target, scientists have discovered.
+Enterococcus faecalis, which causes hospital-acquired urinary tract and heart valve infections, forms pairs or short chains of cells unlike other members of the same microbe family, which exist in long chains.
+It is this that makes the bug so good at spreading a potentially lethal infection in the body, according to the new research. The short cell chains play a key role in shielding the bacteria from the immune system.
+Lead scientist Dr Stephane Mesnage, from the University of Sheffield, said: "Our study shows that the formation of short chains of cells by E. faecalis is a critical step for causing an infection.
+"Bacteria that form long chains of cells are efficiently recognised and engulfed by the host immune system, whereas short chains of cells can evade host immune cells and spread in the host to cause infection.
+"E. faecalis is an opportunistic pathogen. It is naturally resistant to a wide range of antibiotics, including synthetic penicillin derivatives. Following an antibiotic treatment, E. faecalis can out-compete other micro-organisms to cause infection. Our work suggests that targeting the mechanisms controlling the formation of short chains of cells could be a novel strategy for developing new treatments to fight E. faecalis infections."
+As part of the study, the scientists produced a mutant strain of E. faecalis that forms long chains. Tests on zebrafish demonstrated how the altered bugs were vulnerable to attack by phagocytes, immune system cells that ingest bacteria.
+The researchers wrote in the journal Public Library of Science Pathogens: "We show that the long cell chains of E. faecalis mutants are more susceptible to phagocytosis and are no longer able to cause lethality in the zebrafish model of infection."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Public Library of Science</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enterococcus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Sheffield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Stephane Mesnage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

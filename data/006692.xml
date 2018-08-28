@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409449394938072</docid>
+  <date>01/08/2017</date>
+  <time>19:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/thor-and-hulks-space-adventure/3207441/</url>
+  <title>Thor and Hulk's space adventure</title>
+  <content>
+http://bit.ly/2gTsVrm
+THE first full trailer for Marvel's upcoming third Thor film, Ragnarok, racked up more than 30million views in its first four days online.
+The film, shot on the Gold Coast and directed by New Zealand's Taika Waititi, follows Thor as he loses his hammer and his home city of Asgard is ransacked by the Goddess of Death Hela, played by Cate Blanchett.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hela</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thor</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand's Taika Waititi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goddess of Death</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Asgard</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hulks</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>gTsVrm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ragnarok</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marvel</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cate Blanchett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

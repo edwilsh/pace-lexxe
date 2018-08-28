@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436683782988368</docid>
+  <date>06/08/2017</date>
+  <time>04:53</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/venezuela-removes-chief-prosecutor/news-story/47c2a3e1f8f317112cbe4e186efc1b13</url>
+  <title>Venezuela removes chief prosecutor</title>
+  <content>
+A newly installed constitutional assembly has ousted Venezuela's defiant chief prosecutor, a sign that President Nicolas Maduro's embattled government intends to move swiftly against critics and consolidate power amid a fast-moving political crisis.
+Cries of "traitor" and "justice" erupted from the stately, neo-classical salon where 545 pro-government delegates voted unanimously to remove Luisa Ortega from her post as the nation's top law enforcement official and replace her with a staunch government supporter.
+They said they were acting in response to a ruling by the government-stacked Supreme Court, which banned Ortega from leaving the country and froze her bank accounts while it weighs criminal charges against her for alleged irregularities.
+Ortega, a longtime loyalist who broke with the socialist government in April, refused to recognise the decision and vowed to continue defending the rights of Venezuelans from Maduro's "coup" against the constitution "with my last breath."
+"This is just a tiny example of what's coming for everyone that dares to oppose this totalitarian form of government," Ortega said in the statement she signed as chief prosecutor. "If they're doing this to the chief prosecutor, imagine the helpless state all Venezuelans live in."
+Earlier on Saturday, Ortega was pushed and barred from entering her office by dozens of national guardsmen in riot gear who took control of the entrance to the building.
+Late on Saturday, opposition leader Leopoldo Lopez was returned home after being taken into custody in the middle of the night on Tuesday. Lopez was released from prison last month and placed under house arrest after serving three years of a 13-year sentence on charges of inciting violence at opposition rallies.
+The constitutional assembly was seated despite strong criticism from the United States, other countries and the Venezuelan opposition, which fear that it will be a tool for imposing dictatorship. Supporters say it will pacify a country rocked by violent protests.
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Luisa Ortega</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>-0.33</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maduro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lopez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Ortega</name>
+    <count>4</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leopoldo Lopez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

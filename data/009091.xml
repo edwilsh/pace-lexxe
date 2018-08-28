@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412936908441789</docid>
+  <date>02/08/2017</date>
+  <time>08:44</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/brexit-aftermath-ihs-markit-uk-construction-pmi-for-july-2017-8</url>
+  <title>Growth in Britain's construction sector slows to levels not seen since just after the Brexit vote</title>
+  <content>
+LONDON - Growth in Britain's construction sector slumped to its lowest level since the immediate aftermath of the Brexit referendum in July,
+
+IHS Markit and CIPS' latest PMI release for the construction sector - which measures expectations of growth - came in at 51.9 for the month of July.
+
+That was down from a reading of 54.8 in June, and even further below the 56 reading from May.
+
+"UK construction companies recorded another growth slowdown in July, reflecting lower volumes of commercial building and a softer expansion of housing activity," a release said.
+
+"The latest survey also revealed a reduction in new business volumes for the first time since August 2016, which acted as a headwind to job creation and input buying across the construction sector."
+
+The purchasing managers index (PMI) figures from IHS Markit are given as a number between 0 and 100. Anything above 50 signals growth, while anything below means a contraction in activity - so the higher the number is, the better things look for the UK.
+
+Here is the chart:
+
+More follows ...
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 2016</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CIPS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

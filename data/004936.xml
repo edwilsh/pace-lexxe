@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406133680118197</docid>
+  <date>01/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/policy/education/navitas-profit-falls-11pc-on-foreign-exchange-hits-college-closures-20170731-gxmdhi</url>
+  <title>Navitas profit falls 11pc on foreign exchange hits, college closures</title>
+  <content>
+Navitas' share price fell 11 per cent on Wednesday after the company reported an 11 per cent drop in net profit after tax and a 5 per cent fall in group revenue in the year to June 30, 2017.
+The company blamed foreign exchange impacts and the continuing impact of the closure of its Sydney colleges run in partnership with Macquarie University and Curtin University for the poor result.
+"The results are a little bit messy with whole range of things," said Navitas CEO Rod Jones.
+But Mr Jones stressed the results were in line  given to the market.
+
+The largest earnings hit was in Navitas' university partnerships division which saw earnings before interest, tax, depreciation and amortisatin fall 11 per cent to $131.2 million compared to the previous year.
+
+The division, which brings in 60 per cent of Navitas' earnings and delivers higher education courses in partnership with universities suffered from the and the election of US president Donald Trump which has turned international students away from studying in the UK and the US.
+Falls in student enrolments in the UK and the US were offset by strong growth in Navitas colleges in Australia, New Zealand and Canada, which are strong magnets for international students in the current environment. Enrolment in Australia and New Zealand grew 16 per cent, the company said.
+But Navitas' other division, careers and industry which includes vocational education courses as well as professional and English programs, saw earnings grow with EBITDA up 13 per cent to $61 million in FY17.
+There was a $3 million hit profit from the company's continuing value added tax dispute in the UK where Navitas lost a court case over disputed payments back to 2011. The company is appealing the decision.
+
+Overall, Navitas group revenue fell 5 per cent to $955.2 million, and group EBITDA fell 6 per cent to $155 million. On a pro-forma basis, which includes joint venture earnings and ignores a $4.6 million hit from foreign exchange movements, EBITDA was down 1 per cent to $161 million.
+The company reported earnings per share of 22.1 cents for FY17, down from 24 cents for FY16. The full year dividend per share was 19.5 cents, the same as FY16.
+Navitas said its FY18 outlook would be affected by the loss of Adult Migrant English Program contracts in NSW worth $14 million over the year, as well as by the closed colleges in Sydney which would contribute no income in FY18.
+Navitas shares were trading at $4.42 at 1pm Wednesday, down 11 per cent on Tuesday's close.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adult Migrant English Program</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Jones</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Navitas</name>
+    <count>10</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY17</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY16</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY18</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Navitas CEO Rod Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Curtin University</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

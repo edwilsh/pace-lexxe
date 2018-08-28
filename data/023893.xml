@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445007429709327</docid>
+  <date>07/08/2017</date>
+  <time>13:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/financial-services/cba-looks-at-new-transaction-monitoring-software-20170807-gxqsi4</url>
+  <title>CBA looks at new transaction monitoring software </title>
+  <content>
+Commonwealth Bank of Australia is considering using new software to improve the way it monitors suspicious activity throughout the bank, suggesting the money-laundering scandal could be a tipping point that breaks down CBA's insular approach to technology development.
+With AUSTRAC suing , the bank has been exploring how new regulatory technology being developed outside the bank might be incorporated into its .
+CBA sought a meeting with three members of the new RegTech Association six weeks ago to get a briefing on developments in the niche area, where new technologies are being developed to identify unusual transaction patterns, provide staff with collaboration tools and enhance quality of data feeding into its system - all areas where the AUSTRAC case reveals significant shortcomings at the bank.
+Several regtech start-ups have been invited to meet with CBA in the coming weeks as it explores options to bolster its surveillance capability after AUSTRAC's case revealed failings in responding to alerts being made by its transaction monitoring system.
+
+Cole Bennetts
+
+The moves suggest CBA is trying to adapt the culture of its technology development towards one of more openness, given the bank has maintained a reputation among fintech start-ups for several years as being something of a closed shop with a "build it ourselves" approach to its systems. Other banks have also been reluctant to embrace innovative technology in their back-end systems, preferring to spend money on customer-facing mobile applications.
+
+"Regtech players have been finding it extremely difficult to work with the big four banks and the other top 10 financial institution in Australia," says Harold Lucero, a member of the RegTech Association's advisory board.
+"The problem is banks have a siloed approach. Different areas have different systems, and they don't talk to one another. Regtech solutions allow information to be aggregated across systems. I hope this [CBA] situation highlights the need for further collaboration between industry, regulators and vendors on ways to prevent money laundering."
+Anti-money-laundering monitoring typically follows an overnight batching process where the details of account transfers are put through a data warehouse before being fed into the monitoring system. Based on rules programmed into the system, violation alerts are produced, and are examined by teams of analysts.  that the Federal Court would determine whether the bank's transaction monitoring algorithms were "good enough".
+But regtech software can help banks do better, including testing and auditing their algorithms. For example, Artic Intelligence, which is based in , has built an independent review program that performs control testing to assess that surveillance systems have been implemented properly and are operating effectively. It also helps with remediation of problems, including monitoring how quickly internal teams respond to risks.
+
+Multiple lines of defence
+
+. For example, when one teller reported suspicious deposits at a branch in Sydney, it took a month for this to be investigated by the Anti Money Laundering Team. In other situations, the AML team sought accounts to be closed but they remained opened and the laundering continued.
+Other regtechs have built tools to facilitate collaboration. For example, Riskflo, another Stone & Chalk resident, has developed a tool known as the Discovery platform, which can be used to ensure all people who deal with fraud risk within the bank are on the same page with respect to alerts and information and follow-up actions
+Another example of a start-up based in Stone & Chalk that has developed a tool that could enhance the anti-money-laundering compliance process is Simple KYC. Its technology does pattern matching on beneficial owners of companies by tapping into company register databases.
+
+With Ms on the same day that passed into the same accounts, Simple KYC's software could help banks understand the true ownership behind company accounts in a more-automated fashion.
+"It is a smatter of multiple solutions being integrated, to create multiple lines of defence," says Simple KYC founder Eric Frost when asked how banks generally need to think about increasing their anti-money- laundering defences.
+"When technology systems help with risk identification, people can then be freed up, so instead of dealing with day-to-day grunt work they can spend time on risk flags and enhanced due diligence. Generically, these sorts of events raise awareness to understand the point that regulation is not a tick-the-box exercise. This incident raises awareness and starts making regtech solutions more of a must-have to evaluate, rather than a nice-to-have."
+Another , with offices in Sydney, Hong Kong and Singapore, has been working closely with that moves money across borders, including for CBA. identitii's technology enhances the information in SWIFT messages, which feed back into bank detection systems, making them more accurate.
+
+Martin Rogers, chief investment officer for KTM Ventures Innovation Fund and an investor in identitii, says "much of the big-bank legacy IT infrastructure is not able to cope with increasing anti-money-laundering and counter-terrorism financing demands from governments. That's why new, innovative software solutions are being developed to help banks meet compliance requirements".
+RegTech Association chair Julian Fenwick says it will be imperative for all banks, including CBA, to produce more-powerful technology systems that can pick up patterns of unusual behaviour, in collaboration with technology companies working outside the banks. He acknowledges many start-ups are not sophisticated enough to begin the relationship, and says his association is working to lift skills. But at the same time, he says banks and regulators are too conservative when assessing new technology.
+"None of the big financial institutions are innovation ready," Mr Fenwick says. "The conversation needs to be around what are the hurdles - whether it be procurement, or cloud risk assessment, or penetration testing - that is preventing the large institutions trying innovative approaches to make sure suspicious matter reporting is embedded into the software."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ms</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Artic Intelligence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simple KYC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin Rogers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eric Frost</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KYC</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harold Lucero</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Fenwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RegTech</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Swift</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KTM Ventures Innovation Fund</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Riskflo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Julian Fenwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AML</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anti-Money Laundering Team</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RegTech Association</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Cole Bennetts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

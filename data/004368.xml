@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405528089719861</docid>
+  <date>01/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/crash-pilots-thought-each-other-in-charge/8763534</url>
+  <title>Two Tasmanian pilots failed to plan flight, thought each other in charge, crash report finds</title>
+  <content>
+Related Story:
+
+A pilot and his co-pilot whose light plane crashed in Tasmania's north-east last year thought each other was in command, an investigation has found.
+Last July, the two pilots left the Bridport Aerodrome in an amateur-built Europa Aircraft Classic on a flight to familiarise the new owner with the plane.
+The pilots had to do a forced landing in a paddock after the engine stopped.
+One man from Scottsdale was taken to hospital with spinal injuries while his co-pilot from Launceston walked away with only minor injuries.
+At the time of the crash, police said the men were lucky to be alive.
+The Australian Transport Safety Bureau (ATSB) said inadequate communication between the pilots resulted in the plane taking off with no defined flight plan, no pre-flight brief and each pilot believing the other was in command.
+
+The ATSB also found low fuel levels onboard the two-seater plane had the potential to interrupt the fuel flow to the engine.
+"The lack of a flight plan prevented the pilots from ensuring there was sufficient fuel and reserves available to ensure safe flight," the report said.
+"In addition, in-flight fuel monitoring was not sufficient to identify low fuel quantity and ensure fuel supply to the engine was not interrupted.
+"Good communication between the pilots, observing recommended operating procedures and effective flight planning will all help to reduce risk and enable safe flying."
+The ATSB said the accident highlighted the importance of pre-flight planning.
+"Pilots should ensure that every flight is appropriately planned for, utilising accurate flight times and fuel calculations."
+"Once airborne, the continual monitoring of time and remaining fuel should be conducted."
+The investigation found neither pilot understood the fuel system.
+Examination of the wreckage identified no pre-existing mechanical defects that might have contributed to the engine shutdown.
+
+External Link:
+
+Bridport plane crash report
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Europa Aircraft Classic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bridport</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Scottsdale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATSB</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Launceston</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bridport Aerodrome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Transport Safety Bureau</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

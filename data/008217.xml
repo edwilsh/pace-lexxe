@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411717137709380</docid>
+  <date>02/08/2017</date>
+  <time>04:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/genworth-profit-down-as-delinquencies-rise/news-story/012254d9ba30abdb9340aaa5bae50d7b</url>
+  <title>Mortage insurer sees rise in delinquencies</title>
+  <content>
+Genworth Mortgage Insurance says delinquencies are on the rise in Queensland and Western Australia due to a slowdown in the resources sector.
+The company's net profit in the six months to June dropped 35 per cent to $88.7 million, with chief executive Georgette Nicholas partly blaming rising mortgage delinquencies in mining regions.
+NSW and Victoria continue to perform strongly, but conditions in Queensland and WA are challenging, the company said.
+Genworth shares were boosted by the company's announcement of a buyback of up to $100 million of its shares, which based on their price on Tuesday represents 6.5 per cent of the company's issued share capital.
+Genworth shares were up 15.5 cents, or 5.1 per cent, at $3.175 at 1320 AEST.
+Ms Nicholas said the company expects its gross written premium in 2017 to be lower than in 2016, and net earned premium to fall by up to 15 per cent.
+"Despite some challenging market dynamics, including elevated mortgage delinquencies in resource-exposed regional economies and a smaller high loan-to-value ratio (LVR) market, our profitability remains strong," she said in a statement.
+The company highlighted an elevated underemployment rate, subdued wages growth and low inflation as factors that could fuel more delinquencies in WA and Queensland.
+"These labour market dynamics are increasing the instance of mortgage stress in certain regional economies and Genworth expects these trends to drive elevated mortgage delinquencies in these regions in 2017," it said.
+"Mortgage interest rate increases, particularly for investor and interest only loans, and recent changes to minimum bank equity requirements may also impact price growth this year," Genworth said.
+GENWORTH HIGHLIGHTS CHALLENGING MORTGAGE MARKET
+* Half year net profit down 35pct to $88.7m
+* Revenue down 20pct to $294.5m
+* Interim dividend down two cents to 12 cents, plus 2 cent special dividend
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LVR</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>GENWORTH HIGHLIGHTS CHALLENGING MORTGAGE MARKET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Georgette Nicholas</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Nicholas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Mortgage Insurance</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Genworth</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

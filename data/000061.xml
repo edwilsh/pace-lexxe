@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397801443424490</docid>
+  <date>30/07/2017</date>
+  <time>22:00</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/driver-on-ice-crashes-into-port-pirie-playground-during-police-chase-narrowly-misses-child-and-man/news-story/e576caed63cc01f471a8e2c7c1525ded</url>
+  <title>Driver on ice crashes into playground, misses child</title>
+  <content>
+A MOTORIST on ice allegedly fleeing police has been arrested after he crashed his car into a Port Pirie playground and narrowly avoided hitting a small child.
+The man was driving a defected and unregistered car along The Terrace when he was spotted by a patrol at about 5.15pm on Sunday, prompting police to signal the car to pull over.
+Instead, it sped off.
+The car crashed through a nearby fence and continued along Gordon St where it smashed through another fence into Woodward Park.
+A child and a man were at the playground when the car crashed but narrowly avoided being hit, SA Police say.
+The 23-year-old man ran from the playground and was found by officers in a nearby backyard.
+He was arrested and charged with multiple driving offences, including drive unregistered, disqualified, contrary to defect, to escape police pursuit, in a manner dangerous and unlawfully on premises and resist arrest.
+The Port Pirie man also tested positive to methamphetamine.
+He was refused police bail and will appear in the Port Pirie Magistrates Court on Monday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woodward Park</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Pirie Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Pirie</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gordon St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

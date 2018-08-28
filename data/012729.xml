@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419276280290338</docid>
+  <date>03/08/2017</date>
+  <time>09:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/rob-pyne-sets-sights-on-second-queensland-mayor-to-make-corruption-allegations-against/news-story/e469556cb26420b769472608fea960bf</url>
+  <title>Pyne has another in his sights</title>
+  <content>
+INDEPENDENT MP Rob Pyne plans to use parliamentary privilege to accuse a second Queensland mayor of corruption next week.
+The Member for Cairns used the same technique in June to level claims against former Ipswich mayor Paul Pisasale, who is now defending criminal charges, including extortion, which have no links to the allegations made by Mr Pyne in Parliament.
+Mr Pyne planned to use an election fundraiser last night to announce his intention to make the shocking allegations against a "high profile" Queensland mayor.
+"The more of these people who are brought to book, the better," he told the Cairns Post.
+"Back when I left the Labor Party in 2015, I said there needed to be an inquiry into corruption in local government. More and more Queenslanders are calling for such an inquiry into government administration at all levels."
+Mr Pyne intends to make the accusations during parliament on Wednesday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Labour Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Pisasale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MP Rob Pyne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Pyne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queenslanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Pyne</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

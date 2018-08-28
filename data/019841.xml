@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437010200505696</docid>
+  <date>06/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/crane-collapses-on-sydney-building/news-story/8dca6dc4bdef176a003bfcc764bb40b2</url>
+  <title>Crane collapses on Sydney building</title>
+  <content>
+Australian Associated Press
+
+Share
+
+Two people have been taken to hospital after a crane collapsed onto an apartment block in Sydney's south.
+Police were called to Brodie Spark Drive at Wolli Creek after 9.30am on Sunday, following reports a crane had fallen off one building and crashed into another.
+A resident, Felicia Nguyen, told Fairfax Media the crane fell onto a penthouse apartment, crushing a balcony.
+Police say no one was inside the crane at the time.
+An ambulance spokesman told AAP two people had been taken to St George Hospital, with one of them suffering a leg injury.
+Fire and Rescue NSW superintendent Josh Turner told reporters four buildings had been evacuated while they figure out how to remove the crane.
+Emergency services have created an exclusion zone in the area with the airport line partially closed between Central and Turrella on Sunday afternoon.
+Police have advised people to check www.livetraffic.com.au for updates on road closures.
+</content>
+  <sindexList>
+  <sindex>
+    <name>St George's Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brodie Spark Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wolli Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Felicia Nguyen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turrella</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rescue NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Josh Turner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441704599806961</docid>
+  <date>07/08/2017</date>
+  <time>00:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/nautitech-mining-systems-showcase-new-technology-aimex/</url>
+  <title>Nautitech Mining Systems to showcase new technology at AIMEX - Australian Mining</title>
+  <content>
+Latest News
+
+Devoted to the design and manufacture of products that improve safety and productivity in hazardous areas, Nautitech Mining Systems will display four new and innovative products at AIMEX, held this year in Sydney on August 29-31.
+Showcasing their latest innovations aimed at providing those who work in hazardous environments access to reliable, real-time and fit for purpose communications, Nautitech's newest products aim to increase productivity, autonomous mining and safety.
+The exciting new products Nautitech will be showcasing at AIMEX this year are:
+CUBEx Intrinsically Safe System
+The CUBEx Intrinsically Safe System forms part of Nautitech's suite of Intrinsically Safe modular products which deliver outstanding advantages to the industry by increasing safety and productivity in hazardous areas (Group 1 and Zone 0). This range includes fully Intrinsically Safe products such as the Methane Shutdown and Start-up systems, Lights, Controllers, Intelligent Sensors and Power Supplies. 
+Thermal Camera with Analytics
+Nautitech's thermal cameras allow critical decision-making in hazardous areas with impaired visibility due to fog, dust, heat or darkness. The latest innovation includes a thermal camera with analytics for smarter decision-making and improved safety through continuous real-time detection and data analysis. These new thermal cameras are able to detect a pedestrian or combustion hazard and initiate a visual, an audible alarm or de-rate machinery, due to its analytic capabilities. These thermal cameras also have video streaming and are able to continuously record up to 72 hours to a remote location and provide clear situational assessment.
+Spitfire Wingman
+The Spitfire Wingman is the latest addition to Nautitech's Spitfire Broadband Power Line Modems (BPLMs) range which helps monitor, diagnose, configure and update underground equipment from the surface or other locations in the mine. Its remote access allows visibility of the entire network structure of all Spitfire BPLMs at a glance as well as access to key Spitfire performance metrics, configure repeater networks, or upgrade Spitfire software - all from a PC on the surface.
+Ranger 10" Display
+The new Ranger 10" display joins Nautitech's existing range of 3.5" and 7" displays and allows the user to toggle between two views and access to multiple viewing combinations of HD and thermal cameras.
+Nautitech's latest products build on the concept of 'the underground internet of things' and highlight the organisation's objective to find new ways to build on the capabilities and functionalities of their products to make better decisions within certain criteria, communicate to the cloud and give users access to insightful data.
+You can find Nautitech Mining Systems on the exhibition floor at AIMEX at stand 4924 and hear Alex Lester GM of Nautitech on the Building Bridges for Greater Mining Success Panel Discussion on Thursday 31 August at 10:30am. For more information and to register to attend, visit www.aimex.com.au.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Group 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nautitech Mining Systems</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Power Supply</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Sensors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BPLMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zone 0</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spitfire Wingman</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intrinsically Safe</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nautitech</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Methane Shutdown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Building Bridges</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spitfire</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Start-up</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ranger 10</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday 31 August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex Lester GM of Nautitech</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nautitech's Spitfire Broadband Power Line Modems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greater Mining Success Panel Discussion</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AIMEX</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CUBEx Intrinsically Safe System</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spitfire BPLMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417983495111288</docid>
+  <date>03/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/near-miss-for-jets-at-san-fran-airport/news-story/81f137ded91f507989232a6eb24d0d9b</url>
+  <title>Near miss for jets at San Fran airport</title>
+  <content>
+Newly released photos show just how close an Air Canada jet came to crashing into other planes as it tried to land in San Francisco last month.
+As the Air Canada jet streaked toward a taxiway at San Francisco International Airport, it was as low as 59 feet (18 meters) above ground.
+That's barely taller than four planes that were on that taxiway and waiting to take off.
+Pilots in one of the planes alerted air traffic controllers about the off-course jet.
+The crew of another plane switched on its landing lights in an apparent last-ditch danger signal.
+The Air Canada pilots pulled up and flew over the other planes just in time.
+Federal officials released the photos and new details about the July 7 incident on Wednesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>San Francisco International Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JULY 7</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Air Canada</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>San Fran</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

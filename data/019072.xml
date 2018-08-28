@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435206314226228</docid>
+  <date>05/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/09/00/man-found-dead-in-melbourne-house</url>
+  <title>Man found dead in Melbourne house</title>
+  <content>
+A man has died and a woman has been found injured at a house in Melbourne's west.
+Police say the man died at the house at McGregor Court in Sunshine West about 8.30pm on Saturday night and the woman was found with "non-life threatening" injuries.
+The circumstances around the death are being investigated by the homicide squad.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>McGregor Court</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine West</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

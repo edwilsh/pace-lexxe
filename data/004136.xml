@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403900297088652</docid>
+  <date>31/07/2017</date>
+  <time>21:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/07/36/bae-chooses-vic-for-land-400-bid</url>
+  <title>BAE chooses Vic for Land 400 bid</title>
+  <content>
+Victoria is set to announce BAE Systems will take over the old Holden factory at Fisherman's Bend in a bid to win a huge Defence contract.
+The company is one of the short listed bidders for the Land 400 AMV35 military vehicles, and it has chosen Victoria as the state it wants to build them in if it wins the deal.
+"Today we will announce that BAE Systems, which is one of the short listed bidders, will in fact choose Victoria and the former Holden site at Fisherman's Bend," Industry Minister Wade Noonan told 3AW on Tuesday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>BAE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister Wade Noonan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BAE Systems</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fisherman's Bend</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Land 400 AMV35</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Land 400</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

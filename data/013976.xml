@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422836808252311</docid>
+  <date>03/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>true</isTopNews>
+  <source>PC Magazine Australia</source>
+  <url>http://au.pcmag.com/security-4/49139/news/uk-researcher-who-stopped-wannacry-indicted-in-us</url>
+  <title>UK Researcher Who Stopped WannaCry Indicted in US</title>
+  <content>
+A researcher who played a role in  of the WannaCry  has been indicted by US authorities for allegedly creating the Kronos malware with another individual.
+As , UK-based researcher Marcus Hutchins,  as MalwareTech, was arrested in Las Vegas this week, where he was attending the  and Defcon security conferences.
+
+The , filed on July 11 in Wisconsin District Court, says that "Defendant Marcus Hutchins created the Kronos malware," alongside another person, whose name has been redacted from the filing. Between July 2014 and July 2015, the two "intentionally cause[d] damage without authorization to 10 or more protected computers," it says.
+
+A spokeswoman for the FBI's Nevada office referred PCMag to the Department of Justice, which did not immediately respond to a request for comment.
+
+Hutchins made headlines in May when he stopped the spread of the  by accident. He noticed the ransomware "queried an unregistered domain, which I promptly registered." But WannaCry looks to connect to that unregistered domain. If it can't connect, "it ransoms the system," MalwareTech explained. If it connects to the domain, though, "the malware exits" and the system is not compromised. After the registration, WannaCry connected to the domain and was stopped in its tracks.
+
+According to the indictment, Hutchins's alleged co-conspirator posted a video that demonstrated how the Kronos malware worked on July 13, 2014. The person then offered to sell the Kronos banking trojan for $3,000 "on an internet forum."
+
+Hutchins reportedly helped this person update the Kronos malware in February 2015, after which it was advertised for sale on the () AlphaBay dark web forum. In June 2015, it sold for about $20,000 in digital currency, the indictment says.
+
+As some have  online, Hutchins requested a Kronos sample on the day the video in question went up.
+
+Anyone got a kronos sample?
+
+Fellow researcher Andrew Mabbitt, who  to Las Vegas with Hutchins and several other colleagues,  he refuses to believe the charges. "He spent his career stopping malware, not writing it," Mabbitt says of Hutchins.
+
+Mabbitt says he will be "crowdfunding legal fees soon." The Electronic Frontier Foundation, which often steps in to assist with cases like this,  that it is "deeply concerned about security researcher Marcus Hutchins' arrest. We are looking into the matter, and reaching out to Hutchins."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Defendant Marcus Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK Researcher Who Stopped WannaCry Indicted</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Mabbitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electronic Frontier Foundation</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 13</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wisconsin District Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 2015</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PCMag</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MalwareTech</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mabbitt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2014</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBay</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI's Nevada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

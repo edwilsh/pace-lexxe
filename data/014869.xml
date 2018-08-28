@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423609902378488</docid>
+  <date>04/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/messenger/karidis-loses-bid-for-multimillion-retirement-village-expansion-in-the-west/news-story/a3ef3f366e589b9fe3192dcb077491d6</url>
+  <title>Karidis loses bid for village expansion</title>
+  <content>
+ONE of Adelaide's most prominent developers has lost a fight to build 12 more apartments at a Lockleys retirement village.
+The Environment Resources and Development Court has dismissed Karidis Corporation's appeal against a West Torrens Council development assessment panel decision last year to reject the project.
+The developer wanted to build a three-storey apartment building with 12 apartments and a community centre on a 3800sq m block at Henley Beach Rd.
+The council had already allowed nine units and a community centre as part of the first stage of the retirement village.
+In its judgment last month, the court found the development had "an unacceptable impact upon the character and amenity of the locality", exceeded the building height and did not provide enough carparks or open space.
+"We consider that it would have been reasonable for a building on the subject land to exceed the height of the predominant single-storey dwelling features of the wider locality, and indeed potentially exceed the anticipated two-storey maximum building height, provided that the design features and siting of such a building were not visually overbearing ... (and) did not dominate the streetscape," the judgment said.
+In the Karidis appeal, planning consultant Chris Vounanas argued the building was "not out of character" and was "compatible" with the height of the neighbouring church.
+The Karidis Corporation's Peter Karidis said the company was now "reviewing its options and the next steps".
+</content>
+  <sindexList>
+  <sindex>
+    <name>West Torrens Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lockleys</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Development Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Henley Beach Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Environment Resources</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Karidis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karidis Corporation's Peter Karidis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karidis Corporation</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Chris Vounanas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441962297848180</docid>
+  <date>07/08/2017</date>
+  <time>01:22</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/tiny-gold-flecks-may-help-fight-cancer/news-story/9ab54a8e4cce5810323b2d0c5056e845</url>
+  <title>Tiny gold flecks may help fight cancer</title>
+  <content>
+Press Association
+
+Share
+
+Tiny flecks of gold could be used in the fight against lung cancer, new research suggests.
+Scientists at the University of Edinburgh have just completed a study which shows the precious metal increased the effectiveness of drugs used to treat lung cancer cells.
+Minute fragments, known as gold nanoparticles, were encased in a chemical device by the research team.
+While this has not yet been tested on humans, it is hoped such a device could one day be used to reduce side effects of current chemotherapy treatments by precisely targeting diseased cells without damaging healthy tissue.
+Gold is a safe chemical element and has the ability to accelerate - or catalyse - chemical reactions.
+The researchers discovered properties of the metal that allow these catalytic abilities to be accessed in living things without any side effects.
+The device was shown to be effective after being implanted in the brain of a zebrafish, suggesting it can be used in living animals
+The study was carried out in collaboration with researchers at the University of Zaragoza's Institute of Nanoscience of Aragon in Spain, with funding coming from Cancer Research UK (CRUK), and the Engineering and Physical Sciences Research Council.
+Dr Asier Unciti-Broceta, from the University of Edinburgh's CRUK Edinburgh Centre, said: "We have discovered new properties of gold that were previously unknown and our findings suggest that the metal could be used to release drugs inside tumours very safely.
+
+"There is still work to do before we can use this on patients, but this study is a step forward. We hope that a similar device in humans could one day be implanted by surgeons to activate chemotherapy directly in tumours and reduce harmful effects to healthy organs."
+The research has been published in the scientific journal Angewandte Chemie.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Physical Sciences Research Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CRUK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aragon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Zaragoza</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CRUK Edinburgh Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Institute of Nanoscience</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Press Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Angewandte Chemie</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>University of Edinburgh</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cancer Research UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Asier Unciti-Broceta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

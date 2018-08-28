@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409612603698104</docid>
+  <date>01/08/2017</date>
+  <time>19:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/trump-yet-to-sign-russia-sanctions-bill/news-story/2107c4da85719bdc17e8ccc2abc3c27f</url>
+  <title>Trump yet to sign Russia sanctions bill</title>
+  <content>
+The White House says President Donald Trump has not yet signed a sanctions bill that landed on his desk last week, which includes new sanctions on Russia.
+Press secretary Sarah Huckabee Sanders told reporters on Tuesday the president "has not" signed it, but "he will".
+She said "there's a review process, a legal process".
+A White House statement on Friday said Trump "has now reviewed the final version and, based on its responsiveness to his negotiations, approves the bill and intends to sign it".
+The package of stiff financial sanctions against Russia passed Congress with overwhelming support.
+Moscow responded to the White House statement last weekend by ordering a reduction in the number of US diplomats in Russia.
+Separately US Secretary of State Rex Tillerson said on Tuesday he would meet with Russian Foreign Minister Sergei Lavrov in Manila at the weekend, their first meeting since Russia ordered the United States to cut its diplomatic staff by 755.
+"Of course it make our life more difficult," Tillerson told reporters at the State Department when asked about the Russian action.
+He said he had talked to Lavrov by phone and would be meeting with him face to face this weekend on the margins of meetings of the Association of Southeast Asian Nations in Manila.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Association of Southeast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian Nations</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian Foreign Minister Sergei Lavrov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lavrov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Huckabee Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MANILA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

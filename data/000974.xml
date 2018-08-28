@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398952494675393</docid>
+  <date>31/07/2017</date>
+  <time>02:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-07-31/detecting-disease-in-breath-with-world-smallest-breathalyser/8759050</url>
+  <title>Technology to detect disease in human breath could be coming to your smartphone</title>
+  <content>
+Related Story:
+
+Related Story:
+
+Dogs can smell things that humans cannot ... like happiness, anger, stress and pregnancy.
+That's the idea behind a new kind of breathalyser - one that would be much smaller and more sensitive than those used by police on the side of the road.
+Noushin Nasiri, a material engineer at the University of Technology Sydney, is trying to develop what would be the world's smallest sensor for detecting disease in a person's breath.
+Using nanotechnology, she's fabricating the "science behind a dog's nose" into a rectangular disk that one day might be able to slot into your smartphone, analyse your breath and tell you if it detects an illness.
+
+"Any change that happens in your body produces a biomarker, and that biomarker, because it has a high vapour pressure, finds a way to come out of your body through your urine, sweat, tears, saliva - or through your breath," Dr Nasiri explained.
+"If you go for a blood test, it can take like two weeks to get results.
+"But breath analysis is non-invasive, no needle, no injection. It's very cheap because you can have it in your phone so you don't need to spend money on hospitalisation and tests."
+Dr Nasiri was born in Iran and completed her PhD at the Australian National University before joining UTS as a postdoctoral fellow.
+She said while other researchers were also developing breath sensors, she was not aware of any other scientist trying to build one as small.
+What diseases can you detect?
+
+There are currently 17 diseases found to have clear biomarkers in human breath.
+They include diabetes, lung cancer, breast cancer, Parkinson's disease, asthma, schizophrenia, and kidney and liver failure.
+High acetone levels in the breath, for example, is a biomarker of diabetes, while for lung cancer, researchers know of 16 biomarkers.
+
+By detecting disease in human breath, Dr Nasiri said there was a higher chance of early detection before the disease entered your blood or spread enough to be picked up in an MRI in the case of cancer.
+"We're trying to detect the disease immediately; you breathe and we give you the results," she said.
+"When you have lung cancer, it is usually found at stage 4, and you might only have about 10 per cent [chance] of recovering, sometimes 6 per cent.
+"But if the earliest time I can find the disease is in your breath, then you have an 80 per cent [chance] of recovery."
+The science in the sensor
+
+The basic sensor is layered with a chemical material sensitive or reactive to the unique biomarker.
+Acetone has a significant reaction with tin oxide, for example, and no other chemical.
+By using nanotechnology, Dr Nasiri can make the sensor supersensitive to the nanoparticles in breath and calculate the concentration of that biomarker.
+"When you have diabetes, the concentration of acetone in your breath is one particle per billion, or one particle per million depending on the different type of disease," Dr Nasiri said.
+"It means the sensor should be sensitive to detect one drop of dye in an Olympic-sized swimming pool."
+
+When can we start using it?
+
+Dr Nasiri believes she is about three years away from the base product hitting the market.
+"At this stage we're aiming to be able to detect four to eight diseases, it's quite tough," she said.
+"The whole fabrication is quite similar, so once you make [a sensor] for one of them, the only thing that is different is the science behind the nanolayer on the sensor."
+Her goal is to eventually develop a sensor that will detect up to 10 diseases in one breath, with the results delivered via an app on your phone.
+"To make it as small as a phone or RBT we need more investigation," she said.
+"To make it the size of a portable device that can be installed in front of drugstores or clinics, we're not very far [away]."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MRI</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UTS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Noushin Nasiri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PhD</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RBT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parkinson</name>
+    <count>1</count>
+    <score>-12</score>
+  </sindex>
+  <sindex>
+    <name>Olympic-sized</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Nasiri</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

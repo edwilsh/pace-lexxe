@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414186743951325</docid>
+  <date>02/08/2017</date>
+  <time>13:35</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/leadership/entrepreneur/australians-are-worlds-biggest-cyberattack-ransom-payers-malwarebytes-survey-20170802-gxnqb7</url>
+  <title>We're suckers for ransomware</title>
+  <content>
+Australian small-to-medium enterprises are nearly twice as likely to pay a ransom demanded by cyber criminals as are their counterparts offshore, even though only 40 per cent of those who didn't pay actually lost any files.
+The level of corporate alarm at so-called "ransomware'' has increased in the wake of 2017's , where thousands of businesses and government organisations worldwide had their files locked up (or "encrypted") pending payment for their release.
+However, too many Australian businesses continue to respond naively to ransomware attacks by paying the ransom, where doing so usually makes the problem worse, according to Jim Cook, regional director for Malwarebytes, a cyber security company.
+Malwarebytes commissioned a survey on ransomware responses and readiness of businesses with less than 1000 employees, quizzing 1054 executives across North America, France, Germany, Britain, Singapore and 175 from Australia.
+
+Of the 31 per cent of local respondents that had experienced a ransomware breach in the previous year, 45 per cent paid the criminals in order to decrypt their files, versus a survey average of just 28 per cent.
+
+The French and Germans are least likely to pay, at 16 and 17 per cent respectively, and they had the right idea, according to Malwarebytes' senior systems engineer Brett Callaughan.
+"All the evidence points to paying the ransom merely increasing the likelihood you'll be attacked again," Mr Callaughan said.
+No deterrence
+
+While funnelling bitcoin to the virtual wallet of the cyber criminal will usually produce a "key" through which files can be unlocked, the payment does nothing to get rid of the ransomware infection being hosted by the victim's computer network.
+
+"Usually the only solution is to wipe the machine and start again, so unless you're a hospital and there's lives at stake, there's no point paying the ransom in the first place," he said.
+As further justification for his advice to never pay a ransom, Mr Callaughan pointed to survey results showing 60 per cent of local attack victims who chose not to pay up did not lose any files. Much ransomware was also poorly coded, and produced keys not capable of decrypting files anyway, he added.
+Most modern operating systems backed up data to the cloud in real time anyway, he said, naming Google for Business and Microsoft as two popular systems that did so.
+The ransoms demanded by the cyber criminals tend to be modest, with 45 per cent of Australian victims reporting a ransom of $500 or less, and only 10 per cent a ransom of $5000 or more.
+
+A bigger problem is the downtime suffered by any organisation that gets a ransomware infection - the survey found 79 per cent of those impacted were out of business for nine hours or more.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jim Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brett Callaughan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Callaughan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malwarebytes</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

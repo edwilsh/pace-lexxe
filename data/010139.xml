@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415720047307617</docid>
+  <date>02/08/2017</date>
+  <time>19:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/hbo-hackers-stole-thousands-of-internal-company-documents-2017-8</url>
+  <title>The HBO hackers stole 'thousands' of internal company documents</title>
+  <content>
+The  now appears worse than initial leaks, which included unaired episodes of HBO shows including "Ballers" and "Insecure" as well a script for the next episode of "Game of Thrones."
+
+that security company IP Echelon - which frequently works for HBO to remove infringing content from Google - determined that hackers stole "thousands of Home Box Office (HBO) internal company documents." The security company also said that the hackers took "masses of copyrighted items including documents, images, videos and sound."
+
+The alleged hackers - going by the name  - already leaked personal information about a senior HBO executive, and claim to have access to HBO's network infrastructure, which could compromise internal documents, employee data, and emails.
+
+At this point, the HBO hack seems a bit reflective of the 2014 Sony Pictures hacks, which have been  one of the "worst cyber attacks in corporate history." Those hacks, which included company email leaks, resulted in the head of Sony Pictures, Amy Pascal,
+
+"Data protection is a top priority at HBO, and we take seriously our responsibility to protect the data we hold," HBO told Variety in a statement.
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IP Echelon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>9</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Amy Pascal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sony Pictures</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Home Box Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

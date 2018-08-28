@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410639100901776</docid>
+  <date>01/08/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/video-released-in-probe-of-sydney-fires/news-story/82291778fa35714fb38c004f7763f68a</url>
+  <title>Video released in Obeid-linked fires probe</title>
+  <content>
+Dramatic security footage appears to show two people pouring fuel around a western Sydney function centre linked to the Obeid family.
+The vision was released by NSW police on Wednesday as part of an appeal for information about two suspicious fires at the Bellevue Reception Centre in Bankstown.
+The fires happened almost a week apart in December 2016 and January 2017.
+AAP understands the reception centre is owned by the company Redpoc, whose directors are Paul Obeid, son of corrupt former NSW minister Eddie Obeid and former business partner Walhan Wehbe.
+The first fire was put out relatively quickly early on Boxing Day 2016 but caused major smoke damage.
+The second blaze on January 3 caused major damage to the building.
+The CCTV vision captures two people appearing to pour fuel around the centre's interior and flames engulfing the floor.
+It also shows an XR model Ford utility seen in the area about the time of the fire.
+Detectives want to speak to anyone who recognises the people or the ute.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>XR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Obeid-linked</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bankstown</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Obeid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Redpoc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boxing Day 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 3</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>December 2016</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bellevue Reception Centre</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walhan Wehbe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eddie Obeid</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Paul Obeid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

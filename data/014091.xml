@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422622059883972</docid>
+  <date>03/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/04/08/08/dubai-skyscraper-fire</url>
+  <title>Fire breaks out at 79-storey Dubai skyscraper</title>
+  <content>
+A large fire has ripped through a residential skyscraper in Dubai in the United Arab Emirates.
+Footage posted on social media sites showed flames spreading up a tower, believed to be the Torch building, and burning debris falling down, reports the BBC.
+It was not immediately clear what caused the blaze and how many people may currently be in the building.
+The 79-storey Torch, one of the tallest residential buildings in the world, was damaged by fire in 2015.
+The Dubai Media Office tweeted that firefighting crews were on the scene and evacuating residents.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>United Arab Emirates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai Media Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

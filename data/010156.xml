@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415797356720080</docid>
+  <date>02/08/2017</date>
+  <time>19:50</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/qld/2017/08/03/clive-plamer-assets-freeze/</url>
+  <title>Government liquidators move to freeze Clive Palmer's assets</title>
+  <content>
+Liquidators have reportedly applied to freeze $200 million of Clive Palmer's assets to recoup money taxpayers gave to the former politician's mining business, Queensland Nickel.
+Federal-government appointed liquidators, PPB Advisory, have applied for a Mareva injuction to stop Mr Palmer from spending $200 million of his personal wealth or selling off his businesses and assets, The Courier Mail reports.
+A directions hearing is expected in the Queensland Supreme Court on Thursday.
+A Mareva injuction would also prevent the former federal MP from driving his businesses in the ground.
+PPB Advisory are tasked with trying to recover almost $70 million in taxpayer funds used to cover unpaid entitlements to about 800 workers sacked from Mr Palmer's Queensland Nickel refinery when it collapsed last year.
+The Courier Mail cited documents filed in the Supreme Court of Queensland as revealing that the application applies to 21 defendants, including Mr Palmer and his many business interests.
+"Clive Frederick Palmer must not remove from Australia or in any way dispose of, deal with or diminish the value of any of his assets in Australia up to the unencumbered value of $219,050,604.30, until further order,'' the report cited the application as stating.
+Among Mr Palmers many luxury assets are his super yacht 'Maximus', a fleet of vintage cars, golf courses and his 100 per cent share of Nickel House and associated businesses.
+The PPB Advisory application has also requested that Mr Palmer be forced to live a "reasonable" lifestyle.
+"This order does not prohibit ... Mr Palmer from paying a reasonable amount to be determined by the court on account of living expenses," The Courier Mail quoted that request as saying.
+The application also asks the court to order on the amount Mr Palmer can pay for "reasonable" legal expenses.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr. Palmer</name>
+    <count>6</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>MP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Nickel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Frederick Palmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nickel House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Palmer</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mareva</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Palmer's Queensland Nickel</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PPB Advisory</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Courier-Mail</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MAXIMUS</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

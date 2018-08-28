@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446931575093074</docid>
+  <date>07/08/2017</date>
+  <time>20:39</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/tuesday-pulse-jetstar-announces-flights-between-adelaide-and-hobart-to-commence-later-this-year/news-story/32120073714d7b7e608958b1b16bf014</url>
+  <title>New route flies Adelaide-Hobart</title>
+  <content>
+JETSTAR will offer passengers the chance to fly direct from Adelaide to Hobart, starting later this year.
+Up to 55,000 people are expected to travel annually on the new route, which will operate three times per week starting from November 14.
+Jetstar Group Chief Commercial Officer Catriona Larritt said the service was the first to fly direct between the two cities.
+"Thousands of travellers already travel from Adelaide to Hobart via Melbourne, so we are excited to offer direct low-fares between the two cities, making it even easier to travel," she said.
+"Both Adelaide and Hobart are experiencing record tourism numbers, and we expect inbound tourism to the two cities to further strengthen with the addition of our new flights."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jetstar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jetstar Group Chief Commercial Officer Catriona Larritt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide-Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

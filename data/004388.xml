@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405571039393400</docid>
+  <date>01/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/inner-south/five-youths-arrested-over-alleged-carjacking-in-caulfield/news-story/aed0e8bfd227a96ff0021d45d5c18db1</url>
+  <title>Cops hunt down teens over alleged carjacking</title>
+  <content>
+FOUR teens and a 12-year-old have been arrested almost 700 km away from an alleged carjacking in Caulfield, following a police pursuit.
+Police said two girls and three boys, aged from 12 to 15, were involved in the pursuit, which ended when a 2012 Toyota Camry crashed at Goulburn, New South Wales, at 9am last Friday.
+The 36-year-old owner had bought the car from a Caulfield buyer just hours before he was threatened by a teenager with a bottle about 5.45pm the night before.
+The Doveton victim had left VicRoads to return the transfer papers to the previous owner in Bond St, Caulfield, when he was attacked and his new car was stolen.
+Police believe the five suspects were also linked to the theft of a bike from an elderly disabled man at Caulfield Railway Station at 5.30pm the same evening.
+Police said a 15-year-old Thomastown male was remanded in custody.
+The car wasn't insured.
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomastown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goulburn</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Camry</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Caulfield</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>VicRoads</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Caulfield Railway Station</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Doveton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bond St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

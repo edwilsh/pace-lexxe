@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437783294625744</docid>
+  <date>06/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/passengers-forced-to-wait-three-hours-in-townsville/news-story/3dc0cb9939c4ece6e218f710360eeace</url>
+  <title>Engineering issues ground flight</title>
+  <content>
+TIGERAIR passengers were left waiting on the tarmac in Townsville for about three hours today after the plane suffered engineering issues.
+The service from Townsville to Melbourne was supposed to leave at 11.45am however a fault indicator appeared twice in the cockpit during the "push back" process.
+The flight was then cancelled and is scheduled to depart at 9.30am tomorrow.
+Townsville resident Bernadette Smith, who had purchased $69 airfares earlier this year, said it was disappointing.
+"We planned a four-day trip down, we booked it months ago," she said.
+"We were staying at the Hilton in Melbourne tonight."
+Ms Smith said shortly after boarding, passengers were told there were steering problems.
+"We were on the plane for a few hours, we didn't get off until about 3pm," she said.
+"Everyone had to take their luggage off.
+"Then we get a text saying the flight had been delayed until tomorrow morning."
+Ms Smith said while she was fortunate to be able to go home for the night, accommodation wasn't immediately offered for others.
+"It's better to air on the side of caution," she said.
+An engineer is currently on route from Melbourne to Townsville to perform maintenance on the aircraft overnight.
+A spokesman from Tigerair said the airline sincerely apologised to affected passengers for the inconvenience however safety was always the number one priority.
+"We have done everything possible to assist passengers to get to where they are going as soon as possible, with a recovery flight scheduled for early tomorrow morning and hotel accommodation overnight for those who reside outside Townsville," he said.
+"On occasions when a disruption occurs, getting our passengers to where they are going as soon as possible is always our first priority as we truly dislike disappointing our customers."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hilton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tigerair</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bernadette Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Smith</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

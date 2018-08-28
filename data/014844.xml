@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422969952241300</docid>
+  <date>03/08/2017</date>
+  <time>23:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/secret-service-trump-tower-rent-command-post-2017-8</url>
+  <title>Secret Service moves out of Trump Tower over alleged lease dispute</title>
+  <content>
+The Secret Service moved its Trump Tower command post to a trailer on a Manhattan footpath because of a dispute between President Donald Trump's company, the Trump Organisation, and the US government, The Washington Post  Thursday.
+
+Citing two people familiar with the discussions, The Post said the dispute involved multiple elements of the lease, including the price.
+
+The federal agency charged with protecting the first family housed supervisors and backup agents in Trump Tower, one floor below the first family's private residence, until last month. Trump Organisation spokesperson Amanda Miller told The Post that a "mutual" decision was made to have the Secret Service find space elsewhere.
+
+"It would be more cost effective and logistically practical," Miller said according to The Post, even as the agency was reportedly holding out for a better deal with the president's company.
+
+Trump has not returned to Trump Tower since he was elected, and first lady Melania Trump and the couple's teenage son, Barron,.
+
+The notion of the Secret Service renting space from the president's private company was met with some criticism shortly after Trump took office, raising questions of potential conflicts of interest concerning a Trump-connected business potentially benefiting from a lucrative government contact.
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Miller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump Tower</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump Organisation</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amanda Miller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secret Service</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melania Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Trump-connected</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Barron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manhattan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

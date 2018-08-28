@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403874527284477</docid>
+  <date>31/07/2017</date>
+  <time>21:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/looks-like-apple-leaked-details-of-the-new-iphone-in-the-homepod-firmware/</url>
+  <title>Looks Like Apple Leaked Details Of The New iPhone In The HomePod Firmware</title>
+  <content>
+If you had any doubts about Apple releasing a bezel-free iPhone in September, you can probably throw those out the window. The company just pushed out a version of the HomePod firmware, and not only does the code tell us more about how Apple's smart speaker will work, it also offers a few clues about the next iPhone.
+
+Image: Apple / Gizmodo
+
+Developer Steve Troughton-Smith  and has been tweeting out his discoveries since then. Based on , the HomePod is essentially a big iPhone with no screen, Troughton-Smith . The device even shows up as an iPhone SE in the iTunes Store, although Troughton-Smith , "there doesn't seem to be any kind of provision in the HomePod OS shell for installing apps or extensions." So don't expect any special HomePod apps right out of the gate. There's also some code  on top of the HomePod, one that could show basic symbols like "+" and "-" and maybe weather icons. Otherwise, the code just looks a lot like boring old iOS:
+
+And then comes the good stuff. After nearly two days of sleuthing, Troughton-Smith found some code that appears to reveal a new feature that would . Rumours suggest that this feature  and perhaps even replace the Touch ID button. Presumably, this would allow Apple to expand the iPhone screen and introduce a bezel-free design, . Guess what? That rumour seems to be confirmed by the HomePod firmware, too:
+
+Bingo-bango, that's a good iPhone leak! We obviously won't know exactly what the next iPhone will look like until Apple announces it, but these new details are hard to overlook. Plus, Apple isn't quite the ironclad vault of secrets it once was. Since , every iPhone has essentially looked just like the rumours said it would, save a stray feature here or there. We have no reason to believe that the next iPhone release will be any different.
+
+Let's hope it's not, too. The idea of a big, beautiful OLED display on the iPhone 8 (or whatever it will be called) is exciting. It could change the way apps work and how we use our phones. It would also be very pretty, for sure. Apple is very good at making pretty things.
+
+[ via ]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iTunes Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OLED</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HomePod OS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Troughton-Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bingo-bango</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Troughton-Smith</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Like Apple Leaked Details Of The New</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>8</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Touch ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HomePod Firmware</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone In</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone SE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>7</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

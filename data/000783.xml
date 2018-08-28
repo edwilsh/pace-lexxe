@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398746336242101</docid>
+  <date>31/07/2017</date>
+  <time>01:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/raw-mcdonalds-beef-patty-forces-disgusted-mum-to-return-burgers-at-mcdonalds-ludmilla/news-story/5e1368afb6d66ff4f61093cca1792867</url>
+  <title>Macca's burger hits raw nerve with customer</title>
+  <content>
+IT took one bite of Sherre Scheide's burger to realise something was wrong - but what she didn't expect to see was this.
+The Karama woman took her children to a Darwin McDonald's store on a Sunday lunch treat, ordering Quarter Pounder meals for each of them.
+"As I started biting into the burger, I though it didn't taste right, then I looked down and opened the patty and it was raw," she said.
+"I took all the burgers back and the manager came racing around the corner and shook my hand and said she'd speak to the staff members."
+Ms Scheide's meals were then replaced with chicken meals but she wasn't offered a refund.
+"I didn't finish the chicken burgers because I was disgusted and feeling sick from the first burger," she said.
+"I said to the manger that I'd like someone from head office to contact me.
+"(When they did), they had a carefree attitude and she told me the meat had to only be checked once in a 24-hour period. I said I wasn't happy with the response and that I'd be taking it to the health and safety food inspectors and she just said 'do what you've got to do'."
+Though Ms Scheide's yet to file the complaint, she's been turned off Maccas for good.
+A company spokeswoman said McDonald's took food safety seriously and incidents such as these were rare.
+"The restaurant confirmed the issue was isolated and did not affect any other products," she said. "We have also reinforced cooking procedures with this restaurant."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Macca</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>McDonald</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sherre Scheide</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Scheide</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Darwin McDonald</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Quarter Pounder</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Karama</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

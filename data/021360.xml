@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441047469802402</docid>
+  <date>06/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/man-shot-by-police-after-hostage-situation-in-grafton/news-story/9c2ac0963c4efbce7c652757d3e8074a</url>
+  <title>Man dies after being shot by police</title>
+  <content>
+A knife-wielding man has died after being shot by police in a stand-off at Grafton yesterday.
+A critical incident investigation team has been established to investigate the shooting.
+Police said they were called to a house in Turf St after reports of a disturbance about 3.45pm yesterday.
+"On arrival officers were allegedly confronted by a man armed with a knife," police said in a statement.
+Officers told him to put down the weapon and tried to use a Taser stun gun on him, but it was unsuccessful and police were forced to shoot.
+The officers treated the man at the scene until the arrival of NSW Ambulance paramedics.
+He was taken to Grafton Base Hospital in a critical condition, before being airlifted to the Gold Coast University Hospital where he died.
+Police have appealed for witnesses to come forward or contact CrimeStoppers on 1800 333 000.
+The shooting comes more than a week after
+Mokmool was shot dead by police after a terrifying stand-off in which he held a bottle to the throat of a florist.
+Police have launched a critical incident investigation in relation to the fatal shooting.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Taser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton Base Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crimestoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mokmool</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Turf St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Grafton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast University Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

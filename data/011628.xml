@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417691437331044</docid>
+  <date>03/08/2017</date>
+  <time>03:11</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/trump-denies-calling-white-house-a-dump/news-story/07931fd7c00136ef35ef89ed5befc454</url>
+  <title>Trump denies calling White House a 'dump'</title>
+  <content>
+President Donald Trump has denied he called the White House a "dump".
+Trump responded on Twitter to an article posted on Tuesday on the website golf.com. The story recounts a scene in which Trump was chatting with some club members at his golf course in Bedminster, New Jersey. Trump reportedly told the members he visits the property so frequently because "That White House is a real dump".
+Trump took to Twitter on Wednesday night to deny he made the remark. "I love the White House, one of the most beautiful buildings (homes) I have ever seen," he tweeted. "But Fake News said I called it a dump - TOTALLY UNTRUE."
+Trump has spent nearly every weekend of his presidency visiting various properties he owns and leases, including Bedminster. He is expected to leave Friday on his first extended vacation from Washington since the inauguration - a 17-day getaway to the Bedminster club.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>White House</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TOTALLY UNTRUE</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bedminster</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fake News</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

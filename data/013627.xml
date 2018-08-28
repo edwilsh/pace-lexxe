@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422110958765044</docid>
+  <date>03/08/2017</date>
+  <time>20:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/world/mueller-establishes-washington-grand-jury-in-russia-probe/news-story/de54556e98eeef2790bcc5575f254424</url>
+  <title>Jury called to judge Trump - Russia claims</title>
+  <content>
+SPECIAL counsel Robert Mueller has empaneled a grand jury in Washington to investigate allegations of Russia's interference in the 2016 elections, the Wall Street Journal said on Thursday, citing two unnamed people familiar with the matter.
+The grand jury began its work in recent weeks and is a sign that Mueller's inquiry into Russia's efforts to influence the election and whether it colluded with President Donald Trump's campaign is ramping up, the Journal said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

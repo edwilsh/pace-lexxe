@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707600036</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/gold-steadies-ahead-of-key-us-data/news-story/3456b7dad5986f55b39d9af85c9b5265</url>
+  <title>Gold steadies ahead of key US data</title>
+  <content>
+Gold has steadied, hovering below Tuesday's seven-week high, as investors await US jobs data for further clues on the outlook for interest rates.
+Gold rallied through most of July as the US dollar fell on reduced expectations for a third US rate increase this year. Inflation has been contained even though the labour market appears to be in its best shape in many years and despite double-digit US earnings growth in the second quarter.
+Reduced rate rise expectations tend to weaken the dollar, making dollar-priced gold cheaper for non-US investors.
+The US dollar fell against the yen, euro and Swiss franc, after weaker-than-expected US services sector data worried investors and stoked doubts that the Federal Reserve would raise interest rates again in 2017.
+Spot gold was 0.15 per cent higher at $US1,268.15 an ounce by 2.02 pm Thursday EDT (0402 Friday AEST), not far from Tuesday's seven-week high of $US1,273.97. In early Asian trade, it fell $US6.20 within one minute to the session low of $US1,258.20 but quickly recovered.
+"The dollar is weak so there's a little bit of spillover effect from that," said Eli Tesfaye, senior market strategist for brokerage RJO Futures in Chicago, referring to a source of support for gold prices.
+"There's position squaring ahead of the jobs data. Nobody wants to get caught with any surprises."
+The data is scheduled for release on Friday.
+US gold futures for December delivery settled down 0.3 per cent at $US1,274.40.
+"We're still in a $US1,200-$US1,300 range and there doesn't seem enough of anything material to worry investors sufficiently to break us through that upper level," ICBC Standard Bank analyst Tom Kendall said.
+"On the downside it's been very similar, on recent occasions where (gold has) got close to $US1,200 its been well supported through a combination of physical demand and defensive buying from macro investors."
+Futures markets now only see a 35 per cent chance of another rate rise by the end of 2017.
+Global demand for gold fell 14 per cent in the first half of the year due mainly to a sharp decline in purchases by exchange traded funds, the World Gold Council said.
+Among other precious metals, platinum rose 1.8 per cent to $US958.95 per ounce after surging above its 200-day moving average to its highest since June 7 at $US964.20.
+Silver rose 0.6 per cent to $US16.64 per ounce, while palladium was 0.9 per cent lower at $US886.75 per ounce, on track to break a streak of nine-sessions of gains.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$1,300</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Kendall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eli Tesfaye</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,258.20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US958.95</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US16.64</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,268.15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US886.75</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US6.20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday EDT (0402 Friday AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Gold Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>ICBC Standard Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US964.20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chicago</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RJO Futures</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,273.97</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US1,274.40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,200</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

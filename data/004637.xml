@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405923226717061</docid>
+  <date>01/08/2017</date>
+  <time>05:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-01/roos-recruit-williams-ruled-out-for-rest-of-season</url>
+  <title>Roos recruit ruled out for rest of season</title>
+  <content>
+Marley Williams has been ruled out for the rest of the season
+
+NORTH Melbourne defender Marley Williams will miss the rest of the season after being ruled out with a back injury.
+
+The ex-Pie needs surgery and will also be assessed for a shoulder issue.
+
+Sam Wright's year is also over due to the likely possibility of ankle surgery, while star forward Jarrad Waite will miss a fortnight with a calf injury.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jarrad Waite</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sam Wright</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marley Williams</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>North Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Roos</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

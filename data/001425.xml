@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399386286377872</docid>
+  <date>31/07/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/aust-robotics-team-win-amazon-competition/news-story/766288f5b8f98e82e1452e264eba8b02</url>
+  <title>Aust robotics team win Amazon competition</title>
+  <content>
+An Australian robot partly held together with cable ties has defeated 15 international teams to win a competition by global retail giant Amazon in Japan.
+The Australian Centre for Robotic Vision, based at the Queensland University of Technology in Brisbane, battled teams to win the $US80,000 ($A100,280) competition with their 'Cartman' robot picking up and storing the most items for Amazon in the shortest amount of time.
+The Australian Centre for Robotic Vision, based at the Queensland University of Technology in Brisbane, battled and won against 15 other international teams using their 'Cartman' robot.
+The centre's chief operations officer, Dr Sue Keay, described the competition as "tense" but the team proved their ability from the outset when they won through to the eight-team final.
+Despite being one of the "cheaper" robots in the competition, Cartman took top prize by picking up and storing the most items for retail giant Amazon in the shortest amount of time.
+Dr Keay said it was a fine result for a robot unpacked and reassembled from a suitcase with "at least one key component held together with cable ties".
+Team leader Dr Juxi Leitner said Cartman may have been the lowest-cost robot competing, but paid credit to its innovative Cartesian manipulator.
+"We were the only team with a Cartesian robot at the event. Cartman was definitely a large reason for our success," he said.
+Cartman works by moving along three axes and picking items up using either suction or a pincer grip, making squishy items like socks, no problem.
+The robot was built from scratch by the robotics team which includes researchers from QUT, the Australian National University and the University of Adelaide.
+"Looking at the overall performance across all teams, we see huge advances in robotics and Artificial Intelligence," said Adelaide-based team member Dr Anton Milan.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Centre</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Artificial Intelligence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robotic Vision</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Juxi Leitner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Sue Keay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QUT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartesian</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Queensland University of Technology</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartman</name>
+    <count>6</count>
+    <score>14</score>
+  </sindex>
+  <sindex>
+    <name>Dr Keay</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Anton Milan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

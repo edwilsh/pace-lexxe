@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438341640379582</docid>
+  <date>06/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/death-toll-from-vietnam-floods-rises-to-23/news-story/f27c100bc8f7c642714ffb8ea6595224</url>
+  <title>Death toll from Vietnam floods rises to 23</title>
+  <content>
+Rescuers in Vietnam have recovered 16 more bodies over the past three days, bringing the death toll from floods in four northern provinces to 23.
+Flash floods triggered by heavy rains earlier this week also left 16 people missing and injured 21 others.
+According to the Central Natural Disasters Committee on Sunday, floods have destroyed 228 houses, damaged roads, crops and irrigation system.
+Nearly 5000 soldiers, police and residents have been mobilised to search for the missing.
+Vietnam is prone to floods and storms, which kill hundreds of people each year.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Central Natural Disasters Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vietnam</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

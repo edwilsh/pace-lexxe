@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416536091109270</docid>
+  <date>02/08/2017</date>
+  <time>22:42</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/fed-govt-insists-aircraft-security-robust/news-story/8e7d4aab9856935591cb8a8268ab901e</url>
+  <title>Fed govt insists aircraft security robust</title>
+  <content>
+The Turnbull government has defended airport security measures amid warnings there are major holes in screening.
+Airline pilots say they're seriously concerned airport staff with access to aircraft, such as cleaners and baggage handlers, are inadequately screened.
+Transport Minister Darren Chester has offered to discuss the matter with the pilots' union, but insists existing measures are working well, given the recent thwarting of an alleged plot to attack a passenger plane out of Sydney.
+"We have robust security measures in place to prevent an attack," Mr Chester told ABC radio on Thursday.
+He pointed to new laws that cleared parliament this year aimed at tightening security for airport staff and insisted the federal government relied on the advice of intelligence and counter terrorism experts.
+The Australian Airline Pilots Association has questioned why its 5000 members are subjected to stricter screening than others with aircraft access, including baggage handlers, cleaners and catering staff.
+Pilots are also unconvinced about private contractors doing security screening rather than a government agency.
+They say these issues have been raised with the government in the past but were ignored.
+Federal police have also expressed concern that organised crime figures are getting work at airports and ports, and exploiting their security passes to influence the screening of cargo and passengers.
+Mr Chester insists workers with access to aircraft must hold aviation and maritime security identification cards.
+There are 250,000 of the cards in circulation, but the regulator responsible cannot say how many workers have ceased employment and not given their cards back.
+The Transport Workers Union has also raised concerns arguing high staff turnover means workers without security clearance are being granted access to high-risk areas.
+Senator Nick Xenophon, who spearheaded a recent inquiry into aviation security, will urge the government to plug the screening gap when parliament returns next week.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Chester</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Airline Pilots Association</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Transport Minister Darren Chester</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Senator Nick Xenophon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Transport Workers Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

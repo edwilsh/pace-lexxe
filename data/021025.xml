@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439591475874249</docid>
+  <date>06/08/2017</date>
+  <time>16:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/how-snapchat-keeps-employees-from-leaking-unreleased-features-2017-8</url>
+  <title>This is how Snapchat keeps employees from leaking new features before product launches</title>
+  <content>
+Snapchat parent Snap Inc. is known as
+
+Aside from stringent non-disclosure agreements that employees sign when they join, one of the ways Snap maintains its culture of secrecy is by keeping a tight lid on upcoming features that employees get to test first internally.
+
+When a Snap employee has access to an internal, publicly unavailable Snapchat feature, they see a warning message like this:
+
+Giving employees access to unreleased features before making them available to the world, or "dogfooding," is a common strategy among Snap's peers in the tech industry. But in an effort to quell leaks, Snap has taken steps in recent months to limit how many of its roughly 2,500 employees have access to new, unreleased features.
+
+CEO Evan Spiegel recently tightened access to the company's program that lets employees test unreleased versions of the app, according to a person with knowledge of the matter. Many Snap employees used to have access to features like the  for several months before they were released publicly, but the list of who has privileged access has been shortened in recent months.
+
+The list shortening likely has to do with Spiegel's fear that unreleased Snapchat features will leak in the press, as Snap Maps did only a few days before it was officially announced.
+
+When the website The Information published a story that said Snapchat was working on Snap Maps just before it was released, CEO Evan Spiegel sent a company-wide email with the subject line "feeling disappointed," according to someone who saw the email. He didn't link to or mention The Information article in the email, but instead stressed the importance of Snap being able to surprise its users with new products.
+
+Get the latest Snap stock price
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>CEO Evan Spiegel</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Snap Map</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Snap Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Snapchat</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Spiegel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

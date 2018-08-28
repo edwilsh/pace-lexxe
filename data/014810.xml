@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423137455968392</docid>
+  <date>04/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/tabcorp-posts-208m-fullyear-loss/news-story/1aed2aeee019d8bd3b88049545342ae6</url>
+  <title>Tabcorp posts $20.8m full-year loss</title>
+  <content>
+Tabcorp has slipped to a full-year net loss of $20.8 million on the back of costs related to its proposed merger with Tatts, legal battles and its new UK business.
+The result contrasts sharply with last year's $169.7 million profit and comes amid a two per cent lift in revenue to $2.23 billion for the 12 months to June 30.
+The gaming giant, which is in the process of completing a merger with Tatts Group, declared a fully franked final dividend of 12.5 cent per share, taking full-year dividend to 25 cents.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tatts Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tatt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

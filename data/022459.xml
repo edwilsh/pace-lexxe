@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442808406416084</docid>
+  <date>07/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/14/21/victorian-liberals-confident-of-finances</url>
+  <title>Victorian Liberals confident of finances</title>
+  <content>
+Victorian Opposition Leader Matthew Guy has laughed off questions of whether the Liberals can afford to run a 2018 election campaign.
+An analysis presented to the party's administrative committee suggested the party could be $3.8 million in debt by July 2018 if its fortunes do not turn around, News Corp reported on Monday.
+"We've got some new banners, we've got some new adverts and billboards up around the city, we're not paying for them with an IOU, we're paying for them," Mr Guy told reporters.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Guy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IOU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Liberal</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July 2018</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Opposition Leader Matthew Guy</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

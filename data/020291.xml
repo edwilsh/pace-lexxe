@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438040992665916</docid>
+  <date>06/08/2017</date>
+  <time>10:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/footy-pie-under-threat-as-broncos-roll-out-the-gourmet-guns/news-story/62185aa3a38ada08956d23545c71bc2c</url>
+  <title>Footy fans get taste for something new</title>
+  <content>
+THE traditional footy pie and chips has now got a gourmet rival - with the Brisbane Broncos delving into the hugely popular food truck phenomenon for their remaining three home games this season.
+Starting on Friday, football fans could be forgiven for thinking they were at the popular Eat Street Markets rather than Suncorp Stadium as a range of gourmet food trucks set up shop on the grassed area near the Wally Lewis statue.
+The food will include calamari, pizza, German sausages, doughnuts and teppanyaki.
+Organisers say the prices will be comparable with other bars and food outlets near the stadium.
+Terry Reader, the Broncos' chief commercial officer, said the club was keen to cash in on the growing trend of food vans.
+"Food vans are just so popular around Brisbane at the moment so we wanted to give our fans the option to have that gourmet experience at the footy," he said.
+"Coming to a Broncos game is so much more than just watching a game of footy, it's an event - I'd encourage everyone to come along and see what's on offer, as you'll be surprised."
+The addition of food trucks is the latest move by the Broncos to modernise fans' football experience. It follows the introduction of the Precinct Bar and Garden Bar where punters can enjoy carved ham.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Suncorp Stadium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wally Lewis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eat Streets Markets</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Precinct Bar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Broncos</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Terry Reader</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Garden Bar</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Broncos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

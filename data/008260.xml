@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411970540783357</docid>
+  <date>02/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/foreign-students-not-the-problem-at-navitas-20170802-gxnl70</url>
+  <title>Foreign students not the problem at Navitas</title>
+  <content>
+by
+The Lex Column
+
+It is hard to imagine a company that more potently symbolises the promise of globalisation than Navitas, which derives three-fifths of its revenue from preparing mostly Asian students for university studies in Australia and other English-speaking countries.
+, and the shares fell 10 per cent on Tuesday.
+Navitas is a growth company that does not deliver growth.
+The problem is not so much the market; Unesco projects that the number of foreign students globally will almost double to 8m in the 13 years to 2025. Much of that growth will originate in Asia, and Navitas's university programmes are largely premised upon the expansion of Asian middle classes and their desire to study in the west.
+
+Three-fifths of revenue is derived from Australia, another quarter from the US, Canada and the UK.
+
+True, the rise of populism might reduce foreigners' interest in studying in such countries, or restrict their ability to do so. Half of higher education enrolments in Australia are by foreigners.
+While not everyone thinks this is cause for celebration, foreign students are a vital source of revenue for higher education institutions there and elsewhere.
+A more immediate issue is Navitas's dependence on individual contracts. In March, it said its contract to deliver Australia's adult English migrant program would not be renewed in most of Australia's regions.
+Collaborations with two universities were phased out over the past three years and contributed a final $10.1m.
+
+Some investors buy the secular growth story even after bad news. Before today, the company's shares had more than recovered their March losses.
+Lowering 2018 estimates to account for the expired university contracts yields a forward price-to-earnings ratio above the three-year average of 19. Given the short- and long-term risks to the company, this looks too high in any language.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>English-speaking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lex Column</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Navitas</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>5</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>2</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Navitas</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Unesco</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413993470418218</docid>
+  <date>02/08/2017</date>
+  <time>12:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/wa-news/woman-killed-by-a-dog-south-of-perth-20170802-gxnn2l.html</url>
+  <title>Dog which killed a woman in her 50s will be put down </title>
+  <content>
+The dog believed to have killed a woman in her 50s at a licensed kennel facility in the Perth suburb of Southern River will be euthanised.
+The City of Gosnells issued a statement late on Wednesday afternoon which said police believe the Bull Mastiff, currently being held by the City, caused the death of Sue Lopicich.Photo: City of Gosnells
+​A second dog, a Staffordshire Bull Terrier, was not involved in the incident.
+"The Bull Mastiff has been surrendered and will be humanely euthanised by a vet," the statement said.
+"The police advised the Staffordshire Bull Terrier was not involved and he will be returned to the family.
+"The City extends its sincerest sympathies to Mrs Lopicich's family and friends."
+
+Lee, a family friend, told Radio 6PR's Oliver Peterson that the dog was "well known for being aggressive," but that she loved it anyway.
+"Being a rescue dog, it doesn't matter what the breed is, any dog can be aggressive if it's abused as a young dog and any dog can be a dear, loving dog regardless of its breed. And this one was unfortunately abused when it was young and she rescued it.
+"And anyone knows who's been around abused dogs that they snap, just over nothing, over the smallest things, and unfortunately she was in the wrong place at the wrong time."
+"The best way I can put it is that she thinks every dog deserves a second chance and she just loved every dog that came through there. She was a very caring woman."
+The incident occurred on Tuesday afternoon at Barko's Boarding Kennels and police were called to the facility at around 1.30pm. 
+Mrs Lopicich, who owns the facility on Terrier Place, received life threatening injuries from the dog and she was declared dead by St John Ambulance officers.
+Her death is not being treated as suspicious and a report will be prepared for the coroner.
+The City of Gosnells said earlier how its rangers received a request from the police to attend the property to collect a dog, which was preventing officers from accessing her body.
+"As a result, the City is currently holding two dogs that were taken from the property," the council said in an earlier statement.
+"The adult, male dogs, one a bull mastiff and the other a Staffordshire bull terrier, are being held at the request of police.
+"An investigation is being conducted by the police and the City is waiting to hear further from them.
+"The dogs are microchipped and registered to the owner of the property.
+"No previous complaints have been made to the City about these dogs."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Barko's Boarding Kennel</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Staffordshire</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Terrier Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bull Mastiff</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Radio 6PR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oliver Peterson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mrs Lopicich</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Staffordshire Bull Terrier</name>
+    <count>2</count>
+    <score>0.67</score>
+  </sindex>
+  <sindex>
+    <name>Sue Lopicich.Photo</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

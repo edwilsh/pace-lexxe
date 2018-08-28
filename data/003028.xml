@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403260346950001</docid>
+  <date>31/07/2017</date>
+  <time>19:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/what-does-a-bitcoin-fork-mean-2017-7</url>
+  <title>Bitcoin's civil war could cause a 'fork'  --  here's what that means</title>
+  <content>
+Bitcoin users have found themselves in the middle of a  as
+developers and miners have disagreed over the future of the cryptocurrency.
+On one hand, the core developers want to keep the blocks that make up bitcoin's network limited in their size to protect it from hacks. On the other hand, some miners want to make the blocks bigger to improve the network's speed.
+
+That disagreement means a bitcoin "fork" could occur on Tuesday as the deadline for a decision is set for 8:20 a.m. ET.
+
+According to a , a fork is "change to the software of the digital currency that creates two separate versions of the blockchain with a shared history." Coinbase warns that forks can be both temporary or permanent and occur because users may disagree on the best path forward for the cryptocurrency, which could ultimately lead to it splitting in two.
+
+Forks have occurred in cryptocurrencies before. Bitcoin's rival, , eventually leading to the creation of the form of the cryptocurrency we know today.
+
+As for how bitcoin will respond to Tuesday's decision, no one knows. But the majority of  are predicting the price will fall from here. Of the 470 people who bet on the event on Bodog, "310 people think the price will dip below $US2,000 per coin," according to a company spokesperson.
+
+Bitcoin is up 189% in 2017, trading at $US2,808 a coin.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2,000</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US2,808</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bodog</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coinbase</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

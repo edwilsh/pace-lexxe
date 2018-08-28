@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441047469802464</docid>
+  <date>06/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/brisbane-traffic-woman-hit-by-car-outside-school/news-story/af0837b2f9829bfd2571833db0c3220a</url>
+  <title>Woman hit by car outside school</title>
+  <content>
+A WOMAN is in a serious condition after being hit by a car outside a school south of Brisbane this morning.
+Police said initial information indicated the woman was struck on Bardon Road, Berrinba at about 6.15am.
+The incident occurred across the road from Berrinba East State School.
+The age of the woman is not yet known.
+Meanwhile, a man has been seriously injured after his car rolled over on the Burke Developmental Rd about 15km west of Chillagoe in north Queensland just after 5am this morning.
+Paramedics have requested a helicopter to take the man to hospital after he suffered suspected spinal and internal injuries in the crash.
+No other vehicles were involved in the incident.
+Police are investigating.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chillagoe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berrinba East State School</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Burke Developmental Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bardon Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Berrinba</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404110750489996</docid>
+  <date>31/07/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/technology/mobiles/iphone-8-details-leaked-in-apples-own-homepod-software-20170731-gxmocy.html</url>
+  <title>iPhone 8 details leaked in Apple's own HomePod software</title>
+  <content>
+Up Next
+
+ASX winners and losers - a snapshot
+
+00:43
+
+More BusinessDay Videos
+
+Previous slide
+Next slide
+
+Apple iPhone turns 10
+
+Steve Jobs promised a product that combined the best of the iPod with a phone and a connection to the internet. A decade later, it's Apple's most important product.
+
+If you had any doubts about Apple releasing a bezel-free iPhone in September, you can probably throw those out the window. The company just pushed out a version of the  firmware, and not only does the code tell us more about how Apple's smart speaker will work, it also offers a few clues about the next iPhone.
+Developer Steve Troughton-Smith  and has been tweeting out his discoveries since then. Based on the firmware, the HomePod is essentially a big iPhone with no screen, Troughton-Smith .Photo: martinhajek.com
+The device even shows up as an iPhone SE in the iTunes Store, although Troughton-Smith , "there doesn't seem to be any kind of provision in the HomePod OS shell for installing apps or extensions." So don't expect any special HomePod apps right out of the gate.
+There's also some code  on top of the HomePod, one that could show basic symbols like "+" and "-" and maybe weather icons.
+
+Otherwise, the code just looks a lot like boring old iOS:
+
+Looks like the 'shell' app on HomePod is called SoundBoard. It runs a full iOS stack, unsurprisingly. Its apps are prefixed with 'Air'
+
+And then comes the good stuff. After nearly two days of sleuthing, Troughton-Smith  some code that appears to reveal a new feature that would . Rumours suggest that this feature  and perhaps even replace the Touch ID button. Presumably, this would allow Apple to expand the iPhone screen and introduce a bezel-free design, . Guess what? That rumour seems to be confirmed by the HomePod firmware, too:
+
+The bezel-less iPhone image can be extracted from Payment_glyph_phone-D22.caar in PassKitUIFoundation.framework with the code pictured
+
+Bingo-bango, that's a good iPhone leak! We obviously won't know exactly what the next iPhone will look like until Apple announces it, but these new details are hard to overlook. Plus, Apple isn't quite the ironclad vault of secrets it once was. Since , every iPhone has essentially looked just like the rumours said it would, save a stray feature here or there. We have no reason to believe that the next iPhone release will be any different.
+Let's hope it's not, too. The idea of a big, beautiful OLED display on the iPhone 8 (or whatever it will be called) is exciting. It could change the way apps work and how we use our phones. It would also be very pretty, for sure. Apple is very good at making pretty things.
+
+Explore the smart design, breakthrough science and awe-inspiring tech shaping your future at
+.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iTunes Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OLED</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HomePod OS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Troughton-Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bingo-bango</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Steve Jobs</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>PassKitUIFoundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Troughton-Smith</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>9</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>BusinessDay Videos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Touch ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone SE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Payment_glyph_phone-D22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>8</count>
+    <score>7</score>
+  </sindex>
+  </sindexList>
+</snippet>

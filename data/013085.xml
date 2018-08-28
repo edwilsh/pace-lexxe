@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418971337606341</docid>
+  <date>03/08/2017</date>
+  <time>08:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/social-media-tracks-down-stolen-ford-mustang/8771682</url>
+  <title>Stolen Mustang tracked down hours after carjacking through Facebook posts in Canberra</title>
+  <content>
+A luxury car stolen in a carjacking in Canberra has been returned to its owner after posts on social media helped police track the distinctive Ford Mustang.
+Three carjackers allegedly confronted Steve Thomas as he sat inside his red Mustang on a quiet Yarralumla street in Canberra this morning.
+
+External Link:
+
+Steve Facebook post about his stolen car
+Mr Thomas said one man pointed a crowbar at his face while the other jumped into the passenger seat.
+"I wasn't going to do anything with three guys and a crowbar," he said.
+"But just before they took off, I said 'at least you could give me my phone' and they threw it out the window."
+Mr Thomas immediately called police and then posted the theft of his luxury vehicle on Facebook.
+Through comments and messages he was able to track the car's movements almost street by street, as people spotted the prominent car across Canberra.
+"Everyone was watching what was happening all over the place," he said
+Mr Thomas fed the information to the police, and when he received a photo of the carjackers refuelling at a petrol station in Fyshwick, police jumped.
+
+Police arrested one man who was accused of being involved. Police said the two others were still inside the car and fled the scene - the mustang was later found in a Manuka car park three hours after the alleged carjacking.
+"I don't think they'll be stealing a real estate agent's car, and a car that's noticeable, quite so quickly again," Mr Thomas said.
+Mr Thomas thanked police and the community for their fast response.
+Police are still searching for two of the men who got away.
+The 33-year-old arrested in Fyshwick is expected to be charged.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Thomas</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Steve Thomas</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fyshwick</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Steve Facebook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mustang</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manuka</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarralumla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ford Mustang</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

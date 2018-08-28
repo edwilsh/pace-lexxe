@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407074277973682</docid>
+  <date>01/08/2017</date>
+  <time>09:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/mill-park-fire-dad-wakes-up-son-after-finding-clayton-court-house-up-in-flames/news-story/3457b1866f8f973d6b2c3e6285543e04</url>
+  <title>Dad saves son from house blaze</title>
+  <content>
+A FATHER has saved his son's life after waking him as he returned home to find their house up in flames in Melbourne's north this evening.
+MFB spokeswoman Heather Stockton said the 60-year-old father arrived home just after 4.30pm and bravely entered the "well alight" Mill Park house before waking his 35-year-old son and escorting him out, along with the family dog.
+Ms Stockton said crews arrived to the Clayton Court home about five minutes later. She said 26 firefighters battled the fire for 40 minutes before bringing it under control.
+The brave father suffered smoke inhalation and was taken to hospital, while the 35-year-old son and family dog were treated on the scene for smoke inhalation but did not need further medical attention.
+Firefighters will remain at the property overnight.
+Ms Stockton said there were concerns for a second pet dog.
+She said the front of the house suffered substantial damage, with family members needing alternative accommodation.
+MFB investigators will determine the cause of the fire in the morning.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MFB</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clayton Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mill Park</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Heather Stockton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Stockton</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

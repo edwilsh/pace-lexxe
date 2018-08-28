@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437748934886975</docid>
+  <date>06/08/2017</date>
+  <time>09:01</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/breaking-police-investigate-shooting-grafton/3209341/</url>
+  <title>BREAKING: Police investigate shooting in Grafton</title>
+  <content>
+A MAN has been shot in Grafton this afternoon.
+The Daily Examiner is attending and understands that emergency services responded to a scene in North St at about 4pm.
+
+According to The Daily Telegraph, police shot a man in Grafton during what is believed to be a hostage situation following a domestic violence incident. The man's condition is not known. A critical investigation has been established by police to investigate the shooting.
+
+According to witnesses, the man was brandishing a knife when police tried to taser the man but that was unsuccessful. Two police were seen attempting CPR on the man.
+
+A policeman performs CPR to a man who was shot in North St, Grafton on Sunday, 6th August, 2017.Wayne Pepper
+
+It is understood at least one man was transported by ambulance from the scene. A helicopter arrived at the hospital a short time later.
+
+A crime scene has been erected on North St between Turf St and Queen St. Police from Grafton, Maclean, Yamba and Lawrence have responded to the incident. It is understood detectives are on route from Coffs Harbour as well.
+More information will be available as it comes to hand.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yamba</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lawrence</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turf St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North St</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Queen St. Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August, 2017.Wayne Pepper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maclean</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Daily Examiner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Grafton</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Daily Telegraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CPR</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411334885614552</docid>
+  <date>02/08/2017</date>
+  <time>02:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/unionists-gather-for-qld-bus-driver-rally/news-story/104c548080668c1e9e601c0c6888254e</url>
+  <title>Unionists gather for Qld bus driver rally</title>
+  <content>
+Hundreds of unionists have gathered to support a work stoppage by Brisbane bus drivers, who are pushing for increased pay, better rosters and improved safety.
+About 300 members of several unions, including the CFMEU and TWU, joined with Rail, Tram and Bus Union protesters at Brisbane King George Square on Wednesday to support the latest bus strike, which is the fourth in recent weeks.
+Chants of "fair work, fair pay" rang out from the hi-vis congregation, who were waving flags and placards during the rally, which is expected to last until 2pm.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>CFMEU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bus Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TWU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane King George Square</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

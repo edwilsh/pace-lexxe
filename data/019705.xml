@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436061012725532</docid>
+  <date>06/08/2017</date>
+  <time>02:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/12/22/melbourne-suburb-to-get-50m-promenade</url>
+  <title>Melbourne suburb to get $50m promenade</title>
+  <content>
+A bayside suburb in Melbourne is set to get a $50 million beach promenade and parkland, the Victorian premier announced.
+The removal of level crossings will allow for a road to be extended to Carrum Beach for the promenade and parkland but five properties will also need to be purchased, Premier Daniel Andrews said.
+"This is the sort of amenity that everybody wants, that's just a natural extension and we've got the opportunity to do this because we're removing these congested and dangerous level crossings," Mr Andrews said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Carrum Beach</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Premier Daniel Andrews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Andrews</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423485348324876</docid>
+  <date>04/08/2017</date>
+  <time>01:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/technology/consumer-security/reminder-incognito-mode-is-not-as-private-as-you-think-20170804-gxp8eq.html</url>
+  <title>Reminder: 'Incognito Mode' is not as private as you think</title>
+  <content>
+Even when you're covering your tracks by opening a new incognito window, your web browsing history might not be as private as you think. Information about what you do online, down to every single URL, can likely be purchased on the web by anyone who wants it. And while in most cases people are making those purchases for marketing reasons, they could choose to use their newfound knowledge maliciously as well.
+Svea Eckert, a journalist, teamed up with a data scientist to see exactly what personal internet-user data they could buy. Turns out, the answer is a lot.
+The duo created a fake marketing company, complete with a fake website and careers page and then set out to purchase information, specifically raw browsing history, under the guise that they needed it to train an AI platform that would revolutionise marketing. They presented the project at DefCon, a hacker's conference in Las Vegas, .
+What they bought was the anonymous browsing history of three million Germans. While a few of them only had a few URLs listed, others had their entire browsing history, porn and all, there to see. The team actually didn't even have to buy it - a data broker gave it to them for free. And while it was supposed to be anonymised, it was easy for them to figure out who some of the users were pretty quickly.
+So how does that work?
+The answer is pretty obvious once they explain it. Things like looking at your Twitter analytics page, for instance, is a big tip-off that you are in fact that person since it's only accessible to you. The trick also works for a German site called Xing.
+
+For others, it was a bit more difficult, but still pretty easy. Think about how many people work at your company and are viewing something like an internal HR page and then filter that again by the people who access social network groups specific to your neighbourhood. Not too many people, right? With the right URLs in a group, narrowing down the data's owner isn't all that complicated.
+In the case of the German's data, most of it was collected from a browser extension which states in its terms of use that it sells its data.
+The takeaway: If you want to keep your browsing data private, don't ever allow anyone to have it. Even if it's anonymous when it's sent their way, there's a good chance it can be tied back to you. And if you need help locking things down,  on keeping your data - and you - safe.
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Svea Eckert</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>URLs</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Incognito Mode</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

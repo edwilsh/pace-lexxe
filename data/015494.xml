@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423785996040489</docid>
+  <date>04/08/2017</date>
+  <time>02:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/8-ceos-changing-the-way-we-work-2017-7</url>
+  <title>These 8 CEOs are changing the way we work</title>
+  <content>
+Accompany
+
+Chang is the founder and CEO of Accompany, which has developed an app that makes it easy to prep for meetings. For all events scheduled on a calendar, Accompany's app compiles digital dossiers of attendees and their companies. The app is targeted at executives, who often rely on human assistants to gain insights into the people they are meeting with. But it could find much broader appeal, because of its potential to help users anticipate personality differences, identify common interests, or find ideal meeting locations.
+
+'Anytime we detect someone new in your calendar, you'll get an Executive Briefing delivered right to your inbox while you sleep,' the company states on its website. 'Everything you need to get up to speed, including professional history, relevant news, and key info on their company, is at your fingertips.'
+
+Accompany's service pulls information from company profiles, social media, and news stories. But in the future, it's not hard to imagine it tapping into other data, such as the kinds Facebook uses to profile individuals and categorise their tastes and interests to help advertisers target particular groups.
+
+Chang launched Accompany in 2013, straight out of a role at Google's analytics group. The company has since raised $US40.5 million in funding. The Stanford-educated Chang hails from Austin, Texas, but now runs her company out of Palo Alto, California.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>CEO of Accompany</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US40.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chang</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stanford-educated Chang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austin</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CEOs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palo Alto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Executive Briefing</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

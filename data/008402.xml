@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412193879086122</docid>
+  <date>02/08/2017</date>
+  <time>05:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/mans-leg-badly-broken-workplace-accident/3207987/</url>
+  <title>Man's leg badly broken in workplace accident</title>
+  <content>
+A MAN has been taken to hospital with a badly broken leg following a workplace accident this afternoon.
+
+Emergency services were called to the Mt Crosby Water Treatment Plant about 12.20pm, following reports a piece of heavy machinery had fallen and trapped a contractor.
+
+Firefighters who were called to the scene confirmed a heavy sandblasting canister had fallen off a forklift and onto the man's lower leg.
+
+Paramedics treated the man at the scene before taking him to Ipswich Hospital.
+
+Workplace Health and Safety will investigate.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ipswich Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Crosby Water Treatment Plant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

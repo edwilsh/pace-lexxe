@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422360066873464</docid>
+  <date>03/08/2017</date>
+  <time>21:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/07/10/former-mayor-pisasale-hit-with-new-charges</url>
+  <title>Former mayor Pisasale hit with new charges</title>
+  <content>
+Former Ipswich mayor Paul Pisasale has been hit with fresh charges by Queensland's corruption watchdog.
+The Crime and Corruption Commission on Thursday charged Pisasale, 65, with two counts of attempting to pervert justice, having previously charged the former mayor with extortion in June.
+He will face Brisbane Magistrates Court on August 8.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Paul Pisasale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pisasale</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Corruption Commission</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

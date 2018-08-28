@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436103962398846</docid>
+  <date>06/08/2017</date>
+  <time>02:38</time>
+  <isTopNews>true</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/11/35/blizzards-to-hit-vic-flood-warnings-in-sa</url>
+  <title>Blizzards, storms and hail expected to batter Victoria</title>
+  <content>
+Blizzard-like conditions are expected to hit Victoria's eastern alpine areas today, while thunderstorms are set to batter Melbourne.
+Up to half a metre of snow is expected to fall at Mt Hotham, Mt Bulla and Falls Creek today and tomorrow, Weatherzone meteorologist Tom Hough told 9news.com.au.
+All major resorts in the alpine area are set to receive 40 to 70cm of snow, he said.
+"It will be very windy as well," Mr Hough said.
+"There will be strong gusty winds throughout the weekend and tomorrow with blizzard-like at times."
+Mr Hough said conditions on the mountains should clear up by Tuesday.
+"It will better weather to enjoy that fresh snow," he said. 
+By Monday evening, the resorts should have natural snow depths of 120 to 160cm, he said.
+
+Related Articles
+
+The same weather system is set to batter Melbourne with rain and possibly some hail.
+"There is a chance of storms (in Melbourne) as the front moves across the state," Mr Hough said.
+He said that Melbourne could see wind speeds up to 80 to 90km/h tomorrow and up to 5mm of rain.
+"Easing through the night but there is a chance of showers and storms again tomorrow morning," he added.
+"But there will be mostly clear conditions Tuesday."
+SES crews have already been called out to 47 jobs overnight. Most of the calls were for help with road hazards such as fallen trees between 11pm and 2am. 
+The volunteers are expecting more calls for assistance as the weather conditions worsen. 
+A severe weather warning issued by the Bureau of Meteorology has been cancelled.
+"The immediate threat of severe weather has passed, but the situation will continue to be monitored and further warnings will be issued if necessary," BoM said in a statement.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Weatherzone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blizzard-like</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Hough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Falls Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Bulla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hough</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423094506294632</docid>
+  <date>04/08/2017</date>
+  <time>00:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/opinion/how-ransomware-changes-your-backup-task/news-story/ef9f052616fa02195a50c810a955b360</url>
+  <title>Ransomware no longer idle threat</title>
+  <content>
+Ransomware is no longer an idle threat to small businesses. All businesses, no matter the size, and consumers alike are increasingly falling victim to international ransomware plagues. You may have heard of cyber attacks with names like WannaCry, Petya and CryptoLocker, which made headlines all over the world. You know a computer problem is bad when it starts threatening the national chocolate supply.
+That's ransomware - malicious software that holds all your files for ransom, so that criminals can charge you to get them back. In late June ransomware hit the computer system running Cadbury's Tasmanian chocolate factory.
+But as well as threatening your chocolate consumption, ransomware may require you and your business to change the way computer files are backed up. If your business is infected, the first step should be to isolate the affected computer from the network, to prevent the software spreading any further. You (or your IT support) can then rebuild the computer and restore your data from backups.
+The data security challenge
+For most businesses, data is key. Programs can be downloaded and reinstalled; even operating systems can be loaded up anew. Data is different; it constantly changes, and losing it can kill your business. When companies have suffered catastrophic data loss, according to one University of Texas study, 43 per cent never reopened. So keeping data safe requires special techniques.
+For decades, data security's big worries have been file errors, drive failures and physical disasters like fires. To survive these problems, data security experts have long recommended a "3-2-1" system - at least three copies of your data, two of them on different devices in your office, and one copy somewhere offsite in a different physical location.
+How ransomware disrupts most backups
+With the emergence of ransomware, this copy-only strategy has suddenly become much more dangerous. Your server-based files are all vulnerable to ransomware encryption if they're on the network and addressable by Windows. And your mirrored copy will faithfully replicate that encryption. So too will your backups. If you're using Windows' built-in backup systems, the backup files it creates can also be encrypted, note experts like David Markus, founder of IT consultancy Combo.
+So now you don't just need to replicate your data; you need to make sure that you have a copy that ransomware can't encrypt because it's not on the network. Ideally, as outlined above, this backup should be versioned (letting you choose the date and even time to restore to) and offsite (keeping it safe from both network infections and physical office catastrophes).
+And if you're not sure that you have a good backup system in place, now is a good time to reassess and improve your data recovery measures. The recent worldwide cyber attacks should serve as a "wake-up call", especially for small businesses who need to remain vigilant, as literally anyone can become a target.
+Cloud-only software resists ransomware
+One way to protect your data is with all-cloud systems ("cloud" is the IT term for "someone else's server which you access over the internet"). Cloud-based software such as Google's Gmail program and Xero's accounting software store data in remote data centres with multiple layers of security.
+Part of that protection is redundant systems and multiple copies of your data, meaning that the cloud service is highly resilient and unlikely to be affected by system outages. Real-time data replication and regular backups minimise the risk of any data loss.
+The cloud model of delivering software as a service means that most of the application code runs in the cloud, where the cloud service provider is able to keep it up to date with the most recent software versions and security patches. Keeping software up to date is critical to avoid having a vulnerability that could be exploited by ransomware. They also have teams of people dedicated to keeping your data secure, and enterprise grade security solutions to prevent, detect and respond to any security issue.
+Back up all your data
+But you will likely also have a great deal of data that is not in a cloud-only system - data that lives on your internal networks, from instruction manuals to copies of your logo.
+To protect this data from ransomware, you need to do two things:
+Keep your backups somewhere that is not part of your online network file system.
+Keep earlier versions that you can restore in bulk if ransomware encrypts the originals.
+You may have your data synched to an online storage system like Google Drive or Microsoft OneDrive. But few if any of these cloud storage systems allow you to automatically restore all of your files to a specified point in time. If the online storage service does keep earlier versions, you may have to restore them manually, file by file. Your files probably number in the tens of thousands, so this is a weak solution; Combo's David Markus is one who warns against using ordinary cloud storage systems for backup.
+Instead, most businesses will need to implement one of two reliable ransomware-proof systems.
+A full versioned backup to a disconnected disk
+Backup your files and data daily, either in the cloud or offline on an external hard drive. Keep this disconnected from your network anytime you're not backing up your data. If it's connected, it can get encrypted too. However, these strategies suffer from relying on a staffer doing something every day in a disciplined manner. As David Markus wryly notes, "businesses that have a manual process for backup are one HR change away from having no backup at all".
+A full versioned backup online
+Several firms offer to back up all your files over the internet, encrypted so that even hackers can't get at information owned by you or your clients. PCMagazine evaluated 10 dedicated backup services in July 2017 and ranked several as Editors' Choices.
+This is not scaremongering
+How important is protection against ransomware? Important enough that the Australian Signal Directorate lists ransomware as its second-biggest cybersecurity threat. A well-structured backup plan has always been important, but it's never been more vital.
+Paul Macpherson is Head of Security, Xero
+</content>
+  <sindexList>
+  <sindex>
+    <name>HR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Petya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's Gmail</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Texas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CryptoLocker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Signal Directorate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Macpherson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Markus</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2017</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Editor's Choice</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PCMagazine</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft OneDrive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Head of Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cadbury's Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

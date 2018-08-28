@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410514546847696</docid>
+  <date>01/08/2017</date>
+  <time>23:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/09/14/wine-growers-toast-rise-in-farmgate-prices</url>
+  <title>Wine growers toast rise in farmgate prices</title>
+  <content>
+Australian wine growers are toasting a healthy jump in the money they are paid for their grapes.
+The average farmgate price paid to grape growers increased seven per cent to $565 a tonne in the past year, while the amount of grapes crushed to make wine rose five per cent to 1.9 million tonnes, new figures from Wine Australia show.
+"The increases reflect excellent seasonal conditions in many regions as well as the growing demand for Australian wine, both in export and domestic markets," Wine Australia chief executive Andreas Clark said on Wednesday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Andreas Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wine Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

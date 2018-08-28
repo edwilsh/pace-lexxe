@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416742249543197</docid>
+  <date>02/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/australias-all-important-services-sector-is-humming-2017-8</url>
+  <title>Australia's all-important services sector is humming</title>
+  <content>
+The Australian services sector continues to gain momentum, as the Ai Group's PSI index posted its fifth straight month of gains in July.
+
+The index rose by 1.6 points to 56.4, with all five sub-indexes above 50 which indicates growth in seasonally adjusted terms.
+
+The PSI measures changes in activity levels across Australia's services sector from one month to the next. Anything above 50 signals that activity levels are improving while a reading below suggests they're deteriorating.
+
+Gains in July were led by the sales sub-index, which rose by 5.6 points to 60.3.
+
+Employment, deliveries and inventory levels all climbed at a faster pace than June. Although new orders still climbed, it was the only one of the five sub-indexes to show a slower pace of expansion than the previous month.
+
+This chart paints a neat picture of the monthly movements:
+
+Six of the nine sub-sectors that the Ai Group index tracks also expanded at a faster pace than in June.
+
+"Personal and recreational services registered 62.1 points, finance and insurance improved to 59.6 points and communication services improved to 56.3 points in July," Ai Group said.
+
+Health services and the hospitality sector both recorded a stable reading of around 50.
+
+However, the tough trading conditions in Australian retail were reflected by a PSI contraction in the retail sector, which had a reading of 44.7.
+
+"Respondents noted steady demand for business-to-business services," Ai Group said.
+
+"Some businesses noted an improvement in consumer confidence, but this does not seem to be translating into better conditions or sales in retail. Others said continued competition from offshore and online providers is dampening activity across local consumer-oriented services sectors."
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ai Group</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PSI</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ai Group's PSI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

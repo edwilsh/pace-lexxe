@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420517525865986</docid>
+  <date>03/08/2017</date>
+  <time>14:09</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/salmon-farm-plan-for-long-bay-on-the-tasman-peninsula/news-story/42163bca37495c03628777cb82ac25b1</url>
+  <title>Tassal to reopen Port Arthur fish farm</title>
+  <content>
+Tassal plans to farm salmon at Port Arthur's Long Bay for the first time in more than a decade.
+The company is preparing to open seven pens at a 15ha site at Long Bay, which hasn't been farmed since 2006.
+There are plans for seven more pens in the future.
+Greens leader Cassy O'Connor said mooring work was under way at Long Bay.
+Ms O'Connor said more community consultation was needed and called on Tassal and the State Government to be more upfront.
+"It's a concern when you have an industry that's so poorly regulated ... that they think that they can go back into a bay in Port Arthur and start works without letting Tasmanians know," she said.
+A Tassal spokesman said that was incorrect.
+"We have been nothing but transparent in our communications with stakeholders about our plans for the Port Arthur lease," he said.
+"Tassal has met with a range of stakeholders ... in the Tasman region there were two advertised public meetings and numerous one-on-one stakeholder meetings and farm tours. New baseline studies have been completed and the Department of Primary Industries, Parks, Water and the Environment has been consulted about restocking."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms O'Connor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Long Bay</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cassy O'Connor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Arthur's Long Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tassal</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Port Arthur</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Primary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

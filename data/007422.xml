@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411029942931793</docid>
+  <date>02/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/forked-bitcoin-cash-off-to-volatile-start-469890</url>
+  <title>Forked Bitcoin Cash off to volatile start</title>
+  <content>
+The eagerly awaited new cryptocurrency Bitcoin Cash has had a rocky start, with its value fluctuating wildly in its first day of operation.
+
+It started trading today at approximately US$557 per Bitcoin Cash (), but is currently down to around US$223.
+
+The existing Bitcoin currency that Bitcoin Cash is based on is also down today, dropping from over US$2900 to around US$2700.
+
+was created through a software upgrade, or fork, to the exiting Bitcoin currency.
+
+The fork allows for larger transaction records - up to 8MB from 1MB - for Bitcoin Cash's blockchain distributed ledger.
+
+The larger record block was introduced to improve the performance of cryptocurrency transactions; the existing Bitcoin 1MB block size limits it to between three to seven transactions per second. 
+
+This limit has resulted in higher trading fees and stalled transactions as the platform struggled to cope with growth in the Bitcoin trading environment.
+
+Bitcoin Cash will become the new default Bitcoin only if it can persuade coin miners to shift over to the new currency.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MB</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$557</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2900</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin 1MB</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US$2700</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$223</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422244102754048</docid>
+  <date>03/08/2017</date>
+  <time>20:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/06/34/calls-for-aust-missile-defence-shield</url>
+  <title>Calls for Aust missile defence shield</title>
+  <content>
+A former national security adviser has urged Australia to get over its ideological hang-up about missile defence shields in order to combat potential threats from North Korea and China.
+Andrew Shearer who worked under prime ministers John Howard and Tony Abbott has made the case in an opinion piece he co-authored with Thomas Mahnken, a former official in the Bush administration.
+"As the range of Chinese and North Korean missiles grows and their arsenals expand, it will also be necessary to consider the need to protect Australia itself," the pair wrote in The Australian.
+"Northern bases and the forces they host will be the first to come under threat, although over time the missile threat will likely extend to all of Australia."
+The pair argued it was not too soon to begin thinking about the requirements of continental missile defence.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Mahnken</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Howard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Shearer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Abbott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bush</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

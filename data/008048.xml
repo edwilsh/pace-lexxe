@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411541044047953</docid>
+  <date>02/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/02/rundle-the-murray-darling-furore-epitomises-the-failure-of-right-wing-politics/</url>
+  <title>Rundle: Murray-Darling basin furore epitomises failure of Nationals and right-wing politics</title>
+  <content>
+Diverse senators from South Australia gathered the other day, in front of one of those stone standing statues of man-cats the Egyptians used to have. Oh no, it was Cory Bernardi, who couldn't have been less happy to be in a room with Nick Xenophon and Sarah Hanson-Young if a bowl of car keys were being passed around.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rundle</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Hanson Young</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Xenophon</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Egyptian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Murray Darling</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cory Bernardi</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

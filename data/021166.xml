@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441227858431021</docid>
+  <date>06/08/2017</date>
+  <time>22:31</time>
+  <isTopNews>false</isTopNews>
+  <source>PC Magazine Australia</source>
+  <url>http://au.pcmag.com/ios/49165/news/how-to-turn-off-or-customize-notifications-in-ios</url>
+  <title>How to Turn Off or Customize Notifications in iOS</title>
+  <content>
+You have an iPhone, iPad, or Apple Watch, but you don't always want to be alerted to or bothered by phone calls, text messages, and other types of notifications. Maybe you're in a public place where you can't take calls or messages, or perhaps you simply need some quiet time.
+The good news is, you can disable such notifications for your mobile device. The process differs between iOS and watchOS, but is quite doable on both platforms. Let's see how this works.
+
+iPhone and iPad
+
+The simplest and quickest way to disable notifications on your iOS device is through the "Do Not Disturb" option, which prevents phone calls, text messages, alerts, and other notifications from popping up on your screen, making a noise, or vibrating your device while it's locked. Phone calls and text messages still arrive. You just won't see or hear any notification of their arrival.
+
+To turn this on, swipe up from the bottom of the screen to bring up the Control Center, and tap the icon that looks like a half moon. A brief message flashes: "Do Not Disturb: On." Tap anywhere on the home screen to get rid of the Control Center screen. You'll then see the half-moon icon in the upper-right corner.
+
+You can also enable this option via Settings > Do Not Disturb > Manual. Toggle "Manual" to on; "Do Not Disturb" will then remain on until you turn it off, though you do have options to better control what notifications you receive and when.
+
+Return to Settings > Do Not Disturb. Make sure the Manual button is turned off, and tap the Scheduled button. Here you can schedule a specific timeframe, known as Quiet Hours, during which "Do Not Disturb" is enabled. For example, if you don't want to hear notifications while you're asleep, you can set the "From" time for when you go to bed and the "To" time to when you expect to wake up. Your Quiet Hours will take effect every day or night until you turn off the Scheduled button.
+
+Next, maybe you want to be alerted to phone calls just from certain people-in the event of an emergency, for example. Turn Manual or Scheduled on, and tap the setting for "Allow Calls From." Here you have four options: 1) Everyone; 2) No One; 3) Favorites; or 4) All Contacts. Selecting Favorites or All Contacts typically makes the most sense as it would allow calls only from people on your Favorites list or from anyone in your address book, preventing a stranger from calling you during your Do Not Disturb period.
+
+Back at the "Do Not Disturb" screen, you can also turn on the option to allow Repeated Calls based on the assumption that someone who needs to reach you in the event of an emergency might try calling several times in a row.
+
+Finally, at the bottom of the "Do Not Disturb" screen in the Silence section, you can choose to prevent incoming calls and notifications always, meaning whether the iPhone is locked or unlocked, or only when the phone is locked.
+
+App-Specific Notifications
+
+If you want to turn off notifications for specific apps, or adjust how they appear on your device, navigate to Settings > Notifications. There, you'll find a list of installed apps that support notifications.
+
+Let's say you want to customize alerts about Facebook activity. Tap Facebook and toggle "Allow Notifications" to on if it's not already activated. Below it, you can choose whether: to show Facebook alerts in the Notification center (the menu that appears when you swipe from the top); if alerts make a sound; if unread alerts will register with a number atop the icon on your home screen (Badge App); and whether alerts show up on the lock screen, and how.
+
+Most apps also require you to go into the app and customize the types of alerts you'll receive. For Facebook, navigate to the Hamburger menu > Settings > Account Settings > Notifications > Mobile to set preferences for things like comments on posts you're tagged in or updates to an event you joined.
+
+Apple Watch
+
+Notifications on an Apple Watch are less noisy than they are on an iPhone or iPad. But you can still prevent them from appearing, especially if you're in a public place where you don't want to bother other people. Your Apple Watch's "Do Not Disturb" mode mimics the settings from your iPhone, so enabling it on your iPhone automatically enables it on your watch.
+
+On your iPhone, tap on the Watch app. Swipe down to the General setting, and tap on "Do Not Disturb." Make sure the option to Mirror iPhone is turned on. The fine print below this option indicates that your watch takes on the same "Do Not Disturb" settings that you enabled on your phone.
+
+You can also enable "Do Not Disturb" from your Apple Watch, which also enables it on your iPhone or iPad. At the clock face, swipe up to display the Control Center. Then tap on the half-moon icon to turn on "Do Not Disturb" mode.
+
+For more, check out:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iOS</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Mirror iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turn Off</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Allow Notifications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>All Contacts</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Repeated Calls</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Specific Notifications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Control Center</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Calls From</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>watchOS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>8</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Everyone; 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Account Settings</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple Watch</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Quiet Hours</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Customize Notifications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Badge App</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>One; 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

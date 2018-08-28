@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422965657273900</docid>
+  <date>03/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/09/37/ex-union-boss-charged-with-destroying-docs</url>
+  <title>Ex-union boss charged with destroying docs</title>
+  <content>
+Former union boss David Hanna has briefly appeared in court charged with destroying documents.
+Hanna, 52, was reportedly charged in June with the offences that allegedly occurred in April 2014.
+The case will return to Brisbane Magistrates Court on October 6.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>OCTOBER 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ex-union</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>David Hanna</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Hanna, 52</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2014</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

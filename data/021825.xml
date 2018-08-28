@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441227858431080</docid>
+  <date>06/08/2017</date>
+  <time>22:31</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/entertainment/celebrity/vegans-annoy-me-why-jamie-oliver-cant-stand-antimeat-activists/news-story/77eab1e1f4c1bf53be118f9fc16e0fed</url>
+  <title>Why vegans 'annoy' Jamie Oliver</title>
+  <content>
+CELEBRITY chef Jamie Oliver is really losing his patience with anti-meat activists, who he says 'hate' him ... and it seems the feeling is mutual.
+The British cook claims vegans "annoy" him because they've disrupted diners at his restaurants, trying to convince customers not to eat animals.
+"They hate me because we do stories about higher welfare meat, which I am deeply passionate about, but for them it is on or off - there ain't no stepping stones, whereas I'm all about stepping stones," Oliver told Britain's magazine.
+"Vegans do annoy me, but I also do care for them."
+Oliver claimed one of his restaurants was targeted by "20 scruffy, weird-looking fellas putting iPads of slaughtered animals in front of kids having spaghetti bolognese on a Saturday lunch".
+His restaurant in Bristol was targeted by vegan activists in March, the Daily Mail reports, after they took offence to comments Oliver made about so-called "happy milk".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oliver</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jamie Oliver</name>
+    <count>2</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daily Mail</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bristol</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

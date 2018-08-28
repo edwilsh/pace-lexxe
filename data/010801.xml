@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416952702944957</docid>
+  <date>03/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/transport/automobile/germanys-car-industry-suffers-a-tesla-shock-20170802-gxo94v</url>
+  <title>Germany's car industry suffers a Tesla shock</title>
+  <content>
+by
+John Gapper
+
+There is plenty of ; the question is whether Elon Musk can produce them all. BMW and Daimler have the converse problem: they are good at making diesel cars but who wants one?
+After decades of success, dominating the global luxury market with impeccably designed engineering marvels, Germany's carmakers face their iPhone moment.
+Like BlackBerry and Nokia before, they are confronted with a US company selling an elegant device based on superior technology.
+BMW, Daimler and Volkswagen executives gathered in Berlin on Wednesday with ministers at a "diesel summit" to discuss how to mitigate the technology disaster that the industry has brought on itself. They might as well not have bothered: diesel is dying and the only question is how long it will take.
+
+Alex Kraus
+
+The  the halo from Germany's iconic industry. The US industry never offered any real competition for its luxury driving machines: a Cadillac is no Mercedes.
+
+But Mr Musk has eagerly taken on the challenge that Detroit long ducked: he has more than 400,000 pre-orders for his creation, which went into production last month across the bay from Silicon Valley.
+Tesla's founder is a showman who often over-promises, but the fates are with him. He could not have picked a better moment to start selling his first volume car.
+Not only is VW still embroiled in a scandal over its illegal use of software to disguise vehicle diesel emissions, but the top five German carmakers are under investigation by antitrust authorities over whether they formed a buying cartel.
+The cartel investigation, revealed by Der Spiegel magazine, speaks to Germany's consensual culture of co-operation among companies, suppliers, research institutes and governments.
+
+While it has produced enviable results, as has Japan's keiretsu tradition of corporate alliances, standards-setting may have degenerated into collusion.
+The question is why they gathered at conference tables in the first place. The carmakers may have broken the law by, for example, reducing the size of the chemical tanks they used to limit nitrogen oxide emissions from diesel engines, although BMW denies it.
+But why was there any need to agree on common components?The answer is that making a car with a combustion engine is a fiendishly complex task and carmakers depend on intricate networks of suppliers.
+That is especially true when they need to wrap technology around diesel engines to make the emissions less noxious. Anything that makes this simpler, and by extension cheaper, is a godsend to the conventional carmaker.
+
+Considered in this light, Tesla has a crucial advantage over them. An electric car is easier to make than one with a combustion engine because it has many fewer parts: Mr Musk says that a Tesla 3 has between 6,000 and 7,000, while Goldman Sachs estimates that a traditional vehicle has 30,000.
+Mr Musk would thus have fewer reasons to join a parts cartel, even if he wanted to. Tesla is still learning how to produce cars at scale - its output has been hampered by battery shortages - and he predicts that it faces "six months of manufacturing hell" to ramp up production to meet his Tesla 3 orders.
+His assembly operation, though, is inherently cleaner and simpler. He has tried to make it simpler still by making the most important part himself - Tesla has built a vast battery factory in Nevada with Panasonic and plans others.
+He wants to take integration further by getting customers to fit solar roofs to charge in-home batteries that can fuel the electric cars.
+
+Tesla's strategy of being more integrated than other carmakers has echoes of Apple, which makes its own mobile chips and designs its own software.
+Another echo is the way both exploited a change in technology - for Tesla, the change from combustion engines to electric, and for Apple, the evolution from 2G to mobile broadband at the time of the 2007 iPhone launch.
+Carmakers could prove more adaptable than Nokia and BlackBerry were to technology disruption.
+They have accelerated their electric-vehicle initiatives, such as General Motors' Chevrolet Bolt car.
+
+But the Tesla 3 is designed to lure buyers of luxury cars, not mass brands such as Chevrolet, and BMW, Audi and Daimler are now in a painfully vulnerable condition.
+More than half the cars sold in western Europe before the VW crisis had diesel engines and diesel's share of luxury cars with fuel-thirsty engines was even higher.
+As European cities clamp down on pollution, and companies whose cars emit illegal levels of pollutants in real-world driving face fines, sales are falling.
+Germany's diesel summit can do precious little to alter that.
+German carmakers will turn to other engines, including the plug-in hybrid and electric engines that BMW expects to comprise between 15 and 25 per cent of its sales by 2025.
+But their halo has slipped and in Tesla they face a competitor without such legal liabilities and technological baggage.
+Life is getting more complex for the bosses of BMW and Daimler as it gets simpler for Mr Musk. In this industry, simplicity is worth a lot.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMW</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Chevrolet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VW</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>8</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>Alex Kraus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla 3</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mercedes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nokia</name>
+    <count>2</count>
+    <score>4.5</score>
+  </sindex>
+  <sindex>
+    <name>Audi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Volkswagen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Detroit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Nevada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cadillac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berlin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BlackBerry</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Panasonic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Der Spiegel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daimler</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Gapper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Musk</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>General Motors' Chevrolet Bolt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

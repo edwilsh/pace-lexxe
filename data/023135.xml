@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443452651520669</docid>
+  <date>07/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/energy/oil/hedge-funds-get-behind-a-rising-oil-price-20170807-gxqxin</url>
+  <title>Hedge funds get behind a rising oil price </title>
+  <content>
+by
+Jessica Summers
+
+Oil seems to have hedge funds in its corner as futures stagger toward $US50 a barrel.
+Money managers haven't been so optimistic about West Texas Intermediate crude since April, piling on bets that prices will rise while short-sellers step back. It helps that supplies in the US, the biggest oil consumer, have shrunk to the lowest this year.
+"We've seen 21 million barrels of US inventory declines this quarter. That's pretty substantial," said Rob Thummel, a managing director at Tortoise Capital Advisors. "That has kind of sent some of the bears back into hibernation."
+The vote of confidence comes at a time when Saudi Energy Minister Khalid Al-Falih is said to have met with some of the world's top commodity hedge funds - an apparent departure from the kingdom's past criticism of speculators.
+
+But that's not to say that everything is rosy. Andy Hall, the storied oil trader who for years had been bullish on oil, is said to be closing down his main fund after saying last month that the global crude market had "materially worsened" and that prices may be stuck around $US50 or lower.
+
+While the summer's surge in gasoline demand brings crude stockpiles lower, top shale drillers like EOG Resources and Pioneer Natural Resources have outlined goals that would help push US output toward a record 10 million barrels a day next year. The nation's production is already at its highest in two years.
+In the midst of so many mixed signals, WTI closed above $US50 at the start of last week only to fall back below the key level the next day. It's been stuck in a $US10 range for more than three months. The US benchmark was trading 0.3 per cent lower at $US49.42 a barrel on Monday in Singapore. 
+Hedge funds increased their WTI net-long position - the difference between bets on a price increase and wagers on a drop - by 18 per cent to 282,362 futures and options in the week ended August 1, data from the US Commodity Futures Trading Commission show. That's the most bullish stance in more than three months. Longs climbed 13 per cent, the biggest jump since January. Shorts slipped for a fifth week, down 1.6 per cent to the lowest level since the end of April.
+Disruptions in supplies from Venezuela
+
+Earlier in the summer, there were doubts over whether production cuts from the Organisation of Petroleum Exporting Countries were working, but those seem "to have kind of gone by the wayside", Gene McGillian, market research manager at Tradition Energy in Stamford, Connecticut, said. With the market slowly coming back to balance and the recent close above $US50, the addition of bullish WTI bets is a "sign that there is at least part of the trading community that is thinking that this is going to continue".
+The possibility of disruptions in supplies from Venezuela also helped prop up oil prices. Defying the threat of expanded US sanctions, the assembly that will rewrite the troubled country's constitution met for the first time last week and selected as its leader a fiery ally of President Nicolas Maduro. In the White House, officials were divided over whether to restrict imports of Venezuelan crude, according to a person familiar with the planning.
+"You also had the prospect at that point of sanctions against Venezuela as a bullish indicator," Tamar Essner, an energy analyst at Nasdaq in New York, said by telephone.
+As for fuel markets, the net-long position on the benchmark US gasoline contract jumped for a sixth week to the most bullish since February. Money managers flipped to net-bullish from bearish on diesel.
+
+"We're in a healthier state than where we were a month or two ago," Ms Essner said. Yet, explorers have shown that "they are still able to produce more. Some of them have curtailed their guidance on production, but they are still showing production growth. The seeds are very well-planted for the market to be well-supplied in 2018."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Organisation of Petroleum</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Pioneer Natural Resources</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WTI</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>West Texas Intermediate</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EOG Resources</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ms Essner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andy Hall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tradition Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US49.42</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Exporting Countries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gene McGillian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tortoise Capital Advisors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Summers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tamar Essner</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Stamford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rob Thummel</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US Commodity Futures Trading Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Energy Minister Khalid Al-Falih</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Connecticut</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424129593428533</docid>
+  <date>04/08/2017</date>
+  <time>04:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/breaking-car-crashes-through-front-fraser-coast-pu/3208840/</url>
+  <title>BREAKING: Car smashes through bistro of Fraser Coast pub</title>
+  <content>
+UPDATE, 1.55PM: A Queensland Police Service spokesman said patrons were being treated for minor injuries.
+
+"We believe an elderly female lost control of the car," he said.
+
+"It has knocked about three people off their chairs that may have been sitting outside.
+
+"Nobody is seriously injured.
+
+"The lady driver is being treated for a bit of shock.
+
+"The three people hit may have experienced a bit of bruising but nobody is seriously injured.
+
+"It appears she hit the accelerator instead of the brakes."
+
+EARLIER: Seven people are being assessed by paramedics after a sedan drove through the bistro at the Old Sydney Hotel in Ellena St, Maryborough.
+
+Two ambulance crews are currently at the scene of the incident, which happened about 1.10pm on Friday.
+
+It is believed several people suffered minor injuries.
+
+The condition of the driver of the vehicle is not known.
+
+"It appears the vehicle has driven into the building," a spokesman from Queensland Ambulance Media said.
+
+Car crashes through Old Sydney Hotel's bistro on Ellena St, Maryborough.Boni Holmes
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maryborough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fraser Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Old Sydney Hotel</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maryborough.Boni Holmes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ellena St</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

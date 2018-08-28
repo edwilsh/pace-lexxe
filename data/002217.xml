@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400588877239448</docid>
+  <date>31/07/2017</date>
+  <time>08:49</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/turkey-detains-more-than-1000-in-raids/news-story/7404e45128957e6ae86d01c4ac2f4f49</url>
+  <title>Turkey detains more than 1000 in raids</title>
+  <content>
+Reuters
+
+Share
+
+Turkish authorities have detained 1,098 people over the last week for suspected links to militant groups or last year's failed coup attempt.
+In a statement, the interior ministry said 831 of those were detained for suspected ties to the US-based Muslim cleric Fethullah Gulen, whom Ankara blames for orchestrating an attempted coup in July. Gulen denies any involvement.
+It said another 213 of those were suspected of links to the outlawed Kurdistan Workers Party (PKK), which has carried out a three-decade insurgency against the government and is considered a terrorist organisation by the United States, Turkey and Europe.
+Forty-six people were detained over alleged links to Islamic State, while eight more were held for suspected ties to "leftist terrorist groups", the ministry said.
+Following the July 15 coup, Turkey has arrested some 50,000 people and sacked or suspended more than 150,000 in the military, civil service and private sector as part of a sweeping crackdown that has worried rights groups and some Western nations.
+The Turkish government, however, has said the purges were justified by the gravity of the threats it was facing.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kurdistan Workers' Party</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turkey</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ankara</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 15</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US-based Muslim</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PKK</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turkish</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gulen</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fethullah Gulen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

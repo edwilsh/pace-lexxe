@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425134615792465</docid>
+  <date>04/08/2017</date>
+  <time>08:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/this-diy-alarm-clock-rips-your-sheets-off/</url>
+  <title>This Arduino-Powered Alarm Clock Rips Your Sheets Off</title>
+  <content>
+Heavy sleepers might need a little something stronger than your standard alarm clock. Some ask you to throw them against a wall, while others , but none of them take direct action to wake you up. Furniture maker and  user  decided to make his alarm clock a little more functional, adding the delightful feature of literally pulling the sheets off of his sleeping body in the morning.
+
+Image credit: ho80/
+
+To build the alarm clock of my nightmares, 1upLiving installed a modified winch and spool under his bed to wind up his duvet cover. An Arduino microprocessor, hooked up to his alarm clock, would signal the winch to turn when the alarm went off, and slowly slide the duvet off the bed.
+
+, but you should probably try  before constructing an elaborate contraption designed to wake you up.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>upLiving</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arduino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arduino-Powered Alarm Clock Rips Your Sheets Off</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438217086326630</docid>
+  <date>06/08/2017</date>
+  <time>10:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/fire-strikes-another-tower-in-dubai-marina/news-story/90f0a892d2ceef2f4094c6f35a2cdecb</url>
+  <title>Fire strikes another tower in Dubai Marina</title>
+  <content>
+A fire has struck another high-rise tower in the Dubai Marina, just days after a blaze struck one of the world's tallest residential towers in the same neighbourhood.
+Witnesses said firefighters had already begun spraying water inside of the Tiger Tower on Sunday.
+Some smoke earlier hung near the tower's top floors as those inside evacuated the building.
+Emergency officials could not immediately be reached for comment.
+Early on Friday, a blaze hit the 86-storey Torch Tower nearby.
+It was the second time in less than three years that the 335-metre tower has been ravaged by fire.
+The Torch, located in Dubai's popular waterfront Marina district, also caught fire in February 2015. There were no major casualties reported in either blaze.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Torch Tower</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>February 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai Marina</name>
+    <count>2</count>
+    <score>-12</score>
+  </sindex>
+  <sindex>
+    <name>Tiger Tower</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398016191791777</docid>
+  <date>30/07/2017</date>
+  <time>22:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Motor Report</source>
+  <url>http://www.themotorreport.com.au/65436/porsche-cayenne-diesel-banned-for-sale-in-germany</url>
+  <title>Porsche Cayenne Diesel Banned For Sale In Germany</title>
+  <content>
+has apparently fallen foul of the German federal transport authority (the KBA, or Kraftfahrtbundesamt) leading to a registration ban for the .
+The ban comes after KBA testing discovered what it describes as suspect emissions manipulation software and was confirmed recently by German transport minister, Alexander Dobrindt.
+Testing discovered two Porsche models fitted with software that manipulates CO2 emissions by engaging a a so-called 'warm-up strategy mode' when the vehicles are used on a rolling road, as would be used for an emission test, thus allowing a lower CO2 output to be recorded compared to real world driving.
+The engine that powers the Cayenne Diesel comes from sister-company, , who handled that engine's development and production. The same engine can also be found in a range of models including the Audi's A4, A6, A8, Q5 and Q7 as well as the  and .
+In Porsche's case the Audi V6 in the Cayenne Diesel develops 193kW and is claimed to return 6.6L/100km on the combined European consumption test cycle for average CO2 emissions of 173g/km.
+
+To go with the immediate registration ban the KBA has also ordered a recall of as many as 22,000 Cayenne Diesels already delivered in Germany.
+The timing of the registration potentially places further strain on the relationship between the Volkswagen group's two prestige divisions and comes after comments made by Porsche union boss, Uwe Hueck, on Monday.
+Hueck wasn't afraid to hold back in comments against Audi, saying: "We feel deceived by Audi. The supervisory board should fire the management."
+Following the announcement of the registration ban, Porsche released the following statement: "Porsche has detected irregularities in the engine control software during internal investigations and has actively pointed this out to the KBA (Kraftfahrtbundesamt), German Federal Motor Transport Authority. The irregularities are not related to the transmission control software. Corrections by means of a software update within the scope of a recall were agreed with the authority."
+"Regardless of the recall, Porsche continues to carry out internal audits on its vehicles and derive optimizations from them. Furthermore, the company is still in close contact with the authorities, in particular the German Federal Motor Transport Authority, on all current matters."
+MORE:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>kW</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CO2</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Furthermore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>L/100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KBA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cayenne Diesel</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Uwe Hueck</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Audi's A4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Audi</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Volkswagen</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Q5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Q7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alexander Dobrindt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hueck</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Porsche Cayenne Diesel Banned For Sale In Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Audi V6</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Porsche</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>German Federal Motor Transport Authority</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kraftfahrtbundesamt</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

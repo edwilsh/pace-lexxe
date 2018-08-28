@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423051556620924</docid>
+  <date>03/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/mining-and-resources/iron-ores-goldilocks-moment-means-big-profit-without-new-supply-20170803-gxp1m4.html</url>
+  <title>Iron ore's 'Goldilocks moment' means big profit without new supply </title>
+  <content>
+The world's biggest producer of iron ore says the industry is enjoying a "Goldilocks moment", with prices generating a tidy profit but not enough to lure much new supply.
+"The market is in a sweet spot right now from $US60 to $US70," Vale chief financial officer Luciano Siani Pires told Bloomberg Television on Thursday.Photo: Louie Douvis
+"It is a price which does not incentivise too much swing capacity to come back and it's a very profitable range for major mining companies."
+Prices of the steel-making ingredient have see-sawed this year, rallying to $US95 in February before tumbling to $US53 in mid-June as glut fears resurfaced.
+
+Now they're back above $US70 after an up-tick in demand from Chinese steel mills.
+But prices probably will average $US50 in the final three months as falling steel prices hurt mills' margins, according to Barclays. India's JSW Steel said this week that prices might go as low as $US40.
+
+Vale disagrees.
+It's betting prices will stay in a $US60 to $US70 range for the rest of the year, supported by still "very strong" demand and supply "that is a little more tame," Siani Pires said from Bloomberg's Rio de Janeiro office.
+More normal
+
+For Vale - even more so than its main rivals, Rio Tinto and BHP Billiton - the differences in price outlook are a big deal.
+Each $US1 drop in iron ore had a $US350 million impact on the Brazilian company, the CFO said. That in turn affects its ability to bring down a whopping $US22 billion debt load and return cash to shareholders.
+While China's demand outlook remained bright, underpinned by infrastructure spending, growth was set to return to "more normalised" levels from the current rate of about 5 to 6 per cent, he said.
+"We're positive about China and we never shared the views that the country would collapse," Siani Pires said.
+Bloomberg
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vale</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Louie Douvis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Luciano Siani Pires</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BHP Billiton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barclays</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janeiro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India's JSW Steel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldilocks</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg Television</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg's Rio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siani Pires</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US350</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CFO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$95</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$70</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US$60</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$53</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

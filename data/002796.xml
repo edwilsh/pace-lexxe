@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402019101377313</docid>
+  <date>31/07/2017</date>
+  <time>14:22</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/adopting-android-puts-nokia-back-in-sweet-spot/news-story/f6d7c283d3bf4eb4f623052c7145d539</url>
+  <title>Android puts Nokia in sweet spot</title>
+  <content>
+Nokia's rise from the dead is a heartfelt story, but is it enough to make me buy the Nokia 6? That's the question I confronted when I took delivery of a review unit last week.
+Nokia became the biggest--selling mobile phone brand in the late-1990s but like BlackBerry, its inability to cope with disruption by Apple led to its eventual demise. In particular it clung to the inflexible Symbian operating system that was outclassed by the iPhone OS.
+Nokia did eventually respond by developing a Linux-based operating system called MeeGo. In 2011 it released the N9 with MeeGo. I reviewed and liked it.
+But after being pressured or courted or both, Nokia went instead for a partnership with Microsoft, which spent $US7.9 billion buying Nokia's feature phone business. Eventually Windows phones failed.
+All along Nokia avoided taking the obvious and easiest path, and that was to go with Android.
+Years later, it has. Under new Nokia owner HMD Global, we -finally have Nokia phones sporting Google's OS. That's six years after it should have happened.
+The first wave of these, the Nokia 3, 5 and 6 handsets, are on sale in Australia and I've been trialling Nokia 6.
+While it's the premium handset of the three models, it is a mid-range handset in the broader Android market. It does not represent the return of Nokia as a premium brand.
+The design is great. Nokia 6 has an aluminium unibody and thin bezel at the sides. It looks and feels a more expensive phone. But the camera assembly slightly juts out at the back, which is a pity.
+The left hand side of the phone has a single tray for a SIM card and microSD card that supports up to 128GB of storage. That together with 32GB internally means lots of storage for a cheap phone. There's 3GB of RAM too.
+The major compromise is the phone's entry-level Snapdragon 430 chip set, which, while capable, can offer some sluggish performance. That may not bother you much, but it did bother me sometimes when opening the phone's back-facing camera.
+A couple of times I felt I had missed the -moment.
+The phone scored 46,280 with the AnTuTu benchmark, which is low given July's top ranking Xiaomi Mi 6 scored 184,292 and iPhone 7 clocks in at 178,397. According to AnTuTu, Nokia 6's Adreno 505 graphics is capable of mid-level games performance, and the CPU can support large apps and multi-tasking
+The Nokia 6 has a good 5.5-inch IPS display. It's 1080p rather than higher resolution quad HD, but you get 403 pixels per inch density, which is more than -acceptable on a budget phone.
+Daytime images taken with the phone's back-facing camera are sharp although colour is a little lacklustre. The back camera snaps 16MP 4.3 image, but I preferred taking wider 16:9 images at 12MP. The front-facing selfie camera is rated 8MP but again, if you want 16:9 you drop to 6MP.
+Outside on the weekend, I could barely see the display when it was rotated 90 degrees into landscape mode while wearing my prescription, polarised sunglasses. The screen was almost blank. That's because it uses an LCD and not AMOLED. Sunny weekend weather exposed the problem.
+
+The phone has a large 3000-milliampere-hour battery. Using our standard video playback test at 50 per cent brightness it delivered eight hours 44 minutes of continuous playback. Charging however is slow. You use a standard microUSB cable, not USB Type-C.
+One of the highlights of this phone is HMD Global's decision to stick with standard Android. It means you get the latest version, currently Nougat. You can for example access shortcuts to actions within apps by tapping gently on their icon. The phone supports NFC and you can use Android Pay if your financial institution offers it.
+The home button doubles as a fingerprint sensor and is quick. But I don't need it so often as I have configured my home address as a "trusted location" - a feature that became available with Android Lollipop.
+One annoyance: the plug has the USB slot at the side rather than top, so it can be a space hog on a power board. I'll be calling out similar plug hogs in future because it's lazy design in 2017.
+At $399 it would be unfair to compare Nokia 6 with premium phones such as Google Pixel, Samsung S8 or Huawei P10. Nokia 6 doesn't bat in the same competition.
+But you can compare it with other mid-level phones. The Huawei Y5 2017, for example, is cheaper at $199 but has a slightly smaller five-inch display at a lower 720p resolution, and lower resolution 8 and 5 MP cameras.
+Oppo R11 has a comparable 5.5-inch screen to Nokia 6, a better camera system with dual 20MP back and 16MP front facing cameras, and a faster eight-core processor, but you pay $649.
+Perhaps the most relevant competition comes from an old competitor, Motorola. It's G5 Plus has a slightly smaller 5.2-inch IPS display but it's 1080p with similar pixel density, a faster processor, slightly better graphics, but smaller resolution cameras (12 & 5MP). It costs about $300. It comes down mainly to a better camera versus a better processor.
+In the end, the Snapdragon 430 processor makes Nokia 6 sometimes lag more than I like, but there's lots of pluses: the design, NFC, fingerprint sensor and in particular, vanilla (unmodified) Android Nougat, which means you get many of Google's latest software bells and whistles all for $399, which is a pretty good deal.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Huawei P10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android Lollipop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MP</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Snapdragon 430</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>US7.9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LCD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NFC</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>N9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPs</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nokia 6</name>
+    <count>9</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android Nougat</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nougat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMOLED</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huawei Y5 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nokia</name>
+    <count>10</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Adreno 505</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MP 4.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Motorola</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android Pay</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Linux-based</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Oppo R11</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>microUSB</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SIM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G5 Plus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Pixel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BlackBerry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MeeGo</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>microSD</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>USB Type-C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AnTuTu</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Xiaomi Mi 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Symbian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nokia 3, 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone OS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Samsung S8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CPU</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GB of RAM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HMD Global</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's OS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

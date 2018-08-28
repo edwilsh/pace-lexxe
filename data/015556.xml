@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424778133500395</docid>
+  <date>04/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/south-east-australia-warned-to-brace-for-a-major-winter-storm-this-weekend/news-story/5692de0da6f15029584ef3c630750068</url>
+  <title>'Major winter storm' headed for SA</title>
+  <content>
+TORRENTIAL rain, blasting winds in excess of 100km/h and potential flooding in the Adelaide Hills - and we thought winter was on the way out.
+Meteorologists are warning of a "serious winter storm" this weekend across Australia's south east with a trifecta of gales, showers and blizzards.
+South Australia and Victoria will take the assault head on, with the ACT and NSW also affected, as a polar low moves north from the Southern Ocean towards western Bass Strait.
+Chief Meteorologist Tom Saunders said the brunt of the bad-tempered weather is expected to arrive over the weekend.
+"Both states can expect strong to gale force winds Saturday and Sunday with gusts over 90km/h widespread in exposed coastal and elevated regions," he said.
+Adelaide and Melbourne are likely to see damaging gusts, especially late Saturday and early Sunday, when the stronger of two fronts sweeps overhead.
+It has led to a flood watch warning for the Mount Lofty Ranges District.
+Heavy rain is expected to lash the area from Friday afternoon - especially the upper Onkaparinga and upper Torrens Catchments, the Bureau of Meteorology said.
+"Further rain is expected on these catchments from Saturday afternoon, continuing into Sunday, which may result in river and creek rises throughout the Mount Lofty Ranges."
+"Localised minor flooding is possible from Saturday evening particularly from Oakbank to Verdun and may lead to some road closures."
+The BoM predicts up to 30mm on Friday with a further 50 to 90mm possible this weekend.
+Some of the heavier showers, mainly on Sunday, may also produce some hail and thunder.
+After a dry start to winter, 50mm over four days in Mt Gambier would be its heaviest rain in five months.
+If Adelaide receives forecast of 30mm it would be heaviest fall in the state's capital in three months.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Verdun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chief Meteorologist Tom Saunders</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bass Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Hills</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mount Lofty Ranges</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Onkaparinga</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Southern Ocean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Gambier</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Torrens Catchments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Lofty Ranges District</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Oakbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

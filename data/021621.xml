@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441910758239696</docid>
+  <date>07/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/technology/gadgets-on-the-go/lets-fix-australias-patchy-mobile-coverage-before-nbn-kills-off-reliable-home-phones-20170807-gxqmoy.html</url>
+  <title>Let's fix Australia's patchy mobile coverage before NBN kills off reliable home phones</title>
+  <content>
+When will Aussies retire their home phone? Maybe when the mobile networks deliver on their promises.
+Last week I asked , while admitting that I still have one as a security blanket even though I barely use it. The overwhelming response from readers, both online and in the paper, was that a fixed-line phone remains essential because Australia's mobile coverage is so unreliable.Photo: Jessica Shapiro
+With all the focus on the hotch potch NBN rollout, I admit I overlooked the fact that many people still can't rely on their mobile phone at home. It's not just an issue in regional and remote Australia, mobile black spots also plague metro areas - with some people getting no coverage at all and others needing to stand outside to get a reliable signal.
+These aren't isolated cases, with a third of Australians experience mobile coverage issues at home, according to a  survey.
+The problem with black spots is so bad that 14% of respondents say they simply can't rely on their mobile phone when they're at home. Their fixed-line phone is their only reliable link to the outside world, yet once the NBN reaches them they'll likely be stuck with a home phone that dies when the power or internet goes out.
+Plans to offer every home a battery backup for their NBN home phone have been abandoned with the switch to the Multi-Technology Mix rollout. If your home is hooked up to fibre to the premises you might be able to use the UNI-V voice port on your NBN modem, otherwise you're lumped with a VoIP-powered home phone that dies if your internet access drops out.
+
+That's bad news if you can't rely on your mobile phone in an emergency. Even people who can get a mobile signal at home during a blackout might not be able to make calls when everyone else floods the local mobile towers because their home phones are dead.
+If you struggle to get a decent mobile signal at home then you might consider a booster or femtocell to improve your indoor coverage - unlicensed boosters are illegal but some telcos like  and  sell them, plus you can look to authorised third-party providers like . Of course these gadgets also rely on power, so they're not going to save you during a blackout without some kind of battery backup.
+
+You will now receive updates from
+
+Technology Newsletter
+
+Technology Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+To be fair, the government is working to improve mobile coverage with its Mobile Black Spot Program, while Optus and Vodafone have also committed to billion-dollar network upgrades - but these efforts are primarily focused on regional areas. No-one begrudges countryfolk their long overdue upgrades, but if you live within sight of the city yet can't reliably use your mobile phone at home then you might not see any improvement in the near future.
+Mobile coverage is not treated as an essential service in Australia, yet we're using it as an excuse to downgrade the reliability of an essential service in fixed-line home phones. What's the mobile coverage like in your area and can you rely on it in an emergency?
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mobile Black Spot Program</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UNI-V</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Multi-Technology Mix</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Shapiro</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>VoIP-powered</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

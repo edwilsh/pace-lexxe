@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418417286815380</docid>
+  <date>03/08/2017</date>
+  <time>06:00</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/finance-news/2017/08/03/cba-austrac-money-laundering/</url>
+  <title>CBA accused of 53,700 money laundering breaches</title>
+  <content>
+The Commonwealth Bank has been accused of turning a blind eye to millions of dollars of suspected black money running through its bank.
+The Australian Transactions Reports and Analysis Centre (AUSTRAC) launched civil proceedings against the bank in the Federal Court on Thursday for an alleged 53,700 "serious and systemic" breaches of money laundering and counter-terrorism legislation.
+AUSTRAC alleged the bank let $8.9 billion be deposited into thousands of its ATM deposit machines before it started to check if criminals might be misusing the machines - even after it "became aware of suspected money laundering" through its accounts.
+"By failing to have sound [anti-money launder and counter-terrorism financing] systems and controls in place, businesses are at risk of being misused for criminal purposes," AUSTRAC acting CEO Peter Clark said in a statement.
+The ABC  that the maximum penalty for each of the 53,700 contraventions was $18 million, meaning the bank could face a maximum fine of $966.6 billion (the bank's current market capitalisation is $145 billion). Gambling company Tabcorp was fined $45 million earlier this year for similar breaches.
+In 2012, the Commonwealth Bank rolled out thousands of 'intelligent deposit machines'. These ATM machines accept cash and cheques anonymously - which means criminals or terrorist sympathisers could potentially deposit up to $20,000 in cash or 50 cheques at a time without ever meeting a bank teller or providing ID.
+AUSTRAC said the bank "took no steps" to assess the risk that these machines might be used for money laundering and counter-terrorism financing until mid-2015, three years after the machines had been rolled out across the nation.
+The Commonwealth Bank said it was "reviewing the nature of the proceedings", and that it took its regulatory obligations "extremely seriously".
+"We have been in discussions with AUSTRAC for an extended period and have cooperated fully with their requests. Over the same period we have worked to continuously improve our compliance and have kept AUSTRAC abreast of those efforts, which will continue," the bank said in a .
+"Money laundering undermines the integrity of our financial system and impacts the Australian community's safety and wellbeing. We will always work alongside law enforcement, intelligence agencies and government authorities to identify, disrupt and prevent this type of activity."
+AUSTRAC's allegations mainly related to the bank's alleged tardiness in telling the agency each time more than $10,000 was deposited in one of its machines.
+By law, all banks must inform the regulator when $10,000 or more is deposited.
+AUSTRAC said it took the bank three years to report 53,506 of these high-value deposits, amounting to about $624.7 million worth of deposits or 95 per cent of all deposits over $10,000 into the machines between November 2012 and September 2015.
+The agency also alleged the bank "became aware" of suspect activity on its accounts but "did not monitor its customers to mitigate" the risks.
+</content>
+  <sindexList>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CEO Peter Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>September 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Transaction Reports</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Analysis Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

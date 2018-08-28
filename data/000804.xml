@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398449983494636</docid>
+  <date>31/07/2017</date>
+  <time>00:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/national/queensland-roads-one-dead-one-critical-in-separate-crashes/news-story/3fbcfa11e17fa5cd5182cd54daefdf08</url>
+  <title>Two dead in separate crashes</title>
+  <content>
+AN ELDERLY man has died after a serious crash at Emu Park, south of Yeppoon.
+Emergency services were called to the crash on Pattison St about 6.20am after a vehicle left the road and collided with a tree.
+Police have confirmed the 80-year-old male driver of the vehicle were declared dead at the scene.
+An 80-year-old woman, who was a passenger in the vehicle, was taken to Yeppoon Hospital with non-life threatening injuries.
+The Forensic Crash Unit is investigating the incident.
+Meanwhile. the Forensic Crash Unit is investigating a fatal crash on the Sunshine Coast.
+Just before 10am yesterday a motorcycle was travelling east on Peachester Road,  reports.
+A four wheel drive travelling in the opposite direction was turning right onto Storrs Road when the two vehicles collided, killing the 61-year-old male motorcyclist.
+The driver of the four wheel drive was not physically injured during the crash.
+Police are now appealing for any witnesses or people who may have seen the red bike travelling on Peachester Rd prior to this incident to contact them.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pattison St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Forensic Crash Unit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yeppoon Hospital</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Storrs Road</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Emu Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peachester Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yeppoon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peachester Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

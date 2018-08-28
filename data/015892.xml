@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423648557085076</docid>
+  <date>04/08/2017</date>
+  <time>02:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/12/14/qld-police-charge-third-over-shooting</url>
+  <title>Qld police charge third over shooting</title>
+  <content>
+Police have charged a third person with attempted murder after a 20-year-old man was shot in the stomach and leg in the Queensland city of Toowoomba.
+The 25-year-old man will front court on August 14 over the alleged attack at Rangeville in the early hours of July 19.
+Police charged a 26-year-old woman on Tuesday, while a 23-year-old man fronted court the day after the shooting.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rangeville</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 14</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Toowoomba</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

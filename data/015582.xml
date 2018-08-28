@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424791018402536</docid>
+  <date>04/08/2017</date>
+  <time>06:44</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/nz-shares-fall-kathmandu-and-xero-drop/news-story/3d279a4a4e1d9dc16b1b430a1d5b9d83</url>
+  <title>NZ shares fall, Kathmandu and Xero drop</title>
+  <content>
+Sophie BootAustralian Associated Press
+
+Share
+
+New Zealand shares fell on Friday, with Kathmandu Holdings and Xero dropping while A2 Milk Co hit a record high.
+The S&P/NZX 50 Index dropped 7.63 points, or 0.1 per cent, to 7746.12. Within the index, 22 stocks fell, 18 rose and 10 were unchanged. Turnover was $155.5 million.
+Kathmandu dropped 1.8 per cent to $2.24. On Thursday, the retailer announced full-year profit rose as much as 13 per cent to between $37.4 million and $38m after a successful winter sales season and increased revenue from Australia.
+"The week rolling they're down 3 per cent despite that guidance to the market - investors still have concerns about online retailing and weather patterns determining how sales mixes go," said Peter McIntyre, investment adviser at Craigs Investment Partners.
+"That retail sector is weaker across the board, on low volume, it's still a very tough environment for retailers out there."
+Xero gave up some recent gains, down 1.6 per cent to $27.36, with Fletcher Building also seeing some profit taking, dropping 1.1 per cent to $7.88.
+"Even though we're trading near flat, we've had reasonable volume through the market," Mr McIntyre said.
+"I think offshore investors have some more comfort about our inflation data and that the Reserve Bank are not going to increase interest rates.''
+Summerset Group led the index lower, down 2.2 per cent to $4.87, while Trustpower fell 2.1 per cent to $5.70.
+
+A2 Milk Co was the best performer on the index, up 3.6 per cent to $4.66, while Synlait Milk gained 0.4 per cent to $4.57.
+A2 and Synlait released a statement saying the two are confident with the progress of their application to export a2 Platinum infant formula to China from January 2018.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr McIntyre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Summerset Group</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Synlait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kathmandu Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/NZX 50 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sophie BootAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Craigs Investment Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trustpower</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Milk Co</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Synlait Milk</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fletcher Building</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Platinum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kathmandu</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Peter Mcintyre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January, 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

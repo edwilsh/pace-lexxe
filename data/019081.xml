@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435292213573165</docid>
+  <date>05/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4835998/man-dies-in-central-coast-crash/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Man dies in Central Coast crash</title>
+  <content>
+A man has died after a car veered off the road and hit a tree on the Central Coast.
+
+Emergency services were called to Wilfred Barrett Drive, Magenta, just after 11am on Saturday after reports a car had hit a tree.
+
+NSW Paramedics treated a man, but he died at the scene.
+
+Officers from Tuggerah Lakes Local Area Command established a crime scene and have started an investigation into circumstances surrounding the incident.
+A report will be prepared for the Coroner.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Central Coast</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuggerah Lakes Local Area Command</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wilfred Barrett Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Paramedics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

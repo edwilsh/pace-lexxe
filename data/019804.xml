@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436666603118860</docid>
+  <date>06/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/china-appeals-for-new-north-korea-talks/news-story/5b09feb4920d9188b3310cf0c46b2dad</url>
+  <title>China appeals for new North Korea talks</title>
+  <content>
+China's foreign minister has called for all sides in the North Korean nuclear dispute to return to negotiations following a UN vote to impose new sanctions.
+In a statement on Sunday, Wang Yi appealed to other governments to resume the six-nation talks that involve the North, the United States, Russia, Japan and South Korea, as well as Beijing.
+Wang says "the aim is to bring the Peninsula nuclear issue back to the negotiating table and seek a solution through negotiations until the denuclearisation of the peninsula and the stability of the peninsula are achieved".
+US Secretary of State Rex Tillerson has said Washington wants eventually to talk to North Korea but thinks discussions would not be productive if Pyongyang comes with the intention of maintaining its nuclear weapons.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wang Yi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434686623179019</docid>
+  <date>05/08/2017</date>
+  <time>21:08</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/vic-weather-strong-winds-alpine-blizzards-forecast/8778700</url>
+  <title>Victoria hammered by strong winds overnight as alps brace for blizzards</title>
+  <content>
+Blizzard conditions with heavy snowfalls are expected in Victoria's alpine areas today, as a powerful cold front makes its way across the state.
+The front began battering the south-west yesterday evening and peaked in Melbourne in the early hours of this morning, with some bayside suburbs hit by gusts of up to 80 kilometres an hour.
+The Grampians in the state's west recorded the strongest winds of 102 kilometres per hour.
+
+External Link:
+
+Kellie Helmers: Plenty of snow at Hotham today bring on more snow
+Bureau of Meteorology senior forecaster Richard Carlyon said alpine areas would be hit by the strongest winds today and could receive their heaviest falls of the winter so far.
+"We may see wind gusts up to about 110 kilometres per hour. Probably easing a little through the afternoon but still quite windy," he said.
+"We will just see steady snow up there with expected totals of between 20 and 40 centimetres."
+He said Melbourne could also expect more wind and rain during the day.
+"The winds will ease off a little through the morning but they'll stay fresh to strong from the north-west through the day, and we'll see reasonably frequent showers moving through," he said.
+Yesterday, holiday makers at Victoria's alps awoke to fresh snow dumps, .
+The  and stick to marked ski runs.
+"Ensure you play it safe up there," SES deputy chief officer David Baker said on Friday.
+"It's going to be big dumps, hopefully very enjoyable, but blizzards can pose particular dangers and we don't want anybody to go missing up in the mountains."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Richard Carlyon</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grampian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kellie Helmers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Baker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

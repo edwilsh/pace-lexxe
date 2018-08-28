@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416012105089145</docid>
+  <date>02/08/2017</date>
+  <time>20:40</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/nbn-co-says-fttc-dreams-thwarted-by-board-govt-469967</url>
+  <title>NBN Co says FTTC dreams thwarted by board, govt</title>
+  <content>
+NBN Co executives say they took a proposal to convert the fibre-to-the-node footprint to fibre-to-the-curb to the board and government but the plan was rejected because it ran counter to the statement of expectations.
+
+CEO Bill Morrow told a parliamentary committee hearing this week that a "study" on flipping the four million premises in the FTTN footprint over to newer FTTC technology had been undertaken.
+
+But it was allegedly rejected because of the "significant" cost it would have had against the project's "$49 billion peak funding envelope", Morrow said.
+
+"Of course we looked at that and we presented it to our board and the government. It was [a] far more [costly proposal] than we're currently spending," he said.
+
+"But the commitment [of full FTTC] deviates from the statement of expectations - if we can do it today cheaper, faster, meeting the needs of the majority of Australians, and have an upgrade path when those needs increase, that's what we're supposed to be doing and hence we're on track to do so.
+
+"As soon as you want to do this richer fibre before people want to pay for it, the economics fall apart."
+
+Chief financial officer Stephen Rue said FTTC cost per premises is currently being modelled at between $2800 and $2900, which is between $600 and $700 above the present cost of an FTTN connection.
+
+Morrow cautioned against extrapolating too much from those figures.
+
+"You've got to be a little bit careful about taking the data today and forecasting to say all four million of the FTTN homes would be at $2800 to $2900," he said.
+
+He said the gap could widen as the FTTN rollout continued - economies of scale could make FTTN even cheaper per premises than it currently appears, making the cost differential with FTTC even more "substantial".
+
+Given it is still early days for FTTC, there remains a possibility its cost per premises could also come down, and Morrow said NBN Co's engineers had set themselves an internal challenge to do just that.
+
+He said rolling out FTTC beyond the current one million premises planned for that footprint was predicated on both reducing the cost even more than it had been able to, and speeding up deployment.
+
+"We're working towards that," Morrow said.
+
+"We have an internal challenge to bust through this and see if we can have more breakthroughs so we can put more FTTC in the ground and still stay within the remit the government has given us with the fastest, least cost, most upgradeable path."
+
+Morrow said he "liked" what he had seen of FTTC so far but cautioned that it may not be technologically ready for mass expansion.
+
+This kind of caution is , which has been on hiatus for months due to technical issues.
+
+"I think we all should be a little bit cautious about the distribution point units (DPUs) we put in the footpath in front of the house [for FTTC]," he said.
+
+"We're going to do this in large quantities and we have to make sure that works properly. We're not completely out of the danger zone in terms of having to refine this to ensure it works."
+
+Will users wait?
+
+One of Morrow's concerns with switching over the remainder of the FTTN footprint to FTTC is whether users are willing to wait longer to get a connection to the network.
+
+NBN Co has some self-interest in not making people wait; the FTTN rollout has enabled it to scale its network and bring forward revenue (albeit that revenue at current levels may not meet its 2020 targets, ).
+
+Pushing back the remainder of the FTTN rollout to convert it to FTTC would have a further impact on the company's future finances.
+
+But Morrow also questioned whether the "majority" of those in line for FTTN have the patience to absorb another delay, even if it meant getting a better standard of connection.
+
+"If you said would people be willing to wait another six months or a year - whatever the additional timeframe would be - so you can have a faster speed than the average 60 Mbps that FTTN would provide, I think there's more questions that need to be [asked or answered]," Morrow said.
+
+"The majority of the four million [FTTN] premises are going to get more than 25 Mbps. So if you ask the majority of them if they are willing to wait and instead of maybe getting 50 Mbps they'll get 100 Mbps or a couple of hundred in the future but they'll have to pay for it ... I'm not so sure the answer would be I'll wait or pay more because I want to go from 50 Mbps to a couple of hundred.
+
+"If that would be the case that people were willing [to wait], and the ISPs can help us develop a business case around [those users], then we'd be doing that.
+
+"It's all around economics and what people would be willing to pay - the revenue to come in to pay for that incremental capital."
+
+Morrow said 80 percent of users across the NBN were currently on theoretical speeds of 25 Mbps or less.
+
+"Most of those have the ability to go far faster than that, but [our] discussions with their ISPs [shows] they're not demanding it," he said.
+
+"Imagine that I'm going to come over the top of that, build even more data speed capability and no one's selling it and no one's using it and we need to recover more money because its $600 or $700 more per house than what we had factored in before.
+
+"The economics don't stack up on this right now."
+
+Morrow said he hoped to see the demand materialise, particularly as new bandwidth-intensive applications emerged.
+
+"When that time comes we are standing ready to upgrade these various technologies to be able to provide that speed," he said.
+
+Morrow believed that - eventually - fibre would be run much deeper into most corners of the NBN.
+
+"I think that ultimately there are going to be more limits on copper than there are on some of the fibre and coaxial based products," he said.
+
+"Fibre will get further and further into the neighbourhoods for any [access] technology, even the HFC network.
+
+"You can see a technological evolution where fibre is going to get deployed more and more. We embrace that and [will] do it at a time that is commensurate with when consumers actually have a need that they're willing to pay for it, and therefore the economics all stay together."
+
+Morrow said he could not rule out expanding the FTTC footprint beyond one million premises before 2020.
+
+However, there is likely to be little good news on that front in the forthcoming corporate plan, which could be released as early as the end of this month.
+
+"There's nothing we are submitting in the plan that takes the million [premises] up above that [number]," he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>DPUs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>FTTN</name>
+    <count>11</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>FTTC</name>
+    <count>13</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Rue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO Bill Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>12</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707599980</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/oil-retreats-on-opec-oversupply-concern/news-story/bf268a558325510d1af7f09c94f400cc</url>
+  <title>Oil retreats on OPEC oversupply concern</title>
+  <content>
+Jessica Resnick-AultReuters
+
+Share
+
+Oil prices have fallen, as cautious buying dried up after US crude rose to near $US50 a barrel, with concern about high crude supplies from producer club OPEC offsetting the previous day's data showing record US gasoline demand.
+Benchmark Brent crude settled down 35 cents a barrel at $US52.01 a barrel. US light crude was 56 cents lower at $US49.03. US crude traded at a session high of $US49.96 a barrel.
+OPEC crude oil exports rose to a record high in July, driven largely by soaring exports from the group's African members, according to a report by Thomson Reuters Oil Research.
+US light crude has remained below $US50 a barrel, capped by robust domestic supplies.
+"The market needs continuing signs of improvement in the inventory picture to really drive the prices higher," said Gene McGillian, director of market research at Tradition Energy in Stamford, Connecticut.
+Strong demand in the United States has been supporting prices. The US Energy Information Administration reported record gasoline demand of 9.84 million barrels per day (bpd) for last week and a fall in commercial crude inventories of 1.5 million barrels to 481.9 million barrels.
+That was below levels seen this time last year, an indication of a tightening US market.
+But traders said high production by the Organization of the Petroleum Exporting Countries was limiting price gains.
+OPEC and other producers including Russia have promised to restrict output by 1.8 million bpd until the end of March 2018 to help support prices and draw down inventories.
+
+Yet OPEC output hit a 2017 high of 33 million bpd in July, up 90,000 bpd from the previous month, a Reuters survey showed this week, led by a further recovery in supply from Libya, one of the countries exempt from the deal.
+Ample supply is likely to keep a lid on prices, many analysts said.
+"Our view of the oil market is that a major rally is unlikely in 2017," National Australia Bank analysts said in a note.
+"Absent further production cuts or a sustained uptick in demand, prices are likely to remain in the low to mid $US50s for the remainder of the year."
+There are signs that the oil industry has adapted to an era of low prices and can produce and operate at levels that would previously have been uneconomic.
+US investment bank Goldman Sachs said this week the oil industry had successfully adapted to oil prices around $US50 per barrel.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Organization of the Petroleum</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.01</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Libya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2018</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US Energy Information Administration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tradition Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US49.03</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US49.96</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Exporting Countries</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Resnick-AultReuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gene McGillian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters Oil Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stamford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Australia Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OPEC</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Connecticut</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

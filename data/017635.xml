@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429279259305112</docid>
+  <date>05/08/2017</date>
+  <time>00:09</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/woman-nabbed-for-cocaine-at-sydney-airport/news-story/9f4e963a17e4ad6212f24f42f0f6c8cf</url>
+  <title>Woman nabbed for cocaine at Sydney airport</title>
+  <content>
+Australian Associated Press
+
+Share
+
+An American woman has been arrested at Sydney airport after border force officers allegedly found two kilograms of cocaine hidden in her suitcase.
+The 49-year-old woman arrived in Sydney from Los Angeles on Friday and officers chose to search her baggage.
+Australian Federal Police say cocaine was hidden among clothing and make-up products in her suitcase and she was charged with importing a commercial quantity of the drug.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

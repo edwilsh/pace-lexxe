@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410596151228042</docid>
+  <date>01/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/boronia-rd-closed-for-police-incident/news-story/7f7f7bd1b5b18111108aa180175e16e5</url>
+  <title>Gun threat shuts down Boronia road</title>
+  <content>
+AN attack where a man was threatened with a firearm has closed part of a major road in Melbourne's east this morning.
+The incident happened at Boronia overnight at an address on Boronia Rd.
+A man was assaulted and then threatened with the weapon, police said.
+Boronia Rd has been partially shut westbound between Scoresby and Dorset roads.
+Victoria Police spokeswoman Natalie Savino said: "Specialist units will shortly be attending and police are asking members of the public to avoid the area."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dorset</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Natalie Savino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boronia Rd</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boronia</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scoresby</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

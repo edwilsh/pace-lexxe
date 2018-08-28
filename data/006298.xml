@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408281163810641</docid>
+  <date>01/08/2017</date>
+  <time>14:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/ethereum-price-spiking-after-bitcoin-fork-splits-in-two-2017-8</url>
+  <title>Ethereum is spiking as bitcoin splits in 2</title>
+  <content>
+s future is yet to be decided, and  is gaining on the uncertainty.
+
+Ethereum, the second most popular cryptocurrency by volume, is , trading at $US224.34.
+
+That is down 43.22% from its high of $US395.13 on July 12.
+
+Ethereum is rising on  Bitcoin has been in a years long "civil war" over the future of the platform. Bitcoin users are unhappy with the slowness of the platform but disagree over how to fix it.
+
+One plan, known as Segwit2x, was the most popular solution, and was set to go live at 8:20 am August 1. But, that was before , came out of nowhere and became really popular. Bitcoin cash replicates all of bitcoin's history on a new platform and speeds things up by increasing the size of blocks by eight times.
+
+Regardless of what happens with the Segwit2x plan, bitcoin cash will likely lower the value of the original bitcoin platform. Because bitcoin cash replicates bitcoin's history, users of bitcoin will automatically receive bitcoin cash equivalent to the number of coins they had on the Bitcoin platform. This could double the value of users wallets, but  so the combined value of bitcoin and bitcoin cash total the previous value of bitcoin platform.
+
+That uncertainty surrounding bitcoin is leading people to back away from the platform entirely, causing its price to fall and Ethereum's to rise.
+
+Ethereum is up 17,94.49% over the past year.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SegWit2</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>July 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US395.13</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ethereum</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US224.34</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

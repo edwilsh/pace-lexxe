@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417468099028440</docid>
+  <date>03/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/12/09/groping-osteo-loses-vic-firies-job-fight</url>
+  <title>Groping osteo loses Vic firies job fight</title>
+  <content>
+An aspiring Victorian firefighter has lost a bid to overturn his sacking by the Metropolitan Fire Brigade for failing to reveal he had previously been deregistered as an osteopath in NSW for groping patients.
+Garth Duggan took his fight to the Federal Court after the full bench of the Fair Work Commission found the MFB had followed due process in not keeping the recruit after his probationary period.
+Duggan started work with the MFB early in 2016 but failed to tell his new employer that he had been deregistered in NSW as an osteopath for sexually assaulting three female patients.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>MFB</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Garth Duggan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fair Work Commission</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Duggan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

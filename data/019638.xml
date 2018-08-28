@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436151207039428</docid>
+  <date>06/08/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/scales-of-justice/a-deliberatelylit-house-fire-in-devonport-caused-200000-damage-on-friday/news-story/81c2c2448b7772f871c0d9c4ed5b38bc</url>
+  <title>Police seek man seen near arson</title>
+  <content>
+Police are seeking to identify a man seen near the location of a deliberately-lit house fire in Devonport.
+The property at 3/151 Tasman Street was completely destroyed in the fire which was lit about 4pm Friday.
+Detective Constable David Fitzgerald said police were following a specific line of inquiry into the fire which caused an estimated $200,000 damage.
+"Tasmania Fire Service extinguished the blaze, however unfortunately the property was completely destroyed," he said today.
+"We would like to speak to anyone who may have information about the fire, particularly anyone who may have seen a male person walking in the street shortly before 4pm.
+"The occupant was not home at the time of the fire and nobody suffered injuries as a result."
+The property is owned by Housing Tasmania.
+A house at Port Arthur was also destroyed by fire on Friday evening, causing an estimated $400,000 worth of damage.
+The fire service said the cause of that fire was accidental, and was possibly an electrical fault.
+Information can be provided anonymously by calling Crime Stoppers on 1800 333 000, online at crimestopperstas.com.au or 131444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Devonport</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tasman Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Housing Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Detective Constable David Fitzgerald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Arthur</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Fire Service</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

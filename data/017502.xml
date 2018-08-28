@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429064510937608</docid>
+  <date>04/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/09/09/charges-over-obeid-linked-building-fire</url>
+  <title>Charges over Obeid-linked building fire</title>
+  <content>
+A man has been charged with deliberately lighting a fire at a southwest Sydney function centre linked to the Obeid family seven months ago.
+Police say the Bellevue Reception Centre in Bankstown was deliberately set alight twice in December 2016 and January 2017, causing significant structural damage.
+A 33-year-old man has been charged with dishonestly for gain, damage property by fire. He's due to appear at Parramatta Bail Court on Saturday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Obeid-linked</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bankstown</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Obeid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2016</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bellevue Reception Centre</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta Bail Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

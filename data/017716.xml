@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429627151659468</docid>
+  <date>05/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/entertainment/2017/08/05/11/10/upcoming-game-of-thrones-episode-leaked-online</url>
+  <title>Upcoming</title>
+  <content>
+The next episode of Game of Thrones has been leaked online just 48 hours before it was set to go to air.
+The leak is the second blow the HBO hit has taken in the past week, after an anonymous hacker  from secure databases, including Game of Thrones scripts.
+In an email to Wired, the hackers claimed: "We successfully penetrated HBO's huge network and gathered most imporatnt [sic] files and films & scripts."
+Overnight the fourth episode from Game of Thrones' seventh season was aired online, in a low-quality format.
+HBO's Indian distribution partner, Star India, confirmed the leak came from within its company.
+"We take this breach very seriously and have immediately initiated forensic investigations at our and the technology partner's end to swiftly determine the cause," a spokesperson for Star India told .
+"This is a grave issue and we are taking appropriate legal remedial action."
+
+Related Articles
+
+HBO handed its distribution duties to Star India in 2015 after struggling with operations.
+This is not the first time HBO has had to deal with leaks. In 2015 the first four episodes of season five were leaked online.
+The leaked episode is set to air in Australia on Monday.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Star India</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO's Indian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

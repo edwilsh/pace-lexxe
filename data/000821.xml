@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398784990948233</docid>
+  <date>31/07/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-07-31/rabaul-queen-case-court-dismisses-manslaughter-charges/8759398</url>
+  <title>Rabaul Queen trial: Court dismisses manslaughter charges against Australian ferry owner</title>
+  <content>
+A court in Papua New Guinea has dismissed manslaughter charges against the Australian owner of a ferry which capsized in 2012, killing at least 140 people.
+.
+The ship's owner, captain Peter Sharp, had pleaded not guilty to 172 charges of manslaughter, although .
+PNG's National Court accepted a no case submission from Sharp's lawyers, who said the State had failed to prove there was any risk associated with the normal use of the ship.
+It also dismissed manslaughter charges against the ship's master Anthony Tsiau, who was in command of the vessel when it sank.
+Lawyers for Sharp and Tsiau had told the court there was no overcrowding on the ship and that evidence of negligence had not been confirmed.
+Sharp, Tsiau and some other staff still face charges for sending an unseaworthy vessel out to sea.
+A Commission of Inquiry set up after the disaster could not determine the exact number of fatalities, because the crew did not compile a manifest.
+However, lawyers for Sharp produced a manifest during the trial which led to the number of manslaughter charges against him being reduced.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tsiau</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>PNG's National Court</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Sharp</name>
+    <count>1</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Rabaul Queen</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Commission of Inquiry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Tsiau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

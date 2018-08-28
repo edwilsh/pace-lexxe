@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415836011426441</docid>
+  <date>02/08/2017</date>
+  <time>19:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/equity-markets/japanese-stocks-seen-on-verge-of-volatility-spike-20170802-gxo6kg</url>
+  <title>Japanese stocks seen on verge of volatility spike</title>
+  <content>
+If history is any guide, the months-long lull in Japanese equities could take an abrupt turn in the second half.
+Japan hasn't been an exception to a rare period of historically-low volatility in global equity markets, coupled with lofty stock prices in the first half. The Nikkei Stock Average Volatility Index has been hovering around its lowest levels in more than a decade, with the Bank of Japan's massive purchases of exchange-traded funds cited as a factor in keeping a lid on any extensive price swings.
+Strategists in Tokyo are tuned into another barometer for gauging volatility on the Nikkei 225 Stock Average. They are looking at how wide or narrow the trading range has been over half-year periods since 2001. The Nikkei 225 has moved between a low of 18,335.63 and a high of 20,230.41 during the first six months of this year, the smallest rate of change since 2007. What's striking is how the gauge has tended to swing wildly in the second half after such range-bound trade, the strategists say.
+"Volatility in the Nikkei 225 has, without exception, spiked in the second half when preceded by a first half of low volatility," Hideyuki Ishiguro, a senior strategist at Daiwa Securities said in a phone interview. "Investor are growing wary over the odds of this turning out to be the calm before the storm."
+
+In 2007, the last time the stock gauge traded in such a narrow range in the first half, volatility - measured via the rate of change - doubled in the second half as market unrest grew ahead of the global sub-prime mortgage crisis, Ishiguro noted. In 2005, volatility more than quadrupled as then Prime Minister Junichiro Koizumi called a snap election to win a mandate to push through postal reform.
+
+While Ishiguro cites potential action from the US Federal Reserve to reduce its balance sheet as the most likely trigger for an uptick in Japanese market volatility in the second half, some other strategists such as Yoshinori Shigemi of JPMorgan Asset Management say the scare comes from the unpredictability of what could give markets a wakeup call. With US politics surrounding President Donald Trump in turmoil, , and North Korea provocatively testing more powerful missiles, there's plenty of scope for a nasty shock.
+"The problem is, always, nobody knows what's going to trigger a correction, and when," Shigemi said in a phone interview. "It feels like everyone is relaxed even when the VIX slides below 10. This is something people have to be more conscious about. The alarm bell's been going off, but maybe it's become a new normal, keeping people from caring."
+Buying 'with no good reason'
+
+At least some parts of the market are becoming more aware of the CBOE Volatility Index's continued slide to record-low levels. Options traders in the US have been increasingly buying and selling contracts used to speculate on the future of market turbulence. More than 740,000 puts and calls tied to the VIX have changed hands daily on average in July, surpassing the previous record of about 644,000 set two years ago.
+
+Anticipated policy normalisation from other parts of the world, toward end-August and in September, raises the odds of a downward correction in Japanese equities, according to Ishiguro. Tatsushi Maeno, a senior strategist with Okasan Asset Management agrees that the Japanese equity market could see higher volatility once the US starts to tighten monetary policy, boosting interest rates. But Maeno expects price swings to be contained, interpreting low volatility as a sign of confidence.
+SMBC Nikko Securities Inc's chief equity strategist Masashi Akutsu points out history shows "a big break to the upside" for Japanese equities is also possible in the aftermath of protracted lower volatility. Faster growth in the global economy, signalled by an uptick in US inflation, would be "an obvious trigger" this time, he wrote in a note to clients.
+For Shigemi, investors have become a bit too numb to the buying frenzy propelling stocks to fresh records. The Topix index closed at its highest level in two years on Wednesday.
+"In the back of their minds, people are thinking the upward trend in equities will end at some point," he said. "But they're buying because they don't know when that'll be. People are buying stocks with no good reason."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daiwa Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Masashi Akutsu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ishiguro</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nikkei 225 Stock Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Maeno</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Topix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Okasan Asset Management</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bank of Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VIX</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nikkei 225</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tatsushi Maeno</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yoshinori Shigemi of JPMorgan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SMBC Nikko Securities Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Junichiro Koizumi</name>
+    <count>1</count>
+    <score>0.25</score>
+  </sindex>
+  <sindex>
+    <name>Shigemi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBOE Volatility Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hideyuki Ishiguro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asset Management</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nikkei Stock Average Volatility Index</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

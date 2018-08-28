@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410510251880324</docid>
+  <date>01/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/markets-live/markets-live-asx-stuck-below-5800-20170801-gxni19.html</url>
+  <title>Markets Live: ASX stuck below 5800</title>
+  <content>
+Good morning and welcome to the Markets Live blog for Wednesday.
+Your editor today is are Jens Meyer - please send any feedback, suggestions, constructive criticism about this blog to jmeyer@fairfaxmedia.com.au
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

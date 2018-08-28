@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442980205110441</docid>
+  <date>07/08/2017</date>
+  <time>05:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/everblu-capital-hires-corporate-finance-executive-20170807-gxqw5p</url>
+  <title>Everblu Capital hires corporate finance executive </title>
+  <content>
+Boutique advisory firm Everblu has hired Palladion Partners' Andrew Bald for its corporate finance team. 
+Street Talk understands Bald is due to start in the new role this week.
+He was most recently a managing director at Palladion Partners, a position he held for four years. Prior to that he was chief executive of ASX-listed Burleson Energy and had a stint at ABN Amro in structured derivatives. 
+Everblu is based in Sydney and Israel. 
+
+The firm jointly worked on last week's capital raising for  subscription software company LiveTiles with Blue Ocean Equities. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Everblu Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LiveTiles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABN Amro</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Israel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palladion Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Everblu</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed Burleson Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Street Talk</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Blue Ocean Equities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palladion Partners' Andrew Bald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

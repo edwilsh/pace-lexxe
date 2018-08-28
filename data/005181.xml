@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405141542657981</docid>
+  <date>01/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/acma-to-review-nbn-blame-game-469831</url>
+  <title>Govt steps in to stop NBN blame game</title>
+  <content>
+The Australian Communications and Media Authority will compel 21 businesses in the NBN ecosystem to reveal data about how they resolve issues in a bid to halt the current blame game between NBN Co and internet providers.
+
+Communications Minister Mitch Fifield said the action was a direct result of government intervention to stem what has been a damaging fortnight for the NBN project.
+
+NBN Co has been under siege over the poor performance of end user services. The company responded yesterday by  for not buying enough network capacity.
+
+It appears the government has had enough and is ready to intervene.
+
+Fifield said ACMA would be handed a research project to understand customers' NBN experiences.
+
+ACMA said it would use "its formal powers under the Telecommunications Act to collect information from businesses across the NBN supply chain".
+
+NBN Co, together with 20 retail and wholesale providers, will be sent the notices, which seek "a range of data on issues such as fault handling, connection timeframes, appointment keeping, telephone number porting, and more".
+
+"This information will be used to identify where customer issues most commonly arise and how those issues can be either avoided or resolved more quickly," Fifield said.
+
+"It will also help reduce the passing of customer complaints between retailers and NBN Co."
+
+Fifield said the review and data collection initiative had come out of a working group led by the Department of Communications and the Arts, which includes participation from the ACMA and the Australian Competition and Consumer Commission (ACCC).
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACMA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACCC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>5</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Minister Mitch Fifield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Communications</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Competition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telecommunications Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Consumer Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fifield</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

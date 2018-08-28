@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424941342260580</docid>
+  <date>04/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/17/12/palmer-plane-trial-will-go-ahead-judge</url>
+  <title>Palmer plane trial will go ahead: judge</title>
+  <content>
+A trial to determine if Clive Palmer should be reunited with a $5 million private jet will go ahead in coming weeks after lawyers for the businessman failed in a bid to put it off for the foreseeable future.
+Brisbane Supreme Court Justice John Bond on Friday dismissed an application to adjourn the two-day civil trial, which is scheduled for August 17, to decide the future of the Cessna Citation X aircraft.
+He also knocked back an attempt to add two other Palmer-related entities - QNI Resources and QNI Metals - to the proceeding and described the last-minute attempt as "extraordinary".
+Kris Byrne, for Mr Palmer, had argued there was "significant overlap" between the case and other legal actions involving the special purpose liquidators of Queensland Nickel that warranted it being delayed.
+The civil trial is seeking to determine if Mr Palmer should be deemed the owner of the aircraft and, if so, whether or not Queensland Nickel has a monetary claim against him for maintenance costs.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr. Palmer</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Nickel</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Palmer-related</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cessna Citation X</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Palmer</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>QNI Metals</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kris Byrne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Supreme Court Justice John Bond</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>August 17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QNI Resources</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

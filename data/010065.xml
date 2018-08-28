@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415496709004500</docid>
+  <date>02/08/2017</date>
+  <time>18:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4830104/newcastle-leads-the-pack-in-personal-insolvencies/?cs=2452</url>
+  <title>Newcastle leads the pack in personal insolvencies</title>
+  <content>
+NEWCASTLE has the highest rate of personal insolvency in regional NSW according to figures released by the Australian Financial Security Authority.
+
+Across the Hunter there were 215 cases of personal insolvency in the June quarter of 2017, with Newcastle's 43 debtors the largest in the state outside of Sydney.
+
+Across Australia there were 7,729 debtors who entered a new personal insolvency to June, a fall of 3.9 per cent compared to the previous quarter.
+
+In the Hunter, there were six less cases of personal insolvency than in the March quarter. 
+Victoria and Queensland had the largest falls, falling by 131 and 111 debtors respectively.
+In New South Wales there were 1,297 debtors who entered a new personal insolvency in Greater Sydney in the June quarter 2017, and 892 across the rest of the state.
+
+Newcastle led the list with 43, closely followed by Tamworth - Gunnedah and Shoalhaven, each with 42 new cases.
+The Herald, Newcastle
+</content>
+  <sindexList>
+  <sindex>
+    <name>Greater Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tamworth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Security Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gunnedah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoalhaven</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle's 43</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430189792379877</docid>
+  <date>05/08/2017</date>
+  <time>03:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/chrome-web-store-developers-target-of-new-phishing-scam/</url>
+  <title>Chrome Web Store Developers Target Of New Phishing Scam</title>
+  <content>
+You'd think that programmers would be more savvy about online scams than your average computer user and that's likely true. Even so, Google felt it wise to contact Web Store developers about a current "phishing campaign" aimed right at them.
+
+In an email to developers (which I myself received), Google states it's been sent reports of fake emails that purport to be from the Chrome Web Store Team, using the address .
+
+For reference, the real address is  and Google recommends sending any suspect scam emails to .
+
+The email doesn't elaborate on the purpose of the scam, though it's a safe bet they're after passwords and account information.
+
+Google ends the email by  and .
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phishing Scam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chrome Web Store Team</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Web Store</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chrome Web Store Developers Target Of New</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

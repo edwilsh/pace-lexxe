@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417296300333544</docid>
+  <date>03/08/2017</date>
+  <time>01:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4830621/helicopter-lands-at-hunter-school/?cs=305</url>
+  <title>Helicopter lands at Hunter school</title>
+  <content>
+Helicopter lands at Hunter school
+
+exit
+
+MARYLAND Public School witnessed a special landing of the Newcastle Westpac Rescue Lifesaver Helicopter Service (WLRHS) on their school oval on Wednesday.
+The landing was a reward for the school, after its students completed the Westpac Lifesaver Rescue Helicopter Schools Program.
+
+Designed to teach students about the iconic service, the school program features interactive lessons to educate primary school children, their teachers and parents about the value of one of the country's most recognisable services and its role within the community.
+Maryland Public School was selected to host a landing from more than 3000 primary schools across the nation.
+
+The WLRHS has been serving the community since 1973 and has completed over 80,000 missions.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hunter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac Lifesaver Rescue Helicopter Schools Program</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WLRHS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MARYLAND Public School</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Westpac Rescue Lifesaver Helicopter Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

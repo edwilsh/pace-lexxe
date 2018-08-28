@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404368448532085</docid>
+  <date>31/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/australia-records-hottest-july-on-record-bom-says/8762560</url>
+  <title>Australia records hottest July on record, Bureau of Meteorology says</title>
+  <content>
+Related Story:
+
+Australia has had its warmest July on record, the Bureau of Meteorology (BOM) has said.
+A BOM report to be released later today will show the country's average July temperature was at its highest in more than 100 years, forecaster David Crock said.
+"The warmest parts have been through Queensland, Northern Territory, northern Western Australia and New South Wales," he said.
+"The month has been dominated - at least in eastern Australia - by a ridge of high pressure which has seen very clear skies and a warm air mass sit over the country for days and weeks at a time.
+"The inland areas have certainly been warmer away from the cooling influence of the ocean ... but certainly some of the temperature anomalies extend right across northern Australia.
+"Queensland had its warmest July on record for both maximum and minimum temperatures across the whole state - parts of Queensland have been very dry."
+Mr Crock said temperatures had remained warm because the high-pressure system prevented cold fronts moving north from Victoria and NSW.
+BOM meteorologist Greg Browning said it was "basically this background warming signal that we're seeing right across the globe associated with global warming".
+"It seems like the warming conditions we've seen right across the globe are just becoming commonplace, and we're seeing them in monthly temperatures on a regular basis."
+In the Northern Territory, the  - the mercury was the highest it had been in July since records began more than 100 years ago.
+Those in Darwin also sweltered through the nights with only six overnight lows under 20C, while the average for July is 18.5 nights below 20C.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>David Crock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Territory</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Browning</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Mr Crock</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

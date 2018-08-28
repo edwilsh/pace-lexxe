@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423785996040492</docid>
+  <date>04/08/2017</date>
+  <time>02:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/12/45/ciobo-labels-qld-govt-policy-reckless</url>
+  <title>Ciobo labels Qld govt policy 'reckless'</title>
+  <content>
+Federal Trade Minister Steven Ciobo is seeking advice about the legality of the Palaszczuk government's controversial 'Buy Queensland' procurement policy.
+New Zealand Trade Minister Todd McClay has expressed his disappointment about the policy, which would give local businesses weightings of up to 30 per cent in the consideration of government contracts.
+Mr Ciobo says it will discriminate against overseas trade partners, and urged Queensland Premier Annastacia Palaszczuk to "dump this reckless policy".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Ciobo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand Trade Minister Todd McClay</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ciobo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Trade Minister Steven Ciobo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Buy Queensland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

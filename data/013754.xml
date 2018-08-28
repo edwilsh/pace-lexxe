@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421161770975065</docid>
+  <date>03/08/2017</date>
+  <time>16:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/news/goldman-sachs-palisade-pump-billions-into-green-energy-20170802-gxnkme</url>
+  <title>Goldman Sachs, Palisade pump billions into green energy </title>
+  <content>
+US giant Goldman Sachs has joined the Australian renewable energy stampede and Sydney fund manager Palisade Investment Partners is launching a new clean energy fund in moves that may add gigawatts of wind and solar power worth billions of dollars to the grid. 
+The new Palisade Renewable Energy Fund and an existing fund that invests directly on behalf of the firm's clients - including the Clean Energy Finance Corporation - could have combined $1 billion of assets funding a gigawatt of wind and solar projects by 2020.
+At the same time US investment giants Tennenbaum Capital Partners and Goldman Sachs are buying Conergy Australia with plans to dramatically expand the company's solar battery farm ambitions to fund up to a gigawatt across Australia. A gigawatt is 1000 megawatts, the size of a coal fired power station. 
+The deals show the - and batteries - is gathering momentum even as  comes .
+
+Palisade Investment Partners
+
+The Clean Energy Finance Corporation - the federal government green bank - has chipped in $75 million as a cornerstone investor in the Palisade Renewable Energy Fund (PREF), which aims to raise $500 million to support about 500 megawatts of wind and solar projects worth roughly $1 billion. 
+
+That's on top of $100 million the CEFC deposited last year with Palisade to manage directly on its behalf - alongside $400 million of other clients' funds that aimed to support another $1 billion of renewable energy projects.
+Super funds HESTA and Local Government Super Queensland are also backing the PREF. The fund has the Hallett and Waterloo wind farms in South Australia as operating assets, the 148 megawatt Ross River Solar Farm - a greenfields project - in Queensland under construction and the Stony Gap Wind Farm in SA wind farm under development in its portfolio. 
+Open ended
+
+Palisades, Tennenbaum and Goldman Sachs join  and a host of other investors racing to build another 3000 megawatts of clean generation needed to meet the federal government's Renewable Energy Target (RET) by 2020. 
+
+Palisade Investment Partners
+
+Palisades chief executive Roger Lloyd said the PREF's $500 million target was matched to the RET - which builds to 33,000 GWh of renewable energy by 2020 and runs until 2030 - but "we are open ended in how we operate all our funds". 
+"If we get to the magic gigawatt (1000 MW) of assets under management you are looking at probably $1 billion all up across the fund and our direct investors," Mr Lloyd told The Australian Financial Review.
+But in a reference to the Turnbull government's divisions over the Clean Energy Target he said that renewable energy assets typically gave a life of about 25 years "so we'd be hopeful there is life after 2020".
+Senior investment manager Karen Gould added, "We are barracking for sensible, certain policy that provides a long-term price signal."
+
+The PREF's existing investments are valued at $211 million and the fund has a healthy appetite for new projects. 
+Ross River is a 148MW solar project near Townsville with a power purchase agreement with EnergyAustralia out to 2030.
+"We are going to replicate that story around the country," Mr Lloyd said. 
+Conergy Australia's initial project is the 13 MW Lakeland Solar and Storage project, but managing director Christopher West said the acquisition by Tenenbaum - a Los Angeles-based investor - "provides secure funding for up to 1GW of solar generation and storage in Australia through Conergy Australia".
+
+Waterloo is a 131 MW wind farm with offtake agreements with EnergyAustralia and Hydro Tasmania out to 2028, and Hallet 1 is a 94.5 MW wind farm with the output contracted to AGL until 2033. 
+Stony Gap is on "one of the best quality undeveloped wind sites in the country" with average wind speed of 9.3 metres a second (about 32kph), Mr Lloyd said. it has development approval but no grid transmission agreement.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>GW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MW</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tenenbaum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Stony Gap Wind Farm</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palisade Investment Partners</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>4</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Local Government Super Queensland</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Clean Energy Finance Corporation</name>
+    <count>2</count>
+    <score>-0.25</score>
+  </sindex>
+  <sindex>
+    <name>Christopher West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hallett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PREF's $500</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hydro Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palisade Renewable Energy Fund</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tennenbaum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PREF</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Ross River Solar Farm</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RET</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clean Energy Target</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Tennenbaum Capital Partners</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lloyd</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Investment Partners</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Conergy Australia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Renewable Energy Target</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MW Lakeland Solar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GWh</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Karen Gould</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EnergyAustralia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roger Lloyd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ross River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stony Gap</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Waterloo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AGL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hallet 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HESTA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

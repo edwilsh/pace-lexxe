@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418288437794396</docid>
+  <date>03/08/2017</date>
+  <time>05:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/holden-makes-warranty-pledge-to-accc/news-story/2640eefa9cb216244c3ed9191b18ee9b</url>
+  <title>Holden makes warranty pledge to ACCC</title>
+  <content>
+Holden has promised the competition watchdog it will review and refund customers who were issued warranties that failed to deliver the guarantees they are entitled to under consumer law.
+The Australia Competition and Consumer Commission investigated the car manufacturer after receiving complaints about its response to a manufacturing fault.
+"Holden acknowledged that it misrepresented to some consumers that it had discretion to decide whether the vehicle owner would be offered a refund, repair or replacement for a car with a manufacturing fault, and that any remedy was a goodwill gesture," ACCC Chairman Rod Sims said.
+The company also accepted that some customers were told the company would not repair the fault because their car had not been serviced by a Holden dealer, or because it was bought second hand.
+Holden has accepted its conduct is likely to have contravened consumer law, and committed to meeting its obligations to customers.
+That includes the engagement an external reviewer to follow up on any complaints made since January 1, 2016, and provide a remedy to consumers where appropriate.
+"Rather than make an example of them in court, we've let them set an example out of court," Mr Sims said.
+The watchdog will publish a draft report into car retailers next week, which will elaborate on widespread consumer law issues.
+Car owners do not depend on the generosity of the retailer for a repair, refund or replacement, and are entitled to the guarantee of the law for major and minor faults, Mr Sims told AAP.
+"The consumer guarantees operate separately to the manufacturer's warranty, and cannot be modified to require consumers to have their vehicles serviced by authorised dealers in order to obtain a remedy."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Mr Sim</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia Competition</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Consumer Commission</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ACCC Chairman Rod Sims</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 1, 2016</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

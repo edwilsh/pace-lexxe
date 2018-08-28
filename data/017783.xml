@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429665806365398</docid>
+  <date>05/08/2017</date>
+  <time>01:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/police-search-for-missing-father-jacob-raymond-costar-and-son-ethan/news-story/03c7975be709af5f59b9eeef1c67544d</url>
+  <title>Search for missing father and son</title>
+  <content>
+POLICE hold concerns for the welfare for a father and son who were last seen in Margaret River on Friday afternoon.
+Jacob Raymond Costar, 29, and his son Ethan,9, were last seen at the Watershed Winery around 12.30pm Friday.
+They were travelling in a silver Holden Commodore sedan but that vehicle was later found abandoned in Margaret River.
+Police said it is not known whether they are using another vehicle.
+Police and SES volunteers are continuing their search for the pair.
+Anyone that might have seen the pair in Margaret River or surrounding areas has been asked to contact Police immediately on 131 444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Watershed Winery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ethan,9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden Commodore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret River</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jacob Raymond Costar, 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

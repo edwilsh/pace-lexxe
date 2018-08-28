@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403565289633280</docid>
+  <date>31/07/2017</date>
+  <time>20:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/far-north-winter-a-comfortable-change-for-edge-hill-sugar-worker/news-story/e9c2f4250621ea99e0967d841b6635c2</url>
+  <title>Dog owner loves park life in tropics</title>
+  <content>
+A MOVE from the harsh Top End climate to work in the Far North's sugar industry proved a sweet shift for Peter Barry.
+The Edge Hill resident has found comfort in the tropical, leafy Cairns suburb and loves getting out to the local dog parks.
+He listed Goomboora Park at Brinsmead as his favourite.
+"There is lots of open space and plenty of social people and dogs," he said.
+Holloways Beach and Yorkeys Knob also rank highly as weekend locations.
+The former South Australian moved to Cairns after a stint in Darwin.
+"I sort of tossed a coin and came east instead of west," he said. "Queensland is all I know now."
+The Bureau of Meteorology has forecast possible showers for the next few days, but only 4mm is expected to drizzle.
+Temperatures will hover around the 27C mark. Mr Barry is loving the weather, which he said was a comfortable change from Darwin.
+"It is a lot more benign," he said. "In Darwin you don't get any rain in the dry season.
+"But here you still get a bit of rain and the wet season is more bearable."
+
+It comes as the bureau predicts Cape York, Cairns and the Tablelands are a chance of an early wet season onset.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tablelands</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brinsmead</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yorkeys Knob</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cape York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Top End</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Edge Hill</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Holloways Beach</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Barry</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Peter Barry</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Far North</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Goomboora Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

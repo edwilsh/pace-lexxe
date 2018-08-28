@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425542637692744</docid>
+  <date>04/08/2017</date>
+  <time>09:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/04/19/31/global-stocks-up-us-dollar-depressed</url>
+  <title>Global stocks up, US dollar depressed</title>
+  <content>
+Global stocks, gold and most metals have been headed for a fourth week of gains as fresh political woes for US President Donald Trump and the prospect of a trade war with China kept the US dollar depressed before US payroll figures.
+European markets got off to an underwhelming start on Friday, with Britain's FTSE 100, Germany's DAX and France's CAC 40 all lower.
+The FTSE was nevertheless on course for its best week in two months, having been boosted by the latest tumble in the pound.
+The US dollar, meanwhile, was down at $US1.18 per euro and near the 2-1/2-year low touched earlier this week.
+It has come under fresh pressure following reports that US Special Counsel Robert Mueller has put together a grand jury to investigate allegations of Russian interference in November's presidential election.
+There is also the matter of monthly US jobs data due later, in which payrolls are expected to have increased by 183,000 jobs in July after surging by 222,000 in June, a Reuters survey of economists shows.
+The US dollar index, which has just recorded its worst run of monthly losses since early 2011, was 0.1 per cent lower at 92.766 on the day and about 0.6 per cent during a week when it fell to a 15-month low of 92.548.
+
+Related Articles
+
+In fixed-income markets, Europe's 10-year benchmark government bond yield and US equivalents were pinned near one-month lows of 0.45 and 2.23 per cent respectively amid the US political uncertainty.
+US yields - a bellwether for global bond markets - have been falling for most of 2017 as the president's travails have cooled expectations for growth and inflation.
+Investors were also increasingly wary about the prospect of a US-China trade war.
+In a rare show of bipartisanship, three top Democratic senators have urged Donald Trump to "go after" China this week as he prepares an inquiry into Beijing's trade practices.
+China's blue-chip CSI 300 closed down 0.5 per cent, notching its first three-day fall in almost two months.
+MSCI's broadest index of Asia-Pacific shares outside Japan scored a modest 0.4 per cent gain for the week, though, as it added to its 24 per cent rise for the year.
+Japan's Nikkei ended the week little changed, dropping 0.4 per cent on Friday as a stronger yen weighed.
+Wall Street was expected to start marginally higher on Friday, having seen the Dow index break through 22,000 points this week.
+In Europe, sterling stayed near a nine-month low against the euro, still sapped by the Bank of England's cut to UK growth forecasts on Thursday, which also wiped out rate hike expectations.
+In commodities, oil prices continued to be weighed down by persistent concerns about high crude supplies from both OPEC and the US.
+US crude slipped 0.2 per cent to $US48.93 a barrel after sliding 1.1 per cent overnight, putting it on track for a weekly loss of 1.6 per cent.
+Global benchmark Brent also dropped 0.6 per cent to $US51.66, extending Thursday's 0.7 per cent loss and headed for a 1.2 per cent weekly fall.
+Gold was steady at $US1,269 an ounce and set to score and modestly weekly rise, which will be its fourth in a row.
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CSI300</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany's DAX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan's Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US48.93</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Special Counsel Robert Mueller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FTSE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain's FTSE 100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday's 0.7</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US1.18</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France's CAC 40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US51.66</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>OPEC</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US1,269</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

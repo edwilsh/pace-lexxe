@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439161979140733</docid>
+  <date>06/08/2017</date>
+  <time>14:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/brand/rear-window/dissident-members-force-rethink-at-auda-20170803-gxodo9</url>
+  <title>Dissident members force rethink at auDA</title>
+  <content>
+Who'd have thought the organisation governing domain name usage in Australia could provide so much intrigue. 
+In the past week alone, a revolt by members of the .au Domain Administration authority (auDA) has forced the resignation of a chairman, the holding of a fiery extraordinary general meeting, followed by the reversal of several policies governing member conduct by a seemingly chastened executive team.
+Most people wouldn't have heard of auDA but it plays a rather crucial role in the architecture of the Australian internet, distributing and governing all .au web addresses. The self-regulatory body has around 250 members, all of whom are businesses or individuals involved in the Australian domain industry.
+Some of these members have in recent months been waging a public campaign against attempts by the organisation's executive team to shift auDA in a new direction.
+
+Members say their concerns started when Tony Staley, the comms minister in the Fraser government, was replaced by Stuart Benjamin as chairman of auDA in late 2015. Benjamin hired former Victorian Liberal MP Cameron Boardman as CEO. Between the two of them, the organisation took a decidedly "top-down" approach to reform, according to internet entrepreneur Josh Rowe, who spent 14 years on the auDA board.
+
+Some concerns included the removal of board minutes from the organisation's website, as well as the introduction of a code of conduct that sought to allow the board to judge how members were publicly representing the organisation - an effective gag clause, argues Rowe. auDA in April also floated the idea of in-housing its previously outsourced registry, which some said was the organisation trying to be both a regulator and wholesaler of domain names (Boardman told Rear Window on Saturday this was the model in several overseas jurisdictions, but regardless, auDA was only ever considering the idea and has since abandoned it in favour of the previous outsourced model).
+Dissidents called an extraordinary general meeting to consider four motions, one of which was the removal of Benjamin. Three days before the EGM, after several members publicly stated their intention to vote against him, Benjamin handed in his resignation, saying in a statement that there could be "no positive outcome" from a planned member vote.
+The meeting went on, though one of the resolutions was no longer necessary and some people were unable to dial in due to a technically difficulty with the webinar software (which is rather ironic given the technical expertise in that room). Boardman tried to regain control of the situation, sitting those present through a long explanation of auDA's strategy. Perhaps he figured a recap of why he was changing things would de-escalate things, but it didn't really work. If anything, members saw red at what appeared to them to be management trying to derail a meeting called for the express purpose of voting on their resolutions.
+Three days later, most of the contentious issues appear to have been resolved in the way the members wanted. The board sent out an email saying minutes would be restored to the website, and the conduct policy revoked. Benjamin is out, and auDA has no plans to run its own registry. Boardman told this column that his tenure has seen many necessary changes, and change is always difficult. "Members have given very strong feedback to the board that they'd like to be part of the change - and that's where we landed this week."
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Domain Administration</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stuart Benjamin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Liberal MP Cameron Boardman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fraser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Staley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rear Window</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>auDA</name>
+    <count>9</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Benjamin</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Boardman</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Josh Rowe</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EGM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rowe. auDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

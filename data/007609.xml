@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411158791952685</docid>
+  <date>02/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/roy-hill-to-deploy-remote-control-bulldozers-469923</url>
+  <title>Roy Hill to deploy remote control bulldozers</title>
+  <content>
+Roy Hill is preparing to deploy remote controlled bulldozers to work the coarse ore stockpile at its mine in Western Australia's Pilbara region.
+
+The miner has engaged Remote Control Technologies (RCT) on the "extensive project" which sees dozer operators relocated to a control station.
+
+Two dozers have been fitted with the RCT equipment, which enables remote control operation but also enables the equipment to communicate with the "coarse ore stockpile stacker infrastructure".
+
+The stacker is a large piece of equipment that transports ore or other bulk material along a conveyer belt and tips it onto a stockpile, where it is then worked by the bulldozers.
+
+The connectivity between the equipment was needed "to ensure [the] machines operate free from potential collisions and damage", RCT said.
+
+The system has reached "operational readiness" and implementation is likely to begin shortly, the vendor indicated.
+
+The Roy Hill mine has been designed from the ground-up to be heavily automated. Like other major miners, it runs a remote operations centre 1200km away from the mine, which manages much of the mine's operations.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Roy Hill</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia's Pilbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Remote Control Technologies</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>RCT</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

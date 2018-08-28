@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400975424303200</docid>
+  <date>31/07/2017</date>
+  <time>10:19</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/mla-records-329-quarterly-revenue/news-story/5ced83fc6bfbd0f81d35809b010bb21a</url>
+  <title>MLA records $3.29 quarterly revenue</title>
+  <content>
+Newsbites Finance
+
+Share
+
+Medical Australia recorded total revenue for the quarter of $3.29m which is a 5.5% increase over the previous year and 2.2% up on the prior quarter.
+This increase has been achieved in spite of the loss of the CareFusion OEM business that took effect after May. The company ended the quarter with a cash balance of $1.55m.
+The TUTA range continued its strong performance, recording 6.4% growth over the same period last year and 5.5% growth from the previous quarter.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MLA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>TUTA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CareFusion OEM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426234127440601</docid>
+  <date>04/08/2017</date>
+  <time>12:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/us-jobs-report-july-2017-8</url>
+  <title>Here comes the jobs report ...</title>
+  <content>
+The jobs report for July is set to be released at 8:30 a.m. ET.
+
+Economists forecast that hiring slowed in July and 180,000 jobs were created, according to Bloomberg. They estimate that the unemployment rate returned to a 16-year low of 4.3% from 4.4%.
+
+But neither of these is as pressing right now as the sluggish pace of wage growth.
+
+In theory, wages should be growing at a faster pace than this because the unemployment rate is so low, meaning that the supply of workers available for hire is limited.
+
+However, Nomura's Lewis Alexander says wages are likely to stay low in this economic expansion relative to others partly because people aren't switching jobs as frequently as before.
+
+"Labour market turnover, an important driver of wage growth, has recently flattened, even as the unemployment rate has continued to fall," Alexander said in a preview.
+
+Average hourly earnings are forecast to print at a 0.3% growth pace month-on-month, and slip from 2.5% to 2.4% year-on-year.
+
+Economists will also be watching for changes in labour-force participation. The share of working-age Americans in the labour market stayed in a low and narrow range of 62.4% to 63.1%. One group of workers that has been coming back to the jobs market, Alexander said, is prime age workers between 25 and 54. However, participation among those who report staying away from work because they're disabled or for "other" reasons has been falling since 2013.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nomura's Lewis Alexander</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alexander</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

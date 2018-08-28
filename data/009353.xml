@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413692822700848</docid>
+  <date>02/08/2017</date>
+  <time>11:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/trump-said-to-call-white-house-real-dump/news-story/5056398f08c65dba0b60bacf8d472978</url>
+  <title>Trump said to call White House 'real dump'</title>
+  <content>
+President Donald Trump has told members of his New Jersey golf club he spends so much time away from Washington because the White House is a "real dump".
+The White House did not immediately respond to a request for comment about the account, which appeared in a lengthy article posted on the website golf.com.
+The story on Trump's complicated love for golf also appears in Sports Illustrated magazine.
+The story recounts a scene in which Trump was chatting with some club members.
+Trump told the members he makes such frequent appearances at the property in Bedminster, New Jersey, because: "That White House is a real dump."
+Trump has spent nearly every weekend of his presidency visiting various properties he owns and leases, including Bedminster.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sports Illustrated</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bedminster</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

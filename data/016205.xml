@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425289234617872</docid>
+  <date>04/08/2017</date>
+  <time>08:40</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/china-officials-fired-for-spellsfeng-shui/news-story/5173d1e352d819333e59846e37661afc</url>
+  <title>China officials fired for spells,feng shui</title>
+  <content>
+Reuters
+
+Share
+
+Two Chinese officials have been sacked for involvement in "superstitious activities", including casting spells to aid promotions and attending geomancy courses under the guise of business trips, state media reports.
+Members of the ruling Communist Party are not supposed to follow any religion in officially atheist China and the government takes a particularly harsh line on officials who practise what it deems are superstitious folk beliefs.
+Xinhua news agency said on Friday that Tang Yuansong, a former county housing official in the central province of Hunan, went on five feng shui training courses under the guise of "investigation tours", starting in 2008.
+Each session cost 54,000 yuan ($A10,000), which Tang claimed back as business expenses, Xinhua said.
+Tang also earned 5000 yuan a year for practising feng shui for others, it said.
+The other person sacked, also a former county official, had "asked others to set up an altar to cast spells and paid 100,000 yuan in tribute each time, with hopes of being promoted", Xinhua said.
+Both have been expelled from the party and will be further investigated for suspected criminal acts.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Xinhua</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tang Yuansong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communist Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tang</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

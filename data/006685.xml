@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409565359057132</docid>
+  <date>01/08/2017</date>
+  <time>19:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/world/donald-trump-gave-ideas-like-any-father-would/news-story/5a2e83f5818566c067d1f4cfb5ea8bf6</url>
+  <title>Trump gave ideas 'like any father would'</title>
+  <content>
+THE White House says US President Donald Trump had a role in a statement in which his son denied a meeting with a Russian lawyer was related to the 2016 presidential campaign, but a spokeswoman insists the statement is true.
+"He certainly didn't dictate (the statement)," said White House Press Secretary Sarah Sanders on Tuesday, "but ... he weighed in, offered suggestion like any father would do."
+"The statement that was issued was true and there were no inaccuracies in the statement," Ms Sanders said, even though emails later released by Donald Trump Jr. showed that the subject of the meeting was to be possible damaging information about Mr Trump's rival for the presidency, Democrat Hillary Clinton.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Democrat Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>White House Press Secretary Sarah Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

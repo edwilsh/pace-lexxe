@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400374128870903</docid>
+  <date>31/07/2017</date>
+  <time>07:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/web/nbn/nbn-chief-blames-isps-for-poor-performance-as-experts-call-for-policy-review-20170731-gxm94w</url>
+  <title>'Writing off of at least 50 per cent of the NBN investment will be unavoidable'</title>
+  <content>
+NBN chief executive Bill Morrow has hit out at the internet service providers reselling broadband packages, blaming a market share 'land grab' for the growing number of dissatisfied customers as a leading expert called for an independent review of the controversial policy.
+In a  on Monday Mr Morrow sought to address the growing public relations disaster facing the $49 billion broadband infrastructure project, as a daily drip feed of stories featuring unhappy residents with slow or non-existant internet connections shows no sign of slowing.
+In a step back from a The Australian Financial Review, where Mr Morrow suggested the company may be considering further reducing the controversial charges to ISPs - known as CVC charges - he instead accused service providers of eschewing quality and selling low quality plans as cheaply as possible in order to lock in customers.
+"This reshaping of the national competitive landscape via the NBN has triggered a unique opportunity for phone and internet companies to become service providers and chase market share like never before," Mr Morrow said.
+
+"Each week, as NBN makes around 100,000 premises Ready for Service, we see a vast number of service providers racing to capture as much retail market share as possible. This classic 'land grab' phenomenon can create more downside than upside if not carefully managed."
+
+He responded  make it impossible for service providers to buy sufficient capacity to avoid network congestion. Mr Morrow accused some ISPs of selling packages that are unfit for the demands of the individual and of skimping on the the capacity they are allocating. 
+Under the current business model the CVC charges are set at a level that allows the NBN to attempt to make the commercial return on the investment as demanded by Canberra.
+"The charges which phone and internet companies pay to access the NBN network - like the cost of marketing, customer service, labour, their own network and other add-ons - are just one of many variables that make up the cost base when delivering broadband to their customers," Mr Morrow said.
+"So to suggest those [CVC] charges are solely at fault for the quality of service would be similar in saying the cost of every other expense item does the same."
+
+He said NBN had already reduced CVC charges on three occasions and suggested ISPs needed to do more to raise their customers' experiences, rather than letting NBN carry the can.
+"We've tried to strike the right balance between our responsibility to make a return for the government's investment, and to contribute to a healthy and competitive telco market where phone and internet companies can make a buck and end users get access to a high-speed network - but we are only one part of a complicated chain," Mr Morrow said.
+Meanwhile leading telecommunications expert Paul Budde released a mid-year assessment of the NBN, which blasted the politicisation of digital infrastructure, and said it was time for a politically agnostic review to determine how the project should proceed.
+Mr Budde said that while the pricing model was under debate, the , rather than the earlier fibre to the premise (FTTP) model, ultimately meant it was building an asset that was of greatly reduced value to a future buyer.
+
+He said the fact that NBN was increasing the number of premises that would receive fibre to the curb (FTTC) technology was an indication that it understood that there was a longer term problem with fibre to the node (FTTN), and said it was actively building in random inequality for residents across Australia.
+"FTTN is inferior to FTTC/FTTP and customers are worried about getting an FTTN connection because they understand others will get the superior service," Mr Budde said. "Interestingly and telling is that there are little or no complaints from the one million plus FTTH connections."
+Mr Budde said it was shameful that politicians had turned the NBN into a "political football," rather than treating it as a national interest investment, and said it was time for a bipartisan plan to be drawn up to fix the current situation and provide a sustainable trajectory for the network build.
+"It would be a proper review by real experts - not by handpicked political appointees.... Let the engineers and other experts decide on the best solution," he said.
+
+"Once political sense finally returns to the NBN the writing off of at least 50 per cent of the investment will be unavoidable, as that is the only way to provide the economic platform necessary to finally allow for the proper build-out of the NBN as it was originally intended."
+Mr Budde warned that the more FTTN that was added to the network, the greater the amount that would have to be written off, and predicted that Telstra would eventually buy the completed network at a bargain price.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>FTTC/FTTP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>13</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Paul Budde</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Monday Mr Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTN</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>FTTC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Budde</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrow</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417124501639157</docid>
+  <date>03/08/2017</date>
+  <time>00:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/deutsche-bank-jpmorgan-launch-aussie-bond-for-us-telco-giant-20170803-gxobcv</url>
+  <title>Deutsche Bank, JPMorgan launch Aussie bond for US telco giant</title>
+  <content>
+A $US200 billion telecommunications giant is in front of Australian bond investors.
+Investment banks JPMorgan and Deutsche Bank launched a new "benchmark" Australian dollar debt raising for Verizon Communications on Thursday morning, after earlier arranging meetings with potential investors. 
+The brokers told clients that Verizon was seeking a four-tranche deal including 5 1/2 year floating rate note, 5 1/2 year fixed rate, 7 1/2 year fixed rate and 10 year fixed rate tranches. 
+The brokers opened the books on Thursday morning and said the offer would price on Friday, if not before. 
+
+The benchmark kangaroo bond deal is expected to see Verizon raise at least $500 million. 
+
+Initial pricing guidance was for 130 basis points to 190 basis points above benchmark rates, depending on the tranche. 
+The brokers told clients the notes were expected to be investment grade and rated Baa1 by Moody's, BBB+ by Standard & Poor's and A- with Fitch. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Verizon</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baa1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Verizon Communications</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fitch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Moody</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US200</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

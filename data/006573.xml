@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409054257939880</docid>
+  <date>01/08/2017</date>
+  <time>17:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/03/33/flash-mob-wish-for-young-melbourne-boy</url>
+  <title>Flash mob wish for young Melbourne boy</title>
+  <content>
+Young Victorian boy Eitan has been battling leukaemia for four years but now he just wants to dance, dance, dance.
+The seven-year-old will star in a flash mob with hundreds of people at Melbourne's Federation Square on Wednesday as part of a charity wish.
+After spending years in hospitals since the age of two, he wants to become a viral internet star and wants to "make new friends".
+The dance to Justin Timberlake's Can't Stop The Feeling kicks off from 4pm.
+People are encouraged to learn the dance, via a video on the Make-A-Wish website, or turn up and cheer Eitan on.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Melbourne's Federation Square</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Make-A-Wish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eitan</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justin Timberlake's Ca</name>
+    <count>1</count>
+    <score>0.67</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

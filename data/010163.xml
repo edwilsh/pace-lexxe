@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415836011426464</docid>
+  <date>02/08/2017</date>
+  <time>19:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/world/taliban-claims-15-soldiers-killed-in-bomb-attack-on-nato-convoy-in-afghanistan-20170802-gxo6rn.html</url>
+  <title>Taliban claims 15 soldiers killed in bomb attack on NATO convoy in Afghanistan</title>
+  <content>
+KABUL: A suicide bomb attack has killed two US soldiers in a NATO convoy near the airport in the southern Afghan city of Kandahar, a Pentagon spokesman says .
+Navy Captain Jeff Davis announced the deaths from Washington. He gave no further details.Photo: STR
+A local security official said the attacker drove an explosives-laden vehicle into the convoy.
+The Taliban claimed responsibility for the attack in an online post by spokesman Zabihullah Mujahid.
+He said the explosion destroyed two vehicles and killed 15 foreign soldiers, including two "high-ranking officers".
+Photos of the site showed one partially destroyed armoured vehicle, with the rear of the truck particularly badly damaged.
+
+A Reuters witness said military helicopters landed at the site at least four times as responding troops secured the area and removed the damaged vehicle.
+The airport in Kandahar is home to a major military base for international troops helping Afghan security forces in their struggle to contain the Islamist Taliban insurgency.
+
+You will now receive updates from
+
+Breaking News Alert
+
+Breaking News Alert
+
+Get the latest news and updates emailed straight to your inbox.
+
+The coalition maintains nearly 13,000 troops from 39 countries as part of a mission to train, advise and assist Afghan troops.
+US military commanders in Afghanistan have asked for several thousand additional troops, but the request is stalled in Washington, where President Donald Trump has expressed scepticism over extending the US commitment.
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zabihullah Mujahid</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Pentagon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>STR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Alert</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Navy Captain Jeff Davis</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NATO</name>
+    <count>2</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Islamist Taliban</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410510251880284</docid>
+  <date>01/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/helicopter-crashes-into-power-lines-in-qld-20170801-gxni0q.html</url>
+  <title>Helicopter crashes into power lines in Qld</title>
+  <content>
+A helicopter has crashed into power lines in outback Queensland.
+Emergency services have been called to a crash scene about 20 kilometres north of Cloncurry, Queensland.
+The incident was reported to the Queensland Ambulance Service about 7.30am on Wednesday by another pilot.
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cloncurry</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437310848219284</docid>
+  <date>06/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/australias-air-warfare-destroyers/news-story/3e98558d1d68881ff6c979cfa9a5baaa</url>
+  <title>Australia's air warfare destroyers</title>
+  <content>
+AUSTRALIA'S AIR WARFARE DESTROYER PROGRAM:
+*Three ships are being built. The Hobart, Brisbane and Sydney at a cost of $9 billion.
+* The ships each displace about 7000 tonnes, have a crew of 186, a top speed of 28 knots and a range of 5000 nautical miles, or more than 9000 kilometres.
+* The ships are powered by a combination of gas and diesel turbines and have twin propellers.
+* The destroyers are armed with harpoon missile systems and have missile decoy technology. They are fitted with a flight deck and hangar for one helicopter.
+* Each ship has more than 400 compartments set across seven levels and five decks.
+* Each destroyer has enough paint to cover the Sydney Harbour Bridge twice, enough electrical cable to cross Bass Strait, includes steel equivalent to the weight of 450 elephants and has the engine power of 200 family sedans.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bass Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRALIA'S AIR WARFARE DESTROYER PROGRAM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Harbour Bridge</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

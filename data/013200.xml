@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420289892594197</docid>
+  <date>03/08/2017</date>
+  <time>13:16</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/web/nbn/nbn-co-sets-sights-on-300m-in-new-office-leases-20170803-gxoo7m</url>
+  <title>NBN Co sets sights on $300m in new office leases  </title>
+  <content>
+The company building Australia's National Broadband Network is closing in on two new office headquarters in Sydney and Melbourne, which could cost the company as much as $300 million over the next 10 years.
+While the government may have retreated from the "gold plated" broadband network promised under the previous Labor administration, NBN isn't scrimping on its new digs.
+In Sydney NBN is set to go to Dexus' 100 Mount Street development, just one minute from the new Victoria Cross Metro rail station in North Sydney.
+This would complement a  where it is understood to have signed on for around 20,000 square metres at the final tower in billionaire Lang Walker's Collins Square project.
+
+The Mount Street building comprises 41,500 square metres over 34 office levels with spectacular views over Sydney Harbour.
+
+It is likely that NBN would take half of the building with rents in the range of about $700- $750 per square metre per year.
+That would have the NBN's paying a gross cost of about $15 million a year or $150 million over the duration of what would likely be a 10-year lease.
+NBN declined to comment on its leasing plans when contacted by The Australian Financial Review.
+The timing of the office hunt is awkward for NBN as it faces increased scrutiny and a  into failures of the broadband rollout.
+
+It is embroiled in an ongoing dispute with internet service providers .
+Slow internet speeds for many users of the NBN have been blamed on NBN's need to charge high prices in order to make a commercial return, whereas ISPs say they cannot afford to pay for enough.
+When asked why it was not looking for office space in cheaper parts of Sydney, such as Paramatta or Olympic Park, where Commonwealth Bank of Australia is due to vacate by 2020, NBN again declined to comment.
+and the last building, known as Tower 5, already has a commitment from Transurban for around 16,000 sq m.
+
+The NBN tenancy will virtually fill that final tower in the $2.5 billion mixed use project.
+The NBN deal is expected to be struck at somewhere between $575 and $590 per sq m on a net face rent, according to industry sources.
+An incentive, which is customary in most commercial leasing deals, could be worth around 25 per cent.
+The tower is due to be completed some time around the end of next year. allowing NBN to move from the start of 2019.
+
+It is expected NBN will consolidate its existing tenancies out of GPT-owned Media House, where the broadband operator is on a sub-lease to Fairfax, just a short walk from Collins Square. It would also come out of 120 Spencer Street and Melbourne Central.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Victoria Cross Metro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>12</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Dexus' 100 Mount Street</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paramatta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transurban</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lang Walker's Collins Square</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPT-owned Media House</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia's National Broadband Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Collins Square</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Central</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tower 5</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spencer Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympic Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Harbour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

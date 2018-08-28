@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400034826448452</docid>
+  <date>31/07/2017</date>
+  <time>06:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/16/32/husband-killing-wa-doctor-s-high-court-bid</url>
+  <title>Husband killing WA doctor's High Court bid</title>
+  <content>
+A doctor who beat her abusive husband to death with a mallet as he slept in their West Australian home has taken the fight to overturn her conviction and sentence to the High Court.
+Sri Lankan-born Chamari Liyanage was sentenced to four years in prison after being convicted of the manslaughter of Dinendra Athukorala in Geraldton, in the state's Mid West region, in June 2014.
+She walked free from jail in March and dodged deportation after the Department of Immigration agreed to reinstate her permanent residency, then unsuccessfully took her case to the WA Court of Appeal, but she has now sought leave to appeal in the High Court.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mid West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Court of Appeal</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sri Lankan-born Chamari Liyanage</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June 2014</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Immigration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geraldton</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>High Court</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dinendra Athukorala</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

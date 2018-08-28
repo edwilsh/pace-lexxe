@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398531587874282</docid>
+  <date>31/07/2017</date>
+  <time>00:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/tough-airport-security-to-stay-for-now-pm/news-story/21f926782eb20beb6ad8eacb57ea89dd</url>
+  <title>Tough airport security to stay for now: PM</title>
+  <content>
+Tighter security measures causing long delays at airports will remain in place until authorities believe they are no longer necessary to address a terrorism threat.
+Domestic passengers are being advised to arrive two hours before their flights, and international passengers three hours before, to allow for the extra security checks imposed after police foiled a Sydney-based plot to bomb a passenger plane.
+Prime Minister Malcolm Turnbull has been assessing the new arrangements with police, domestic intelligence agency ASIO and the Office of Transport Security on Monday morning.
+"I want to thank the travelling public for their forbearance, having to get to the airport earlier and wait longer to get through security," Mr Turnbull told ABC radio from Perth on Monday.
+"(Security measures) will be required for as long as the threat is assessed as requiring them."
+Four Sydney men were arrested over the bomb plot on Saturday.
+Mr Turnbull is proud of the nation's security and intelligence agencies for their rapid response.
+With an investigation underway, the prime minister was reluctant to comment on details or speculation, about the plot, including whether it involved a bomb or gassing passengers.
+"There will obviously be more to say over coming days," he said.
+"It will be alleged that this was an Islamist, extremist terrorist motivation."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney-based</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Office of Transport</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Islamist</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423652852052483</docid>
+  <date>04/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Energy Business News</source>
+  <url>http://www.energybusinessnews.com.au/energy/solar/spanish-group-wins-bungala-two-contract/</url>
+  <title>Spanish group wins Bungala Two contract</title>
+  <content>
+Bungala One under construction
+Spanish group Elecnor has been awarded a $173 million contract to construct the second phase of the Bungala solar farm in South Australia.
+Elecnor won the contract for Bungala One in April, and has already begun construction. The two phases will comprise over 437,000 solar panels and deliver a total of 275MW of capaciity.
+A third phase is under development and will add 100MW, for a grand total of 374MW.
+The South Australian plant, near the town of Port Augusta, will be built for the investment consortium comprising Enel Green Power and Dutch Infrastructure.
+The plant is due to connect to the grid by early 2019, with Origin signing a purchase agreement.
+Elecnor will build and operate the two projects for a period of five years after construction is completed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>MW</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Dutch Infrastructure</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bungala Two</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enel Green Power</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bungala</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Augusta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spanish</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Elecnor</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Bungala One</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

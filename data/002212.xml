@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400240984882115</docid>
+  <date>31/07/2017</date>
+  <time>07:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/managed-funds/hamish-douglass-i-did-the-dumbest-thing-ever-20170731-gxm4ri</url>
+  <title>'I did the dumbest thing ever'</title>
+  <content>
+Magellan's Hamish Douglass has owned up to  making a handful of poor investment decisions as the chief investment officer of the multibillion-dollar global fund manager, including loading up on Australian dollars as a defensive position just before the bottom fell out of the currency.
+The Australian-based global fund manager is celebrating the tenth birthday of the flagship Magellan Global Fund launched in July 2007 and has grown to $50 billion under management. On Monday the firm sent a video to clients and advisers reflecting on the firm's successes and failures.
+Mr Douglass highlights a handful of poor stock selections which he puts down to inadequate due diligence such as positions in weight-management company Nutrisystems, which fell 80 per cent,
+It was a decision to sell down shares and go to cash in 2008, however, that Mr Douglass chastises himself most about. The decision to preserve capital was a costly one that influenced how the fund operates today, he said.
+
+"I did the dumbest thing in history, I then converted all that cash into Australian dollars, what happened was the Australian dollar collapsed from around parity with the US dollar to the 60c range and of course when I reached to go and spend that money to buy global equities again it was worth a lot less," Mr Douglass said.
+
+Difficult period
+
+"So I made a great decision to get out of equities and then I made a dumb decision ... we've learnt from that lesson, some people may have noticed we don't hold cash in Australian dollars when we are holding it for defensive purposes."
+Magellan's Global Fund has rebounded in the first half of calendar 2017 . Over the year to June 30 the fund has beaten the benchmark MSCI Total World Index by 63 basis points and over five years by 38 basis points.
+The strength of the returns are more pronounced over the long term. Over seven years the outperformance is 306 basis points per annum and since inception  the outperformance is 602 basis points per annum. The returns are after ongoing fees but excluding member fees and entry fees.
+
+The 15-minute video focuses on the positions that contributed to the success of the fund and address the perception that Magellan is betting on a US recovery because of the large number of US-domiciled companies in its portfolio. He also sounds a warning for passive investors.
+Mr Douglass reveals that he is an admirer of Vanguard's index investing pioneer Jack Bogle to the extent that he named a meeting room at Magellan's Sydney headquarters after him. However, he says that going forward index investing may not deliver the same returns the strategy has in the past as more businesses are disrupted and ultimately collapse.
+"I'm not anti passive investing but to think it's easy money and you are going to get some GDP-plus growth story plus dividends by simply owning the index you need to think a little more deeply," he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian-based</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vanguard</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Magellan's Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MSCI Total World Index</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Magellan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US-domiciled</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nutrisystems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Douglass</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Magellan Global Fund</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GDP-plus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2007</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Magellan's Hamish Douglass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jack Bogle</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441657355166139</docid>
+  <date>07/08/2017</date>
+  <time>00:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/reachtel-poll-big-dal-emerges-as-serious-contender/3209317/</url>
+  <title>ReachTEL poll: 'Big Dal' emerges as serious contender</title>
+  <content>
+ASIDE from a productive meeting between concerned members of the Ipswich community and candidates, there was another very interesting development to come as a result of yesterday's Queensland Community Alliance event.
+
+Facing time limitations and wanting to keep their meeting to the point, the Alliance conducted some polling in order to cull the candidates down to the top four contenders.
+
+Although the Alliance hasn't released the full results of the poll, what we do know is that ReachTEL conducted the polling and 1000 residents were involved.
+
+But perhaps more interestingly, political newcomer Dallas Klass (aka Big Dal), finished somewhere among the top four.
+
+He would have appeared at yesterday's meeting but was unable to attend, resulting in the Alliance inviting another of the candidates to replace him.
+
+I'll be the first to admit that I did not foresee Mr Klass being potentially among the top 4 but, having seen some indication of his potential, I'm even more excited about the mayoral race.
+
+This could certainly throw a cat among the pigeons for the upcoming by-election, and we will watch with interest as more candidate forums are held this week.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Klass</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Big Dal</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dallas Klass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Community Alliance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ReachTEL</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

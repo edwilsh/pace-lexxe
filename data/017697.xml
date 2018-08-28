@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429708756038658</docid>
+  <date>05/08/2017</date>
+  <time>01:49</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/a-shark-sighting-near-south-arm-has-prompted-police-to-warn-anyone-out-on-the-water/news-story/46007190bc57028cccd7e59ef97249f5</url>
+  <title>South Arm shark sighting</title>
+  <content>
+A SHARK sighting near South Arm this morning has been reported to Tasmania Police.
+The sighting, off Hope Beach, was reported about 10.30am, police said.
+The person who reported the shark told police there could be more than one.
+It is not known what type of shark.
+A has been seen in waters of the Tasman Peninsula in recent days.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hope Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasman Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Arm</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

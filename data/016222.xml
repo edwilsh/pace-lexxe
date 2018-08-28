@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425327889324256</docid>
+  <date>04/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/18/45/man-who-cut-up-friend-jailed-for-22-years</url>
+  <title>Man who cut up friend jailed for 22 years</title>
+  <content>
+A gambling addict who bludgeoned his best friend to death after being refused $100, then dismembered his body and disposed of his remains in various locations has been jailed in Perth for 22 years.
+David Napier murdered 70-year-old Richard Andrews at the victim's Calista home by bludgeoning the back of his head with a hammer then cutting up his body with a hacksaw, including severing his fingers, and smashing his face with an axe in a bid to prevent identification.
+Napier initially denied the crimes but later confessed to police and led them to Dwellingup State Forest and Gidgegannup where he'd hidden body parts, but some remains were never found.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NAPIER</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Calista</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gidgegannup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Andrews</name>
+    <count>1</count>
+    <score>-3.5</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Napier</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dwellingup State Forest</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

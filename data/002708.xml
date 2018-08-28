@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401641144246764</docid>
+  <date>31/07/2017</date>
+  <time>12:54</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/stock-market-news-what-traders-are-chatting-about-31-2017-7</url>
+  <title>Here's a super-quick guide to what traders are talking about right now</title>
+  <content>
+Dave Lutz, head of ETFs at JonesTrading, has an overview of today's markets.
+
+US Futures are slightly green and European markets are all rising this morning.
+
+Asian markets were unaffected by
+
+Commodities are doing well. Oil, copper and metal ore are all higher.
+
+Here's Lutz:
+
+Good Morning! US futures are slightly in the Green, with Industrials jumping above Friday's records and S&P going green on DISCA for SNI headers. It's all green in Europe, with the DAX up 30bp on Strong German Retail Sales - while Healthcare in Europe acting well as Sanofi raises outlook and Beverages liking Heineken #s. FTSE up 40bp as Banks jump on HSBC and Miners continue to see inflows on China PMI data. Volumes across Europe are light tho, with most exchanges trading 30% light in Summer Monday Trading. Asia shrugged off a new North Korean missile test, with KOSPI adding small - Shanghai up 60bp - Hang Seng up 1.2% as Banks propelled gains - Nikkei lost small as Yen jumped - while Aussie climbed 30bp with Miners higher on the back of BHP
+The US 10YY is off small, being rejected from 2.3% overnight as German Yields drift flat. The Dollar just off 1Y lows as the Loonie sees profit-taking - The Euro is weaker despite strong Employment figures as Inflations prints well under ECBs target, but that $/Y has fallen well below 111 - may be the only macro indicator showing any stress on the Korea Situation. China PMI has Ore hitting 4month highs and Copper on 2year highs, while Gold is the only metal under pressure on the rallying greenback. Oil trying for 6 in a row higher, resting just upside 200d, but was rejected from $US50 overnight as Brent and gasoline Contracts roll today. AGs mostly weaker, with Wheat, Soy and Corn all off 1%
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's PMI</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US 10YY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heineken</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hang Seng</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>German Yields</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ECBs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Futures</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Summer Monday Trading</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sanofi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kospi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dave Lutz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SNI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JonesTrading</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTSE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Y</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lutz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Strong German Retail Sales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETFs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AGS</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Korea Situation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

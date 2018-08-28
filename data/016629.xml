@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425113140955561</docid>
+  <date>04/08/2017</date>
+  <time>07:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/nsw-act/news/eastbound-lanes-closed-on-m5-east-causing-long-delays/news-story/e5a3801193330c0e6ba1b8ea5dd8a5c7</url>
+  <title>Eastbound lanes closed on M5 East, causing long delays</title>
+  <content>
+Expect long delays on M5 East. Picture: Damian Shaw
+
+Share
+
+PEOPLE should expect nightmare peak-hour commutes on the M5 motorway after an overheight truck struck the tunnel entrance of the M5 East.
+Extreme delays are expected for those travelling towards the city this afternoon.
+M5 East closed eastbound lanes but they have now been reopened, according to Live Traffic NSW. The truck was moved shortly after the incident.
+The truck hit the tunnel entrance at Bexley North before 5.30pm and there is currently heavy traffic.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>M5</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Damian Shaw</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>M5 East</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bexley North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Live Traffic NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

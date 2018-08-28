@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406782220191895</docid>
+  <date>01/08/2017</date>
+  <time>08:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-01/ban-upheld-hodge-fails-with-tribunal-challenge</url>
+  <title>Ban upheld: Hodge fails with Tribunal challenge</title>
+  <content>
+Hawthorn veteran Luke Hodge
+
+HAWTHORN champion Luke Hodge has failed in his bid to overturn a striking charge at the Tribunal on Tuesday night and will be sidelined for the Hawks' crunch game against Richmond on Sunday.
+
+Hodge will be fined $2500 as a result of the failed challenge but he did not risk an extra week on the sidelines for his third low-level offence this season. 
+
+The retiring AFL great argued his action was what the Hawks refer to as a "steel arm" to prevent Swan Tom Papley running in to an open goalsquare. 
+
+But after a lengthy 21 minute deliberation the jury of Paul Williams, Stewart Loewe and Richard Loveridge disagreed and upheld the Match Review Panel's decision.  
+
+"We disagreed with the Tribunal about it being a strike, we didn't think it was," Hodge said as he left the Tribunal at AFL House. 
+
+"It's disappointing, 'Rough' (Jarryd Roughead) is playing his 250th this week and I guess that was a lot of the reason behind it as well, to try and get out there and play with him. 
+
+"That's footy, you take what they give you and look forward to the week after."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Match Review Panel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hawk</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Swan Tom Papley</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AFL House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Loveridge</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jarryd Roughead</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawthorn</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Hodge</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Stewart Loewe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paul Williams</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Luke Hodge</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

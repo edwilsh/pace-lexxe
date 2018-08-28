@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404067800816414</docid>
+  <date>31/07/2017</date>
+  <time>22:19</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/southern-outlet-crash-heading-into-hobart-hampers-morning-traffic/news-story/e6fae2c547819ea273471cdb13b140bc</url>
+  <title>Outlet crash stalls city-bound traffic</title>
+  <content>
+A THREE-VEHICLE crash on Hobart's Southern Outlet is expected to cause traffic delays for city-bound commuters.
+In a statement issued at 7.51am today, Tasmania Police said emergency services were responding to the accident near Proctors Rd at Mt Nelson.
+A city-bound traffic lane will be blocked to allow the safe passage of emergency crews.
+There will be delays to city-bound traffic until the scene is cleared.
+Motorists have been urged to avoid the area if possible.
+No injuries have been reported.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hobart's Southern Outlet</name>
+    <count>1</count>
+    <score>-2.3</score>
+  </sindex>
+  <sindex>
+    <name>THREE-VEHICLE</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Police</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Proctors Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mt Nelson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

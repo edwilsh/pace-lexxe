@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411755792415591</docid>
+  <date>02/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/woman-mauled-to-death-by-dogs-at-boarding-kennel/8766934</url>
+  <title>Woman mauled to death by dogs at Perth boarding kennel</title>
+  <content>
+A woman has been attacked and mauled to death by two dogs in the Perth suburb of Southern River.
+Police said the woman, aged in her 50s, was attacked yesterday afternoon at the property on Terrier Place, which also serves as Barko's canine boarding kennels.
+The woman, whose name has not been released, was declared dead by paramedics a short time later.
+The City of Gosnells said rangers were called to the property about 1:45pm yesterday to collect a dog that was preventing police from accessing the woman's body.
+A council spokesman told the ABC that two dogs - a bull mastiff and a Staffordshire bull terrier - had been seized and impounded by rangers.
+A spokesman said the council was waiting on further instructions from the police before deciding what action, if any, would be taken with the animals.
+He said the dogs were registered to the owner of the property and no previous complaints about them had been received.
+
+'Body found by daughter'
+
+Neighbour Greg, who did not give his surname, said he did not hear any signs of a struggle at the property.
+He said the woman's body was found by her daughter, who came to check on her mother after concerns were raised when she did not turn up for work at a local childcare centre.
+Greg said the dogs were very aggressive and had to be locked away when anyone came to visit the property.
+He said one of the dogs believed to be involved in the attack had been living with the woman for four years, when she first moved to the neighbourhood.
+Another neighbour, who did not provide their name, said the woman was passionate about dogs and dedicated her life to their care, especially rescue dogs.
+Police have told the ABC the woman's death was not being treated as suspicious and a report would be prepared for the coroner.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Staffordshire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terrier Place</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barko</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

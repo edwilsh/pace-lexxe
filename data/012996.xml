@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419619877681220</docid>
+  <date>03/08/2017</date>
+  <time>10:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/britains-growth-steady-and-sluggish/news-story/922ff08119c291b3f4c2399a30ccb3a8</url>
+  <title>Britain's growth 'steady and sluggish'</title>
+  <content>
+Britain's economy looks set for "steady but sluggish" growth in coming months, according to a survey that shows businesses in a sombre mood about their prospects before Brexit.
+The figures for the services sector add to signs Britain's economy is struggling for momentum after its slowest start to the year since 2012 and bolster the case for the Bank of England to keep interest rates on hold later on Thursday.
+Nonetheless, sterling edged up to an 11-month high against the US dollar after the survey, which came in a little stronger than expected.
+The IHS Markit/CIPS services Purchasing Managers' Index rose to 53.8 in July from June's four-month low of 53.4, slightly above economists' forecasts in a Reuters poll but below its long-run average.
+The services PMI follows more upbeat numbers on Tuesday from the much smaller manufacturing sector and weak construction figures on Wednesday.
+Taken together, the data suggest the economy is growing at a "steady but sluggish" quarterly rate of 0.3 per cent, the same as in the three months to June, according to IHS Markit.
+While manufacturing exporters have gained from the fall in the pound since last year's Brexit vote, Thursday's survey showed consumer-facing businesses have been hurt by a reduction in demand due to stretched household budgets.
+"The services PMI remains consistent with sub-par growth despite its modest improvement in July, suggesting that the economy still isn't strong enough to warrant higher interest rates," said Samuel Tombs, economist at Pantheon Macroeconomics.
+The longer-term outlook is also weak, with service-sector firms' expectations for the year ahead stronger than in June but still among the weakest readings since late 2012.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pantheon Macroeconomics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Samuel Tombs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>IHS Markit/CIPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Purchasing Manager Indices</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1.3</score>
+  </sindex>
+  </sindexList>
+</snippet>

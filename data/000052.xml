@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397797148457096</docid>
+  <date>30/07/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/07/52/sa-driver-almost-hit-child-in-playground</url>
+  <title>SA driver almost hit child in playground</title>
+  <content>
+A man has been arrested after he crashed his car into a playground in South Australia, narrowly missing a small child.
+Police say the 23-year-old man, who was driving an unregistered car, ignored a signal to pull over on Sunday afternoon and instead sped off and crashed through two fences before ploughing into a playground nearly running over a young child at Port Pirie.
+The man tested positive to methamphetamine and is set to appear in the Port Pirie Magistrates Court on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Port Pirie Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Pirie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

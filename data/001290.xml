@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399472185724788</docid>
+  <date>31/07/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/14/25/qld-top-cop-reappointed-for-3-years</url>
+  <title>Qld top cop reappointed for 3 years</title>
+  <content>
+Queensland's top cop, Ian Stewart, has been re-appointed as police commissioner for another three years.
+Premier Annastacia Palaszczuk announced the re-appointment after Mr Stewart briefed the state cabinet on the Gold Coast after the weekend's terrorism raids in NSW.
+Mr Stewart was first appointed commissioner in 2012 and was re-appointed by then police minister Jo-Ann Miller in 2015.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jo-Ann Miller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ian Stewart</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

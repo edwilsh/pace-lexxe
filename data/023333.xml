@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443925097931297</docid>
+  <date>07/08/2017</date>
+  <time>08:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/leadership/innovation/the-most-productive-firms-are-slaying-the-rest-and-so-are-their-employees-20170801-gxn3su</url>
+  <title>The most productive firms are slaying the rest, and so are their employees</title>
+  <content>
+The corporate landscape has become increasingly unequal, with the most productive firms thriving and the least productive ones failing to keep up. This matters not just for economic growth but also for inequality: As firms grow apart in productivity, they also become more unequal in how much they pay workers.
+This pay gap between firms is contributing to increased income inequality. Using new data from the Organisation for Economic Cooperation and Development that's representative of the whole population of businesses in 16 countries, we looked at firms' productivity and how labour market policies affect it.
+Pulling ahead
+
+Given the number of "unicorns" in Silicon Valley, you might think that tech companies are boosting their productivity, while firms in more traditional sectors are left behind. But the productivity gap is growing both within countries and within sectors in the same country. The gap between the top 10 per cent of firms by productivity and the bottom 10 per cent  increased by about 14 per cent  from 2001 to 2012.
+
+At the beginning of the new millennium, this divide was mainly driven by the bottom performers not keeping up with the median firms. Since the mid-2000s - especially in the services sector - it is also increasingly the case that the top performers have left the median firms behind.
+
+Productivity gap causes wage gap
+
+In the afterword of his book Wage Dispersion, Nobel Prize winner Dale Mortensen argued that productivity differences could cause wage dispersion: "Why are similar workers paid differently? Why do some jobs pay more than others? I have argued that wage dispersion of this kind reflects differences in employer productivity."
+When higher productivity means higher wages, the increasing productivity gaps between firms translate into wage gaps. As organisations grow apart in productivity, they also become more unequal in how much they pay workers. Again, it's not just Silicon Valley companies paying more than fast-food restaurants. The gap between the top- and bottom-paying firms in the same sector has increased more than 12 per cent from 2001 to 2012. And wage inequality has grown the most in sectors in which productivity differences have increased the most. It's not just what sector you work in - it's which company you work for.
+The growing productivity gap between organisations could account for almost half the increase in wage inequality between firms in the same sectors. Part of this might be driven by higher investment by highly productive firms. But even when we account for investment, productivity still accounts for one-sixth of the increase in wage dispersion.
+
+Trade and technology
+
+As MIT economist David Autor said in 2015 when asked about the causes of inequality: "There are many moving parts here. One of them has clearly been information technology. A second one has been international trade. I also think the decline of unionisation has mattered a great deal."
+Our data confirms these suggestions.
+First, sectors that made more use of IT have experienced stronger growth in wage dispersion, which suggests that IT gives an edge to some firms while others fail to reap its potential. Second, sectors more exposed to international trade have also experienced more wage divergence. In fact, in sectors with more IT and more trade, rising productivity gaps translated into even larger wage gaps.
+
+Do unions affect productivity?
+
+If productivity divergence is linked with wage divergence, is it possible that this link is affected by how labour markets are organised?
+We examined labour market policies and institutions that could affect wage inequality: minimum wages, employment protection legislation, unionisation and the degree of coordination of the wage-bargaining process (the extent to which wages are negotiated at the firm level or are centrally negotiated with large unions). We find that all of these policies have the intended result of reducing inequality.
+But by changing how easy it is for firms to hire or dismiss workers, these policies affect how labour flows to the best firms and, as a result, the link between productivity gaps and wages. For example, increases in the minimum wage strengthen the correlation between wage and productivity gaps over time. So even though a higher minimum wage lowers overall inequality by raising the incomes of the lowest-paid workers, it increases the difference between how well workers are paid at more- and less-productive firms. On the other hand, a more centralised bargaining process - for instance, through collective agreements - tends to break the link between productivity gaps and wage inequality.
+
+Countries that attempt to shield workers and firms during tough economic conditions should experience less inequality, both in terms of wages and firm productivity. This is beneficial to workers, as their jobs and salaries would be better protected. But less dispersion in wages and productivity due to regulations may damage the economy's overall productivity by making it harder for resources to flow from less- to more-productive firms.
+What's beneficial in the short-term may be detrimental over time. When policies hinder the reallocation of resources from poorly performing to highly productive firms, they can result in slower productivity growth. And this can have adverse implications for workers, inadvertently trapping them in low-paying firms rather than giving them the opportunity to earn higher wages at more-productive firms.
+This is the conundrum that policymakers must solve: Productivity gaps create inequality. But in trying to protect workers, policies might endanger productivity growth, and with it, workers' prospects.
+(Giuseppe Berlingieri is an assistant professor of economics at ESSEC Business School, as well as an economist for the Directorate for Science, Technology and Innovation at the OECD. Patrick Blanchenay is an assistant professor at University of Toronto's Department of Economics. Chiara Criscuolo is a senior economist at the Paris-based OECD.)
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Giuseppe Berlingieri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dale Mortensen</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Directorate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Economic Cooperation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OECD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Toronto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Blanchenay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ESSEC Business School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chiara Criscuolo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nobel Prize</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Paris-based OECD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Autor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wage Dispersion</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Economic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

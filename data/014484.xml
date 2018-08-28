@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422707959231500</docid>
+  <date>03/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/08/32/tyre-change-catches-qld-car-thief</url>
+  <title>Tyre change catches Qld car thief</title>
+  <content>
+A man who stole and crashed a car in Brisbane was nabbed by police when he stopped to change a tyre.
+Police had tracked the car via helicopter for more than 30 minutes on Thursday night until crews on the ground used the tyre change as an opportunity to nab the thief.
+A 24-year-old man will appear at Richlands Magistrates Court charged with multiple traffic offences.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richlands Magistrates Court</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412915433604840</docid>
+  <date>02/08/2017</date>
+  <time>08:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/18/31/nurofen-settles-3-5m-class-action</url>
+  <title>Nurofen settles $3.5m class action</title>
+  <content>
+Australians who bought a packet of Nurofen between 2011 and 2015 could be compensated after the company that makes the popular painkillers agreed to settle a consumer class action, a law firm says.
+Bannister Law on Wednesday said it had reached a $3.5 million settlement with drug company Reckitt Benckiser, subject to final approval in the Federal Court.
+An independent third party will use the money to reimburse eligible consumers who bought products in the Nurofen Specific Pain Range, the law firm said in a statement.
+The firm expects settlement notices will be published in Australian newspapers, calling for people who purchased the products between January 2011 and December 2015 to register a claim.
+Reckitt Benckiser was previously hit with a $6 million fine over the Nurofen Specific Pain Range in 2016.
+The consumer watchdog successfully argued in the Federal Court that four of the range's products - for back pain, period pain, migraines and tension headaches - were chemically identical despite claims they targeted specific pain.
+The ACCC also said the products were similar to other standard Nurofen ibuprofen products but almost double the price.
+
+Related Articles
+
+Justice James Edelman ruled Reckitt Benckiser had breached Australian consumer law but noted in his 2016 penalty judgment that the company had since changed its packaging.
+Comment has been sought from Reckitt Benckiser.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nurofen</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Justice James Edelman</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reckitt Benckiser</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>December 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nurofen Specific Pain Range</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2011</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bannister Law</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399863027754034</docid>
+  <date>31/07/2017</date>
+  <time>06:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/health-minister-natasha-fyles-announces-monthtrail-of-bdr-scanners-ahead-of-september-1-launch/news-story/8c5fc8e8228bd4749402191eabc5a2ec</url>
+  <title>Trial Banned Drinkers Reister roll out begins</title>
+  <content>
+DARWIN sports clubs will test run the Banned Drinkers Register ahead of next month's roll out of the Gunner Government's alcohol management policy.
+Health Minister Natasha Fyles announced the month-long trial to test the technology at St Mary's football club today.
+The BDR scanners will be rolled out across the Territory on September 1, Ms Fyles said.
+The trial run begins this week for anyone wanting to buy takeaway alcohol from the club.
+She said some of the older technology used previously had been replaced with new machines, which scanned IDs within two seconds.
+"We're taking action by bringing forward the roll out of new BDR devices across the Northern Territory ensuring the best possible response times," she said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BDR</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banned Drinkers Reister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gunner Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Fyles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Marys</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Territory</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Health Minister Natasha Fyles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banned Drinkers Register</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

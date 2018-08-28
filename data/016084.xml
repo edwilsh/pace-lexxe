@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424898392586615</docid>
+  <date>04/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/the-10-most-important-things-in-the-world-right-now-v4-2017-8</url>
+  <title>The 10 most important things in the world right now</title>
+  <content>
+Hello! Here's what you need to know on Friday.
+
+1. . Mueller impaneled a grand jury in recent weeks and a former Justice Department official under Obama said "It is a clear sign that this investigation is escalating, and it likely means we are going to see a parade of White House staffers and other Trump associates coming in and out of the courthouse".
+
+2. . The UK seems so badly prepared for Brexit negotiations that some EU diplomats are starting to believe that it must be some form of elaborate trap.
+
+3. . RBS will set up a new European headquarters in the Netherlands as part of a contingency plan to deal with a hard Brexit, the firm said in a statement to investors on Friday.
+
+4. . After four men were arrested over plans to blow up an Etihad plane leaving Sydney for Abu Dhabi, Australian police revealed today that a senior Islamic State commander organised the plan and organised parts for the makeshift bomb to be sent from Turkey.
+
+5. . Bitcoin cash launched on Tuesday, becoming the fourth largest cryptocurrency by market cap, following a much-anticipated fork in the bitcoin blockchain.
+
+6.. It was the second blaze at the 1,105 foot (337 meter)-tall, 79-storey Torch Tower in two years, forcing hundreds of occupants to flee as burning debris showered down the sides of the structure. There have been no reported injuries.
+
+7.. Honda recalled its Vezel SUV last year because it could catch fire - but Uber continued to lease the cars, according the WSJ. "As soon as we learned of a Honda Vezel from the Lion City Rental fleet catching fire, we took swift action to fix the problem," an Uber spokesperson said. "But we acknowledge we could have done more."
+
+8. . US non-farm payrolls, arguably the most important economic report around the world each and every month, is out on today and the bank says the most important part of the July release will be average hourly earnings.
+
+9. . PSG wants to activate the Brazilian's €222 million (£198.5 million) buyout clause, but Spanish football officials blocked the transfer - and now the French are threatening legal action.
+
+10. . Rogue trader Alex Stenfors lost $US456 million at Merrill Lynch at the height of the financial crisis.
+
+And finally...
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>EU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Torch Tower</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Etihad</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turkey</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US456</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WSJ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Honda Vezel</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Obama</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PSG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Honda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex Stenfors</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>RBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lion City Rental</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hello</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spanish</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Abu Dhabi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Merrill Lynch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian's 222</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vezel SUV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Uber</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

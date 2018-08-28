@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417480983930584</docid>
+  <date>03/08/2017</date>
+  <time>02:22</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/aid-agencies-urged-to-prevent-child-labour/news-story/7488395626113ec7227136d22d568e0a</url>
+  <title>Aid agencies urged to prevent child labour</title>
+  <content>
+Syrian refugee children in Lebanon are doing back breaking labour in potato fields and working with pesticides in baking hot greenhouses, a UN agency said as it called for greater efforts to prevent child labour during crises.
+Conflicts and disasters can push children into work that is unsuitable for their age, harms their physical and mental development and deprives them of schooling, the Food and Agriculture Organisation (FAO) said.
+About 100 million children and young people are affected by disasters every year and 230 million live in areas affected by conflict, the agency said as it launched a guide to help aid agencies and policy makers prevent child labour during crises.
+"We are trying to help aid agencies working on food security and nutrition to be more child labour sensitive and to have the risks at least on their radar," FAO child labour expert Ariane Genthon told the Thomson Reuters Foundation.
+There are an estimated 168 million child labourers worldwide, 98 million of whom work in agriculture.
+Evidence shows children and adolescents working in agriculture suffer higher rates of injury and death than adults, the FAO said.
+They may be exposed to pesticides or work with dangerous machinery and heavy loads.
+During crises families find it harder to provide food, education and protection for their children, increasing the risks of child labour, including debt bondage.
+Genthon said conflicts in the Middle East had led to an increase in child labour.
+Syrian children as young as nine or 10 are labouring in potato fields in Lebanon lifting loads dangerous for their small frames, she added.
+Children also work in greenhouses spraying pesticides, or as garlic peelers - a task which causes painful damage to their fingers.
+The FAO guidance also includes advice on ensuring that aid programs do not inadvertently exacerbate child labour.
+For example, it said a cash-for-work initiative which generates high demand for adult labour could leave children shouldering more farmwork.
+But Genthon said not all child participation in agriculture constituted child labour. In many communities, children look after animals and pick fruit and vegetables.
+Light, safe agricultural work over short periods can provide children with valuable skills for their futures, she said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syrian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Middle East</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ariane Genthon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lebanon</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters Foundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Agriculture Organisation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FAO</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Genthon</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

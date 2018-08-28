@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444234335582169</docid>
+  <date>07/08/2017</date>
+  <time>10:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/malwaretech-researcher-marcus-hutchins-has-been-granted-a-30000-bail-2017-8</url>
+  <title>Supporters have raised more than $12,000 for arrested security researcher Marcus Hutchins after he couldn't make bail</title>
+  <content>
+Hackers, security researchers, and supporters have raised thousands of dollars for British security researcher Marcus Hutchins after he was arrested in Las Vegas last week, and was unable to pay his $US30,000 (£23,000) bail.
+
+Hutchins was regarded as a hero , but was arrested late Thursday in Las Vegas on six charges of creating, advertising, and selling a different piece of malware.
+
+There's some confusion about whether Hutchins was in Las Vegas to attend the Def Con conference, a popular hacking conference which took place last week. , just hanging out in the vicinity. But was and had a badge to the event.
+
+US prosecutors accused Hutchins of creating the Kronos banking trojan, , then use these to commit fraud.
+
+He appeared before Las Vegas district judge Nancy Koppe on Friday, who set his bail. , he spent the weekend in jail after being unable to pay.
+
+Hutchins' arrest has sent shockwaves through the security community, which has mostly rallied to his defence online.
+
+Security researcher and hacker Tarah Wheeler and Fidus Security's Andrew Mabbitt have set up a funding page so people can donate money towards his defence. 
+
+According to Wheeler's public tweets over the weekend, donors had contributed $US12,000 (£9, 200) by Saturday, with "several thousand more" coming in on Sunday.
+
+Mabbit said on Twitter that he  He hired defence lawyer Adrian Lobo to argue for Hutchins' bail. She denied in court on Friday that he was the author of Kronos and said he plans to plead not guilty to all six charges.
+
+: "He fights the charges and we intend to fight the case.
+
+"He has dedicated his life to researching malware, not trying to harm people. Use the internet for good is what he has done."
+
+But prosecutor Dan Cowhig said Hutchins' had admitted to creating the software in a police interview.
+
+"He admitted he was the author of the code of Kronos malware and indicated he sold it," Cowhig said, according to The Telegraph.
+
+Hutchins' bail conditions include no access to the internet, surrendering his passport, and being monitored by GPS.
+
+He will also have to stay in Clark County, Nevada, and within the Eastern District of Wisconsin. He is expected to appear in court there in on Tuesday, and will likely enter his plea formally at the end of the hearing.
+
+Hutchins' coworker Mabbit  today from jail ahead of his court appearance.
+
+Quick update on today's  fundraiser: I can't see the totals, but at last check w Tor's account mgr this afternoon, >$US12000.
+- Tarah M. Wheeler (@tarah)
+
+Just need to hand the funds over. Unfortunately their desk closed at 4pm on Friday so it wasn't possible in the short 30 minute window.
+- Andrew Mabbitt (@MabbsSec)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mabbit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Mabbitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastern District of Wisconsin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cowhig</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Lobo</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tarah Wheeler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TOR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fidus Security's Andrew Mabbitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MabbsSec</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US12,000 (£9</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nevada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US12000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telegraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US30,000 (£23,000</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Clark County</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tarah M. Wheeler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>8</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Nancy Koppe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dan Cowhig</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wheeler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

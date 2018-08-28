@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440669512676138</docid>
+  <date>06/08/2017</date>
+  <time>20:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/paul-tully-leads-poll-mayor-others-are-closing/3209425/</url>
+  <title>Paul Tully leads poll for mayor, but others are closing in</title>
+  <content>
+ACTING Ipswich mayor Paul Tully is in the box seat to don the mayoral robes vacated by Paul Pisasale.
+
+Sitting councillor Andrew Antoniolli is also a close bet in the race for the top job, according to a ReachTEL poll.
+
+Both councillors are members of the Labor Party and regularly flanked former-ALP member Pisasale in public appearances during his reign as mayor.
+
+The survey of 933 Ipswich voters was conducted by automated telephone calls on the night of August 3 on behalf of lobby group the Queensland Community Alliance.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Labour Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Tully</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paul Pisasale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pisasale</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Community Alliance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Antoniolli</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ReachTEL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alps</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

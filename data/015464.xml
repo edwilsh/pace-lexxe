@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424649284479440</docid>
+  <date>04/08/2017</date>
+  <time>06:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/bruce-hwy-delays-multi-vehicle-crash-causes-highwa/3208919/</url>
+  <title>Bruce Hwy delays: Multi-vehicle crash causes highway havoc</title>
+  <content>
+MOTORISTS are reporting traffic is at a standstill on the Bruce Hwy after a multi-vehicle crash this afternoon.
+
+Northbound traffic has reportedly banked up significantly following a multi-vehicle crash at Tanawha, just before Exit 194.
+
+The Department of Transport and Main Roads has advised delays are expected and has asked motorists to proceed with caution in the area.
+
+The crash occurred just before 3pm and police traffic units are on scene.
+
+Motorists have alerted others via social media that traffic was at a standstill, with exits from Caloundra and Landsborough also starting to become extremely congested.
+
+A Police Media spokesman said the two vehicles involved in the crash were "not driveable" and would require towing or removal from the road.
+
+No injuries were reported.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Caloundra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Main Roads</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Exit 194</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Transport</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Police Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Landsborough</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tanawha</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Multi-vehicle</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hwy</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

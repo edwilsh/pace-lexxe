@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442421859354740</docid>
+  <date>07/08/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/missing-victorian-womans-backpack-abandoned-on-gold-coast-beach-20170807-gxqqrm.html</url>
+  <title>Missing Victorian woman's backpack abandoned on Gold Coast beach</title>
+  <content>
+Photo: Queensland Police Service
+Police are urgently searching for a missing Victorian woman, after her backpack was found abandoned on a Gold Coast beach on Monday morning.
+A member of the public found the backpack at Kurrawa Beach about 6.15am, with the woman's clothes and other belongings inside.
+The water and beach were searched but found no trace of 40-year-old Gail Elizabeth Oliver, but members of the public did see a woman matching her description walking from the area overnight.
+Police were appealing for Ms Oliver or anyone who may know of her whereabouts, to make contact with police immediately, as concerns were held for her welfare.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gail Elizabeth Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kurrawa Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

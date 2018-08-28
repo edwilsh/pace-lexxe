@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405970471358109</docid>
+  <date>01/08/2017</date>
+  <time>05:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/the-ato-is-undergoing-an-it-revolution/</url>
+  <title>The ATO Is Undergoing An IT Revolution</title>
+  <content>
+The say nothing is more certain that death and taxes. And, if you're the ATO, public outages that garner lots of attention can be added to that list. At the  conference taking place over the next couple of days in Canberra, the ATO's Chief Digital Officer, John Dardo, told the audience that a number of changes are coming.
+
+Anyone who has had to suffer through the process of connecting to the ATO's online portal will know the pain of creating and managing an AUSKey. Setting up this authentication tool was a pain, moving it when you got a new computer was a pain, and it was useless if you didn't use a traditional computing platform. Thankfully, it has been usurped by the newer .
+
+Dardo said some "remedial work" is being done on AUSKey but that it is not part of the ATO's long-term planning.
+
+I've been able to link my MyGov log-in to the ATO and use that for entering my monthly BAS and conducting other ATO-related matters.
+
+With more people wanting to access ATO services online, the department is seeing massive growth in the use of myTax and the  superannuation platform, as well increased use of mobile apps.
+
+What government services and interactions do you think most need attention?
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BAS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>myTax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO Is Undergoing An IT Revolution</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Dardo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dardo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO's Chief Digital Officer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>myGov</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO-related</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSkey</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

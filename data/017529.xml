@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428763863223060</docid>
+  <date>04/08/2017</date>
+  <time>22:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/man-injured-after-jumping-on-moving-taxi-at-cannonvale/news-story/3e115d9ec3a21df57498fe875df11e73</url>
+  <title>Man jumped on moving cab</title>
+  <content>
+A MAN was rushed to hospital in a critical condition overnight after he allegedly jumped onto a moving taxi at Cannonvale, near Airlie Beach.
+Initial investigations suggest the 36-year-old man ran in front of the taxi at Waterson Way about 9pm, before he jumped onto the bonnet and the roof.
+He seriously injured his head as he fell from the moving vehicle.
+Police administered immediate first aid when they responded to the incident before the man was taken to Proserpine Hospital.
+He was later flown to Townsville hospital where he remains in a critical but stable condition.
+The Forensic Crash Unit will investigate the incident.
+In a separate incident at Bundaberg, a 25-year-old man was taken to hospital with non-life threatening injuries after a two-car crash on Childers Rd.
+The driver of the other vehicle, a 43-year-old man, was also taken to hospital.
+The road was closed for some time, but has since reopened.
+Police are investigating the incident.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Airlie Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waterson Way</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Forensic Crash Unit</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bundaberg</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cannonvale</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Proserpine Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Childers Rd</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

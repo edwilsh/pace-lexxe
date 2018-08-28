@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415015672658368</docid>
+  <date>02/08/2017</date>
+  <time>16:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/markets/apple-reaches-record-dow-tops-22000-before-profit-taking-pares-gains-20170802-gxo6ca.html</url>
+  <title>Apple reaches record, Dow tops 22,000 before profit taking pares gains</title>
+  <content>
+Apple's surprisingly strong quarterly results and forecast pushed the iPhone maker's shares to a record high, helping  for the first time ever.
+Stocks however retreated sharply as the morning progressed, across sectors, as investors locked in gains.Photo: Richard Drew
+Apple jumped as much as 6.5 per cent to a record high, after the world's largest publicly listed company reported strong results and iPhone sales, and signalled its upcoming 10th-anniversary phone is on schedule. The stock is up about 30 per cent this year.
+The S&P 500 information technology index is up about 22 per cent year to date, leading other sectors, as investors look for growth in an otherwise low-growth environment.
+Microsoft and Facebook were among the top drags on both the S&P and the Nasdaq.
+"Typically at those big round numbers the market seems to hesitate ... I'm looking at this as a situation where the underlying evidence as to why the stock market has responded well is the fertile climate for corporate profits which is likely to remain," said Mark Luschini, chief investment strategist at Janney Montgomery Scott.
+
+The Dow has risen 11 per cent in 2017, even as Wall Street is losing confidence that President Donald Trump and a Republican-controlled Congress would be able to cut taxes and increase infrastructure spending this year.
+The Dow hit the 20,000 mark in late January and crossed the 21,000 mark in just over a month on March 1.
+Two-thirds of S&P 500 companies have reported their second-quarter earnings so far and 72 per cent of them have beaten Wall Street's expectations, according to Thomson Reuters I/B/E/S. In a typical quarter, 64 per cent of the companies beat expectations.
+"The Appleverse is expanding with all segments growing," UBS analyst Steven Milunovich said.
+At least eight brokerages raised their price targets on the stock. The median price target on the stock is $US165.
+"There is no reason for opportunistic investors to trek to the sidelines given the June-quarter print and Sept-quarter guide," Barclays analyst Mark Moskowitz wrote in a client note.
+Apple on Tuesday reported better-than-expected third-quarter results and indicated that its upcoming 10th-anniversary iPhone lineup was on schedule.
+Data showed US private employers added 178,000 jobs in July, after adding 191,000 jobs in June. Economists polled by Reuters expected an addition of 185,000 jobs. The data comes ahead of the more comprehensive non-farm payrolls data on Friday.
+Garmin rose 3.80 percent and Humana 4.4 per cent after posting strong corporate reports.
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$165</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S. In</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Appleverse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Luschini</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Drew</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janney Montgomery Scott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Humana 4.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barclays</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June Quarter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steven Milunovich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Republican-controlled Congress</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mark Moskowitz</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Garmin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sept-quarter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>4</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

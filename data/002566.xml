@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400945359531473</docid>
+  <date>31/07/2017</date>
+  <time>10:12</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/07/31/bomb-explodes-near-iraqi-embassy-kabul</url>
+  <title>Bomb explodes near Iraqi embassy in Kabul</title>
+  <content>
+A series of explosions and the sound of gunfire have shaken the Afghan capital.
+
+2 HOURS AGO  UPDATED 1 HOUR AGO
+
+A security source told AFP a suicide bomber had blown himself up in front of the Iraqi embassy.
+
+"Civilians are being evacuated" from the area as the attack is ongoing, said the official, who declined to be named. There was no immediate information about any casualties.
+
+At least four explosions, along with the sounds of gunfire and grenades, were heard by AFP reporters and residents near the city's diplomatic quarter shortly after 11:00 am local time.
+
+Security forces rapidly descended on the area, as the squeal of ambulance sirens rushing to the scene could also be heard.
+
+A column of smoke rose into the air from the blast site.
+
+Police confirmed at least one blast had taken place, but said they did not immediately have further information.
+
+The Iraqi embassy is located in northwestern Kabul, in a neighbourhood that is home to several hotels and banks as well as large supermarkets and several police compounds.
+
+The attack is the latest to rock Kabul, and comes as the resurgent Taliban ramp up their offensive across the country during the warmer weather fighting season.
+
+A week ago, a car bomb struck the city during morning rush hour, killing at least 26 people.
+
+A recent UN report showed that nearly 20 percent of all civilian deaths in Afghanistan in the first half of 2017 took place in Kabul.
+
+Many of those deaths happened in a single attack in late May when a truck bomb exploded during the morning rush hour, killing more than 150 people and injuring hundreds.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghan</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Iraqis</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 1 HOUR AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

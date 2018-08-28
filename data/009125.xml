@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413044282626345</docid>
+  <date>02/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/industrial-property-shines-in-the-2nd-quarter-20170802-gxo0lv</url>
+  <title>Industrial property shines in the 2nd quarter </title>
+  <content>
+The Australian industrial and logistics market has seen some of the lowest yields on record and it is not just prices pushing down the yields but improving vacancy rates, according to two reports from CBRE and Knight Frank.
+According to CBRE's latest MarketView report, Melbourne's yields compressed by a further 20 basis points in the second quarter to an average of 5.75 per cent, representing record lows for the Australian market.
+In Sydney, industrial and logistics yields also continued to compress to an average of 5.9 per cent for super prime assets - the lowest market industrial and logistics yield on record in NSW.
+CBRE senior research manager Kate Bailey said the sale of high quality industrial and logistics assets in the second quarter of this year helped drive down yields.
+Significant portfolio sales
+
+"The June quarter for NSW saw stronger institutional level industrial and logistics transactions, with two significant portfolio sales including the Simonson Industrial sale of six outer west assets for $71 million," Ms Bailey said.
+East coast industrial vacancies have also continued to fall over the past quarter with falls of 20 per cent in Sydney, 8 per cent in Melbourne and  6 per cent in Brisbane, consolidating the gains made earlier in the year, according to the latest Industrial Vacancy Analysis research report by Knight Frank.
+The total industrial vacancy on the east coast  sits at 1.75 million square metres, reflecting a 10 per cent drop over the past quarter and a substantial 23 per cent drop during 2017.
+Knight Frank head of industrial Tim Armstrong said this was demonstrative of an active occupier market with  3PL providers and retailers  seeking new and more efficient space across Australia.
+
+"The annual take-up for vacant industrial space was above  2 million square metres for 2016-17 - a record high - and 25 per cent above the levels recorded in the previous year. This even excludes pre-commitment activity, which has also remained strong and underlines the improvement in demand we have seen for industrial space across the east coast."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PL</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simonson Industrial</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kate Bailey</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tim Armstrong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MarketView</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Knight Frank</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBRE</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Bailey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Industrial Vacancy Analysis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

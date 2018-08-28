@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424769543565604</docid>
+  <date>04/08/2017</date>
+  <time>06:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4834917/pursuit-accused-refused-bail-court/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Pursuit accused refused bail: court</title>
+  <content>
+Newcastle courthouse.
+
+A MAN, 19, accused of leading police on pursuits at Medowie and Mayfield, hitting a police officer with his car and assaulting a truck driver has been refused bail in Newcastle Local Court.
+Police say Tyson James Booby had eight warrants out for his arrest when he was allegedly spotted driving a Holden sedan in Medowie about 9.15am on Thursday. 
+As police got out of their car, the Holden allegedly reversed into an officer, causing minor injuries, before accelerating away. 
+The pursuit was terminated at Williamtown, but re-engaged for a short time at Mayfield before the Holden stopped due to "mechanical issues", police said. 
+
+The driver allegedly ran from the scene, entered the cab of a truck and assaulted the driver before police arrested him. Mr Booby has been charged with 18 offences and did not apply for bail on Friday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newcastle Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medowie</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Williamtown</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tyson James Booby</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayfield</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MAN, 19</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Booby</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

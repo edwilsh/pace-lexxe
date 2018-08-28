@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410170949457472</docid>
+  <date>01/08/2017</date>
+  <time>22:00</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/hunt-for-gunman-who-shot-vic-woman/news-story/3eaf70ef6f39536a0024c53707a5490c</url>
+  <title>Hunt for gunman who shot Vic woman</title>
+  <content>
+Police are launching a fresh appeal for witnesses in the hunt for a gunman who shot a woman in the chest in Melbourne's north earlier this year.
+The 52-year-old woman suffered life threatening injuries when she was shot by an unknown person through the door in Glenroy near midnight on March 2.
+Police on Wednesday called for anyone who saw a dark grey 4WD or motorcycle in the area around the time of the shooting to come forward.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>March 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Glenroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

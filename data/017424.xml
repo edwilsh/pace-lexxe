@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428506165181304</docid>
+  <date>04/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/new-apple-watch-will-have-lte-internet-connection-built-in-report-2017-8</url>
+  <title>Apple will reportedly release an Apple Watch with its own internet connection by the end of the year</title>
+  <content>
+Apple is developing an Apple Watch model with a built-in cellular data connection that could be released by the end of the year, according to .
+
+If true, the cellular Apple Watch wouldn't be as reliant on a connection with an iPhone, which has been one of the Apple Watch's main limiting factors. As it stands today, Apple's smartwatch is mostly reliant on a connection with an iPhone to do anything that needs a cellular connection, like using the Maps app for directions, streaming music, making calls, or sending texts.
+
+According to Gurman, AT&T, T-Mobile, and Verizon are planning to sell the cellular Apple Watch, which will have a built-in LTE modem from Intel.
+
+It's not clear yet how a cellular plan would work with a cellular Apple Watch. It's possible that a cellular Apple Watch could be tacked on to your carrier data plan, just like an LTE model of the iPad. Depending on the carrier, adding on an extra LTE device, like an LTE iPad, costs about $US10 per month on top of your regular plan.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>LTE</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Verizon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>T-Mobile</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Watch</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gurman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE iPad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

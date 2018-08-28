@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410471597173792</docid>
+  <date>01/08/2017</date>
+  <time>23:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/gloom-booms-as-pride-hits-the-rocks/news-story/19bff31ee950f45dd173b7472e948a7c</url>
+  <title>Gloom booms as business confidence plummets</title>
+  <content>
+THE State Budget has triggered an "alarming" increase in pessimism, as BankSA's State Monitor shows business confidence has plunged to its lowest level in four years.
+For the first time in 20 years, both consumer and business sentiment are negative at the same time and state pride had dropped to its lowest level since the survey began 20 years ago.
+BankSA chief executive Nick Reade said he believed a "cocktail of concerns" had contributed to the results, but chief among them were electricity security and pricing and the controversial, proposed State Government bank tax.
+A majority of the 300 businesses surveyed indicated that the State Budget had made them pessimistic about the short-term future.
+Business confidence fell 8.3 points from February to sit at 95.7, on a scale where 100 indicates a neutral sentiment.
+This was the lowest since May 2013, while optimism about the short-term future was at the lowest since 1998. Mr Reade said few positive factors emerged from the survey.
+"What's sort of surprising is that for the first time in 20 years, we have both businesses and consumers below that 100 level so there are more pessimists than optimists on both,'' he said. "We've sometimes had one or the other but we haven't had both.''
+Quizzed about state pride, 51 per cent of consumers were "proud", 24 per cent were "not proud" and 24 per cent were "neutral". BankSA had expected an improvement on the last Monitor results released in February after the statewide blackout.
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Reade</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nick Reade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2013</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>BankSA's State Monitor</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>State Budget</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>BankSA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422875462958877</docid>
+  <date>03/08/2017</date>
+  <time>23:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/infrastructure/dont-just-fear-the-power-grid-hack-fear-how-little-engineers-knows-about-it-20170731-gxm94o</url>
+  <title>Don't just fear the power grid hack. Fear how little engineers knows about it</title>
+  <content>
+by
+Tim Johnson
+
+The robust and aggressive takedown of part of Ukraine's power grid earlier this year by hackers served as a wakeup call for cyber experts and exposed just how much America does not know about foreign operatives' ability to strike critical infrastructure.
+Electrical grids were on the minds of those gathered convention - appropriately enough in Las Vegas - that took place last week. The confab draws 16,000 hackers and information technology experts from around the globe.
+Hackers routinely come to the Black Hat convention to demonstrate how to break into electronic systems embedded in medical devices, ATMs, cars, routers and mobile phones. This year, at the 20th annual gathering, one security researcher walked attendees through a hack of a wind farm.
+"Wind farm control networks ," said the researcher, Jason Staggs, who is affiliated with the University of Tulsa.
+
+RICHARD BRIAN
+
+Hackers would only have to get access to a single turbine to implant malware that would spread across the wind farm, Staggs said, noting that he had hacked into turbines at multiple wind farms with the permission of operators.
+
+"We can turn the turbine on or turn the turbine off or put it in an idle state," he said, demonstrating the method for taking digital control of a turbine.
+Wind farms provided 4.7 percent of the nation's electricity in 2015, Staggs said, a percentage that is likely to climb to 20 percent by 2030.
+When a 250-megawatt wind farm is left idle due to a malicious hack, the downtime can cost an electric utility between $10,000 and $35,000 an hour, Staggs said.
+While wind farms may face vulnerabilities, some experts said the nation's complex electrical grids are more robust and capable of withstanding a cyberattack.
+
+MICHAEL DARDEN
+
+"The reporting around hacking the grid is often overhyped," said Tom Parker, a co-founder of FusionX, a firm specializing in cyber threat profiling that was bought in 2015 by Accenture Security, where he is group technology officer.
+"Whenever anyone ever says someone could hack the grid, there's no such thing as a single grid. There are multiple grids in the United States," Parker said. "It's a very complex system. There's a lot of robustness built into it."
+In the US any cyberattack on power plants and electrical grids would only come if a foreign power launched a simultaneous military attack on the United States, Parker said.
+Other hackers suggested a lesser attack might occur, affecting only a section of the nation.
+
+"If somebody really wanted to send a message, it hurts to have three or four days of no power to the Eastern Seaboard. That could be done. And there's also no quick fix," Sam Curry, chief product officer at Cybereason, a Boston firm, said on the sidelines of the conference.
+Late last month, the FBI and the Department of Homeland Security issued an alert saying that foreign hackers were targeting the nuclear, power and critical infrastructure sectors.
+Authorities did not say who the hackers were but added that they were not successful at breaching any of their targets, including an unidentified nuclear plant.
+"We see this probing going on all the time," said Joe Slowik, a senior threat intelligence researcher at Dragos Inc., an industrial cybersecurity company based in Fulton, Md.
+
+A former member of an elite counterterrorism cyber unit at the National Security Agency, Jay Kaplan, said he believes some US rivals have already planted malicious code in US infrastructure, perhaps including nuclear facilities.
+"I do believe that there is a certain percentage of our critical infrastructure that's already compromised," said Kaplan, who is chief executive of Synack, a Menlo Park, Calif., firm that deploys security teams to hack into the networks of clients to test for vulnerabilities.
+"This is prepositioning. Should we ever go to war with another nation state, they can leverage this malware for their benefit and basically cripple the economy," Kaplan said.
+The cyberattacks on Ukraine's power system in 2015 and 2016 have sharpened worldwide focus on hacking aimed at crippling infrastructure.
+
+In a December 2015 attack, hackers cut power to about 225,000 customers serviced by three energy distribution companies. The attack in late 2016 struck a transmission station north of Kiev, blacking out a portion of the capital. Attackers used malware designed to delete data and physically damage industrial control systems, Cybereason said in a report this month.
+The team, allegedly Russian, behind the second attack was formidable.
+"It looked like there were around 20 people involved in the operation," said Robert M. Lee, chief executive of Dragos.
+He added that authorities routinely overestimate their cyber defensive abilities and do not know for certain if malicious worms already reside within the infrastructure.
+(C) McClatchy Washington Bureau. Distributed by Tribune Content Agency.
+(c)2017 McClatchy Washington Bureau
+Visit the McClatchy Washington Bureau at www.mcclatchydc.com
+Distributed by Tribune Content Agency, LLC.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tribune Content Agency</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FusionX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parker</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LLC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dragos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Curry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Seaboard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Jason Staggs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Parker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Homeland</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Robert M. Lee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Security Agency</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>McClatchy Washington Bureau</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fulton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Accenture Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Ukraine</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Tulsa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Boston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dragos Inc</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kaplan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Synack</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cybereason</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joe Slowik</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Menlo Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jay Kaplan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Staggs</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kiev</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Calif</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RICHARD BRIAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MICHAEL DARDEN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423309254662784</docid>
+  <date>04/08/2017</date>
+  <time>00:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/10/49/ex-priest-not-in-vic-court-due-to-health</url>
+  <title>Ex-priest not in Vic court due to health</title>
+  <content>
+A former Catholic priest accused of historical child sexual abuse in country Victoria has not appeared in court for health reasons.
+Paul David Ryan, 68, was summonsed to appear in Melbourne Magistrates' Court on Friday on seven charges including rape and indecent assault allegedly relating to victims aged 16 and 17 and dating back to his time at Warrnambool in the 1980s.
+The court was told Ryan, now living in Western Australia, has prostate cancer and his matter was adjourned to September 22.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ex-priest</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul David Ryan, 68</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Catholic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SEPTEMBER 22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Warrnambool</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

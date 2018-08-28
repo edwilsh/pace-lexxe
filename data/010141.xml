@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415750112079193</docid>
+  <date>02/08/2017</date>
+  <time>19:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Radio Australia</source>
+  <url>http://www.radioaustralia.net.au/international/2017-08-02/suicide-bomber-targets-natoled-convoy-in-afghanistan-two-us-soldiers-confirmed-dead/1690772</url>
+  <title>Suicide bomber targets NATO-led convoy in Afghanistan, two US soldiers confirmed dead</title>
+  <content>
+A suicide bomber has attacked a convoy of international troops near an airport in the southern Afghan city of Kandahar, with the NATO-led military coalition confirming there were casualties.
+"We are working to gather additional information as quickly as possible and will release more details as appropriate," the coalition said in a statement.
+A local security official told Reuters the attacker drove an explosives-laden vehicle into the convoy.
+No further details were immediately available.
+A Reuters witness at the scene said military helicopters landed at the site at least four times.
+The airport in Kandahar is home to a major military base for international troops helping Afghan security forces.
+The coalition maintains nearly 13,000 troops from 39 countries as part of a mission to train, advise and assist Afghan troops, who are struggling to contain a resurgent Taliban insurgency.
+US military commanders in Afghanistan have asked for several thousand additional troops, but the request is stalled in Washington, where President Donald Trump has expressed scepticism over extending the American commitment.
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NATO-led</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398699091601013</docid>
+  <date>31/07/2017</date>
+  <time>01:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/blue-ocean-equities-raising-for-livetiles-20170730-gxlym7</url>
+  <title>Blue Ocean Equities raising for LiveTiles</title>
+  <content>
+ASX-listed subscription software company LiveTilles is in front of institutional and sophisticated investors on Monday, seeking a $6 million equity injection. 
+The company's broker Blue Ocean Equities sent terms to potential investors on Monday morning. 
+LiveTiles is seeking to raise $6 million at 18¢ a share, which was a 14.3 per cent discount to the last close and a 21.4 per cent disocunt to the 30-day volume weighted average price. 
+The offer left room for another $2 million to be raised via oversubscriptions. 
+
+Funds raises were to invest in sales and marketing teams, according to the term sheet sent to potential investors. 
+
+Blue Ocean was seeking bids by midday on Tuesday. 
+LiveTiles had a $32 million market capitalisation prior to Monday's raising. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LiveTiles</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LiveTilles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blue Ocean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blue Ocean Equities</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

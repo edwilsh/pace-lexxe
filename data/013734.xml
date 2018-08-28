@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422149613471545</docid>
+  <date>03/08/2017</date>
+  <time>20:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/politics/world/robert-mueller-forms-grand-jury-to-russia-evidence-wall-street-journal-20170803-gxp1kz</url>
+  <title>Robert Mueller forms grand jury to Russia evidence: Wall Street Journal</title>
+  <content>
+Special counsel Robert Mueller has impanelled a grand jury in Washington to investigate allegations of Russia's interference in the 2016 elections, tWall Street Journal said overnight, citing two unnamed people familiar with the matter.
+The grand jury began its work in recent weeks and is a sign that Mueller's inquiry into Russia's efforts to influence the election and whether it colluded with President Donald Trump's campaign is ramping up, the Journal said.
+News of the grand jury could have implications for markets.
+"Given that Trump's approval rating is very low, and given that it might be all but impossible to find a jury that hasn't heard of the allegations, odds are this jury might be leaning against Trump," said Axel Merk, president and chief investment officer of Merk Investments in Palo Alto, California.
+
+"This is yet a negative for the administration, and with that, if recent months are any guide, it is a negative for the (US)  dollar," Merk said. "And so yes, sure enough, the euro rallied on this. This is good news for the euro, this should be good news for gold - and it is ultimately a negative also for risk assets only for the reason that the Trump agenda has ever more difficulty of being realised because it does weaken the presidency.
+
+"The hopes for real growth picking up are just diminishing the more headwinds the administration is getting," Merk said.
+The report comes a day ahead of the release of the government's July jobs data. 
+Capital Economics is forecasting that non-farm payrolls rose by 200,000 in July.
+"This should have been enough to push the unemployment rate back down to 4.3 per cent. Meanwhile, although we have pencilled in a stronger 0.3 per cent m/m gain in average hourly earnings, base effects probably dragged the annual growth rate back down to 2.4 per cent. However, if the unemployment rate continues to fall, wage growth should come under some renewed upward pressure before long."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Merk Investments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>tWall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Merk</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Axel Merk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Palo Alto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398230940159913</docid>
+  <date>30/07/2017</date>
+  <time>23:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/superannuation-and-smsfs/the-upside-of-running-two-selfmanaged-super-funds-20170727-gxk7mj</url>
+  <title>The upside of running 2 self-managed superannuation funds</title>
+  <content>
+by
+David Oon
+
+Having a second self-managed superannuation fund (SMSF) is likely to increase the fixed costs of fund maintenance. However, there are many possible advantages of maintaining two funds, most of which are rarely discussed. Many of the benefits defy simplistic cost-benefit analysis.
+Having a second fund can be used to pass SMSF assets to two different people or groups, such as a second spouse and children from a previous relationship, on a trustee's death. In broad terms, the aim of this is to avoid disputes between the parties. By passing control of SMSFs separately, this avoids the situation where SMSF money is meant to be left to one person but SMSF control is left to another person, which can lead to a temptation to ignore the wishes of the deceased.
+Apart from estate planning, there are other good reasons to run two SMSFs.
+Operating separate SMSFs can avoid the problem of disagreement (for example, between siblings) on the operation of the fund. Such disagreements usually result in either deadlock (inability to make decisions), or breaking the deadlock based on head count or by those who have the larger member balance (depending on the SMSF deed or the corporate trustee's constitution). In either case, one or both parties are bound to be unhappy with the result.
+
+To add insult to injury, super laws state that members cannot be removed without their consent. This is the case even if they are being uncooperative or unresponsive, and even if they have only a small balance.
+
+A similar problem can arise where one member wants to leave an SMSF quickly but is blocked by the other trustees and members. In this case, a member typically cannot force a trustee to sell assets or roll them out quickly. That is, they cannot leave when they want to. While the portability rules that allow a member to roll over their super to another fund are typical among mainstream super funds, they do not apply to SMSFs.
+Dividing members into different SMSFs can also mean fewer heads on the chopping block when it comes to Tax Office penalties. Regardless of whose "fault" something is, ATO administrative penalties apply to each individual trustee (one penalty each) or to the directors jointly and severally in the case of a corporate trustee. While the ATO has some scope to remit penalties, there can be no guarantee that this will occur.
+Isolating risk
+
+A further benefit of maintaining two SMSFs is that risky investments can be isolated. Otherwise, a liability arising from one asset can jeopardise other SMSF assets. For example, public liability for injury or loss on SMSF real estate can expose the other assets to claims.
+
+If two SMSFs are maintained, one SMSF could be wholly or mainly placed in "pension" and the other could house the assets still in savings or accumulation mode. The assets in the pension SMSF could be the high-growth assets, allowing the pension balance to grow faster than the accumulation balance. If the pension and accumulation assets were housed in a single SMSF, the investments earnings would be aggregated across the whole fund and then assigned proportionately to pension and accumulation balances.
+This strategy is of particular benefit now, given the transfer balance cap of $1.6 million, which refers to the amount of super assets a member can transfer to a tax-free pension.
+There is no restriction on earnings or capital growth on the assets supporting pensions.
+Expert advice should be obtained in this area before establishing a second SMSF. The ATO has stated that it would examine this closely if it appears it was done for the purpose of manipulating tax outcomes.
+
+As a word of caution, it should be noted that CGT is typically payable when transferring assets from one fund to another, and super law prohibits the acquisition of assets from related parties, subject to certain exceptions. Stamp duty may apply if property is being transferred from one fund to another.
+David Oon is a senior associate at DBA Lawyers.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SMSF</name>
+    <count>19</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>Tax Office</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>David Oon</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>DBA Lawyers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CGT</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

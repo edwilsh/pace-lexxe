@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404153700163549</docid>
+  <date>31/07/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/los-angeles-poised-to-host-of-2028-summer-olympics-paris-seen-winning-2024-20170731-gxmngo</url>
+  <title>Los Angeles gets 2028 Summer Olympics, Paris 2024</title>
+  <content>
+Los Angeles has agreed to host the 2028 Summer Olympics, the city and the International Olympic Committee confirmed, in a deal that paves the way for Paris to host the 2024 Summer Games.
+"The IOC welcomes this decision of the Los Angeles Olympic and Paralympic Candidature Committee, and we are pleased to release the Host City contract 2028 in a transparent and timely manner," said IOC President Thomas Bach in a statement.
+The IOC said it would make contributions to the organising committee worth $US1.8 billion.
+In an unprecedented move to award two Games at the same time after several other cities withdrew from contention, the IOC's decision turned the spotlight on security challenges for Paris while giving Los Angeles ample time to upgrade its public transportation system.
+
+The deal was first reported on Monday by the Los Angeles Times, which cited an unnamed source.
+
+"It is a win-win for the two cities," Canadian senior IOC member Dick Pound told Reuters by phone.
+"It's good for the IOC because we've got two great cities lined up for the next two big shows."
+The next Olympic Summer Games, in 2020, is already scheduled to be held in Tokyo.
+Los Angeles previously hosted the Summer Games in 1932 and 1984.
+</content>
+  <sindexList>
+  <sindex>
+    <name>US1.8</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Summer Games</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paralympic Candidature Committee</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>International Olympic Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IOC</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Host City</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Summer Olympics</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paris 2024</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympic Summer Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dick Pound</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IOC President Thomas Bach</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles' Olympic</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

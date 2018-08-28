@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419448078985471</docid>
+  <date>03/08/2017</date>
+  <time>10:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/brisbane-bus-drivers-to-refuse-fares-over-workplace-agreement-deadlock/news-story/fa024e54172d0ab117cd978a12d772dc</url>
+  <title>More free travel as dispute rolls on</title>
+  <content>
+BRISBANE bus drivers will once again refuse to collect fares for an entire day as negotiations between union officials and the council over a new workplace agreement remain stalled.
+Commuters will be able to travel for free on Friday, August 4, after the Rail Tram and Bus Union announced a "free fare day" on all Brisbane buses.
+Union secretary Tom Brown said their fight would continue until members are "given a fair go" which can't happen until the Brisbane City Council Lord Mayor "starts listening to his workers".
+"Only then can we sit down and negotiate an agreement that's fair to both parties and finally end this dispute," he said.
+A spokesperson for TransLink confirmed industrial action would occur on "some" BCC bus services on Friday.
+
+NSW's first trial of a driverless shuttle bus will begin later this month. An automated 'Smart Shuttle' will operate at Sydney Olympic Park
+
+NSW's first trial of a driverless shuttle bus will begin soon
+"All services will run as normal, however some drivers may not be collecting fares or wearing their normal uniforms.
+"Only BCC bus services will be involved - this includes most routes between 29 and 599."
+School services will not be affected.
+TransLink has provided a full list of services involved here:
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Smart Shuttle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rail Tram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransLink</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bus Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane City Council Lord Mayor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tom Brown</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416390062218654</docid>
+  <date>02/08/2017</date>
+  <time>22:08</time>
+  <isTopNews>true</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/07/58/burst-water-main-adelaide-ses-emergencies</url>
+  <title>Burst water main in Adelaide street sends debris flying into air</title>
+  <content>
+A burst water main has caused chaos in Adelaide this morning, sending water and pieces of rubble 10 metres into the air and onto the roof of a house.
+Crews were called to contain the "gusher" on Pamela Road in Torrens Park around 1:30am and managed to stop water from flooding nearby homes.
+Pamela Road remains closed this morning.
+The owner of the house that was struck by water and rubble told 9NEWS he doesn't yet know how much damage has been done to his roof.
+SA Water crews have now switched the water supply back on for residents.
+They've also filled in the crater caused by burst main. It will be covered in bitumen before the road will be reopened to traffic.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Torrens Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pamela Road</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Water</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

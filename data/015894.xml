@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424816788206712</docid>
+  <date>04/08/2017</date>
+  <time>06:50</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/finance-news/2017/08/04/cba-shares-fall/</url>
+  <title>CBA shares plunge on money laundering scandal</title>
+  <content>
+Commonwealth Bank shares have taken a 3.8 per cent dive after a government regulator accused the bank of breaching money laundering laws more than 53,000 times.
+CBA shares fell from $83.92 at close on Thursday to $82.51 when the market opened on Friday morning, and dropped further to close at $80.73 on Friday afternoon.
+AUSTRAC, the financial regulator, launched a landmark legal case against CBA in the Federal Court on Thursday. It was the first time in Australian history that the regulator had pursued a bank for alleged money laundering breaches.
+Each of the 53,700 alleged breaches carries a maximum penalty of $18 million, meaning the bank could be liable for a maximum fine of almost $1 trillion.
+CBA  to the Australian stock exchange on Friday afternoon saying the bank would defend the claims.
+"The matter is subject to court proceedings. We are currently reviewing AUSTRAC's claim and will file a statement of defence," the bank said.
+"We will keep the market informed of any updates in compliance with our disclosure obligations."
+AUSTRAC alleges the bank failed to properly assess, monitor and report on money laundering risks, mainly related to the installation of thousands of ATM deposit machines in 2012, which courts found were used by at least four seperate crime gangs to launder dirty money.
+CBA's sharp fall and losses in the energy sector contributed to a weak session for the Australian share market, with the All Ordinaries index down 7.7 points, or 0.13 per cent, to 5,779.1 points at close on Friday.
+Catch up on the rest of the action with the IFM Investors market wrap:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>IFM Investors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>All Ordinaries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426788178233404</docid>
+  <date>04/08/2017</date>
+  <time>14:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/04/22/36/bear-kills-young-zookeeper-in-sweden</url>
+  <title>Bear kills young zookeeper in Sweden</title>
+  <content>
+A zookeeper died after he was savaged by a bear on Friday at Europe's biggest predator park, Swedish police said.
+The 19-year-old man was cleaning inside an enclosed area at Orsa Predator Park in the central county of Dalarna "when the bear most likely managed to dig through the fence and attacked" him, police said in a statement.
+The man later died from his injuries, they said.
+Swedish public broadcaster SVT said the animal, a young brown bear, was put down after the attack.
+The Orsa park says it includes large northern-hemisphere predators, including polar bears. Many of them are endangered species.
+In 2012, a 30-year-old zookeeper died after she was attacked in a wolf enclosure at Kolmarden Zoo in central Sweden, one of the largest in northern Europe.
+ik/ri
+
+Related Articles
+
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Orsa Predator Park</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sweden</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dalarna</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SVT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swedish</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kolmarden Zoo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ORSA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

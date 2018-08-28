@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418417286815348</docid>
+  <date>03/08/2017</date>
+  <time>06:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/15/45/cricket-pay-dispute-finally-over</url>
+  <title>Australian cricket's pay dispute finally over</title>
+  <content>
+Australian cricket's bitter pay war appears to finally be over.
+Cricket Australia chief executive James Sutherland and his Australian Cricketers' Association (ACA) counterpart Alistair Nicholson have called a press conference for 4.30pm in Melbourne.
+It is believed the pair has reached an agreement on a new memorandum of understanding (MOU).
+The ACA had vowed no player would make themselves available for selection until the new MOU was signed.
+The stand-off saw the Australia A tour of South Africa cancelled and threatened the upcoming tour to Bangladesh, with players due to fly to Dhaka on August 18.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dhaka</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MoU</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Bangladesh</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Cricketers' Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia A</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cricket Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Africa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alistair Nicholson</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AUGUST 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACA</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>James Sutherland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

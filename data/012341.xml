@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417463804061008</docid>
+  <date>03/08/2017</date>
+  <time>02:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/action-taken-over-wa-gas-site-bullying/news-story/6d06bce513d8f4ec135e443f73de4a1d</url>
+  <title>Action taken over WA gas site 'bullying'</title>
+  <content>
+The major contractor at Chevron's massive Wheatstone gas project in WA's north says it has taken action after more than 250 workers signed a petition alleging serious workplace bullying.
+The Australian Manufacturing Workers Union says a worksite manager for US engineering giant Bechtel used profanity and bullying tactics when speaking to employees last month, including referring to workers as "rats" and "no better than paedophiles".
+"Bechtel takes all matters of this nature very seriously. On this particular occasion, a thorough investigation was conducted and appropriate action has been taken," the company said in an emailed statement.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Manufacturing Workers' Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wheatstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chevron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bechtel</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

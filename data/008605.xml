@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412357087845793</docid>
+  <date>02/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/eurozone-gathers-strength-after-populist-electoral-threat-dims-20170802-gxnuvh</url>
+  <title>Eurozone gathers strength after populist electoral threat dims</title>
+  <content>
+The European economy has grown at its fastest rate since the eruption of the debt crisis six years ago, underscoring a brighter outlook after elections that eased fears of a populist political threat.
+Separate figures from a business survey showed the eurozone's manufacturing sector is in the grip of a jobs boom. Factories in France are hiring at their best pace since 2000 and in Spain at a rate not seen since before the start of monetary union in 1998, according to IHS Markit's purchasing managers' index.
+Quarterly eurozone gross domestic product growth accelerated from 0.5 per cent to 0.6 per cent in the three months to June. The performance helped to drive year-on-year eurozone expansion from 1.9 per cent to 2.1 per cent - the highest rate since the second quarter of 2011 and now higher than the 2 per cent UK equivalent.
+Despite suffering slowing growth, the UK is sharing in the fruits of the rapid eurozone recovery. Figures released this week showed the UK PMI manufacturing index picked up for the first time in three months in July, boosted by the second-strongest reading on exports on record.
+
+The eurozone's economic health has confounded critics this year after a series of electoral setbacks for Eurosceptic parties in the Netherlands, Austria and France boosted business and consumer confidence.The bloc's economy has expanded for 17 consecutive quarters since 2013 and unemployment has dropped to a nine-year low of 9.1 per cent in June.
+
+More than 1.5m people left unemployment in the past 12 months, according to Eurostat.
+James Nixon, chief eurozone economist at Oxford Economics, said: "These numbers are at the top of what is possible to be sustained. If you look at the number of jobs that are being created, this is a very impressive performance."
+Spain registered the best growth rate among the eurozone's largest economies, with 0.9 per cent in the three months to June. The eurozone's fourth-largest economy has finally exceeded its pre-crisis GDP level after a property crash and a banking meltdown in 2012.
+Growth in France edged up to 0.55 per cent from 0.5 per cent. Germany and Italy report second-quarter growth next week.
+
+"Growth has not been concentrated in the traditional hotspots and economies that have traditionally not done so well are also joining in the recovery." said Ken Wattret, managing director of global macroeconomics at TS Lombard.
+The 0.6 per cent reading is almost twice the bloc's average growth in the wake of the financial crisis. Even if growth were to slow to 0.4 per cent in the remaining two quarters of the year, it would drive annual expansion to 2 per cent for the first time since 2007.
+But while faster growth is spurring recovery in continental economies both in and out of the eurozone, the UK economy slowed to half the EU average in the second quarter as it suffered from a Brexit-related squeeze on household incomes, expanding by only 0.3 per cent.
+"There is increasing evidence of a divergence . . . between the UK and other countries," said Jagjit Chadha, director of the National Institute for Economic and Social Research (NIESR).
+
+He said growth in the UK remained "below par", while there were signs of a "robust recovery" elsewhere.
+On Wednesday, the NIESR revised up its forecast for global growth this year from 3.3 per cent to 3.6 per cent but left the forecast for the UK unchanged at 1.7 per cent.
+But the headline reading of the UK purchasing managers' index increased to 55.1 in July, up from 54.2 in June. Any reading above 50 indicates expansion, while any reading below indicates contraction.
+"As overall production showed a further increase compared to last month, it was the powerful rise in new export orders, the strongest since April 2010 which was the biggest surprise," said Duncan Brock, director of customer relationships at the Chartered Institute of Procurement and Supply, which produces the survey with IHS Markit.
+
+The PMI survey is the latest to show manufacturers saying they have seen a big increase in export orders thanks to the cheaper pound, which is not reflected in either the official data on output or exports. UK Manufacturing output contracted in the second quarter, according to the Office for National Statistics.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>National Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EU</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>National Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chartered Institute of Procurement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>TS Lombard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Nixon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NIESR</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Social Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spain</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Austria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Oxford Economics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brexit-related</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK Manufacturing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ken Wattret</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jagjit Chadha</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eurosceptic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Duncan Brock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>UK PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eurostat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2010</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  </sindexList>
+</snippet>

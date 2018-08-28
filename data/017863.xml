@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429412403292596</docid>
+  <date>05/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/fishing/canadians-do-the-right-thing/news-story/4c40ff24f4e269a50450c708cc28eb22</url>
+  <title>Canadians do the right thing</title>
+  <content>
+THE Canadian government said yesterday it would "bring all the resources necessary" to protect the endangered North Atlantic right whale, after 10 of the mammals died in the Gulf of St Lawrence in the past two months.
+The North Atlantic right whale, which is much larger than a humpback or a gray whale, is one of the most endangered whale species, with only about 500 of them left in the world.
+Most of the 10 carcasses found in the last two months showed signs of being tangled in fishing nets or cables.
+Canada "will bring all the resources necessary to bear to ensure that every possible measure is in place" for both the protection and recovery of the species, said Fisheries Minister Dominic LeBlanc.
+In July, authorities banned fishing in several parts of the Gulf of St Lawrence to protect the whales.
+"We estimate maybe 80 to 100 right whales currently in the Gulf of St Lawrence," LeBlanc told a press conference.
+"That's two or three times higher than any other previous year.
+"So the phenomenon of seeing perhaps 200 or more right whales in the Gulf of St Lawrence in an area of high marine and shipping traffic, but also an area of extensive commercial fishery, is new."
+The government is planning to increase the number of surveillance flights checking on the whales, and also to use acoustic equipment that would detect them miles before they reach the shore, allowing fishermen to be warned.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lawrence</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Gulf of St</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>LeBlanc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Atlantic</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fisheries Minister Dominic LeBlanc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

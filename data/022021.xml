@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442597953015965</docid>
+  <date>07/08/2017</date>
+  <time>03:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/australians-have-a-love-affair-with-diesel-engines/3208810/</url>
+  <title>Australians have a love affair with diesel engines</title>
+  <content>
+WOULD you consider switching from a petrol-powered car to purchasing diesel? Well, according to the latest ABS census report it's exactly what is occurring.
+The data, released last week, showed the portion of vehicles fuelled by diesel had grown by 57 per cent in the past five years. Meanwhile, registration of petrol- powered models had dropped from 88.1 per cent of the national fleet in 2012 to 75.7 per cent in 2017.
+The nation's apparent love of diesel cars wasn't surprising given the huge increase in the number of people buying SUVs, light commercial utes and four-wheel drives - a sector where diesel tends to dominate. The Ford Ranger and the Toyota HiLux are consistently among the top sellers in the country, after all.
+This change in consumer behaviour could be due to more savvy motorists looking for cost savings from fuels like diesel, or due to vehicle manufacturers reducing the number of petrol-powered models in its range.
+Our advice is to consider not just the fuel type but all running costs, including depreciation, servicing and purchase costs. Doing research could save you thousands of dollars each year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ford Ranger</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SUVs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Hilux</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

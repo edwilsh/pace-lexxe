@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441949412945904</docid>
+  <date>07/08/2017</date>
+  <time>01:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/11/08/man-arrested-over-melbourne-man-s-death</url>
+  <title>Man arrested over Melbourne man's death</title>
+  <content>
+A man has been arrested over a suspicious death in Melbourne.
+A 24-year-old man died after being found critically injured near Tottenham station in West Footscray train station on Saturday night.
+Detectives are waiting on the results of a post-mortem examination but confirmed on Monday they have arrested a 35-year-old man.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tottenham</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Footscray</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

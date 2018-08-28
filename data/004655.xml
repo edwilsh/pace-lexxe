@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405957586455933</docid>
+  <date>01/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/mirvacs-project-focus-is-swinging-to-residential-citi-says-20170801-gxmy55</url>
+  <title>Mirvac's project focus is swinging to residential, Citi says</title>
+  <content>
+The Citi team now expects the market to refocus on the residential outlook, which faces both "a mix shift headwind" and a "cyclical slowdown as lending conditions tighten".
+
+The shift in Mirvac's mix of residential product, from higher-priced apartments to lower-priced master planned communities, "is not being reflected in consensus forecasts", they wrote.
+" Additionally, lending conditions have gotten tougher which could result in a further slowdown in already slowing presales."
+Mirvac's office portfolio is high quality one, the Citi team wrote.
+However office conditions are strong in Sydney and Mirvac has the least exposure to that market among the office landlords and it has the least proportion of expiries coming up in Sydney
+
+"Investa Office Fund has more than 42 per cent of its portfolio in Sydney CBD, with more than 50 per cent Sydney leases expiring prior to financial year 2020."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Investa Office Fund</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mirvac</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

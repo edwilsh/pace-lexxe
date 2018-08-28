@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416359997447029</docid>
+  <date>02/08/2017</date>
+  <time>22:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/study-nearly-half-of-tech-unicorns-overstate-their-valuations-2017-8</url>
+  <title>Nearly half of tech 'unicorns' rely on tricky maths to land imaginary valuations</title>
+  <content>
+Tech "unicorns," once a rarity, have become commonplace.
+
+Some 200 now exist around the world - with more than half coming from the US - earning an aggregate valuation of $US600 billion, according to a recent study by two business professors from the University of British Columbia (UBC) Sauder School of Business and the Stanford Graduate School of Business (GSB).
+
+Why has it become so easy for startups to achieve a billion-dollar valuation? Many of them are using creative financing maneuvers to conjure imaginary valuation figures that don't hold up to scrutiny, according to the UBC/GSB study, which examined 116 unicorns.
+
+It turns out, when you adjust the valuations to account for guarantees provided to preferred shareholders that dilute the value of common shares, nearly half of unicorns lose their coveted $US1 billion status.
+
+Will Gornall, an assistant finance professor at UBC and lead author on the study,  in an interview on the school's website (emphasis added):
+
+"We found that the average highly-valued venture capital-backed company reported a valuation 49% above its fair value. But, when the valuation was recalculated using the financial model developed by [co-author Ilya Strebulaev] and I - which derives a fair valuation of each class of shares of VC-backed companies by taking into account the intricacies of contractual cash flow terms - almost half of these companies lost their unicorn status, with 11% being overvalued by more than 100 per cent."
+
+Here's how it works: In later funding rounds, startups will negotiate a higher share price, but as part of the bargain they guarantee their investors certain protections - such as earning a minimum return on their money or guaranteeing they will be paid out in full before all other shareholders.
+
+"Specifically, we found that 53 per cent of unicorns gave their most recent investors either a return guarantee in IPO (14%), the ability to block IPOs that did not return most of their investment (20%), seniority over all other investors (31%), or other important terms," Gornall said.
+
+Even though this sort of thing has become normal, valuations haven't caught up to the fact that providing additional protections to senior shareholders lessens the value of common shareholders. Treating the shares equally can significantly inflate the overall value of the company.
+
+A prime example Gornall cites in the paper is the IPO of Square, the payment tech company that took a beating when it  at a valuation of $US2.9 billion - far below the $US6 billion valuation it achieved in its Series E funding round a year earlier.
+
+But the Series E backers came out OK. As part of the terms of their investment, they were guaranteed $US18.56 per share in an IPO, so when the IPO share price came in at $US9 instead, they were compensated with extra shares until they were made whole. Common shareholders received no such extra compensation, making their shares less valuable.
+
+If Square's last private valuation had reflected the difference in value between the share classes, the company would have been worth $US2.2 billion rather than $US6 billion - an overvaluation of 171%, according to the study.
+
+So why bother orchestrating an inflated valuation? Beyond ego, a sky-high valuation can come in handy when a startup - especially one that's hit a plateau - is still trying to generate buzz, attract talent, and market its products.
+
+But for regular company employees, many of whom are frequently paid in part with stock, these financing maneuvers make their compensation packages a lot less valuable.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>University of British</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 600</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>VC-backed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPO</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US18.56</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPO of Square</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Columbia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Series E</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IPO (14</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ilya Strebulaev</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IPOs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UBC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBC/GSB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$ 6</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Gornall</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Stanford's Graduate School of Business</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GSB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sauder School of Business</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2.9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

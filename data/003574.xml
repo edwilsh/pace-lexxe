@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404544542194380</docid>
+  <date>01/08/2017</date>
+  <time>00:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/09/59/man-assaulted-in-adelaide-home-invasion</url>
+  <title>Man assaulted in Adelaide home invasion</title>
+  <content>
+A man has been bashed with a baseball bat and a crow bar by two men who forced their way into his Adelaide home.
+The men fled in a Hyundai sedan driven by a third man on Tuesday night after the attack on the victim in his Elizabeth Park home.
+Police say the injured man was treated at the Lyell McEwin Hospital for head lacerations and injuries to his arm.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lyell McEwin Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hyundai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

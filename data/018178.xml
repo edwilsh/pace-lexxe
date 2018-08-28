@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429841900026049</docid>
+  <date>05/08/2017</date>
+  <time>02:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/what-do-passengers-search-for-on-qantas-free-wi-fi/</url>
+  <title>What Sites Do Passengers Look At On Qantas' Free Wi-Fi?</title>
+  <content>
+For the past three months, Qantas' B737 (VH-XZB) aircraft has been  to approximately 3500 passengers per week. But what are all these passengers looking at? And how many of them are bothering to take advantage? Qantas' first data analytics report has some interesting answers.
+
+As you'd probably expect, the most popular uses for Qantas' in-flight Wi-Fi are services/apps and websites. Passengers spent the most time accessing email and browsing the web, with an emphasis on news sites. (Overworked business travellers, we're pointing the finger at you.)
+
+The next most popular category was social media which was dominated by Facebook. Streaming video and music services such as Netflix and Spotify were also popular, as were messaging services like WhatsApp.
+
+Interestingly, online shopping sites were another popular choice among travellers. We bet most of them were checking the online price of Qantas' duty-free items.
+
+Here are some of the other noteworthy findings from the report:
+
+An average of 32% of passengers are choosing to log-on at some stage in the flight. This is a lot higher than the 5% take up we saw when we trialled (older, slower, paid) Wi-Fi on the A380 in 2012. The industry standard is less than 10%, but we are expecting somewhere between 30-50% because we're offering the service on our domestic B737s and A330s for free.
+
+Fine tuning has seen reliability improve to above 98%, meaning we're seeing fewer dropouts as the aircraft flies at 850kmph across different satellite beams.
+
+Download speeds now are routinely above 12 megabits per second, which has edged higher as the trial continues.
+
+Overall customer satisfaction has been positive, with the latest survey figures showing 88% of customers gave their Wi-Fi experience the thumbs up. We hope to increase this as we keep making tweaks to the system.
+
+Since the maiden Wi-Fi trial, Qantas has installed ViaSat equipment in a second B737 (VH-XZC). Up to eight more are expected to be fitted between now and late September. Hopefully, before too long we'll all be enjoying free Wi-Fi on our flights.
+
+[Via ]
+
+Qantas has announced plans to introduce free wireless internet to domestic flights from late 2016. The airline is tapping into the NBN network and is promising to deliver speeds up to 10 times faster than conventional on-board Wi-Fi. There are also plans to bring the service to its international fleet. Binge-watching Netflix on a 12-hour flight could soon become a reality.
+
+WATCH MORE: Travel Ideas
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Qantas' B737</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Spotify</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Travel Ideas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ViaSat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>B737</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>VH-XZC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VH-XZB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sites Do Passengers Look At On Qantas' Free Wi-Fi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404720635856144</docid>
+  <date>01/08/2017</date>
+  <time>00:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/rudd-warns-against-new-home-affairs-office/news-story/261326adbbec90057e00dfaa9aca8e79</url>
+  <title>Rudd warns against new home affairs office</title>
+  <content>
+Kevin Rudd has warned the Turnbull government against forming a home affairs super-department because it could distract security agencies from protecting against terrorism.
+The former Labor prime minister says he was advised against establishing such a department, similar to what Immigration Minister Peter Dutton will soon lead, because it would divert the focus of security agencies.
+He says agencies have done a "first-class piece of work" in foiling an alleged Sydney-based plot to bomb a passenger plane and should not be distracted from that task.
+"The caution we heard then from officials (was) about not throwing our bureaucracy into a very long-term process of internal reorganisation when all the efforts in fact should be directed outwards," Mr Rudd told Sky News on Tuesday.
+"It's the current system, the old system which is still in place, which has delivered this first-class piece of work by our intelligence and security forces.
+"I'd be very cautious about throwing that up into the air with some macro reorganisation effort."
+Prime Minister Malcolm Turnbull announced in July the formation of a home affairs department that encompassed domestic spy agency ASIO, the Australian Federal Police, the Australian Border Force and financial transactions watchdog AUSTRAC, describing it as the biggest change in national security for four decades.
+His predecessor Tony Abbott attacked the overhaul as a "massive bureaucratic change", revealing he was advised against such a move when he was prime minister.
+Mr Turnbull has defended the plan, insisting Australia needs to be proactive against the threat of terrorism.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sydney-based</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Border Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Immigration Minister Peter Dutton</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tony Abbott</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sky News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rudd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

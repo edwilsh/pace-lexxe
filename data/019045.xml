@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434819767166565</docid>
+  <date>05/08/2017</date>
+  <time>21:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/06/07/22/usain-bolt-beaten-by-justin-gatlin-in-his-last-ever-solo-100m-race</url>
+  <title>Usain Bolt beaten in his last ever solo 100m race</title>
+  <content>
+Justin Gatlin has ruined Usain Bolt's farewell party by winning the world 100m title, sparking a chorus of boos from a crowd unhappy with his doping past.
+Jamaican sprinter Bolt, known as the "World's Fastest Man", made a terrible start and could not make it up as Christian Coleman, the 21-year-old American who beat him in the semi-finals, looked set for victory.
+But former world and Olympic champion Gatlin - the 35-year-old who stumbled at the death to lose the 2015 world final to Bolt - timed his surge and dip to perfection to win in 9.92 seconds.
+Coleman took silver in 9.94 with Bolt third in 9.95.
+Bolt, aged 30, will run again at the World Athletics Championships 2017 with the Jaimaican relay team. 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Justin Gatlin</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Usain Bolt</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Coleman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jaimaican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Athletics Championships 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gatlin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>World's Fastest Man</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Christian Coleman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jamaican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bolt</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

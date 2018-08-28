@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418713639563477</docid>
+  <date>03/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/holden-admits-to-likely-misleading-customers-about-repair-rights/8770898</url>
+  <title>Holden admits to likely misleading customers about repair rights, strikes deal with ACCC</title>
+  <content>
+Related Story:
+
+The competition watchdog has reached a landmark agreement with Holden, where the car manufacturer has agreed to repair rights beyond what is compelled by the Australian Consumer Law.
+Holden gave the Australian Competition and Consumer Commission (ACCC) the legally enforceable undertaking after accepting that it had probably breached the consumer law.
+As with many car companies, Holden was accused of misleading consumers about their legal rights to a repairs, a replacement or refund if there is a major fault with their products.
+ACCC chairman Rod Sims said Holden had wrongly told some customers that any remedy - such as a repair, replacement or refund - would be at its discretion and was a "goodwill gesture".
+Holden also admitted that it had incorrectly told some customers that a remedy would not be provided because the car had not been service by a Holden dealer or was second hand.
+However, the company has committed to make amends through its agreement with the ACCC.
+"Holden has offered an undertaking that goes beyond ensuring compliance with the current consumer guarantee obligations and commits to measures in line with recommended changes to the law," Mr Sims said.
+"These are great commitments that will have a significant and positive impact for consumers."
+Holden has agreed to define multiple minor faults as a major failure, which would entitle consumers to a refund or replacement, rather than just repairs.
+It has also agreed to offer consumers a refund or replacement vehicle, rather than just a repair, if their car suffers a fault that makes it undriveable within the first 60 days of purchase.
+The company has also agreed to an external review of consumer complaints received since the start of 2016.
+ACCC car 'crackdown'
+
+The agreement with Holden is part of an ACCC "crackdown" on car makers.
+for allegedly misleading customers about their right to have faulty gearboxes repaired.
+Mr Sims said the ACCC is still "investigating a number of companies".
+"We find that car manufacturers are some of the most complained about businesses in Australia," he told the ABC.
+"The telling statistic is that nearly 20 per cent of contacts received by the ACCC about consumer guarantee issues concern motor vehicles."
+The Australian Consumer Law, introduced at the start of 2011, gives customers rights over and above manufacturers' warranties for the repair or replacement of faulty goods.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Consumer Law</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Competition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>10</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Sim</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rod Sims</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Consumer Commission</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

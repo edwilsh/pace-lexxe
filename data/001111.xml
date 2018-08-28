@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399132883304345</docid>
+  <date>31/07/2017</date>
+  <time>03:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/07/31/news-corp-claims-the-abc-is-killing-commercial-media/</url>
+  <title>A Murdoch-led band of whingers claims the ABC is killing commercial media</title>
+  <content>
+News Corp Australia, led by Michael Miller, the executive chair at Holt Street HQ in Sydney, has inveigled the heads of Australia's other failing legacy media companies to have yet another joint whinge about the ABC and SBS over "their effect on commercial operations". In a page-1 story by media editor Darren "Lurch" Davidson, the collective of corporate media crown princes moaned and moaned and moaned about the two public broadcasters.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Holt Street HQ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Darren</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Davidson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Murdoch-led</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Michael Miller</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

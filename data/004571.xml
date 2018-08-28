@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405833032402365</docid>
+  <date>01/08/2017</date>
+  <time>05:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/real-estate/queensland/big-drop-in-homes-listed-for-sale-ahead-of-spring-selling-season/news-story/3cef4fa6b7525be88cd7286d60f3111f</url>
+  <title>Big drop in homes listed for sale ahead of spring selling season - realestate.com.au</title>
+  <content>
+The number of homes listed for sale in July dropped, according to SQM Research.
+
+HOMEOWNERS are sitting on the sidelines and waiting until Spring to sell their properties with the number of dwellings listed for sale plummeting in July.
+Figures released by SQM Research reveal national property listings dropped 5.1 per cent during the traditionally quiet midwinter month, after rising 3 per cent in June, with stock levels down in all capital cities.
+Hobart led the drop at 10.5 per cent, followed by Melbourne.
+In Brisbane there were 29,404 properties on the market last month - a drop of 5.2 per cent - but the city still had the most homes listed for sale of any capital city.
+
+Homeowners are holding off until Spring selling season, judging by the latest property listing figures.
+
+Listings activity in the property market is viewed as an indicator of market strength and future pricing.
+SQM managing director Louis Christopher said there was some seasonality in the figures, which contributed to the drop in listings.
+"For example, June had an extra weekend while July did not," Mr Christopher said.
+"That can make a big difference as each Friday there are several new property listings that enter the market, and so we think June listings were overinflated by this fact.
+"We also probably saw more first home buyers enter the market in July, with Victoria and NSW introducing grants for first homebuyers from July 1, which will keep up demand on property and prices."
+
+Louis Christopher is managing director of SQM Research.
+
+Asking prices across the combined capital cities for houses rose 10.1 per cent over the year to August 1, but fell 1.2 per cent in July.
+Unit asking prices increased 4.8 per cent over the year, while rising 0.3 per cent last month.
+Sellers in Brisbane boosted their asking prices for houses by a more modest 0.3 per cent during the month and 0.1 per cent for units.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July 1</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Christopher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SQM Research</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louis Christopher</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

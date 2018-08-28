@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413306275636289</docid>
+  <date>02/08/2017</date>
+  <time>10:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/qualcomm-ceo-steve-mollenkopf-interview-2017-7</url>
+  <title>Qualcomm CEO Steve Mollenkopf: What the 'big innovation house' that powered the mobile boom is betting on next</title>
+  <content>
+This giant has had its moments in the spotlight. In 1999 Qualcomm was the top-performing US stock, up more than 2600%. Residents of its hometown of San Diego know well Qualcomm Stadium, once the home of the Chargers and the Padres.
+
+Though not the household name of Apple or Samsung, Qualcomm has grown its dominance in the mobile market. Chances are good that the device you're reading this on wouldn't exist without Qualcomm. It invented many of the technologies that make our favourite devices work - modems, mobile processors, video-streaming formats, and more. Its technology touches practically every mobile device in the world.
+
+That tech is also at the center of a major legal dispute, involving a lawsuit and countersuit, now being litigated between Qualcomm and one of its largest customers, Apple, over royalties and patents. That's on the heels of an antitrust battle Qualcomm settled with China. Meanwhile, Qualcomm is looking to close its planned $US45 billion purchase of NXP, Europe's biggest chipmaker. Overseeing all this, and betting on what comes next, is Steve Mollenkopf, Qualcomm's CEO, an engineer's engineer who rose through the ranks and took the top job in 2014.
+
+Business Insider recently spoke with Mollenkopf about the company's legal battle with Apple, the next wave of tech coming out of Qualcomm, and what it's like working with the Trump administration at a time when many of the president's policies are at odds with the tech industry's goals. This interview has been edited for clarity and length.
+
+Steve Kovach: You've said you like to think of Qualcomm as more than just a mobile-chip company. Define Qualcomm.
+
+Steve Mollenkopf: At its core, we drive the mobile roadmap. We invent the core technologies and the tools that allow the mobile roadmap to move forward. One of those tools is the chip because it's the physical embodiment of that. People tend to associate Qualcomm with the chip - and they should: We're an excellent chip company - but I think we have a larger role in the ecosystem of cellular that I think people are not aware of. And our relevance to more consumer electronics - and I would say industries - is actually just increasing.
+
+Kovach: So what does that look like beyond the smartphone?
+
+Mollenkopf: First of all, you're familiar with the smartphone because about 10 years ago, before the smartphone, people like Qualcomm worked on the technology that was required to even enable the smartphone, and of course we moved that forward. Today, those same discussions, that same innovation, is occurring upstream of, let's say, connected autonomous cars or connected healthcare or massive Internet of Things in the industrial-internet space, for example. We work on those fundamental technologies that people will use five, 10 years later, that really are disrupting their businesses. Qualcomm is this big innovation house that tries to figure out how we can get as many people as possible using the cellular roadmap. The smartphone is just the first step along that journey.
+
+Kovach: So you're making bets 10 years in advance that something is going to be the next big mover. We know which of the best have taken off - phones, tablets. What about things like wearables?
+
+Mollenkopf: If you look at our bets, I would say we bet at another level of abstraction than that. We bet at the kind of fundamental technology. So, for example, we bet that data connection was going to be very important everywhere in the world, so we invented all the technologies to enable that to occur. We bet that video compression was going to be very important worldwide because people were going to stream video and stream audio, so we worked on video- and audio-compression technologies. So we kind of bet at that level. And then what we don't bet on is individual technology implementation - who's going to win, even what's going to happen.
+
+What we try to do is create the tools that are required, the fundamental technologies that enable industries. And then we want to have as many people as possible be able to use those technologies so they can experiment. Because what happens is, you'll find that the industry, if properly equipped, can go into many more areas than what you would have thought. Today, we're betting on massive amounts of data with low latency because we know that will change the way computing happens. Or we know that we need to have robust, very highly secure communication networks, because if we don't, things like autonomous cars that are connected to the network won't develop unless we do it. It's the same thing with connected healthcare. If we don't figure out a way to have secure, connected healthcare, or connectivity and computing, we won't have that industry develop.
+
+Kovach: You had a big artificial-intelligence announcement, letting developers tap into your processors. How do you see it playing a role in devices? Are you going to be making a dedicated AI chip?
+
+Mollenkopf: We firmly believe that things get both connected and smarter. And there are probably two areas that people are working on. There are a lot of people working on the data-center version of that. So you can think of the context of a body, for example, that's like I'm working on the brain. So I'm kind of working on the specialised machines in the brain that allow you to do things. And you have a lot of companies working on that. Qualcomm is actually working on it, starting kind of at the edge of the body, the edge of the internet, and looking back and saying, what type of technology is required in the edge device? The phone - whatever is the connected computing device at the edge of the internet that actually is seeing more of the actual data. And what decisions and what type of implementation needs to be done at that edge to enable things to just make decisions and take advantage of AI?
+
+I would say we're probably looking further ahead than just the specialised [AI] chip. We're looking at the broader portfolio of different types of machines that you would want to have, depending on the workload. But I do think that the same way the human body works, a lot the really interesting work will actually be done without contacting the brain. So, for example, your hand, when you touch something hot, your muscles move away from that hot thing before your central nervous system even knows it. Because that information is so important to take an action on that the processing has to occur locally. More and more of the interesting things that happen in the connected Internet of Things will happen in that way.
+
+Kovach: So you need to have the special processor.
+
+Mollenkopf: You need to have the processor. And now, it's fundamentally a low-power processor and it has to be connected, it has to have all these specialised machines to make it work. And I think we're going to intercept AI there for sure. And so you're seeing the first step of that. And I think you probably saw we had some early partners in AR and VR sign up.
+
+Kovach: That seems to be the first-use case - a lot of people are excited for AR and VR. Is there anything else beyond that?
+
+Mollenkopf: Even today, people use AI to do work on the camera [with our processors]. So, for example, selecting the right scene and selecting all of these things, you can use AI to do that. as opposed to saying it's this type of setting. And there's just a lot of things where the algorithm improvements can implement the concepts of AI in order to improve it. We're in early days, but we think it's going to be yet another component of the connected device.
+
+Kovach: Recently, a  about the potential evilness of AI and the potential goodness of AI. How do you view it?
+
+Mollenkopf: We're kind of at a different place in the ecosystem. We see different things, so I couldn't comment directly on their debate. But for us, I think we're pretty far away from the point people are really concerned about. There's a tremendous amount of benefit to having more intelligent computing with you all the time. And I think we've got a lot of work to do to even make that happen. And so I think that that's what we're working on. We're driving that. I think people are going to be surprised how helpful it will be to have things in their pocket that can anticipate what they need and react to that. So that's what we're working on.
+
+Kovach: So you're optimistic?
+
+Mollenkopf: I am, but I also tend to believe technology has a very positive impact on people and economies. I don't see this transition as being any different than that.
+
+Kovach: Let's talk about 5G. Why do people keep telling me it's going to change everything? What will 5G allow me to do besides download data faster?
+
+Mollenkopf: There are probably two different areas of bets that you're hearing. One is - I'll call it the classic "More G." In cellular, you're going to have more capacity, more data rates, lower latency. From an operator's point of view, it really helps them grow the capability and the network. That in and of itself is enough.
+
+But the other aspect is that there are a lot of new industries that are intercepting the cellular roadmap at the time that 5G is coming. And 5G is being designed to enable those industries to take advantage of it more readily. If we have a much more secure network and a much more robust network, then you can put mission-critical services on there - remote delivery of healthcare, control of physical plant items in some kind of industrial Internet of Things that actively make decisions. You can have autonomous cars. I think what you're hearing is, there are industries that really don't use cellular in their daily operations. That will be because of some of the things that are happening in 5G, so there's a lot of excitement about that.
+
+There's another element, and it's that there's a lot of excitement because if you can get the bandwidth up and the latency down, and the delay across the network is smaller. It enables you to essentially take the data center and move it closer to where the data is actually used. There are a lot of people who realise that that will change - it will really make distributed computing happen. And there will be a lot of new business models that pop up as a result.
+
+If I look at the first wave of connected computing as being in your pocket - really, all we did was put a low-power computer in your pocket that's connected to the internet all the time - and the ramifications of that were terribly significant when you look at business models. The internet business model changed dramatically. You would never have an Uber, you would never had an Instagram, if you didn't have a connected computer in your pocket that didn't also have a camera or a GPS. We're going to go another step.
+
+When everything gets connected and the computing power is resident at the spot that the data exists, and there are a lot of companies saying, hey, how can I change my business model? Industrial companies, you know, the normal players. That's where the excitement is. Everyone knows that's important. Now, it's also being reflected in the actions of governments. So if you look, unlike some of the other transitions - 3G, 4G transitions - people realised the societal impact of this big change. And they want to make sure that their government, their industry players are positioned well for that transition.
+
+Kovach: What do governments want to do with this?
+
+Mollenkopf: They know that the same way it was important to enable the internet, and the people who enabled it made it easy for internet companies to form, it was a great way to develop jobs and develop economic interest in countries. Same today: People are looking and saying this is going to be so significant to economies, the growth of jobs, growth of economy.
+
+The impact of 5G is tremendous. We have the numbers - it's just huge. They don't want to be left behind. They know that the transition is going to be very significant in the evolution of their economy. They want to make sure that they are strong. And so what you see is governments really trying to make it very easy for this technology to take hold in their area. They really try to encourage people to innovate in these areas. And we like that. It's a great thing for Qualcomm.
+
+Kovach: You've said 5G deployment is going to start in 2019. How long will it take to fully grow out to the scale we're seeing 4G LTE at now?
+
+Mollenkopf: My guess is it will go probably a little faster than LTE.
+
+Kovach: Why?
+
+Mollenkopf: There's a tremendous desire on the part of people. One is, look at how much data is being used by a phone today. It's tremendous, and it's not going to stop.
+
+Kovach: I want to move on to Apple. The future of mobile is being debated right here. Tell me about your position on this, where Qualcomm stands, and what you're arguing versus what they're arguing.
+
+Mollenkopf: I probably wouldn't view it in such huge terms. In the end, what this is, is really a contract dispute over the price of IP between two players. The rest of the industry is actually organised, and has been organised for decades, in the way that Qualcomm is. You're probably seeing attempts to make this into something other than that because the contract and the legal path is probably, at least in my opinion, very clear cut in Qualcomm's favour. So there are a lot of attempts to bring other things into it that are really not related to the debate.
+
+Now, Qualcomm, as we talked about before, has had a very significant role in creating industry, and the tools by which it's very easy for people to come into that industry. And Apple would be a great example of a company that benefited dramatically from, really, the industry structure that you have in cellular. So people can come into there from another industry, afresh, and they don't need to have this big long history to be a player. We have something like 300 contracts that were freely negotiated that set the price of that and set that structure. And the contract that we have with the contract manufacturers that supply Apple's products are completely consistent with those contracts. We're just trying to get paid on it now. From my perspective, it's really a lot simpler than what people make it out to be.
+
+Kovach: Apple's argument, and the , and other governments' arguments, is that you guys have dominance in the industry and use that to your advantage. Why don't you think that's true?
+
+Mollenkopf: I don't think we have dominance in the industry, first of all. Also, if you look at all of these agreements, they were freely negotiated over, in some cases, many, many years ago. They continue to become more valuable to the people who negotiate them. It sure doesn't feel like we're dominant in the industry when I look at our position relative to the people who are making the claims. The facts are pretty much on our side on that actually.
+
+Kovach: But who else could manufacturers go to if they don't use Qualcomm?
+
+Mollenkopf: Let's break it into two parts. We have two business models. One business model is that we sell chips into people's phones. That chip industry, I would argue, is the most competitive chip industry in the world. If you just look at the history of it, it's the who's who of tech companies. And we have done very well on that because we're a good chip company, and because we're good at innovation. We're good at worldwide scale, and we're good partners with the ecosystem.
+
+The second model is that we licence our patents - and these are patents that define the entire ecosystem of innovation that come out of outside of Qualcomm. That business model is independent of this chip engagement. In many cases, we have people who use our chips, people who don't use our chips, and in all cases they negotiated these contracts independent of the chip agreement. The facts are different than what people make it out to be. We're also going to take the thing to court, and I think we're going to feel pretty confident in how this plays out.
+
+Kovach: Would you have sued Apple if they didn't start this earlier in the year?
+
+Mollenkopf: We are not a very litigious company. We rarely file offensive actions. Every time I can think of them, it's happened in response to an attack incoming on Qualcomm. If you look at our action, we actually waited. We didn't know what the view was from Apple. And once it became clear they instructed the contract manufacturers not to pay, then we had to, unfortunately, go through some of the actions that we had to go through. That's not our traditional approach to resolving disputes.
+
+Kovach: Typically, the kind of lawsuit you're going after with them - stopping imports - if those do work out, it's very narrow in scope. It might be a ban on imports for an older model of a device. Samsung and Apple went through this years ago. Do you feel more confident than in other cases similar to this?
+
+Mollenkopf: It's really important to remember it's two things going on. The primary thing that Qualcomm is trying to do is trying to get Apple and the contract manufacturers to deliver on the existing contract that exists. That actually happens well upstream of any of the patent actions. And the second part is we have some patent actions in jurisdictions, like the United States and Germany. But primarily, we're just trying to get paid under the contract that I think people are enjoying, and have enjoyed for almost 10 years.
+
+And so that, I think, is something that moves faster through the court system. For example, we're going to have a preliminary injunction hearing over the next month, and potentially a trial after that, depending on how that goes. And so it's very important to remember that, at the end, we're just trying to defend a contract. And on top of that, we think it's in the best interest of our shareholders to defend our IP rights, and we have. But it's important to remember where this is right now.
+
+Kovach: Anything else you want to tell me related to the Apple case and Intel and all these people involved in it?
+
+Mollenkopf: The only thing I would say is that we feel like we're the little guy in this whole thing.
+
+Kovach: You're not a little guy. [Qualcomm's market cap is nearly $US78 billion.]
+
+Mollenkopf: Well, if you look, compared to the other folks, we're pretty small. If you look at scope and scale, we feel like this is an important business for our shareholders, and it's worth us defending it, and hopefully it will work out in our favour.
+
+Kovach: In a worst-case scenario, Apple goes on their own. They're working more and more on their own chips. They're working on their own AI chips. Their vision is to do a lot of this in-house, or at least as much as they can in-house. What does that look like for you?
+
+Mollenkopf: Again, we have a licensing engagement. That's independent of anything we do with people on the products side. And then we have a products side. The products side, and the way in which we have historically worked with Apple, has been over our modem chips, and the technology we do that with, we feel very confident in the strength of our roadmap there, and the relative positioning of that roadmap to the competition. And I think that's something that's probably a little bit harder today to get the advantage of the strength of the roadmap. But these things get resolved, and the product business is going to continue to be a strong business. But this second licensing business, it's important that it gets resolved in and of itself.
+
+Kovach: Let's shift gears to politics. You personally have been to the White House to meet with President Trump. Can you talk about why you take those meetings?
+
+Mollenkopf: We're a big company. We have international scale. We work on things that I think are important to the United States. We need the United States to work on things that are important to Qualcomm worldwide. That involves an engagement with the administration, and it involves an engagement with other countries around the world. And we do that. And that's kind of what you're seeing. And I think that's not unlike any other big company. These are very important technologies. They're important to the debate about a lot of things internationally. It makes sense that we're asked our opinion of things. And we go.
+
+Kovach: Do you feel like they're listening?
+
+Mollenkopf: I do actually. I think, worldwide, governments are pretty responsive.
+
+Kovach: I'm talking about the Trump administration specifically. Do you feel like they listen to what you have to say and took it into account?
+
+Mollenkopf: Yeah. I feel like there's a real discussion that occurs when people go talk there. And I would assume my peers feel the same way.
+
+Kovach: There's been a lot of blowback in Silicon Valley when tech executives take meetings with Trump. I know the Tesla employees revolted. Uber employees revolted. Google employees literally walked out in protest. How do your employees react?
+
+Mollenkopf: We probably don't have reactions like that. I think people understand that our business is - we're probably in a different spot down in southern California. I think that people understand the importance of having a dialogue with policymakers worldwide.
+
+Kovach: You don't feel the need to come out against some of Trump's controversial policies ?
+
+Mollenkopf: I think our role in the ecosystem is really technology. That's what speaks for the company.
+
+Kovach: But those policies do affect you. For example, immigration - I'm sure you rely a lot on that. How do you view potential changes in immigration policy? What do you think should be the policy there?
+
+Mollenkopf: I think we've been pretty clear. The avenue through which we make these arguments is sort of directly to the policymakers, as opposed to through other methods. And it kind of makes sense. We don't have a consumer brand. I don't think people know much about Qualcomm. The employees know how we interact with things. It seems more natural for us not to do those things versus do them. It doesn't mean we don't care about issues or we don't have our point of view. We just tend to articulate it directly. You can just tell. The company's posture on a lot of things is sort of we don't run out in front of things. We're not a huge marketing company. We tend to innovate, let the innovation stand on its own. And then we talk to the ecosystem through partners. We do the same thing politically.
+
+Kovach: The administration had a big win with the Foxconn announcement. They're opening a factory in Wisconsin. Do you think it's a realistic goal to have high-end manufacturing to start producing something like Qualcomm products here in the US, or is this a one-off?
+
+Mollenkopf: I don't know a lot about the Foxconn thing. I don't know enough about it. I hope it's successful. It would be great for the US.
+
+Kovach: Based on what you know about your own manufacturing business, do you see those kinds of businesses coming back to the US?
+
+Mollenkopf: We already manufacture in the US. There are plants in upstate New York; there are plants in Austin, Texas. And we actually manufacture chips in both of those plants. So I feel like we're already doing that. And then when we , we'll have a very significant manufacturing footprint in Austin and in Arizona. I think we're living proof that you can do that.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qualcomm</name>
+    <count>26</count>
+    <score>15</score>
+  </sindex>
+  <sindex>
+    <name>AI</name>
+    <count>10</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>AR</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>IP</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>VR</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qualcomm Stadium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arizona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NXP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Diego</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Kovach</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qualcomm CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Foxconn</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Steve Mollenkopf</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qualcomm CEO Steve Mollenkopf</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Kovach</name>
+    <count>27</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wisconsin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>9</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mollenkopf</name>
+    <count>28</count>
+    <score>7.5</score>
+  </sindex>
+  <sindex>
+    <name>Padres</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austin</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>G LTE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>14</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>G. Why</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US78</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$45</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Uber</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

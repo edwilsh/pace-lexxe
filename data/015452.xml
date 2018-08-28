@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424640694544744</docid>
+  <date>04/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/15/55/flood-warning-for-the-adelaide-hills</url>
+  <title>Flood warning for the Adelaide Hills</title>
+  <content>
+Flood warnings have been issued for parts of the Adelaide Hills as South Australia braces for heavy rain over the weekend.
+The Bureau of Meteorology says local falls could top 100 mm by Sunday causing rivers and creeks across the Mt Lofty Ranges to rise.
+A series of cold fronts are moving across the state which could also bring damaging winds, high sea levels and large waves.
+"We've got a very significant few days of weather coming up," meteorologist Paul Lainio said on Friday.
+The areas most at risk of flooding include around the towns of Oakbank and Verdun in the upper catchment of the Onkaparinga River.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Verdun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Lofty Ranges</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Hills</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Onkaparinga River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Lainio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oakbank</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

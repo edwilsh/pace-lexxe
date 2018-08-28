@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442383204648614</docid>
+  <date>07/08/2017</date>
+  <time>03:00</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/scales-of-justice/hunt-for-man-after-alleged-armed-robbery-on-claremont-street/news-story/19bcd1a1d456f2e84acb202d79cd9307</url>
+  <title>Hunt for man after street robbery</title>
+  <content>
+POLICE are searching for man allegedly involved in an armed robbery in Claremont last night.
+The man, aged in his 30s, is alleged to have used a knife to rob another man on Cadbury Rd about 6.35pm.
+Police would like to speak to anyone who saw a man of medium build, 175cm tall, with dark unshaven facial hair.
+He was wearing a dark hoodie with the hood over his head and dark trackpants. He also had a bandage on his left hand and was acting suspiciously.
+Anyone with information should contact the Glenorchy Police Station on 6173 2881 or 131 444 and quote OR568246.
+Information can also be provided anonymously by calling Crime Stoppers on 1800 333 000 or online at crimestopperstas.com.au.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cadbury Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Claremont</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Glenorchy Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

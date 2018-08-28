@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445020314611665</docid>
+  <date>07/08/2017</date>
+  <time>13:14</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/web/security/australia-post-signs-on-its-first-businesses-with-its-digital-id-20170803-gxofcm</url>
+  <title>Australia Post signs on its first businesses including Airtasker and CUA with its Digital ID</title>
+  <content>
+Online job marketplace Airtasker, credit union CUA, foreign exchange company Travelex, and Queensland Police are among the first adopters of Australia Post's new digital identity service as it seeks to corner the local market in proving credentials when the online and physical worlds collide.
+The Digital ID has been under development since early 2016 and will allow people to rapidly verify their identity via their smartphone using stored biometric data and other information.
+The technology will allow individuals to apply for passports or mortgage by mobile and Australia Post's executive general manager of trusted e-commerce services Andrew Walduck said it was now entering commercial use and would become a growth business for the national utility.
+He said that it is already working with more than 50 other organisations, including digital currency exchange CoinLoft, and that its own research had found that use of its Digital ID could save a significant amount of the $11 billion that identity verification costs the economy each year.
+
+Louise Kennerley
+
+Online job marketplace will use the service to let its users obtain an identity badge, so they can prove who they are when they turn up to someone's house to perform a task.
+
+CUA will use it to verify new members applying for selected savings accounts online or via its mobile device without visiting a branch, Checks, while Qld Police will incorporate it into its national police clearance certificates process to be launched  this year.
+Key component
+
+Travelex's plans to use the Digital ID as part of its "know your customer" checks with currency transfers will raise the question if it is the kind of technology that could be used by banks to help avoid the .
+Mr Walduck was keen to avoid commenting directly about the CBA's problems, but said the identification of individuals conducting financial transactions was a key component of its new product.
+
+Josh Robenstone
+
+"What we have looked to do is to provide a platform that enables organisations to be able to prove the identity of people that they are working with," he said.
+"We are working with organisations today as part of the 'know your customer' checks, which is part of also insuring anti-money laundering compliance."
+Airtasker's adoption of the Digital ID comes after it was recently faced with  on its marketplace.
+Airtasker works by individuals posting jobs that they need doing on its site and then waiting for people to apply. Its co-founder and CEO Tim Fung said trust was paramount in the so-called sharing economy and previously consumers and service providers have had to spend way too much time verifying their identity.
+
+He said Airtasker users would notice the new ID option from today and that it would make it quicker for people signing up to verify themselves, as it was previously handled by Airtasker community managers.
+Increasing trust
+
+Asked whether the new verification technology would remove the concerns raised about child minding on Airtasker, Mr Fung said customers should also use the Airtasker messaging platform to discuss the task and make sure they are 100 per cent happy before choosing a nanny or babysitter.
+"Ultimately, we believe that creating transparency in regards to people's identity and reputation increases trust between members of our community and this makes it easier for people to make a decision about the service provider that they will choose," he said.
+
+"In the case of childcare, we believe that ID verification is a super important part of the decision-making process."
+Mr Walduck said online businesses would likely see much greater sales volume once the issue of trust was properly addressed.
+"Our view is that today a lot of transactions are held back in terms of people having confidence to do them online because they can't confirm that the person is exactly who they say they are," he said.
+He said the Australia Post ID would integrate with a broader online identity being developed by the government's Digital Transformation Agency. Digital Transformation Assistant Minister Angus Taylor  the government's online identity will be used to let Australians do things as varied as deal with Medicare, change bank accounts, shop online and pay their car registration.
+
+Australia Post was advised in the development of its Digital ID by Boston Consulting Group,  to advise its Digital Ventures team on digital identity and the blockchain.
+Mr Walduck said Australia Post had no ongoing relationship with BCG regarding its Digital ID products.
+"Ahmed has been a great proponent of the need for this ID as infrastructure and I'm certainly aware of the role that he has got with BCG ongoing," he said.
+"From our end we wish him well with that role and the role that he is going to be taking to be able to help that organisation in his advisory capacity moving forward."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCG</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>3</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Travelex</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Fung</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston Consulting Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia Post</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australia Post ID</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Digital iD</name>
+    <count>7</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Josh Robenstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transformation Assistant Minister Angus Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Walduck</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Digital Transformation Agency</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Airtasker</name>
+    <count>8</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CEO Tim Fung</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Louise Kennerley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Ventures</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medicare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ahmed</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Qld Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cua</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CoinLoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Walduck</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

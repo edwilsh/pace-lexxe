@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432547729445901</docid>
+  <date>05/08/2017</date>
+  <time>12:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/monzo-ceo-apologies-for-unacceptable-outages-and-tells-customers-to-carry-a-backup-card-2017-8</url>
+  <title>Monzo CEO apologies for 'unacceptable' outages and tells customers to carry a backup card</title>
+  <content>
+LONDON - The CEO of hot startup bank Monzo has written to customers to apologise for service disruption, warning that problems may persist and people should carry backup cards.
+
+Tom Blomfield, who co-founded Monzo, sent an email to Monzo's  on Friday saying Monzo's payment processing partner, Global Payment Systems (GPS), has once again been hit by problems, meaning some payments on Monzo's pre-paid cards have not been going through.
+
+Blomfield says in the email: "Our card processor has been experiencing technical issues that they haven't yet been able to solve and so on several occasions, payments have failed... These incidents have lasted anywhere from a couple of minutes to over an hour (on Tuesday morning)."
+
+Monzo and other startups had a similar issue with GPS in March.  due to a technical problem.
+
+The repeated faults are embarrassing for Monzo, which made a point of saying its technology is better than that of traditional banks .
+
+Blomfield says in Friday's email: "These outages are unacceptable. I want to personally recognise that and apologise on behalf of the whole company."
+
+Blomfield says the problems may continue for a few days and advises customers to carry a backup card from another bank.
+
+But he adds that there's a "glimmer of hope," writing: "Our in-house MasterCard card processor is now live and current account debit cards have been working well for the last couple of months, unaffected by these issues."
+
+Most of Monzo's customers use its pre-paid card product, which relies on GPS to process payments. However, the startup gained  and is in the process of launching a current account. Payments for the current account will be handled in-house.
+
+"Our aim is to make the current account available to everyone at some point in October or November," Blomfield writes. Monzo is one of the UK's hottest fintech - financial technology - startups. Founded in 2015,
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mastercard</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tom Blomfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Payment Systems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blomfield</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

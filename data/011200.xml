@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417167451312764</docid>
+  <date>03/08/2017</date>
+  <time>01:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets/bitcoin-cash-is-essentially-printing-money-20170802-gxo981.html</url>
+  <title>Bitcoin Cash is essentially printing money</title>
+  <content>
+The creation of a second Bitcoin asset this week did almost nothing to dilute the original price, instead the value of the new asset rocketed skyward, generating almost $US7.5 billion out of thin air.
+This week, a group of Bitcoin activists and developers , within a few hours, the value of the new unit - Bitcoin Cash - leapt to over US$600.Photo: Bloomberg
+The original Bitcoin price however, remained fairly steady, still trading at around $US2700 a coin, despite an almost 1:1 duplication of itself.
+"Everyone who has Bitcoin, now has Bitcoin Cash and because the market reckons this is worth $600, it's almost like free money!" crowed one Reddit user.
+The "fork" - instigated by some Bitcoin miners as they ran different software to generate different sized blocks - meant Bitcoin Cash essentially inherited a similar amount of coins in circulation: around 16.5 million units.
+Calculating the market capitalisation of cryptocurrencies is similar to that of a stock's: you multiply a coin's price by the total supply of coins in circulation.
+
+But unlike when a company issues more stock and the price re-rates, Bitcoin simply cloned itself and the market instantly ascribed value to the new asset.
+Investors who held on to Bitcoin - and who clearly weren't frightened off by the fork because there wasn't a selloff - are now credited with an equal amount of Bitcoin Cash.
+Bitcoin's  is around $44.8 billion and as of Thursday morning, Bitcoin Cash is around $7.2 billion.
+Bitcoin exchanges around the world are  and allow withdrawals, but the risk of an almost inevitable run on the exchange has many wary.
+BCH deposits + withdraws may not be available for several days. We won't enable funding until we think it's safe.
+Y tho?
+This week's fork is a culmination of months of.
+Slow transactions and soaring fees had Bitcoin miners - those that decipher algorithms and reaffirm the legitimacy of the blockchain - wanting to expand the size of each block, so transactions would flow more easily.
+A compromise was reached between the Core developers of Bitcoin - those that maintain the underlying technology - and the miners, but some miners decided to branch out and run their own software, that increased the blocksize quicker.
+These new miners have developed Bitcoin Cash.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US7.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$600.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>7</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US$2700</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Y</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reddit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

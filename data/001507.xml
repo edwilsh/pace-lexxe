@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399734178733420</docid>
+  <date>31/07/2017</date>
+  <time>05:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/15/18/act-court-fines-nrl-players-drug-supplier</url>
+  <title>ACT court fines NRL players' drug supplier</title>
+  <content>
+A man who supplied cocaine to NRL stars Jesse Bromwich and Kevin Proctor outside a Canberra nightclub has escaped with a fine.
+Adrian Mark Crowther on Monday was ordered by the ACT Magistrates Court to pay $4500 for supplying cocaine to the New Zealand internationals on May 6 - the day after the Anzac Test.
+He will also be subject to a good behaviour order for 12 months and other fines for possession of cocaine and MDMA.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NRL</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Anzac Test</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Mark Crowther</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MDMA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Magistrates Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>May 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jesse Bromwich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Proctor</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

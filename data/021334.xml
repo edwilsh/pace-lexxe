@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441820563925304</docid>
+  <date>07/08/2017</date>
+  <time>00:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/10/45/queensland-woman-admits-adelaide-murder</url>
+  <title>Queensland woman admits Adelaide murder</title>
+  <content>
+A Queensland woman has pleaded guilty to helping a friend kill her Adelaide grandfather.
+Bernadette Burns entered her guilty plea to the murder charge in the South Australian Supreme Court on Monday.
+It was alleged she travelled to Adelaide with Brittney Dwyer to rob 81-year-old Robert Whitwell in August last year but ended killing the pensioner in his northern suburbs home.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bernadette Burns</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Robert Whitwell</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Supreme Court</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brittney Dwyer</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

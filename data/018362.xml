@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431259239245604</docid>
+  <date>05/08/2017</date>
+  <time>07:50</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/parts-of-tasmania-on-flood-watch/news-story/bb6fe800abda2140c75d2cd8bbab3828</url>
+  <title>Parts of Tasmania on flood watch</title>
+  <content>
+Christopher TalbotAustralian Associated Press
+
+Share
+
+All river basins in Tasmania's north have been placed on flood watch.
+Widespread rain has been recorded in the region since Friday afternoon, with totals in excess of 30mm recorded around Mt Barrow and Lake Mackenzie, the Bureau of Meteorology says.
+Further falls are expected overnight Saturday through Sunday as a cold front moves across the state and minor flooding may develop in some rivers in the north of the state from Sunday on.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Christopher TalbotAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lake Mackenzie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Barrow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

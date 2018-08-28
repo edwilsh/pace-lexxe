@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424730888859293</docid>
+  <date>04/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/nsw/2017/08/04/qantas-flights-forced-turn-back-sydney/</url>
+  <title>Two Qantas flights forced to turn back to Sydney</title>
+  <content>
+Two Qantas flights have been forced to turn around after take-off after suffering separate issues.
+In the first incident, a Qantas A380 flight was forced to return to Sydney on its way to Dallas Fort Worth, in the United States, after experiencing a "mechanical issue".
+Sky News reported that flight QF7, which departed Sydney International Airport at 1.40pm on Friday bound for Dallas, was dumping fuel off the coast of Woollongong about 3.20pm before landing back in Sydney.
+Qantas released a statement saying: "The flaps on the aircraft (which are attached to the wing) are unable to retract which means the aircraft can't fly efficiently.
+"As the Dallas flight is our longest on the network, the captain made the decision to return to Sydney."
+In a second incident, a Qantas 747-400 was also experiencing engineering issues on its way to Johannesburg, South Africa, after suffering a cracked pane of glass on the windscreen.
+"An aircraft windscreen is made up of three layers of glass, the outer pane had cracked but did not compromise the integrity of the aircraft," the statement said.
+"The aircraft was safe to continue to Johannesburg but the captain made the decision to return as the windscreen will be replaced at Qantas' engineering base in Sydney."
+The aircraft landed safely and without incident, Qantas said.
+
+It is not known at this stage whether it was a full flight, nor how many cabin crew were on board, but the A380 has a capacity of 371 passengers in economy, 35 in reclining economy seats, 64 in flatbeds and 14 passengers in open suites in first class.
+Qantas advised that it was working to accommodate passengers or offering them transport home before replacement flights were organised.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney International Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Woollongong</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Qantas A380</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Africa</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-Fort Worth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

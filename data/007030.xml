@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410557496521572</docid>
+  <date>01/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/graincorp-workers-protest-wages-in-vic/news-story/804ea7192f214dc0ba791eae8ba00215</url>
+  <title>GrainCorp workers protest wages in Vic</title>
+  <content>
+Grain handlers in Victoria are threatening to strike after GrainCorp refused to increase its wage offer.
+Workers wanted a better offer from the company after agreeing to below-inflation wages to support the employer, Australian Workers Union Victorian secretary Liam O'Brien said on Wednesday.
+The staff voted to hold work stoppages, stagger lunch breaks and ban overtime unless GrainCorp changes its position.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Workers Union Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Graincorp</name>
+    <count>3</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Liam O'Brien</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

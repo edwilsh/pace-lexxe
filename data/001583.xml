@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399820078080560</docid>
+  <date>31/07/2017</date>
+  <time>05:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/15/39/man-denies-teen-s-murder-sexual-assault</url>
+  <title>Man denies teen's murder, sexual assault</title>
+  <content>
+A man has gone on trial accused of sexually assaulting a 16-year-old boy, strangling him and beating him with a toaster and rolling pin in a vacant Sydney house.
+Admen Terkamani, 24, has pleaded not guilty in the NSW Supreme Court to the murder and aggravated sexual assault of the teenager at a Fairfield East house on the evening of May 16, 2015.
+Opening the crown case to the jury on Monday, prosecutor Andrew Robinson alleged the boy was under the influence of ecstasy when Terkamani killed him.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Terkamani</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Robinson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfield East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terkamani, 24</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>May 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

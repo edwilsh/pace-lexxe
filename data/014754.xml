@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422759498839832</docid>
+  <date>03/08/2017</date>
+  <time>22:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-04/eu-and-pacific-discuss-new-relationship/8773726</url>
+  <title>EU and Pacific discuss new relationship</title>
+  <content>
+Former head of the World Trade Organisation, Pascal Lamy, is in the region to discuss the future of the Pacific's relationship with the European Union.
+Mr Lamy is advising the EU on how to frame the successor to the "Cotonou Agreement" which guides its partnership with African, Caribbean and Pacific islands countries.
+He's in Australia at the moment, after holding talks with a number of Pacific leaders, and he says when the existing deal expires in three years' time, the new agreement will be set against a backdrop of what many perceive as the United States decreasing involvement in the region, and the rise of China.
+</content>
+  <sindexList>
+  <sindex>
+    <name>EU</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Caribbean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lamy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cotonou Agreement</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pascal Lamy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>World Trade Organisation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418374337141788</docid>
+  <date>03/08/2017</date>
+  <time>05:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/drug-drivers-biggest-worry-for-sa-drivers/news-story/139db3929cee9e3aa86a907f0a5ef049</url>
+  <title>Drug drivers biggest worry for SA drivers</title>
+  <content>
+Drugged drivers are the biggest concern for South Australian motorists, according to the state's peak motoring body.
+Data released on Thursday shows 93 per cent of drivers surveyed are worried about those under the influence of drugs getting behind the wheel followed by drunk drivers and erratic drivers.
+"This issue is obviously of great importance to road users and we hope the state parliament keeps this in mind as it considers increased penalties for drug driving during its current review of the legislation," Royal Automobile Association senior manager for road safety Charles Mountain said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Royal Automobile Association</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Charles Mountain</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

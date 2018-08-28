@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418284142827016</docid>
+  <date>03/08/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/vic-man-charged-following-church-search/news-story/25a858169a103cafda6a965dc316d77a</url>
+  <title>Vic man charged following church search</title>
+  <content>
+A man has been charged with child pornography offences following raids at a Melbourne church and home.
+The 52-year-old was arrested on Thursday during searches of a church at suburban Sunshine and at a nearby residence following a 12-month police investigation.
+The man was bailed to appear in Melbourne Magistrates Courts on Friday, charged with transmitting child pornography and related offences.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

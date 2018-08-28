@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419229035649130</docid>
+  <date>03/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/brisbane-traffic-delays-after-story-bridge-crash-20170803-gxoxw2.html</url>
+  <title>Brisbane traffic delays after Story Bridge crash</title>
+  <content>
+Traffic has been delayed heading into the city over the Story Bridge, after two cars crashed during peak hour.
+Emergency services were called to the scene at 5.40pm after two cars crashed on the inbound middle lane, a police spokesman said.Photo: Leah Kidd
+Police were still on scene at 6.40pm, and all inbound lanes were affected.
+As well as the Story Bridge, traffic on Shafston Avenue and Wynnum Road was also affected by the incident.
+The police spokesman said no one was injured in the crash.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Leah Kidd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shafston Avenue</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wynnum Road</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Story Bridge</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411498094374436</docid>
+  <date>02/08/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/the-economy/building-approvals-jump-109-per-cent-in-june-20170802-gxnosn.html</url>
+  <title>Building approvals jump 10.9 per cent in June</title>
+  <content>
+Approvals for the construction of new homes bounced 10.9 per cent in June, giving little indication the housing market is cooling.
+Economists had expected an increase of one per cent, following a revised 5.4 per cent decline in May.Photo: Rob Homer
+Approvals for private sector houses rose 3.4 per cent in June, while the 'other dwellings' category, which includes apartment blocks and townhouses, surged 20 per cent, the Australian Bureau of Statistics said on Wednesday.
+The rise in approvals for apartment blocks and townhouses follows a decline of 12.4 per cent in May.
+
+The jump in approvals in June comes despite tighter lending conditions and the Reserve Bank of Australia's concerns about the rising level of housing debt.
+The Australian Prudential Regulation Authority capped interest-only mortgage lending on March 31, telling lenders to limit higher risk interest-only loans to 30 per cent of new residential mortgages.
+
+That set off a fresh round of rate increases by the major lenders, with banks repricing their loan book to make interest-only and investor loans more expensive.
+Over the year to June, building approvals were down 2.3 per cent.
+Approvals for the construction of new homes bounced 10.9 per cent in June, giving little indication the housing market is cooling.
+aap
+</content>
+  <sindexList>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Rob Homer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

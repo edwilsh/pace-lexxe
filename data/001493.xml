@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399729883766016</docid>
+  <date>31/07/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/courier-giant-questions-security-checks/news-story/0ae11e1e10c9fe38a8dad427f10423d2</url>
+  <title>Courier giant questions security checks</title>
+  <content>
+One of the world's leading courier companies says it's "unbelievable" Australia still relies on paper documents such as birth certificates for security checks.
+A parliamentary committee is investigating improvements to Australia's border arrangements including the security of parcel and freight services.
+DHL security manager Margaret McCormack told a hearing in Canberra on Monday her workforce was required to go through stringent security checks including Aviation Security Identification Cards (ASICs).
+But she said there was a flaw in the system, which would require a change in the law to implement.
+"Things like a paper birth certificate being a primary method of identification - I find that unbelievable," Ms McCormack said.
+"There's biometrics everywhere in the world now and biometrics should be introduced with ASIC cards and perhaps facial recognition as well."
+Biometrics include unique identifiers such as fingerprints, retina and iris patterns, voice waves and DNA.
+Ms McCormack said police and ASIO checks were routinely conducted on her workforce but there was "some intelligence which doesn't show up on a police check".
+The biggest challenge was the company's temporary workforce and contractors.
+When asked whether any DHL employees or contractors had fallen foul of the law, the committee went into a private session.
+Ms McCormack said keeping illegal goods out of the network was a "difficult job" and the company worked closely with Australian Border Force and Australian Federal Police to keep tabs on the more than 15 million shipments handled each year.
+The key focus of x-raying air-freighted parcels was looking for explosives.
+She gave the example of a shipment two weeks ago which was cleared in Pakistan, but DHL customer service later reported some "suspicious lack of information from the caller" about the shipment.
+It was referred to the ABF, which discovered it to be a shipment of illegal drugs.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Courier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Border Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pakistan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret McCormack</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aviation Security Identification Cards</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DHL</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms McCormack</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

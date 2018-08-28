@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417343544974480</docid>
+  <date>03/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/messenger/south/notorious-morphett-vale-intersection-to-get-500000-safety-fix/news-story/d0d5afa03d8d7e9f70216ce7593ec7a3</url>
+  <title>Intersection to get $500,000 safety fix</title>
+  <content>
+THE intersection of Main South and Hillier roads at Morphett Vale is being redesigned to make it less hazardous.
+In a $536,000 State Government upgrade, access from Main South Rd to Hillier Rd will change.
+The existing road will be blocked and replaced with a left-turning lane slightly further north.
+The right-turning lane from Hillier Rd to Main South Rd is to be realigned, with an increased curve - to allow the new left-turning lane.
+A reversing bay will be installed within the blocked-off section of Hillier Rd to ease access for traffic entering and leaving properties.
+New street lights and a bike lane will also be installed along Main South Rd.
+A Transport Department spokesman said the improvements would help reduce the risk of rear-end and right-turn crashes.
+He warned drivers to be cautious of road restrictions throughout construction.
+"While the department will make every effort to minimise impacts to road users, it will be necessary for lane and speed restrictions to apply during construction," the spokesman said.
+"Access to properties will be maintained throughout the works."
+Construction is expected to start in the next few months. Posts already mark the site.
+The spokesman said the project should be finished by the end of the year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hillier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Main South Rd</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Transport Department</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hillier Rd</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Morphett Vale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Main South</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424082348787352</docid>
+  <date>04/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/what-to-know-on-cbas-alleged-law-breaches/news-story/34b628333f8fad54d5eed78b1d74082a</url>
+  <title>What to know on CBA's alleged law breaches</title>
+  <content>
+A GLIMPSE OF CBA'S ALLEGED FAILINGS:
+WHAT YOU NEED TO KNOW:
+* CBA has been accused of 53,700 breaches of laws put in place to combat money laundering and terrorism financing.
+* Its shares plummeted almost three per cent just after noon.
+* The allegations come after gaming giant Tabcorp paid $45 million to settle a money-laundering case with AUSTRAC in February.
+ACCUSATIONS:
+* Failed to assess the money laundering and terrorism financing risk of intelligent deposit machines before rolling them out in 2012.
+* Only took its first steps to assess the risks in mid-2015.
+* Failed to provide on time reports of more than 53,500 transactions through IDMs of $10,000 or more, totalling $625 million.
+* Failed to report suspicious matters involving $77 million worth of transactions, either on time or at all.
+* Failed to monitor its customers even after suspected money laundering had been brought to the lender's attention.
+PENALTIES:
+* Faces a possible maximum penalty of $18 million for each contravention, if found guilty.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ALLEGED FAILINGS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NEED TO KNOW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GLIMPSE OF CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

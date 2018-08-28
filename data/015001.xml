@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424000744407828</docid>
+  <date>04/08/2017</date>
+  <time>03:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/world/shooting-at-dolores-park-san-francisco/news-story/0162e13a6988ce1bc405c62145b792af</url>
+  <title>Three injured in San Francisco shooting</title>
+  <content>
+AT least one gunman has opened fire at a popular San Francisco park packed with families and tourists, leaving three people wounded and sending dozens of panicked people running for cover.
+Police are looking for at least one gunman who fled the scene at Dolores Park, San Francisco Police Officer Grace Gatpandan says.
+San Francisco General Hospital spokesman Brent Andrew says one of the victims is in critical condition.
+A man who witnessed a shooting said it happened after about half a dozen men who covered all but their eyes started shouting and acting threateningly on a park's bridge.
+The man, who identified himself to the San Francisco Chronicle only as Hatter, said several park regulars confronted the group and that he approached them to make sure everything was OK.
+As he got close someone shouted that the group had guns and that a second later one of the men pulled out a handgun and fired at least six rounds. Two people directly behind him were struck by bullets. He escaped with only an injury, possibly from "shrapnel," to his leg, he said.
+"I normally can handle (myself) well in these situations, but I was pretty sure I had just lost my life," Hatter said.
+Nearby resident Antonia Juhasz said she was sitting in Dolores Park when she heard a burst of gunshots.
+"I saw a person with a gun in their hand running," she said. "I think there were a total of three shots." Juhasz, 47, said she saw two people who had been shot. Both were bleeding as emergency workers carried them away on stretchers.
+Dolores Park sits on a hill in the Mission District and is a popular destination for locals and tourists who come to sunbathe and take in city views. It's near a high school.
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Antonia Juhasz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dolores Park</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco Police Officer Grace Gatpandan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mission District</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco General Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent Andrew</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hatter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Juhasz, 47</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco Chronicle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

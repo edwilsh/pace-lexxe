@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428428855768996</docid>
+  <date>04/08/2017</date>
+  <time>20:51</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/little-pompeii-found-in-southern-france/news-story/e913517f94fad91f7982537cfbe95e70</url>
+  <title>'Little Pompeii' found in southern France</title>
+  <content>
+Reuters
+
+Share
+
+French archaeologists have unearthed the ruins of a Roman settlement in southern France that was deserted by its inhabitants after fires that ultimately helped preserve the site now being dubbed "Little Pompeii".
+The site on the banks of the Rhone near the town of Vienne, discovered on land earmarked for a new apartment complex, has revealed luxury homes, mosaics and items of furniture that date back to the 1st century AD.
+Ash from the fires helped preserve the ruins, just as the Roman city of Pompeii was largely preserved after being buried in volcanic ash from Mount Vesuvius.
+"The two fires fossilised, solidified the entirety of the remains ... in every space we found furniture left by the inhabitants who had to flee the fire," said lead archaeologist Benjamin Clement.
+"It's rare to discover such a well preserved site."
+Found among the ruins was a near-complete mosaic showing Thalia, the muse and patron of comedy, being kidnapped by the god of the satyrs, Pan.
+The remains will be measured, photographed and drawn. Some will then be removed from the Sainte-Colombe site and sent to the Gallo-Roman museum in Vienne for restoration.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gallo-Roman</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pompeii</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Romans</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SAINTE COLOMBE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vienne</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mount Vesuvius</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thalia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Benjamin Clement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ash</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

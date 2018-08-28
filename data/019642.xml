@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436881351485870</docid>
+  <date>06/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/police-hunting-gang-of-men-behind-three-service-station-raids-in-melbourne-suburbs/news-story/c0f24c73a1dc5fe5cb5807b213e3a7ee</url>
+  <title>Gang hits three servos in 24 hours</title>
+  <content>
+POLICE are hunting a gang of armed robbers who raided three service stations this weekend.
+Brimbank Embona detectives are investigating the series of robberies in Melbourne's northwest suburbs.
+Three service stations were targeted by a group of up to seven men in Hillside, Laverton North and Rockbank.
+In the first incident seven men smashed their way into a service station on the Melton Highway, Hillside just after 3am on Saturday.
+They tried to smash their way into the cigarette cabinets but failed and instead made off with the attendant's car.
+Thirty minutes later the same men targeted another service station in Laverton North.
+They entered the Little Boundary Rd petrol station armed with a knife, baseball bat and hammers just before 3.30am, stealing cigarettes and a cash register.
+In the last incident, six men armed with hammers attended a Melton Highway service station just before 3.30am on Sunday.
+They stole the cash register and cigarettes before fleeing in a black SUV and silver sedan.
+No one was injured during the robberies and detectives are treating all three incidents as being linked.
+Police have released CCTV and images of a number of men they believe can assist with their inquiries.
+Anyone with any information should contact Crime Stoppers on 1800 333 000 or submit a confidential crime report at crimestoppersvic.com.au.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Little Boundary Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brimbank Embona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Laverton North</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SUV</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melton Highway</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

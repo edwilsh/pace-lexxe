@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411163086920051</docid>
+  <date>02/08/2017</date>
+  <time>01:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/this-chart-suggests-us-stocks-will-continue-to-rally-over-the-next-12-months-2017-8</url>
+  <title>This chart suggests US stocks will continue to rally over the next 12 months</title>
+  <content>
+If the chart below is anything to go by, US stocks are likely to scale fresh record peaks over the next 12 months.
+
+It's Bank of America-Merrill Lynch's (BAML) Sell Side Indicator, a gauge that tracks the average recommended equity allocation of Wall
+Street sell-side strategists on last business day of each month.
+
+BAML says that it's a useful contrarian indicator for investors, providing clues as to when there may be a major turning point for US stocks based on sentiment levels.
+
+Indeed, looking at the chart, it's easy to see why BAML has come to that view.
+
+It provided contrarian sell signals during the euphoria of the dot.com bubble in the late 90s and early 2000s, as well as the before the global financial crisis (GFC) that struck in 2008.
+
+It also provided a buy signal for stocks in early 2009, a period that coincided with the bottom of the GFC rout.
+
+So it has some form on the board.
+
+While bullishness towards stocks has been climbing recently, hitting the highest level in five years in June, the indicator currently sits in neutral territory, with analyst sentiment neither bullish nor bearish,
+
+So what does that mean for those pondering whether they should be buying or selling?
+
+According to BAML, if history is any guide, the indicator currently points to continued gains ahead.
+
+"Historically, when our indicator has been this low or lower, total returns over the subsequent 12 months have been positive 94% of the time, with median 12-month returns of 19%," it says.
+
+Currently, it says that the indicator points to total returns for the S&P 500 of 12% looking 12-months ahead, leaving it sitting at 2,728 points.
+
+However, before you rush out to call your broker, BAML warns that just because the indicator is pointing to further gains does not automatically imply that will be replicated in reality.
+
+"Past performance is not an indication of future results," it wisely says.
+
+Still, something to consider for investors, both now and in the period ahead should the indicator move into extreme bear or bull territory.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BAML</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GFC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Merrill Lynch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sell Side Indicator</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

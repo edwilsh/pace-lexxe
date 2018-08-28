@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424082348787268</docid>
+  <date>04/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/vic-police-recall-16m-faulty-holsters/news-story/ecebb7e84c22a63e8817fb4bc6ad6a0a</url>
+  <title>Vic Police recall $1.6m faulty holsters</title>
+  <content>
+Victoria Police has spent $1.6 million on thousands of faulty gun holsters, and now hundreds of officers will have to reshuffle frontline shifts until the recall is complete.
+The 18,000 new holsters were meant to solve issues with previous equipment, but late last week flaws were detected with the new gear during training and a safety alert was issued to officers.
+Victoria Police say the roll back will not affect operations, and replacing problematic holsters and retraining the 350 officers will be completed by August 13.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vic Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>August 13</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>2</count>
+    <score>0.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

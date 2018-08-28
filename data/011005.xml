@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417257645627194</docid>
+  <date>03/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/small-plane-crash-lands-in-clyde-north/news-story/3a80f81082a8dbc113ca6859e1fcef62</url>
+  <title>Plane crash lands in Clyde North</title>
+  <content>
+A PERSON is trapped inside a small plane that has crash-landed southeast of Melbourne.
+Paramedics were called to Clyde North about 10.40am.
+They are assessing one person at the scene.
+
+First pictures of light aircraft that crash-landed in Clyde North. Paramedics assessing one person, another appears trapped but ok
+
+Another person has been trapped inside the plane but appears to be in a stable condition.
+An air ambulance has been dispatched to assist in the rescue.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Clyde North</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

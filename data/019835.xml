@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436146912072113</docid>
+  <date>06/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/telecommunications/spy-data-to-help-small-medium-businesses-beat-cyber-threats-20170801-gxmyhz</url>
+  <title>Spy data to help small, medium businesses fend off cyber threats</title>
+  <content>
+by
+Ronald Mizen
+
+Small and medium-sized businesses will be the big winners under the government's plans to share cyber-security data collected by Australia's intelligence agencies.
+Under the plan announced in May, declassified data from the Australian Signals Directorate (ASD) will be shared with telcos and internet service providers (ISPs) so they can develop more advanced products to combat growing cyber security threats.
+Telstra director of security Neil Campbell said the data will make it easier for cyber security providers to create better targeted, more cost-effective products for , which often don't consider cyber safeguards.
+"This is where I think we have the opportunity to really make a difference," Mr Campbell said. "We have the opportunity to deliver at such a scale we can make it cost-effective for our customers."
+
+Bryan Doherty
+
+The data provided by the government includes what are known as indicators of compromise (IOCs), which are generated during different stages of a cyber attack and can represent or indicate that a compromise has been attempted or successful.
+
+ISPs will be able to merge IOCs collected by the government with their own to create massive datasets which can be used to analyse, identify and develop active solutions to combat emerging or previously unknown cyber threats.
+Big data benefits
+
+"The more data you have, the more context you have, the more opportunity you have to find aberrant behaviour on the network or malicious behaviour on the network," Mr Campbell said.
+"Putting systems in place to identify those and then taking what you learn in one part of the internet and then applying it to people who would be vulnerable to that attack in another part of the internet, that's where you go from passive to active.
+
+"You get to the point where you start to create herd immunity because if one of your customers or half-a-dozen of your customers gets affected, you learn about it quite rapidly and you're able to inoculate the others against the threat."
+In an AFR Weekend shortly after the May announcement, Minister Assisting the Prime Minister for Cyber Security, Dan Tehan, said he hoped the data sharing would result in better products for Australian small businesses.
+"What we're calling on the private sector to do is look at what products do they have or can they develop which will help protect those organisations which don't have the human resources or the financial resources to dedicate to keeping themselves cyber secure," Mr Tehan said.
+Risk versus reward
+
+Mr Campbell said cyber security often doesn't occur to small businesses because they're so focused on getting on with the job. But in some instances, businesses have been forced to close their doors because of cyber attacks.
+"I think they don't have the means, they don't necessarily have the motivation. Because given the choice between reinvesting your revenue in staying alive or growing versus covering off on risk, you know where the money's going to go."
+"It's our job to give them the products and services that allow them to manage that risk cost effectively without having to become an enterprise or cyber security expert."
+Between July 2015 and June 2016, the Computer Emergency Response Team (CERT) responded to 14,804 cyber security incidents affecting Australian businesses, 418 of which involved systems of national interest and critical infrastructure. "Cyber crime is pretty much widespread," Mr Campbell said.
+
+The government has committed $630 million to combat cyber crime which is conservatively estimated to .
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Neil Campbell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AFR Weekend</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Computer Emergency Response Team</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bryan Doherty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister Assisting</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Signal Directorate</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Campbell</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cyber Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dan Tehan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>July 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Tehan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ronald Mizen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASD</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IOCs</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430159727608669</docid>
+  <date>05/08/2017</date>
+  <time>03:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/us-lawsuit-claims-disney-spied-on-kids-playing-mobile-games-and-sold-info-to-advertisers/</url>
+  <title>US Lawsuit Claims Disney Spied On Kids Playing Mobile Games And Sold Info To Advertisers</title>
+  <content>
+The Walt Disney Company is facing a lawsuit alleging it violated US federal law aimed at protecting children's online privacy. The company allegedly allowed ad tech companies to embed software in its apps, enabling the collection of children's personal information.
+
+Photo: Getty
+
+The class-action suit claims that children playing Disney's mobile games have been personally identified by Disney and that their data was scooped up for the purpose of future "commercial exploitation". , naming as plaintiff Amanda Rushing and her child, along with others similarly situated, was filed Thursday in the US District Court for the Northern District of California.
+
+Ad tech companies Upsight, Unity and Kochava were also accused in the complaint as being responsible for embedding software in Disney's games - including "Disney Princess Palace Pets" - aimed at tracking, collecting and exporting children's personal information. That data, the lawsuit alleges, is being sold to third-party party companies for the purpose of tracking individual children's behaviour "across multiple apps and devices".
+
+Specifically, Disney and its ad partners are accused of violating the Children's Online Privacy Protection Act (COPPA), a US Federal Trade Commission regulation placing restrictions and requirements on websites and online services directed at children under 13 years of age.
+
+The complaint notes that Disney has been accused of violating COPPA in the past, including in 2011 when subsidiary Playdom Inc.  for allegedly collecting and disclosing the personal information of hundreds of thousands of children without parental consent.
+
+The ad tech Disney is said to have embedded in its gaming apps - known as "software development kits" or SDK - is described as having secretly collected the personal information of children using Disney's apps for tracking their online behaviour to "facilitate behavioural advertising or marketing analysis". These "robust online profiles" include details such as a child's geographical location, browsing history and app usage, the suit alleges.
+
+What's more, Rushing alleges that Disney failed to obtain "verifiable" parental consent. She "never knew," the complaint says, that Disney "collected, disclosed, or used her child's personal information" because Disney and its ad tech partners did not provide "any of the required disclosures", and furthermore "never sought verifiable parental consent" because it never actually provided a mechanism through which consent could be provided.
+
+"As a company long-engaged in the practice of engaging - and profiting from - children, Disney needs to make sure its games and apps comply with the law," Michael Sobol, one of the attorneys who filed the lawsuit, said in a statement. "They and the companies they work with always have to obtain verifiable parental consent before extracting kids' data from their mobile devices when kids play Disney's mobile apps."
+
+The lawsuit was filed Thursday by the law firms of Lieff Cabraser and Carney Bates & Pulliam.
+
+An employee in Disney's consumer products division declined to comment. The company's public affairs office did not immediately respond to Gizmodo's inquiry.
+
+WATCH MORE: Gaming News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kochava</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Federal Trade Commission</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Disney</name>
+    <count>13</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carney Bates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Children's Online Privacy Protection Act</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SDK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Playdom Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Lawsuit Claims Disney Spied On Kids Playing Mobile Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lieff Cabraser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amanda Rushing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pulliam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gaming News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Upsight</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walt Disney Company</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sold Info To Advertisers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coppa</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Northern District of California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Sobol</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Getty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US District Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Disney Princess Palace Pets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

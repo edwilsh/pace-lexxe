@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404845189909821</docid>
+  <date>01/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/the-ato-is-slowly-phasing-out-auskey-469812</url>
+  <title>The ATO is slowly phasing out AUSkey</title>
+  <content>
+The Australian Taxation Office does not see a "long term future" for the AUSkey single authenticator businesses use when dealing with the government online, according to its chief digital officer.
+
+The ATO introduced the AUSkey online security credential  as part of its standard business reporting (SBR) program, as a replacement for agency-specific digital certificates.
+
+The public key infrastructure was developed with the help of Verizon Business, and was intended to improve security and reduce the administrative burden for businesses by offering a single credential that could be used across various government services.
+
+An AUSkey can be used for things like changing an ABN and lodging a business activity statement, alongside  from the likes of the ATO, ASIC, APRA, Human Services, the Australian Business Register, Austrade, and state revenue offices.
+
+However, it appears little work has been done on the platform since August 2015, when the ATO added SMS and email notification functionality for when new administrator AUSkeys are registered for a business.
+
+Additionally, late last year the ATO introduced the ability for businesses to authenticate and authorise through , negating the need for an AUSkey for this particular service.
+
+Twenty-nine software developers are now enabled on that platform, ATO chief digital officer John Dardo said today.
+
+He revealed other authentication solutions would likely take AUSkey's place over the coming years.
+
+"We're doing some remedial work on AUSkey, although that is not the long-term future," Dardo told the Technology in Gov summit in Canberra today.
+
+Businesses can now  to log in to certain ABN services, Dardo noted, and the ATO is currently building a new relationship and authorisation feature that will allow an individual to represent themselves, their spouse, or their business through one interface.
+
+This feature is in development and will likely enter production around October, he said.
+
+"And we're working with other agencies and across the government on what authentication will look like in the future," Dardo said.
+
+Authentication is a key consideration for the agency given it handles more than 745,000 new tax file number enrollments and 700,000 new Australian business numbers (ABNs) each year, for a total pool of around 20 million active TFNs and 7 million active ABNs.
+
+There are two related initiatives already underway in government that the ATO might look to for its future authentication solution.
+
+Australia Post recently released its  service on Apple's App Store.
+
+The will allow users of government and private sector services to easily verify themselves.
+
+Digital iD does not appear to support any services yet; in May Australia Post said it was creating a proof-of-concept with the  Digital Transformation Agency (DTA) for the use of Digital iD with government services.
+
+The Australia Post platform taps into the DTA's , which the DTA is building to provide a whole-of-government approach to verifying identity for online services.
+
+The framework involves a set of standards, , and partnerships between agencies. It is in private beta and is expected to move to public beta early next year. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>May Australia Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Business Register</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Austrade</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Dardo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia Post</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dardo</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital iD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SBR</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SMS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Taxation Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Transformation Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Human Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twenty-nine</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DTA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABN</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Verizon Business</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TFNs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ABNs</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AUSkey</name>
+    <count>8</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

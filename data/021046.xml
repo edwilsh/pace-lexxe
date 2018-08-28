@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440489124048040</docid>
+  <date>06/08/2017</date>
+  <time>19:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/05/30/public-housing-rent-to-be-auto-deducted</url>
+  <title>Public housing rent to be auto deducted</title>
+  <content>
+Public housing tenants will no longer be able to run up huge debts under a new federal government plan to automatically deduct rent from welfare payments.
+Around 9000 social housing renters owe more than three weeks' rent, while thousands more lose their public housing every year because of rental arrears, News Corp Australia reports.
+Human Services Minister Alan Tudge says Australia's social housing systems are out of pocket than $30 million a year from unpaid rent and the Automatic Rent Deduction Scheme will prevent people falling behind, while allowing the development of more social housing.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Automatic Rent Deduction Scheme</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Services Minister Alan Tudge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422445966221160</docid>
+  <date>03/08/2017</date>
+  <time>21:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/07/31/melbourne-hit-run-cbd-arrest-crime-woman</url>
+  <title>Homeless woman arrested over CBD hit run</title>
+  <content>
+A homeless woman has been arrested after a double hit-run in Melbourne's CBD.
+Witnesses outside St Paul's Cathedral last night say an offending white car ran a red light, before allegedly striking a pedestrian and a cyclist at the intersection of Flinders and Swanston Streets about 6.30pm.
+The white vehicle sped off, leaving the two men injured in the rain in the middle of the road.
+Paramedics arrived quickly and assessed one of the men at the scene.
+The other needed to be stabilised before being rushed via ambulance to Alfred hospital where he remains with non-life threatening injuries.
+Three hours after the incident, at around 10pm, a woman of no fixed address was arrested along Flinders Lane near Elizabeth Street.
+The 32-year-old was reportedly found close to the offending vehicle.
+
+Related Articles
+
+She has been questioned by police overnight and may face charges.
+Anyone with information is urged to call Crime Stoppers on 1800 333 000.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flinders Lane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alfred</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Paul's Cathedral</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swanston Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

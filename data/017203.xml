@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427479667981436</docid>
+  <date>04/08/2017</date>
+  <time>17:10</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/gothrones-unaired-episode-leaked-online/news-story/bdcda18a8ff526dd560d2a4f6640a29e</url>
+  <title>GoThrones unaired episode leaked online</title>
+  <content>
+Todd SpanglerReuters
+
+Share
+
+The next episode of Game of Thrones has been stolen and posted on the internet -- but the leak isn't related to the massive hack of HBO's systems disclosed earlier this week.
+Links to the fourth episode of Game of Thrones season 7, set to premiere on August 6 on HBO, appeared on a discussion board on Reddit, as first reported by the Verge.
+The pirated copy of the episode, titled The Spoils of War, was available via Google Drive, according to the report.
+However, shortly after the link to the Game of Thrones episode was posted on Reddit on Friday morning, the post was updated with this message. "The file has been taken down for violating GoogleDrive's [terms of service]. You can no longer view it."
+It's not the first time Game of Thrones -- believed to be the most-pirated TV show of all time -- has been hit with pre-release piracy.
+In 2015 the first four episodes of season five landed on piracy networks, after being copied from review screeners, nearly a full day before the season premiere.
+During last year's season six run, an episode leaked ahead of its premiere date after it was accidentally made available on HBO Nordic.
+But the leak came from pay-TV distribution partner Star India, a subsidiary of 21st Century Fox, whose logo appears as a watermark in the pirated copy with the text "for internal viewing only", the Verge reported.
+"We take this breach very seriously and have immediately initiated forensic investigations at our and the technology partner's end to swiftly determine the cause," a rep for Star India said in a statement. "This is a grave issue and we are taking appropriate legal remedial action."
+
+Mumbai-based Star India operates more than 40 channels in eight different languages.
+HBO did not respond to a request for comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>HBO</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Spoils of War</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>4</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Google Drive</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>HBO Nordic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mumbai-based Star India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Star India</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GoThrones</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reddit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GoogleDrive</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Todd SpanglerReuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Century Fox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

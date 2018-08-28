@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397848688065485</docid>
+  <date>30/07/2017</date>
+  <time>22:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/national/child-injured-after-kangaroo-attack-on-yering-property-in-regional-victoria/news-story/ca81a9de638065fb9d3e12c4e9a44849</url>
+  <title>Child hurt in kangaroo attack</title>
+  <content>
+A child attacked by a kangaroo in country Victoria has suffered facial injuries.
+The boy, who is preschool age, came across the kangaroo on a property in the Victorian town of Yering shortly before 8am.
+Paramedics called to the property treated him for head lacerations and transported him to the Royal Children's Hospital where he was in a stable condition.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yering</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Children's Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

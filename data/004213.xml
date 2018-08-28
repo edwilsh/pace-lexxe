@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405141542658029</docid>
+  <date>01/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/nbn-co-tests-entry-into-emergency-comms-469827</url>
+  <title>NBN Co tests entry into emergency comms</title>
+  <content>
+NBN Co is looking to expand into communications for disaster relief and emergency services, in a move likely to set it on a fresh collision course with industry.
+
+The expansion was revealed this morning by ViaSat's Asia Pacific vice president Peter Girvan at parliamentary committee hearings in Sydney.
+
+The network builder has partnered with ViaSat to find new uses for its Sky Muster satellite services.
+
+One of those uses - which ViaSat calls "comms-on-the-move" - is the Qantas trial of Sky Muster-powered in-flight wi-fi services.
+
+A second use emerged last month via the Royal Flying Doctor Service, which agreed to begin trialling "transportable Sky Muster units" to connect remote clinics for telemedicine purposes from September.
+
+Girvan said transportable Sky Muster "terminals" opened up fresh opportunities for NBN Co, and for the first time revealed where the initiative is headed.
+
+"We are working with NBN Co on developing a whole suite of other products around things like emergency services and disaster relief," Girvan said.
+
+"We're in the process of putting a proof-of-concept together for what we call 'comms-on-the-pause' terminals - which is where you basically drive somewhere, set up an antenna and get your service once you've paused or stopped moving.
+
+"So we're working on some proof-of-concepts and trials around that kind of thing which you would use in a disaster relief scenario or emergency services scenario."
+
+The planned expansion into emergency services communications represents another move away from NBN Co's core remit.
+
+It is already pushing into non-premises infrastructure and internet of things connectivity, mobile tower backhaul and enterprise services as it seeks new ways to grow its revenue.
+
+NBN Co has already warned this year that it is danger of missing forward revenue projections for 2020 if it can't raise average revenue per user, and that it  on the government's investment if residential ISPs don't buy more bandwidth.
+
+Evidence over the past year suggests that the company is actively trying to diversify outside its core remit to serve residential and some business users.
+
+Encroachment into the emergency communications space is likely to alarm private service operators such as Telstra, whose LANES product offers priority communications to emergency services over the carrier's 4G network.
+
+Sky Muster augmentation
+
+Girvan also revealed discussions between NBN Co and ViaSat to potentially take capacity on the forthcoming ViaSat-2 satellite to augment that which is available through the Sky Muster satellites.
+
+He said discussions were "ongoing" and aimed at potentially further relaxation of data cap limits imposed on Sky Muster users.
+
+Data limits were recently boosted , but Girvan's comments suggest NBN Co is looking elsewhere to keep its satellite customers happy.
+
+"With NBN, it is more about how do you augment what you already have. It's not about making the Sky Muster satellites redundant," Girvan said.
+
+"The thing in the satellite game is all satellites have a fixed shelf life. They run for about 15 years and then you have to do something. You've either got to replace or augment them.
+
+"So the discussions we've been having with NBN Co have been around what part could we play as a commercial entity for provision of additional capacity to Sky Muster.
+
+"It all hinges around how do we help them increase the current data caps that they have in the rural sector where the satellite services are."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ViaSat-2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Girvan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Flying Doctor Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky Muster</name>
+    <count>8</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>ViaSat</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky Muster-powered</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Girvan</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>9</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ViaSat's Asia Pacific</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

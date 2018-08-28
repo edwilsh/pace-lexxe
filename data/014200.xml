@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423270599956652</docid>
+  <date>04/08/2017</date>
+  <time>00:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/outer-east/mercedes-benz-written-off-after-driver-hits-deer-in-launching-place/news-story/2890234ee833127d82c7c724da2a0c6e</url>
+  <title>Oh deer! Merc written off in smash</title>
+  <content>
+A STRAY deer wandering across a road in Launching Place has caused a smash.
+Yarra Junction Senior Constable Matt Ward said a Launching Place man in his 50s had his Mercedes Benz written off when he hit the deer on Dalry Rd about 9.30pm on Wednesday night.
+Sen-Constable Ward said the deer ran onto the road in front of the man's car and the driver was unable to avoid the animal.
+He said the deer was uninjured and ran off into bush.
+The driver was shaken up but uninjured in the collision.
+Sen-Constable Ward said it was the second crash involving a deer he had seen on the road in past 12 months.
+He said the crash was a timely reminder for drivers to stay alert in the Yarra Valley at night.
+"There's a lot of deer up here," he said.
+"Obviously they are very large and they can cause a lot of damage."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dalry Rd</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Junction Senior Constable Matt Ward</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sen-Constable Ward</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mercedes-Benz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Launching Place</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

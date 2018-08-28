@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409698503045484</docid>
+  <date>01/08/2017</date>
+  <time>20:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/technology/how-to-create-a-smart-home-with-just-five-devices-from-google-home-to-nokia-scales/news-story/bb543e07bcc95e6157b469dc3f7f84f5</url>
+  <title>How to create a super smart home</title>
+  <content>
+Google's new voice controlled speaker
+
+ENTER your home, and the lights turn on to greet you. The air quality is recorded on your smartphone. Your fitness is recorded in an app. Announce the music you want to hear and it plays automatically.
+
+These are the sort of smart home promises we've been issued for years but the technology has finally arrived.
+
+We've rounded up and reviewed five of the best and brightest smart home gadgets that can fulfil all of these promises, and many more if you're willing to put in a modest effort.
+
+Google Wifi
+
+4.5 out of 5 stars / $199-$499 /
+
+These hockey puck-shaped devices might not be as sexy as a smart speaker but they could be more practical. A Google Wifi gadget connects to your modem and extends its internet signal further into your home using mesh wi-fi technology. Buy the three-pack and you can place each device two rooms apart, extending wi-fi into hard-to-reach places at the other end of your home, far away from the modem. An app guides users through its simple installation, and it will also test the new network and its internet speed. Additional handy features including the ability to pause connections during meal times or at bedtime, create a network just for guests to use, dim the light on each device, and even prioritise devices such as a TV streaming Netflix. The three-pack is not cheap but for those who've struggled with wi-fi deadspots it might be worth it.
+
+Google Home
+
+4.5 out of 5 stars / $199 /
+
+Google's internet-connected speaker is finally in Australia, letting you order an Uber ride by voice, command it to play local radio stations, or make it chirp like a kookaburra. The smart speaker is easy to set up, though it can take some time to uncover its best uses. It can use information from your existing Google account to tell you about appointments and travel time (though only one account at a time), it can stream songs from connected Google Music or Spotify accounts, and it can be used to control other smart products from the likes of WeMo, Philips, and Nest. If you're willing to put some extra effort in to link them all, you could command this speaker to turn down your lights, put on a Netflix show, and set your alarm for the following morning. The smart speaker's functions and support for third-party apps will get better over time - it can't play Google Play Movies or Apple Music, for example - but even Apple users should find plenty of uses for it.
+
+Elgato Eve Room
+
+4 out of 5 stars / $139.95 /
+
+Is the room cold or is it just you? This cube-shaped smart device can give you a definitive answer as it's equipped with sensors that measure the important indoor comfort levels: the temperature, humidity, and air quality. It sends the details to a connected iPhone app and is quickly set up using Apple HomeKit technology. The app also plots its findings in a graph so you can find out when air quality dips and work out why. Simple but useful.
+
+Philips Hue White Starter Kit
+
+4 out of 5 stars / $144.95 /
+
+Smart lights offer more than just a way to make it look like someone's in your unoccupied home and this kit can show users some of the possibilities. The Hue kit features two smart light bulbs and a Hue Bridge that connects to your modem and acts like a hub. Connecting them with the Hue app can be tricky (be prepared to write down the bulb's serial number before installing it), but when they're working you can order Apple's Siri or Google's Home speaker to turn them on and off, set a schedule, make them work as an alarm, or even set them to turn on automatically when your return home.
+
+Nokia Body Cardio
+
+4 out of 5 stars / $319.95 /
+
+This smart Nokia device is much more than a set of scales, and even outperforms other smart scales in terms of features. The slim Body Cardio device of course measures a user's weight, but it also estimates their levels of fat, muscle and bone mass, water percentage, and calculates their Body Mass Index figure. Unusually, it also measures pulse rate through the user's feet, and "pulse wave velocity" as a measure of overall heart health. All of this information is transferred over a wi-fi network to the Nokia Health Mate app, which plots progress (or lack of it) over time. It will recognise up to eight users, allowing a whole household to get involved, and it will also tell you weather forecast so you know whether to get outdoors and exercise after seeing the potentially damning news.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Elgato Eve Room</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wemo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spotify</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's Siri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nokia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nokia Body Cardio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Music</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Play Movies</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Apple Music</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philips Hue White Starter Kit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nokia Health Mate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Body Cardio</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Body Mass Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's HomeKit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hue Bridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Google Wifi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philips</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Uber</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

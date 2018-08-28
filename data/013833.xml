@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422411606482057</docid>
+  <date>03/08/2017</date>
+  <time>21:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/carlson-capitals-thematic-fund-is-down-14-through-july-2017-2017-8</url>
+  <title>'Cryptocurrency mania' burned a $1 billion hedge fund that was betting against chipmakers</title>
+  <content>
+Dallas-based Carlson Capital's Black Diamond Thematic fund has lost 14.2% net this year through July 31, according to a client update reviewed by Business Insider, and bitcoin mania is partly to blame.
+
+The $US1 billion equity long-short fund had been up about 10% after fees around this time last year, . Carlson Capital manages about $US9 billion firmwide.
+
+"We are
+naturally disappointed by the performance of the first half of 2017," the portfolio managers, Richard Maraviglia and Matthew Barkoff, wrote in the fund's second-quarter letter, which was also reviewed by Business Insider.
+In the letter, dated June, Maraviglia and Barkoff said their fund remained short the stock market, notably in the semiconductor space. But the surge in interest in bitcoin and ethereum has pushed shares of semiconductor makers higher. Their chips are used in the computers that solve complex equations to mine for cryptocurrencies.
+
+From the letter (emphasis added):
+
+"Our biggest short theme since the first quarter has been semiconductors where we see high inventories, double ordering, massive capex supply responses and actual pockets of weakening demand in smartphones, autos, and the Chinese optical market. Nonetheless, the sector has turned into something of a bubble characterised best by the surge in GPU stocks, Advanced Micro Devices and Nvidia, driven by a cryptocurrency mania. Bitcoin and Ethereum have fallen sharply over the past month, and we believe they will fall a lot more. We believe the other side of this incredibly powerful consensus move in technology will be very profitable for us but to date, it has been a significant drag on performance."
+
+Carlson's flagship fund, Double Black Diamond, LP, is also down for the year, losing -2.1% this year through the end of July. That fund had just over $US5 billion in assets as of 2013, .
+
+The firm has seven funds in total. Here's Carlson's scorecard for the firm's five other funds, this year through July 31:
+
+Double Black Diamond, LP: -2.1%
+
+Black Diamond Partners, LP: -3.7%
+
+Black Diamond Relative Value Partners, LP: -3.2%
+
+Black Diamond Arbitrage Partners, LP: 6.2%
+
+Black Diamond Mortgage Opportunity, II: 5.6%
+
+Black Diamond Energy, LP: -6.8%
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>LP: 6.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Double Black Diamond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond Relative Value Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond Mortgage Opportunity</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 31</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond Arbitrage Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nvidia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-based Carlson Capital's Black Diamond Thematic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ethereum</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$5</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LP: -2.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LP: -3.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LP: -3.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>II: 5.6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Barkoff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carlson Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maraviglia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LP: -6.8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Maraviglia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Advanced Micro Devices</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPU</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carlson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barkoff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

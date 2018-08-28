@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416789494184525</docid>
+  <date>02/08/2017</date>
+  <time>23:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/windows-10-insider-preview-build-16257-new-features-and-bugs/</url>
+  <title>Windows 10 Insider Preview Build 16257 - New Features And Bugs</title>
+  <content>
+If you're living on the edge and running the Fast ring preview releases of Windows 10 for PC and mobile an update is available today. A bunch of features and enhancements have arrived including enhancements to everyone's favourite tool for downloading Chrome - Microsoft Edge - as well as a new Eye Control feature.
+
+Eye Control
+
+The centrepiece of this release is Eye Control.
+
+Eye Control is focussed on people with disabilities operate an on-screen mouse, keyboard, and text-to-speech experience using only their eyes. It requires a compatible eye tracker.
+
+As well as the applications for assisting people with disabilities I can imagine lots of other applications in UX design and gaming.
+
+Refinement and tweaks
+
+Microsoft Edge gets a number of updates including changes to the address bar, a fix for the bug where right-clicking an image and choosing "Copy" resulted in the image's URL going to the clipboard rather than the image, and issues with closing tabs when in full screen mode.
+
+The Windows Console now supports a full 24-bit RBG colour palette and the default colours have been tweaked to make text easier to read on modern displays.
+
+Windows Defender Application Guard receives some love with fixes for some known issues and new status messages to provide more information while it's running.
+
+There's a lot more detail over at the . A
+
+I run the Fast ring updates on my Lenovo Miix 510 and, while there are the occasional glitches (like invisible notifications) it's pretty stable.
+
+But the old YMMV warnings apply. Don't run pre-release software on mission critical systems.
+
+If you're looking for a new Windows Server Insider Preview build, you'll need to wait as that's not quite ready yet.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Microsoft's Edge</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>UX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Defender Application Guard</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Windows Console</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Windows Server Insider Preview</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Preview Build 16257</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eye Control</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windows 10</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RBG</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NEW FEATURES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YMMV</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lenovo Miix 510</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

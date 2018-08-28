@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442374614713849</docid>
+  <date>07/08/2017</date>
+  <time>02:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/the-warnings-from-history-that-wall-street-ignored-20170807-gxqq41</url>
+  <title>The warnings from history that Wall Street ignored</title>
+  <content>
+by
+John Authers
+
+After the credit crisis began to unfold in the summer of 2007, many on Wall Street and in the City of London complained it was unprecedented and had been impossible to see coming.
+They were wrong. Speculative bubbles are rooted deep in human nature, and have been widely studied. History's most famous bubble took root in the Netherlands almost four centuries ago - for tulips.
+The common elements to speculative bubbles are:
+● An exciting and new "disruptive" technology that is difficult to value in the short term, and whose long-term value is uncertain.
+
+● Easy liquidity of markets so that shares or other securities can change hands quickly.
+
+● The provision of cheap credit to pay for it.
+These classic elements were visible in, for example, canals and railroads, which both enjoyed speculative bubbles in the 19th century.
+In the 20th century, economic history was marked by a series of huge bubbles in critical markets. All followed almost identical patterns, and had a serious economic impact. What was new about the 2008 crisis was that it was truly the Global Financial Crisis - the first of its kind.
+Relaxed capital controls, computerised trading and the huge sums that investment firms were investing on behalf of the US "baby boom" generation created what the hedge fund manager George Soros called a "super bubble".
+
+Capital chased around the world, forming bubbles as it went. Once the Nasdaq bubble deflated, money flowed into US homebuilders, and then into Chinese and emerging market stocks, and then into oil and other commodities - before all markets crashed together in late 2008.
+Financiers should have had clear warning of the emerging international bubble from the way that many different markets, previously distinct from each other, had become synchronised. Perverse correlations linked commodities, currencies, stocks and bonds, and crossed all geographic boundaries. Even countries as different as Hungary and South Korea traded in alignment.
+The fuel for all of this was a historic bubble in credit, making finance cheap for speculators everywhere. By the spring of 2007, the credit market was pricing low-quality US mortgage loans as though they were certain to be repaid in full.
+In the summer of 2007, very suddenly, investors realised that default risks were far higher than that, and credit markets collapsed. By August 2007, it should have been evident that the world financial system was at grave risk of a financial crisis.
+
+The worst was still more than a year away. So why were regulators, politicians, banks and investors so unprepared when the crisis broke?
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August 2007</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Authers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Global Financial Crisis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hungary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>City of London</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>George Soros</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

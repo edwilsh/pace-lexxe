@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412614785888401</docid>
+  <date>02/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4828889/fighting-fit-no-honour-in-kicking-when-theyre-down/?cs=304</url>
+  <title>Kicking someone when they're down is never OK</title>
+  <content>
+Hit him when he's down: The rules in UFC and cage-fighting hardly encourage honorable behaviour.
+
+What kind of person would kick someone when they're down? More people seem not only wiling to do it, but delight in it.
+
+As a journalist I'm unfortunate enough to have seen a vast array of CCTV recordings of fights in malls, outside casinos, on trains, and so on. Things have changed.
+Kicking someone when they're down was once so universally understood as being below-the-belt that it even became an idiom, a phrase that implied a low blow. Kind of like "below the belt" itself. But now this argument is becoming circular.
+
+I'm a writer not a fighter but I have good eyes, and this seems to be a change that's gone down in my lifetime. Let's not even talk about shootings in Sydney. Ask an old baby boomer and he'll tell you there weren't even knives in the barneys post-war.
+
+It doesn't help that we have this huge (and hugely strange) boom in popularity for cage fighting, most notably UFC. While the civilised fighter steps back when an opponent is felled, the UFC guy jumps on immediately, punching and kicking away in a frenzy.
+Last week I walked into a servo to pay for fuel. A customer, looking tough in his Carl Williams tracksuit, was joking with the two women working there, one of whom was kneeling on the floor.
+"What did you think when I was kneeling?" one said. "It just made me wanna kick you," the tough guy replied. The two women working there laughed. He continued: "I like kicking people when they're on their knees." More laughter. Hahahaha. "But I wouldn't do that to a female." Hahahaha.
+Of course many women have had to learn how to laugh off male threats or harrassment, treating it as humorous to deflect a threat. The two workers seemed actually amused. But I can't know what they were thinking so I won't pretend I do.
+
+But the tough guy thought he was very cool. Strolled out with his strawberry milk, hopped in the car and his mum drove away.
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UFC</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Carl Williams</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

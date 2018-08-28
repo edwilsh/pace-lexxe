@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404669096247693</docid>
+  <date>01/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/bell-potter-beats-drum-for-tech-company-xref-20170801-gxmqsc</url>
+  <title>Bell Potter beats drum for tech company Xref</title>
+  <content>
+Human resources technology company Xref is in front of fund managers and sophisticated investors on Tuesday, seeking an equity injection with the help of Bell Potter Securities. 
+The company's shares went into a trading halt as Bell Potter launched a $6 million share placement. 
+The broker was seeking to place shares at 60¢ each, which was a 1.6 per cent discount to the last close. 
+Funds raised were for marketing and co-promotional activities with "channel partners", according to terms sent to potential investors. 
+
+Xref has an online software platform that allows employers to conduct reference checks on new hires.
+
+The company had a $100.2 million market capitalisation at the last close, on a fully diluted basis. 
+Bell Potter was seeking buds by midday on Wednesday. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Xref</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bell Potter Securities</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bell Potter</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

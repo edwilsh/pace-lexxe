@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439505576527637</docid>
+  <date>06/08/2017</date>
+  <time>15:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/pindrop-phone-fraud-detection-tech-raises-75m-2016-1</url>
+  <title>Pindrop can pick up when someone is trying to steal your identity over the phone</title>
+  <content>
+Vijay Balasubramaniyan was on vacation in India when he bought a new suit.
+
+At 3 a.m., his phone rang. It was the bank, or so the person on the other end of the line told him. They wanted to confirm that Balasubramaniyan made the transaction...but first, he had to give them his account number and Social Security number.
+
+He had no idea which transaction they were referring to - he'd been using the same credit card his whole trip. And the bank (or a random person calling him in the middle of the night) wouldn't tell him.
+
+After 30 minutes of back and forth, Balasubramaniyan was able to get them to cancel the transaction. A few days later, he returned to get his suit, only to find out that the purchase had been reversed.
+
+It was infuriating that his bank had no way to verify his identity other than asking him for sensitive information, and he had no idea of verifying the bank's identity either.
+
+Balasubramaniyan spent six years working on his Ph.D. at the Georgia Institute of Technology and studying the traits of wanted versus unwanted phone calls. In 2011, he launched , as the culmination of his experience.
+
+"What we're doing here is trying to identify the origins of a call purely from the audio you're receiving at your end," Balasubramaniyan told Business Insider
+
+It's now used in three out of the top four banks to help detect fraud, and in a rare move, has received investments from both Google's venture arm, GV, and Google's corporate investment arm, Google Capital.
+
+The company plans to announce today a new $75 million Series C investment, led by Google Capital, bringing its total raised to more than $122 million.
+
+How phone fraud works
+
+Robbing a bank used to mean walking in with a gun and walking out with a bag of money, Balasubramaniyan said.
+
+But in 2016, the rules have changed. Now hackers target banks and other organisations to steal people's identities and money. And increasingly, they're doing it over the phone.
+
+"These fraudsters are not only good at getting a lot of this information, but they're also masterful at socially engineering these conversations," Balasubramaniyan said.
+
+"One of my favourite calls is that the agent asks 'What is your mother's maiden name?' and the fraudster says 'Well my dad remarried twice, so can I have three guesses?' Even if your dad marries twice, you should only have one mum. It doesn't make sense. But, on the last guess, the fraudster guesses 'Smith' which is right, and so he gains access and wires $19,000 to a bank in Europe."
+
+At that point, it's human versus human to get into the system, but Pindrop wants to change that.
+
+The company has spent the last five years building up a digital library of audio traits that can pinpoint where and what kind of call is coming through. If the service or the geography seems like an anomaly, or if it looks like the same kind of phone print that it's picked up over and over again, then Pindrop can flag the call as a possible risk.
+
+For instance, banks might see a phone call come in with an Atlanta phone number, but Pindrop can recognise that it's actually a Skype call coming in from Nigeria because it's got "packet loss," so "pindrop"-sized bits of audio drop out. (That's where the name came from.)
+
+With its new funding, Balasubramaniyan wants to expand overseas, where phone fraud is both more common and more costly. And he says that Pindrop's next product will focus not on identifying the bad guys, but on verifying the good ones too.
+
+The internet of things industry, including a future of connected watch, rings, and Amazon Echoes, are all increasingly reliant on voice. Giving anyone who can directly access the device licence to operate it is only a growing threat.
+
+"The biggest problem is, as these things are moving to voice, there's no one providing security, trust, and identity to it," Balasubramaniyan said.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Balasubramaniyan</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>GV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Echo</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Skype</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vijay Balasubramaniyan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Smith</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Series C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Georgia Institute of Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pindrop</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nigeria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Capital</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Social Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ph.D</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atlanta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

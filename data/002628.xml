@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400155085534562</docid>
+  <date>31/07/2017</date>
+  <time>07:08</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/rangers-working-to-help-two-beached-whales-stuck-between-fraser-island-and-mainland/news-story/7f4afa294cdb256197d9899b9cbdcbc9</url>
+  <title>Whales stranded off Fraser Island</title>
+  <content>
+RANGERS are working frantically to comfort two beached whales stuck between Fraser Island and the mainland.
+Queensland Parks and Wildlife Service rangers were heading to a nearby island to undertake a planned burn when they spotted the two live whales on Sheridan Flats southwest of Ungowa around 9.30am this morning.
+The department said the 10 and 12m humpbacks were stranded in a similar spot to where a pod of killer whales were successfully freed in 2013.
+Rangers are currently waiting for high tide hoping the whales will refloat.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wildlife Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Parks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheridan Flats</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ungowa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fraser Island</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

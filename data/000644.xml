@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398656141927552</docid>
+  <date>31/07/2017</date>
+  <time>01:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/property/hia-says-new-homes-sales-fall-sharply-in-june-20170731-gxm1on.html</url>
+  <title>HIA says new homes sales fall sharply in June</title>
+  <content>
+Sales of new homes fell sharply in June to the lowest since 2013, though conditions were markedly different across states, an industry survey showed on Monday.
+The Housing Industry Association (HIA) said its survey of large-volume builders showed new home sales fell a seasonally adjusted 6.9 percent in June, from May, reversing two months of gains.Photo: Rob Homer
+Sales of detached houses fell 5.7 per cent, while apartment sales dropped 10.7 per cent.
+Total sales in June were down 11.9 per cent on the same month last year.
+Results by states were mixed, with sales of houses falling in NSW, South Australia and Queensland, but rising in Victoria and Western Australia.
+HIA said the survey captured 9 per cent of Australia's new home building sector.
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Housing Industry Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HIA</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Rob Homer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

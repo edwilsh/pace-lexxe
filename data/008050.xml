@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411541044047968</docid>
+  <date>02/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/moreton/new-free-bus-service-being-trialled-to-help-people-get-to-caboolture-markets/news-story/4a3eb77a5e971652a8cae7e34c3612cf</url>
+  <title>New free bus service</title>
+  <content>
+A NEW free bus service will start in Caboolture on Sunday.
+The service is being trialled to help more people get to the Caboolture Country Markets.
+It will run from Morayfield Station at 8am, 8.45am, 9.30am with five minutes between stops. The return from the showground leaves at 10.15am, 11am, noon.
+To the showgrounds the route is: Morayfield Station, Morayfield Shopping Centre, Caboolture Park Shopping Centre, King Circle, Caboolture Station, Caboolture Hospital and Caboolture Showgrounds.
+From the showground the route is: Caboolture Hospital, Caboolture Station, Caboolture Park Shopping Centre, King Circle, Morayfield Shopping Centre and Morayfield Station.
+The service is being run by Caboolture Show Society for the Sunday markets.
+"We have a lot of people wanting to go to the market, but don't have a car," Caboolture Show Society secretary Michelle Goullet said.
+"So we were thinking of ways to help them. Caboolture Bus Lines actually contacted us last year about this (service)."
+The bus will have room for two wheelchairs and the service will be trialled for two months.
+Caboolture Country Markets are held every Sunday, 6am-noon at Caboolture Showgrounds with more than 500 stalls. Visit caboolturecountrymarkets.com.au
+</content>
+  <sindexList>
+  <sindex>
+    <name>Caboolture Hospital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture Station</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morayfield Station</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morayfield Shopping Centre</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture Show Society</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture Country Markets</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture Showgrounds</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture Park Shopping Centre</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>King Circle</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michelle Goullet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture Bus Lines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

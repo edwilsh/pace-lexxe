@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403981901468742</docid>
+  <date>31/07/2017</date>
+  <time>21:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melbourne-weather-forecast-city-shivers-through-first-august-morning/news-story/3de51454165f375add650b95ced8b13d</url>
+  <title>Melbourne's freezing start to August</title>
+  <content>
+MELBURNIANS are finding it a little difficult to get out of bed this morning, with temperatures of zero in some suburbs.
+The mercury dipped to 0C at Avalon and Coldstream, and it was only a little warmer in the city where temperatures fell to 3.9C.
+Morning fog is covering some parts of the eastern suburbs, but it won't hang around for long as the warm sun peaks through.
+Bureau of Meteorology forecaster Dean Stewart said Melbourne will be mostly sunny with a top of 15C.
+Light winds are expected.
+"Some fog may redevelop tonight over Melbourne," he said.
+July was a drier than average month and it is expected to continue into August.
+"There is an increased chance of below average rainfall across the state for August," Mr Stewart said.
+"It will likely be drier than normal for next few months across Victoria.
+"Maximum and minimum temperate may be slightly above average."
+SEVEN DAY FORECAST
+TUESDAY - Mostly sunny 15C
+WEDNESDAY - Partly cloudy 16C
+THURSDAY - Shower or two 12C
+FRIDAY - Partly cloudy 15C
+SATURDAY - Shower or two 15C
+SUNDAY - Possible shower 14C
+MONDAY - Partly cloudy 15C
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Avalon</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coldstream</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Day Forecast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melburnians</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

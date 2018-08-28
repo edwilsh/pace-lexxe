@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437014495473094</docid>
+  <date>06/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/pm-urged-to-step-up-indigenous-schooling/news-story/89556ccd755c36fee2c46724657f9612</url>
+  <title>PM urged to step up indigenous schooling</title>
+  <content>
+The grandson of land rights champion Galarrwuy Yunupingu says young Aboriginal kids from remote communities are being forced to choose between a decent education and their culture.
+Michael Gadingura Yunupingu grew up in Adelaide without a traditional Yolngu upbringing, but had the schooling many children from remote Arnhem Land communities are denied.
+"We all, Balanda [white people] and Yolngu have to work together to figure out a way in which kids can carry on our culture yet gain as much education as possible," he told the Garma Festival in Arnhem Land.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Balanda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arnhem Land</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Yolngu</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Garma Festival</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Galarrwuy Yunupingu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Gadingura Yunupingu</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

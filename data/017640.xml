@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429536957345376</docid>
+  <date>05/08/2017</date>
+  <time>01:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/magnitude-60-quake-hits-philippines/news-story/e353dbeea6a9d2b2fb2089fecc727084</url>
+  <title>Magnitude 6.0 quake hits Philippines</title>
+  <content>
+SIMON BENSON
+
+A dramatic security clampdown will be imposed at domestic airport terminals, similar to those for international flights.
+
+PAUL MALEY
+
+During the height of the Syrian war, a senior IS fighter sent a text message to his brother in Australia.
+
+GREG BROWN
+
+A former senior AMA official has lashed out at the medical body's campaign for same-sex marriage, accusing it of using false information.
+
+PRIMROSE RIORDAN
+
+If Turnbull were ousted as PM, Dutton would not stand aside for Abbott or Bishop, a new chapter by Niki Savva says.
+
+David Kilcullen
+
+US troops are ready for a North Korean strike. With the continental US itself under -direct threat, there may be no other option.
+
+Chris Kenny
+
+Malcolm Turnbull needs a win to give his colleagues a star by which to navigate.
+
+Janet Albrechtsen
+
+The findings of a report into campus sexual assault shows overreach in hysteria about predatory males.
+
+NICOLA BERKOVIC, ANDREW WHITE
+
+Suburban Commonwealth Bank staff raised the alarm about the organisation's 'crazy' lack of security- measures.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Syrian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bishop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew White</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janet Albrechtsen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Abbott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dutton</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SIMON BENSON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Kilcullen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Kenny</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PAUL MALEY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NICOLA BERKOVIC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GREG BROWN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Primrose Riordan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NIKI SAVVA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

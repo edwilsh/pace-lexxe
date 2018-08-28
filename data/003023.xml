@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402525907529125</docid>
+  <date>31/07/2017</date>
+  <time>16:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/amazon-stock-price-falls-below-1000-2017-7</url>
+  <title>Amazon falls below $1,000</title>
+  <content>
+fell below $US1,000 for the first time in weeks. The stock last closed below $US1,000 on July 11.
+
+Shares of Amazon are down 2.15% on Monday, and hovering around $US998.15.
+
+Amazon's chief executive,  on the day before the company reported its quarterly earnings, but lost that title shortly after when the stock was sent lower after earnings. Most of Bezos' net worth is held in shares of Amazon.
+
+Investors are worried about Amazon's massive reach. Amazon announced it was acquiring Whole Foods in a move many see as the company expanding its food delivery business while also adding more brick and mortar stores to its empire. After the move was announced, and no other bidders seemed interested, many started  before regulators stepped in.
+
+The Amazon-Whole Foods deal sent shockwaves through multiple other sectors,
+
+Meal-kit delivery service Blue Apron was perhaps the most notable casualty. The company had to lower its expected IPO range after Amazon announced the deal, and is down 33.07% since its IPO.
+
+Democratic lawmakers announced a new section of their platform called "" which focuses, in part, on restricting "mega-mergers." The plan doesn't call out Amazon specifically, but  to the Department of Justice and the Federal Trade Commission asking the two groups to take a more in-depth look at the Whole Foods acquisition.
+
+Executives of other companies were even more worried about Amazon's reach than they were about the political struggles surrounding President Donald Trump. In earnings calls , Amazon was brought up 635 times, while the controversial US president was mentioned only 162 times.
+
+Amazon is up 32.38% this year.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon-Whole Foods</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1,000</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US998.15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whole Foods</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPO</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Trade Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bezos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>11</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Blue Apron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

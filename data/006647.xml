@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409866006773250</docid>
+  <date>01/08/2017</date>
+  <time>20:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/young-woman-groped-on-melbourne-tram/news-story/cc7d647527fcfbe03cc4cc3e1ff5fba5</url>
+  <title>Woman groped on Melbourne tram</title>
+  <content>
+A YOUNG woman has been groped on a tram during a brazen assault in Airport West.
+The victim, believed to be in her early 20s, was travelling outbound on the 59 tram last Thursday about 12pm when the unknown man approached her.
+The distraught woman alerted the tram driver to the assault after the offender got off the tram at the intersection of Fletcher Street, Napier Street and Mount Alexander Road, Essendon.
+The driver urged the woman to report the assault to police but she is yet to make that report.
+The man in believed to be caucasian appearance with white, balding hair and about 183cm tall with a thin build.
+The tram driver described the woman as being perceived to be of Asian appearance, possibly Chinese, and aged in her early 20s.
+Detectives from Transit Crime Investigation Unit are appealing for witnesses and urging the woman to come forward and report the matter to police.
+Anyone with information is urged to contact Crime Stoppers on 1800 333 000 or submit a confidential crime report online at .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Fletcher Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Alexander Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Airport West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Essendon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Napier Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transit Crime Investigation Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

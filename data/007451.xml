@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411072892605286</docid>
+  <date>02/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/detectives-want-information-about-shooting-of-woman-in-glenroy-in-march/news-story/37fd38a8e4ef7bdc16dbf94a7a594412</url>
+  <title>Cops want clues to why Glenroy mum shot</title>
+  <content>
+DETECTIVES are appealing for public help to solve the shooting of a Glenroy mum in the doorway of her home earlier this year.
+Leonie Stuart, 52, was shot in the chest through the wire door of her Hubert Avenue home at about 11:50pm on 2 March this year.
+Ms Stuart suffered life threatening injuries and spent more than two weeks in hospital.
+It is believed a dark grey 4WD fled the scene and was last seen travelling south along Hubert Avenue towards Hilton Street.
+Armed Crime Squad detectives are appealing for public assistance and are keen to speak to any witnesses or anyone that saw any suspicious activity in the area around that time.
+Investigators did receive information from Crime Stoppers that a motorcycle was seen in the area at the time of the shooting and would like that caller to call back.
+Anyone with information is urged to contact Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hilton Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Squad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leonie Stuart, 52</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenroy</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Stuart</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Hubert Avenue</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418284142826988</docid>
+  <date>03/08/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/south-australian-state-library-evacuated/news-story/03d3e4887aac891f039261ef52c39def</url>
+  <title>South Australian State Library evacuated</title>
+  <content>
+The South Australian State Library was evacuated for a short time on Thursday after paint fumes from a restoration project caused library patrons to feel ill.
+The Metropolitan Fire Service said several people were treated at the scene by ambulance crews.
+The MFS tracked the source of a problem to paint primer fumes which had spread through the air conditioning system, and used specialist equipment to ventilate the building.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>MFS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian State Library</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

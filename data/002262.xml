@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400898114890120</docid>
+  <date>31/07/2017</date>
+  <time>10:01</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/amatil-welcomes-container-deposit-scheme/news-story/12ba8e4b914264db447b756fca8039d5</url>
+  <title>Amatil welcomes container deposit scheme</title>
+  <content>
+Newsbites Finance
+
+Share
+
+Coca-Cola Amatil welcomes the NSW Government's decision to appoint Exchange for Change as scheme coordinator for the container deposit scheme.
+Exchange for Change is an industry JV consisting of Coca-Cola Amatil, Asahi, Carlton & United Breweries, Coopers, and Lion.
+Through Exchange for Change, Amatil will continue to work with the industry and NSW Government to ensure the scheme operates efficiently to minimise the impact to customers and consumers, has robust and transparent governance, and achieves the targeted environmental outcomes.
+</content>
+  <sindexList>
+  <sindex>
+    <name>JV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Breweries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asahi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amatil</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Coca Cola Amatil</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Coopers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Government</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Carlton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

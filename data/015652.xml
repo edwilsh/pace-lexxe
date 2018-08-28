@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424391586437932</docid>
+  <date>04/08/2017</date>
+  <time>05:11</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/emission-levels-up-over-year-report/news-story/a29c1d2b39a1b8f5dcb69c33d21d8e29</url>
+  <title>Emission levels up over year: report</title>
+  <content>
+Australia's emissions have risen one per cent over the year to March, mainly due to an increase in LNG exports.
+The latest update of the National Greenhouse Gas Inventory also showed emission levels, excluding the land use and forestry sector, rose by 1.6 per cent during the March 2017 quarter.
+Climate Council chief Amanda McKenzie said the federal government was failing the one test of a climate policy, to cut pollution levels, and if it wasn't for action by state governments the figures would be worse.
+</content>
+  <sindexList>
+  <sindex>
+    <name>LNG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amanda McKenzie</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Greenhouse Gas Inventory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

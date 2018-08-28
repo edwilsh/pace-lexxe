@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437959388286461</docid>
+  <date>06/08/2017</date>
+  <time>09:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/opinion/columnists/why-the-dow-is-on-shaky-ground-20170805-gxq6q8</url>
+  <title>Why the Dow is on shaky ground </title>
+  <content>
+All eyes were on the Dow Jones Industrial Average last week as it breached 22,000 for the first time after notching up records for.
+But some analysts warn that headlines trumpeting the Dow's dazzling rise have blinded investors to some disturbing trends beneath the market's surface.
+The first thing to note, they say, is that the Dow is a highly concentrated portfolio of just 30 US blue-chip companies and a rise in one company's share price, particularly if it's a highly priced stock, can boost the overall index. Last week strong run ups in the share prices of Apple and 3M hoisted the benchmark to a record. The week before, Boeing was the main driver.
+But there is a divergence between the performance of various Dow companies. Stocks such as Apple, Boeing and McDonald's have done the bulk of the work in propelling the benchmark higher, while other Dow stocks have lagged well behind.
+
+General Electric - the Dow's oldest member - has fallen by just over 20 per cent from the high it reached last December, while IBM is down just slightly more than 20 per cent from its March high, which means that both stocks meet the technical definition of a bear market move.
+
+Another cause for concern is the warning signal from the Dow Jones Transportation Average. According to classic Dow theory share prices for companies that produce the goods should move in tandem with the share prices of companies that transport them. But after peaking in July, the transports have slumped by 4.8 per cent.
+And the failure of the tech-heavy Nasdaq to follow the Dow higher is also causing some anxiety. The Nasdaq has been inching lower since hitting a peak in late July.
+Better reading
+
+It's because the Dow is so highly concentrated that many analysts believe that the Standard & Poor's 500 index - which is based on the market capitalisation of 500 large listed companies - provides a better reading of the market's overall health.
+
+And although the S&P 500 is clearly moving higher (it has risen in eight of the past nine months) and is hovering near record highs, its gains have been far less spectacular than those of the Dow. Indeed, the S&P 500 has climbed only 3.4 per cent since the beginning of March, while the Dow is up 4.6 per cent.
+But some analysts argue that the surging popularity of indexed funds means that even the S&P 500 is providing a distorted picture of the US share market's robustness. They point out US stocks have been the best performing asset class in the world for three years running - returning an average of nearly 16 per cent annually - which has prompted investors to pour huge amounts of money into the market.
+The trouble is that most investors who had their money invested in higher-cost actively managed funds didn't enjoy better returns. This has prompted a massive shift towards lower-cost indexed funds, with about $US500 million ($630 million) flowing out of active to passive funds in the first half of 2017. It's estimated that around $US2.2 trillion in assets are indexed to the S&P 500.
+Analysts argue that because the lion's share of new investment money flows into index funds, this is simply pushing the prices of highly valued stocks up even further. In the past, active fund managers would have helped to rectify this imbalance by loading up with cheap stocks that the market had under-priced.
+
+Waning influence
+
+But active management is now in decline, and US hedge fund manager Paul Singer says their waning influence has jeopardised the efficient operation of the entire market.
+"Passive investing is in danger of devouring capitalism," he wrote in a July letter to Elliot Management hedge fund investors.
+"What may have been a clever idea in its infancy has grown into a blob which is destructive to the growth-creating and consensus-building prospects of free market capitalism."
+
+Elliott Management is well known to Australian investors after it built a stake in  and started pressing the Australian resources giant to make big changes to its strategy.
+Singer added there was a real likelihood that passive investing "and its apparent stability, is unsustainable and brittle".
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>McDonald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$500</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IBM</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Boeing</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Transportation Average</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>General Electric</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>11</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Elliot Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Poor's 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Singer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elliott Management</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$2.2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

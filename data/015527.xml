@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423833240681329</docid>
+  <date>04/08/2017</date>
+  <time>03:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/04/selected-highlights-from-the-trump-turnbull-phone-conversation/</url>
+  <title>Selected highlights from the Trump-Turnbull phone conversation - Crikey</title>
+  <content>
+Even when said in jest, there must a particularly icy sweat coating the brow of anyone to whom Donald Trump can say "you're worse than I am" with any grain of truth. This is one of the key phrases our media has latched onto in its coverage of the full transcripts - leaked by The Washington Post - of that infamous call concerning Australia's refugee resettlement deal with the US.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crikey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Trump-Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

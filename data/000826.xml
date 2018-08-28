@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398784990948248</docid>
+  <date>31/07/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/blogs/andrew-bolt/cambridge-student-groups-race-hate-all-white-people-are-racist/news-story/3875d4fd5a783af4d7addd2da1932c1e</url>
+  <title>CAMBRIDGE STUDENT GROUP'S RACE HATE: "ALL WHITE PEOPLE ARE RACIST"</title>
+  <content>
+"Cambridge University is investigating remarks by the head of [the university students' Black and Minority Ethnic Campaign] who claimed 'all white people are racist' and praised protesters who clashed violently with police." Black Lives Matter was just the start.
+Jason Osamede Okundaye, 20, who runs the university students' Black and Minority Ethnic Campaign, posted the comment on Twitter on Friday night after protests over the death of Rashan Charles turned violent and police were attacked in London.
+Tweets from his account encouraged the protesters and claimed that white people had "colonised" the Dalston neighbourhood of east London. Police are also investigating his remarks.
+One tweet said: "Watching these middle-class white people despair over black people protesting in their colonised Dalston is absolutely delicious." Another read: "ALL white people are racist. White middle class, white working class, white men, white women, white gays, white children they can ALL geddit."
+</content>
+  <sindexList>
+  <sindex>
+    <name>CAMBRIDGE STUDENT GROUP'S RACE HATE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jason Osamede Okundaye, 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Lives Matter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rashan Charles</name>
+    <count>1</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Dalston</name>
+    <count>2</count>
+    <score>-12</score>
+  </sindex>
+  <sindex>
+    <name>Cambridge University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WHITE PEOPLE ARE RACIST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Minority Ethnic Campaign</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

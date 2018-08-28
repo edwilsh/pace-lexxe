@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404282549184457</docid>
+  <date>31/07/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/asx-wall-st-aud-share-market-wrap/8761624</url>
+  <title>Reserve Bank interest rates, Aussie dollar jumps, Wall St mixed, ASX set for weak open</title>
+  <content>
+The Australian share market is headed for a weak start when the ASX opens for trading.
+
+Market snapshot at 8:00am (AEST):
+
+ASX SPI 200 futures flat at 5,660, ASX 200 (Monday close) +0.3pc at 5,721
+AUD: 80.00 US cents, 60.55 British pence, 67.56 euro cents, 88.21 Japanese yen, NZ$1.07
+US: Dow Jones +0.3pc at 21,891, S&P 500 -0.1pc at 2,470, Nasdaq -0.5pc at 5,880
+Europe: FTSE +0.1pc at 7,372,  DAX -0.4pc at 12,118, Eurostoxx50 -0.5pc at 3,449
+Commodities: Brent crude +0.2pc at $US52.62/barrel, spot gold flat at $US1,269/ounce, iron ore +7.2pc at $US73.70/tonne
+
+ASX SPI futures are flat and Wall Street is providing a weak lead.
+The Australian dollar has also managed to climb back above the 80 US cent mark, just as the Reserve Bank board is due to meet and decide what Australia's interest rate should be this month.
+In addition, the price of Australia's top export, iron ore, surged to almost $US74 per tonne (up 7 per cent overnight).
+Investment bank Goldman Sachs has also raised its three-month iron ore forecast.
+
+External Link:
+
+Iron ore tweet
+"We continue to expect prices to begin to decline by year-end ... on anticipated strong supply growth and a China-led slowing in steel demand growth," the bank said in a release.
+RBA rate call
+
+The RBA is widely expected to maintain interest rates at 1.5 per cent when it announced its decision at 2:30pm (AEST) - as it has done for the last eleven months.
+After all, the issues that have plagued the Australian economy for some time - underemployment, persistently weak wage growth and record high household debt - have not gone away.
+The market will also be paying close attention to what the RBA has to say about the recent strength of the local currency, which has been at a two-year high against the greenback these past few weeks.
+Last week, RBA governor Philip Lowe said that one challenge the central bank faces is pushing inflation back to its target range of 2-3 per cent, despite record low interest rates.
+He also pushed back on the idea of announcing further rate cuts or increases.
+"Just as we did not move in lockstep with other central banks when the monetary stimulus was being delivered, we don't need to move in lockstep as some of this stimulus is removed," Dr Lowe said.
+Most economists expect Australia's interest rates to remain at its current level for the remainder of the year, and some are forecasting steady rates throughout 2018 as well.
+What happened on Wall St?
+
+Wall Street started the trading week with a mixed performance.
+While the Dow Jones Industrial Average hit a fresh record, the S&P 500 and Nasdaq went backwards.
+The majority of American sectors did well - with the energy and financial sectors on top, while technology was the worst performer.
+The biggest boost to the Dow was aviation company Boeing, while a sell-off in Facebook and Alphabet (Google's parent company) weighed on the US equity market.
+Apple's earnings results will the focus tomorrow but, in the meantime, its share price has fallen 0.5 per cent in after-hours trade (at 8:33am AEST).
+Overall, it has been a strong corporate earnings season - as 73 per cent of the S&P 500 companies that have reported their results so far have exceeded market expectations.
+Three-quarters of the companies that have posted their second-quarter results so far have exceeded market expectations.
+This week will also be a busy one for earnings on Wall Street as more than 1,200 companies are due to report in the next few days.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US73.70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX SPI 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Lowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUD: 80.00 US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.62</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>P 500 -0.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAX -0.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Boeing</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eurostoxx50 -0.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq -0.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX SPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NZ$1.07</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones +0.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTSE +0.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's LED</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Lowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,269</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US74</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

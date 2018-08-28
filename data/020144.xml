@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437877783907171</docid>
+  <date>06/08/2017</date>
+  <time>09:31</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-06/match-report-crows-crush-power-in-showdown-fizzer</url>
+  <title>Match report: Crows crush Power in Showdown fizzer</title>
+  <content>
+Crows celebrate their big win
+
+ADELAIDE has inched closer to the minor premiership and severely dented Port Adelaide's top-four hopes with a 84-point walloping in Sunday's Showdown.
+
+The Power kicked the first goal, but from then on it was all Adelaide as the Crows piled on the next seven to cruise to the 18.22 (130) to 7.4 (46) victory.
+
+The margin was the biggest ever in Showdown history.
+
+The Crows are now six points clear of GWS on top of the ladder and appear certain to finish top two and have an all-important home qualifying final.
+
+Superstar Eddie Betts, who missed last week with appendicitis, was back to his best with four goals including a nomination for the Goal of the Year with a trademark snap from the pocket.
+
+It was an even performance across the board with Rory Sloane and the Crouch brothers dominating the midfield, Sam Jacobs comfortably beating Paddy Ryder in the ruck and skipper Taylor Walker booting three goals from a game-high eight marks.
+
+The loss leaves the Power clinging onto fifth spot on percentage, with Sydney and the Western Bulldogs equal on 44 points.
+</content>
+  <sindexList>
+  <sindex>
+    <name>CROWS</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Port Adelaide</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Paddy Ryder</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Rory Sloane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eddie Betts</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Taylor Walker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday's Showdown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Bulldogs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crouch</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Goal of the Year</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GWS</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sam Jacobs</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429579907018866</docid>
+  <date>05/08/2017</date>
+  <time>01:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/police-investigating-balga-death/news-story/a1fdc9e4b2c76c2eac9acc2b251f3420</url>
+  <title>Police investigating Balga death</title>
+  <content>
+THE WA Police Homicide Squad is investigating the circumstances of a 36-year-old man in Balga on Friday night.
+Police say they were called to the house in Darlington Crescent just after 8.30pm where the man was found. He was treated by ambulance officers at the scene but died a short time later.
+Anyone with any information is asked to call Crime Stoppers on 1800 333 000 or make a report online at .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darlington Crescent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balga</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Police Homicide Squad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

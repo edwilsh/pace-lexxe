@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441519916210965</docid>
+  <date>06/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/how-mike-cannonbrookes-built-250m-atlassian-marketplace-business-on-a-flight-20170803-gxorhs</url>
+  <title>How Mike Cannon-Brookes built a $250m business on a single flight</title>
+  <content>
+He may , but Atlassian co-founder Mike Cannon-Brookes undoubtedly has the knack of seeing a business idea and nailing it.
+This year the $US7.8 billion ($9.8 billion) company he built alongside his university mate Scott Farquhar announced that its  business, which had effectively run as a sideline to its main products for five years, has generated more than $US250 million in total sales.
+What it didn't announce was that the quarter of a billion dollar business came about because Cannon-Brookes built it on a single plane flight.
+The principal of the Marketplace is simple. Just as Apple's App Store became an ecosystem for developers to try to strike success by building add-ons and apps for the iPhone, Atlassian could target business app developers who could build products to work within its popular Jira platform.    
+
+Since it first went live in 2012 the Atlassian Marketplace has grown to take on a life of its own, with $100 million of the $250 million generated in the last year alone.
+
+Early naivety
+
+Farquhar tells The Australian Financial Review that Atlassian's sense of being part of a tech eco-system began in its earliest days when it gave away the source code for its products for free to developers - a move he now concedes was probably a little naive.
+However the Marketplace sprang into existence when he and Cannon-Brookes were looking at a plug-ins on desktop software and his co-founder said they should do them for Jira.
+Jira is platform that lets technology staff track issues with software development and work together to manage projects.
+
+"I thought it didn't make any sense, but he got it in his head that he was going to do it," Farquhar recalls.
+"He got on a plane trip ... I don't recall where to, but it was about 14 hours and he coded up the first version of the plug-in system."
+In fact Cannon-Brookes was on a flight to spend time with the kind of developers that have since gone on to embrace the Marketplace at its annual AtlasCamp Developers event, and the idea quickly took hold. 
+Late last year, in recognition of the fact that its Marketplace was a serious business in its own right Atlassian pulled in Max Mancini to run it as vice-president of ecosystem.
+
+Michel O'Sullivan
+
+Mancini had prior leadership experience at two of the world's biggest online marketplace businesses Apple and eBay and says Atlassian has managed to achieve the kind of experience for developers usually associated with consumer facing services such as Google Play or Apple's App Store.
+"It is pretty unique in the enterprise space ... developers are used to creating games in this kind of environment for those familiar app stores, but the reality is you can create some pretty compelling applications on Atlassian and deliver them into big enterprise customers," Mancini says.
+Exclusive sellers
+
+While some well-known technology companies such as Amazon Web Services, Microsoft and Splunk use the Martketplace, there are numerous developers that have grown into notable companies selling exclusively or primarily on it. Atlassian says that of the $250 million, $200 million has been paid out to Marketplace vendors.
+
+Mancini says there are more than 35 vendors that have made more than $1 million in sales through the marketplace, four that have made more than $10 million and three more than $20 million.
+Among the most popular add-ons are timesheet tracking app Tempo, software test management app Zephyr and an app called Gliffy that lets users add diagrams to their work.
+As an illustration of the strength of Marketplace driven start-ups, last year  from US venture capital firm Frontier Capital.
+Perhaps predictably Mancini says the current volume of business going through the Marketplace is just the start of significant potential expansion in the next few years.
+
+Seeking tremendous growth
+
+"Scott and Mike didn't bring me in to just nurture a business that's sort of growing at the same pace as the rest the business, I am definitely here to grow this business pretty tremendously," he says.
+"I think that there is a tremendous growth opportunity here, even independent of the great trajectory that the core Atlassian business already has." 
+Farquhar meanwhile is equally enthusiastic about the importance and potential for the Marketplace, but reserves the kind of grudging compliment that only comes when you have to concede that your mate was right.
+"I think the code is horrible, but it endured and we have built a $250 million business over its lifetime," he smiles.
+"So a quarter of a billion dollars on the back of code that was written on a plane ... I guess Mike will be pretty proud of that."   
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mike Cannon-Brookes</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US7.8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gliffy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atlassian</name>
+    <count>8</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>eBay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott Farquhar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JIRA</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cannon-Brookes</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Play</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martketplace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mancini</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Max Mancini</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zephyr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple App Store</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Splunk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AtlasCamp Developers</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Web Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Frontier Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atlassian Marketplace</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mike</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Farquhar</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$250</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michel O'Sullivan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

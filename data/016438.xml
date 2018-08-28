@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424988586901776</docid>
+  <date>04/08/2017</date>
+  <time>07:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/milestone-for-major-new-wa-gold-mine/news-story/8ce4db521c39e565b9b612ffefdc73e7</url>
+  <title>Milestone for major new WA gold mine</title>
+  <content>
+Fanfare surrounding the development of a major new gold mine in a remote part of Western Australia has begun, with Premier Mark McGowan pressing the button for the first steel cut by fabricators.
+The steel was cut at Civmec's Henderson facility on Friday for extraction tanks that will be used at the Gruyere project, a joint venture between Perth-based Gold Road and South Africa's Gold Fields in the far Eastern Goldfields region.
+Mr McGowan talked up the hundreds of jobs created by the project, where production is slated to begin in 2019.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Civmec's Henderson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gruyere</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Mark McGowan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth-based Gold Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Goldfields</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Africa's Gold Fields</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

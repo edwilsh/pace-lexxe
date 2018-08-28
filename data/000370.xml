@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398441393559825</docid>
+  <date>31/07/2017</date>
+  <time>00:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/aussie-brothers-raise-9m-for-training-startup-a-cloud-guru-after-less-than-two-years-20170725-gxi2g1</url>
+  <title>Aussie brothers raise $9m for training startup A Cloud Guru after less than two years</title>
+  <content>
+A cloud computing training start-up founded by brothers Ryan and Sam Kroonenburg in late 2015 from their bedrooms in London and Melbourne has raised almost $9 million from a US venture capital firm as it looks to expand the range of its business.
+A Cloud Guru has raised the funding round from Boston-based fund Elephant Venture Capital, after it trained more than 250,000 students in 160 countries online in how to use Amazon Web Services (AWS) in less than two years.
+It intends to use the money to expand its content offering to encompass all major cloud vendors, including Microsoft's Azure, Google and Salesforce.
+The company has built a large following for its courses on social networking site LinkedIn, with Ryan Kroonenburg, who teaches some of the courses, racking up the maximum 30,000 connections that the site allows.
+
+Sam Kroonenburg said his brother had started to become a social media celebrity of sorts and had begun to be stopped in the street for selfies and autographs.
+
+"I'm his brother, so I don't see it from the outside, but the love that people have for Ryan and his style of teaching blows my mind. When we go to events he's mobbed. People want to take selfies with him," Sam Kroonenburg told The Australian Financial Review.
+"We're at 250,000 customers now, the next milestone is 1 million and think we can get there in a year. We want to heavily focus on bringing on board corporate deals."
+The company offers its training courses from $US25 ($31), but most are about $US29. A person can take all eight AWS certification courses for $US339.
+The company already counts Expedia and Xero as customers and the fandom inspired by A Cloud Guru's courses is not the only unusual thing about this start-up. It has hired many of its 40 staff after first meeting them on Twitter, and has employees from a diverse array of countries.
+
+"The guy heading our development team was hired from Twitter. I was joking about the Census failure last year and he replied to my tweet about how it should have been server-less and no one at the time was doing server-less. It turned out he had hooked up his whole garden to the internet of things and it was server-less," Mr Kroonenburg said. 
+"When I asked him how he'd gotten into it, he said he'd been to an AWS meet-up in Brisbane and he'd seen me talk about it, he went and learned it and did this whole project. We'd trained our future employee without knowing it."
+The company has also hired one of the Queensland University of Technology students who built an equivalent version of the Census website that could handle 40 times the traffic for $500.
+This latest capital injection from Elephant Venture Capital will let the start-up start offering certification preparation courses for the Google Cloud platform and Microsoft Azure, as well as training courses for Salesforce and Linux.
+
+Profitable from day one
+
+Ryan Kroonenburg, who started out his working life as an accountant and a paralegal, came up with the idea for A Cloud Guru after missing out on a job to work at AWS. 
+The interview process took three months and during this time he tried to learn as much about AWS as possible. He found there were no online courses, apart from online in-person classroom-based courses, which cost the equivalent of a year's university tuition.
+So when he missed out on the AWS job he started the company.
+
+From day one the company has been profitable, with its year-on-year revenue growth up 900 per cent. But the company was keen to bring Elephant on board as an investor because of the experience of its co-founder Andy Hunt in growing a $US1 billion company in a short period of time.
+Mr Hunt grew his business, eyewear company Warby Parker, into a unicorn in just five years and he said he believed he could help A Cloud Guru reach its millionth customer.
+"We chose to invest in A Cloud Guru because they're destroying the existing technical training paradigm. It's amazing that they've figured out how to profitably deliver training of this calibre at a price that's accessible to everyone," he said.
+Elephant Ventures has also backed companies such as mobile entertainment game producer and distributor Scopely and sales and marketing software platform Maropost, out of its first $US156 million fund.
+
+"We think there is a huge play to disrupt the way IT training is done ... The big problem with cloud used to be security, now everyone has worked out that it's more secure in most cases, but we don't have the people with the skills," Sam Kroonenburg said.
+"There's about 1.7 million cloud-related vacancies right now and spend on cloud by 2020 will be $US203 billion, so someone has to teach the engineers how to do it," Ryan added. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US156</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kroonenburg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan Kroonenburg</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andy Hunt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft's Azure</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scopely</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Linux</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Warby Parker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maropost</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elephant Venture Capital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salesforce</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Cloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland University of Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Kroonenburg</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Web Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hunt</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Expedia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LinkedIn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cloud Guru</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AWS</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US25 ($31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US339</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US203</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

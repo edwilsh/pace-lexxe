@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424640694544691</docid>
+  <date>04/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/wild-weather/2017/08/04/14/55/winter-blast-set-to-slam-south-australia</url>
+  <title>Icy blast and blizzard conditions set to slam southern Australia</title>
+  <content>
+A dangerous winter blast is crossing the country with South Australia, Victoria, southern New South Wales and Tasmania all in the firing line.
+Blustery winds, flooding rains, hail and thunderstorms are all possible, with ski resorts bracing for the biggest snow dump of the season.
+Blizzard conditions are likely in the alps where resorts could see up to one metre of snow falling between Friday and Sunday.
+The SES has warned the heavy snow, combined with wind gusts of up to 110 km per hour will make for risky conditions in the mountains.
+Authorities are pleading with snowgoers to play it safe.
+Melbourne is also bracing for the blast, where bayside suburbs and elevated parts of metropolitan area could see 80 to 90 km per hour wind gusts on Saturday night and Sunday.
+Residents are being warned to tie down loose objects around the backyard and to be wary of not parking under trees that could fall in the strengthening winds.
+
+Related Articles
+
+Adelaide will cop the icy conditions first, as the leading front slams in to the city on Friday afternoon.
+A flood watch has been issued for the surrounding Mount Lofty Ranges, with falls of up to 120mm possible.
+Commuters have been warned to expect dangerous conditions on the roads as heavy rain reduces visibility.
+Coastal regions from South Australia through to southern New South Wales are on alert, with gale force wind warnings in place throughout the weekend.
+It follows bitterly cold conditions across the south east with Melbourne recording it's coldest August day since 1970 on Thursday.
+Adelaide also recorded its coldest day in almost one year, with an apparent lunchtime temperature of just 8.8 degrees Celsius. 
+Snow bunnies are being advised the best time to make the most of the massive snow dump will be early next week, once the snow has fallen and the dangerous winds have calmed.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mount Lofty Ranges</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Celsius</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

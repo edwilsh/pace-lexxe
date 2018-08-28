@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401769993268688</docid>
+  <date>31/07/2017</date>
+  <time>13:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/bizarre-foods-host-andrew-zimmern-epic-rant-against-yelp-food-2017-7</url>
+  <title>'Yelp drives me crazy'  --  Andrew Zimmern goes on an epic rant against the restaurant review site</title>
+  <content>
+, the host of "" on the , is spending his new season travelling around the US searching for interesting foods to try. In this video, Zimmern shares his interesting perspective on the crowd-sourced review application Yelp. Following is a transcript of the video.
+
+I just... ugh... Yelp drives me crazy.
+
+I think Yelp is neither good nor bad for the food industry. I find it useless. If you're aggregating a lack of expertise, then when I plug in "best sushi bar in Los Angeles," Yelp doesn't help me at all. So, if you are a huge food geek like me that really believes in quality - not expensive food, just quality. Above all other things - quality. If you're into quality, Yelp is not for you.
+
+What I do when I'm going to a new city is I look up who the 4 or 5 better food writers are in that town and the 4 or 5 better chefs in that town. And then I go on to their Instagram and Twitter or Facebook timelines, and I just go back a couple weeks and I write down all the places that these people have been eating or taking pictures of. And I put a little check by it, and the places that have the most checks are the ones that I go to first.
+
+If you love Mario Batali, and really who doesn't? Then, if you're following him and you know you're going to Rome, just go into his timeline and look at all the places in Rome that he says to go. That's what I did. Well, actually I didn't. I actually called him and asked him. But I got nothing special that wasn't on his Twitter timeline. It's just that he happens to be my friend.
+
+Yelp. Yelp is, I mean Yelp's not even good for looking up the restaurant's phone number because you know on the site, they just want you to read their reviews and look at their ads. They don't even actually want to give you the information about the restaurant or the menu. I mean how f-ed up is that? I mean, I just... ugh... Yelp drives me crazy. But it drives me crazy. I'll let you decide if it drives you crazy.
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yelp</name>
+    <count>10</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Zimmern</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Rome</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mario Batali</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zimmern</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

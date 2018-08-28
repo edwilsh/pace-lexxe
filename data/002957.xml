@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402517317594428</docid>
+  <date>31/07/2017</date>
+  <time>16:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/entertainment/2017/08/01/01/42/us-actor-playwright-sam-shepard-dead-at-73-us-media</url>
+  <title>US actor, playwright Sam Shepard dead at 73: US media</title>
+  <content>
+Sam Shepard, the Pulitzer Prize-winning playwright and Oscar-nominated actor whose career spanned nearly five decades, has died, US media reported Monday. He was 73.
+Shepard died at home in Kentucky last Thursday of complications from amyotrophic lateral sclerosis, or Lou Gehrig's disease, The New York Times reported, citing a family spokesman.
+Shepard, who wrote nearly 50 plays, won the Pulitzer for drama in 1979 for his play "Buried Child" and was nominated for an Academy Award in 1984 for best actor in a supporting role for the 1983 movie "The Right Stuff."
+jm/sst
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Lou Gehrig</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pulitzer</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Shepard</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Oscar-nominated</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Academy Award</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sam Shepard</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Right Stuff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kentucky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pulitzer Prize-winning</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

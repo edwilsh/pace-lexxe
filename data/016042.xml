@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423743046367040</docid>
+  <date>04/08/2017</date>
+  <time>02:40</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/2017/08/04/record-cocaine-haul/</url>
+  <title>$322m cocaine haul seized from Australia-bound yacht</title>
+  <content>
+A massive cocaine haul bound for Australia in the hull of a yacht has been intercepted by the French Navy in the South Pacific.
+The record-breaking 1.464 tonnes of cocaine was seized near New Caledonia on July 27, the Australian Criminal Intelligence Commission said.
+The ACIC said four crew who were believed to be Lithuanian and Latvian were arrested.
+The drugs have an estimated street value of $322 million.
+ACIC officials worked closely with French authorities to foil the plot, which is believed to have been organised by a South American crime syndicate.
+"Congratulations to the Marine Francaise and Gendarmerie Nationale for their efforts in relation to this record seizure of cocaine," ACIC executive director of intelligence Col Blanch said in a statement.
+We're working with French authorities after the seizure of 1.4 tonnes of cocaine from a vessel in the South Pacific.
+- ACIC (@ACICgovau)
+"We are thankful for the action taken by French authorities which has stopped a significant amount of drugs reaching the streets of Australia," Mr Blanch said.
+The vessel has been towed to Noumea for further investigation and testing.
+- AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australia-bound</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ACIC</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July 27</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South American</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Lithuanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>New Caledonia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Col Blanch</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>French Navy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Criminal Intelligence Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Blanch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Pacific</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ACICgovau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Francaise</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NOUMEA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gendarmerie Nationale</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Latvian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

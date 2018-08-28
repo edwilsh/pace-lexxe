@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443718939497665</docid>
+  <date>07/08/2017</date>
+  <time>08:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/good-hackers-can-do-bad-things-too/</url>
+  <title>Good Hackers Can Do Bad Things, Too</title>
+  <content>
+Famed white hat hacker Marcus Hutchins - better known as "MalwareTech" - was arrested by the FBI yesterday while trying to fly home to the United Kingdom from Las Vegas. The 22-year-old security researcher gained mainstream fame earlier this year as the guy who stopped the destructive WannaCry ransomware from spreading, and had been partying with friends near the Black Hat and Defcon hacker conferences before his arrest. Now, he faces serious federal charges for allegedly creating the Kronos banking trojan. But he's supposed to be the good guy!
+
+Image: Gizmodo
+
+Here's the thing: Good people do bad things sometimes. It's possible that good hackers, the ones we celebrate for stopping malware, also create malware, perhaps for profit or perhaps because they're bored. It's possible, but some people just can't believe that Hutchins would ever do something like this:
+
+I refuse to believe the charges against , not the  MT I know at all. He spent his career stopping malware, not writing it.
+- Andrew Mabbitt (@MabbsSec)
+
+We don't know if Hutchins is guilty. That's up to the courts to determine. However, what we know so far about the young man's precarious situation is intriguing to say the least. In the days leading up to his arrest, Hutchins was going big. In the days before his arrest, Hutchins was throwing parties at a $US1,900 ($2,390)-per-night Airbnb which, incidentally, is home the largest private pool in Las Vegas, Gizmodo alum William Turton . Hutchins also  and  where he could find a race track. He  for a tour of the Grand Canyon. He  at a shooting range.
+
+Spending lots of money and having fun isn't against the law, but it is curious in retrospect. The recently unsealed federal indictment claims that Hutchins not only built the Kronos malware, which enables a hacker to steal bank credentials, but also advertised it on AlphaBay, the dark web marketplace that US and European authorities . It's unclear if Hutchins' arrest is connected to that seizure. The indictment claims that Hutchins sold Kronos, at least once, for $US2,000 ($2,516). The indictment also claims that Hutchins uploaded a video to YouTube about how Kronos works, a detail that the Department of Justice thinks is incriminating evidence.
+
+Did federal authorities let Hutchins party his face off during Defcon and Black Hat, so that they could collect more incriminating evidence against the young security researcher? Did Hutchins' money come the sale of malware that makes it easy for evil hackers to rob unsuspecting computer users? Did Hutchins lie when he said he was donating the $US10,000 ($12,581) reward from stopping WannaCry to charity, instead choosing to spend the money on exotic car rentals and a lavish party house?
+
+We don't know the answer to any of these questions, and we probably won't for quite some time. But it certainly is possible that a white hat like Hutchins possibly, maybe did some bad things a few years ago. In the hacker world, it's not uncommon for hackers to start off wearing black hats and end up changing their ways. Usually they get caught doing the bad stuff and then spend some time in prison.
+
+Here are some examples. Kevin Paulson is the legendary hacker who became famous for taking over all of the phone lines that led to Los Angeles-area radio stations so that he could be the 102nd caller and win a Porsche back in 1990. He was arrested in 1991, after an 18-month-long manhunt, and served over five years in prison. Now, he's a senior editor at Wired.
+
+Then, you've got Kevin Mitnick, another famous hacker. Mitnick was charged for over two dozen cyber crimes in 1995, evaded the feds for two weeks before being caught with 100 cloned cell phones, and then served nearly four years in prison. Now, he runs his own security company, consulting large companies and even the FBI on how to keep their data safe.
+
+And who could forget Samy Kamkar. When he was just 19-years-old, Kamkar created a worm that he unleashed on MySpace, where it soon became the fastest spreading computer virus in history. He pleaded guilty to a felony, avoided jail time, and was on probation for three years, during which he was not allowed to touch a computer. Now, he's one of the most famous white hat hackers in the world, spotting vulnerabilities in everyday devices and advocating for better privacy. He's even testified before Congress.
+
+One thing deserves repeating, though: We don't know if Hutchins is guilty. It's entirely possible that the feds got the wrong guy, and we can all go back to remembering MalwareTech for being the nice person who saved a lot of people from getting hacked and held hostage by the WannaCry ransomware. If he did do it, however, he wouldn't be the first white hat hacker with a black hat past. In fact, he'd be in good company.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Mabbitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US1,900 ($2,390</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Kingdom</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MalwareTech</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>William Turton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MabbsSec</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hackers Can Do Bad Things</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MySpace</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MT I</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Airbnbs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Mitnick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grand Canyon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10,000 ($12,581</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Paulson</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samy Kamkar</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Porsche</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>14</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles-area</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US2,000 ($2,516</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kamkar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitnick</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

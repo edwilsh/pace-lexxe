@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411248986267248</docid>
+  <date>02/08/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/bom-why-warm-winter-does-not-equal-hot-summer/3207854/</url>
+  <title>BOM: Why a warm winter does not equal hot a summer</title>
+  <content>
+JULY might have been particularly balmy compared to past years but that doesn't mean summer will be a stinker, forecasters say.
+
+The last month didn't break any Ipswich winter records but the average maximum temperature was consistently above the long term average of 22.9.
+
+While winter was warm, Bureau of Meteorology forecasters say it's too soon to match that with a super hot summer.
+
+"It didn't break any records but the average July maximum is  22.9 so it was 1.7 above the long term average," BOM forecaster David Crock said.
+
+"Along with the rest of the state is was well above average and unseasonably warm.
+
+"It's hard to say too much about what it means for summer  but the three month prediction shows warmer than average temperatures."
+
+Friday, Saturday and Sunday are expected to be fine and sunny with maximums of 25 degrees throughout the weekend.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Crock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

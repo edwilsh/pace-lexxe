@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404411398205948</docid>
+  <date>31/07/2017</date>
+  <time>23:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/09/28/safety-concern-over-vic-police-gun-holster</url>
+  <title>Safety concern over Vic Police gun holster</title>
+  <content>
+Safety concerns have prompted Victoria Police to pause the introduction of 18,000 holsters for semiautomatic firearms.
+"We don't believe it impacts frontline policing at this point in time," Superintendent Tony Langdon told 3AW on Tuesday.
+The problem with the holsters was revealed last week in "a small number of incidences".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>AW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic Police</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Superintendent Tony Langdon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

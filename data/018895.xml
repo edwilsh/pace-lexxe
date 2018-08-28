@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433917824026784</docid>
+  <date>05/08/2017</date>
+  <time>18:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/04/01/nsw-teen-charged-over-police-pursuit</url>
+  <title>NSW teen charged over police pursuit</title>
+  <content>
+A teenager has been charged after a police pursuit in Sydney's west.
+Officers had noticed a Subaru parked on the wrong side of the road in Fairfield about 1.30pm on Saturday but when they approached it, the car accelerated away.
+Police pursued the car down a number of streets before it crossed to the wrong side of the road and crashed into another vehicle before speeding away again.
+However, when the Subaru again crossed to the wrong side of the road, the officers ended the pursuit.
+The Subaru was spotted a short time later by a police patrol and four males were arrested.
+The 17-year-old driver faces a number of charges including reckless driving and was refused bail to appear in a children's court on Sunday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subaru</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

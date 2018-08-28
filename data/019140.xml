@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435506961940088</docid>
+  <date>06/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/blizzards-and-thunder-to-hit-victoria/news-story/4f9fb8dad563ad9203f17203f5d1f8a0</url>
+  <title>Blizzards and thunder to hit Victoria</title>
+  <content>
+Blizzards are expected to hit Victoria's eastern alpine areas while thunderstorms and hail could batter Melbourne.
+Up to half a metre of snow is expected to fall at Mt Hotham, Mt Bulla and Falls Creek with wind gusts of more than 100km/h, Bureau of Meteorology forecaster Dean Stewart says.
+"There will be plenty snow up in the eastern alpine regions today with the wind set to create blizzard conditions," Mr Stewart said.
+Melbourne can expect rain throughout the day with an unstable atmosphere creating conditions for possible thunderstorms and hail.
+"There is a risk of thunderstorm and hail activity through much of the state including in Melbourne," he said.
+Mr Stewart said the worst of the wind had passed Melbourne overnight with winds of up to 80km/h recorded by some stations.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Falls Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Bulla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

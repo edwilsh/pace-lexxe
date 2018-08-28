@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423094506294604</docid>
+  <date>04/08/2017</date>
+  <time>00:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/04/10/02/us-grand-jury-to-probe-russia-links</url>
+  <title>US grand jury 'to probe Russia links'</title>
+  <content>
+Special Counsel Robert Mueller is using a grand jury in Washington as part of an investigation into potential co-ordination between the Trump campaign and Russia, according to a person familiar with the probe.
+The use of a grand jury, a standard prosecution tool in criminal investigations, suggests that Mueller and his team of investigators are likely to hear from witnesses and demand documents in the coming weeks.
+The person who confirmed to The Associated Press that Mueller had turned to a grand jury was not authorised to discuss the investigation by name and spoke on condition of anonymity.
+The Wall Street Journal first reported the grand jury.
+Grand juries are common vehicles to subpoena witnesses and records, although they do not suggest any criminal charges are near. It was not immediately clear how or whether the Washington grand jury was connected to the work of a separate one in Alexandria, Virginia. That panel has been used to gather information on Michael Flynn, Trump's former national security adviser.
+Mueller was a former federal prosecutor in Washington before becoming FBI director, where he spent 12 years before stepping down in 2013.
+Meanwhile, lawyers for President Donald Trump said they were unaware of the existence of a grand jury and had no information to suggest the president himself was under federal investigation.
+
+Related Articles
+
+Mueller was appointed special counsel in May by the Justice Department following the firing by Trump of FBI Director James Comey.
+He has since assembled a team of more than a dozen investigators, including current and former Justice Department prosecutors with experience in international bribery, organised crime and financial fraud.
+That team has been working at an undisclosed location in Washington, so presenting evidence inside a federal courthouse in Washington could be more convenient for the group of investigators than working out of Alexandria.
+(C)  AP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grand</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Michael Flynn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Virginia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counsel Robert Mueller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Alexandria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Director James Comey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump of FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

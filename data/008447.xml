@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412271188498458</docid>
+  <date>02/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/wa-news/woman-killed-by-a-dog-south-of-perth-20170802-gxnn2l.html</url>
+  <title>Woman killed by dog at southern Perth boarding kennel</title>
+  <content>
+A woman in her 50s has been killed by a dog at a licensed kennel facility in the Perth suburb of Southern River.
+The incident occurred on Tuesday afternoon.Photo: Gary Warrick
+Police were called to the property in Southern River, which also serves as a canine boarding kennel, at about 1.30pm.
+Sue Lopicich, who owns the facility on Terrier Place, received life threatening injuries from a dog and she was declared dead by St John Ambulance officers.
+Her death is not being treated as suspicious and a report will be prepared for the coroner.
+The City of Gosnells said its rangers received a request from the police to attend the property to collect a dog, which was preventing officers from accessing the body of the woman.
+
+"As a result, the City is currently holding two dogs that were taken from the property," the council said in a statement.
+"The adult, male dogs, one a bull mastiff and the other a Staffordshire bull terrier, are being held at the request of police.
+"An investigation is being conducted by the police and the City is waiting to hear further from them.
+"The dogs are microchipped and registered to the owner of the property.
+"No previous complaints have been made to the City about these dogs."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Staffordshire</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Terrier Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sue Lopicich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GARY WARRICK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

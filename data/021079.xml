@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439887828620816</docid>
+  <date>06/08/2017</date>
+  <time>17:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/03/10/man-charged-over-death-in-melbourne-house</url>
+  <title>Man charged over death in Melbourne house</title>
+  <content>
+A Melbourne man has been charged with murder after a 44-year-old man died at a house in the city's west.
+The man died just after 8.30pm on Saturday in the suburb of Sunshine West. A 42-year-old woman who was present in the house was taken to hospital with non-life threatening injuries.
+A 45-year-old local man who was arrested at the time faced an out-of-sessions court hearing and was charged with one count of murder.
+He was remanded to appear at Melbourne Magistrates' Court on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

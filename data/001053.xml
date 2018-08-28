@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399046983957388</docid>
+  <date>31/07/2017</date>
+  <time>02:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/home-prices-slip-as-auction-sales-lift/news-story/e79aad6fc0ef8be4909d78afb17bc31b</url>
+  <title>Home prices slip as auction sales lift</title>
+  <content>
+Home prices fell in most of Australia's major capital cities in the past week with Adelaide the exception, while auction clearance rates improved slightly, latest figures show.
+Adelaide's home prices rose 0.3 per cent in the week ending July 30, while prices fell 0.3 per cent in Sydney, 0.1 per cent in Melbourne, 0.7 per cent in Brisbane and 0.2 per cent in Perth, data from property statistics firm CoreLogic shows.
+Auction clearance rates across the five cities during the week was 70.7 per cent, up slightly from the prior week's 69.9 per cent clearance rate.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416609105554406</docid>
+  <date>02/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/truck-hits-bridge-brisbane-trains-delayed/news-story/b44f0e409c6da94367dcbdbb79c30c0e</url>
+  <title>Truck hits bridge, Brisbane trains delayed</title>
+  <content>
+Brisbane commuters have been warned of delays of up to an hour after a truck hit a bridge in the city's south.
+A truck, higher than the maximum height, struck the bridge near Rocklea Station just before 8am on Thursday.
+A spokeswoman for Queensland Rail says the bridge must be assessed before a train can safely cross, warning of significant delays on the Beenleigh, Gold Coast, Airport and Ferny Grove lines.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Beenleigh</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rocklea Station</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ferny Grove</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Rail</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

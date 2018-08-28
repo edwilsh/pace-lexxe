@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404759290562388</docid>
+  <date>01/08/2017</date>
+  <time>01:00</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/messenger/south/telstra-hangs-up-on-hallett-cove-conservation-park-tower-plan/news-story/9ec42af3546cd8ceb9f0b29977348189</url>
+  <title>Telstra hangs up on conservation park tower plan</title>
+  <content>
+PLANS for a phone tower in Hallett Cove Conservation Park have been abandoned after the State Government said it would block the proposal.
+Environment Minister Ian Hunter said Telstra and telecommunication infrastructure company Visionstream had met with staff from his department about the proposal, but had been told it would never be approved.
+In a letter to Bright MP David Speirs last week, he said staff had determined the tower would have presented "unacceptable impact to the environmental values, cultural and aesthetic qualities" in the park.
+"I have notified Visionstream that I will not support the construction of a phone tower within the Hallett Cove Conservation Park," Mr Hunter said.
+"I understand that ... (the Environment Department) is aware that other sites are being considered but has not been provided these location details by Visionstream or Telstra."
+A Telstra spokesman did not respond before the CoastCity Weekly's deadline.
+Vodafone also wants a new tower in Hallett Cove, but is yet to announce a site for it.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hallett Cove</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CoastCity Weekly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Minister Ian Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hallett Cove Conservation Park</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Visionstream</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bright MP David Speirs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Environment Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

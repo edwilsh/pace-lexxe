@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417223285888381</docid>
+  <date>03/08/2017</date>
+  <time>01:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-03/saints-season-isnt-finished-yet-geary</url>
+  <title>Saints' season isn't finished yet: Geary</title>
+  <content>
+Jarryn Geary leads the Saints off Adelaide Oval after their loss to Port
+
+ST KILDA captain Jarryn Geary has said the review of their last-ditch loss to Port Adelaide was painful viewing but he still believes their season is far from over.
+
+The Saints were overcome by Port in the final seconds last round, which was their third successive loss.
+
+Dropping to 11th on the ladder, they face eighth-placed West Coast on Saturday at Etihad Stadium and Geary feels they're close to rediscovering their winning form.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Port Adelaide</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Oval</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Kilda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geary</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Etihad Stadium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saints</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jarryn Geary</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

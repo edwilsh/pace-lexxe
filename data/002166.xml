@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400717726260692</docid>
+  <date>31/07/2017</date>
+  <time>09:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/19/12/victoria-has-second-driest-start-to-winter</url>
+  <title>Victoria has second-driest start to winter</title>
+  <content>
+Victoria has so far experienced its second-driest winter on record, the state's Bureau of Meteorology says.
+"It was the driest June on record for Victoria. July was not quite as dry as June was, rainfall was closer to normal," the bureau's senior climatologist Blair Trewin said on Monday.
+"But June/July together still come in as the second driest on record for Victoria."
+Melbourne received about 30mm in July but rainfall barely cracked double figures the month prior, Dr Trewin said.
+This was driven by an exceptionally strong high pressure ridge right across southern Australia.
+"Normally by June, that high pressure has moved a bit further north and Victoria's influenced by the westerlies which bring regular fronts and regular rain," Dr Trewin said.
+Below average rainfall is expected to continue over coming months, particularly in northern Victoria.
+
+Related Articles
+
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Trewin</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June-July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blair Trewin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424730888859317</docid>
+  <date>04/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/superannuation/2017/08/04/industry-super-to-outgrow-rivals-in-the-accumulation-phase-to-2026/</url>
+  <title>Industry accumulation fund growth</title>
+  <content>
+Industry superannuation funds are projected to increase their dominance of super accumulation accounts from 34 per cent to 37 per cent of funds under management by 2026 according to research house DEXX&R.
+Over the same period retail funds will see their market share fall from 29 per cent to 26 per cent while public sector funds market share will slip slightly. Retail funds are split into two subsections, personal super and employer super, in the survey which need to be added together to get a total.
+Self-managed super funds are projected to hold $236 billion in FUM, and account for 9 per cent of total assets in 2026, down from 14 per cent in 2016. 
+For funds in retirement phase SMSFs are expected to see their dominance wane with accounts projected to hold $645 billion in or 47 per cent of total retirement income assets in 2026, down from 60 per cent in 2016. SMSFs have been popular with high net worth individuals and while their funds under management in retirement phase are large they only account for about 1.1 million fund members.
+industry and public sector fund pension accounts are projected to have the largest growth in funds under management over the next ten years with industry funds expected to total $154 billion, 11 per cent of total retirement income assets in 2026, up from 6 per cent in 2016.
+Public Sector Fund Pension Accounts are projected to hold $165 billion in total FUM, 12 percent of total assets in 2026, up from 9 percent in 2016. Retail Allocated Pension Account FUM is projected to be $383 billion, 28 percent of total assets, up from 23 percent in 2016. A further $22 billion is projected to be held in Annuities.
+
+Investment funds outside super are projected to increase from $200 billion at December 2016 to $504 billion at December 2026. This higher growth rate will be fuelled by an expected outflow of funds from the superannuation phase as a result of the November 2016 super changes.
+The changes are expected to result in a the redirection after July 2017 of discretionary contributions that would have previously flowed into SMSFs and to a lesser extent into retail fund products into non-super investments. That will be driven by small numbers of high net worth investors.
+</content>
+  <sindexList>
+  <sindex>
+    <name>November 2016</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>SMSF</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sector Fund Pension Accounts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2026</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEXX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2017</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Allocated Pension Account FUM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FUM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

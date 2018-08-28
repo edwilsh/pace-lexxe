@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426182587831872</docid>
+  <date>04/08/2017</date>
+  <time>12:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/reservoir-fatal-crash-one-dead-after-plenty-rd-collision/news-story/8ad3c35ecf086d0254180e7de12bd275</url>
+  <title>One dead after Reservoir collision</title>
+  <content>
+A PERSON has died and a man taken to hospital after a head-on collision between a car and ute in Melbourne's north.
+Police believe the car and ute collided on Plenty Rd near Chaleyer St, Reservoir about 6.30pm on Friday.
+A passenger in the car died at the scene, Victoria Police spokeswoman Belinda Batty said.
+She said the male driver of the ute was taken to hospital with minor injuries.
+The person who died is yet to be identified.
+Police are investigating the incident and have asked witnesses or anyone with dashcam footage from the area to contact Crime Stoppers on 1800 333 000 or submit a confidential crime report at
+</content>
+  <sindexList>
+  <sindex>
+    <name>Plenty Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Chaleyer St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Belinda Batty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

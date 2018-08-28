@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444101191593686</docid>
+  <date>07/08/2017</date>
+  <time>09:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/nt-police-in-standoff-with-woman-at-wanguri-property/news-story/703636877158b39486827091c33c6d6b</url>
+  <title>Police storm home after stand-off</title>
+  <content>
+Three children have been dramatically rescued from a Wanguri home by police, seconds before heavily armed officers stormed the property to end a five-hour stand-off.
+Police were seen coaxing the three children to the fence of the Margaritis St property before pulling them over one by one just before 3.30pm Monday.
+The first child dragged to safety climbed to the top of the fence and into the open arms of a waiting policeman.
+Two other boys, believed to be of primary school age, followed over the fence within minutes.
+Moments later, heavily armed police bashed down the front door and entered the property. It appeared the children were not physically harmed during the stand-off.
+A woman was later removed from the home in handcuffs on a stretcher by paramedics and police.
+An NT Police spokesman said the woman was taken to Royal Darwin Hospital for a mental health assessment
+He said the woman was not arrested and the children were not threatened during the incident. Earlier, as the stand-off reached its climax, five Territory Response Group members dressed in army fatigues and armed with rifles stood with their weapons pointed at the property.
+Two plain-clothed officers and paramedics stood nearby as negotiations continued.
+Neighbours said the street was blocked off at around 10am.
+One neighbour told the NT News she was shocked to learn of the stand-off.
+"It was a bit of a shock. When we drove past in the morning there was only one police car blocking the street," she said.
+"When we came back we could hardly drive down the street."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NT News</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Territory Response Group</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NT Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Darwin Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wanguri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaritis St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

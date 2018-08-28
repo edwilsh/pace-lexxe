@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416527501174492</docid>
+  <date>02/08/2017</date>
+  <time>22:40</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/roof-of-melbourne-train-on-fire/news-story/d9dc550d93b67c38a3320a9784ee0c91</url>
+  <title>Roof of Melbourne train on fire</title>
+  <content>
+Australian Associated Press
+
+Share
+
+Passengers have rushed to the back of a Melbourne train that caught fire when its power line connectors exploded during the morning commute.
+The top of the first carriage caught fire on Thursday morning, with passengers having to move to the third carriage to escape the blaze.
+The train has stopped between Batman Ave and Flinders Street Station, on the Sandringham line, with the fire at this stage contained to the roof.
+A Metro Trains spokeswoman said there had been an "issue" on a train between Richmond and Flinders Street, and the fire brigade has been called.
+Metro has announced major delays to the Sandringham line.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flinders Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Metro</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Flinders Street Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Batman Ave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandringham</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro Trains</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

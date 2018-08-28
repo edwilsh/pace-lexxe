@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406554586920962</docid>
+  <date>01/08/2017</date>
+  <time>07:58</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/exdocker-shane-yarran-pleads-guilty-to-police-chase/news-story/a1f3f97c631857fe0026b79a56bc93ab</url>
+  <title>Ex-Docker guilty of police chase charges</title>
+  <content>
+FORMER Fremantle Dockers footballer Shane Yarran has pleaded guilty to a string of offences relating to a police chase, but he denies stabbing a man outside a pub with a broken bottle.
+The 27-year-old has been behind bars in Hakea remand prison since May 24 when he allegedly reached 125km/h in a 60km/h zone during an early morning police pursuit in Gosnells, then hid in bushes before being found by police dog Nacho.
+He pleaded guilty in the Perth Magistrates Court on Tuesday to nine offences, including reckless driving and disorderly conduct, but pleaded not guilty to unlawful wounding, a charge that was laid after he allegedly attacked a man with a broken bottle outside the Westfield Tavern in Camillo in July 2015.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Westfield Tavern</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fremantle Dockers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nachos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gosnells</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hakea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Camillo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shane Yarran</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ex-Docker</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Perth Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

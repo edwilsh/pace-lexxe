@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424559090164768</docid>
+  <date>04/08/2017</date>
+  <time>05:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-04/defeated-png-oppn-leader-says-violence-in-enga-not/8775766</url>
+  <title>Defeated PNG opp'n leader says violence in Enga not his fault</title>
+  <content>
+Unrest in Papua New Guinea's Enga Province is being blamed on what the losing candidate in the Kandep electorate is describing as vote rigging.
+Supporters of the former opposition leader Don Polye rioted when it was announced he had lost his seat to the PNC candidate, Alfred Manase.
+Police and military reinforcements were sent into the area amid reports of injuries and houses being burned.
+The defeated candidate, Don Polye, is appealing for calm, but he says the violence is not his fault.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Papua New Guinea's Enga Province</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>PNC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Enga</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Alfred Manase</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Don Polye</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kandep</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

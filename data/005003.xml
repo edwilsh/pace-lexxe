@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405442190372975</docid>
+  <date>01/08/2017</date>
+  <time>03:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/telcos-cry-foul-over-controversial-nbn-charge-for-bandwidth/8762404</url>
+  <title>NBN: Internet providers say controversial CVC charge for bandwidth is too expensive</title>
+  <content>
+Australian internet providers are in open conflict with the National Broadband Network, urging the wholesaler to drop its controversial charge for bandwidth.
+At the moment every internet provider has to purchase how much bandwidth they need per month from the NBNco.
+The more they buy, the less likely their speeds will slow down during peak hours.
+This charge is called the Connectivity Virtual Circuit (CVC) and NBN chief executive Bill Morrow insists it is needed to eventually recover the cost of building the network and make a modest return on the Government's $49 billion investment.
+Bill Morrow wrote a  and  suggesting a price war over internet plans had led service providers to cut corners on quality to save on costs, and suggesting ISPs should be buying more bandwidth.
+But internet providers argue the charge is too expensive.
+TPGs chief operating officer Craig Levy said the CVC charge in Australia was amongst the highest in the modern world.
+"This CVC model needs to disappear," he said.
+He defended the amount of CVC TPG and its brands iiNet and Internode purchased for its customers.
+"It's always a balancing act, we believe we're giving customers as good as we can give them," Mr Levy said.
+"Our customers are amongst the most satisfied on the NBN, however, more bandwidth would always be most welcome."
+Mr Levy said while TPG sold plans ranging from 12 megabits per second to 100 megabits, most customers were opting for the lowest speed because that was what they could afford.
+Another provider, MyRepublic, has also spoken out against the NBNs wholesale charges.
+The company operates across the Asia-Pacific region, and its local managing director, Nicholas Demos, said he was disappointed with Mr Morrow's public comments.
+"I just believe it's a bit of a deflection strategy from the NBN," he said.
+"We all know about the number of complaints they've been receiving recently, so it's just trying to pass some of the blame on to the RSPs (retail service providers) for that."
+MyRepublic also operates in New Zealand, where 84 per cent of the population will get a fibre optic cable connection to their home.
+"Fibre to the premises (FTTP) just works," Mr Demos said.
+"When you introduce other technologies here like fibre to the node, and HFC (hybrid fibre coaxial), there's complications and it brings in a lot more customer complaints.
+"The model is not right. The model as it currently is means the individual RSP needs to look after their own CVC.
+"Where we operate in New Zealand, it's not up to an individual RSP to do that - the NBN provider over there... they look after the CVC."
+'They're going to have to admit they made a mistake'
+
+Kimberley Wray, an iiNet customer who lives just outside Brisbane, said she was unhappy with her fibre to the node connection.
+"The speeds have been quite slow," she said.
+When she checked her speed at around 6pm on Monday night she was getting 16.4 megabits, but she said that was the fastest she had seen it in a while.
+Ms Wray said her average download speed was just 7 megabits, slower than when she was on ADSL.
+Fibre to the node is where an optic fibre cable only runs as far as a box somewhere nearby to the house.
+The old copper telephone cables are used for the last stretch along the street and into a home.
+
+"We would pay a little bit more willingly to have had fibre to the home or workplace, where everything was consistent, it was fast," Ms Wray said.
+Independent telecommunications analyst Paul Budde said politicians were going to have to admit they made a mistake, and write off half of the cost of the NBN.
+"If you cannot deliver a service that people can afford, then you're obviously building a network that's too expensive," he said.
+"In the end you have to write down a very significant part of your investment in order to have a service that's affordable that people can use."
+Mr Budde said customers would not be prepared to pay the charges that would come with the retail service providers' massively increasing their CVC spend.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Demos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Levy</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Wray</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>TPG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TPGs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iiNet</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nicholas Demos</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Craig Levy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Budde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Budde</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MyRepublic</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrow</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Government's $49</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ADSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internode</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC TPG</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NBNs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBNco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Connectivity Virtual Circuit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kimberley Wray</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>7</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

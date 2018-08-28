@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400288229523321</docid>
+  <date>31/07/2017</date>
+  <time>07:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/human-resources-machine-the-creepy-game-that-teaches-you-to-code-20170730-gxlwsr</url>
+  <title>Human Resources Machine, the creepy game that teaches you to code</title>
+  <content>
+After 44 years of slogging away in a sepia-coloured office tower, with passive aggressive colleagues making snide comments about my suffering at the hands of the Corporate Machine, I feel I have grasped the (very) basics of coding.
+is a game designed to train your brain in the logic of computer programming. Awkwardly, machines are coming for your job. So be a good employee, complete the puzzles your boss gives you and you'll become an "invaluable instruction follower".
+Hint: you're basically programming yourself out of existence.
+Your Tim Burton-esque colleagues are perpetually drinking coffee in an uninspiring kitchen, complete with a television screen documenting the slow demise of human labour at the hands of machines.
+
+Tomorrow Corporation
+
+At the end of one level, one big-lipped lady asks absently "Where's Carol?" and Carol is seen plummeting past the window, presumably after being replaced by the program you just wrote.
+
+Strangely, I really liked the morbid melancholy that underpins this game. You're climbing an excruciating corporate ladder; each level is an entire year of your life and the computers are replacing boring, repetitive work. But it's cool to understand how they do it and how the computers think. .
+Each level, you're staring at a conveyor belt with different coloured tiles. Your manager - a berserk man with a pronounced bald patch - gives you a task, you choose from a group of commands and assemble them in an order that allows your character to complete the task.
+It reminded me instantly of the BODMAS operation in primary school. (Brackets. Orders. Division. Multiplication. Addition. Subtraction.)
+The wonderful thing about this game is it is based on logic, not mathematics. Something I think dissuades people from having a stab at learning to code is the fear that it's going to be too mathsy.
+
+Tomorrow Corporation
+
+Human Resources Machine starts easily enough and after I blitzed the first few levels, my ego was pumped and I was seriously considering a future where I could tap out strings of code, automate everything in my life and impress attractive software engineers.
+But things became difficult very quickly, and I was begrudgingly grateful for the hints my manager would scream at me in CAPSLOCK.
+Army of robots
+
+That said, it didn't take long before I was almost crying in frustration. The tasks became extremely difficult very quickly, and I was forced to re-evaluate my future as a sharp-shooting, fabulously paid coder who wowed aforementioned software boys.
+
+Apologies to honest gaming completionists, but I then scoured YouTube for successful walkthroughs to figure out ways to complete the levels but also because I was hooked by the story line.
+The intermittent television updates were beginning to report an army of robots surrounding the city, but each time there was some deficiency in their capabilities.
+Was I actually building what would destroy the modern labour market?
+Who were the invisible management praising my coding work?
+
+What did happen to Carol?
+Finally, I found  - in 2719 steps no less - and whose character had matured to a middle-aged employee.
+He was rewarded with a final scene where (spoiler), two glassy-eyed managers are poised in the kitchen, holding an old-school computer box and saying in their smooth, creepy voices: "Your job is safe - we've replaced you with this electronic box. A truly efficient worker that never sleeps. Please take your things and enjoy whatever it is that you people do out there."
+Your white-haired character leaves the building, entering the blissful world of retirement, where there's utter anarchy. Tiny figurines are firing guns at enormous robots who are crushing everything in their path. At least they work now: the end.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>CAPSLOCK</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Corporation</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Burton-esque</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BODMAS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carol</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Resources Machine</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Corporate Machine</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

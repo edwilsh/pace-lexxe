@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409960496055414</docid>
+  <date>01/08/2017</date>
+  <time>21:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/police-guard-scene-thagoona-house-fire-investigato/3207717/</url>
+  <title>Police guard scene of Thagoona house fire for investigators</title>
+  <content>
+FIRE investigators will arrive on scene of a house fire at Thagoona today after the two storey home was destroyed in a fire overnight.
+
+The timber home was already fully engulfed with flames when emergency services arrived shortly before 7.30.
+
+The top floor of the house crumbled before the fire was brought under control at 8.15pm.
+
+Police guarded the Adelong Av property overnight until investigators start their enquiries today.
+
+Queensland Ambulance and Energex were also on scene.
+
+The cause of the fire is unknown.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Thagoona</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelong Av</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

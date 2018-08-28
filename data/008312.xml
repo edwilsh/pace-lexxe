@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412056440130720</docid>
+  <date>02/08/2017</date>
+  <time>05:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/victoria/passengers-suffer-cuts-and-bruises-after-trams-collide-on-bourke-street-20170802-gxntg2.html</url>
+  <title>Passengers suffer cuts and bruises after trams collide on Bourke Street</title>
+  <content>
+Two trams have collided on Bourke Street, leaving several passengers with minor injuries.
+The collision happened near the intersection with Spencer Street, opposite Southern Cross station on Wednesday afternoon.Photo: Steffanie Tan
+An 86 tram, rear-ended a 96 tram.
+A number of passengers have suffered cuts and bruises.
+Ambulance Victoria say they are assessing about "15 people at this stage".
+The 96 and 86 trams are being diverted, with the section of Bourke Street, between Spencer and King, having been closed by police.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bourke Street</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern Cross</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steffanie Tan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spencer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spencer Street</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407164472289036</docid>
+  <date>01/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/asbestos-confirmed-in-opera-house-works/news-story/32f4f98e52f74054db0bfe299cc366fc</url>
+  <title>Asbestos confirmed in Opera House works</title>
+  <content>
+Jamie McKinnellAustralian Associated Press
+
+Share
+
+Electricians working on a $200 million renovation at the Sydney Opera House have been told by a union to stop work after tests confirmed the presence of asbestos fibres.
+The Electrical Trades Union on Tuesday said it was concerned it took "several days" for the union to be informed and was demanding a full risk assessment along with immediate training for workers.
+The ban covers any work that involves accessing risers and penetrations that carry electrical services between floors and through walls.
+Builder Laing O'Rourke said the renewal works included a plan for the management of asbestos.
+"Work is continuing on site as normal," a spokeswoman said in a statement.
+"The existence of asbestos in original structures of the Opera House was always planned for as part of these major works, and we are taking every precaution and safeguard."
+Asbestos awareness training had also been provided to employees and subcontractors since the work started, she said.
+The area of concern was isolated and the material was removed safely last week.
+Opposition arts spokesman Walt Secord echoed calls for a full risk assessment.
+
+"A single asbestos fibre can cause deadly cancer," he said in a statement.
+"No worker or member of the public should be exposed to deadly asbestos and work should not commence until it is 100 per cent safe to do so."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Walt Secord</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Laing O'Rourke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jamie McKinnellAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electrical Trades Union</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Opera House</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Opera House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

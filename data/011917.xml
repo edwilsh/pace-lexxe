@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418374337141753</docid>
+  <date>03/08/2017</date>
+  <time>05:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/national/woman-hit-by-car-at-bundall/news-story/5dc3eed6d5ab07208d5d0d63db24b6c6</url>
+  <title>Woman's leg crushed in Bundall car crash</title>
+  <content>
+AN off-duty paramedic and a doctor rushed to help a 64-year-old woman whose leg was crushed by a car in Bundall this afternoon.
+Privately-employed paramedic Peter McMenamin and his wife Christine said they watched on in shock while an elderly woman in a maroon hatchback drove straight over the 64-year-old's leg on Crombie Avenue, near the Bermuda Street intersection.
+"I couldn't believe it (the car) kept going," Mr McMenamin said.
+"The whole back of her leg was open, all the tissue was coming out ... she had a gaping wound.
+"I've got the resus (resuscitation) kit ... I just collected it for a job on the weekend."
+Mrs McMenamin said the couple were on the scene to drop off items to the Salvation Army when they witnessed the crash just after midday.
+"There was just a lady crossing the road in the wrong place and very unfortunately this elderly lady's pulled out ... and hasn't seen her and just run her over," Mrs McMenamin said.
+"She ran over her foot ... and then she's realised it.
+
+"The lady jumped back and it was as if she was going 'stop' and the lady drove over her foot and then she fell and either kept going or either reversed back over her leg."
+Police shut off traffic in both directions while paramedics worked to stabilise the woman who was thought to have a gaping wound and fractures to her lower limbs.
+Mr McMenamin said the woman was also lucky that an off-duty doctor came to her aid with a cannula to administer pain killers.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Crombie Avenue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christine</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bermuda Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salvation Army</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter McMenamin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr McMenamin</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bundall</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mrs McMenamin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

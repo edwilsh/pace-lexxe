@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429536957345356</docid>
+  <date>05/08/2017</date>
+  <time>01:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/us-army-halts-use-of-chinesemade-drones-over-cyber-concerns-20170805-gxpym7.html</url>
+  <title>US Army halts use of Chinese-made DJI Technology Co drones over cyber concerns</title>
+  <content>
+New York: The US Army has ordered its members to stop using drones made by a Chinese manufacturer because of "cyber vulnerabilities" in the products.
+An August 2 Army memo posted online and verified by Reuters applies to all SZ DJI Technology Co Ltd drones and systems that use DJI components or software. It requires service members to "cease all use, uninstall all DJI applications, remove all batteries/storage media and secure equipment for follow-on direction."Photo: Supplied
+The memo says DJI drones are the most widely used by the Army among off-the-shelf equipment of that type.
+DJI said in a statement that it was "surprised and disappointed" at the Army's "unprompted restriction on DJI drones as we were not consulted during their decision."
+
+The privately held company said it would contact the Army to determine what it means by "cyber vulnerabilities" and was willing to work with the Pentagon to address concerns.
+Analysts at Goldman Sachs and Oppenheimer estimated in 2016 that DJI had about 70 per cent share of the global commercial and consumer drone market. Goldman analysts estimated the market, including military, to be worth more than $US100 billion over the next five years.
+
+The Army was considering issuing a statement about the policy, said Army spokesman Dov Schwartz.
+
+You will now receive updates from
+
+Breaking News Alert
+
+Breaking News Alert
+
+Get the latest news and updates emailed straight to your inbox.
+
+The move appears to follow studies conducted by the Army Research Laboratory and the Navy that said there were risks and vulnerabilities in DJI products.
+The memo cites a classified Army Research Laboratory report and a Navy memo, both from May as references for the order to cease use of DJI drones and related equipment. 
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oppenheimer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese-made DJI Technology Co</name>
+    <count>1</count>
+    <score>-1.2</score>
+  </sindex>
+  <sindex>
+    <name>Dov Schwartz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 2 Army</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pentagon</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Goldman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Army</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Army Research Laboratory</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Alert</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Navy</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DJI</name>
+    <count>8</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SZ DJI Technology Co Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

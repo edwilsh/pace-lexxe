@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430876987153044</docid>
+  <date>05/08/2017</date>
+  <time>06:21</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/man-dies-as-car-hits-tree-on-central-coast/news-story/07267caf36156964eb688137752d63ae</url>
+  <title>Man dies as car hits tree on Central Coast</title>
+  <content>
+A man is dead after his car veered off the road and hit a tree on a notorious stretch of road on the NSW Central Coast.
+The man's car smashed into the tree off Wilfred Barrett Drive north of The Entrance on Saturday morning.
+He was treated by paramedics but died at the scene.
+It's not the first fatality on Wilfred Barrett Drive, at least one other roadside memorial is prominently displayed on a bend not far from the site of Saturday's crash.
+A 54-year-old man also died in a crash on Friday night when his car collided with another on the Great Western Highway in Minchinbury.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Central Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Great Western Highway</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Minchinbury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW's Central Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Wilfred Barrett Drive</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

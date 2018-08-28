@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440871376140929</docid>
+  <date>06/08/2017</date>
+  <time>21:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-07/eiffel-tower-evacuated-as-man-brandishing-knife-is-arrested/8780012</url>
+  <title>Eiffel Tower evacuated as man brandishing knife is arrested, sparking terror probe</title>
+  <content>
+Related Story:
+
+A young French man, recently discharged from a psychiatric hospital, is under investigation for an attempted terrorist attack after he brandished a knife and tried to breach security at the Eiffel Tower, authorities said.
+
+Key points:
+
+Man allegedly said "Allahu akbar", the Arabic phrase for "God is great"
+The suspect later told police that he had wanted to attack a soldier
+The attack was originally classified as a common crime by someone with a history of psychiatric problems
+
+No-one was hurt in the incident late on Saturday (local time), though the tower was briefly evacuated, according to a statement from the company that manages the monument. The tower reopened as usual on Sunday morning.
+It is the latest of several attempted attacks on security forces guarding prominent sites in France as part of heightened protective measures prompted by deadly attacks since 2015.
+Monuments in the French capital are occasionally evacuated for security reasons as part of those measures.
+In Saturday's incident, the suspect tried to force his way into the secure zone beneath the tower, held out a knife and said "Allahu akbar", the Arabic phrase for "God is great", an official close to the investigation said. He quickly was surrounded by security forces and surrendered, the official said.
+A Paris police official said no shots were fired. Neither official was authorised to be publicly named.
+The suspect later told police he had wanted to attack a soldier and had been in touch with a member of the Islamic State group, who encouraged him to do so, according to the official close to the investigation.
+The official said the claim prompted investigators to upgrade the seriousness of the alleged offence, which originally they classified as a common crime by someone with a history of psychiatric problems. As a result, the probe has been handed to counter-terrorism prosecutors.
+The man is now under investigation for involvement in a terrorist enterprise and an attempted terrorism-related attack on security forces.
+The suspect was born in Mauritania in 1998, but has French citizenship, the official said. His name was not released.
+The Eiffel Tower was lit up on Saturday night in the colours of the Paris-Saint Germain soccer club and with lights welcoming star Brazilian striker Neymar to the team.
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arabic</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Allahu</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris Saint-Germain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eiffel Towers</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mauritania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Neymar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418541840868872</docid>
+  <date>03/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/moreton/cctv-released-of-attempted-atm-theft-in-north-brisbane-mall/news-story/f454c9ec6c45be8710bd2e12aeb0630b</url>
+  <title>CCTV released of ATM attack</title>
+  <content>
+Detectives are investigating the attempted theft of an automated teller machine (ATM) from a shopping centre on Anzac Avenue, Kallangur last month.
+Initial investigations suggest that just before 4am on July 28 a vehicle was used to smash through the front doors of the shopping centre.
+The vehicle was then driven inside the shopping centre to a standalone ATM where it was attached in an attempt to dislodge the machine from its mounting.
+Damage has been sustained to the ATM however it has not been removed.
+A stolen grey Isuzu dual cab believed to be involved in this incident was located burnt-out at just after 4am on Tamborine Circuit, Kallangur.
+The vehicle was stolen from a Bellmere address sometime overnight on July 19.
+No money was stolen and investigations are continuing.
+Investigators are appealing for anyone who may have witnessed any suspicious activity in the area at the time of the incident or anyone with information which could assist with their inquiries to contact police.
+If you have information for police, contact Policelink on 131 444 or provide information using the online form 24hrs per day.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bellmere</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tamborine Circuit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anzac Avenue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Policelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Isuzu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kallangur</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416488846468161</docid>
+  <date>02/08/2017</date>
+  <time>22:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Broker</source>
+  <url>http://www.brokernews.com.au/news/breaking-news/lmi-provider-sees-34-7-drop-in-profits-239475.aspx</url>
+  <title>LMI provider sees 34.7% drop in profits</title>
+  <content>
+Australia's largest provider of lenders' mortgage insurance (LMI) Genworth has reported an annual drop in net profit after tax (NPAT) of 34.7%, signalling further financial difficulties amidst economic and regulatory change.
+In its first half 2017 earnings, the company reported a NPAT of $88.7m which was down from the $135.8m reported in the same time period last year.
+Underlying NPAT slightly increased (after adjusting for an after-tax mark-to-market move in the investment portfolio of $24.9m), moving 0.5% from $112.9m to $113.5m between 1H17 and 1H16.
+These results were in line with the company's expectations, said Georgette Nicholas, chief executive officer and managing director of Genworth, and demonstrated the resilience of the firm's business model.
+"Despite some challenging market dynamics, including elevated mortgage delinquencies in resource-exposed regional economies and a smaller high loan-to-value ratio (LVR) market, our profitability remains strong."
+New business volume for Genworth decreased by 6.4%, moving from $14bn in the first half of 2016 to $13.1bn in the first half of this year. This included $2.1bn in bulk portfolio transactions.
+Volumes of high loan-to-valuation (HLVR) loans, ie loans with LVRs greater than 80%, have remained steady at 22% from 2017 to 2016. Last year, these loans accounted for $83bn of loans approved, according to .
+For Genworth, new insurance written for 1H17 included 17% of loans with an LVR of 90.01% and above and 49% of loans with LVR between 80% and 90%.
+The number of portfolio delinquencies reported by Genworth has actually risen from 6,413 to 7,285 (a change of 872) between 1H16 and 1H17, indicating higher levels of mortgage stress.
+Looking at a state-by-state breakdown, Queensland and Western Australia experienced the highest delinquency levels in the country.
+
+ 
+
+State
+June 2016
+June 2017
+Change (bps)
+
+NSW
+0.30%
+0.32%
++2
+
+Victoria
+0.37%
+0.41%
++4
+
+Queensland
+0.62%
+0.72%
++10
+
+WA
+0.61%
+0.86%
++25
+
+SA
+0.59%
+0.65%
++6
+
+Group
+0.43%
+0.51%
++8
+
+In yesterday's investors briefing, Nicholas also announced a $100m share buy-back scheme as part of the firm's ongoing capital management strategy.
+"Our business focus is to address our customers' capital and risk management needs and to deliver a sustainable return on equity for shareholders," she said.
+"As announced in February, we have strategic initiatives underway to redefine our core business model with a particular focus on improving our underwriting efficiency, enhancing our product offerings and where appropriate, leveraging our data and partnerships along the mortgage value chain."
+Related stories:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LMI</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LVR</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Georgette Nicholas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NPAT</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Nicholas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HLVR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>H16</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>H17</name>
+    <count>3</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LVRs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419787381409670</docid>
+  <date>03/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/wa-has-another-lotto-winner/news-story/aa1f641ccb16295296015fc85dea1ad2</url>
+  <title>WA has another Lotto winner</title>
+  <content>
+WA must be the lucky state for Lotto with yet another multi-millionaire.
+One West Australian has won $6 million in tonight's Powerball.
+There was also two Division 2 winners who based in WA who both won $135,436.20 each.
+48 people in WA also scored themselves $5,903.65 each in Division 3.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>4</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Powerball</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Lotto</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Division 2</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Division 3</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

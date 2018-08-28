@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707600012</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/china-demand-keeps-copper-near-2yr-high/news-story/97aafb01380312bd31e6bd6b468f2c15</url>
+  <title>China demand keeps copper near 2-yr high</title>
+  <content>
+Copper has held near two-year highs and nickel rose for a 10th straight session, supported by expectations of stronger demand from top consumer China and a weak dollar though gains were limited by profit-taking.
+While the rally may have slowed, "the fundamentals remain quite strong. We've seen no real weakness in economic data." said ETF Securities analyst Nitesh Shah.
+COPPER: Benchmark copper on the London Metal Exchange ended unchanged at 6,352 a tonne, close to Monday's two-year high of $US6,430 and up 14 per cent since early June.
+CHINA: Growth in China's services sector slowed in July, a survey showed on Thursday, but data earlier showed manufacturing grew strongly, underpinning demand for metals.
+CHINA SCRAP: Proposed Chinese restrictions on scrap imports may, however, have a limited impact on the refined copper market, Barclays analysts said: "Net consumption and scrap production rates are likely to remain the same, with only the supply chain and country of refining changing."
+US FACTORIES: New orders for US-made goods saw their biggest increase in eight months, but manufacturing is expected to continue to grow at a moderate pace.
+GRASBERG: An international trade union will press Indonesia to reinstate thousands of striking workers at Grasberg, the world's second-largest copper mine.
+COPPER STOCKS: Prices were supported by a fall in on-warrant stocks at LME-registered warehouses to 189,900 tonnes from more than 230,000 in mid-July after 8,700 tonnes of cancellations.
+NICKEL: LME nickel closed up 0.3 per cent at $US10,380 a tonne in its 10th day of gains after touching a four-month high of $US10,445 earlier in the session.
+FUNDAMENTALS: Expectations of stronger demand from Chinese stainless steel mills and concerns over supplies from top nickel ore exporter the Philippines have boosted the metal.
+BATTERIES: Soaring cobalt prices are prompting Asian battery makers to add more nickel to battery recipes.
+SUPPLY: But ore exports from Indonesia are increasing, with licences for exports totalling 8.1 million tonnes granted since a ban was relaxed in January, analysts at Commerzbank said.
+DOLLAR: The US dollar was near 15-month lows, fuelling demand for dollar-denominated metals because they are cheaper for holders of other currencies. FRX/
+SPECULATORS: "Much of the recent strength across industrial metals has been financially driven (whether dollar related/money inflows)," brokers Marex Spectron said in a note, warning that physical metal demand may not justify gains and increased financial interest could cause price volatility.
+PRICES: Aluminium finished down 0.5 per cent at $US1,916, zinc ended 0.3 per cent lower at $US2,792, lead rose 0.6 per cent to $US2,367 and tin closed up 0.3 per cent at $US20,650 a tonne.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London Metal Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LME</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-made</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US2,367</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grasberg</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Proposed Chinese</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Commerzbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US20,650</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,916</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US FACTORIES</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US6,430</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barclays</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CHINA SCRAP</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ETF Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marex Spectron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10,380</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FRX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10,445</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nitesh Shah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LME-registered</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,792</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

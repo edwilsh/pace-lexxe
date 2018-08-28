@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425297824552645</docid>
+  <date>04/08/2017</date>
+  <time>08:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/breaking-two-trapped-serious-crash-busy-road/3209061/</url>
+  <title>BREAKING: Two trapped, serious crash on busy road</title>
+  <content>
+UPDATE: Crews believe it will take up to half an hour to remove both patients from the cars. 
+
+The top has been cut off one car. 
+
+INITIAL REPORT: Two people are trapped following a two-car crash in Bundaberg. 
+
+Crews are on scene at the head-on smash at the corner of Childers Rd and University Drv outside the airport. 
+
+Early reports suggest one person is conscious and another is unconscious. 
+
+One person has suffered face, leg and pelvis injuries. 
+
+Both are trapped. 
+
+Traffic has been blocked across two lanes and is being diverted through Samuels Rd. 
+
+There have been calls for multiple ambulance units to attend. 
+
+One of the cars is believed to be a Mitsubishi Triton, the other a sedan. 
+
+Fire crews are on scene and are helping to remove one person from a car. 
+
+A spokesman for the Queensland Police Service said the crash was called in at 6.15pm.
+
+More to come
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bundaberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University Drv</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Service</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mitsubishi Triton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Childers Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Samuels Rd</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

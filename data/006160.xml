@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408276868843281</docid>
+  <date>01/08/2017</date>
+  <time>14:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/us-begins-russia-drawdown-after-kremlin-retaliates-for-sanctions/8765244</url>
+  <title>US begins evacuating Moscow diplomatic premises after Kremlin retaliates for sanctions</title>
+  <content>
+The United States has begun removing furniture and equipment from a diplomatic property in Moscow in the first sign of compliance with a Kremlin order to slash its presence in Russia as retaliation for new US sanctions.
+President Vladimir Putin  in Russia by September 1, and said Moscow will seize two US diplomatic properties in response to sanctions approved by Congress last week.
+
+The White House , meant as a response to alleged Russian meddling in the 2016 US presidential election and to further punish Moscow for its 2014 annexation of Crimea from Ukraine.
+On Tuesday, removal men began dismantling play equipment and barbecues at a US-owned dacha (country villa) on the outskirts of Moscow, after being refused access the day before, according to reporters at the scene.
+The dacha, which is being confiscated along with a US warehouse in the south of the Russian capital, was used by US diplomatic staff at the weekends and to host parties for students, journalists and other diplomats.
+'The mood is very pessimistic, everyone is just loitering'
+
+The removal men said they arrived at around 7:00am on Tuesday (local time) and were seen packing furniture, including beds and lamps, into three white removal vans before leaving the property three hours later.
+Deputy Foreign Minister Sergei Ryabkov said US staff had to leave the dacha and warehouse by midday on Tuesday (7:00pm AEST), TASS news agency reported.
+Mr Ryabkov and the Kremlin said no one had obstructed US employees trying to access the property.
+Mr Putin said on Sunday that Russia had ordered the United States to cut 755 of its 1,200 diplomatic staff in its embassy and consular operations, though many of those let go will be Russian citizens, with the United States allowed to choose who leaves.
+The ultimatum issued by the Russian leader is a display to voters at home that he is prepared to stand up to Washington - but is also carefully calibrated to avoid directly affecting the US investment he needs, or burning his bridges with Mr Trump.
+One person at the embassy, who spoke on condition of anonymity because they are not authorised to talk to the media, said staff there were feeling depressed and despondent as they came to terms with the Kremlin's order.
+"The mood in the office is very pessimistic," the person said.
+"Everyone is just loitering, or sitting on job websites looking for a new job."
+Reuters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ryabkov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Vladimir Putin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ukraine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US-owned</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Putin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crimea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TASS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deputy Foreign Minister Sergei Ryabkov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

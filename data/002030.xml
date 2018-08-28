@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400378423838212</docid>
+  <date>31/07/2017</date>
+  <time>08:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/brisbane-bus-drivers-to-strike-again/news-story/36ba51ef48e1a6f12c5f2ecec1a4e6bd</url>
+  <title>Brisbane bus drivers to strike again</title>
+  <content>
+Brisbane bus drivers will walk off the job for the fourth time in three weeks on Wednesday as an ongoing dispute over pay and safety continues with the council.
+The Rail, Tram and Bus Union advised Brisbane City Council on Monday that "some" drivers would take industrial action between 10am and 2pm.
+The council took to social media on Monday afternoon to urge commuters to plan ahead and make alternative arrangements.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane City Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bus Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

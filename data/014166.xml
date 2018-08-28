@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423223355315586</docid>
+  <date>04/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/postie-attacked-while-delivering-mail-in-midland-police-hunting-for-attacker/news-story/c6da022163d7d2c643b78234ad285dd9</url>
+  <title>Police hunt for postie attacker</title>
+  <content>
+A FEMALE postal worker has been attacked by a man as she delivered letters on her motorcycle in Midland.
+The postie, 71, was delivering the mail on Templeman Place when she was allegedly assaulted at about 1.30pm.
+She passed a man who was walking along the street then travelled down Cooper Street before returning to Templeman Place, heading north.
+The man then approached her and caused her to stop, before pushing her, causing her to fall on a fence.
+While she was on the ground, the attacker kicked her several times before running off along Templeman Place.
+The postie was taken to St John of God Hospital in Midland.
+Police were unable to locate the man, who was described as being in his 20s, tall, with tanned skin, unshaven and wearing a black hoodie.
+Anyone who can assist in this investigation is asked to call Crime Stoppers on 1800 333 000 or make a report online at
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIDLAND</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Templeman Place</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St John of God</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cooper Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

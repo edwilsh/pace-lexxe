@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401615374442560</docid>
+  <date>31/07/2017</date>
+  <time>12:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/22/37/factory-on-fire-in-suburban-melbourne</url>
+  <title>Factory on fire in suburban Melbourne</title>
+  <content>
+A factory has caught fire in Melbourne, with the blaze threatening to spread to an adjoining building.
+A smoke warning was issued for nearby homes after the factory in Nelson Street, Moorabbin, caught fire on Monday night, the Metropolitan Fire Brigade said.
+The blaze was threatening to spread to another factory that shares a wall with the burning building and fire crews are expected to remain on scene for several hours.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nelson Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

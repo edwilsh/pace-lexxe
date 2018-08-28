@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423317844597569</docid>
+  <date>04/08/2017</date>
+  <time>01:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/intel-has-no-idea-what-to-do-with-vr-but-its-fun-to-watch-them-try/</url>
+  <title>Intel Has No Idea What To Do With VR, But It's Fun To Watch It Try</title>
+  <content>
+Gif source: Mindshow
+
+Virtual Reality is tech's biggest question mark. Could it become a mainstream medium, like movies or video games, or something completely different? A lot of people have tried and failed to answer that question, and while Intel's VR Happy Hour at the New Museum on Tuesday is no exception, roleplaying as a tree and directing a monster is a pretty entertaining way to spend two hours.
+
+I arrived at the New Museum around the time the event began at six o'clock, and was ushered up to the seventh floor's posh Sky Room, where among the milling assortment of journalists, circulating waiters, and an open bar were four wildly different VR experiences that Intel was pushing as various Next Big Things in virtual reality technology.
+
+The first, and least impressive demo I tried was Intel's collaboration with the Smithsonian. Running on an Oculus Rift, the experience had recreated a few rooms of the museum that were navigable by selecting a point on the floor, teleporting to it, and viewing a 360 perspective from that vantage point. In addition to a view of an artwork, the demo could virtually call up an info card, and most interestingly, teleport the user into an experience related to the painting. For one of the Aurora Borealis, you were transported into an arctic landscape. For a relocated statue, you appeared in the statue's original location. And for a screening of a film, you were transported into the theatre. While all of this was novel, the art was not particularly hi def, which is par for the course for VR as of now, but for an experience based on visual aesthetics I found it lacking.
+
+Next I tried a game called Mindshow, running on an HTC Vive rig. In this experience, I placed characters like aliens, cowboys and newscasters in a series of pre-selected movie sets, like a saloon, a deserted planet, and the wing of a plane to create and act out scenes, integrating voice and motion control. While this was the most dynamic experience of the night, it reminded me of the early Nintendo Wii and Playstation Move games; the experience felt more like a tech demo for new technology than the likely direction in which it would go. The cell-shaded graphics were some of the best of the night, but the options for the demo - still in alpha, to be fair - were limited. The choice of rig itself was also a big downside. I became nauseous much quicker than I did in an Oculus, and HTC Vives have much less headroom, making it a struggle to experience VR with glasses. By the end of the demo, I was eager to take off the headset.
+
+Intel Sports also made an appearance, live-streaming a Baltimore Orioles game. Overall the experience was simplistic, but the Amazon X-Ray-like addition of statistics and sports minutia, accessible by looking up, made it unique. Running on a Samsung Gear, this was one of two ideas the company's division had for sports. The Gear doesn't have a controller like the Oculus or Vive, so users need to point their heads at an option for a few seconds to select it - a recipe for dizziness. The baseball game was broadcast from a myriad of 180 degree cameras that showed the game at various angles that you could switch between. Intel's other experience, implemented during last year's NCAA championship game, used 360 video to show every angle of play. While live sports has long been one of the last things keeping cord-cutters tied to television, I'm not sure VR will be the paradigm shift in this particular fight. The service only streams one game per week, and there doesn't seem to be a clear path to growth.
+
+The final experience of my night, and probably my favourite, was simply called Tree. In addition to an Oculus Rift, I was equipped with a SubPac tactile audio system and traditional headphones. During the experience, I lived the life of a tree, from the planting of the seed breaking through the soil, through my growth - amongst ants and apes and birds - to becoming the tallest tree in the forest, to finally being chopped down by loggers. I was also bombarded with a scent experience - courtesy of International Flavours and Fragrances - that added an exciting new dimension to my immersion.
+
+Tree was the first VR experience where I forgot, for a moment, that I was anywhere other than a tranquil forest. This experience seemed, more than any others, to understand the limitations of VR, namely that the purely visual experience will only take users so far, so by employing the other senses, one forgets, if only for a moment, where they are in the world.
+
+VR itself is likely , barring some huge change in the technology. The headsets are expensive, people get nauseous, and no one quite has a killer app yet. I don't think I saw one on Tuesday, but the these detours on the way to one are entertaining, and there are certainly some strange experiences to be had.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>VR</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel's VR Happy Hour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fun To Watch It Try</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aurora Borealis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel Has No Idea What To Do With VR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SubPac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky Room</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Gear</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nintendo Wii</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HTC Vive</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oculus</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Playstation Move</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Gear</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Next Big Thing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Museum</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon X-Ray-like</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel Sports</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>International Flavors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mindshow</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baltimore Orioles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oculus Rift</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GIF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NCAA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Smithsonian</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Vive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

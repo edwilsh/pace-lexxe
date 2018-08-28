@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412567541247304</docid>
+  <date>02/08/2017</date>
+  <time>07:18</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/flash-floods-in-thailand-kill-23/news-story/0b8fa6c425cd2c5dc63a0be969ff4c21</url>
+  <title>Flash floods in Thailand kill 23</title>
+  <content>
+Flash floods in Thailand caused by continued heavy rainfall have killed 23 people and affected more than one million others since the start of July.
+All 23 flood fatalities were caused by drowning, the Department of Disaster Prevention and Mitigation said on Wednesday.
+Thailand is currently in a monsoon season, with heavy rainfalls forecast for the rest of the week.
+However it was not seasonal rain alone that caused widespread floods, according to the country's meteorological department.
+The situation became exacerbated after Thailand was hit by Tropical Storm Sonca, which originated in the upper South China Sea in late July.
+A total of 44 out of Thailand's 67 provinces have been flooded.
+Floodwaters in 10 provinces, mainly in the country's northeast, are still up to two metres in depth in some places.
+The hardest hit area is the northeastern province of Sakhon Nakhon, 650 kilometres from Bangkok. Its domestic airport was closed for three days before re-opening late on Monday.
+Among the flooded provinces is the historic central city of Ayutthaya, popular among tourists for its many ancient Buddhist temples.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ayutthaya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Disaster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bangkok</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thailand</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sakhon Nakhon</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Buddhist</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thailand's 67</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tropical Storm Sonca</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South China Sea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

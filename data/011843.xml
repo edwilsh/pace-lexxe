@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418288437794456</docid>
+  <date>03/08/2017</date>
+  <time>05:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/media-laws-set-for-parliament-debate/news-story/5ff0b860c10a531c8948adaa10bea99e</url>
+  <title>Media laws set for parliament debate</title>
+  <content>
+KEY FEATURES OF MEDIA LAWS:
+* Repeal of the rule which prevents a person exercising control of commercial television broadcasting licences whose combined licence area exceed 75 per cent of Australia's population. The rule has stopped mergers between Seven, Nine and Ten as well as regional broadcasters Prime, WIN and Southern Cross.
+* Repeal of the rule banning a person controlling more than two out of three platforms - TV, radio or newspaper - in any one commercial radio licence area. The government argues news is now consumed through a wide range of sources including online and the rule is redundant.
+* Regional TV broadcasters will have new requirements to boost local programming.
+* Gambling ads during live sports telecasts will be limited and the number of quarantined sporting events on the anti-siphoning list that gives free-to-air broadcasters first rights will be reduced.
+* Broadcasting licence fees and datacasting charges will be abolished, at a cost of $127 million in 2017/18 and $97 million a year thereafter.
+* Labor supports abolishing 75 per cent rule but not two out of three rule.
+* Nick Xenophon has a plan he will put to other crossbench senators to improve news coverage and stem the shedding of journalist jobs across the country.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Southern Cross</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Xenophon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FEATURES OF MEDIA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

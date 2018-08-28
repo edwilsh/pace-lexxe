@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404419988140744</docid>
+  <date>31/07/2017</date>
+  <time>23:41</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/01/islamic-state-claims-kabul-attack-7-dead</url>
+  <title>Islamic State claims Kabul attack, 7 dead</title>
+  <content>
+Islamic State has claimed responsibility for an attack on the Iraqi embassy in Kabul, Afghanistan.
+
+3 HOURS AGO 
+
+Militant group Islamic State has claimed responsibility for an attack on the Iraqi embassy in Kabul that began with a suicide bomber blowing himself up at the main gate, allowing gunmen to enter the building and battle security forces.
+
+Although there has been no confirmation of direct planning links with the main Islamic State movement in Iraq and Syria, the attack, just three weeks after the recapture of Mosul, underlines fears of a spillover into Afghanistan from fighting in Syria and Iraq.
+
+Afghan security forces confronted three gunmen for hours before the Interior Ministry announced in mid-afternoon that the attack, in a normally busy business district of the capital, had been suppressed.
+
+"The attack is finished," said Sayed Basir, a member of the special forces unit that dealt with the incident.
+
+He said the four attackers were dead, while two members of his unit were slightly wounded.
+
+The embassy building, partly blackened by smoke and flames from the fighting, was damaged but otherwise the impact from the Monday attack was relatively limited, compared with other recent attacks in Kabul.
+
+Najib Danish, an Interior Ministry spokesman, said two Afghan embassy workers had been killed but no Iraqi personnel had been hurt.
+
+A separate statement from the Iraqi Foreign Ministry said an Iraqi diplomat had been rescued, while a nearby hospital operated by Italian aid group Emergency said two injured people had been brought in for treatment.
+
+Islamic State's Amaq agency said two attackers carrying machine guns and hand grenades and wearing suicide vests had blown up the gate, and two fighters had broken into the compound.
+
+It said more than 27 guards had been killed, well above the figures given by Afghan authorities.
+
+The assault came a week after 35 people were killed in a Taliban attack on government workers in Kabul and underlines Afghanistan's precarious security.
+
+Islamic State, an ultra-hardline Sunni group, has carried out a series of high-profile attacks in Kabul, mainly targeting members of the mainly Shi'ite Hazara community.
+
+The top US commander in Afghanistan, General John Nicholson, condemned the attack.
+
+"ISIS-K seeks only to destroy a peaceful future for the people of Afghanistan. They failed in this attack and they will be defeated," he said in a statement.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Afghan</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraqis</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Najib Danish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mosul</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General John Nicholson</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Interior Ministry</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraqi Foreign Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Shi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>6</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Hazara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunni</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>5</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Sayed Basir</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State's Amaq</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>ISIS-K</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

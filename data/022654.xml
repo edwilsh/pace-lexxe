@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443109054131396</docid>
+  <date>07/08/2017</date>
+  <time>05:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/15/42/new-hobart-flight-adds-weight-to-afp-calls</url>
+  <title>New Hobart flight adds weight to AFP calls</title>
+  <content>
+The return of direct flights between Hobart and Adelaide strengthens the case for AFP officers at Tasmania's biggest airport, the state's premier Will Hodgman says.
+Jetstar announced on Monday tri-weekly flights between the two capitals would start in November - the first time in seven years.
+Mr Hodgman hailed the budget airline's move as a win for tourism but also says it "strengthens the case" for a permanent AFP presence at Hobart Airport after officers were withdrawn in late 2014.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Will Hodgman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jetstar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hobart Airport</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hodgman</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

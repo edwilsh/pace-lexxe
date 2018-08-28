@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417768746743524</docid>
+  <date>03/08/2017</date>
+  <time>03:29</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/businesses-urged-to-up-online-protection/news-story/6d7c41f0fbc6a97caabadc2f7fd32409</url>
+  <title>Businesses urged to up online protection</title>
+  <content>
+Australian Associated Press
+
+Share
+
+Businesses are being urged to up their online protection, with 78 per cent of card fraud occurring online, a new report has found.
+The annual fraud report released by Australian Payments Network highlights the significant increase in card-not-present (CNP) fraud, which occurs when valid card details are stolen and then used to make purchases without the actual card.
+In 2016, CNP fraud accounted for 78 per cent of total card fraud, leaving criminals to pocket $417.6 million, up from $363 million in 2015, the report said.
+It found Australians used their cards to make a record $714.5 billion worth of transactions - and fraud accounted for $534 million of it.
+AusPayNet chief executive Leila Fourie said it was important for merchants to use fraud prevention tools when conducting business online.
+"As Australia transitions towards even higher levels of online payments, customers and merchants need to increase security awareness," Dr Fourie said.
+She said the network will launch a program in the coming year to educate consumers and businesses on how to protect their online identities.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leila Fourie</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Payments Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AusPayNet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Fourie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CNP</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

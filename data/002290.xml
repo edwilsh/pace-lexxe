@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400846575281632</docid>
+  <date>31/07/2017</date>
+  <time>09:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/monash-freeway-crash-causes-long-delays/news-story/74f26a926cabc267b5b5eb1213df7548</url>
+  <title>Monash crash causes long delays</title>
+  <content>
+OUTBOUND traffic has been brought to a crawl in Melbourne's eastern suburbs after a car collided with railing on the Monash Freeway.
+Emergency services were called to the crash, near the Ferntree Gully ramp at Glen Waverley, and closed two outbound lanes while working to clear the scene.
+An Ambulance Victoria spokeswoman said a man, believed to be in his 50s, had been assessed by paramedics but was not taken to hospital.
+Motorists in the area have been advised to seek alternative routes to avoid long delays as it is not yet known how long the lanes will be closed for.
+No one else was injured in the crash.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ferntree Gully</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monash Freeway</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MONASH</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Glen Waverley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

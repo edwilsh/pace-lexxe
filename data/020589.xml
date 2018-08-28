@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439076079793724</docid>
+  <date>06/08/2017</date>
+  <time>14:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/we-have-exceeded-all-expectations/news-story/05dce85f426a8542e70202bb3868582b</url>
+  <title>Music festival scores a success</title>
+  <content>
+THE Australian Festival of Chamber Music has welcomed record crowds with the 27th annual event's box office income having increased by about 10 per cent compared with last year.
+Executive director Justin Ankus said he was thrilled with the success of the renowned event.
+"We have exceeded all expectations with our box office income up by approximately 10 per cent on last year and attendance up by around 4 per cent on last year to well over 16,500. We will have final box office figures later this week," he said.
+Two-thirds of attendees were from interstate with visitors contributing more than 28,000 bed nights and an estimated spend of $5.2 million in the region.
+"We have achieved exceptional houses at all concerts with 10 concerts, a third of our events sold out over the 10 days, and we are ecstatic with those results," Mr Ankus said.
+"The concert in the stunning Queen's Garden was one of my personal highlights but it's hard to select just one event.
+"The magical concert in Sacred Heart Cathedral was very well received, the closing night concert was a blast, and the trip to Orpheus Island was spectacular, with an amazing concert and whales spotted.
+"Where else would you rather be in winter?"
+</content>
+  <sindexList>
+  <sindex>
+    <name>Queens Gardens</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Orpheus Island</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sacred Heart Cathedral</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Justin Ankus</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Festival of Chamber</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ankus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400240984882110</docid>
+  <date>31/07/2017</date>
+  <time>07:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/act-policing-search-for-jonathon-hogan-20170731-gxme7s.html</url>
+  <title>Police on the hunt for Canberra Hospital escapee</title>
+  <content>
+Police are searching for a 23-year-old man who fled the Canberra Hospital on Saturday night.
+Jonathon Hogan was taken to hospital after a court appearance and was last seen about 8.30pm.
+ACT Policing said he was in custody for charges relating to property offences and resisting police.
+Mr Hogan was described as being of Aboriginal or Torres Strait Islander appearance, about 180cm, of slim build, with brown eyes and dark hair.
+He has "Ricki Rose Murray" tattooed inside his right forearm and "Ricki" tattooed inside his left forearm.
+ACT Policing warned people not to approach Mr Hogan, but asked that anyone with information on his whereabouts contact police on 131 444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jonathon Hogan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra Hospital</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hogan</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Torres Strait Islander</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Policing</name>
+    <count>2</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Ricki Rose Murray</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ricki</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

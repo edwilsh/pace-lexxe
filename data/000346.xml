@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398402738853756</docid>
+  <date>31/07/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/10/08/man-burnt-in-sydney-chemical-factory-blaze</url>
+  <title>Man burnt in Sydney chemical factory blaze</title>
+  <content>
+A man has suffered burns to 60 per cent of his body in a large fire at a chemical disposal factory in Sydney's west.
+The injured 40-year-old was airlifted to hospital soon after emergency services were called to the blaze on Links Road at St Marys just before 9am on Monday.
+Large amounts of smoke was billowing out of the building with firefighters quickly requesting more help to bring the fire under control.
+A NSW Fire and Rescue spokesman told AAP up to 70 firefighters tackled the blaze, which has since been contained.
+It's not yet known what sparked the fire but reports indicate it may have involved a processing machine and aerosol cans exploding inside the building, he said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Links Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Marys</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

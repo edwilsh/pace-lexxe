@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402010511442453</docid>
+  <date>31/07/2017</date>
+  <time>14:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/wheel-turns-cap-rates-set-to-expand-20170731-gxm3ty</url>
+  <title>The wheel turns: cap rates set to expand </title>
+  <content>
+Capitalisation rates - the industry metric for real estate returns - are set to expand within two to three years after hitting cyclical highs, according to Deutsche Bank analysts.
+As the wheel turns back, so too will valuations of major listed property players, with Deutsche cutting its target prices for Mirvac and Stockland by around 4 per cent.
+Commercial values have been peaking in recent months as cap rates on major deals reach their tightest in some time.
+Among the biggest recent deals in recent months, Dexus in Sydney's Martin Place on a 4.5 per cent yield.
+
+This week, GPT's unlisted shopping centres fundto buy out the Financial Review Rich Lister family's remaining stake in Melbourne's Highpoint mall for $680 million on an even sharper 4.2 per cent yield.
+
+But the cycle of ever-tightening cap rates is coming to end, according to Deutsche Bank analysts Emily Smith, Lee Power and Leanne Truong.
+"Our analysis shows cap rate expansion is likely in the next two to three years, with cap rates at all-time lows across most regions and geographies," they wrote in a client note.
+However, that forecast comes with a key caveat. The analysts also note that periods of cap rate expansion only tend to occur in recessionary periods.
+Tempered their prediction
+
+Cap rates typically expand up to 140 basis points to the middle of a cycle and up to 260 basis points to the peak of a cycle.
+However, with little risk of a recession in the forseeable future, the analysts have tempered their prediction for how much cap rates could expand in the near term.
+"Given Deutsche Bank does not forecast a recession, we believe it is not appropriate to apply historical averages to determine mid-cycle cap rates or apply the full impact of cap rate expansion during a recession," they wrote.
+The analysts therefore work on an assumption of 60 points of cap rate expansion to the mid-cycle.
+
+The expansion in cap rates flows through to valuations of listed property trusts. The target prices for diversified developers and investors Stockland and Mirvac are cut by 4 per cent, while Goodman is reduced by 3 per cent.
+"While we believe there will likely be a slowdown in the residential market driven by multi-family housing, Stockland is 95 per cent exposed to single-family housing in the east coast of Australia, where we forecast less than 5 per cent annual declines in fiscal 2017 and fiscal 2018," the analysts wrote.
+"While we believe there is some risk to Stockland's retail portfolio due to lower moving annual turnover growth versus peers, we believe this has been priced into the current share price."
+Petrol station property trust Viva Energy REIT, with its long leases and stable cash flows, remains Deutsche Bank's top pick in the sector.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Goodman</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Emily Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mirvac</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney's Martin Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Viva Energy REIT</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dexus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lee Power</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Financial Review Rich Lister</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Leanne Truong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockland</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>GPT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's Highpoint</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405957586455972</docid>
+  <date>01/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/more-than-10000-struck-down-by-flu-in-qld/news-story/70e1a87f26c24be5ccbe21e1b3bfcef8</url>
+  <title>More than 10,000 struck down by flu in Qld</title>
+  <content>
+At least 10,000 Queenslanders have already been struck down by the flu and more are expected to fall ill in the coming weeks, the state's heath department has warned.
+Most of the 10,831 cases recorded this year, about 78 per cent, were for influenza A while 22 per cent have contracted influenza B, according to Queensland Health.
+Communicable disease director Dr Sonya Bennett has urged people to be vaccinated, saying 1,324 Queenslanders had so far been hospitalised with 126 needing intensive care.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queenslanders</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Dr Sonya Bennett</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

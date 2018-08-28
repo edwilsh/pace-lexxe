@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407636918701168</docid>
+  <date>01/08/2017</date>
+  <time>12:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/air-force-mckinley-climatic-lab-torture-chamber-indoor-blizzards-extreme-weather-2017-7</url>
+  <title>The US Air Force can create ice storms and sandstorms inside this 'torture chamber' for aircraft</title>
+  <content>
+At the McKinley Climatic Lab in Florida, the Air Force tests the durability of aircraft by creating extreme weather conditions indoors.
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>McKinley Climatic Lab</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Florida</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Air Force</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Air Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

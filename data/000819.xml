@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398784990948225</docid>
+  <date>31/07/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/news/world/north-america/currency-traders-turn-more-bearish-against-us-dollar-20170730-gxlyhx</url>
+  <title>Currency traders turn more bearish against US dollar</title>
+  <content>
+Shorting the US dollar appears to be the market's favoured leveraged currency trade as traders turn more bearish against the currency than they have been in a year.
+Short positioning in the US dollar has followed the US dollar index down, and the market is now net short against the US dollar for the first time since May 2016, according to ANZ analysis of CFTC figures up to July 25.
+, sending traders looking for the next hawkish story elsewhere.
+To this end, they have zeroed in on the Canadian dollar, the Australian dollar and the euro.
+
+"The market appears to be overly enthusiastic in expecting early policy tilts from the European Central Bank and the Reserve Bank of Australia in particular," Khoon Goh, head of Asia research at ANZ, concluded in a report today. "It is at this juncture where we feel that markets are under-pricing the US Federal Reserve and expecting normalisation to come too soon from other developed market central banks."
+
+Low volatility and strong appetite for risk assets are also working against the dollar. But that could change once the Fed starts unwinding its monetary stimulus, which will have the effect of tightening liquidity.
+The , based on the advanced, or first, estimate released on Friday. The figure missed expectations for a 2.7 per cent reading. The result was dragged down by an absence of inventory stocking but business fixed investment and imports were strong contributors.
+First-quarter growth was revised lower to 1.2 per cent from 1.4 per cent. The second estimate is due August 30.
+However, as Citigroup economists note, . Excluding food and energy prices, the PCE price index increased 0.9 percent, slowing from 1.8 percent.
+
+"The pace of growth should keep downward pressure on the unemployment rate, but the prospect of higher inflation remains elusive," noted Rodrigo Catril, a currency strategist at NAB, in a report on Sunday.
+The US dollar index fell 0.6 per cent in the Friday night session, falling against all currencies except the Swiss franc. The Australian dollar is fetching US79.82¢; the Reserve Bank meets on Tuesday for its August meeting.
+NAB notes that beyond market positioning shifting against the US dollar, it is the Canadian dollar and to a lesser extent, the Australian dollar, which are benefiting. Australian dollar longs have increased to 56,000 contracts from 51,000.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citigroup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PCE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rodrigo Catril</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Khoon Goh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CFTC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUGUST 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US79.82</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

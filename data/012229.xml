@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417592653081833</docid>
+  <date>03/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/12/38/aust-surrogacy-nurse-jailed-in-cambodia</url>
+  <title>Aust surrogacy nurse jailed in Cambodia</title>
+  <content>
+US commander in Afghan should be fired because he hasn't won the war: Trump
+
+President Donald Trump's doubts about the war in Afghanistan has led to a delay in completing a new US strategy in South Asia, skepticism that included a suggestion that the US military commander in the region be fired, US officials have said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Cambodia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Asia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

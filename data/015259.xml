@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424382996503120</docid>
+  <date>04/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/08/04/robert-mueller-empanels-grand-jury-probe-russia-links-investigators-gather-washington/</url>
+  <title>Robert Mueller empanels grand jury 'to probe Russia links' as his investigators gather in Washington</title>
+  <content>
+Special Counsel Robert Mueller has impaneled a grand jury to investigate Russia's interference in the 2016 US election, in what amounts to a dramatic escalation of the continuing scandal.
+Citing unnamed people familiar with the matter,  Mr Mueller impaneled the grand jury in Washington, where his team is investigating whether President Donald Trump or any of his campaign associates potentially colluded with Russia during the election race.
+President Trump has denied any collusion between his campaign team and Moscow, calling the investigations a "witch hunt".
+US intelligence agencies have already publicly concluded that Russia attempted to influence the presidential election in Mr Trump's favour.
+Mr Mueller assembled the team of more than a dozen investigators, including current and former Justice Department prosecutors with experience in international bribery, organised crime and financial fraud. They will be based at an undisclosed location in Washington.
+The use of a grand jury, a standard prosecution tool in criminal investigations, suggests that Mr Mueller and his team of investigators are likely to hear from witnesses and demand documents in the coming weeks.
+Grand juries are common vehicles to subpoena witnesses and records, although they do not suggest any criminal charges are near.
+Mr Mueller was a former federal prosecutor in Washington before becoming FBI director, where he spent 12 years before stepping down in 2013.
+Meanwhile, lawyers for President Donald Trump said they were unaware of the existence of a grand jury and had no information to suggest the president himself was under federal investigation.
+Mr Mueller was appointed special counsel in May by the Justice Department following the firing by Mr Trump of FBI Director James Comey.
+The Washington-based team will reportedly present evidence inside a federal courthouse in Washington which could be more convenient for the group of investigators than working out of Alexandria.
+- with AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Grand</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Counsel Robert Mueller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mueller</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alexandria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump of FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Director James Comey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

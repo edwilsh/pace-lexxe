@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440368864962651</docid>
+  <date>06/08/2017</date>
+  <time>19:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/driver-pedestrian-safety-under-new-bridge/3209171/</url>
+  <title>Driver, pedestrian safety under new bridge</title>
+  <content>
+THE first cars have tested out the new, safer bridge on Hallets Rd close to a year since the old timber version was demolished.
+
+A two-lane concrete bridge over Six Mile Creek at Redbank Plains was officially opened on the weekend, marking the end of a $2.7 million job.
+
+The project was a large portion of $7.6 million for road infrastructure in Division nine in Ipswich City Council's budget last financial year.
+
+The new bridge will improve traffic flows through the local area and reduce the potential for accidents due to improved road geometry and a wider bridge.
+
+It's also good news for pedestrians with plenty of space on the side for walking and cycling.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Six Mile Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich City Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hallets Rd</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Redbank Plains</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

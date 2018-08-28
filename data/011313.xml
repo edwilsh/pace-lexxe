@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416742249543164</docid>
+  <date>02/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/sa-govt-blocks-inquiry-into-speed-cameras/news-story/d0b13dae1f59de6d41328337d00fa75c</url>
+  <title>SA Govt blocks inquiry into speed cameras</title>
+  <content>
+The South Australian government has blocked a move by the opposition to set up an inquiry into speed cameras.
+The parliamentary inquiry would have looked at all aspects of the operation of cameras and their relationship between location and road accidents.
+"Labor had the opportunity to give clarity and certainty to the people of South Australia as to how speed cameras are used, but instead they again chose to keep things secret," opposition spokesman for road safety, Stephan Knoll said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA Govt</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephan Knoll</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

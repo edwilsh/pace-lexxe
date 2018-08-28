@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415964860447853</docid>
+  <date>02/08/2017</date>
+  <time>20:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/transport/driverless-bus-to-be-trialled-in-sydneys-olympic-park-20170802-gxo6ve</url>
+  <title>New South Wales gets its first driverless bus</title>
+  <content>
+by
+Greta Stonehouse
+
+A  will take to NSW roads for the first time as part of a trial at Sydney Olympic Park.
+The two-year trial, to begin this month, will start with safety checks but eventually the public will be able to hop onto the automated vehicle, Transport Minister Andrew Constance announced on Wednesday.
+The trial is part of the state government's vision for "a technology-enabled transport future", Mr Constance said.
+"Today we drive our cars but the reality is cars will soon drive us, and, while we are not there yet, we need to be prepared for this change and we need to stay ahead of the game," he said.
+
+The state government is predicting automated vehicles will drastically reduce road deaths because 90 per cent of crashes involve human error.
+
+Large motorways questioned
+
+Last month, Mr Constance questioned the wisdom of building large motorways with the imminent arrival of driverless services.
+"We should be asking ourselves the question: Do we really need to be building four and five-lane motorways today when automation could completely change the thinking?" he said in July.
+But Roads Minister Melinda Pavey on Wednesday insisted the future was unpredictable and infrastructure still needed to be built.
+
+"Sydney still needs a good efficient road work system that can use driverless cars that can have public transport and that can deal with the population growth that we're expecting," she told reporters in Sydney.
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roads Minister Melinda Pavey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greta Stonehouse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Minister Andrew Constance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Constance</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

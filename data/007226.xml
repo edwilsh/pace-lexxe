@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410810899596379</docid>
+  <date>02/08/2017</date>
+  <time>00:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/real-estate/how-an-asic-lending-problem-is-creating-a-new-market-for-loandolphin-20170713-gxap0q</url>
+  <title>How an ASIC lending problem is creating a new market for LoanDolphin</title>
+  <content>
+Ranin Mendis and Rod Dutra worked at a bank and kept seeing managers offer different rates on almost identical loan requirements. 
+Depending on the managers and mortgage brokers for whom the bank felt were more successful, lending terms would vary enormously leaving some borrowers out of the money in the long term.
+So after work Rod Dutra went and studied how to write code. He looks half exhausted reliving the memory of such long hours, but it was worth it because now, since he and Mr Mendis left the bank the two have developed a new open market for loans.
+They call it LoanDolphin and already $400 million in loans have been transacted through it by all sorts of brokers and banks.
+
+"We believe the market desperately needs to improve its efficiency and transparency," Mr Dutra says.
+
+He then cites ASIC's latest mortgage broker remuneration report - page 17 to be exact - which notes how competition between lenders should be focused on offering better products rather than doling out incentives to brokers.
+"In the home loan market, this means that lenders should be primarily competing on the best home loan and customer service, rather than competing by offering higher commissions to aggregators and brokers," Mr Dutra quotes.
+'Bidding marketplace'
+
+For too long there have been too many of the best loans given to select mortgage brokers and LoanDolphin wants to up end that.
+
+There are plenty of disrupters who have tried this by creating websites where you can compare and match. But Loan Dolphin is like a live bidding market where the borrower throws their hat in the ring and banks and brokers fill the hat with offers.
+"There are comparison sites where you pick a product and they provide your contact details to the closest broker to contact you. But LoanDolphin is a bidding marketplace where you get tailored offers from lenders competing for your business based on your overall risk profile and requirements," Ranin Mendis says. 
+"At other sites the borrower doesn't know what he or she is choosing and makes a decision purely based on the lowest rate and basic features but we've found that 90 per cent of borrowers do not go ahead with the lowest rate unless it has a good, reputable brand behind it."
+As more uncertainty arises over the direction of rates, the founders expect a rapid increase in the use of the product.
+
+"More and more borrowers who had previously overexposed themselves to the generous lending environment will start to feel the pinch," Mr Mendis says.
+"Banks will start to toughen up with their lending policies at a rapid pace, we've seen examples of these when NAB announced it's new loan to income ratio." 
+The pair also recently commissioned a survey that showed three in ten people thought that the mortgage broker or banker they had dealt with when they took out the mortgage did not recommended the best one they could get.
+They said they had seen increased competition among banks for owner occupier loans with a loan to value ratio of 80 per cent or less for borrowers who are willing to repay with principal and interest.
+
+"These borrowers attract double the number of bids on our site and stand a better chance of receiving pricing discretions."
+"It's certainly evident that the big banks will keep reducing it's lending to investors especially with interest only loans. But the flip side is that there are plenty of non-banking lenders who will take advantage of this opportunity and our platform can give borrowers more visibility of their options in the broader market."
+ 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ranin Mendis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Loan Dolphin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Dutra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mendis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LoanDolphin</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rod Dutra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

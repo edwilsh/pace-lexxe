@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422884052893664</docid>
+  <date>03/08/2017</date>
+  <time>23:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/gas-tanker-erupts-in-flames-along-pacific-motorway-20170803-gxp37t.html</url>
+  <title>Gas tanker erupts in flames along Pacific Motorway</title>
+  <content>
+A gas tanker has erupted in flames on the Pacific Motorway at Loganholme.
+Emergency services were called to southbound lanes on the motorway near the Logan Hyperdome after reports a truck carrying a "volatile substance" was on fire, police said.Photo: Jodie Ann Riches
+Three fire crews were working to control the blaze that was billowing "large volumes of black smoke".
+Police have asked nearby businesses to evacuate.
+Police have closed the southbound lanes, with traffic being diverted off at the Bryant Road exit.
+Police said the northbound lanes along the motorway may also close and have urged motorists to avoid the area.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bryant Road</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Logan Hyperdome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Loganholme</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Motorway</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jodie Ann Riches</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

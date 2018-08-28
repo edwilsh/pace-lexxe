@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432633628792689</docid>
+  <date>05/08/2017</date>
+  <time>13:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melburnians-brace-for-a-blizzard-as-a-cold-front-brings-icy-temperatures/news-story/edb04d91b66d3775422a098adb701aae</url>
+  <title>Brace for blizzard as cold front sweeps through</title>
+  <content>
+MELBOURNE braced for impact overnight as the great blizzard of Oz was predicted to roll through the state bringing wild winds and freezing temperatures.
+Bureau of Meteorology senior forecaster Dean Stewart said Victoria would experience damaging winds of up to 90kmh, chilling weather and alpine regions were tipped to receive their biggest snowfall of the year.
+"We're expecting to see a strong cold front moving across from South Australia and into Victoria," Mr Stewart said.
+"This will cause a wild winter storm of strong winds and heavy snow, possibly as much as 1m in some parts of alpine regions."
+Alpine regions, with temperatures getting to as low as -5C were likely to see winds pick up to about 110kmh.
+Bureau of Meteorology chief forecaster Jonathan Grimes said blizzard-like conditions would rock the state. "That cold front is going to bring blizzard conditions to the alpine country during Sunday," he said.
+"Winds are already starting to pick up and are gusting ahead of the cold front, but blizzard conditions will obviously lead to snow as well."
+The worst of the cold front was expected to hit at about midnight.
+Mr Stewart said: "The most severe weather patterns which could also bring some storms are expected between 10pm and 2am."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oz</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Grimes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alpine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

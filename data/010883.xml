@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417051487194121</docid>
+  <date>03/08/2017</date>
+  <time>00:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/bitcoin-chrome-extension-keeps-you-up-to-date-on-price-fluctuations/</url>
+  <title>Bitcoin Chrome Extension Keeps You Up To Date On Price Fluctuations </title>
+  <content>
+Despite its reputation for getting , cryptocurrency like Bitcoin remains a hot commodity. If you've got a  in your wallet, you probably want to stay up to date on its value to make sure you don't lose your shirt if (let's be real, when) it crashes. That's where Bitcoin Tracker comes in.
+
+Image credit: Francis Storr/
+
+, a free Chrome extension from developer Rahul Devaskar, lets you check out Bitcoin's value every time you open a new web page.
+
+After installing the extension, you'll be able to pick your currency of choice and check out the current Bitcoin value. It also shows you its value whenever you open a new tab. There are other Bitcoin price trackers online, but Bitcoin Tracker seems the more polished of the bunch.
+
+Devaskar wrote the extension after growing tired of missing out on buying Bitcoin during its lower price points. "I built this tool to make sure that I don't miss on the next bitcoin price surge," Devaskar wrote. "It has worked beautifully for me." Smart thinking.
+
+Buying Bitcoin when the price drops has proven a pretty effective way to make a quick buck in the short term, and sites like  can show you how much money you would have made had you gotten in early.
+
+Five years ago, I threw away a hard drive. An utterly generic 250GB portable hard drive, already a few years old, with a couple of dings and scratches in its shell and with the beginnings of an audible click that would have eventually killed it.
+
+It had a data file containing 1400 Bitcoin on it. No big deal, at the time. Today, those few kilobytes are worth more than four million dollars.
+
+[]
+
+WATCH MORE: Tech & Finance News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>GB</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Rahul Devaskar</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Devaskar</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Francis Storr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Chrome Extension Keeps You Up To Date On Price Fluctuations</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Tracker</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Finance News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411163086920057</docid>
+  <date>02/08/2017</date>
+  <time>01:51</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/hosting-outages-push-pharmacy-giant-to-aws-469310</url>
+  <title>Hosting outages push pharmacy giant to AWS</title>
+  <content>
+Australian Pharmaceutical Industries has migrated a crucial, billion-dollar online portal to the public cloud to reduce costs and avoid the outages that had plagued its previous hosting provider.
+
+The publicly-listed company, which owns Priceline and Soul Pattinson Chemists, runs the MyAPI e-commerce portal, where pharmacists can order anything from over-the-counter drugs to heavily regulated narcotics.
+
+MyAPI carries 30,000 products and supplies thousands of pharmacies. The portal represents 50 percent of the company's wholesale orders, worth more than $1.25 billion per year, making it one of the world's largest Magento instances by revenue.
+
+It has become increasingly important to API as the company has nudged customers towards self-service rather than calling or faxing in their orders.
+
+The migration of MyAPI to the Amazon Web Services cloud marks the completion of a company-wide shift of API's websites away from multiple hosting providers and onto AWS.
+
+"The only reason this did not move [earlier] was contractual. One of the benefits of AWS is you pay as you go - we used to be on a four-year contract," Dirk Bellmann, applications manager at Australian Pharmaceutical Industries (API), told iTnews.
+
+The company is now boasting cost savings of more than 20 percent, as well as stability and autoscaling benefits - a big change from a few years ago when it experienced "24-hour outages" at its hosting provider, the identity of which it would not disclose.
+
+Bellmann said the company's previous hosting environment did not allow for self-service infrastructure changes, such as to load balancers, spinning up additional servers, or scaling VM specs up and down.
+
+It is now making use of AWS products like ElastiCache and Elasticsearch, and has migrated its MySQL database to Amazon RDS as part of the shift.
+
+The company has been so pleased with its public cloud experience thus far that it plans to migrate more of its workloads across.
+
+One of API's first experiments in the public cloud was with its Priceline website, which was in desperate need of autoscaling capability to cater for the traffic spikes it experienced during major sales.
+
+The Priceline site can now scale from its typical footprint of six servers across the three AWS locations in Australia to 40 or more instances during its biggest two-day cosmetics promotion, Bellmann said.
+
+His team enlisted the help of Melbourne-based startup Nebulr, which brought AWS-specific skills to the project following a referral from AWS. 
+
+"We see great business benefits for API going to AWS [such as] agility, in term of being able to scale up capacity when they need to, cost in terms of paying for what they use, and reliability," Nebular director Craig Howe told iTnews.
+
+"The system has increased performance in AWS and reliability has been greatly increased by a reduction in platform outages."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>VM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ElastiCache</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dirk Bellmann</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bellmann</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Soul Pattinson Chemists</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elasticsearch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Magento</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nebular</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MyAPI</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iTnews</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon RDS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nebulr</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne-based</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Web Services</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Craig Howe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Priceline</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MySQL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AWS</name>
+    <count>8</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>5</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>AWS-specific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Pharmaceutical Industries</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

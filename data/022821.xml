@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443280852826065</docid>
+  <date>07/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/the-cba-moneylaundering-drama-is-overblown-20170807-gxqtyr</url>
+  <title>Commonwealth Bank money-laundering drama is overblown</title>
+  <content>
+On Monday CBA's stock price bounced back for good reason: the hysterical reaction to an isolated 2012 coding error that resulted in 53,000 delayed money laundering reports has been massively overblown.
+CBA is not going to pay a business-threatening fine, its outstanding chief executive , and the bank does not remotely have any  problems. Quite the contrary.
+If you speak to senior government security and intelligence officials, they will tell you that there is no better resourced or committed business in Australia than CBA when it comes to combating cyber-crime, fraud and information security threats.
+No Australian business spends more money on, or has more people and technology resources dedicated to, thwarting financial crime, including money laundering.
+
+And no business burns as much cash on corporate compliance, or is more heavily regulated by a multiplicity of government agencies, than CBA.
+
+In fact, it now pays hundreds of millions of dollars a year in extra taxes via the new big bank levy precisely because it is one of the most important companies in the country.
+For years the Australian Security Intelligence Organisation (ASIO) and the Australian Signals Directorate (ASD) have privately highlighted that CBA, and to a slightly lesser extent the other three major banks, have been best-of-breed in respect of their defences against digital crime.
+A former senior ASIO cyber official, Scott Ceely, who is managing director of Seer Security, says he is "surprised by the news concerning CBA, as they are considered a leader in the Australian cyber-security sector".
+"CBA's investment in cyber security over the past five or so years has been unmatched in our industry," Mr Ceely says.
+
+Richard Byfield spent much of his career working in the upper echelons of the nation's electronic espionage agency, the Australian Signals Directorate, which is charged when protecting public assets from state and non-state hackers.
+He says that "everybody in the security and intelligence worlds knows that CBA is first-rate when it comes to cyber-security, fraud-detection and the amount of money and people it pours into protecting its customers and preventing crimes".
+"Security agencies often refer to CBA and the other major banks, alongside Telstra, as "islands of excellence" in regard to information security and their cultural commitments to mitigating cyber-crime," Mr Byfield, who runs Datacom Technical Security Services, says.
+In its ASX announcement CBA explained that the 53,000 threshold transaction reports (TTRs) that were delayed in their transmission to AUSTRAC were attributable to "a single course of conduct".
+
+This is crucially important in relation to the court's determination regarding penalties. In CBA's opinion, there will likely be , not 53,000.
+"Ultimately, a Court will seek to ensure that, overall, any civil penalties are just and appropriate and do not exceed what is proper having regard to the totality of established contraventions," the bank added.
+Privately AUSTRAC is understood to have been blindsided by the media response to its claims and silly suggestions they might lead to penalties approaching one trillion dollars, which would destroy CBA almost 10 times over (and the Aussie banking system to boot).
+Another point overlooked in the reporting has been that AUSTRAC has no choice but to take court action if it wishes to fine CBA in contrast to other agencies like ASIC and APRA.
+
+"Under the Counter-Terrorism Financing Act 2006 (Cth), the only mechanism available to AUSTRAC to secure a pecuniary penalty from CBA is by taking court action," CBA says.
+Of course in a $140 billion bank with 50,000 employees and arguably the most complex technology you are ever likely to find, the practical reality is that coding errors of this kind-a software update to CBA's Intelligent Deposit Machines (IDMs) stymied the automated AUSTRAC reports-are inevitable.
+It is not a question of whether these problems will arise, but how quickly they are remedied.
+"This error became apparent in 2015 and within a month of discovering it, we notified AUSTRAC, delivered the missing TTRs and fixed the coding issue," CBA says.
+
+Obviously there have to be costs associated with these mistakes. CBA should be slugged with a chunky fine and the folks responsible for the coding mishap, and any other monitoring and ad-hoc compliance shortcomings, firmly disciplined.
+. But let's not throw the baby out with the bathwater.
+Anyone who has a CBA account or credit card knows the extraordinary efforts the bank undertakes to protect our money and combat crime.
+The issue is that the bank does not boast about the vast quantities of customer money it saves through its fraud detection and cyber-security defences, which is orders of magnitude the size of the comparatively tiny quantum of cash that was unwittingly allowed to be laundered via its systems because of a one-off error.
+It cannot gloat about these victories because the very act of doing so could create new vulnerabilities.
+Chris Joye is a portfolio manager of Coolabah Capital Investments and Smarter Money Investments, which invest in fixed-income securities.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Ceely</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act 2006</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seer Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Datacom Technical Security Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Byfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday CBA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Coolabah Capital Investments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Scott Ceely</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Signal Directorate</name>
+    <count>2</count>
+    <score>0.67</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Security Intelligence Organisation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TTRs</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Smarter Money Investments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA's Intelligent Deposit Machines</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Byfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Chris Joye</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>17</count>
+    <score>6</score>
+  </sindex>
+  </sindexList>
+</snippet>

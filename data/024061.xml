@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446330279662088</docid>
+  <date>07/08/2017</date>
+  <time>18:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/04/17/tassie-pedestrian-struck-by-car-dies</url>
+  <title>Tassie pedestrian struck by car dies</title>
+  <content>
+A pedestrian has died after being struck by a car on Woolmer's Lane, about 2km from Longford in Tasmania.
+The accident occurred about 9.00pm on Monday and the pedestrian died at the scene.
+Police are asking anyone who may have been in the area at the time to contact them.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Woolmer's Lane</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Longford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tassie</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

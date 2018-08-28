@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422321412166437</docid>
+  <date>03/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/04/06/43/russia-trump-grand-jury-called-in-to-investigate-media-report</url>
+  <title>Robert Mueller reportedly impanels grand jury to investigate Russia's interference in US election</title>
+  <content>
+Special counsel Robert Mueller has impaneled a grand jury to investigate Russia's interference with the 2016 presidential election, The Wall Street Journal reported Thursday - an important step toward potential criminal charges.
+The newspaper, citing two unnamed sources familiar with the matter, reported that the grand jury had begun its work in the US capital Washington "in recent weeks."
+The move is a sign that the sweeping federal investigation - which includes allegations that Trump campaign officials coordinated with Russia to tilt the election - is gathering pace and has entered a more concrete phase.
+
+Mr Trump has repeatedly denied the allegations of collusion, saying he is the victim of a political "witch hunt."
+The establishment of a grand jury will allow Mr Mueller - a former FBI director - to subpoena documents and get testimony under oath, as well as issue possible indictments.
+Outgoing White House aide Sean Spicer and Justice Department spokeswoman Sarah Isgur Flores both declined to comment on the report.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Isgur Flores</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mueller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sean Spicer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

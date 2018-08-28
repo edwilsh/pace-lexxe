@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402036281246984</docid>
+  <date>31/07/2017</date>
+  <time>14:26</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/royal-flying-doctor-service-soars-into-the-cloud/news-story/9f32069e4fb696498019c3206bf0308d</url>
+  <title>Flying doctors soar into the cloud</title>
+  <content>
+The Royal Flying Doctor Service's Queensland section has transitioned to a cloud-first IT strategy, a move it took after a number of network outages and staff complaints.
+The not-for-profit organisation, which has 400 employees across Queensland, said deploying Riverbed's SteelHead and SteelCentral solutions had reduced the data on its network by 70 per cent and increased visibility into its network performance.
+The RFDS said the revamp was driven by a goal to more effectively manage its limited IT resources, and had improved staff productivity and satisfaction.
+Dean Coulter, ICT Infrastructure Manager, RFDS (Queensland Section), said as use of the RFDS services in Queensland became more advanced and widespread ,the organisation was pushing the limits of what its existing network could deliver.
+This was starting to impact service delivery and leading to complaints.
+"Network outages had become more frequent, the performance of mission-critical apps slowed, and we started to receive more and more complaints from our staff," said Dean Coulter, ICT Infrastructure Manager, RFDS (Queensland Section). "But simply purchasing more network bandwidth was not an option due to the high costs involved."
+At the same time, the RFDS IT team was flying blind with regards to its network performance and lacked sufficient tools to identify the root cause of issues, as well as hold service providers accountable to service level agreements.
+Mr Coulter said the RFDS staff requires 24/7 secure access to critical information, including patient information, emergency procedures and flight plans, which are centrally maintained in Microsoft SharePoint.
+RFDS's IT system also supports the transmission of thousands of emails per hour as well as bandwidth-intensive video content vital for training field staff.
+"The results were powerful and immediate. We saw an immediate boost in application performance while simultaneously reducing bandwidth requirements by 60-70 per cent," Mr Coulter said.
+"But just as big of an achievement for us as the acceleration is the visibility. With SteelCentral NetExpress we were able to see we had legacy equipment and misconfigured applications hogging valuable bandwidth, and address it immediately.
+"That level of insight is critical for us as our network expands and moves further into the cloud."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dean Coulter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ICT Infrastructure Manager</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft SharePoint</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Riverbed's SteelHead</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SteelCentral</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RFDS</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Section</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RFDS IT</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Coulter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SteelCentral NetExpress</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Flying Doctor Service's Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431564181926041</docid>
+  <date>05/08/2017</date>
+  <time>09:01</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/05/investigators-ask-white-house-hand-over-records-report</url>
+  <title>Investigators ask White House to hand over records: report</title>
+  <content>
+Investigators probing President Donald Trump's team for possible connections to Russia have asked the White House to hand over records for what is believed to be the first time, the New York Times said Friday.
+
+1 HOUR AGO 
+
+Members of the sweeping federal investigation led by special counsel Robert Mueller requested the White House submit documents linked to Trump's former national security adviser Michael Flynn, according to the paper, citing authorities close to the investigation.
+
+The document request, while not a formal subpoena, was the latest signal that the probe is gathering pace.
+
+RELATED NEWS
+
+The news came one day after reports revealed that Mueller -- a former FBI director -- has impaneled a grand jury to investigate Russia's interference in the 2016 presidential election.
+
+Flynn -- who was ousted mere weeks after being named Trump's national security adviser over mischaracterizing contacts with Russian officials -- is at the center of the Russia controversy plaguing the White House.
+
+Asked for comment on the story presidential lawyer Ty Cobb said the White House would not discuss "specific communications" with Mueller but would "continue to fully cooperate with the Special Counsel."
+
+Trump has repeatedly denied allegations of collusion, saying he is the victim of a political "witch hunt" and "fake news."
+
+Investigators had also questioned witnesses over whether Flynn received secret payments from the Turkish government at the end of the 2016 presidential campaign -- suggesting the probe's scope has widened to examine Flynn's financial dealings.
+
+US media has reported that Mueller is also said to be investigating Trump's financial records unrelated to Russia or the election.
+
+Trump has publicly warned Mueller that his financial dealings should be out of bounds and investigating them would cross a red line.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Special Counsel</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ty Cobb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Flynn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flynn</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turkish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408169494658304</docid>
+  <date>01/08/2017</date>
+  <time>14:14</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/east/heidelberg-streetwatch-man-expected-to-be-charged-over-frightening-car-crash/news-story/a07d682947124a8870f79ec01ed7e4ca</url>
+  <title>Terrifying car crash in broad daylight</title>
+  <content>
+A MOTORIST is expected to be charged after allegedly crashing into the backyards of homes in Heidelberg West.
+The 33-year-old driver, who was wanted for firearm theft and carjacking offences, was spotted by officers allegedly driving in a stolen car along Waterdale Rd at 12.25pm on July 25.
+Officers followed the man who allegedly sped off along Darebin Rd before crashing into the backyards of homes at the Waterdale Rd/Bell St intersection in Heidelberg West.
+The driver was arrested and is expected to face a string of charges.
+HEIDELBERG WEST
+A teen has been arrested after allegedly dumping a stolen car. However three of his mates remain on the loose.
+A 14-year-old boy was part of a group inside a stolen car, travelling west along Ramu Pde.
+When they spotted police they allegedly accelerated before ramming into the left side of the police car.
+The group then dumped their car at the corner of Dougharty Rd and Liberty Pde. They all jumped out and fled, except one. Anyone with information is urged to phone Crime Stoppers.
+IVANHOE
+An intruder stormed through an Ivanhoe home in a daylight burglary but walked away empty-handed.
+The offender smashed the front door and ripped off the security system panel inside the Beaty St home sometime between 2pm and 5.40pm on July 27.
+The home was ransacked before the crook fled. Nothing appears to have been stolen, the investigators have been told.
+HEIDELBERG
+City-bound trains on two busy lines were at a standstill after a person walked onto the tracks at Jolimont train station.
+There were major delays for Hurstbridge and South Morang line commuters after the incident took place at 9.05am on July 26. Trains stopped at Jolimont Station, with passengers told to take the tram if they wanted to get to Flinders St.
+Victoria Police said one person had been removed from the tracks and was in custody. Metro said passengers experienced delays up to 55 minutes.
+A commuter told News Corp passengers were growing frustrated on board the stopped trains. "They can't hear the (train driver) announcements, they are all broken," she said. "We have to go into the other carriages and ask passengers what was said."
+WATSONIA
+A number of police descended on a Watsonia home after fears an armed man was allegedly holding a woman hostage.
+Emergency services rushed to the Richards Avenue home about 2.15pm on July 25.
+Police blocked off the area and tried to negotiate with the 26-year-old man, who eventually walked out onto the driveway and was arrested by police. He is expected to be charged with a string of offences.
+BUNDOORA
+A thief broke into an empty Bundoora house.
+The owner had just bought the property before flying to Sydney on business. However when he returned to the Stellar Place home, on July 10, the rear sliding door has been smashed.
+There was nothing for the offender to grab from inside.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hurstbridge</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Heidelberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jolimont</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bundoora</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Metro</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 25</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beaty St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dougharty Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ramu Pde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ivanhoe</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Stellar Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HEIDELBERG West</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jolimont Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darebin Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>City-bound</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Morang</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Flinders St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liberty Pde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATSONIA</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waterdale Rd</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Waterdale Rd/Bell St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Richards Avenue</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

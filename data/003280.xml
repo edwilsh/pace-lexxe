@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403896002121323</docid>
+  <date>31/07/2017</date>
+  <time>21:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4824658/shot-fired-into-warilla-home/?cs=300</url>
+  <title>Shot fired into Warilla home</title>
+  <content>
+Police are appealing for information after a shot was fired into a house at Warilla on Tuesday morning.
+
+Two men approached a home on Trumper Street and knocked on the front door about 12.30am.
+A male occupant answered and an altercation occurred between the three men, police said.
+A shot was fired into the front window of the home before the two men fled the scene; no one was injured.
+
+They were seen getting into a white sedan that quickly left the area.
+Lake Illawarra police are investigating.
+Anyone with information is urged to contact Crime Stoppers on 1800 333 000.
+
+A shot was fired into a Warilla home overnight. Picture: Google Maps
+</content>
+  <sindexList>
+  <sindex>
+    <name>Warilla</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Google Map</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trumper Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lake Illawarra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

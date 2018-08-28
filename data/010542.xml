@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416609105554396</docid>
+  <date>02/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/suncorp-profit-lifts-36-to-108bn/news-story/3f5bac8498553e4f6c0d2c0345dc1949</url>
+  <title>Suncorp profit lifts 3.6% to $1.08bn</title>
+  <content>
+Suncorp's full-year profit has risen 3.6 per cent to $1.075 billion, with gains in the Australian insurance business helping offset lower margins in banking and a fall in its New Zealand units profit.
+The Sydney-based financial services provider's revenue for the 12 months to June 30 rose 12.3 per cent to $17.39 billion compared to a year ago.
+Suncorp has declared a final dividend of 40 cents a share, taking its full-year distribution to 73 cents, which is up five cents on last year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

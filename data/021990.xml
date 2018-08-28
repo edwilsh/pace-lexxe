@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442477693930380</docid>
+  <date>07/08/2017</date>
+  <time>03:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/07/my-health-record-digital-e-health-strategy-has-many-privacy-issues/</url>
+  <title>How would you like all your medical and mental health records leaked online? You might find out soon.</title>
+  <content>
+The government is planning to give every Australian a digital health record by the end of 2018. With that goal in mind, the Council of Australian Governments (COAG) Health Council has approved Australia's , drafted by the Australian Digital Health Agency (ADHA.) So how much data will a digital health record - known officially as a My Health Record (MHR) - contain?
+</content>
+  <sindexList>
+  <sindex>
+    <name>MHR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>COAG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health Council</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Health Record</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Council of Australian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adha</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Digital Health Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

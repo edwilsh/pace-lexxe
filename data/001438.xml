@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399128588336901</docid>
+  <date>31/07/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/technology/apple-slammed-for-removing-vpn-services-from-chinese-app-store/news-story/e9de4950a15c02b1d01f33a4bf642d17</url>
+  <title>Apple slammed over Chinese app store</title>
+  <content>
+AFTER facing a barrage of intense criticism, Apple has broken its silence over a controversial decision to remove certain apps from its Chinese app store.
+Apple removed virtual private network (VPN) services from its Chinese app store late last week, prompting accusations it was helping the Chinese government censor the internet.
+VPN services are thought to be quite popular in the country as a way of getting around the Communist Party's internet firewall which prevents access to a number of overseas sites and media.
+Originally reported by The New York Times, the story was met with intense criticism by free speech and open internet advocates but Apple now says it is simply responding to new government regulations in the country.
+A number of the affected VPN companies have spoken out about Apple's decision to effectively acquiesce to Chinese censors.
+"We're disappointed in this development, as it represents the most drastic measure the Chinese government has taken to block the use of VPNs to date, and we are troubled to see Apple aiding China's censorship efforts," ExpressVPN said in a statement.
+Other major providers, including VyprVPN and StarVPN, confirmed they also received the notice from Apple.
+"We view access to internet in China as a human rights issue and I would expect Apple to value human rights over profit," Sunday Yokubaitis, president of Golden Frog, which oversees VyprVPN told Reuters.
+Chief among the vocal critics of the Californian-based tech giant is former NSA contractor turned whistleblower Edward Snowden.
+"Apple aiding censorship recalls corporate collaboration with the apartheid regime. Dollars can't wash out the stain," he tweeted over the weekend.
+
+Apple has done much good for privacy and security in recent years, but actively assisting censorship crosses the red line of human rights.
+After initially remaining silent, Apple issued a statement to  clarifying its actions.
+"Earlier this year China's MIIT [Ministry of Industry and Information Technology] announced that all developers offering VPNs must obtain a license from the government," said the spokesperson. "We have been required to remove some VPN apps in China that do not meet the new regulations. These apps remain available in all other markets where they do business."
+In January, Beijing passed laws seeking to ban all VPNs that are not approved by state regulators and this appears to be what Apple is referring to. Approved VPNs must use state network infrastructure.
+Beijing has shut down dozens of China-based providers and it has been targeting overseas services as it bids to tighten its control over the internet, especially ahead of the Communist Party congress in August.
+This morning it was reported that Russian President Vladimir Putin has signed his own law prohibiting the use of VPNs and other technologies, known as anonymisers, that allow people to surf the web anonymously.
+The move has served to further raise concerns about the increasing levels of censorship sought by authoritarian regimes.
+
+Apple bows to China & removes VPN apps.
+Now Russia bans VPNs & anonymous messaging.
+Now what  because DJT is gonna ask next...
+- With AP
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VyprVPN</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Californian-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday Yokubaitis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian President Vladimir Putin</name>
+    <count>1</count>
+    <score>0.75</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>VPN</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Edward Snowden</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ExpressVPN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's MIIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ministry of Industries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Information Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DJT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communist Party</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China-based</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>VPNs</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>StarVPN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Golden Frog</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>13</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

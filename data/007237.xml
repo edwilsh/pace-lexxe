@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410815194563755</docid>
+  <date>02/08/2017</date>
+  <time>00:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/genworth-mortgage-insurance-in-100m-buyback-as-profit-slumps-20170801-gxniev</url>
+  <title>Genworth hit by loan delinquencies</title>
+  <content>
+Genworth Mortgage Insurance Australia will launch a $100 million share buyback and offer a special dividend as its half-year profit slumps 34.7 per cent.
+The $1.5 billion ASX-listed arm of the US lenders' mortgage insurance provider also reported a 20.3 per cent drop in revenue to $294.5 million for the six months ended June 30.
+Several large macro trends have hit Genworth hard. It has been grappling with ongoing loan deliquencies, particularly in Western Australia as the mining boom slows, and the expected moderation of house price growth.
+The government's move to cap risky loans and recent mortgage interest rate increases, as well a decline in it's investment income have hampered Genworth's financial standing.
+
+The on-market share buy-back, which is based on the company's closing share price of $3.02 and would represent 6.5 per cent of its issued share capital or around 33.1 million ordinary shares, is "consistent with Genworth's stated strategy of pursuing capital management initiatives," said Genworth chief executive Georgette Nicholas.
+
+"Genworth will consider implementing the buy-back where opportunities exist to buy back securities at a discount to book value per share. Buy back acquisitions would therefore be accretive to earnings and net assets per share of the group," she said.
+In an announcement to the ASX this morning Genworth said that it net profit for the period was $88.7 million, down 34.7 per cent on the previous corresponding period. All money earned was from ordinary activities.
+Gross Written Premium (GWP) was down 4 per cent on the pcp sitting at $189.8 million.
+As lenders respond to a crackdown on risky loans, Genworth has seen a drop on high loan to value mortgages which are often favoured by first-home buyers.
+
+About 31 per cent of the group's new business for the first half of 2017 was for loans from buyers with a 90 per cent loan to value ratio (LVR), indicating they borrowed more than 90 per cent of their property's value. This represents a 6 per cent drop from the same period last year.
+The company said it would pay an interim dividend of 12¢ per share plus a special dividend of 2.0¢, both fully franked. The record date for the dividends is August 16.
+Genworth, the largest LMI provider in Australia, said that the drop in profit can be attributed to a decline in investment income due to "pre-tax mark-to-market movements in the investment portfolio."
+The losses came to $33.5 million in the first half of 2017.
+
+Despite this net earned premium was slightly down from the pcp to sit at $211.5 million.
+The loss ratio for the reporting period was 34.8 per cent which the company said reflected an increase in delinquencies, partly offset by an improvement in "expected non-reinsurance recoveries on paid claims."
+There is "continued pressure from mining regions on delinquency development and claims experience," Genworth said.
+Macquarie has been appointed as the broker and US parent Genworth Financial has indicated that it is supportive of the buyback.
+
+"Genworth Financial has also indicated that it presently intends to engage in on-market sale transactions during the buy-back in order to maintain its approximately 52 per cent stake in the Company, subject to matters including the prevailing market price of the Company's shares during the buy-back, market trading volumes and applicable legal constraints," it said in a statement.
+Genworth's full year guidance remains unchanged.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>LMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LVR</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Georgette Nicholas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Mortgage Insurance Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Written Premium</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Financial</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth</name>
+    <count>11</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>GWP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

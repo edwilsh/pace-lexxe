@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436043832856165</docid>
+  <date>06/08/2017</date>
+  <time>02:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/super-compact-raspberry-pi-3-slim-is-just-7mm-thick/</url>
+  <title>Super Compact Raspberry Pi 3 'Slim' Is Just 7mm Thick</title>
+  <content>
+The Raspberry Pi is already a fairly tiny piece of hardware, but with some tinkering, it's possible to go even smaller. Modder NODE, , has a new project doing the rounds - a fully-functional Raspberry Pi 3 that's a mere 7mm thick.
+
+As the video above explains,  - so all the external ports, essentially. This includes the ethernet and USB connectors, which for this mod were "sawn off":
+
+A custom 3D-printed case holds everything in place, the major feature a top-facing grill to keep the "notoriously warm Pi 3" cool.
+
+Image: NODE
+
+While NODE doesn't provide explicit instructions, . Considering the mod requires mutilating the board, it's definitely not for the faint of heart.
+
+[, via ]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Raspberry Pi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Raspberry Pi 3</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Super Compact Raspberry Pi 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D-printed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Modder NODE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pi 3</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Slim' Is Just 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

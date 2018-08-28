@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438556388746144</docid>
+  <date>06/08/2017</date>
+  <time>12:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/three-people-dead-after-horror-weekend-on-victorian-roads/news-story/9b68c265015323d116520346293fc92f</url>
+  <title>Three dead in horror weekend on our roads</title>
+  <content>
+IT was a horror weekend on Victorian roads with three separate fatalities, all from cars veering off the road and hitting trees.
+The most recent happened at Dandenong North around 5.15am this morning when a car travelling south on Gladstone Rd left the road and struck a tree.
+The male driver, who is yet to be identified, died at the scene.
+Police are also investigating another crash on Briagolong Rd in Stratford around 8.30pm last night when a car veered off the road and struck trees.
+The third fatality happened in Morwell yesterday afternoon when a car left Princes Drive and struck a tree around 3.30pm.
+The male driver is yet to be identified and died at the scene.
+The exact cause of all three crashes are yet to be determined.
+The road toll for 2017 now sits at 148, compared to 176 this time last year.
+Anyone who witnessed any of these crashes is urged to contact Crime Stoppers on 1800 333 000 or submit a confidential crime report at
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dandenong North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Briagolong Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Princes Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Stratford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gladstone Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morwell</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

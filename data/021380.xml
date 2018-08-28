@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441949412945870</docid>
+  <date>07/08/2017</date>
+  <time>01:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/british-family-shot-at-in-brazil-police/news-story/f561277e2e9fc8707cc5d846d0013721</url>
+  <title>British family shot at in Brazil: police</title>
+  <content>
+Brazilian police say a British family who made a wrong turn while holidaying outside Rio de Janeiro have been shot at and that a woman was wounded.
+Local police say a couple and their three children were driving in Angra dos Reis, a popular coastal holiday spot about 150 kilometres from the city, on Sunday when a group approached the car and apparently told the family to get out before opening fire.
+A police statement says the woman was shot in the abdomen and is being treated in hospital. Her condition is not known.
+Tourists in Brazil have occasionally been attacked when they accidentally stray into slums, which are often controlled by criminal gangs.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brazil</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Angra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janeiro</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

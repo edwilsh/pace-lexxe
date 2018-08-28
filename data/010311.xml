@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414848168929836</docid>
+  <date>02/08/2017</date>
+  <time>16:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/venezuelan-turnout-manipulated-by-1m-votes/news-story/c02d975b4cec21d077310f8d355cf9b2</url>
+  <title>Venezuelan turnout manipulated by 1m votes</title>
+  <content>
+Turnout figures in Venezuela's Constitutional Assembly election were manipulated up by least one million votes according to Smartmatic, a company which has worked with Venezuela since 2004 on its voting system.
+"We know, without any doubt, that the turnout of the recent election for a National Constituent Assembly was manipulated," Smartmatic CEO Antonio Mugica said at a news briefing in London.
+Mugica said Smartmatic, which has provided electronic voting technology for elections around the world, was able to detect the overstated officially-announced turnout because of Venezuela's automated election system.
+"We estimate the difference between the actual participation and the one announced by authorities is at least 1 million votes," he said.
+Mugica declined to directly answer whether the manipulated turnout numbers changed the result of the election, in which authorities said 8.1 million people voted.
+The election of the legislative super-body has been decried by critics as illegitimate and designed to give the unpopular government of President Nicolas Maduro powers to rewrite the constitution and sideline the opposition-led congress.
+Mugica said the authorities in Venezuela would likely not be sympathetic to his comments and that he had not yet passed the evidence to the Venezuela's electoral council.
+The National Elections Council did not immediately respond to a request for comment.
+According to internal electoral council data previously reviewed by Reuters, only 3.7 million people had voted by 5.30pm Sunday.
+Venezuelan authorities did not respond to a request for comment on that reviewed data.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Election Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela's Constitutional Assembly</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Smartmatic CEO Antonio Mugica</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Constituent Assembly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Smartmatic</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mugica</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

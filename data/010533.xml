@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416570450848100</docid>
+  <date>02/08/2017</date>
+  <time>22:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/us-bans-travel-to-nkorea-from-september-1/news-story/9cbc01c44e4b6a55b25fe094ab2834b5</url>
+  <title>US bans travel to N.Korea from September 1</title>
+  <content>
+A ban on travel by US passport holders to North Korea will take effect on September 1 and Americans in the country should leave before that date, the US State Department says.
+Journalists and humanitarian workers may apply for exceptions to the ban, the department said in a public notice.
+The US government last month said it would bar Americans from travelling to North Korea due to the risk of "long-term detention" there.
+The ban comes at a time of heightened tensions between the US and North Korea, which has been working to develop a nuclear-tipped missile capable of hitting the United States.
+North Korea will become the only country to which Americans are banned from travelling.
+American student Otto Warmbier, sentenced last year to 15 years' hard labour in North Korea, returned to the US in a coma on June 13 after being released on humanitarian grounds, and died June 19. The circumstances surrounding his death are not clear, including why he fell into a coma.
+North Korea has said through its state media that Warmbier's death was "a mystery" and dismissed accusations that he had died as a result of torture and beating in captivity.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Otto Warmbier</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US State Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>N. Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warmbier</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>June 19</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>June 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

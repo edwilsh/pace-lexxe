@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423094506294636</docid>
+  <date>04/08/2017</date>
+  <time>00:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/lifestyle/your-guide-to-the-weekend/news-story/989574226830a42d76271e0a6a4958aa</url>
+  <title>Your guide to the weekend</title>
+  <content>
+1. Head down to The Strand this Sunday August 6 to cheer on runners from across Australia at the Townsville Running Festival. The action kicks off at Jezzine Barracks with the start of the marathon from 5.30am and races continuing throughout the morning. More info at www.townsvillerunningfestival.com.
+2. This weekend is your last chance to enjoy Strand Ephemera, the North's Sculpture Festival. Take a stroll along Townsville's iconic beachfront to experience more than 30 artworks stretched across 2.2km. It finishes on Sunday August 6. More info at www.whatson.townsville.qld.gov.au.
+3. Aussie pub rock legends Screaming Jets are playing at the Dalrymple Hotel this Friday night as part of their Chromozone national tour. With a new ARIA top 10 album under their belt, Australia's hardest working rock band is back on stage to show off some new tunes and revisit all the classics in a huge night of rock n roll. Doors open at 8pm. Tickets available at www.moshtix.com.au.
+4. Free classic film screenings will be popping up all over the CBD this weekend to mark the final days of PUNQ: Pop Up North Queensland Arts Festival. The rugby league film This Sporting Life is showing at the Basement Bar from 7pm Friday night, while the Paul Newman classic Cool Hand Luke is on at the old Chemist Warehouse building on Stokes Street on Saturday from 7pm. Sunday night's festival closer is the Jacques Tati film Mon Oncle screening in Denham Lane from 8pm. More info at www.umbrella.org.au/punq.
+5. Head down to the Old Courthouse Theatre on the corner of Sturt and Stokes Street for the production of Waiting for Godot by Samuel Beckett. Described as "tragicomedy in two acts" the story focuses on Valadimir and Estragon, who while waiting for the titular Godot, embark on spirit discussions and encounter an array of interesting characters. It's on every night at 7pm until Saturday August 12. More info www.fullthrottletheatre.com.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Valadimir</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Denham Lane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Old Courthouse Theatre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samuel Beckett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dalrymple Hotel</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cool Hand Luke</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Strand Ephemera</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Paul Newman</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>North's Sculpture Festival</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday August 6</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chemist Warehouse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Screaming Jets</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PUNQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mon Oncle</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chromozone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ARIAs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sporting Life</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday August 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GODOT</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sturt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stokes Street</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacques Tati</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jezzine Barracks</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville Running Festival</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>North Queensland Arts Festival</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Basement Bar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

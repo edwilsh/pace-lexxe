@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410080755142227</docid>
+  <date>01/08/2017</date>
+  <time>21:39</time>
+  <isTopNews>true</isTopNews>
+  <source>PC Magazine Australia</source>
+  <url>http://au.pcmag.com/social-networking/49100/news/hp-issued-stupid-patent-for-reminder-messages</url>
+  <title>HP Issued 'Stupid Patent' for Reminder Messages</title>
+  <content>
+There are companies that exists today solely to acquire generic patents with which to sue companies for supposed violations and collect millions in compensation and royalties. It's a business model that needs to be stopped, but that's not being helped by the US Patent Office issuing very generic new patents.
+The latest, as the  (EFF) points to as a "stupid patent," sees HP issued with a new patent for "Reminder messages." And yes, it's exactly as the title describes. HP now owns a patent for issuing automated reminder messages on a computer.
+
+The patent in question is . As with all patents, the language to describe the process is quite obscure. What it boils down to is the ability to associate additional information with a scheduled event. In other words, if you use a calendar to log a future event, a message could be generated that reminds you to consider doing something when the event occurs, for example, buying a cake for a birthday.
+
+One unusual part of this patent is the method of adding the extra information used for the reminder message. It must be carried out using a "scanning operation." So a QR code could be scanned to add the information, for example.
+
+As the EFF points out, the Patent Office has been reviewing this patent since it was filed by HP in June 2012. And yet, at no point did its review reveal several pieces of prior art that should mean the patent gets rejected.
+
+There's also the  in Alice v. CLS Bank, which stated, "an abstract idea does not become eligible for a patent simply by being implemented on a generic computer." As the HP patent clearly references use on "generally any computer," the patent should be rejected. Instead, HP now owns this new patent until December 2035. And it could cause more than a few headaches for its rivals depending on how the company chooses to use it.
+
+Clearly something needs to change with regards to how patent applications are reviewed. The EFF continues to highlight the really stupid ones, and we continue to wonder why they even get taken seriously, let alone issued.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>HP</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>QR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stupid Patent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CLS Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Patent Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2035</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EFF</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Reminder Messages</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patent Office</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HP Issued</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

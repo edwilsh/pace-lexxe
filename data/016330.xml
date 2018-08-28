@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425160385596700</docid>
+  <date>04/08/2017</date>
+  <time>08:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/qantas-planes-forced-turn-back-over-engineering-is/3209041/</url>
+  <title>Qantas planes forced to turn back over engineering issues</title>
+  <content>
+TWO international Qantas flights have been forced to turn back to Sydney due to "engineering issues".
+
+Reports suggest the Qantas flight A380 QF7 was dumping fuel off the coast.
+
+It departed Sydney for Dallas/Fort worth about 1.40pm.
+
+There are also reports Qantas flight QF63, from Sydney to Johannesburg, has also returned to Sydney.
+
+The QF63 flight landed safely back at the gate at Sydney just before 3.30pm and the QF7 flight was dumping fuel for about 35 minutes. The QF7 flight was circling out in the Tasman Sea east of Wollongong but has now landed at Sydney airport.
+
+The QF63 flight had a crack in the windshield. QF63 passenger Jackson Reynolds said on Twitter there was an issue with the heating mechanism, which caused the crack.
+
+A Qantas customers are also complaining on Twitter about another flight, QF23, which maintenance crews have been fixing for five hours. The issue with that aircraft is unknown.
+
+Qantas said in a statement flight QF7 was also suffering from a mechanical issue.
+
+"The flaps on the aircraft (which are attached to the wing) are unable to retract which means the aircraft can't fly efficiently," the statement said.
+
+"As the Dallas flight is our longest on the network, the captain made the decision to return to Sydney.
+
+"The aircraft - an Airbus A380 - is expected to land at around 4pm Sydney time where it will be inspected by engineers.
+
+"A second flight, Qantas flight QF63 from Johannesburg to Sydney also needed to return to Sydney due to an engineering issue.
+
+"This aircraft has landed safely. It is a Boeing 747-400 and has an unrelated issue to the QF7.
+
+"Our operational teams are working through accommodating passengers or offering them transport home before replacement services are organised."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasman Sea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Airbus A380</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jackson Reynolds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas/Fort</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF23</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>10</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

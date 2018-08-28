@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420040784485476</docid>
+  <date>03/08/2017</date>
+  <time>12:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/21/51/shellfish-fire-and-party-praise-beach-breaks-north-korea-style</url>
+  <title>Shellfish, fire and Party praise: beach breaks, North Korea style</title>
+  <content>
+Take several dozen North Korean clams. Arrange vent-down on concrete slab. Douse liberally with petrol. Ignite. Add fuel until cooked.
+It is a simple recipe, but one that avoids the need for electricity or a piped gas supply in the isolated, energy-poor country.
+The "petrol clams" are fleshy and flavourful -- the secret to avoiding a hydrocarbon taste is not to inhale while slipping them into the mouth -- and a speciality of the West Sea Barrage beach at Nampho, southwest of Pyongyang.
+The sandy beach lies at the far end of the eight-kilometre barrier across the Taedong river mouth -- ostensibly built for flood control, but which also blocks access to Pyongyang, a few dozen kilometres upriver, for any invading navy.
+At the beach, children equipped with pastel inflatable rings play in the shallows, while adults shelter from the sun under tents to enjoy clams and grilled pork, liberally washed down with soju, a Korean alcoholic drink.
+Most visitors to such seaside spots are on organised outings -- strict controls on movement and a dearth of disposable income put trips like this beyond the reach of the vast majority of North Koreans.
+Many making their way to Nampho are work groups -- North Koreans are often expected to socialise with their colleagues -- and some are equipped with portable karaoke machines.
+
+Related Articles
+
+The hugely popular North Korean song "Mother's birthday" blasted out from one -- the parent in this case being the ruling party.
+"My mother - our mother - is the most tender in the world," the lyrics go. "Workers' Party of Korea - mother's birthday."
+slb/sls/klm
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Taedong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Korean</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nampho</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Party of Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Sea Barrage</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

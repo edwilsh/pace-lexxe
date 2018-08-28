@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399042688990025</docid>
+  <date>31/07/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/fmg-benefit-new-wa-power-station/</url>
+  <title>FMG to benefit from new WA power station - Australian Mining</title>
+  <content>
+Latest News
+
+The South Hedland power station in Western Australia, which will provide energy to Horizon Power and Fortescue Metals Group (FMG), has been commissioned.
+TransAlta Energy was awarded the contract to build, maintain and operate the power station, which will deliver 150 megawatts of power to the Pilbara.
+The power plant features both natural gas and steam turbines, and includes the construction of a new transmission line to deliver power to FMG's port operations.
+The station can also be expanded to supply power to other commercial users.
+During construction, the plant provided around 214 jobs for the local area, and after completion, will have 24 staff supporting 24/7 operations in South Hedland.
+WA energy minister Ben Wyatt said the new power station provides a fuel-efficient energy supply to the region.
+"This combined-cycle gas power station will provide essential energy supply for the rapidly growing Pilbara region under an innovative privately funded delivery model constructed under an agreement between the State Government, Horizon Power and Fortescue Metals Group," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>TransAlta Energy</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue Metals Group</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pilbara</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Horizon Power</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ben Wyatt</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FMG</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Hedland</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406558881888328</docid>
+  <date>01/08/2017</date>
+  <time>07:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/17/44/sydney-trains-major-delays</url>
+  <title>Major delays on Sydney trains due to repair works</title>
+  <content>
+Sydney commuters are experiencing major delays this evening, due to earlier repair work at Ashfield station.
+Buses are replacing trains between Hornsby and Berowra, Blacktown and Richmond, Penrith and Emu Plains and between Campbelltown and Macarthur. 
+
+Flow-on delays continue after urgent infrastructure repairs at Ashfield earlier. Please allow extra travel time and listen to announcements
+
+Sydney Trains said trains are running regularly across the network but commuters should be wary of some changes to timetabled services.
+"Customers are advised to listen to station announcements, check indicator boards or visit our website and Twitter channels for updates," a Sydney Trains spokesperson told 9NEWS.
+The following lines are experiencing major delays:
+T1 North Shore Line
+
+Related Articles
+
+T1 Northern Line
+T1 Western Line
+The following lines are experiencing delays:
+T2 Airport Line
+T2 Inner West and South Line
+T5 Cumberland Line
+Blue Mountains Line
+Central Coast & Newcastle Line
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Inner West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emu Plains</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hornsby</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Airport Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berowra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Shore Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blacktown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Penrith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Campbelltown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MacArthur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashfield</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cumberland Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Trains</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Blue Mountains Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

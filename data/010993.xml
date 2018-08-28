@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416269803132009</docid>
+  <date>02/08/2017</date>
+  <time>21:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/iron-ore-continues-to-unwind-mondays-massive-gains-2017-8</url>
+  <title>Iron ore continues to unwind Monday's massive gains</title>
+  <content>
+Iron ore markets slipped for a second consecutive day on Wednesday with the most pronounced falls seen in lower grades.
+
+According to Metal Bulletin, the spot price for benchmark 62% fines fell 1.7% to $72.30 a tonne, trimming its advance this week to 5.2%.
+
+Lower grades were harder hit with 58% fines losing 1.9% to $47.83 a tonne.
+
+However, higher grades bucked the trend with ore with 65% Fe content adding 0.6% to close at $89.50 a tonne.
+
+The declines in mid and lower grades followed modest weakness in Chinese futures earlier in the session, driven by concern that the strong gains seen over the past six weeks may not be sustainable.
+
+Dalian iron ore future have rallied by over 40% from the lows seen in mid-June, driven by strength in rebar futures that added close to 30% over the same period, leaving them siting at a fresh multi-year high.
+
+Providing few clues as to which direction iron ore spot markets will move today, futures finished mixed in overnight trade.
+
+Rebar futures finished fractionally below Wednesday's day session close while iron ore futures recorded small gains.
+
+SHFE Rebar		¥3,715	,	-0.11%
+DCE Iron Ore		¥569.50	,	0.71%
+DCE Coking Coal		¥1,330.00	,	-0.34%
+
+Trade in Chinese commodity futures will resume at 11am AEST.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DCE Coking Coal		¥1,330.00	,	-0.34</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SHFE Rebar		¥3,715	,	-0.11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DCE Iron Ore		¥569.50	,	0.71</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metal Bulletin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dalian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

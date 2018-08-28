@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419533978333300</docid>
+  <date>03/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/woman-charged-with-murdering-partner-in-nt/news-story/76cc1ec070cfa545216e4b690983b2ce</url>
+  <title>Woman charged with murdering partner in NT</title>
+  <content>
+A woman has been charged with stabbing her partner to death in the Northern Territory.
+The 41-year-old is accused of murdering her 36-year-old partner at Tennant Creek in the early hours of Wednesday.
+She is currently before the courts.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tennant Creek</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Territory</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

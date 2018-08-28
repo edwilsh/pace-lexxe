@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445316667361140</docid>
+  <date>07/08/2017</date>
+  <time>14:23</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/veterans-affairs-hits-back-after-viral-post/news-story/92fbd24eb7331926efbdf2c47ed20e10</url>
+  <title>Veterans' Affairs hits back after viral post</title>
+  <content>
+THE Department of Veterans' Affairs has been forced to allay fears it will be scrapped and -responsibilities shifted to the Department of Human Services after a social media post went viral at the weekend.
+The widely circulated Facebook post claimed the Federal Government was trying to disband DVA with its responsibilities, including ministerial, to be taken up the Department of Human Services. The post claimed there was to be a meeting today where the changes would be signed off.
+The post also made the claim that government departments had begun a recruitment drive for Muslim employees and had allocated rooms "for prayer rooms".
+
+DVA and Defence Personnel Minister Dan Tehan said in a statement that the Government was committed to a stand-alone Department of Veterans' Affairs.
+"This has been an election commitment by the Coalition over successive elections and remains Government policy," he said. "There are no plans to merge DVA with the Department of Human Services.
+"There is no meeting planned for this week and there is no agreement to be signed in the near future to subsume DVA into DHS."
+Mr Tehan said DHS managed DVA's information and communication technology infrastructure under a memorandum of understanding that was signed in 2011. Prior to this agreement, the infrastructure was outsourced to IBM.
+In response to the claims on Muslim recruitment, Mr Tehan confirmed there had been no change to DVA's -recruitment policy.
+</content>
+  <sindexList>
+  <sindex>
+    <name>IBM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Department of Human</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Department of Veterans</name>
+    <count>2</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Muslim</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Tehan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DVA</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>DHS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defence Personnel Minister Dan Tehan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

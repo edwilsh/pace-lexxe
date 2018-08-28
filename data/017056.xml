@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427913459685392</docid>
+  <date>04/08/2017</date>
+  <time>18:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/martin-shkreli-verdict-securities-fraud-trial-2017-8</url>
+  <title>'Pharma bro' Martin Shkreli found guilty of securities fraud</title>
+  <content>
+A jury just found Martin Shkreli guilty of two counts of securities fraud and one count of conspiracy to commit securities fraud. He was also found not guilty of five other counts.
+
+Shkreli, the notorious former pharma CEO, made headlines in September 2015 after he raised the price of Daraprim, a drug used to treat a parasitic infection, by 5,000%. The charges for this trial weren't related to the price hike; they were about events from earlier in his career while he managed .
+
+In court, his lawyer argued that his notoriety shouldn't influence the case.
+
+"You may not like Martin Shkreli," Shkreli's lawyer Ben Brafman said in the case's opening statement. "And you may have reasons to hate Martin Shkreli, but that is not a basis on which to convict."
+
+Prosecutors on the other hand, claimed that starting in 2009, Shkreli lost money in two of the hedge funds he ran, hid that from his investors, and instead paid them back with money he obtained from Retrophin.
+
+Shkreli .
+
+This story is developing.
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Retrophin</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Shkreli</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>September 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ben Brafman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daraprim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin Shkreli</name>
+    <count>4</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Pharma</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443675989823989</docid>
+  <date>07/08/2017</date>
+  <time>08:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/briefly-killer-cosplay-dark-matter-discovery-silicon-valley-coasters/</url>
+  <title>Briefly: Killer Cosplay, Dark Matter Discovery, Silicon Valley Coasters</title>
+  <content>
+Brief news items of note for Lifehacker readers, including: best cosplay from Adelaide's AVCon, scientists's create map of the distribution of dark matter, watch humpback whales 'mug' spectator boats off Sydney.
+
+Just when you thought it was safe to go back in the water. Humpback whales are 'mugging' spectator boats off Sydney. []
+
+Adelaide celebrated AVCon last weekend. As always, the cosplay was incredibly impressive. Kotaku has the images. []
+
+Australian scientists just helped to create the most accurate measurement ever made of dark matter structure in the universe. []
+
+Business Insider takes a look inside the world of Silicon Valley's 'coasters' - millionaire engineers who get paid gobs of money and barely work. []
+</content>
+  <sindexList>
+  <sindex>
+    <name>AVCon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Kotaku</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Killer Cosplay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide's AVCon</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Dark Matter Discovery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lifehacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley Coasters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

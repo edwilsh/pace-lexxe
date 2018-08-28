@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415840306393836</docid>
+  <date>02/08/2017</date>
+  <time>20:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/tesla-earnings-stock-price-q2-2017-8</url>
+  <title>LIVE: Tesla reports earnings</title>
+  <content>
+Tesla is set to report its second-quarter earnings after the market closes on Wednesday.
+
+The results come right after Tesla's big event on Friday at which it launched the mass-market .
+
+Analysts forecast that the company would report an adjusted loss of $US1.88 per share and revenue of $US2.51 billion, according to Bloomberg.
+
+Analysts at Morgan Stanley and Baird will be focused on vehicle demand, especially since the Model 3 could cannibalise Tesla's older cars. They will also be looking out for updates on Tesla's vehicle production schedule and additional gigafactories for its lithium-ion batteries.
+
+It hasn't been a great year for traders who bet against Tesla's stock, following a 52% surge year-to-date.  in Tesla - or bets that its shares would fall - has fallen to the lowest level in more than 2 1/2 years relative to shares outstanding, according to data compiled by .
+
+Tesla CEO Elon Musk  on Twitter, but equally had to  the company's $US53 billion valuation.
+
+Get the latest Tesla stock price here.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tesla</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla CEO Elon Musk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Model 3</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.88</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.51</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Baird</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$53</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403423555710063</docid>
+  <date>31/07/2017</date>
+  <time>19:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/customers-complain-of-scam-charges-on-phone-bills/8753534</url>
+  <title>Telcos under scrutiny after customers complain of 'scam' charges on phone bills</title>
+  <content>
+Related Story:
+
+Optus has suspended operation with a third-party service provider after it found they were not complying with industry guidelines.
+
+Key points:
+
+ACCAN found some third party services are not following the code correctly
+12 per cent of people have experienced unexpected third party charges in the last six months
+The total amount charged is $20 million in six months
+
+Angry customers have complained of racking up bills for "premium SMS" charges they did not sign up for and opt-out texts being ignored.
+Research shows one in 10 people have been unwittingly signed up to a third-party billing service, resulting in an estimated $20 million in charges in the past six months.
+Optus customer Alex said he never signed up for a premium SMS service and never thought it would be so hard to get rid of.
+"It's a bloody scam," he said.
+When he noticed a $13 charge on his Optus bill for so-called "content services" he was puzzled.
+When he called Optus to complain, a call centre operator told him that while the telco bills the service, it does not provide it, and therefore it is not the company's problem.
+"They said that they're not responsible for these third-party services, and that if I wanted a refund I would have to call the third-party service myself to get a direct refund from them," Alex said.
+'It's big money'
+
+A quick trawl through the Optus customer support forums finds page after page after page of angry customers querying premium SMS charges.
+They claim they never agreed to the charges, which sometimes reach $10 a week.
+Una Lawrence, from the Australian Communications Consumer Action Network (ACCAN), said there was evidence some providers are not following the code correctly.
+ACCAN has recently released research showing 12 per cent of people have experienced unexpected third-party charges in the last six months.
+"The total amount they would have been charged is $20 million," she said.
+"It's big. It's big money."
+
+The regulations around so-called premium SMS services often require what is known as a double opt-in.
+It occurs when users need to first click on a link, then either click on another link verifying that's what they want, or replying to a sign-up text message.
+Providers are also supposed to unsubscribe people when a STOP message received, but the ABC has seen several examples of when that has not occurred.
+After the ABC provided Optus evidence that one content service provider had not been following the rules, Optus temporarily suspended it to check to its compliance status.
+The telco said it requires its third-party content providers to present customers with appropriate acknowledgement of charges via a double opt-in process.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Communications Consumer Action Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Una Lawrence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SMS</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Alex</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ACCAN</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

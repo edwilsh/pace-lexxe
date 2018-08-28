@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398879480230008</docid>
+  <date>31/07/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/nt-offers-10m-for-indigenous-rangers/news-story/6b30d618e3526b4262e9f56ada13a898</url>
+  <title>NT offers $10m for indigenous rangers</title>
+  <content>
+Indigenous ranger programs in the Northern Territory are set to get a $10 million boost after the government delivered on an election promise.
+The NT's Natural Resources Minister Lauren Moss says rangers provide a critical frontline role in conservation and this money will create jobs in some of the territory's most remote communities.
+"Many of the Indigenous ranger groups are under-resourced to tackle the scale of the management tasks facing them. These grants will help overcome this obstacle and lead to important environmental outcomes for the territory," Ms Moss said in a statement.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Moss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Territory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indigenous</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NT's Natural Resources Minister Lauren Moss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

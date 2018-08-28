@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446587977703572</docid>
+  <date>07/08/2017</date>
+  <time>19:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/technology/the-next-apple-watch-wont-need-an-iphone-to-make-calls-check-internet/news-story/62550de63c8be4099c2bc76b6d77c452</url>
+  <title>Apple Watch will make its own calls</title>
+  <content>
+YOUR spy routine with the Apple Watch may soon get a little more convincing.
+Apple aims to release a new watch as soon as this fall that directly connects to cellular networks, enabling it to make phone calls, surf the internet and send messages by itself, according to a report.
+Current versions of the Apple Watch have to be connected to an iPhone in order to perform flashy functions like streaming music, showing directions on a map and sending text messages,
+But according to a Bloomberg report, the new Apple Watch will be equipped with its own LTE wireless chip, freeing it from its iPhone dependence - a drawback that has dinged the Apple Watch in past critical reviews.
+Apple doesn't break out Apple Watch sales specifically, and analysts have long reckoned the product has been a flop since Apple launched its first watch in fall 2014.
+Last week, however, Apple Chief Executive Tim Cook said Apple Watch sales grew by more than 50 per cent in the company's fiscal third quarter.
+Improving the battery life of the Apple Watch has been a focus in the upgrade efforts, according to the Bloomberg report.
+The new model under development also may have new software features such as additional Siri-enabled functions, the ability to connect to gym equipment, display news stories and send payments.
+Apple will buy the LTE chips from Intel, which has been vying with Qualcomm for chip sales to Apple, according to the report. With Qualcomm and Apple locked in a legal dispute, Intel has been chosen as the chip maker for the new watch, the report said.
+Big US telecommunications carriers plan to sell the new product with wireless plans, Bloomberg sources said. Apple is still hammering out the details of the release of the new device, which may have to wait until next year.
+It comes as the tech giant finally joined Instagram. Apple officially unveiled its Instagram account, uploading a series of slide shows that celebrate the iPhone's camera.
+The photos, which are part of Apple's Shot on iPhone campaign, have been sourced from other Instagram users.
+The company recorded interviews with these photographers, and is including snippets of their statements in short video clips as well.
+It also used Instagram's Stories feature when it premiered its account on Monday morning. And it is encouraging others to participate by tagging their photos as hashtag ShotoniPhone.
+Apple has long relied on crowdsourced photos for its Shot on iPhone campaign. However, the use of Instagram is nonetheless remarkable, since the company has traditionally avoided social platforms, especially those controlled by potential competitors.
+Case in point: For years, Apple had its own Twitter account, but never even bothered to upload a user photo. The company began to embrace the service ahead of last year's iPhone announcement, and has since frequently advertised on Twitter. However, Apple still hasn't sent out any regular tweets that aren't ads, which is why its tweet count officially remains at zero. As for Instagram, the company plans to continue to update its account with new photos, a spokesman told Variety on Monday.
+
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qualcomm</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Instagram Stories</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's Shot</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Chief Executive Tim Cook</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Apple Watch</name>
+    <count>8</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Siri-enabled</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>11</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ShotOnIphone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

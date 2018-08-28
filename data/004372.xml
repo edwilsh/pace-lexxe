@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405528089719888</docid>
+  <date>01/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/13/47/kangaroo-attacks-gold-coast-golfer</url>
+  <title>Kangaroo attacks Gold Coast golfer</title>
+  <content>
+A woman attacked by a kangaroo on a Gold Coast golf course suffered a deep cut to the back of her head that required stitches.
+The Queensland Ambulance Service's Bill Houghton said the woman was set upon by the marsupial about 8.10am on Tuesday when she came to the aid of a man on the Hope Island driving range.
+The woman, who was released from hospital later in the day, also suffered minor cuts and bruises to her back and hands.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hope Island</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Service's Bill Houghton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

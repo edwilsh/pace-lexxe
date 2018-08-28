@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422793858578653</docid>
+  <date>03/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/asx-wall-st-aud-share-market-wrap/8772862</url>
+  <title>RBA, retail sales in focus and ASX set for weak open as Wall Street closes flat</title>
+  <content>
+Related Story:
+
+A weak lead from Wall Street and flat ASX futures are pointing towards a weak open for the Australian share market.
+
+Market snapshot at 7:40am (AEST):
+
+ASX SPI 200 futures flat at 5,664, ASX 200 (Thursday close) -0.2pc at 5,735
+AUD: 79.49 US cents, 60.50 British pence, 66.94 euro cents, 87.45 Japanese yen, NZ$1.07
+US: Dow Jones flat at 22,026, S&P 500 -0.2pc at 2,472, Nasdaq -0.4 at 6,340
+Europe: FTSE +0.9pc at 7,475,  DAX -0.2pc at 12,155, Eurostoxx50 +0.2pc at 3,466
+Commodities: Brent crude -0.8pc at $US51.92/barrel, spot gold +0.1pc at $US1,268/ounce, iron ore +0.9pc at $US72.93/tonne
+
+To wrap up the first week of trading, the next big company to report its full year earnings is James Packer's Crown Resorts.
+Crown has been plagued by , and has .
+However, Crown has previously reported a 75 per cent jump in statutory net profit, mainly from the sale of its remaining stake in its Macau venture, Melco Crown Entertainment.
+The main focus of today's economic news will be the Reserve Bank's quarterly monetary policy statement.
+It will give further insight on why the RBA has kept interest rates at the record low 1.5 per cent over the last year, and where it sees economic growth, unemployment and inflation fore the foreseeable future.
+"We expect the RBA to remain optimistic in its outlook for the economy, notwithstanding the impact of the higher Australian dollar," David Plank, the head of ANZ's Australian economics division, said.
+"Still, the stronger Australian dollar is expected to push the growth forecast for 2018 and 2019 down slightly to 2.5 to 3.5 per cent."
+The latest retail sales figures will also be released today, and expectations are rather low.
+The forecast is that retail sales will have risen by 0.2 per cent in June, according to economists polled by Reuters (compared to the previous month's 0.6 per cent lift).
+"Retail sales is typically one of the more sensitive of the Australian data points," NAB's head of foreign exchange strategy Ray Attrill said.
+NAB's forecast is that June retail sales will be flat.
+What happened in the US and Europe?
+
+Wall Street's performance this morning was once again mixed.
+Despite the Dow Jones' flat finish (a gain of just 10 points), it still managed to close at a fresh record for the seventh straight day.
+The Nasdaq and S&P 500 finished in negative territory, after being weighed down by Amazon, Apple and other big name technology stocks.
+In the final hour of trade, all three major US indexes fell on the back of news of the Russia probe intensifying.
+Special counsel Robert Mueller has empanelled a grand jury as part of his investigation into Russia's involvement in last year's US election, according to the Wall Street Journal.
+Apart from that, the majority of US sectors made small gains - utilities was the best performer, while the energy sector lagged behind following a shar fall in oil prices overnight.
+On the economic front, American jobless claims fell last week, according to figures from the Labor Department. Total filings for unemployment totalled 240,000 (lower than the expected the estimate of 242,000).
+As for stock markets in Europe, they finished mostly higher following the Bank of England's (BOE) interest rate decision. Though the British pound weakened against the US and Australian dollars.
+The BOE's monetary policy committee voted 6-2 against in favour of keeping rates on hold, and has downgraded the UK's growth forecast.
+It is now 1.7 per cent for this year (down from 1.9 pc), and 1.6 per cent in 2018 (down from 1.7 pc).
+BOE governor Mark Carney said in a post-meeting press conference that uncertainty about Brexit (particularly due lower investment by companies) meant the UK economy could not grow as fast as before without pushing up inflation.
+"The speed limit, if you will, of the economy has slowed."
+He said that "could have consequences for monetary policy, depending on the evolution of demand".
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOE</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Crown</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macau</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ's Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX SPI 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500 -0.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAX -0.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq -0.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ray Attrill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US72.93</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labor Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Plank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NZ$1.07</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eurostoxx50 +0.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US51.92</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>FTSE +0.9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Carney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melco Crown Entertainment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US1,268</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AUD: 79.49 US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Packer's Crown Resorts</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

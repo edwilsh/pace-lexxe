@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417309185235645</docid>
+  <date>03/08/2017</date>
+  <time>01:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/new-copper-project-cards-south-australia/</url>
+  <title>New copper project on the cards for South Australia - Australian Mining</title>
+  <content>
+Latest News
+
+Terramin Australia subsidiary Terramin Exploration (TEL) has entered a joint venture agreement with Environmental Copper Recovery (ECR) for the potential development of a new copper project in Kapunda, South Australia.
+The joint venture will investigate the potential to extract the copper through low cost in-situ recovery (ISR) from shallow oxide ores in and around the historic Kapunda Mine area.
+ISR uses solutions pumped through boreholes into the mineralised body to dissolve the desired metals. This solution is then extracted and processed in a recovery plant at the surface.
+If field leaching tests are successful, then a feasibility study of the project to produce copper and possibly gold at low capital and operating costs will be commissioned.
+Under the agreement, ECR can earn a 50 per cent interest in the project after spending $2 million on field trials and associated studies. ECR is also able to earn an additional 25 per cent interest by spending another $4 million.
+Commenting on the agreement, Terramin CEO Martin Janes said the new joint venture will add to the company's suite of mining projects.
+"This opportunity will give Terramin the ability to focus on its flagship Tala Hamza zinc project and high-grade Bird-in-Hand gold project while leveraging off its portfolio of other valuable assets," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Terramin CEO Martin Janes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terramin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terramin Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Environmental Copper Recovery</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ISR</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Kapunda Mine</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tala Hamza</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terramin Exploration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kapunda</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bird-in-Hand</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ECR</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

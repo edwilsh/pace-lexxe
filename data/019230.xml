@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435768954947120</docid>
+  <date>06/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/police-issue-fresh-warning-after-close-call-truckie-fined/news-story/56961fdb34d7f8af94f60b4995fb39cd</url>
+  <title>Truckie fined after SE freeway 'close call'</title>
+  <content>
+A TRUCK driver has been fined for driving offences after a close call on the main highway through the Adelaide Hills.
+Traffic police spotted the B-double truck travelling down the South Eastern Freeway with smoke coming from the brakes just before 7pm on Saturday night.
+Officers stopped the truck on Portrush Road where inspections found the brake temperatures ranged from 210-270 degrees celsius.
+The truck and both trailers were defected and the company's owner is now under investigation "regarding the maintenance of the vehicle".
+The Queensland driver, 21, was fined for disobeying the use of low gear sign and breach of load restraint.
+On Sunday police issued a fresh warning about the "close call", in which truck drivers
+"must control their speed using gears only on the freeway".
+"The presence of major or minor defects in any vehicle increases the risk of causing a crash," a spokesman said.
+"Vehicles that have not been properly maintained are known to have been responsible for a number serious crashes.
+"This serves as a timely reminder to not only truck drivers but all vehicle users to ensure that their vehicle is roadworthy and their tyres and brakes are in good condition."
+</content>
+  <sindexList>
+  <sindex>
+    <name>B-Double</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Hills</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Eastern Freeway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Portrush Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

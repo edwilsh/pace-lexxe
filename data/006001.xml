@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407117227647612</docid>
+  <date>01/08/2017</date>
+  <time>10:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/german-unemployment-falls/news-story/433be60bc1d1411ca2bf82f3630161db</url>
+  <title>German unemployment falls</title>
+  <content>
+The number of unemployed persons in Germany ticked down by 9000 in July, helping the jobless rate hold steady at an historic low of 5.7 per cent.
+Monthly jobless queues in Europe's biggest economy contracted for the ninth consecutive month to 2.537 million people in seasonally adjusted terms, the Federal Labour Agency said on Tuesday.
+Analysts had expected the data to show unemployment falling by 5000.
+At 5.7 per cent, the July jobless rate remains at its lowest level since German unification in 1990.
+"The news from the labour market is positive," said Labour Agency chief Detlef Scheele.
+"Employment has risen strongly again and business demand for new employees is continuing to rise at a high level."
+In seasonally unadjusted terms, unemployment in July rose by 45,000 to 2.518 million as result of the traditional summer slowdown in the labour market.
+The unadjusted jobless rate edged up to 5.6 per cent this month from 5.5 per cent in June, the labour agency reported.
+Seasonally unadjusted unemployment was 143,000 lower than in the same month year.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Detlef Scheele</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Labor Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

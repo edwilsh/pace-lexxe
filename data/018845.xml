@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432762477812777</docid>
+  <date>05/08/2017</date>
+  <time>13:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/apple-5g-wireless-2017-7</url>
+  <title>Apple has the green light to test next-generation 5G wireless tech  --  here's what that means</title>
+  <content>
+In July, the FCC  Apple's application to test next generation "5G" wireless technology near its headquarters in Cupertino, California.
+
+Apple applied for the permit back in May, .
+
+This means Apple can now legally start testing technology that could drastically increase the speed and bandwidth of a wireless connection.
+
+The name 5G suggests the technology is a successor to the 3G, 4G, and LTE networks offered by carriers like Verizon and T-Mobile. "These assessments will provide engineering data relevant to the operation of devices on wireless carriers' future 5G networks," according to Apple's application.
+
+Does this mean that Apple is working on a next-generation iPhone with a 5G modem? Not exactly.
+
+A 'simple' test
+
+Apple isn't likely to build its own 5G network and take on AT&T or Sprint. The iPhone giant applied for an experimental licence, which tech companies apply for all the time.
+
+The specific technology that Apple applied to test is called millimetre wave, specifically, on the 28 GHz and 39 GHz bands. Apple's application is vague, experts told Business Insider, but the testing it plans to do is relatively straightforward.
+
+It looks like "Apple is setting up a test network at its corporate HQ with the aim of testing technologies that have been proposed for the 5G standard," OpenSignal analyst Kevin Fitchard told Business Insider shortly after Apple applied for the licence.
+
+"It's just an experimental licence, which companies that have no interest in being operators apply for all the time," he continued.
+
+"This seems to be simple one-way transmission from the fixed transmitters to a receiver, which could be mobile or fixed," wireless consultant Steve Crowley told Business Insider in an email after Apple's initial application was made public.
+
+Apple could be testing basic stuff like how reliable signal strength is, or how signal strength varies with distance.
+
+It doesn't look like Apple already has 5G iPhones it's testing. According to the application, the transmitter needs to be fixed, which isn't realistic for a mobile device. Plus, Apple is only planning to test millimetre wave for a year, according to the application.
+
+Ultimately, Apple might just be keeping up with the Joneses. "Google, Samsung, Microsoft, they have all been given licenses for this a while ago," Tristan Veale, analyst at Futuresource Consulting told Business Insider.
+
+"It makes sense that Apple would be on board" with 5G, he continued.
+
+Early days
+
+One of the most important things to understand is that 5G isn't a single technology. It's basically a marketing term for a next-generation network that's comprised of several different technologies.
+
+The "millimetre waves" mentioned in the application are a significant part of the 5G standard. They are high frequency waves that can carry a staggering amount of data.
+
+"I think it's perfectly acceptable to call millimetre wave part of the 5G spectrum," Veale said. But it's only a part of the combination of technologies that will eventually make up a 5G connection.
+
+"By using a bunch of fancy multiple antenna and beamforming techniques, 5G can extend the range of those high frequencies without consuming enormous amounts of power," Fitchard said.
+
+Ultimately, a body called 3GPP still has to finalise technical specifications for 5G, so it's years away at the soonest.
+
+"The cellular standards body called 3GPP, they are making really pretty great progress in moving 5G along," Saul Enbinder, VP at Spirent Communications told Business Insider.
+
+"You'll see more an more use cases demonstrated through 2018. Real 5G service probably starts to show up in 2019, 2020 timeframe," he continued.
+
+Not just phones
+
+There's still the question of whether millimetre-wave technology will eventually end up in a phone.
+
+"It might wind up being a kind of middle mile technology, connecting small cells which in turn connect to our phones or big ticket items like buses and home modem," Fitchard said.
+
+"This could be could be part of a wider system that Apple are working on in order to be able to serve more different devices perhaps expanding their own router system with millimetre wave," Veale said.
+
+One of the companies currently working on selling millimetre-wave technology is , which sells a system that delivers super-fast wireless internet and lets you control your home's WiFi in a smarter way. It's not working on handsets - phones and PCs connect to it over Wi=Fi.
+
+"We're looking at sort of corporations or extremely large multinationals which would love to put some of this technology into the routers in particular," Veale said.
+
+"I think it's definitely something that they will be looking to put into set-top boxes, home gateways, and routers. Therefore to make the whole system work, it would need to be in phones and tablets and computers to have at the consumer end device being able to receive this," he continued.
+
+It has trouble going through walls
+
+And there are still technical issues with millimetre wave that need to be sorted out. One of the big drawbacks to using millimetre waves is that it has "propagation" issues, or that its waves can't travel very far before they start losing information.
+
+One particular issue is going through walls. "If there is not a line-of-sight between the transmitter and received and there are not good reflections received, it won't work well," Crowley said.
+
+Because of this limitation, 5G hasn't been a focus for handset makers. "Companies such as Verizon are looking at fixed operation (such as from a base station to a home) and not putting millimetre-wave into a handset - if the two ends of the link aren't moving, that's easier," Crowley said.
+
+But, he says, there's a clear "path towards practicality" for 5G in handsets. "So, yes, millimetre-wave is hard to miniaturize into a phone, but it will be done. The bigger challenge will be making the business case for urban millimetre-wave operation," Crowley said.
+
+But it could be a huge leap
+
+"The big advantage, or course, is the very high data rates that can be achieved, many times that to today's cellular systems," Crowley said.
+
+Qualcomm's CEO, Steve Mollenkopf, sees the additional capabilities as potentially transformative.
+
+"I'll call it the classic 'More G.' In cellular, you're going to have more capacity, more data rates, lower latency. From an operator's point of view, it really helps them grow the capability and the network," Mollenkopf .
+
+"If we have a much more secure network and a much more robust network, then you can put mission-critical services on there - remote delivery of healthcare, control of physical plant items in some kind of industrial Internet of Things that actively make decisions. You can have autonomous cars," Mollenkoph continued.
+
+"It's not just about hey, I went to 4G to 5G and my bandwidth got faster and we're all happy. It's really more profound than that," Enbinder said.
+
+Apple wouldn't want to miss that boat, so that's why it's testing the tech near its headquarters.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>FI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Crowley</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>OpenSignal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Futuresource Consulting</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Verizon</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Steve Crowley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Veale</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tristan Veale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qualcomm CEO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PCs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fitchard</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Mollenkopf</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Joneses</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>T-Mobile</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Fitchard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wifi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>23</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>Mollenkoph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mollenkopf</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Does</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cupertino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GHz</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enbinder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spirent Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saul Enbinder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FCC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>19</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

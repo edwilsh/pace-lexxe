@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404548837161844</docid>
+  <date>01/08/2017</date>
+  <time>00:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/its-time-to-get-excited-about-usb-3-2/</url>
+  <title>It's Time To Get Excited About USB 3.2</title>
+  <content>
+If you've been wondering when USB Type-C will take over the world, look around you - its slow and inexorable march is continuing. The latest update to the standard, dubbed USB 3.2, doubles the existing 10Gbps speed of USB 3.1, on the same cables. Here's everything you need to know.
+
+USB Type-C offers a host (pardon the pun) of advantages over the good ol'-fashioned USB Type-A, the rectangular plug that has been around in the computing world seemingly since day dot. It supports , for one - so you can push data as well as high-speed charging for devices up to laptop size.
+
+But more than that, it's fast. Like, 10 times faster than before fast. And the latest version, USB 3.2, doubles the already impressive 10Gbps maximum data rate of USB 3.1 by adding the option for manufacturers to spec up double lane operation - two simultaneous and equally fast data streams, as long as the devices on both ends of the cable are able to support those speeds.
+
+The  should be September this year, potentially in line with the IFA 2017 gadget expo in Berlin which occasionally introduces new laptops and smartphones.
+
+This is just another nail in the coffin of the rectangular USB Type-A plug that we're used to; USB-C is the future whether you like it or not. []
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>USB-C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Time To Get Excited About USB 3.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gbps</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Berlin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IFA 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB Type-A</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>USB Type-C</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB 3.2</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>USB 3.1</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

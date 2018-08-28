@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405059938277862</docid>
+  <date>01/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/mayoral-race-close-nominations-and-ballot-draw-tod/3207398/</url>
+  <title>MAYORAL RACE: Close of nominations and ballot draw today</title>
+  <content>
+TODAY Ipswich voters will find out who is in the running to be the city's new leader.
+
+Nominations closed today at midday.
+
+At 2pm, names will be drawn out of a box to determine where each name will appear on the ballot paper.
+
+Candidates generally hope to secure the number one spot, considered an advantage when it comes to picking up votes from those who might not be set on one particular candidate, but instead number from the top of the paper.
+
+The Electoral Commission Queensland ensures the ballot draw is fair. 
+
+How to vote
+
+On the day, voters will have a variety of options when it comes to casting their vote.
+
+The system is Optional Preferential Voting.
+
+It means voters can choose to;
+
+Put a '1' next to the candidate of their choice
+
+Put a '1', '2', '3' next to the three candidates of their choice
+
+Number all the boxes in order of the voter's preference
+
+Where to vote early
+
+Pre-polling will open on Monday August 7 and closes on Friday August 18.
+
+The pre-polling booths will be in Ipswich, Bundamba and Springfield
+
+Ipswich
+
+WG Hayden Humanities Centre, 56 South St, Ipswich
+
+Bundamba
+
+Unit 1/ 14 Coal St, Bundamba
+
+Springfield
+
+World Knowledge Centre, 505 Sinnathamby Blvd, Springfield Central
+</content>
+  <sindexList>
+  <sindex>
+    <name>WG Hayden Humanities Centre, 56 South St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Springfield Central</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Knowledge Centre, 505 Sinnathamby Blvd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pre-polling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optional Preferential Voting</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commission Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bundamba</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Springfield</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday August 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coal St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday August 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

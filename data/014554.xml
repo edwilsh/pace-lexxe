@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423446693618457</docid>
+  <date>04/08/2017</date>
+  <time>01:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/nsw-coal-dust-emissions-reduced-dust-22000-tonnes-epa/</url>
+  <title>NSW coal dust emissions reduced dust by 22,000 tonnes: EPA - Australian Mining</title>
+  <content>
+Latest News
+
+A coal dust reduction program launched by the New South Wales Environmental Protection Authority (EPA) has cut down dust emissions by 22,000 tonnes, or 19 per cent, a year.
+The Dust Stop Pollution Reduction program required all NSW open cut coal mines to implement measures to reduce dust emissions on site. This included achieving 80 per cent control of wheel generated dust on haul roads - the largest source of fine dust particles on mine sites.
+The program also required mines to find controls for loading and dumping operations; modify their mining operations during adverse weather; and to stabilise exposed areas to reduce dust from wind erosion.
+EPA chief environmental regulator Mark Gifford said the program has been a success, recording a steady decline in coal dust from mines since it began in 2012.
+"The management practices developed during Dust Stop are now part of standard operations of each mine," he said.
+Gifford added that while all mines are meeting the program's requirements, more work has to be done to reduce dust.
+"The EPA in partnership with the Office of Environment and Heritage, is about to trial a dust risk forecasting system in the Upper Hunter," he said.
+"This system could be used to provide early warning to allow mines to reduce particle emissions even more on days when high dust risk is forecast."
+Long term exposure to coal dust causes coal workers pneumoconiosis, or black lung, with 21 workers - most from Queensland - diagnosed with the diseases since it resurfaced in Australia.
+Queensland currently has the nation's , at 3mg/m3 of air - higher than the NSW level of 2.5mg/m3.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Dust Stop Pollution Reduction</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dust Stop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Office of Environment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Upper Hunter</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Gifford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales Environmental Protection Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Gifford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

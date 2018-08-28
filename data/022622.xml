@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443366752173679</docid>
+  <date>07/08/2017</date>
+  <time>06:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/crime-and-justice/former-queensland-education-boss-accused-of-misconduct/news-story/bada720f6188448836d61892c07c3115</url>
+  <title>Former Education boss accused of misconduct</title>
+  <content>
+A FORMER Queensland education boss allegedly used "unspoken pressure" to secure a job for a friend of former department director-general Julie Grantham.
+Ex-regional director Glen Arnold Hoppner pleaded not guilty in the Brisbane District Court on Monday to one count of misconduct in relationship to public office.
+The court heard Hoppner allegedly told his subordinate in June 2012 to appoint Hunter Paltridge, a friend of Ms Grantham, as head of programs at a state-run sports centre before interviewing other candidates.
+Ms Grantham was the director-general of the education department between 2009 and 2012, earning $400,000 a year and reporting directly to the minister.
+In 2015, Mrs Grantham was found guilty of abusing her office by landing her son Lachlan a job at the Runaway Bay Sports Centre, where her husband also worked.
+Ms Grantham was given a suspended six-month jail term and was forced to pay back $17,000 to the State Government, to cover the salary paid to her son.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane District Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lachlan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Julie Grantham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ex-regional</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Paltridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Runaway Bay Sports Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glen Arnold Hoppner</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Mrs Grantham</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Grantham</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hoppner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FORMER Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

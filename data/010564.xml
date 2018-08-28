@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416652055228065</docid>
+  <date>02/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/08/58/airbnb-sued-us-woman-sexual-assault</url>
+  <title>Woman sues Airbnb after US host sexually assaulted her</title>
+  <content>
+Airbnb is facing a lawsuit after a guest says the company failed to do a background check that would have uncovered the criminal history of a host who she claims sexually assaulted her.
+The property owner, who had earned the upper-tier status of "superhost", has said the assault never happened, .
+Airbnb has defended its screening measures but also barred the owner from listing on its site.
+The lawsuit, filed by Leslie Lapayowker, argues a background check would have uncovered the fact the owner had previously been arrested and charged with battery, and therefore prevented him from listing property on Airbnb.
+According to the suit, in July 2016 Ms Lapayowker rented a studio apartment in Los Angeles attached to the home of Carlos Del Olmo.
+While she had rented the property for a month, the suit says she had stayed only three nights because Mr Del Olmo's behaviour.
+She claims he made sexually suggestive comments, used drugs in front of his underage son and pounding on her windshield while she was in her car.
+
+According to the suit, the assault occurred when she returned a week after leaving the studio, to retrieve belongings she had left behind.
+Ms Lapayowker says Mr Del Olmo told her he wanted to show her something inside the studio and he locked the door after she followed him inside.
+According to the suit, she was held in a chair against her will, as he masturbated in front of her.
+She says before she managed to flee the scene, he said to her: "Don't forget to leave me a positive review on Airbnb".
+Airbnb did remove Mr Del Olmo as a host from its site when Ms Lapayowker complained about the attack a month later, the peer-to-peer rental site said.
+Mr. Del Olmo told the New York Times he was not happy with Airbnb's response.
+"I have not done anything wrong, and have lost between $30,000 and $70,000 a year in income, because Airbnb abandoned me," he said.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Leslie Lapayowker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Del Olmo</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Lapayowker</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Airbnbs</name>
+    <count>8</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>July 2016 Ms Lapayowker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carlos Del Olmo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

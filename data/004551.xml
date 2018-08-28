@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405828737434929</docid>
+  <date>01/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/apple-google-take-down-binary-option-apps-at-asics-request-20170801-gxmyau</url>
+  <title>Apple, Google take down binary options apps at ASIC's request</title>
+  <content>
+Australia's corporate regulator says it has convinced two of the world's largest technology companies, Apple and Google, to remove applications that offer unlicensed financial products to customers from their respective app stores. 
+The Australian Securities and Investment Commission, like other global regulators, has been targeting unlicensed "binary options" providers, which offer odds to users for betting on whether the price of a financial product or index will be above or below a certain level in a short period of time.
+A review by ASIC in March found that over 330 smartphone applications were being offered to Australians, through the Apple and Google app stores, by entities or individuals that appeared to be unlicensed. This number was up sharply from the number of apps available in 2016, when the  on the products.
+It is understood ASIC approached Apple in late April and presented its list, asking the global technology giant to remove the apps from its store. Other global regulators may also have approached Apple over about the products. In early June, it appears Apple updated its global guidelines for its App Store, banning apps that facilitate binary options trading.
+
+ASIC then engaged with Google, which is believed to have communicated a similar decision to remove the apps from its Android store to ASIC this week. 
+
+"We were encouraged with the speed both entities removed the relevant apps identified by ASIC from their respective app stores," ASIC said in a statement on Tuesday.
+Google said it would not comment about individual app removals but that any policy to remove apps in Australia would be applied globally. 
+ASIC said it had been concerned not only about the apparent unlicensed activity but also descriptions in the apps which .
+Encouraging the tech giants to block distribution of offending investor apps could be more effective than investor education, a senior ASIC executive said.
+
+"For a regulator, we have to think about various ways of dealing with a problem when there are hundreds of bad actors," said Greg Yanco, senior executive leader of market supervision.
+"We have to think about what is the most efficient way of closing down 150 unlicensed actors and look at different touch points, is it an app, or the money, or the investors. While we use investor education as well, something that cuts off an entire set of access points is an effective use of ASIC resources."
+It is understood that there are under 10 licensed providers of binary options in the Australian market. ASIC commissioner Cathie Armour said investors need to make sure financial service providers are adequately licensed and this was all the more important at a time where trading is easily available over smartphones.
+"In an age where technology can hide who is offering and controlling a product, buyer beware has never been so important. If something appears too good to be true, it probably is," she said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Yanco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>11</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cathie Armour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

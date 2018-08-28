@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416956997912309</docid>
+  <date>03/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/offshore-ma-triggers-worleyparsons-rethink-20170802-gxo8xf</url>
+  <title>Offshore M&A triggers WorleyParsons rethink</title>
+  <content>
+If Texas-based professional services firm Jacobs Engineering Group is willing to write a $US3.27 billion cheque for one of WorleyParsons rivals, what does it mean for takeover target Worley? 
+That's the question analysts and fund managers were grappling with on Thursday morning, after Jacobs agreed a deal to buy privately-owned engineering and consulting group CH2M Hill for $US3.27 billion including debt. 
+The deal valued CH2M Hill at 10.1-times trailing EBITDA, excluding cost synergies, and designed to increase Jacobs' infrastructure and government services work and capabilities in nuclear energy. 
+Deutsche Bank analysts said it suggested some upside for Worley. 
+
+"Using our through-the-cycle earnings for WOR we calculate the company is trading on an 8.0x EV/EBIT multiple (vs 13.4x for the Jacobs/CH2M transaction excluding cost synergies)," the analysts told clients. 
+
+"In the event of another takeover offer being made for WOR, if we assume an acquirer is able to extract a similar level of cost synergies in proportion to combined employee numbers, we calculate WOR is trading on a through-the-cycle EV/EBIT multiple of 6.8x (vs 8.3x for the Jacobs/CH2M transaction including cost synergies).
+"In our view WOR deserves a similar transaction multiple to CH2M Hill given they are of similar size and have most of their contracts as reimbursable or low risk services. Therefore we see further upside to WOR's current share price if another takeover offer is made for the company." 
+Worley counts Dubai-based Dar Group as its largest shareholder,
+The purchases came after Dar chairman and chief executive, Talal Shair, flew to Sydney in November and met with WorleyParsons chairman John Grill to discuss a potential takeover, but wasn't granted due diligence.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dubai-based Dar Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WorleyParsons</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacobs Engineering Group</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>John Grill</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Talal Shair</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3.27</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jacobs</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CH2M Hill</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EV/EBIT</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacobs/CH2M</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Worley</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Texas-based</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

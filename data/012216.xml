@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417992085046096</docid>
+  <date>03/08/2017</date>
+  <time>04:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-03/afl-fantasy-live-the-traders-talk-teams</url>
+  <title>AFL Fantasy LIVE: The Traders talk teams</title>
+  <content>
+Calvin's round 20 Fantasy captains
+Fantasy finals begin this week and here are the best double-point options
+
+The Traders take to the airwaves each week as the teams drop. 
+
+Join Warnie, Calvin and Roy on AFL.com.au and the official AFL Live app for an hour of LIVE radio as they watch the teams land, and give the first tips on what it all means for your Fantasy squad.
+
+Every Thursday until round 23, the boys are joined by special guests and talk through all the big Fantasy issues of the week.  
+
+Join The Traders LIVE right here from 6pm AEST and listen in as all the teams land. Get your questions in via  or  for Thursday night's show.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Traders LIVE</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Calvin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warnie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AFL Live</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL Fantasy LIVE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

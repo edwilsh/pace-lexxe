@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437349502925257</docid>
+  <date>06/08/2017</date>
+  <time>07:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/world/a-wanted-man-turned-himself-into-police-after-they-shared-an-unflattering-mugshot/news-story/057b4eae4b00d00e285cd6a82a9e8850</url>
+  <title>Man turns himself in after 'unflattering' mugshot</title>
+  <content>
+A MAN wanted over an alleged assault deemed his mugshot so unflattering that he turned himself into police.
+Wayne Esmonde, 35, was wanted by South Wales Police in connection with an assault on July 18 in Fforestfach, Swansea.
+A picture of him with a shaven head and wide eyes was posted by South Wales Police on their Facebook page.
+Mr Esmonde, who spotted his mugshot on social media, asked officers to take the post down before handing himself in at Swansea Central police station.
+He commented on his mugshot, saying that it was "not very flattering".
+"I am him. Not a very flattering mugshot," he wrote, according to the BBC.
+"I'd appreciate it if you'd take this post down. Innocent until proven guilty and all that.
+"I've spoken to my solicitor and they will advise me what to do next. Thanks."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Esmonde</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fforestfach</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 18</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>South Wales Police</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Swansea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wayne Esmonde, 35</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swansea Central</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

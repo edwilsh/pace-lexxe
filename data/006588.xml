@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409788697360421</docid>
+  <date>01/08/2017</date>
+  <time>20:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/facebook-fcc-bluetooth-mystery-hardware-device-2017-8</url>
+  <title>Facebook has developed a low-energy Bluetooth module for a mystery hardware device</title>
+  <content>
+• Facebook filed documents with FCC for a Bluetooth LE module
+• The documents were filed under FCL Inc, the name of the subsidiary that Facebook uses for drone-related technologies, such as its Aquila drone
+
+• Filing comes as Facebook reportedly developing smart speaker, other hardware
+
+Facebook has designed a low-energy Bluetooth module to be used in a still-unspecified hardware device.
+
+The Bluetooth transmitter is attached to a printer circuit board, which Facebook says can only be installed by an original equipment manufacturer, according to FCC filings.
+
+In other words, it's a component that will be integrated into some sort of device, which Facebook is keeping under wraps for now (much of the info in the filings is still confidential).
+
+The filings, which were filed in June, come as evidence mounts suggesting Facebook is working on new consumer hardware. On Tuesday,  that Facebook's Building 8 group was developing a video chat device and a smart speaker, similar to Amazon's Echo. Business Insider previously reported that
+that could function like a smart speaker with a touchscreen.
+
+Here's a sketch of Facebook's Bluetooth module, included in the filing:
+
+There are a few clues in the filing that point to some kind of drone or telecommunications-related product. The filing is under FCL Inc, which is the name of the subsidiary that Facebook uses for drone-related technologies, such as its Aquila drone. And the contact name on some of the documents is Andrew Guhr, a Facebook lawyer whose LinkedIn bio describes him as Associate General Counsel, Telecommunications at Facebook.
+
+Guhr's job description raises some intriguing possibilities for the mystery product:
+
+"Advising on telecom laws and regulations around the globe on projects ranging from submarine cables, terrestrial networks, wireless networks, experimental technologies, and next-generation OTT services."
+
+So, what could it be?
+
+The FCC filing refers to it as a Bluetooth LE 4.0 module. Bluetooth LE is the "low-energy" version of the wireless standard, designed for everything from fitness wearables to home entertainment devices and beacons.
+
+Facebook has several projects underway that this could apply to:
+
+The company has previously filed documents with the FCC for a wireless beacon product that could be used in retail stores.
+
+Facebook has also been  around its Menlo Park campus, in addition to its efforts to
+
+A smart speaker or video conference gadget could also benefit from a Bluetooth module, though it's unclear why Facebook wouldn't simply use an off-the-shelf component for a device like that.
+
+Finally, Facebook also has an effort underway , and is designing routers and switches.
+
+Facebook did not respond to requests for comment
+
+Read more:
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Amazon Echo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook's Bluetooth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OTT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>16</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Associate General Counsel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aquila</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FCL Inc</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluetooth LE 4.0</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluetooth</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Bluetooth LE</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Menlo Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LinkedIn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook's Building 8</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FCC</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Guhr</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Guhr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405102887951813</docid>
+  <date>01/08/2017</date>
+  <time>02:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/dead-whale-popular-gold-coast-beach/3207404/</url>
+  <title>Dead whale on popular Gold Coast beach</title>
+  <content>
+A DEAD baby whale has washed up on shore between Nobbys and Main Beach this morning.
+
+The carcass was found just before 11am this morning and it is believed council animal management will remove the whale.
+
+Sea World marine sciences director Trevor Long said about 20 per cent of baby whales were lost each year "for a range of reasons."
+
+A baby whale carcass being eaten buy a tiger shark 4km off the Gold Coast Seaway last week.
+
+He said having not seen the baby whale he couldn't assess why it had died.
+
+Mr Long also said whale populations were increasing each year by about 3000 animals.
+
+Last week a baby whale carcass was found outside the Seaway being eaten by a tiger shark.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Seaways</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trevor Long</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast Seaway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sea World</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Long</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nobbys</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Main Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

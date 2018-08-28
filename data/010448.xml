@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416347112544898</docid>
+  <date>02/08/2017</date>
+  <time>21:58</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melbourne-weather-forecast-another-freezing-start-in-city/news-story/aed44d1b267f2f77180fea052a214166</url>
+  <title>When will these cold mornings end?</title>
+  <content>
+MELBURNIANS have woken to a frosty morning as the temperature dips to just 3C.
+But if it feels colder than that - you're not wrong.
+The Bureau of Meteorology said this morning felt more like 1.6C.
+Today's maximum will only just crack the double digits at 11C but those in Mt Dandenong will shiver through the day at just 7C.
+Morning frost replaced yesterday's thick fog and Melburnians are urged to pack their umbrella as the city is set for an afternoon drenching.
+Showers will arrive this afternoon and into the evening, with 3-8mm forecast.
+And it seems the rain is here to stay with showers expected to continue until Monday next week.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Dandenong</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melburnians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

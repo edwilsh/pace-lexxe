@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418799538911381</docid>
+  <date>03/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/telstra-clears-last-microwave-links-out-of-4g-band-470012</url>
+  <title>Telstra clears last microwave links out of 4G band</title>
+  <content>
+Telstra is expected to clear the last of its microwave backhaul links out of the 1800 MHz spectrum band before the end of the first quarter of 2018.
+
+The 1800 MHz band was at one stage home to 773 such point-to-point links, of which 637 were owned by Telstra.
+
+They were used to backhaul voice and data services, often to enable Telstra to meet its universal service obligations (USO) when links were daisy-chained to stretch deep into remote parts of Australia.
+
+Today, Telstra has whittled the number of links still active in the 1800 MHz band to just 34, and the Australian Communications and Media Authority (ACMA) revealed overnight they are likely to be cleared from the band before long.
+
+"It is anticipated that Telstra will clear all specified fixed links before the end of the first quarter of 2018," the ACMA said, however there was some leeway in the licenses to cater for any delays to the exit strategy.
+
+While once prime spectrum for point-to-point links, 1800 MHz was re-farmed several years ago so Australian telcos could use it to launch the first 4G mobile services.
+
+That has meant having co-existence rules in place for the last few years to ensure that newer mobile services in the band did not interfere with the operation of the remaining microwave links.
+
+Telstra said  that there was a danger that mobile services in the demand could create interference; one option it posited at the time was to "consider migrating the fixed links to a higher frequency band". However, such a migration would "come at a cost", it said.
+
+It was not immediately clear what had become of links that were in the 1800 MHz band. A Telstra spokesperson has been contacted for comment.
+
+The issue of co-existence was raised again overnight when the ACMA unveiled plans to re-auction leftover bits of spectrum that hadn't sold previously.
+
+The assets to be sold are in the 1800 MHz, 2 GHz, 2.3 GHz and 3.4 GHz bands. The ACMA is consulting with industry on how to auction the remaining assets.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACMA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MHz</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GHz, 2.3 GHz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GHz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

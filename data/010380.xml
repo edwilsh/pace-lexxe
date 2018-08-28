@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415621263058068</docid>
+  <date>02/08/2017</date>
+  <time>19:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/03/05/01/new-infection-challenge-for-aust-hospitals</url>
+  <title>New infection challenge for Aust hospitals</title>
+  <content>
+A bacteria that commonly causes infection among vulnerable surgical and cancer patients is becoming a growing problem for Australian hospitals, a report on antibiotic resistance has uncovered.
+The Antimicrobial Use and Resistance in Australia 2017 report, released by the Australian Commission on Safety and Quality in Health Care on Thursday, found more than half (56 per cent) of enterococci samples taken from hospitals were resistant to last-line antibiotic Vancomycin.
+According to the report authors, the level of resistance is higher than in any European country.
+Enterococci are bacteria normally found in a person's gut or bowel and the female genitourinary tract.
+"There is only one or two antibiotics left with which we can safely treat the infection," warned Commission Senior Medical Advisor Professor John Turnidge.
+While this bacteria is unlikely to kill a patient, Prof Turnidge said, it does place a significant burden on the health system.
+"When it's present it requires intensive and expensive control procedures in the hospital, that's why we are so frustrated; it's becoming so common in Australia," he told AAP.
+The report also showed Staph infections - resistant to many types of antibiotics - have become the most common type of infection, particularly of the bloodstream, in the community.
+Prof Turnidge said antimicrobial resistance is "one of the most significant challenges" for the delivery of safe, high-quality health services, and has a direct impact on patient care.
+He said the community must realise that antibiotics are precious drugs and are not to be used "just in case".
+"Antibiotic resistance is greatly exacerbated through the overuse and misuse of antibiotics," said Prof Turnidge.
+"Bacterial infections that were once able to be cured with antibiotics are becoming much harder to treat."
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia's 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commission Senior Medical Advisor Professor John Turnidge</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Antimicrobial Use</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health-care</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enterococci</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prof Turnidge</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

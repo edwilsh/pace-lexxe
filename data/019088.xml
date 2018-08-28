@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435339458213966</docid>
+  <date>05/08/2017</date>
+  <time>23:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836002/man-charged-after-police-pursuit/?cs=305</url>
+  <title>Man charged after police pursuit</title>
+  <content>
+POLICE have charged a man after he allegedly led them on a pursuit through the Central Coast.
+
+Officers from Tuggerah Lakes Local Area Command were conducting traffic enforcement duties on the Pacific Highway, Doyalson, around 5pm on Friday when they detected a Subaru WRX speeding in the 80 kilometre an hour zone.
+Police stopped the vehicle and subjected the male driver, 35, to a mobile drug test.
+
+The test allegedly returned a positive reading.
+After being told he was under arrest, the driver allegedly started his car and drove south on the highway.
+
+Police started to pursue the vehicle.
+The car left the road onto an embankment, before it allegedly hit a Holden Captiva and small passenger bus.
+The driver allegedly attempted to leave but was detained by members of the public.
+
+Police arrived and arrested the driver.
+NSW Paramedics treated the man for head injuries and he was taken to John Hunter Hospital.
+The driver was then taken to Waratah Police Station where he was charged with exceeding speed limit by more than 45km/h; pursuit (Skye's Law); driving recklessly/furiously or speeding in a dangerous manner; and escaping lawful custody.
+
+He was given strict conditional bail and will appear before Newcastle Local Court on August 24.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Central Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waratah Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden Captiva</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Doyalson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuggerah Lakes Local Area Command</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Highway</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Skye's Law</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW Paramedics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subaru WRX</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

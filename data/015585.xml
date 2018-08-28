@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423867600420059</docid>
+  <date>04/08/2017</date>
+  <time>03:09</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/realestate/90-million-kingston-park-development-to-receive-28-million-in-federal-government-funding/news-story/ef302cb567ce08fe1c6047ca8976532b</url>
+  <title>Federal funds secured for Kingston Park</title>
+  <content>
+THE redevelopment of the former Kingston High School will finally receive Federal Government funding.
+Kingborough mayor Steve Wass and Liberal senator for Tasmania Eric Abetz have announced a $2.8 million grant for the project through the Building Better Regions Fund.
+The council had on three previous occasions applied for Federal funding under the National Stronger Regions Fund but each time was unsuccessful.
+Cr Wass said he was thrilled the project was finally successful.
+"We are certainly delighted because what this Federal funding will do is bring this project forward," he said.
+"Our community is out there waiting for it to happen and we can now say that it is happening and I think it will be well received in the community."
+The grant is half of what is required to start construction on the $90 million project, called Kingston Park.
+The development of the 11.4ha site - which is larger than Macquarie Point - is planned to include a town square, cultural and sporting spaces, meeting rooms, a cafe, occasional daycare facilities, car parking and 4ha of public open space and has been touted as the regional headquarters of southern Tasmania.
+It will also create 640 jobs, helping the municipality address the 850 jobs that were lost when Vodafone moved to Hobart.
+Senator Abetz the project would make Kingborough a self-contained community.
+"I'm just pleased as a local ratepayer to have been involved with the local council in asking the Federal Government for the money," he said.
+"These projects are funded all around Australia, we can't fund them all. We do go through a rigorous process but it is nice to see the Kingborough Council achieve this which now gives us a kickstart too."
+Work is expected to begin on the development next year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Eric Abetz</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Senator Abetz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingston High School</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kingborough Council</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Steve Wass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingston Park</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kingborough</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Building Better Regions Fund</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cr Wass</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Point</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Stronger Regions Fund</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

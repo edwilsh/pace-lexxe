@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426109573386461</docid>
+  <date>04/08/2017</date>
+  <time>11:51</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/your-budget/2017/08/04/protect-online-credit-card-fraud/</url>
+  <title>Card fraud soars: don't assume you're covered</title>
+  <content>
+Loading...
+Australians have been warned not to assume they will be reimbursed for online card fraud, as new figures showed these attacks more than doubled in the last five years.
+Cyber criminals stole $417.6 million from Australians in 2016 without ever touching their physical cards, up 15 per cent from 2015 - and 110 per cent since 2011.
+The technical name for this scam is 'card not present fraud'. It's where the thief makes illegal purchases using only a card's number. Because its so covert, victims can be totally unaware their cards have been compromised.
+Card-not-present fraud accounted for 78 per cent of all suspect card transactions in Australia last year, up from 68 per cent in 2011, the Australian Payments Network  on Thursday.
+The threat is increasingly relevant, as card payments have  cash as Australia's preferred payment method, and online shopping is .
+But card holders may be complacent, as they assume the banks will repay anything stolen. This could be a costly assumption.
+The Australian Payments Network report warned that consumers are only protected "as long as they have taken due care with their confidential data".
+This was confirmed by Samantha Mcleod, general manager of cyber security at ME bank, who said it was crucial to regularly check card statements and report anything suspicious immediately - as failing to do so can leave fraud victims out of pocket.
+"If you don't notify your bank within a reasonable time you may be liable for losses which occur as a result of your delay," she told The New Daily.
+"Your liability for losses resulting from unauthorised electronic transactions will be determined by the ePayments Code."
+
+The Australian Payments Network said fraudsters were most likely to perpetrate 'card-not-present fraud' by either stealing card details en masse through large-scale hack attacks on businesses, or through targeted identify theft aimed at individual card holders.
+Other ways to protect yourself
+
+In addition to paying close attention to card statements, ME bank, the Australian Payments Network and other experts also recommended:
+
+Use protected payment services like , ,  or  rather than giving your card details to a shopping website directly
+If you're shopping on a computer, keep the security software up-to-date and do a full scan often
+If you're shopping on a phone or tablet, make sure you are using the latest operating system
+Thoroughly research a website before buying from it. For example, Google their company name with search words like "complaints", "fraud", "stolen" and "overcharged"
+Don't click on links in emails or SMS that claim to be from PayPal, your bank, or other business which may have your personal information. If you think that there is a chance it's legitimate, go direct and enter the website details manually
+Use second-factor verification if your credit card provider or bank allows it. After every purchase, an email or SMS will ask you to confirm the purchase
+Use websites like  to get tips on how to identify fake shopping sites
+More protections on the way
+
+The Australian Payments Network noted that Australian businesses will soon be required to tell their customers when they have suffered serious data hacks.
+"Under the mandatory reporting scheme, organisations must also notify their customers so they can take remedial steps such as changing passwords or cancelling cards," the report said.
+Australian Information Commissioner Timothy Pilgrim said it would require many businesses to "notify individuals who are likely to experience serious harm as a result of a data breach involving their personal information - which can include, for example, financial information, contact details, credit information, and more".
+"The notification to individuals must include, among other information, recommendations about the steps an individual should take in response to the breach," he told The New Daily.
+The scheme will commence on February 22, 2018.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Information Commissioner Timothy Pilgrim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samantha Mcleod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Payments Network</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SMS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ePayments Code</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Paypal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

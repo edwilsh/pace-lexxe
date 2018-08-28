@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419100186627740</docid>
+  <date>03/08/2017</date>
+  <time>08:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/asian-shares-dip-on-profittaking/news-story/d78b49ebaf0ae31716be25ffbc27b548</url>
+  <title>World stocks slip as tech shares crumble</title>
+  <content>
+World share markets have fallen, led by a tumble in tech shares as investors locked in recent gains after Wall Street's Dow Jones Industrial Average broke the 22,000 barrier for the first time in its 121-year history.
+MSCI's broadest index of Asia-Pacific shares outside Japan fell 0.7 per cent on Thursday, with South Korea's tech-heavy Kospi index slumping 1.7 per cent to its lowest level in over three weeks.
+Seoul shares took an additional hit from President Moon Jae-in's new tax plan.
+Japan's blue-chip Nikkei stock index closed down 0.3 per cent .
+European stock markets opened broadly lower, Germany's DAX slipping 0.6 per cent and France's CAC 0.4 per cent lower.
+Britain's FTSE was down 0.2 per cent.
+"We haven't seen a major correction in tech shares so far this year so they may be hitting a speed bump," said Nobuhiko Kuramochi, chief strategist at Mizuho Securities.
+In New York overnight, the Dow Jones Industrial Average topped the 22,000 mark for the first time on the strength in Apple shares following its earnings.
+But as the positive impact faded, investors were encouraged to take profits.
+Samsung Electronics, which last Friday posted its biggest daily fall since October, slid 2.5 per cent, giving up the gains made so far this week.
+SK Hynix dropped more than three per cent.
+Technology stocks in Europe slipped 0.3 per cent.
+"I don't see too much in the way of downside for European stocks because economic data is strong - take a look at the Italian data today," said Michael Hewson, chief market analyst at CMC Markets.
+Data on Thursday showed Italy's service sector posted its fastest growth for a decade in July, boosting prospects for economic output in the euro zone's third-largest economy.
+In currency markets, the US dollar inched away from a 15-month low versus a basket of currencies but was still looking wobbly due to doubts about whether there will be another US interest rate rise this year.
+US inflation has been contained even as the labour market appears to be in its best shape in many years, with the jobless rate staying near a 17-year low.
+Friday's closely watched government employment report could provide more clues on the economic outlook.
+The US dollar index, which measures the greenback's value against a basket of six major currencies, rose about 0.12 per cent to 92.951.
+On Wednesday, it slid to 92.548, its weakest level since May 2016.
+The euro was a touch weaker at $US1.1841, after rising to around $US1.1911 on Wednesday, its highest level since January 2015.
+The British pound held near Wednesday's 11-month high of $US1.3250 before a Bank of England interest rate decision.
+The central bank will also release its latest inflation report.
+The BoE is expected to keep interest rates at a record low.
+When they last met in June, rate-setters voted by a narrow 5-3 margin to keep Bank Rate at 0.25 per cent.
+The surprisingly close decision pushed up sterling and British government bond yields as investors pulled forward their expectations of a rate hike.
+Oil prices dipped as a rally that pushed up prices by almost 10 per cent since early last week lost its momentum despite renewed signs of a gradually tightening US market.
+Brent crude futures slipped 0.8 per cent to $US51.94 a barrel, not far from Wednesday's high of $US52.93, its highest level in 10 weeks.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOE</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Britain's FTSE</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US1.1911</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SK Hynix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.1841</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank Rate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nobuhiko Kuramochi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.93</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany's DAX</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France's CAC 0.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Moon Jae-in</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Electronics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kospi</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US1.3250</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Michael Hewson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nikkei</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Seoul</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CMC Markets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mizuho Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US51.94</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>January 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street's Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

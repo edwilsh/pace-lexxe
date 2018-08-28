@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429923504405512</docid>
+  <date>05/08/2017</date>
+  <time>02:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/us-navy-ends-search-for-lost-sailor/news-story/d62f0b2267c6aaaf02b960be3f95c0d4</url>
+  <title>US Navy ends search for lost sailor</title>
+  <content>
+The US Navy has ended a three-day search for a sailor who is believed to have gone overboard during operations in the South China Sea.
+A statement on Friday said that US, Japanese and Chinese navy vessels and aircraft spent 79 hours combing roughly 25,900 square kilometres of the South China Sea west of the Philippines.
+The sailor from the guided-missile destroyer USS Stethem, based in Yokosuka, Japan, was reported missing and assumed overboard August 1.
+His name is being withheld pending notification of next of kin, the Navy said.
+Rear Admiral Charles Williams, the commander of Task Force 70, offered his prayers for the sailor's loss and thanked all those who participated in the search.
+China, which claims virtually all of the South China Sea, accused the US in July of trespassing in its waters when the Stethem sailed within 12 nautical miles of Triton Island in the Paracel islands, which are also claimed by Vietnam and Taiwan.
+The operation was aimed at affirming the right to passage and challenging what the US considers China's excessive territorial claims in the area. China sent ships to intercept the destroyer.
+China has strongly objected to repeated freedom of navigation missions by the US Navy in the South China Sea, where Beijing has rattled neighbours by constructing seven man-made islands in the disputed waters and fortifying them with radars and missiles.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yokosuka</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>USS Stethem</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Task Force 70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taiwan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>4</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>Admiral Charles Williams</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vietnam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Triton Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Stethem</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US Navy</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Paracel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Navy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South China Sea</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

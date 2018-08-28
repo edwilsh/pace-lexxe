@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418438761652161</docid>
+  <date>03/08/2017</date>
+  <time>06:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/clever-camera-app-uses-deep-learning-to-perfectly-retouch-your-photos-before-you-take-them/</url>
+  <title>Clever Camera App Uses Deep Learning To Perfectly Retouch Your Photos Before You Take Them</title>
+  <content>
+Professional photographers often spend hours painstakingly perfecting their images in Lightroom and Photoshop before sharing them with the world. But researchers at MIT are promising similar results generated so quickly that your smartphone can correct and retouch a photo before you've even taken it.
+
+As with  we've seen over the past few years, the "secret sauce" of this new app lies with an artificial neural network that's able to learn how to retouch photographs using before and after examples. In this case, researchers used a data set they created in cooperation with Adobe Systems which included 5000 images that had each been colour-corrected and retouched by five different professional photographers, allowing the neural network to generate its own guidelines on what the final result should look like given a specific starting image.
+
+But training the software how to automatically correct and improve photos was only half of the technical achievement here. We've seen examples of modifying photos so they match the style of another photographer before, but they typically rely on the cloud, sending images to a more powerful computer that handles the actual processing. That takes time, however, and would require a smartphone to have a reliable data connection in order for it to work - and that isn't always the case.
+
+The researchers at MIT, working with Google, came up with a way for all of the processing to happen within the standalone app, even on a smartphone with dated specs. Previous approaches performed the retouching on a low-resolution version of the source image to speed up the process, but trying to up-res the results inevitably produces terrible looking photos. So instead of generating a tiny sample using the machine-learning system, the app creates a set of formulae that can be used to quickly process all of the pixels in a high-def version of the source image.
+
+How quickly? The new approach allows for these colour corrections to be made in real-time. So as you're framing a photo using your smartphone's screen, before you even hit the shutter button, you can see what the results would look like when processed to match another photographer's style. Then once you snap your photograph, the full-res version can be quickly processed by the app, though not in real-time given all the extra pixels.
+
+There's no word on when the researchers plan to release their app to the public, or if the technology will be incorporated into existing apps from Google. The best possible outcome would see this technology licensed out to other camera app makers, allowing complex filters to be previewed in real time. Imagine having access to all of Instagram's filters while you're photographing your next fancy dessert, letting you perfect the framing and colours so you can ensure you'll get as many ego-stroking "likes" as possible.
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIT</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adobe Systems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lightroom</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Camera App Uses Deep Learning To Perfectly Retouch Your Photos Before You Take Them</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photoshop</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

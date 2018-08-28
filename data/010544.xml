@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416609105554409</docid>
+  <date>02/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/first-embryo-gene-repair-holds-promise-for-inherited-disease/8769416</url>
+  <title>First embryo gene-repair holds promise of wiping inherited diseases out of family's bloodline</title>
+  <content>
+In a first, researchers have safely repaired a disease-causing gene in human embryos, targeting a heart defect best known for killing young athletes - a big step towards one day preventing a list of inherited diseases.
+In a surprising discovery, a research team led by Oregon Health and & Science University (OHSU) reported embryos can help fix themselves if scientists jump-start the process early enough.
+It is laboratory research only - nowhere near ready to be tried in a pregnancy - but it suggests scientists might alter DNA in a way that protects not just one baby from a disease that runs in the family, but his or her offspring as well.
+And that raises ethical questions.
+Harvard Medical School dean and stem-cell scientist Dr George Daley, who was not involved in the research, praised it as "quite remarkable" but said just because something is possible does not mean it should be done.
+"I for one believe, and this paper supports the view, that ultimately gene editing of human embryos can be made safe," he said.
+"Then the question truly becomes, 'if we can do it, should we do it?'"
+Fears over 'designer babies'
+
+Today, couples seeking to avoid passing on a bad gene sometimes have embryos created in fertility clinics so they can discard those that inherit the disease and attempt pregnancy only with healthy ones, if there are any.
+In theory, gene editing could rescue diseased embryos, but so-called "germline" changes - altering sperm, eggs or embryos - are controversial because they would be permanent, passed down to future generations.
+Critics worry about attempts at "designer babies" instead of just preventing disease and a few previous attempts at learning to edit embryos, in China, did not work well and, more importantly, raised safety concerns.
+In a series of laboratory experiments reported in the journal Nature, the Oregon researchers tried a different approach.
+They targeted hypertrophic cardiomyopathy, a gene mutation that causes a heart-weakening disease and affects about 1 in 500 people. Inheriting just one copy of the bad gene can cause it.
+The team programmed a gene-editing tool, named CRISPR-Cas9, that acts like a pair of molecular scissors to find that mutation - a missing piece of genetic material.
+Researchers then injected sperm from a patient with the heart condition along with those molecular scissors into healthy donated eggs at the same time.
+The scissors cut the defective DNA in the sperm.
+Normally cells will repair a CRISPR-induced cut in DNA by essentially gluing the ends back together, or scientists can try delivering the missing DNA in a repair package, like a computer's cut-and-paste program.
+A 72 per cent repair rate
+
+Instead, the newly forming embryos made their own perfect fix without that outside help, according to OHSU senior researcher Shoukhrat Mitalipov.
+We all inherit two copies of each gene - one from dad and one from mum - and those embryos just copied the healthy one from the donated egg.
+"The embryos are really looking for the blueprint," said Mr Mitalipov, who directs OHSU's Centre for Embryonic Cell and Gene Therapy.
+"We're finding embryos will repair themselves if you have another healthy copy."
+It worked 72 per cent of the time, in 42 out of 58 embryos - normally a sick parent has a 50-50 chance of passing on the mutation.
+Previous embryo-editing attempts in China found not every cell was repaired, a safety concern called mosaicism.
+Beginning the process before fertilisation avoided that problem.
+"Everybody was injecting too late," Mitalipov said.
+The experiments were privately funded since US tax dollars are not allowed for embryo research.
+Genetics and ethics experts not involved in the work said it is a critical first step, but just one step, towards eventually testing the process in pregnancy, which is currently prohibited by US policy.
+Johns Hopkins University bioethicist Jeffrey Kahn said "this is very elegant lab work", but it is moving so fast that society needs to catch up and debate how far it should go.
+Developmental geneticist Robin Lovell-Badge of Britain's Francis Crick Institute said there was a danger that "rogue clinicians" could start offering unproven treatments, as has happened with some other experimental technologies.
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeffrey Kahn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvard Medical School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oregon Health</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>OHSU</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CRISPR-induced</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Francis Crick Institute</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Embryonic Cell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gene Therapy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitalipov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oregon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Robin Lovell-Badge of Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Science University</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mitalipov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoukhrat Mitalipov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr. George Daley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>CRISPR/Cas9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Johns Hopkins University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OHSU's Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

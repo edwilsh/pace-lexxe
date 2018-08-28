@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412700685235816</docid>
+  <date>02/08/2017</date>
+  <time>07:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/six-arrested-after-melbourne-siege/news-story/b58f8a97b45d7a6b0b14af8a429e3b28</url>
+  <title>Trio charged after Melbourne siege</title>
+  <content>
+Three people have been charged after a lengthy stand-off with police in suburban Melbourne.
+Officers attended an address at Boronia after reports of an earlier assault with a firearm.
+They arrived about 5am on Wednesday and hours later arrested six people, including a 16-year-old boy, and discovered two young children in the residence.
+A 29-year-old woman was later charged with assault, criminal damage, assault with a weapon and intentionally cause injury.
+A second woman, 31, is charged with drug possession, while a 20-year-old man is facing robbery offences.
+Three other people were released without charge.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boronia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

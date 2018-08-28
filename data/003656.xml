@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404669096247720</docid>
+  <date>01/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/fishing/finnish-ship-sets-northwest-passage-record/news-story/8ad778d127df44bf3b2de9eb74d5c54b</url>
+  <title>Finnish ship sets Northwest Passage record</title>
+  <content>
+AFTER 24 days at sea and a journey spanning more than 10,000 kilometres, the Finnish icebreaker MSV Nordica has set a new record for the earliest transit of the fabled Northwest Passage.
+The once-forbidding route through the Arctic, linking the Pacific and the Atlantic oceans, has been opening up sooner and for a longer period each summer as a result of climate change.
+Sea ice that foiled famous explorers and blocked the passage to all but the hardiest ships has slowly been melting away in one of the most visible effects of man-made global warming.
+Records kept by Canada's Department of Fisheries and Oceans show that the previous earliest passage of the season happened in 2008, when the Canadian Coast Guard ship Louis L. St-Laurent left St John's in Newfoundland on July 5 and arrived in the Beaufort Sea off Point Barrow on July 30.
+The Nordica, with a team of researchers and Associated Press journalists on board, completed a longer transit in less time - albeit in the opposite direction - setting off from Vancouver on July 5 and reaching Nuuk, the capital of Greenland, on July 29.
+The icebreaker encountered various vessels in the Pacific, but upon entering the Canadian Archipelago, the Nordica travelled alone.
+As Nordica was ploughing through sea ice in Victoria Strait, a crew member sighted a polar bear. These animals have come to symbolise the threat posed to Arctic wildlife by climate change because the sea ice they depend on for hunting is disappearing.
+Scientists predict the Northwest Passage will be largely ice free in the summer by 2050 if current levels of warming continue.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St John</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 5</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louis L. St-Laurent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greenland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian Coast Guard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nuuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada's Department of Fisheries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Point Barrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arctic</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Nordica</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atlantic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northwest Passage</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MSV Nordica</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newfoundland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian Archipelago</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beaufort Sea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Finnish</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vancouver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

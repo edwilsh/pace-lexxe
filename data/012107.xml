@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418601970412057</docid>
+  <date>03/08/2017</date>
+  <time>06:43</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/03/cba-accused-laundering-law-breaches</url>
+  <title>CBA accused of laundering law breaches</title>
+  <content>
+Commonwealth Bank has been accused of serious and systemic non-compliance with anti-money laundering and counter terrorism laws.
+
+JUST NOW 
+
+Commonwealth Bank has been accused of more than 53,000 breaches of laws put in place to combat money laundering and the financing of terrorism.
+
+The federal government's financial intelligence unit AUSTRAC on Thursday launched civil penalty proceedings in the Federal Court , accusing CBA of systemic failure to comply with anti-money laundering and counter-terrorism financing laws.
+
+It is understood CBA faces a maximum penalty of $18 million for each of the 53,700 contraventions, if found guilty.
+
+The accusations follow an AUSTRAC investigation into the bank's use of intelligent deposit machines - ATMs that accept up to $20,000 per cash transaction.
+
+AUSTRAC claims CBA failed to assess the money laundering and terrorism financing risk of IDMs before they were rolled out in 2012, and only took its first steps to assess the risks in mid-2015.
+
+The bank also allegedly failed to provide on time reports of more than 53,500 transactions through IDMs of $10,000 or more, totalling $625 million.
+
+AUSTRAC has also accused CBA of failing to report suspicious matters involving $77 million worth of transactions, either on time or at all.
+
+"Even after CBA became aware of suspected money laundering or structuring on CBA accounts, it did not monitor its customers to mitigate and manage money laundering/terrorism financing risk," AUSTRAC said in a statement.
+
+CBA's conduct had hindered law enforcement efforts, resulting in a loss in evidence, further money laundering and lost proceeds of crime, AUSTRAC said.
+
+"The effect of CommBank's conduct in this matter has exposed the Australian community to serious and ongoing financial crime," it said.
+
+Australia's largest lender said it had been in discussions with AUSTRAC for an extended period and has cooperated with its requests.
+
+"We have worked to continuously improve our compliance and have kept AUSTRAC abreast of those efforts, which will continue," CBA said in a statement.
+
+It said it takes its regulatory obligations extremely seriously will have more to say on the civil proceedings in due course.
+
+CBA shares were unaffected by news of the civil proceedings, dropping 0.3 per cent, in line with other banks.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>10</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>CommBank</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

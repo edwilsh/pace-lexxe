@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408019170799188</docid>
+  <date>01/08/2017</date>
+  <time>13:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/venezuela-opposition-taken-by-police/news-story/4d4932166caacc146156f0a3f9e91d72</url>
+  <title>Venezuela opposition taken by police</title>
+  <content>
+Two of Venezuela's leading opposition figures have been taken from their homes in the middle of the night by state security agents in President Nicolas Maduro's first moves against prominent enemies.
+Relatives and allies of Leopoldo Lopez and former Caracas Mayor Antonio Ledezma reported on social media that both had been detained.
+Lopez's wife posted appeared to be video of him being taken from their home after midnight, Tuesday morning.
+"They've just taken Leopoldo from the house," Lilian Tintori wrote on Twitter. "We don't know where he is or where they're taking him."
+Allies of Ledezma posted video of a man who appeared to be the opposition leader being taken by state security as a woman screams for help for neighbours.
+"They're taking Ledezma!" she cries. "It's a dictatorship!"
+Lopez was detained three years ago after protests against Maduro's government and sentenced to more than a decade in prison on charges that include inciting protesters to violence.
+He was released last month to serve the rest of his term under house arrest. Ledezma, a former Caracas mayor, was also detained in 2015 and has been under house arrest.
+Both have recently posted videos online denouncing Maduro's decision to hold a vote for a constitutional assembly with the power to overhaul Venezuela's political system.
+Maduro said on Monday night he had no intention of deviating from plans to rewrite the constitution and go after a string of enemies, from independent news channels to gunmen he claimed were sent by neighbouring Colombia to disrupt the vote as part of an international conspiracy led by "Emperor Donald Trump".
+"They don't intimidate me. The threats and sanctions of the empire don't intimidate me for a moment," Maduro said on national television."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ledezma</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leopoldo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lilian Tintori</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caracas Mayor Antonio Ledezma</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maduro</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Lopez</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colombia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caracas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emperor Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leopoldo Lopez</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

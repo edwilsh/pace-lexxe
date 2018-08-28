@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416609105554473</docid>
+  <date>02/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/asx-wall-st-aud-share-market-wrap/8768700</url>
+  <title>ASX to open higher, Australian trade in focus, Wall St closes mixed</title>
+  <content>
+Australian shares are headed for a slightly higher open despite weak leads from overseas equity markets.
+
+Market snapshot at 7:30am (AEST):
+
+ASX SPI 200 futures +0.2pc at 5,692, ASX 200 (Wednesday close) -0.5pc at 5,744
+AUD: 79.65 US cents, 60.21 British pence, 67.16 euro cents, 88.17 Japanese yen, NZ$1.07
+US: Dow Jones +0.24pc at 22,016, S&P 500 flat at 2,478, Nasdaq flat at 6,363
+Europe: FTSE -0.2pc at 7,411,  DAX -0.6pc at 12,181, Eurostoxx50 -0.5pc at 3,459
+Commodities: Brent crude -1.1pc at $US52.35/barrel, spot gold -0.2pc at $US1,266/ounce, iron ore -1.7pc at $US72.30/tonne
+
+In local futures trade, the ASX SPI 200 index was up by one-fifth of a per cent.
+This is also the first week of August profit reporting season, and the next big Australian company to announce its results is Suncorp.
+"2016-17 profits for the market as a whole are likely to have increased by around 18 per cent, driven by a huge 135 per cent gain in resources profits on the back of the rebound in commodity prices," said Dr Shane Oliver, chief economist of AMP Capital.
+"Profit growth for the rest of the market is likely to be around 5.5 per cent led by retailers, utilities, healthcare stocks and financials."
+In economic news, the highlight will be the June trade balance figures, released by the Australian Bureau of Statistics.
+These figures cover the difference in value between Australia's imports and exports to other nations.
+A narrower surplus of $1.8 billion is expected by economists polled by Reuters - compared to the May surplus of $2.47 billion.
+Also out today are New Zealand's monthly job advertisements data, and service sector PMI (purchasing managers index) reports from Australia, China and Japan.
+What happened on Wall St?
+
+Wall Street put in a mixed performance this morning.
+The Dow Jones hit a fresh record, but the Nasdaq and S&P 500 finished flat.
+Half the US sectors posted gains - led by utilities and technology, while telecommunications and health care lagged behind.
+The star performer was Apple, which experienced a 5 per cent jump in its share price that helped push the Dow past the 22,000 points milestone.
+This was a market reaction to the earnings results that the tech giant posted in after-hours trade on Tuesday.
+Essentially, Apple's quarterly revenue was $US45.5 billion ($57.1 billion), which exceeded the market's expectations by about half a billion US dollars.
+Though the other tech giants - Microsoft, Facebook and Alphabet - ended the day with trading losses, which weighed down the S&P 500 and Nasdaq.
+The technology sector has been the strongest performing sector in the year to date.
+In regards to US economic releases, investors also digested job figures from ADP and Moody's Analytics.
+The data revealed that private US companies added 178,000 jobs last month, which fell below expectations (as economists polled by Reuters were expecting 185,000 new jobs to be created).
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dr Shane Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones +0.24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US45.5</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX SPI 200</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.35</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Moody's Analytics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAX -0.6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUD: 79.65 US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Eurostoxx50 -0.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMP Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US72.30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NZ$1.07</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FTSE -0.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ADP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,266</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

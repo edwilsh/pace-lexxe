@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428231287269733</docid>
+  <date>04/08/2017</date>
+  <time>20:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/the-next-game-of-thrones-episode-just-leaked-days-after-that-huge-hbo-hack/</url>
+  <title>The Next Game Of Thrones Episode Just Leaked Days After That Huge HBO Hack</title>
+  <content>
+Season seven, episode four of Game of Thrones is now in the wild. The leaked video comes less than a week after HBO  and a large quantity of data had been stolen. We already knew that a script - or, more specifically, an outline of a script - of episode four was part of the hack. Now, in a reportedly unrelated incident, it seems the Game of Thrones episode itself has been leaked.
+
+Image: YouTube / HBO
+
+News of the leaked episode bubbled up on internet forums yesterday, with at least one Reddit discussion linking to a Google Drive page. The page has since been removed, citing a terms of service violation. However, we were able to view the file for verification. While it's watermarked and of relatively low quality, the video does appear to match the trailer for episode four. The watermark is for Star TV India, a 21st Century Fox company. While some of the recently leaked hacked documents and images were watermarked with the tagline "HBO Is Falling", this Game of Thrones video was not.
+
+According to Hollywood Reporter, HBO sources say today's leak was unrelated to the recent hack.
+
+What's especially noteworthy about the recent hack, however, is that it seems the attackers really do possess a trove of valuable data and videos. Leaking unseen Game of Thrones episodes would be bad enough, but there's evidence that the hackers , including his banking details and details about his health records. We can only assume that the hack contains other employee data as well.
+
+The hackers themselves claim to have stolen some 1.5 terabytes of data, which would make this hack exponentially larger than . So there might be a lot more videos showing up on the dark corners of the internet. Hopefully, we don't end up seeing personal or confidential data. That's just dangerous.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hollywood Reporter</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Next Game Of Thrones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>4</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Google Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Episode Just Leaked Days After That Huge HBO Hack</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Star TV India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reddit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO Is Falling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Century Fox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

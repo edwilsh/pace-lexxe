@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445024609579017</docid>
+  <date>07/08/2017</date>
+  <time>13:15</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/hong-kong-beats-tokyo-in-commercial-real-estate-deals-while-australia-stalls-20170807-gxqud2</url>
+  <title>Hong Kong beats Tokyo in commercial real estate deals, while Australia stalls</title>
+  <content>
+Hong Kong has  overtaken Tokyo as Asia Pacific's top destination for commercial real estate investments in the first half of 2017, while transactions in Australia stalled amid low stock and high prices, research by Real Capital Analytics shows.
+About $10 billion in commercial real estate deals were completed in Hong Kong in the first half, representing a 5 per cent increase over the same period last year, while Tokyo suffered a 33 per cent fall in deal flow in the same time.
+China's large appetite for real estate acquisitions - while muted against Beijing's recent tighter clampdown on capital transfer - is mainly responsible for the increased activity in Hong Kong.
+"The Hong Kong market has reached a new peak in property pricing while attracting huge inflows of Chinese capital as well as demand from the territory's own robust investor base. There were six megadeals involving development sites in the first half, which highlights how scarcity of land in Hong Kong is driving the market," RCA Senior Director of Analytics for Asia Pacific Petra Blazkova said.
+
+Some of the biggest transactions in Hong Kong included Pioneer Global's $1.2 billion purchase of the InterContinental Hotel and Henderson Land's $3.7 billion acquisition of the Murray Road car park, to be developed into an office tower.
+
+Ms Blazkova said high prices and low yields, coupled with a lack of stock in Australia had reduced transactions to a "stalemate". Cross border transactions in Australia fell 35 per cent in the first half of the year compared to the year before.
+"Record prices mean investors are content to sit out the market until cheaper buying opportunities arise, while owners are unwilling to sell assets at a perceived discount," she said.
+"The stand-off in the Australian market is unlikely to change any time soon and we can expect to see record high pricing with low transaction volumes to remain a feature going forward."
+Office yields had dropped by 3 percentage points in the past three years to around 6 per cent, a record low, RCA said.
+
+have joined  concerned that compressed yields in Australia could lead to a crash. But Ms Blazkova said low yields could be the "new normal" unless there was regulatory intervention.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Real Capital Analytics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Henderson Land's $3.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>7</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Blazkova</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RCA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>RCA Senior Director of Analytics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific Petra Blazkova</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pioneer Global's $1.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murray Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Intercontinental Hotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

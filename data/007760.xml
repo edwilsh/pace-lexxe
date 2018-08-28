@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410085050109744</docid>
+  <date>01/08/2017</date>
+  <time>21:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/nz-dollar-drops-with-commodity-currencies/news-story/0e9ac2e40f28f8f4b474e69f536d6836</url>
+  <title>NZ dollar drops with commodity currencies</title>
+  <content>
+The New Zealand dollar has fallen along with other so-called commodity currencies as crude oil fell and prices unexpectedly declined in the latest GlobalDairyTrade auction.
+The kiwi dollar declined to US74.70c as at 8am in Wellington from US75.04c late on Tuesday.
+The trade-weighted index slipped to 78.53 from 78.72.
+Brent crude oil fell about 1.7 per cent to US$51.83 a barrel overnight and the CRB Index of 19 commonly traded commodities fell 0.7 per cent.
+Meanwhile, dairy product prices fell at the GlobalDairyTrade auction, declining for the third time in four auctions, amid concern about extra supply.
+The GDT price index slid 1.6 per cent from the previous auction two weeks ago to US$3343.
+In New Zealand, traders are now awaiting second-quarter labour market data this morning.
+Commodity currencies "are all lower against the USD overnight as oil gave back part of its large gains over the past week as the market awaits signs of rebalancing", Bank of New Zealand economist Doug Steel said.
+"The NZD was not helped by dairy prices easing 1.6 per cent at the latest GDT auction, against expectations of a small rise," he said.
+The employment figures are expected to show the jobless rate fell to 4.8 per cent from 4.9 per cent while employment growth slowed to 0.7 per cent from 1.2 per cent in the first quarter.
+Wage pressures probably remained tepid.
+Traders are also watching for a speech on banking regulation by Reserve Bank deputy governor Grant Spencer this morning.
+The kiwi rose to A93.68c from A93.48c on Tuesday.
+It fell to 63.28 euro cents from 63.43 euro cents and slipped to 82.42 yen from 82.69 yen.
+It declined to 56.54 British pence from 56.77 pence and traded at 5.0163 yuan from 5.0409 yuan.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Grant Spencer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CRB Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$51.83</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US75.04</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Doug Steel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDT</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GlobalDairyTrade</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US74.70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3343</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of New</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wellington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

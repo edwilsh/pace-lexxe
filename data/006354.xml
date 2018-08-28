@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409011308266169</docid>
+  <date>01/08/2017</date>
+  <time>17:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/twitter-explains-why-wont-disclose-dau-number-2017-8</url>
+  <title>Twitter finally explained why it's been hiding a key growth metric from investors</title>
+  <content>
+Since October 2016, Twitter has touted its daily active user (DAU) growth as the silver lining to its struggling business.
+
+The idea is that even if Twitter's monthly active user base declines (), continued DAU growth is a sign that existing users are engaging with the social network more.
+
+The only problem is that Twitter has yet to disclose how many daily users it actually has - investors are only given a DAU percentage increase each quarter.
+
+Twitter executives have yet to give a straight answer as to why they haven't revealed the actual DAU number. After  was recently done to try and guess the current DAU number, the company  that it views the number as "competitively sensitive."
+
+Thanks to correspondence between Twitter and the SEC , we have more colour behind the company's decision to obfuscate its DAU number: It doesn't want to be compared to other social networks like Facebook and Snapchat.
+
+In response to a SEC question about why Twitter only gives its DAU percentage and not the actual number, the company explained that it thinks "the absolute number of DAUs is less important than the percentage change in DAUs because the key factor is whether engagement is increasing or decreasing on a relative basis."
+
+"The Company also focuses investors on percentage change rather than absolute DAU numbers to avoid confusion when comparing the Company with other companies that disclose information regarding DAUs, but use different definitions of DAUs that may include different segments of their respective user bases," Twitter wrote.
+
+In Twitter's eyes, disclosing its actual DAU number would unfairly draw comparisons to the 1.32 billion daily users Facebook commands, and Facebook has a slightly different way of defining a daily user than Twitter.
+
+And while Twitter didn't directly address Snapchat in its response to the SEC, the company likely doesn't want to draw comparisons to that app's 166 million daily users either.
+
+Visit  for constantly updated market quotes for individual stocks, ETFs, indices, commodities and currencies traded around the world.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Facebook</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2016</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SEC</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>DAUs</name>
+    <count>4</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Snapchat</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETFs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>11</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Dau</name>
+    <count>9</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

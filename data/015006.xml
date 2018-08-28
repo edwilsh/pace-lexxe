@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424039399113849</docid>
+  <date>04/08/2017</date>
+  <time>03:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/economy/monetary-policy/reserve-bank-keeps-growth-outlook-unchanged-lifts-headline-inflation-forecast-20170803-gxp4se</url>
+  <title>Clear sailing ahead - although some difficult reefs need to be avoided</title>
+  <content>
+by
+Karen Maley
+
+The Reserve Bank of Australia remains confident the country's economic recovery is broadly on track, with headline inflation slightly higher than expected, but warns uncertainties over the rising Australian dollar, house prices and China's economic policies could cloud this outlook.
+In its August Statement on Monetary Policy, the Reserve Bank repeated its expectation that the Australian economy would "grow at an annual rate of  about 3 per cent over the next couple of years", which it notes is slightly higher than estimates of potential growth. 
+But, by half a percentage point for this year to 2-3 per cent), and a quarter-point in the first half of next to 2.5-3.5 per cent), saying the Aussie dollar "had a modest dampening effect" on GDP growth.
+
+RBA says economic outlook "little changed" even though it now sees mid-point GDP growth in 2017 at 2.5% not 3%. Little?
+
+According to the latest statement, underlying inflation is "expected to reach around 2 per cent over the second half of 2017 and increase a little thereafter." 
+
+However, the forecast for headline inflation has been pushed higher, largely reflecting the larger-than-expected increases in over the coming years. As a result, headline inflation "is forecast to rise gradually and be between 2 and 3 per cent over much of the forecast statement."
+The statement notes that higher electricity and gas prices could also boost inflation indirectly, because they will push business input costs higher. But, it notes, "competitive pressures may limit firms' ability to pass those cost increases on to consumers."
+The entry of major foreign retailers - including the online retailing giant Amazon - into the Australian market is also expected to dampen inflationary pressures.
+According to the statement, "the arrival of further new foreign retailers will be an important influence on consumer durable prices over the next few years."
+
+Rising $A could pose a problem for outlook 
+
+The Reserve Bank, however, concedes that its forecasts for both inflation and growth could be disrupted by the rising Australian dollar, which is now trading close to the highest level of the past few years against the US dollar
+On a trade-weighted basis (which measures the Australian dollar against a basket of currencies of our major trading partners), the statement notes that "the Australian dollar has risen to levels last seen in late 2014".
+This ascent in the currency has been built into the Reserve Bank's latest forecasts. But, the statement notes, that a further rise in the Aussie dollar, if sustained, "would be expected to result in a slower pick-up in economic activity and inflation than currently forecast."
+
+Based on the past, a 10 per cent rise in the local currency's value on a TWI basis unrelated to higher commodity prices "would be expected to cut inflation by just under 0.5 per cent over each of the next two years, and to leave output 0.5 to 1 per cent lower in around two years' time.
+House price debt could crimp spending
+
+The future trajectory of house prices could also dampen the outlook for growth and inflation. The Reserve Bank is expecting consumer spending to pick up in the period ahead, supported by strong jobs growth and low interest rates.
+But it warns that sluggish wages growth and high debt levels could cause consumers to tighten their purse strings.
+
+A major worry is that consumer spending growth has been strongest in Sydney and Melbourne, where housing prices are continuing to rise "briskly".
+The Reserve Bank warns that large unexpected falls in housing prices could cause highly indebted households to try to pay down their debt at a faster pace, which could crimp spending. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Monetary Policy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TWI</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Karen Maley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>August Statement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398870890295065</docid>
+  <date>31/07/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/property-lessons-from-census-20170727-gxk92u</url>
+  <title>The census offers exactly the perspective you should take when it comes to property investment</title>
+  <content>
+by
+Richard Wakelin
+
+You won't have failed to notice that the first results from the  have arrived. Depending on your appetite for statistics, the initial barrage of analysis about Australian demographics in 2016 has either been fascinating or tiresome.
+Personally, I'm a fan. And that's not just because census data is so authoritative. Importantly, with the census only delivered every five years and each one asking, substantially, the same questions, we're ineluctably encouraged to consider trends in terms of half-decades and decades. This is exactly the perspective we should take when it comes to property investment decisions.
+Indeed, the time series aspects of the census contain invaluable information for the prospective residential property investor who is wondering where to invest.
+But, with 60 questions posed on the 2016 census form, which answers matter to an investor?
+
+Let's go back to first principles. Investors want to buy where prices are likely to rise. That is most likely to be a place with the following qualities: the population is growing at a steady clip, the supply of property is steady or growing slowly and, finally, where incomes are growing.
+
+Let's start with population. Overall, Australia's population rose by 8.8 per cent between the 2011 and 2016 census nights. But this growth was unevenly spread. Much of regional Australia either saw little or negative growth. Meanwhile populations in our capital cities soared by 10.5 per cent, led by Melbourne (up 12.1 per cent) and Sydney (up 9.8 per cent).
+Drill down even further to a suburb level, and it is apparent that much of the population growth occurred in the CBDs, with more people living in high rise towers. For instance, Melbourne CBD and Melbourne Docklands each experienced over 150 per cent growth in population over five years. There was also impressive growth in well-established inner suburbs, say Kensington in Victoria (up 31.7 per cent) or Petersham in NSW (up 16.9 pre cent) where new builds aren't such a factor in the population growth.
+Inner suburbs
+
+Of course, population growth will only trigger a rise in property prices if the supply of property isn't growing even faster. The best measure of this that we can extract from the census is the change in the average number of people per bedroom in each suburb. Once again, it is the inner suburbs where the demographics are most favourable to investors. This is where the average number of people per bedroom is rising, typically by about 10 per cent since the last census, compared to zero to negative growth around the rest of the country.
+
+Finally - and perhaps most vitally - consider income growth. The average Australian household enjoyed income growth of 16.5 per cent between the two most recent censuses.
+Look how income growth is typically much higher in the inner suburbs compared to the CBDs. In the Melbourne CBD incomes rose 18.4 per cent, in the Docklands next door incomes rose 11.6. But in Kensington, Vic incomes increased 45.2 per cent and by 60.7 per cent in Petersham, NSW. So while some areas containing large volumes of high rise apartments meet two out of three of our criteria (strong population growth plus supply and demand growth remaining in equilibrium with each other), they fail on the income growth test. The inner suburbs of our major capital cities are our star performers - and that is where you should invest.
+As a final thought, census is backward-looking, so can it be a guide for the future? Yes, it can. In statistics, the trend is your friend. And I think we all know that these trends are sticking around. Plus, for property, the best determinant of future capital growth is a track record of sustained past capital growth.
+Richard Wakelin is a director of Wakelin Property Advisory. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kensington</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Petersham</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Docklands</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CBDs</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wakelin Property Advisory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Richard Wakelin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

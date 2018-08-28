@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435721710306455</docid>
+  <date>06/08/2017</date>
+  <time>01:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/anthony-collis-found-after-police-search/news-story/43a87567bba3a5378c3e1054ca4a31e7</url>
+  <title>Man found after missing for three days</title>
+  <content>
+A MAN who went missing on the Canning Stock Route in remote Western Australia has been found.
+Anthony Collis, 32, was travelling to Darwin with a 39-year-old woman.
+They were in a white Mitsubishi Triton but became separated late on Thursday afternoon.
+On Thursday night, police received information from travellers after the woman walked into the Georgia Bore Camp, about 8.2km north of Well 22 on the Canning Stock Route.
+She then helped police, who launched a major search at first light on Friday.
+The search includes local police, the highly trained Tactical Response Group trackers, a plane from the police airwing and State Emergency Service volunteers.
+The Mitsubishi Triton was found on Friday afternoon about 1km north of Well 22, but Mr Collis was not with the vehicle and there were serious concerns for his welfare.
+Police announced that Mr Collis had been found alive and well this morning.
+Police found him about 8am, approximately 1km north of Well 22.
+"He is dehydrated and suffering from exposure, but otherwise fine," a spokesperson said.
+"He is currently being flown by helicopter to Newman Hospital for treatment."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Georgia Bore Camp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newman Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Collis</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Canning Stock Route</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mitsubishi Triton</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tactical Response Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Collis, 32</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Well 22</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

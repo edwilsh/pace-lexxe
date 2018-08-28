@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420302777496373</docid>
+  <date>03/08/2017</date>
+  <time>13:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/energy/fortescues-nev-power-plugs-into-energy-debate-20170803-gxow5x</url>
+  <title>Fortescue's Nev Power plugs into energy debate</title>
+  <content>
+Fortescue Metals Group chief executive Nev Power says gas needs to play a more central role in Australia's transition towards renewable energy.
+Mr Power said the recommendation of a clean energy target in  should be "fine-tuned" to better incentivise the development of gas reserves as Australia works to ensure energy security while reducing emissions.
+"I think the key to that is to enforce 'use it or lose it' provisions on gas reserves and resources around Australia and there probably needs to be some fine-tuning of the clean energy target proposed by Finkel to make sure we have that right balance that incentivises gas as a transition fuel because I think it is a very good transition fuel," Mr Power told The Australian Financial Review.
+"We have an abundance of it in Australia so it has the potential to provide low cost power to Australian families and at the same time continue to reduce our emissions. The policy framework needs to be fine-tuned to get that balance right."
+
+Mr Power also suggested a regular review and adjustment of clean energy target thresholds could facilitate a smoother transition to reliable "new generation capacity".
+
+On Wednesday, Glencore's global head of coal  for threatening the viability of heavy industry, labelling state governments as "irresponsible" for unveiling targets without transparency on the impact on power prices and jobs.
+Mr Power said he agreed that when renewable energy targets were set "the full cost implications of renewable energy generation hasn't been taken into account".
+"Ultimately the consumer is the one that ends up paying for that -either in the tariff for the power or in blackouts and load shedding and neither of those is an acceptable outcome and I think has had significant impact on households," Mr Power said.
+Fortescue, a Pilbara iron ore miner, has long been a strong advocate for "use it or lose it" provisions to stimulate the development of untapped gas reserves to ensure greater domestic supply.
+
+A major energy consumer, it has said it would be a bigger user of gas if it could.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue Metals Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pilbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Finkel</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Nev Power</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue's Nev Power</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Power</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Glencore</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

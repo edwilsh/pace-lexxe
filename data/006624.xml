@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409449394938090</docid>
+  <date>01/08/2017</date>
+  <time>19:12</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/cape-cattle-fill-mareeba-saleyard-pens-and-steer-the-prices-down/news-story/dd3a4a0a85f6e62a1b2a485475d6cf68</url>
+  <title>Cape York mob beef up sale</title>
+  <content>
+CATTLE mustered from remote stations across the Cape York Peninsula have boosted numbers and drove down prices at the Mareeba saleyards.
+Road trains filled with steers and heifers delivered 1119 head to yesterday's Prime and Store Sale.
+Two major exporters, two feedlotters and a small group of local traders were there to snap up the huge yarding.
+Queensland Rural livestock specialist Jacko Shephard said the mixed quality of cattle up for auction was reflected in this week's prices.
+"There were some very good bullocks that didn't reach the prices I thought they would," he said. "All in all, the market is still not that bad.
+"The producers are just starting to get a break now and I'd hate to see it drop back."
+Butcher steers lost 31 cents per kg and butcher heifers dipped 22c/kg.
+"Numbers increased ... due to an influx of second and third grade captured cattle out of the Cape and Peninsula area," the report said.
+The highest butcher steer snatched 245c/kg as the highest heifer reached 229c/kg.
+A pen of prime heifers fetched the best value recorded at 222c/kg.
+A pen of 10 charbray cows and calves went for $1400.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cape York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacko Shephard</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mareeba</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cape York Peninsula</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cape</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Store Sale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Rural</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

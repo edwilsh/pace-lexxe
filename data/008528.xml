@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411326295679696</docid>
+  <date>02/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/12/16/sub-zero-temperatures-in-wa-s-south</url>
+  <title>Sub-zero temperatures in WA's south</title>
+  <content>
+Perth has shivered through its coldest morning since last August, with temperatures falling below 2C in the city, while sub-zero temperatures were felt across the Wheatbelt.
+Bureau of Meteorology data shows the temperature in Perth fell to 1.8C about 7.30am and -0.9C was recorded in Cunderdin just before 5.30am.
+After a day of sun and clear skies, rain is predicted to return to WA's south on Thursday and continue to the weekend.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wheatbelt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cunderdin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

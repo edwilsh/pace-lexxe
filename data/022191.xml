@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443031744718957</docid>
+  <date>07/08/2017</date>
+  <time>05:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/cisco-has-an-oh-shit-moment-with-meraki/</url>
+  <title>Cisco Just Had An 'Oh Sh*t' Moment With Meraki</title>
+  <content>
+It's every sysadmin's greatest nightmare. You do what you think will be a simple configuration change and accidentally lose a whole bunch of data. That's exactly what happened over the weekend with Cisco's Meraki service. A configuration change "caused certain data uploaded prior to 11:20AM Pacific time on August 3 to be deleted". Whoops.
+
+Cisco  the impact to users of their cloud-based networking system is limited. Configuration data pertaining to devices managed via Meraki is not affected.
+
+However, user-uploaded data such as custom floor plans, company logos used to customise pages and device placement photos might have been lost. If you've been using Meraki to configure your phone system's IVR then those sweet tunes you added to the hold music, amongst other items, might be gone as well.
+
+It's a good reminder that while cloud services are incredibly convenient and, generally, really reliable they are operated by human beings who can screw up just like the rest of us. And that keeping our own backups and records of configuration changes are a good idea.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Meraki</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IVR</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cisco Just Had An</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cisco Meraki</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cisco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oh Sh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moment With Meraki</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

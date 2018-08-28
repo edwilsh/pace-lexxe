@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411373540320788</docid>
+  <date>02/08/2017</date>
+  <time>02:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/woman-mauled-to-death-by-dog-in-southern-river-perth/news-story/7831d22bcf415813fa2bb8defc6b2edc</url>
+  <title>Woman mauled to death by dog in Perth</title>
+  <content>
+A WOMAN has been mauled to death by a dog in Perth.
+Reports suggest the attack happened in Southern River, a residential suburb in the West Australian city. The woman is believed to be aged in her 50s.
+The  reports police got a call about 1.30pm yesterday to a property that is a boarding kennel for dogs.
+St John Ambulance officers declared the woman dead after she received life threatening injuries as a result of the dog attack.
+
+A woman aged in her fifties has died after she was mauled by a dog at Southern River, south of Perth.
+
+Gosnells Council has seized the dog.  reports the death is not being treated as suspicious and a report is being prepared for the coroner.
+News.com.au has contacted Gosnells Council for comment.
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gosnells Council</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

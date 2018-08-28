@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443233608184996</docid>
+  <date>07/08/2017</date>
+  <time>06:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-07/chinese-police-arrest-77-in-fiji/8781988</url>
+  <title>Chinese police arrest 77 in Fiji</title>
+  <content>
+An extraordinary story has come to light in Fiji after Chinese state newsagency, Xinhua, reported that 77 people suspected of involvement in a fraud syndicate had been "brought back" to China from Fiji.
+Photographs on Xinhua's website show a group of people at the Changchun Longija International airport, each person's head covered with a black hood and each flanked by two police officers.
+There's been no confirmation about whether the group was formally extradited.
+Fiji human rights lawyer Aman Ravindra-Singh says Fiji police have only said they were working with the Chinese police, but have provided no details about their operation.
+Mr Ravindra-Singh says the first he heard of Chinese police in Fiji was after he was contacted by a client.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Xinhua</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Aman Ravindra-Singh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Changchun Longija International</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fiji</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ravindra-Singh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

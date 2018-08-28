@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416175313849729</docid>
+  <date>02/08/2017</date>
+  <time>21:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/transport/automobile/tesla-says-model-s-model-x-deliveries-power-quarterly-revenue-surge-20170802-gxo709</url>
+  <title>Tesla says Model S, Model X deliveries power quarterly revenue surge</title>
+  <content>
+Electric-car maker Tesla reported  and backed its delivery guidance for the second half of the year.
+Shares of the company, which said it was averaging over 1800 net reservations per day for its mass-market Model 3 since the handover of the launch vehicles last week, rose as much as 5 per cent to $USUS342.1 in after-hours trading.
+Tesla, which had faced production issues, maintained its delivery guidance of 50,000 vehicles for the second half of the year.
+Chief executive Elon Musk said last week that the company would go through at least "six months of manufacturing hell".
+
+The company said it had over $US3 billion in cash and cash-equivalents as of June 30, compared with $US4 billion at the end of the previous quarter and $US3.25 billion from a year earlier.
+
+Automotive gross margin, which excludes the sale of zero emission vehicle (ZEV) credits, rose to 25 per cent from 23.6 per cent a year earlier.
+The company said it expects positive Model 3 gross margins in the fourth quarter.
+Revenue rose to $US2.79 billion from $US1.27 billion, beating analysts' average estimate of $US2.51 billion, according to Thomson Reuters I/B/E/S.
+Excluding items, the company lost $US1.33 per share, smaller than the analysts' expectations of a loss of $US1.82.
+
+The company's net loss attributable to shareholders widened to $US336.4 million in the second quarter ended June 30, from $US293.2 million a year earlier.
+On a per share basis, net loss attributable to shareholders narrowed to $US2.04 from $US2.09.
+"We delivered 22,026 Model S and Model X vehicles in Q2, for a total of 47,077 in the first half of the year. Model S and Model X combined deliveries in Q2 grew almost 53 per cent globally versus the prior year, even though the luxury vehicle market was essentially flat. The combined Model S and Model X market share grew in the US premium luxury vehicle market during Q2 2017," the company said in its statement.
+Tesla's shares are up 52.5 per cent this year, as of the closing bell, though they have fallen from a peak of $USUS386.99 in late June.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US293.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USUS386.99</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electric Cars</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Q2 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3.25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Model 3</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Model X</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Model S</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Q2</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Automotive</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$ 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US336.4</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US1.82</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.33</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ZEV</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.04</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US2.09</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US2.51</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US2.79</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USUS342.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

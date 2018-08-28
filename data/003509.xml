@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404419988140725</docid>
+  <date>31/07/2017</date>
+  <time>23:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/when-you-buy-a-vodafone-nbn-plan-youll-have-internet-from-day-one/</url>
+  <title>When You Buy A Vodafone NBN Plan, You'll Have Internet From Day One</title>
+  <content>
+Images: Vodafone
+Every man and his dog is launching NBN plans, but there's very little difference between one and the next. But the nation's existing telcos have a trick up their collective sleeves.
+
+Vodafone is coming late to the NBN party behind Telstra and Optus, but it has a reason for taking its time. Vodafone is using its nationwide 4G network and a brand new Wi-Fi Hub modem that includes a 4G SIM for constant connectivity for every customer from the second they plug it in - even if the NBN isn't switched on yet.
+
+Matthew Lobb, Vodafone's general manager of fixed broadband, told Gizmodo that customers really didn't care how they were connected to the internet, only that they wanted it to work as soon as they signed up to it. "One of the big areas of concern was the period between placing an order and getting activated - the black hole period."
+
+And its solution is surprisingly straightforward: "You'll go into a shop, you'll say 'I'm interested in Vodafone NBN', and then the standard NBN process is - we'll check we can connect you to [fixed], we'll check you've got 4G coverage." Then customers will be given Vodafone's new Wi-Fi Hub, a modem-router co-designed with Australian electronics manufacturer Technicolor, which will include a pre-installed 4G SIM. When plugged in, it will connect to Vodafone's 4G network in the interim of a NBN service being provisioned.
+
+You can use other hardware with Vodafone's NBN plans, which will be announced later this year. "Some people like the fancier devices, and they can buy them. This is a good modem - it's a dual-band, 802.11ac modem... there are some [other] LTE modems in the market, but they're niche and expensive - we're bringing 4G and the NBN together."
+
+Generally, Lobb says, the 4G backup service - switched on and off from Vodafone's end, rather than at the customer's whim - will be filling in pre-activation and outage gaps for a couple of at a time. "Typical connection time is 2-4 days, but some can take a couple of weeks. Fixed does have some edge cases where it can take longer, and in those cases we want to be communicating with the customer to keep them up to date.
+
+in the Gateway Frontier, but users are restricted to the download quota of their fixed-line NBN plan while they wait for line activation. On Vodafone, usage is limited - but to restrict the impact on the network's longtime mobile customers, Vodafone will restrict the download and upload speeds from its Wi-Fi Hub to 12Mbps down and 1Mbps up.
+
+As well as filling the gap between ordering and activation, the 4G will be used as a backup - and Vodafone stresses it's a backup - during periods of fixed-line NBN outage. "It's a bit of a balancing act - we very much intend this as a backup service. The big thing that we're observing is that things can go wrong, but it's how you can manage that with the customer." Out of the box, Vodafone's 4G service will run for up to 30 days at a time for this backup, but any more will require customers to get in touch and talk through their ongoing NBN issue.
+
+But for Vodafone, which has invested billions in its mobile network, it intentionally wants to blur the lines between fixed and wireless when it comes to customers actually getting access to the 'net as quickly and consistently as possible. "Customers love the internet, and they don't care about the technology that delivers it - if something goes wrong, they want a backup." []
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>9</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone's 4G</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi Hub</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Gateway Frontier</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Technicolor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Buy A Vodafone NBN Plan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>10</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Internet From Day One</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone NBN</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lobb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G SIM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Lobb</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

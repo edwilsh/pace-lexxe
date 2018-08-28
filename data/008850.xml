@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411326295679704</docid>
+  <date>02/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/qbe-to-pay-159m-in-insurance-refunds/news-story/2d82f3b73bee95f176abf651d8f7f4c9</url>
+  <title>QBE to pay $15.9m in insurance refunds</title>
+  <content>
+Insurance giant QBE will pay up to $15.9 million in refunds to customers who paid for add-on insurance when buying a car that provided little or no benefit.
+In a review of add-on insurance by the Australian Securities and Investments Commission in 2016, QBE was found to have sold guaranteed asset protection (GAP) and consumer credit insurance (CCI) to more than 35,000 customers between 2011 and 2017 who were unlikely to need insurance.
+GAP insurance covers a car owner for the difference between the amount they owe on the car loan and the amount the car is insured for, while CCI is promoted to borrowers to help them meet their repayments if they lose their job, get sick or injured, or die.
+ASIC found QBE GAP insurance was sold where there was unlikely to be a gap between the insured value of a car and the loan balance, that it duplicated existing cover, and provided consumers with more insurance than they needed.
+The CCI insurance was found to have been sold to young people with no dependents, and therefore was unnecessary.
+QBE's refunds of premiums, with interest, will amount to approximately $15.9 million, ASIC said.
+'We put all add-on insurers on notice following our review, and we welcome efforts made by QBE to address poor consumer outcomes," ASIC deputy chair Peter Kell said.
+On Tuesday, Australian banks agreed to stop selling on the spot add-on insurance to customers applying for credit cards, following a separate ASIC audit.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QBE</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Kell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QBE GAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCI</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

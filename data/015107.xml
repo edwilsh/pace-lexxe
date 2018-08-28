@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423614197346033</docid>
+  <date>04/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/sydney-terror-passengers-no-longer-need-to-arrive-two-hours-before-flights-at-cairns-airport/news-story/2da19ad2dea43ba5d6738d397aece146</url>
+  <title>Usual times at airport</title>
+  <content>
+CAIRNS Airport has advised passengers they no longer need to arrive two hours before departure for domestic flights, starting today.
+Extra police and security staff were present at the airport this week after an alleged terror plot was foiled in Sydney last weekend.
+Extra police and security staff at Cairns Airport were the only signs of tougher measures brought in to protect domestic and international travellers after an alleged terror plot was foiled over the weekend.
+Airports in Sydney, Melbourne, Brisbane, Darwin, Perth, Adelaide, Canberra, Hobart and the Gold Coast also faced stricter security.
+Police arrested four men in a counter-terrorism raid in Sydney on Saturday night over an alleged plan to bring down a plane.
+
+A Sydney-based terror plot to bring down a plane involved an IED which had been assembled from components under the instruction of an Islamic State commander, the Australian Federal Police will allege.
+But delays experienced at other national airports have not eventuated in the Far North.
+The airport said passengers could return to normal travel times for check-in, as recommended by their airline.
+
+Arrests in Sydney after anti-terror raids foiled a plot that reportedly involved blowing up an aircraft.
+
+Police foil plot to 'bring down plane': PM
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IED</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Airport</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Far North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

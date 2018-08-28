@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435983703313375</docid>
+  <date>06/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/14-year-old-boy-hit-in-glenreagh-collision/3209211/</url>
+  <title>14-year-old boy hit in Glenreagh collision</title>
+  <content>
+A 14-year-old boy was taken to Coffs Harbour Hospital after reports he was struck by a car near Glenreagh yesterday.
+A spokesperson from the Westpac Rescule Lifesave Helicopter said the chopper was tasked to attend the vehicle collision with reports a 14-year-old was struck at high speed on the Orara Way, north of Glenreagh.
+The helicopter landed nearby to treat the boy. The helicopter medical team treated the patient for minor inuries, after which he was taken by road to Coffs Harbour Hospital.
+The helicopter then returned to Lismore Helicopter Base.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Westpac Rescule Lifesave Helicopter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lismore Helicopter Base</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Orara Way</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour Hospital</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Glenreagh</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

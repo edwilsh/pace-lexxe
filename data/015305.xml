@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424430241144164</docid>
+  <date>04/08/2017</date>
+  <time>05:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/national/police-have-made-a-breakthrough-after-a-grizzly-discovery-shocked-a-northern-nsw-town-last-month/news-story/84c7c9e7c1d8e2274ec82472c0e0349e</url>
+  <title>Cops charge two with attempted murder</title>
+  <content>
+TWO men have been charged with the attempted murder and kidnapping after an investigation by police in northern NSW.
+A critically injured 35-year-old man was found by a passer-by on the side of Kyogle Road at Kunghur on July 23 was rushed to hospital where he was treated for significant burns to his body.
+The discovery prompted a major police investigation to find the perpetrators of the crime.
+Officers found a burnt out, white Holden ute nearby and later made contact with a 36-year-old man who said he was with the 35-year-old the night before.
+The 36-year-old told police the pair were kidnapped by a group of men that night who put them in the back of a white ute.
+The older man was injured while escaping - jumping from the ute while it was in motion and hiding in nearby bushland.
+After a meticulous operation, police charged a 29-year-old man on Wednesday.
+Yesterday, police also arrested a 28-year-old man.
+Both men were charged with attempted murder and kidnapping and both were refused bail.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 23</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kyogle Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kunghur</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

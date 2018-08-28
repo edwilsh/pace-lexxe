@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398136450877716</docid>
+  <date>30/07/2017</date>
+  <time>23:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-07-31/social-media-a-game-changer-in-2017-png-elections/8758930</url>
+  <title>Social media a game changer in 2017 PNG elections</title>
+  <content>
+During the course of a long, complicated and chaotic election, social media in PNG has come into its own, serving as an important tool for getting information to the people.
+That social media coverage has also stoked up plenty of controversy, not least for leading blogger Martyn Namorong, who found himself in the midst of a defamation case brought by the Electoral Commissioner when he took exception to the way he was being described.
+But despite that blip, Martyn Namorong, says the power of social media can not be denied, and he points to Facebook, Twitter and other platforms as having a direct impact on the election of at least two MPs.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martyn Namorong</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commissioner</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

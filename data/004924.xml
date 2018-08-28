@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405961881423292</docid>
+  <date>01/08/2017</date>
+  <time>05:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/teen-dies-after-herding-bulls-on-wa-farm/news-story/8abb16a67352a4c9f0335b03baa0fb89</url>
+  <title>Teen dies after herding bulls on WA farm</title>
+  <content>
+A 19-year-old West Australian woman has died after being crushed by a bull while she was working at a farm.
+The woman was found unconscious on Monday morning and rushed by ambulance to Esperance Hospital in WA's south where she died from her injuries a short time later.
+The woman was understood to have been herding the large bull when she was hit into a fence in a paddock at Dalyup, 35km north-west of Esperance.
+Worksafe are investigating and a report is being prepared for the coroner.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Esperance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esperance Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WorkSafe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dalyup</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

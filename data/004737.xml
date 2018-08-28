@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406000536129680</docid>
+  <date>01/08/2017</date>
+  <time>05:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/weather-records-broken-in-northern-territory-after-hot-july/news-story/51bde87e74c07916fd52e7465d411ac9</url>
+  <title>NT weather records tumble after hot month</title>
+  <content>
+DARWIN, Alice Springs, and a number of locations across the Territory have just experienced their hottest July on record, says Bureau of Meteorology senior climate liaison officer Greg Browning.
+"It seems like the whole country has seen warm temperatures during July," he said.
+"We're likely to see above average temperatures right across Australia for the next few months at least."
+Mr Browning said the overall mean temperature for the Territory this July was above 30C.
+"It's a full 0.6C higher than the previous record," he said.
+"It's an extraordinarily warm month, there's no doubt about that.
+"In Darwin we've equalled our mean daily maximum temperature for July - we didn't quite break our record for warmest minimum or overnight temperatures but we did see a distinct lack of those cool nights.
+"We consider a cool night to be a minimum below 20C - typically in July we'll see about 18 to 19 in Darwin. However, this month we've only seen six so its been well, well below average."
+Mr Browning said locations were recording warm temperatures across the globe.
+"We do seem to be seeing a warmer planet," he said.
+Territorians are likely to see above average temperatures in the next few months.
+"Unfortunately we could be looking at a pretty warm start to the build up," Mr Browning said.
+"It is a concern, obviously, but we are just living in a warmer world these days."
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alice Springs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mr Browning</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Territorians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Browning</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

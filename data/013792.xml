@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422192563145461</docid>
+  <date>03/08/2017</date>
+  <time>20:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4831670/uon-receives-funding-for-dementia/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>UON receives funding for dementia</title>
+  <content>
+Hand out: Dementia.
+
+MORE than $3.2 million has been awarded to the University of Newcastle (UON) to improve the wellbeing and outcomes for people living with dementia.
+Laureate professor Robert Sanson-Fisher was awarded more than $1.2 million to implement a web-based program for people living with dementia in rural areas. Dr Jamie Bryant was granted a similar amount to improve diagnosis and care for Aboriginal and Torres Strait Islander patients; and about $700,000 went to Dr Mariko Carey to address gaps in care research.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dr Mariko Carey</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Jamie Bryant</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Robert Sanson-Fisher</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>UON</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Torres Strait Islander</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>University of Newcastle</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432285736438116</docid>
+  <date>05/08/2017</date>
+  <time>11:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/police-called-to-west-footscray-find-body-of-man-on-ashley-st/news-story/d7af19c3c2c05a23a098e594b05e3f58</url>
+  <title>Man's body found in West Footscray</title>
+  <content>
+HOMICIDE squad detectives are investigating the death of a man in Melbourne's inner west tonight. Police were called to Ashley St in West Footscray where a man was discovered suffering from critical injuries just before 7pm.
+Emergency services attempted to revive the victim but he died at the scene.
+The exact circumstances surrounding the death are yet to be determined.
+Anyone with information is urged to contact Crime Stoppers on 1800 333 000 or submit a confidential crime report at
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ashley St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Footscray</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

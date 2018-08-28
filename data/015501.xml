@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424640694544648</docid>
+  <date>04/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-04/northern-marianna-islands-look-to-revive/8775784</url>
+  <title>Northern Marianna Islands look to revive traditional languages</title>
+  <content>
+The loss of traditional language is a phenomenon felt throughout the region and the world, but the Northern Mariana Islands are hoping to reverse the trend by encouraging the use of two of its native tongues.
+The Chamorro and Carolinian Language Commission is re-building its board after years of not having any commissioners.
+They'll liaise with other government departments to promote the use of native languages in everyday life.
+The commission's Executive Director Cindy Reyes says previous surveys have shown only 20 to 25% of people on the largest of the islands, Saipan, are speaking either language.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Northern Marianna Islands</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chamorro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Mariana Islands</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Carolinian Language Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Executive Director Cindy Reyes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saipan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

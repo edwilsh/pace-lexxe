@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428304301714944</docid>
+  <date>04/08/2017</date>
+  <time>20:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/virus-forces-fraser-coast-aged-care-home-lock-down/3209002/</url>
+  <title>Virus forces Fraser Coast aged care home into lockdown</title>
+  <content>
+A NOROVIRUS outbreak has forced a Hervey Bay aged care home into lockdown.
+Almost half of the residents at the 97-bed Kirami Residential Aged Care had been struck down by the illness this week.
+About a dozen staff members were also being treated.
+A spokesman for Anglicare said the centre was following strict Federal Government guidelines in containing the outbreak, including a lockdown of the building in an effort to stop the spread.
+Warning signs had been placed at the entrances.
+Patients were asked to remain in their rooms while common areas at the centre were disinfected.
+Visitors were still able to see family members, but were given "fair warning" about the risk of contracting the illness often referred to as the Winter Vomiting Bug.
+Wide Bay Hospital and Health Service Acting Public Health Physician Roscoe Taylor confirmed the service had been supporting the aged care facility.
+"No residents of the aged care home have required a hospital admission," he said.
+Dr Taylor said as norovirus was not a publicly notifiable disease, information was not available regarding how many cases there had been on the Fraser Coast in the past month.
+He did say an increase in norovirus cases was common at this time of year.
+ 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bay Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Winter Vomiting Bug</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Norovirus</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kirami Residential Aged Care</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Fraser Coast</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Health Service Acting Public Health Physician Roscoe Taylor</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hervey Bay</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anglicare</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400034826448428</docid>
+  <date>31/07/2017</date>
+  <time>06:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/fishing/captain-leaps-into-frigid-waters-to-save-crew/news-story/ee6aec533f9ec6fc7bf6ced4d22a9855</url>
+  <title>Captain leaps into frigid waters to save crew</title>
+  <content>
+ALASKA: A fishing boat captain jumped into cold, choppy waters to save two of his crew members after their vessel capsized off the Alaska coast.
+Coast Guard video of one of the rescues shows the captain in an orange life vest swimming to a man struggling to stay afloat and pulling him to an awaiting boat.
+The agency said the captain of the Grayling leapt into 8C water during the -ordeal near Raspberry Island, which is about 48km west of the Coast Guard station at Kodiak and about 410km miles southwest of Anchorage.
+A Coast Guard aircrew diverted from a training flight and saw the rescue.
+Seeing the man jump into the water without hesitation was incredible, said Lt Kevin Riley, a pilot.
+"It is a testament to how tough those fishermen are and how far they will go to help their fellow Alaskans," Riley said in a news release.
+Coast Guard Petty Officer Bill Colclough said last week that the captain administered CPR to one of the crew members, who was evacuated for medical treatment.
+The man survived, he said.
+A fourth crew member was rescued by another boat.
+The capsized boat had a skiff, which is used as part of fishing operations. Colclough said the other man rescued by the captain was able to get aboard the skiff and assist the captain.
+The cause of the capsizing was not immediately known. There were 27km/h winds and 1.5m seas at the time.
+Names of the crew members were not released.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Grayling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anchorage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alaskan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Coast Guard Petty Officer Bill Colclough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Raspberry Island</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Alaska</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Coast Guard</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Riley</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kodiak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lt Kevin Riley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colclough</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CPR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

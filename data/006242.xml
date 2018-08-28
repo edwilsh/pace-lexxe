@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408543156821237</docid>
+  <date>01/08/2017</date>
+  <time>15:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/nintendo-switch-battery-bug-fix-update-2017-8</url>
+  <title>Nintendo's official fix for a tiny bug in the Switch console could take you days to complete</title>
+  <content>
+Unfortunately, it's not that unusual for software updates to cause more problems than they fix.
+
+Indeed, it happened recently with Nintendo's new Switch game console, where a firmware update caused problems with the battery indicator for some users. Specifically, the indicators stopped accurately showing the proper battery life for the device after some users installed the update, according to .
+
+It didn't seem to be a widespread issue, and you wouldn't be affected if you never take the Switch out of its dock. But Nintendo offered a fix, anyway.
+
+Unfortunately for the affected Switch users, Nintendo's fix involves an insane, tedious process that could actually take days to complete. My colleague Ben Gilbert likened the fix to an RPG game where you advance by solving long-winded puzzles.
+
+You can find Nintendo's official fix , but here's a summary:
+
+Turn off "auto-sleep."
+
+Charge the Switch to 100%. To make sure it's fully charged (because the bug affects the battery meter), charge the Switch for three hours. You can still use the Switch while it's charging.
+
+Once charged, leave the Switch alone for an hour while it's still plugged in.
+
+Then, unplug the Switch's power cable and leave the Switch's display on the Home screen for "three to four hours" until the battery is depleted as much as possible.
+
+At this point, you'd already have spent up to eight hours trying to fix the Switch. Hopefully you'd be doing something productive in between steps. But it doesn't end here, there's more:
+
+When the battery is almost depleted, turn off the Switch through its settings, then leave it alone for another 30 minutes.
+
+Now, repeat these steps several times.
+
+Nintendo then reassures that "the battery charge indicator will improve gradually by repeating this process several times."
+
+But how many times is several? Your guess is as good as mine, as Nintendo doesn't offer a number. It could take you up to eight hours and 30 minutes to complete these steps just once. So, it could take up to 17 hours to complete the steps twice. And Nintendo didn't say to complete these steps "a couple" times. It said "several" times." So you'd likely have to compete these steps three times, minimum. That means it could take you literal days to fix this simple, tiny battery indicator bug.
+
+If you're experiencing the bug on your Switch, I suppose you'd better get to it!
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nintendo</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ben Gilbert</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

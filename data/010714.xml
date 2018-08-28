@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416561860913384</docid>
+  <date>02/08/2017</date>
+  <time>22:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-03/fru-backs-nadrogas-objections,-but-suva-keeps-the/8769686</url>
+  <title>FRU backs Nadroga's objections, but Suva keeps the cup</title>
+  <content>
+The Fiji Rugby Union have upheld a complaint lodged by Nadroga after their 25 match run as Farebrother Challenge champions was ended by Suva last weekend. However even though the verdict went against them, Suva have been told they can keep the trophy.
+Nadroga complained that their opponents fielded a number of ineligible players, the FRU agreed, and declared that Suva should forfeit the match.
+But in a bizarre twist, after discussions between the clubs, Nadroga have said that despite a verdict in their favour, they want Suva to keep the cup, and they'll go on now to the next challenge against Namosi in Nausori on Friday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Namosi</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Farebrother Challenge</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nadroga</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fiji Rugby Union</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nausori</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Suva</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>FRU</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

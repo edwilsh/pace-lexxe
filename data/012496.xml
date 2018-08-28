@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418073689426066</docid>
+  <date>03/08/2017</date>
+  <time>04:40</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/state-library-evacuated-two-people-taken-to-hospital-after-hazmat-incident/news-story/bb7f7a7c6ddf55481b840f0970e8f664</url>
+  <title>HAZMAT incident at State Library</title>
+  <content>
+THE State Library had to be evacuated and two people taken to hospital when hazardous fumes filled part of the premises.
+Emergency services were called to the State Library on North Tce in the city about 12.30pm on Thursday when two people, believed to be staff members, were overcome by fumes.
+Initial calls to emergency services reported the noxious smell may have been paint fumes.
+The library was evacuated while Metropolitan Fire Service hazardous materials personnel investigated and ventilated the building.
+Two people were taken to the Royal Adelaide Hospital in a stable condition, an SA Ambulance Service spokeswoman said.
+The library was reopened to the public about 1.30pm.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Royal Adelaide Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Service</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SA Ambulance Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Library</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Tce</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

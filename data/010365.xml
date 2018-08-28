@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415707162405408</docid>
+  <date>02/08/2017</date>
+  <time>19:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/italian-navy-to-curb-libya-migrant-flow/news-story/d243f22f8b0f503e089222d6139f27e5</url>
+  <title>Italian navy to curb Libya migrant flow</title>
+  <content>
+Italy has begun a limited naval mission to help Libya's coastguard curb migrant flows, which are a source of political friction as a national election looms.
+An Italian patrol boat entered Libyan waters and headed towards the port of Tripoli within minutes of a vote in Italy's parliament authorising the deployment. A second vessel was expected to join it in the coming days.
+Italy announced the operation last week, saying it had been requested by Libya's UN-backed government. It initially hoped to send six ships into Libyan territorial waters, but the plans had to be scaled back following protests from Tripoli.
+"(We will) provide logistical, technical and operational support for Libyan naval vessels, helping them and supporting them in shared and coordinated actions," Defence Minister Roberta Pinotti said ahead of Wednesday's vote.
+In Tripoli, a poster of resistance hero Omar al-Mukhtar, who battled Italian rule in Libya in the 1920s, was hung near the capital's main square with the inscription "No to a return to colonisation".
+A parliament based in eastern Libya opposed to the UN-backed government issued a statement warning against "attempts by Italy ... to return tens of thousands of illegal immigrants to Libya".
+After a surge in migrant arrivals from Libya at the start of the year, the number of newcomers has slowed. The Interior Ministry said on Wednesday that 95,215 people had reached Italy so far in 2017, down 2.7 per cent from the same period in 2016.
+Some 2230 migrants, most of them Africans fleeing poverty and violence at home, died in the first seven months of 2017 trying to make the sea crossing.
+The Human Rights Watch group said Italy's move may endanger migrants.
+Almost 600,000 migrants have arrived in Italy over the past four years, putting Italy's network of reception centres under huge strain and causing increasing political tensions.
+Italy is due to hold national elections by next May..
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>TRIPOLI</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Defence Minister Roberta Pinotti</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>9</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Omar</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Libya</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mukhtars</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Interior Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Human Rights Watch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Libya's UN-backed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN-backed</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Libyan</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

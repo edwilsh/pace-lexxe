@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422884052893653</docid>
+  <date>03/08/2017</date>
+  <time>23:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/coinbase-adding-support-for-bitcoin-cash-by-2018-2017-8</url>
+  <title>Just days after its harrowing user exodus, Coinbase has decided to add support for bitcoin cash by 2018</title>
+  <content>
+The cryptocurrency online exchange Coinbase has decided to support the new bitcoin cash, days after  temporarily brought its website to a halt.
+
+In a  on Thursday, Coinbase Director of Communications David Farmer said the exchange intends to support the new Bitcoin Cash currency by January 1, 2018 - "assuming no additional risks emerge during that time."  
+
+The news, which Business Insider first , represents a dramatic turnaround from Coinbase's initial rejection of bitcoin cash. The company's rejection of bitcoin cash caused many users to stop using Coinbase, raising fears that it could suffer a customer exodus.
+
+Coinbase told users last week that they would have to remove their bitcoin from the Coinbase system if they wanted to participate in Tuesday's "hard fork" - the official creation of bitcoin cash, a currency that was cloned from bitcoin but which operates separately and follows different technological protocols from the original.
+
+Coinbase initially decided against supporting bitcoin cash because of a longtime strategy to exclusively support established and vetted cryptocurrencies. However, bitcoin cash was still automatically created out of the bitcoin stored on Coinbase - the same way it was in every other digital wallet.
+
+Customers who had bitcoin balances at the time of the fork on Tuesday now have an equal amount of bitcoin cash, the company said. It will remain stored on Coinbase until support is established, at which point customers can withdrawal their bitcoin cash.
+
+Until this announcement, many users feared their bitcoin cash would disappear, or be used by Coinbase for its own gain - a rumour which the company went out of its way to deny on Twitter. 
+
+Coinbase hasn't announced if or when it will allow users to trade bitcoin cash on its system, but it said in the post that it will decide at a later date. It currently only allows users to trade 3 cryptocurrencies: bitcoin, ether, and litecoin. 
+
+"We operate by the general principle that our customers should benefit to the greatest extent possible from hard forks or other unexpected events," Farmer wrote. 
+
+Get the latest Bitcoin price
+
+FAQ on bitcoin cash
+- Coinbase (@coinbase)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Coinbase Director of Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 1</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coinbase</name>
+    <count>12</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>David Farmer</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

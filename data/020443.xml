@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437740344952340</docid>
+  <date>06/08/2017</date>
+  <time>08:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/18/49/police-shoot-knife-wielding-man-in-nsw</url>
+  <title>Police shoot knife-wielding man in NSW</title>
+  <content>
+An alleged knife-wielding man has been shot by police during a confrontation in northern NSW.
+Police first tasered then shot the man, who they say was holding a knife, after they arrived at a unit in Grafton following a report of a disturbance.
+He was taken to Grafton Hospital in a critical condition, while a critical incident team will now investigate the circumstances of the shooting.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

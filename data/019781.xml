@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436709552792302</docid>
+  <date>06/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4834205/environmental-managers-death-at-wongawilli-mine-investigated/?cs=300</url>
+  <title>Environmental manager's death at Wongawilli mine investigated</title>
+  <content>
+Scene: The disused Wongawilli No. 1 ventilation shaft, where the work was being undertaken. Picture: NSW Resources Regulator.
+
+The NSW Resources Regulator is investigating the death of a senior employee of Wollongong Coal, who died while working at a disused ventilation shaft at the Wongawilli mine.
+The Mercury understands the man, who was 48, was the company's group environmental manager. 
+On June 1 he had complained to contractors with whom he was working about feeling unwell while undertaking environmental work at the ventilation shaft, according to incident information held by the Resources Regulator.
+
+He had left, apparently on his own, to seek medical attention. But he was later found by a contractor lying near his vehicle in the middle of on a mining access road, about 1.5km from the shaft.
+
+NSW Police and the Ambulance Service were called but attempts to revive the man were not successful, the Resources Regulator said.
+
+The regulator is investigating whether the man's death was mining-related. It said the circumstance surrounding the man's death are being considered by the coroner.
+The "environmental work" is understood to have involved soil sampling and clean-up works around the shaft, as part of rehabilitation efforts.
+
+Wollongong Coal has been asked for information about the incident but has not responded.
+The regulator said the company is co-operating with its investigation.
+
+The regulator said in its investigation note that proper safety procedures demand "any worker who is unwell should not leave the work area unaccompanied". It said any workers who is unwell should wait for emergency response, or if they leave be accompanied by someone with first aid certification.
+
+The Mercury understands a funeral service was held for the deceased man in June.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ambulance Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong Coal</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wongawilli No</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Resources Regulator</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 1</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Resources Regulator</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wongawilli</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

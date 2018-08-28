@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405970471358120</docid>
+  <date>01/08/2017</date>
+  <time>05:42</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/vodafones-nbn-will-have-mobile-backup/news-story/bdd37d3b90cbf09d518693347ed83644</url>
+  <title>Vodafone's nbn will have mobile backup</title>
+  <content>
+Vodafone Australia will offer its new nbn-connected customers a back-up mobile connection to cover them between sign-up and installation and in case the broadband connection fails.
+Customers who sign on for Vodafone's nbn-based fixed broadband offering will get a wi-fi hub modem that provides regular broadband wi-fi and a built-in 4G mobile connection as a backup.
+Vodafone says the mobile connection will be available to use for free between sign-up and installation and whenever repairs are carried out by the NBN Co - for individual outages, but not mass network faults.
+Vodafone general manager of fixed broadband Matthew Lobb said Australian broadband customers are looking for simple solutions.
+"They want a service that works, they don't want to be bamboozled by all these connections options," Mr Lobb said.
+As the NBN continues to build its national grid, more Australians are migrating with high expectations to the network but encountering slower-than-expected experiences.
+Mr Lobb rejected the implication that Australians are becoming discouraged with the NBN experience, saying Vodafone was simply responding to a market need.
+"Our decision to offer this innovative solution was motivated by the reality that fixed services - be they NBN or legacy DSL - take time to connect," he said.
+He said Vodafone was meeting a consumer need by providing a back-up to keep people connected.
+With five million current mobile customers, Vodafone expects to capitalise on consumer disenchantment in the fixed line sector where the NBN themselves have noted that - in such a massive rollout - sometimes things go wrong.
+"Everyone has a war story of a bad connection experience or of being left in the lurch," Mr Lobb said.
+"What we've been seeing in the rollout of the NBN is more of the same, ubiquitous internet service and consumers don't like it and we want to offer a different experience that's more reliable and that meets the customer's needs," Mr Lobb said.
+Vodafone plans to rollout fixed line services on the national broadband network later this year, becoming the largest new entrant to the tough retail telco market.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lobb</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>8</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DSL</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Lobb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

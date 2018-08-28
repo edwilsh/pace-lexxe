@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419400834344218</docid>
+  <date>03/08/2017</date>
+  <time>09:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/woman-taken-to-hospital-after-car-flipped/news-story/d616f40706f5a6312c9363e888303cd4</url>
+  <title>Woman taken to hospital after car flipped</title>
+  <content>
+A WOMAN was taken to hospital for treatment after her car flipped onto it's roof after hitting a curb then tree in Innaloo.
+The incident happened before 3pm on Barnes Street.
+A WA Police spokeswoman said the female driver was driving along the street when it hit a curb then collided into a tree and rolled.
+The tree then fell onto the car.
+The woman was then taken to Sir Charles Gairdner Hospital.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Barnes Street</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sir Charles Gairdner Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Innaloo</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

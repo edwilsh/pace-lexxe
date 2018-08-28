@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418460236488968</docid>
+  <date>03/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/16/01/young-man-may-be-deported-over-sex-attack</url>
+  <title>Young man may be deported over sex attack</title>
+  <content>
+A young Melbourne man who sexually assaulted a 13-year-old girl and stole her mobile phone may face deportation to his native Ethiopia after serving a sentence, a court has been told.
+Bill Tang has alleged links to the Apex street gang and was found guilty of indecent assault and other offences after a 2015 attack in which he and three other youths surrounded the girl and her friends in Cranbourne. He is yet to be sentenced.
+The 20-year-old faced the Victorian County Court on Thursday where defence lawyer Chris Pearson said Tang's permanent residency status had been revoked since the incident.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Victorian County Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ethiopia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Pearson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cranbourne</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Tang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

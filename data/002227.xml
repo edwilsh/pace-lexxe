@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400889524955280</docid>
+  <date>31/07/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/site-to-train-1800-for-saudi-gas-project/news-story/c0c89e18505cd1fca241eeece2ce38f8</url>
+  <title>Site to train 1,800 for Saudi gas project</title>
+  <content>
+Newsbites Finance
+
+Share
+
+Site Group has signed a third training services agreement with Al-Ajmi Company to service the needs for the Saudi Aramco led Fadhili gas project.
+This three-year contract is worth US$9.5 million (A$12m) in revenue for Site over 3 years and will develop 1,800 Saudi workers to meet the immediate needs of the Eastern Province - the largest oil and gas producing region of Saudi Arabia.
+The agreement is for delivery of technical training programs by subsidiary Site Skills Training for the new Nairiyah Construction Training College.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nairiyah Construction Training College</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Arabia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Aramco</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fadhili</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saudi</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Al-Ajmi Company</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Site Skills Training</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$9.5</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Province</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

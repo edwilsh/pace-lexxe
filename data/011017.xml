@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417223285888389</docid>
+  <date>03/08/2017</date>
+  <time>01:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/sedgman-wins-epc-contract-stanwell-coal-operation/</url>
+  <title>Sedgman wins EPC contract at Stanwell coal operation - Australian Mining</title>
+  <content>
+Latest News
+
+Stanwell Corp has awarded Sedgman a $6 million engineering, procurement and construction (EPC) contract to provide a tailings dewatering facility at the Meandu mine coal handling and preparation plant in Queensland.
+Sedgman has a long association with the mine in the South Burnett region, having been involved in the design and commissioning of the original coal processing plant in 1986.
+According to Sedgman, the existing tailings dam is approaching full capacity and its dewatering solution uses centrifuges to reduce the moisture content, allowing Stanwell to dispose of the fine tailings with coarse plant reject.
+Sedgman managing director Michael Carretta said the company's expertise in this field would deliver further value.
+"New methods for handling and storing tailings are evolving worldwide, and Sedgman works actively with technology providers to improve the economics of these solutions," Carretta said.
+Sedgman, which is part of the CIMIC Group, expects to complete the contract by November.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Carretta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Meandu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Carretta</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Stanwell</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CIMIC Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stanwell Corp</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sedgman</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>EPC</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Burnett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

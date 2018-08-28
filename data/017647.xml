@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429541252312760</docid>
+  <date>05/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/magnitude-60-quake-hits-philippines/news-story/e353dbeea6a9d2b2fb2089fecc727084</url>
+  <title>Magnitude 6.0 quake hits Philippines</title>
+  <content>
+A magnitude 6.0 earthquake has struck south Mindanao island in the Philippines, the US Geological Survey said.
+The quake's epicentre was 22.5 km east of the city of General Santos, which has a population of almost 600,000.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>General Santos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US Geological Survey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mindanao</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

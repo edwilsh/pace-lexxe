@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406137975085630</docid>
+  <date>01/08/2017</date>
+  <time>06:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/drug-driver-bust-three-times-over-six-hour-period/3207573/</url>
+  <title>Drug driver bust three times over six hour period</title>
+  <content>
+Police have charged a man after he was allegedly caught drug driving three times over a six hour period on Saturday night.
+
+At 6:20pm officers intercepted the 46-year-old driving on the Logan Motorway at Carole Park, where he allegedly returned a positive test and was issued with a 24-hour suspension from driving.
+
+It will be further alleged at 7pm he was again intercepted on Old Logan Rd at Camira where he returned a second positive test and was issued with an immediate licence suspension notice.
+
+At 11:50pm he was intercepted for a third time on Old Logan Rd in Camira where he returned another positive test for driving with a relevant drug in his system.
+
+A Redbank Plains man has been charged with three counts of driving with a relevant drug in his system, and one count each of driving whilst under a 24-hour suspension and driving under an immediate suspension of licence.
+
+He is due to appear in Ipswich Magistrates Court on September 19.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Carole Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Camira</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Old Logan Rd</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Logan Motorway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Redbank Plains</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

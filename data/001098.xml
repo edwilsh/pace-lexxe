@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399128588336944</docid>
+  <date>31/07/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/13/03/bail-bid-by-man-charged-over-1997-murder</url>
+  <title>Bail bid by man charged over 1997 murder</title>
+  <content>
+A man recently charged with the 1997 murder of his Gold Coast business partner is making a bid to be released from custody.
+Neil Pentland, 68, was arrested in June following a reignited investigation into the execution-style killing of Philip Carlyle, who was shot four times in the head.
+Pentland is expected to face a bail hearing in the Brisbane Supreme Court on Friday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Carlyle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Neil Pentland, 68</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pentland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412013490456994</docid>
+  <date>02/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/adelaide-weather-heavy-rain-expected-to-drench-metro-area-and-parts-of-the-state/news-story/bb435d8f1420bcf75557b214ce575b20</url>
+  <title>Keep your brolly handy - heavy rain on the way</title>
+  <content>
+MAKE sure you've got your brolly handy - a storm is heading to Adelaide just in time for school pickup.
+The Bureau of Meteorology says heavy falls have been experienced across the Far West Coast and Eyre Peninsula, with the front now passing over the Mid North to Adelaide.
+The downpour should hit Adelaide about 3.30pm.
+MORE TO COME
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Far West Coast</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eyre Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mid-North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

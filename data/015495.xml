@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424254147482109</docid>
+  <date>04/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/real-estate/lendlease-accidently-releases-financial-results-before-schedule-20170804-gxpeme</url>
+  <title>Lendlease accidently releases financial results before schedule</title>
+  <content>
+Lendlease has embarrassingly released sensitive financial information relating to its fiscal 2017 year results showing the group has made $758.6 million net profit up from $698.2 million in the previous year.
+The development, funds management and construction giant was scheduled to release its fiscal 2017 results on August 28 but accidentally made it public through a 6 page annual report exert.
+"While preparing for our annual report online release scheduled 28 August, a testing environment appears to have been inadvertently made accessible to the public through an automated search engine," a Lendlease statement said. 
+"Unfortunately six pages of the draft annual report as a result appear to have been accessed by members of the public.
+
+The financial result figures, which Lendlease stressed had not yet been submitted to the board for approval, reveals the net profit for Lendlease and its earnings before interest, tax, depreciation and amortisation of $1.2 billion up from $1.05 billion last financial year.
+
+Earnings per security are recorded in the document as being 130.5 cents up from 120.1 cents and Lendlease's return on equity is recorded at 12.9 per cent down from 13 per cent in the previous corresponding period. Distribution per security is unchanged at 66 cents.
+Lendlease also released figures on workplace safety which showed that the group's lost time injury frequency had dropped but that it recorded its first fatal incidents in the group's operations in four years.  
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 28</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lendlease</name>
+    <count>7</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

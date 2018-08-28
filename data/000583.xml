@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398059141465136</docid>
+  <date>30/07/2017</date>
+  <time>23:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/08/47/dodgy-hot-water-bottles-seized-in-victoria</url>
+  <title>Dodgy hot water bottles seized in Victoria</title>
+  <content>
+If you've bought a dodgy hot water bottle you could end up in more hot water than you planned.
+Victorian authorities seized more than 4000 'Hot Water Bag' products from Wens Bros Trading Pty Ltd's Clayton warehouse and Hallam retail store after a complaint from a customer who was burnt when the bag's seam split.
+Consumer Affairs Minister Marlene Kairouz on Monday said the bottles failed to meet mandatory safety standards and had been recalled.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hallam</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Affairs Minister Marlene Kairouz</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hot Water Bag</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Wens Bros Trading Pty Ltd's Clayton</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

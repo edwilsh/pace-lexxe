@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411798742089113</docid>
+  <date>02/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/trial-to-bring-driverless-cars-to-nsw/8766110</url>
+  <title>Driverless cars 'to save thousands of lives' as trial set for NSW</title>
+  <content>
+Once a thing of science fiction, the road is being paved for driverless cars to come to New South Wales.
+A two-year trial at Sydney Olympic Park will use an automated vehicle that resembles a small shuttle.
+The vehicle will only travel about 10 kilometres per hour, despite its ability to go up to 50, and the first phase of the trial will be along a closed-off road in the park.
+HMI technologies is behind the tests and autonomous vehicles director David Verma said the cars were tightly controlled.
+"It follows a track that is pre-programmed. It has an accuracy of 20 millimetres at the moment, which is pretty extraordinary," he said.
+"We're using an external GPS system which also coordinates the shuttle and helps the shuttle remain accurate."
+If something moves in front of the shuttle it comes to a stop, and the vehicle also has an emergency break.
+The testing phase will then move to the business part of the Sydney Olympic Park, where the shuttle will move along the main streets and ferry workers to and from their cars.
+Roads Minister Melinda Pavey said the trial was about investigating how the technology could one day be used on roads.
+"We want to use the trial to help develop the systems that will enable automated vehicles to be connected to our infrastructure, like traffic lights and to our customers through their devices and applications," she said.
+It is estimated that up to 94 per cent of crashes on roads are caused by human error, and NRMA chairman Kyle Loads said the driverless technology was being seen as a way to improve safety on the state's roads.
+"[Accidents] caused by drug-driving, drink-driving, speeding, in the future that will be no more. There'll be literally thousands of lives saved as a result of in the future people utilising autonomous vehicles," he said.
+The Government has tabled legislation to green light the trial which is expected to begin later this month and will follow the lead of South Australia and Western Australia.
+The legislation will also pave the way for other tests to be carried out across the state.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roads Minister Melinda Pavey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Verma</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NRMA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kyle Loads</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Park</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

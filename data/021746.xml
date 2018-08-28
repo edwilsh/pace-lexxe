@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441691714904910</docid>
+  <date>07/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/wa-police-dog-bucky-nabs-alleged-burglar/news-story/a7c65c0db32028d116024fc6f805fd4d</url>
+  <title>Bucky the police dog nabs alleged burglar</title>
+  <content>
+A FOUR-legged crime fighter managed to sniff out an alleged burglar in East Perth last night.
+WA Police's canine operations were called to a burglary at a liquor store on Hay Street about 10.25pm when police dog Bucky was ordered to spring into action.
+It is alleged a woman climbed on to the store's roof and entered the building.
+"Police attended and when the shop owner arrived, entered the building," Sgt Andrew Maher said.
+"Bucky was deployed and located the female hiding behind the shop counter.
+"It is further alleged the female removed alcohol from the store and placed it in the roof space."
+A 22-year-old Newman woman has been charged with offences including burglary and stealing.
+She is due to appear in Perth Magistrate's Court today.
+Bucky and his handler spent more than two years based in Geraldton, where the pooch was considered a favourite crime fighter. He recently moved back to Perth.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sgt Andrew Maher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bucky</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>East Perth</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>FOUR-legged</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Geraldton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hay Street</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Newman</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>WA Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

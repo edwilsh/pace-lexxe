@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406382788225729</docid>
+  <date>01/08/2017</date>
+  <time>07:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/gonski-will-leave-victorian-schools-worse-off-andrews-says/8763574</url>
+  <title>Gonski 2.0: Victorian Premier accuses PM of holding states to ransom over schools funding</title>
+  <content>
+Victorian schools could be more than $4.5 billion worse off next year under the new education funding plan from the Turnbull Government, Premier Daniel Andrews has warned.
+In a strongly worded letter seen by the ABC, Mr Andrews has sought urgent clarification from Prime Minister Malcolm Turnbull on how Victoria will be affected by the Commonwealth's changes to the Gonski funding model.
+The Andrews Government said unless it signed up to the new funding model which had passed federal Parliament, Victorian schools' base funding from the Commonwealth for 2018 will not be paid.
+That means public schools would miss out on $1.6 billion and non-government schools up to nearly $3 billion, the State Government said.
+Labor is reluctant to agree to the plan because, it says, it would restrict how it spent its money on Victorian schools.
+"The Commonwealth legislating how much funding state and territories allocate to their school system is an unacceptable overreach that encroaches on our independence as a government," Mr Andrews said.
+"School funding should not be held to ransom by the Commonwealth Government, nor should it be dictated by the Commonwealth Government."
+Mr Andrews attacked Mr Turnbull for reneging on the original Gonski agreement and criticised Canberra for threatening future funding to Victorian schools unless the state signed up to the new deal.
+"This is coercion that is not in the spirit of relationship between federal and state governments in the past," Mr Andrews wrote.
+The spat is another sign of the poor relationship between Mr Andrews and Mr Turnbull, who have engaged in political battles over  and
+The Prime Minister's office has been contacted for comment.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Premier</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gonski</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Daniel Andrews</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Gonski 2.0</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Government</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mr Andrews</name>
+    <count>5</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Andrews Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

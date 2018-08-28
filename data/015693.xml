@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424211197808596</docid>
+  <date>04/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/pm-defends-cash-support-for-new-balis/news-story/6c5735a70b18600ddd10ab4d0b4a1acf</url>
+  <title>PM defends cash support for 'new Balis'</title>
+  <content>
+Malcolm Turnbull has defended Australia's decision to provide money to the World Bank to help boost Indonesian tourism and create 10 so-called "new Balis".
+During a trip to Broome the prime minister dismissed claims the unknown contribution would encourage Australians to skip local tourism destinations in Australia's north, like the Kimberley region in Western Australia.
+"We are focused on tourism in Australia and we're making substantial investments into tourism infrastructure like the Cape Leveque road here in the Kimberley," he told reporters.
+He added the federal government had chipped in $50 million for the 60 kilometre road and was looking at ways to support other tourism infrastructure.
+Indonesia is reportedly seeking a $230 million loan to initially develop three areas - Lake Toba in North Sumatra, Lombok in West Nusa Tenggara, and Borobudur temple site in Yogyakarta in Central Java - and an extra $721 million based on results.
+It's unclear how much the Australian contribution will be.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Indonesian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kimberley</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Borobudur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Lombok</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cape Leveque</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Broome</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yogyakarta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bali</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central Java</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Sumatra</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>West Nusa Tenggara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Lake Toba</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

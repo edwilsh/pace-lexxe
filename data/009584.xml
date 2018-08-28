@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412533181508088</docid>
+  <date>02/08/2017</date>
+  <time>07:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/boy-hit-by-car-near-sunshine-coast-school/news-story/474da249cca3790ae5922ca3b26e419e</url>
+  <title>Boy hit by car near school</title>
+  <content>
+A BOY was taken to hospital today after being hit by a car outside a Sunshine Coast primary school.
+
+Police said the boy, believed to be 10-years-old, was hit outside Buddina State School about 3.05pm.
+
+He was taken to Sunshine Coast University Hospital with minor injuries where he remained late yesterday in a stable condition.
+
+Like this:
+
+Like Loading...
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Buddina State School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast University Hospital</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

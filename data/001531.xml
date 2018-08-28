@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399081343696125</docid>
+  <date>31/07/2017</date>
+  <time>02:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/personal-finance/cba-tells-interestonly-borrowers-to-wait-six-months-for-new-funding-20170730-gxlkxw</url>
+  <title>CBA tells interest-only borrowers to wait six months for new funding</title>
+  <content>
+Commonwealth Bank of Australia's property buyers wanting to switch to an interest-only loan will have to wait six months - or twice as long - for new funding under the latest round of tough measures being introduced to discourage use of this type of repayment method.
+The nation's biggest mortgage lender will also from today refer any lender that wants to switch from principal and interest to interest-only repayments within 180 days for tough credit reassessment.
+CBA is attempting to lower the risk of its highly profitable mortgage book by encouraging borrowers to repay principal and discourage higher risk borrowers from applying, particularly interest-only investors.
+The bank is also aiming to stop mortgage brokers, who act as an intermediary between the bank and borrowers, from encouraging property buyers to apply for a principal and interest loan and then switch over to lower payment interest-only loans a few months into the repayment term.
+
+The new waiting period following interest-only loan refunding will increase from 90 days to 180 days.
+
+Recent Australian Securities and Investments Commission analysis has raised concerns that borrowers' domestic expenses were not being fully reflected in loan applications.
+
+It has also introduced new borrowing guidelines, which are used by branches and mortgage brokers assessing a client's eligibility, that include a 30 per cent servicing loading for a borrower's existing business, investment or home loans from another lender.
+Warnings about affordability
+
+The latest tough new measures will also ban borrowers who have a loan to value ratio greater than 80 per cent to switch from principal and interest to interest-only payments within 180 days of loan funding.
+In addition, the maximum interest-only terms over the life of a loan are being reduced to five years for owner-occupied home loans and 10 years for investment home loans.
+CBA's squeeze on borrowers is also in response to Australian Prudential Regulation Authority restrictions on the volume and velocity of new lending and the Reserve Bank of Australia's repeated warnings about affordability.
+Regulators are concerned that deferring payment of loan principal amounts is encouraging property buyers to take on too much debt, which makes them vulnerable to financial stress as rates rise from record lows.
+
+For example, ME Bank, which is owned by 29 superannuation funds, is announcing cuts across its principal and interest range by up to 20 basis points. Only new borrowers are eligible and 20 per cent deposit is required for most of the offers.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

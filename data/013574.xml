@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421977814776489</docid>
+  <date>03/08/2017</date>
+  <time>19:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/fbi-arrested-cyber-expert-who-ended-wannacry-attack/8773362</url>
+  <title>Marcus Hutchins: MalwareTech cyber expert who ended WannaCry attack arrested in US</title>
+  <content>
+A cyber security researcher widely credited with helping to neutralise the global WannaCry ransomware attack earlier this year has been arrested by the Federal Bureau of Investigation, US officials say.
+Marcus Hutchins,  a "kill switch" that effectively disabled the WannaCry worm in May, was detained by FBI officials in Nevada, a US Marshals Service spokeswoman said.
+"We are aware that he was arrested. It is not our case, it is the FBI's case," she said in a phone interview, declining to provide further details.
+Mr Hutchins, also known as MalwareTech, allegedly conspired to advertise, sell and profit from the Kronos banking virus dating back to 2014 and 2015, according to an indictment.
+A US official said the Kronos allegations were unrelated to his role in helping stop the WannaCry attack.
+Mr Hutchins, 23, along with tens of thousands of other hackers, was reportedly in Las Vegas for the annual Black Hat and Def Con security conferences.
+Representatives at the FBI field office in Las Vegas and the agency's headquarters in Washington did not immediately respond to requests for comment.
+A friend, Andrew Mabbitt, confirmed later on Twitter that Mr Hutchins was being held in the Las Vegas FBI field office.
+
+External Link:
+
+Hacking colleague tweets on Marcus Hutchins arrest
+WannaCry  at car factories, hospitals, shops and schools in more than 150 countries.
+Mr Hutchins , was praised for saving companies and governments millions of dollars, and has since worked for British intelligence.
+His arrest in Las Vegas was first reported by the security website Motherboard.
+A spokesperson from the UK's National Cyber Security Centre initially confirmed the arrest to Motherboard in an email.
+"We are aware of the situation. This is a law enforcement matter and it would be inappropriate to comment further."
+Reuters/ABC
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Mabbitt</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Bureau of Investigation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MalwareTech</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nevada</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hutchins</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UK's National Cyber Security Centre</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters/ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hutchins, 23</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marshals Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

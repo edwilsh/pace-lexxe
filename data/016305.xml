@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425718731355169</docid>
+  <date>04/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/stock-pickers-are-having-a-record-breaking-year-2017-8</url>
+  <title>Stock pickers are having a record-breaking year</title>
+  <content>
+Reports of the demise of the active  have been greatly exaggerated.
+
+About 58% of large-cap fund managers beat their benchmark in July, marking the fifth straight month in which a majority of them outperformed. That's the longest such streak on record, according to Bank of America Merrill Lynch data going back to 2009.
+
+It wasn't supposed to be like this. To hear doomsayers tell it over the past several years, the rise of the machines was supposed to hurt people who make their living analysing and buying stocks based on fundamentals. Exchange-traded funds were supposed to homogenize the market, causing stocks to trade increasingly in lockstep.
+
+In reality, the opposite has happened.
+
+The average pair-wise correlation of stocks in the  - which measures the degree to which they trade in tandem - sits at the lowest in 17 years. And the more stocks operate with a mind of their own, the more opportunity exists for investors to pick ones that provide market-beating returns.
+
+But at the end of the day, active managers are only as good as their stock picks. Luckily, those have been on point.
+
+BAML attributes active managers' success in July to a record overweight position in tech stocks. The  climbed 4.1% during the month, more than double the return for the S&P 500. The firm also notes a "consistent bias" towards low-quality stocks, which also beat the benchmark last month.
+
+It remains to be seen how well active fund managers will fare once intra-stock correlations rebound from current lows. But until then, stock pickers are making the most of their opportunity to show they still matter.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BAML</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Exchange-traded</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Merrill Lynch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

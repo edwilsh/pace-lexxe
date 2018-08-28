@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418455941521612</docid>
+  <date>03/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/police-release-footage-of-attempted-ram-raid-in-appeal-for-help-20170803-gxoohj.html</url>
+  <title>Police release footage of attempted ram raid in appeal for help</title>
+  <content>
+Police have released CCTV footage of an attempted ATM theft north of Brisbane, in a public appeal for help to find those responsible for the failed ram raid.
+A stolen ute was driven through the front doors of a shopping centre on Anzac Avenue, Kallangur, just before 4am on July 28, according to police.Photo: Queensland Police Service
+Footage shows the ute driving into the shopping centre and reversing into a standalone ATM in an attempt to remove it.
+The ute was rammed into the ATM a number of times but failed to dislodge it, and the vehicle was reverse back out through the entry. No money was stolen.Photo: Queensland Police Media
+Police said a grey dual cab ute believed to be involved in the incident was found burnt-out shortly afterwards at Tamborine Circuit.
+The Isuzu ute had been stolen from a Bellmere property at some point in the night on July 19.
+Police are appealing for anyone who noticed any suspicious activity at the time or anyone with information about the incident to contact police.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bellmere</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tamborine Circuit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anzac Avenue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Isuzu</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kallangur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

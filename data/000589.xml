@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398273889833355</docid>
+  <date>30/07/2017</date>
+  <time>23:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/health/biotechnology/cochlear-chief-executive-chris-smith-to-retire-20170730-gxlzd0</url>
+  <title>Cochlear chief executive Chris Smith to retire</title>
+  <content>
+Hearing implant maker Cochlear has announced its chief executive officer Chris Smith will retire from his position on January 2, 2018.
+Dig Howitt, Cochlear's chief operating officer, will replace Mr Smith as president of the company with immediate effect and will takeover as CEO when Mr Smith retires in January.
+The company says the appointment of Mr Howitt, who joined Cochlear in 2000, has been part of a succession process.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr. Smith</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>January 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Howitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Howitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Smith</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cochlear</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

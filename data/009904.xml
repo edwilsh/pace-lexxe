@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414203923820813</docid>
+  <date>02/08/2017</date>
+  <time>13:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/commodities/agriculture/cbh-group-tests-blockchain-to-protect-agricultural-supply-chains-20170802-gxnmsq</url>
+  <title>CBH Group tests blockchain to protect agricultural supply chains </title>
+  <content>
+The chief executive of Australia's largest co-operative, CBH Group's Andy Crane, says digital innovation will boost productivity across the agriculture sector and hopes a trial of blockchain technology will lift grain growers' incomes by allowing them to prove provenance to buyers.
+Perth-based CBH, the nation's largest grains exporter, and Sydney start-up AgriDigital will begin a pilot next week to test how blockchain, which can be used to create an immutable audit trail, traces the movement of oats through a supply chain.
+If the trial was successful, Mr Crane said it was feasible the entire $4 billion Western Australia grain crop could be managed on blockchain technology in the coming years because "even for large volume commodities the ability to prove the path of origin is very valuable".
+Testing will take place at CBH's oats processor, Blue Lake Milling, in Bordertown, South Australia, and will determine whether the technology is appropriate to monitor niche products, such as organic grains, or the whole grain crop. As well as testing origin and quality documentation, the trial will match title transfer and payment. "There is great potential, but we need to test it," he said.
+
+Philip Gostelow
+
+Blockchain, also known as distributed ledger technology, can be used to establish a fact at a given point in time by storing a digitised representation of a real-world transaction or process. This can then be trusted by a third party as proof of the history of the asset. The CSIRO's .
+
+Mr Crane, who is set to retire as CBH chief executive when a successor is found, said proving provenance would help growers earn more in export markets.
+"As a WA company, we think about agriculture with an export mindset and when we look to Asia, we are trying to get best value for our grain growers in a very competitive world market," he said. "One of best ways to do that is to prove it to customers and the end user. Anything allowing proof of provenance can create value to Australia, given we are considered a reliable and high quality producer."
+While it is too early to quantify savings from adopting the technology, they could include reduced back office costs, including removing the need to double enter data at various points along the supply chain, and other efficiencies from establishing a clear train of custody, said Emma Weston, the chief executive of AgriDigital.
+Last year, the  in a wheat deal between Whillock Pastoral and Dubbo-based Fletcher International Exports.
+
+Louie Douvis
+
+Because grain is not a discreetly packaged unit, the pilot will test ways of linking the commodity to the technology system. This could potentially involve sensors, monitoring delivery processes and use of processing equipment.
+Mr Crane said digitisation of paper-based processes such as recording minimum residue levels of grain could reduce the costs of export processes and meeting import regulations where they are getting stricter.
+A trip to Silicon Valley with some CBH managers and directors earlier this year had revealed how agtech can help many parts of agriculture in Australia become more productive, Mr Crane said.
+"Agtech is probably the last industry segment to be "tech-ed". The industry could benefit enormously from digital innovation, particularly production supply chain, and trading and marketing," he said.
+
+"We have looked at blockchain and many other technologies. We are at the cusp of a great opportunity with big data. The ability to combine data sets and analyse them, and AI-type opportunities - the combination of all sorts of applications to agriculture is set to improve productivity."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Crane</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bordertown</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CSIRO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whillock Pastoral</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emma Weston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBH Group's Andy Crane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louie Douvis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AgriDigital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AGTech</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AI-type</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth-based CBH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubbo-based Fletcher International Exports</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Gostelow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBH Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBH</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Blue Lake Milling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

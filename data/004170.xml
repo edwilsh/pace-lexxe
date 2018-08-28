@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405055643310389</docid>
+  <date>01/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/web/nbn/government-commissions-acma-study-in-bid-to-end-nbn-blame-game-20170801-gxmr8q</url>
+  <title>Government commissions ACMA study in bid to end NBN blame game</title>
+  <content>
+The Turnbull government has commissioned the Australia Communications and Media Authority to investigate and end the  between the National Broadband Network and internet service providers about who is at fault for a rising ride of customer complaints.
+The ACMA has been given a remit to assess a wide range of issues relating to the NBN and will use its formal powers to compel retail service providers (RSPs) and other industry players to hand over data relating to NBN.
+"This information will be used to identify where customer issues most commonly arise and how those issues can be either avoided or resolved more quickly," the government said in a release on Tuesday morning.
+"It will also help reduce the passing of customer complaints between retailers and NBN."
+
+Andrew Meares
+
+The ACMA will look at the range of technology across the Coalition's multi-technology mix NBN, including fibre-to-the-basement, fibre-to-node, fibre-to-the-curb, fibre-to-the-premise, hybrid fibre coaxial and satellite connections, and take data direct from customers before, during and after being pushed over to the NBN.
+
+More than 20 industry participants will be asked to hand over data on issues such as fault handling, connection timing, appointing keeping, and telephone number porting.
+On Monday, , blaming a market share "land grab" for the growing number of complaints.
+"This reshaping of the national competitive landscape via the NBN has triggered a unique opportunity for phone and internet companies to become service providers and chase market share like never before," Mr Morrow said.
+"Each week, as NBN makes around 100,000 premises Ready for Service, we see a vast number of service providers racing to capture as much retail market share as possible. This classic 'land grab' phenomenon can create more downside than upside if not carefully managed."
+ (Connectivity Virtual Circuit) charge, which it charges service providers for the bandwidth they want for their customers.
+
+The NBN has reached a tipping point with its footprint hitting 5.7 million premises and 2.4 million connections. The problem is retail service providers are not buying enough bandwidth to deliver on the promise of the NBN project - of superfast broadband for everyone - with some consumers complaining their NBN services are worse than their previous DSL connections.
+RSPs say they aren't buying enough bandwidth because of the much higher price on NBN versus what they were previously paying - ie they're protecting margins and profits.
+The NBN was originally created by the Rudd Labor government as a business, not a public service, so has a mandated commercial return which is forcing it to charge high access fees to RSPs. 
+Last week, . Many in the telecommunications sector have called on the government to write-down its investment and take away the company's mandated return, so NBN can reduce its CVC charge.
+
+However, Senator Cormann categorically ruled out a write down in the government's near $30 billion investment.
+"The Government is not considering a write down of its investment in NBN and there is no basis for such a write down," Senator Cormann said.
+"The Government's investment in NBN can only be written down in accordance with the requirements of accounting standards. "These standards require there to be evidence that the investment should be written down and do not allow this be done at the Government's discretion."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ACMA</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>16</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Meares</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senator Cormann</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Rudd Labor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Virtual Circuit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DSL</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

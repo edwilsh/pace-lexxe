@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422665009557870</docid>
+  <date>03/08/2017</date>
+  <time>22:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/man-trapped-in-car-after-crash-on-kings-highway-near-bungendore-20170803-gxp2du.html</url>
+  <title>Man trapped in car after crash on Kings Highway near Bungendore</title>
+  <content>
+A single-car crash on the Kings Highway has left one man trapped and has blocked eastbound traffic on Friday morning.
+Police said the driver was conscious and breathing but trapped in the car near Jamaleopa Road.
+
+Emergency services, including paramedics and firefighters, were on the scene working to free the man after receiving a call at about 7:30am.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kings Highway</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bungendore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jamaleopa Road</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

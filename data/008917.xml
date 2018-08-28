@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411369245353397</docid>
+  <date>02/08/2017</date>
+  <time>02:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/buttered-bread-fixes-dog-health-problems-in-northern-territory/8766074</url>
+  <title>Buttered bread proves the solution for improving dogs' health in remote NT communities</title>
+  <content>
+A spoonful of sugar may help the medicine go down for humans, but buttered bread works just as well when it comes to dogs.
+The novel approach to delivering medicine is being spread around remote communities in the Northern Territory's Roper Gulf region in an attempt to improve the health of all dogs living in the area.
+"We lace the bread with a medication that treats dogs for worms, ticks and scabies," said Sam Phelan, the in-house veterinarian for the Roper Gulf Regional Council's Animal Health Program.
+"And we give it on bread to make it easy. You can inject the medication as well, but then you're catching dogs for needles and they soon learn what the rattle of the cage sounds like.
+"They will run from a needle, or come running to it if it's the bread, and we prefer them running to us."
+
+Dr Phelan said there was a common misconception that dogs in many of the region's Indigenous communities were wild.
+She said the term camp dogs, often used to describe the dogs that roam the streets, was terminology that did not accurately describe the situation.
+"They're pets, they're owned family pets, and in a lot of communities those dogs are free-roaming."
+Regardless of the naming conventions, Dr Phelan admitted dog bites and the spread of disease were concerns in communities with free-roaming animals.
+But she said working with local animal management teams to deliver the medication programs had a two-pronged effect.
+"By feeding them bread I get to know their owners and the dogs quite well, and problem dogs very quickly identify themselves," she said.
+"The animal management workers will identify cheeky dogs to me as well so we very quickly know who the tricky ones of each town are.
+"And keeping the dogs healthy certainly limits a lot of disease transmission."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sam Phelan</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Northern Territory's Roper Gulf</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roper Gulf Regional Council's Animal Health Program</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indigenous</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Phelan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

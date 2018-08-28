@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416055054762937</docid>
+  <date>02/08/2017</date>
+  <time>20:50</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/tasmania-brings-in-first-government-cio-469927</url>
+  <title>Tasmania brings in first government CIO</title>
+  <content>
+The Tasmanian Department of Premier and Cabinet has appointed the state's first government chief information officer to lead the redevelopment of its ageing ICT strategy.
+
+The agency confirmed it has hired former Department of Treasury and Finance director of information systems Glen Lewis to the leadership role.
+
+He will head up the Office of eGovernment, which is responsible for the planning, development and implementation of new and improved ICT services across government.
+
+Lewis has previously held senior management positions in the Department of Health and Human Services and Forestry Tasmania, as well as software design and development roles in the private sector and as an educator.
+
+One of his initial tasks will be leading the development and redesign of the state's ICT strategy, which hasn't seen an update since 2011.
+
+The new strategy will detail the state's vision for information and digital services to improve service delivery, deliver greater public sector productivity, and enable informed decision making, a spokesperson told iTnews.
+
+The state government is also in the process of hiring a whole-of-government CISO, but has had to reissue the job ad a number of times since it began searching in January.
+
+Lewis will commence as GCIO next week.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ICT</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Department of Treasury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GCIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glen Lewis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Office of eGovernment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iTnews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Forestry Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Human Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian Department of Premier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lewis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CISO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

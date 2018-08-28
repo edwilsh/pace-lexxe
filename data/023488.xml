@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444311644994895</docid>
+  <date>07/08/2017</date>
+  <time>10:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/mcdonalds-plan-blocked-by-people-power/news-story/8a8f92824fc0959974a65bfd6c8e7a83</url>
+  <title>McDonalds blocked by people power</title>
+  <content>
+GLOBAL fast food giant McDonalds can't build a 24-hour restaurant in Guildford after its application was knocked back on Monday.
+In what's been described as a win for the people, Guildford residents had been campaigning against the application since the plans first went public.
+McDonalds had wanted to build a 24-hour restaurant at the site behind the Guildford Hotel.
+But on Monday, a development assessment panel refused the plans, citing a lack of car bays, the close proximity to a local primary school and that the new store could diminish the character of the suburb.
+While local residents are celebrating the decision, the fight could continue.
+McDonalds can now appeal the decision at the State Administrative Tribunal, but the fast food giant is yet to comment on its next move.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>McDonalds</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Guildford Hotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Guildford</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Administrative Tribunal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

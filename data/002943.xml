@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402010511442508</docid>
+  <date>31/07/2017</date>
+  <time>14:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/business/nbns-bill-morrow-uploads-attack-on-over-competitive-telco-market-20170731-gxm329.html</url>
+  <title>NBN's Bill Morrow uploads attack on 'over competitive' telco market</title>
+  <content>
+NBN Co's chief executive has launched a blistering attack on the telecommunications industry, blaming an "over competitive" market and "land grab environment" for the slow speeds experienced by consumers. 
+Bill Morrow also warned that of the 45 internet retailers "aggressively chasing market share" on the national broadband network today, some will eventually lose money and collapse because their margins are too tight. Photo:  Adam Hollingworth
+"We see examples of a headline price for NBN 'super-fast broadband', but in fact it is a 12 megabit per second [download speed]," Mr Morrow wrote in a Is nbn to blame with its infamous CVC charge. 
+"If a consumer has transitioned from ADSL and [was] getting the national ADSL speed average of 9 Mbps, they will observe hardly any difference on the NBN's access network, yet their expectation was far higher given the well-known cost of a $49 billion super-fast network." Photo: Brook Mitchell
+He said basic wholesale access cost $24 per connection, which left no profit margin on plans costing $29 per month, particularly if carriers still have to pay for bandwidth. 
+"The resulting margin squeeze is leaving some retailers with a decision, at least in the short term, to either forgo profit, forgo market share, or forgo high service levels, including optimal speed during typical peak traffic times," Mr Morrow wrote. 
+
+He notes the market had to follow when "price setter" Telstra cut by 20 per cent the retail price of its 25 Mbps NBN product.  And that NBN Co's publicly funded model will not deliver a positive return to government unless consumers and telcos pay more in coming years than they do today for faster speeds and more bandwidth.  
+
+You will now receive updates from
+
+Business AM Newsletter
+
+Business AM Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+In  in 2013 to switch from an all-fibre fixed network to include multiple fixed technologies, including some incorporating the existing copper network. Photo: Supplied.
+"There have been many fingers pointed in recent weeks about who's at fault here. Some of the reporting and politicking has focused on the NBN network's Multi-Technology Mix as the culprit, but that is simply not true," Mr Morrow wrote. 
+Meanwhile, Vodafone is taking advantage of the NBN Co's reputation for lengthy connection delays with a modem that defaults to its 4G mobile network if NBN's fixed service is delayed or broken.  
+Vodafone's long-awaited launch of its first fixed-line products will be later this year, but research has already found customers worry about the "black hole period" between ordering a new NBN service and the connection being completed, the company's general manager of fixed broadband, Matthew Lobb, said. 
+"We are a mobile company to date and so what we are announcing is that our wi-fi hub will have an embedded SIM in the unit," he said. 
+"So as soon as you get the device there will be a 4G back-up service." 
+Vodafone will issue new fixed customers with unlimited access to Vodafone's mobile network during the set up period and whenever there are NBN-related faults on their connection, but not mass outages. It will control when the 4G SIM activates.  
+Mr Lobb said parts of NBN's wholesale pricing are handbrakes on faster speeds and competition.  
+"We're keen for the disincentives to sell speed to be removed," he said.
+Telstra already sells a  that switches to its mobile network, but Vodafone's will be standard issue to all its NBN customers. 
+It expects customers will use the 4G back up for a few days during the connection phase for a maximum of 30 days - but limited to 12 megabits per second download and 1Mbps upload.
+However, Fairfax Media has heard from multiple . Mr Lobb agreed months-long delays do happen, but said whether the 4G safety net lasts longer than one month will depend on individual circumstances. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>NBN</name>
+    <count>7</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN's Bill Morrow</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adam Hollingworth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN-related</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lobb</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SIM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BROOK MITCHELL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrow</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ADSL</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Multi-Technology Mix</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>G SIM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Lobb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

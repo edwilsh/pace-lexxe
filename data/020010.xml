@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437014495473146</docid>
+  <date>06/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/trump-touts-new-sanctions-on-north-korea/news-story/a2b16c3088eaeff26fdd782bfc540f32</url>
+  <title>Trump touts new sanctions on North Korea</title>
+  <content>
+US President Donald Trump has touted new sanctions the UN Security Council approved for North Korea, saying they will have a "very big financial impact".
+The Security Council has unanimously approved the sanctions on North Korea, including banning coal and other exports worth over $US1 billion. The US-drafted measure, negotiated with North Korea's neighbour and ally China, is aimed at increasing economic pressure on Pyongyang to return to negotiations on its nuclear and missile programs.
+Trump wrote on Twitter: "The United Nations Security Council just voted 15-0 to sanction North Korea. China and Russia voted with us. Very big financial impact!"
+A few hours later, White House press secretary Sarah Huckabee Sanders said in a statement that Trump commended the Security Council for its action and appreciated the co-operation of China and Russia in passing the resolution.
+Trump's national security adviser, H.R. McMaster, stressed in an interview that aired earlier in the day that it is "impossible to overstate the danger" posed by North Korea.
+In an interview with MSNBC's Hugh Hewitt that aired Saturday, McMaster said Trump has been "deeply briefed" on the strategy on North Korea. Tensions have mounted with Pyongyang's two recent successful tests of intercontinental ballistic missiles.
+McMaster reiterated the administration's position that all options, including a targeted military strike, are on the table. Still, he acknowledged this "would be a very costly war, in terms of -in terms of the suffering of mainly the South Korean people."
+"So what we have to do is - is everything we can to - to pressure this regime, to pressure Kim Jong Un and those around him such that they conclude it is in their interest to denuclearise."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kim Jong-un</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>McMaster</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Huckabee Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN Security Council</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MSNBC's Hugh Hewitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-drafted</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korean</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Security Council</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Security Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>H.R. McMaster</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

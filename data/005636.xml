@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406481572475673</docid>
+  <date>01/08/2017</date>
+  <time>07:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/briefly-rick-and-morty-recap-facebook-ai-scare-bitcoin-explosion/</url>
+  <title>Briefly: Rick And Morty Recap, Facebook AI Scare, Bitcoin Explosion</title>
+  <content>
+Brief news items of note for Lifehacker readers, including: the truth behind Facebook's "Skynet" AI, Rick And Morty episode 2 recap, Bitcoin reaches near-record highs.
+
+A neuroscientist who studies decision-making has revealed the most important choice you can make. []
+
+Here's a recap to Rick And Morty Season 3, episode 2. []
+
+Bitcoin is rallying to near-record highs ahead of its deadline for a new trading platform. []
+
+In recent weeks, a story about experimental Facebook machine learning research has been circulating with increasingly panicky, Skynet-esque headlines. Here's what actually happened. []
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Explosion</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook AI Scare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Lifehacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Skynet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rick And Morty Recap</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Skynet-esque</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morty' Season 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rick And Morty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

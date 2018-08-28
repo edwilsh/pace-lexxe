@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436194156712714</docid>
+  <date>06/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>true</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/vic/2017/08/06/victoria-severe-cold-snap/</url>
+  <title>Shivering Victorians could use a little of that global warming</title>
+  <content>
+Victoria's alpine areas are being pummelled by blizzard conditions, with heavy snowfalls setting in as a powerful cold front makes its way across the state.
+The front began battering the south-west yesterday evening and peaked in Melbourne in the early hours of this morning, with some bayside suburbs hit by gusts of up to 80 kilometres per hour.
+The Grampians in the state's west recorded the strongest winds of 102 kilometres per hour.
+Bureau of Meteorology senior forecaster Richard Carlyon said alpine areas could receive their heaviest falls of the winter so far.
+"We may see wind gusts up to about 110 kilometres per hour. Probably easing a little through the afternoon but still quite windy," he said.
+Mr Carylon said Melbourne could also expect more wind and rain during the day.
+"The winds will ease off a little through the morning but they'll stay fresh to strong from the north-west through the day, and we'll see reasonably frequent showers moving through," he said.
+Yesterday, holiday makers at Victoria's alps awoke to fresh snow dumps, with 22 centimetres of snowfall recorded at Falls Creek and 20 centimetres recorded at Mount Hotham over 24 hours to Saturday morning.
+The State Emergency Service has warned people in affected areas to be aware of conditions and stick to marked ski runs.
+"Ensure you play it safe up there," SES deputy chief officer David Baker said on Friday.
+"It's going to be big dumps, hopefully very enjoyable, but blizzards can pose particular dangers and we don't want anybody to go missing up in the mountains."
+Mt Hotham Resort warned holiday goers that while Great Alpine Road was still open, visibility was poor due to heavy snowfalls.
+Meanwhile, southern New South Wales is also experiencing blizzard conditions.
+Thredbo has had more than 25 centimetres of snowfall in the past 24 hours, while Perisher has recorded 56 centimetres.
+Perisher's Richard Phillips said the conditions were expected to continue today.
+"There'll be a few lifts today that will go on wind hold due to these high winds before they abate a bit this afternoon, but there will be some good skiing today," he said.
+"Guests will want to stay in the tree line to gain some shelter as well."
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Richard Carlyon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thredbo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Hotham Resort</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Carylon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Grampian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Baker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Great Alpine Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perisher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Falls Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perisher's Richard Phillips</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

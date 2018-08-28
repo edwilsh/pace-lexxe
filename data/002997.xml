@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403062778450952</docid>
+  <date>31/07/2017</date>
+  <time>18:25</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/taste-test-between-coke-zero-coke-zero-sugar-diet-coke-2017-7</url>
+  <title>Coca-Cola is killing Coke Zero for Coke Zero Sugar  --  we did a blind taste test to see if we could tell the difference</title>
+  <content>
+If you like your Coke Zero exactly the way it is now, it might be time to start stockpiling it.
+
+announced plans to stop selling Coke Zero in the US in August, replacing it with a beverage with a different recipe, design, and name: Coke Zero Sugar.
+
+We put Business Insider's newsroom to the test to see if they could taste the difference between Coke Zero, Coke Zero Sugar, and Diet Coke.
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coke Zero Sugar</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Diet Coke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coca-Cola</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Coke Zero</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

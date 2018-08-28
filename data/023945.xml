@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445346732132945</docid>
+  <date>07/08/2017</date>
+  <time>14:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/amp-readies-life-reinsurance-deal-new-partner-on-the-horizon-20170806-gxql3a</url>
+  <title>AMP readies life reinsurance deal, new partner on the horizon</title>
+  <content>
+AMP Ltd has some good news for investors which seems likely to be announced alongside a $500 million-odd half-year operating profit later this week. 
+Street Talk understands the wealth manager is closing in on a reinsurance deal for its at-time troublesome life insurance book, which would release a significant amount of capital for the ASX-listed company and fuel expectations of capital management. 
+Sources said AMP was in deep discussions with a big global reinsurer, which was eyeing a slice of the Australian's $2 billion life book. 
+The reinsurer is believed to be a party reasonably new to the fold - and not Munich Re, which last year signed a deal to reinsure half of AMP's $750 million a year retail life book.
+
+Should AMP be able to strike the deal by Thursday's half-year results date, it would be expected to be welcomed by the company's big institutional investors whose attention would quickly turn to share buybacks and other potential capital management measures. 
+AMP boss Craig Meller has repeatedly flagged his willingness to consider deals in and around the life insurance book and told investors that the was being "managed for capital efficiency" with a return on equity target of 15 per cent at a strategy day in May. 
+Sell-side analysts at the major brokers have told fundies to expect a reinsurance update on Thursday.
+Other things Morgan Stanley analysts said they would be looking out for included second quarter flows into the company's superannuation coffers, its life insurance claims experience, an update on AMP's China business and margins in the wealth management unit. 
+
+AMP shares closed at $5.39 on Monday, up 6.9 per cent for the year to date. The benchmark S&P/ASX200 index is up 1.9 per cent this year. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian's $2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMP Ltd</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Craig Meller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AMP's China</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Street Talk</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AMP's $750</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Munich Re</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AMP</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

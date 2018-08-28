@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432285736438112</docid>
+  <date>05/08/2017</date>
+  <time>11:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/21/35/us-marine-helicopter-crash-queensland-coast-search-rescue</url>
+  <title>Major rescue mission underway after US marine aircraft 'mishap' off Queensland coast</title>
+  <content>
+An emergency search-and-rescue mission is being carried out for members of the US Marine Corps who were on aboard an MV-22 aircraft when it reportedly crashed off the Queensland coast.
+"There is an active search and rescue operation ongoing for service members involved in a MV-22 mishap," US Marine Corps confirmed in a statement.
+At least 20 people have been reportedly rescued, while several are still missing.
+More to come.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>MV-22</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corps</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

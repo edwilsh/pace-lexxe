@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442207110986877</docid>
+  <date>07/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/technology-companies/apple/new-apple-watch-is-said-to-reduce-reliance-on-iphone-by-going-cellular-20170806-gxqk1v</url>
+  <title>You'll be able to use the new Apple Watch like a phone</title>
+  <content>
+by
+Mark Gurman, Scott Moritz and Ian King
+
+ is planning to release a version of its smartwatch this year that can connect directly to cellular networks, a move designed to reduce the device's reliance on the iPhone, people familiar with the matter said.
+Currently, Apple requires its smartwatch to be connected wirelessly to an iPhone to stream music, download directions in maps, and send messages while on the go.
+Equipped with LTE chips, at least some new Apple Watch models, planned for release by the end of the year, will be able to conduct many tasks without an iPhone in range, the people said. For example, a user would be able to download new songs and use apps and leave their smartphone at home.
+ will supply the LTE modems for the new Watch, according to another person familiar with the situation. That's a big win for the chipmaker, which has been trying for years to get its components into more Apple mobile devices.
+
+Qualcomm has been the main modem supplier for iPhones and other Apple mobile gadgets, but the two companies are embroiled in a bitter legal dispute. Apple added Intel as a modem supplier for some iPhones last year.
+
+Apple is already in talks with carriers in the US and Europe about offering the cellular version, the people added. The carriers supporting the LTE Apple Watch, at least at launch, may be a limited subset of those that carry the iPhone, one of the people said.
+However, , ,  and  in the US plan to sell the device, according to other people familiar with the matter. The new device could still be delayed beyond this year - indeed, the company had  a cellular-capable smartwatch last year. Apple, Intel and the carriers declined to comment.
+While the Apple Watch remains a small part of Apple's overall revenue, chief executive officer Tim Cook said last week it's the best-selling smartwatch "by a very wide margin". Sales of the device grew more than 50 per cent in the third quarter, Cook added.
+In the larger wearables category, which includes cheaper fitness bands, Apple ranks third behind Xiaomi and Fitbit, according to research firm Strategy Analytics. Apple does not break out sales numbers for the Watch like it does for iPhones, iPads, and Macs.
+
+'Game changer'
+
+Making the Apple Watch more of a standalone device may boost sales of the product. "It would be a game changer," said Gene Munster, co-founder of Loup Ventures and a long-time Apple analyst. "If they could deliver an experience that isn't tethered to an iPhone, it could kick start a new direction for the business."
+Still, he's concerned about battery life in such a device.
+Last year, Apple took a step toward making the Apple Watch a more independent device by selling some new . This allows the device to accurately track distance travelled by wearers when they leave their iPhones behind on walks or runs.
+
+The company had planned to release an LTE-capable model last year, but chose to hold off due to battery life issues, Bloomberg News reported at the time. Cramming an LTE radio into a device as small as a watch remains a challenge, but Apple has been exploring ways to improve battery life, people familiar with the company's work said.
+As well as adding a cellular chip to the Apple Watch, the Cupertino, California-based company is planning software changes for the device. WatchOS 4 is coming in the fall with more Siri voice-enabled features, the ability to connect to gym equipment, send payments in iMessage and display news stories, Apple said in June at its Worldwide Developers Conference.
+Apple announced the Apple Watch Series 2 alongside the iPhone 7 line in September. The company plans to debut three new iPhone models this fall, including one with a revamped design and a 3-D facial recognition scanner for unlocking the device, Bloomberg News has reported.
+Apple could choose to debut its new Watch models alongside the new iPhone like it did last year. Apple also plans to release its Siri-driven HomePod speaker and the iMac Pro desktop computer in December, the company said in June.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qualcomm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iMac Pro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Watch Series 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE Apple Watch</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Worldwide Developers Conference</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Loup Ventures</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xiaomi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Scott Moritz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siri-driven HomePod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Strategy Analytics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WatchOS 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>11</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iMessage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg News</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gene Munster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Watch</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ian King</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE-capable</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Gurman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cupertino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>16</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Fitbit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

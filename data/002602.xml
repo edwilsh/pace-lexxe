@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401366266334468</docid>
+  <date>31/07/2017</date>
+  <time>11:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/asia-stocks-subdued-after-missile-test/news-story/e5baa7ea5d9a6ab719368af72bc90909</url>
+  <title>HSBC, miners lift European shares</title>
+  <content>
+Forecast-beating profits at HSBC and strong gains for miners on the back of a two-year high in copper prices have lifted European shares while the US dollar lifted off 13-month lows against other major currencies.
+HSBC, Europe's biggest bank, unveiled a five per cent rise in profits in the first six months of this year and its third share buyback in a year, underlining progress in its turnaround plan.
+Its shares gained as much as three per cent in London, helping lift an index of European banks by 0.2 per cent .
+However, the standout performers were mining companies, with an index of their shares up 1.3 per cent, as industrial metal copper hit a fresh two-year peak after Chinese data showed that while manufacturing growth cooled slightly this month a push on infrastructure by the government kept construction humming..
+Copper on the London Metal Exchange last traded at $US6392 ($A8012) a tonne, up 1.0 per cent on the day, having risen as high as $US6430 ($A8059).
+The pan-European STOXX 600 share index rose 0.3 per cent, having fallen for the last two trading days.
+Shares of tobacco companies underperformed again after the US Food and Drug Administration proposed on Friday to cut nicotine in cigarettes to non-addictive levels.
+British American Tobacco fell 3.6 per cent, after dropping 6.8 per cent on Friday, and Imperial Brands fell 4.7 per cent.
+Asian shares rose as investors largely shrugged off a new North Korean missile test, focusing instead on a data-heavy week ahead.
+MSCI's broadest index of Asia-Pacific shares outside Japan reversed early losses to rise 0.4 per cent.
+Chinese shares rose, buoyed by several leading companies' forecasts for strong mid-year earnings. The blue-chip index rose 0.5 per cent and the Shanghai Composite both rose 0.6 per cent.
+North Korea conducted a missile test late on Friday that it said proved its ability to strike the US mainland. The US responded by flying two bombers over the Korean peninsula on Sunday.
+But early jitters dissipated somewhat, with the Korean won reversing losses. The dollar was down 0.4 per cent at 1,119 won, after jumping almost 0.7 per cent on Friday. South Korea's KOSPI rose 0.1 per cent.
+The dollar dipped against the safe-haven yen, which traded at 110.54 to the greenback, up 0.1 per cent on the day.
+The euro fell 0.2 per cent to $US1.1730 ($A1.4702), little moved by an unexpected acceleration in core inflation to a four-year high this month.
+The measure is closely watched by the European Central Bank, which has said it will debate later in the year whether to begin winding back its bond-buying stimulus program. Its overall inflation target is close to but below 2 per cent.
+Yields on some lower-rated bonds fell after the data. In normal circumstances higher inflation would push yields higher.
+"It's a step in the right direction but not quite enough to make the market reconsider bond prices," said Mizuho strategist Antoine Bouvet.
+Sterling fell 0.1 per cent to $US1.1316 but stayed near a 10-month high, with investors eyeing "Super Thursday" when the Bank of England announces its latest policy decision and quarterly inflation report.
+"We expect elements of the rate decision and Inflation Report to contain hawkish tilts, thereby providing some support to the pound," wrote BMO currency strategists in a weekly note to clients on Monday.
+The dollar index, which measures it against a basket of major currencies rose 0.2 per cent but held close to 13-month lows touched last week on uncertainty over whether US President Donald Trump will be able to push through his economic agenda and questions over the pace of US interest rate rises.
+Such concerns have seen speculative bets against the dollar rise to their highest since early 2013, by one broad measure.
+"Our short-term positions indicators are flashing red in terms of extreme bets against the dollar, especially against the euro and the Aussie and in this kind of environment, a small negative surprise in data elsewhere can trigger a washout," said Viraj Patel, an FX strategist at ING in London.
+Oil prices hit two-month highs. An OPEC announcement of a meeting next week of producers from the group and elsewhere to discuss compliance with their oil supply reduction pact added to upward pressure on prices from a threat of US sanctions against Venezuela.
+This was in response to Sunday's election of a constitutional super-body that Washington has denounced as a "sham" vote.
+Brent crude last traded down five cents at $US52.47 a barrel, having risen as high as $US52.60 earlier on Monday.
+"The sentiment in the oil market became very bullish after OPEC said it will meet with partners in Abu Dhabi next week to discuss compliance," said Frank Schallenberger, head of commodity research at LBBW.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London Metal Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Frank Schallenberger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sterling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European STOXX 600</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US52.47</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US52.60</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Inflation Report</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mizuho</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Korean</name>
+    <count>2</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Antoine Bouvet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>British American Tobacco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Viraj Patel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Food</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea's KOSPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US6430</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US6392</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Imperial Brands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abu Dhabi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US1.1316</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Drug Administration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Super Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>OPEC</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>LBBW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.1730</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398656141927544</docid>
+  <date>31/07/2017</date>
+  <time>01:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4822214/additional-security-at-newcastle-airport/?cs=305</url>
+  <title>'Additional security' at Newcastle Airport</title>
+  <content>
+Increased security: Newcastle Airport has asked passengers to arrive early for their flights, after a series of arrests in Sydney on the weekend.
+
+Passengers travelling from Newcastle Airport are being urged to arrive well ahead of time after arrests in Sydney in connection with an alleged terrorist plot.
+A Newcastle Airport spokesperson posted a message to travellers on Facebook on Monday morning asking passengers to arrive early enough to allow for "additional security measures".
+
+On Twitter, responding to a question about the possibility of increased wait times, an airport spokesperson wrote: "Yes, we have increased security measures in place".
+"Passengers may experience slight delays at the screening point and should allow for this."
+Newcastle Airport has been contacted for further comment.
+
+Four people were arrested during a series of raids across Sydney on Saturday, after authorities received a tip-off about plans to allegedly blow up a passenger plane after it left Sydney Airport.
+
+at Sydney Airport's domestic terminal on Monday morning.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Airport</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>-9</score>
+  </sindex>
+  </sindexList>
+</snippet>

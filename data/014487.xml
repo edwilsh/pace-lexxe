@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422544750471008</docid>
+  <date>03/08/2017</date>
+  <time>22:01</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/pm-to-eyeball-energy-bosses-over-bills/news-story/de796111eef0b83222624978c9434414</url>
+  <title>PM to eyeball energy bosses over bills</title>
+  <content>
+Energy Minister Josh Frydenberg is hopeful the federal government won't have to threaten energy chiefs with legislation in order to force them to rein in rising power prices.
+Prime Minister Malcolm Turnbull has summoned eight electricity bosses to a meeting in Canberra next week.
+"We will look at regulatory options... but in the first instance the prime minister wants to eyeball the retailers and to tell them that we all need to do better to ensure particularly vulnerable households... get the best possible deals," Mr Frydenberg told ABC Radio on Friday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Energy Minister Josh Frydenberg</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Frydenberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

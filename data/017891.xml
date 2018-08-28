@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429128935447709</docid>
+  <date>04/08/2017</date>
+  <time>23:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/chart-showing-the-top-ten-global-android-app-downloads-2017-8</url>
+  <title>WhatsApp was the most downloaded app for Android last month  --  see the other top ten</title>
+  <content>
+When it comes to screen real estate on Android devices, Facebook and its family of apps rule the roost. As seen in this chart from , Facebook is far ahead of the competition in Android app downloads. The top 4 most downloaded apps are all owned by Facebook. Combined, these Facebook apps racked up 297 million downloads last month.
+
+According to , WhatsApp is the breakaway star of the group with 103.64 million downloads. Facebook acquired the messaging service in February of 2014 for $US19 billion. The app has grown even bigger since the acquisition. In a  from July 26, WhatsApp said that it had 1 billion daily active users sending 55 billion messages every day.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US$19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

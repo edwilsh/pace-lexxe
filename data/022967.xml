@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443199248446028</docid>
+  <date>07/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/nt-police-in-standoff-with-woman-at-wanguri-property/news-story/ddb456f879e072dfa93d917dbf13acf1</url>
+  <title>Police in standoff with mother in Darwin</title>
+  <content>
+HEAVILY armed police are attempting to end a standoff with a mother who is refusing to leave a Wanguri home with her children.
+Police blocked off Magaritis St late this morning as they attempted to negotiate with the mother.
+Five Territory Response Group members dressed in army fatigues with firearms and two plain clothed officers are at the property.
+It is understood there are children inside the home.
+An NT Police spokesman said the woman was suffering from mental health issues.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Magaritis St</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Territory Response Group</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NT Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wanguri</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443538550868188</docid>
+  <date>07/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/mod-resumes-drilling-at-t3-copper/news-story/af9e84e764842b70da04830a08ac45a7</url>
+  <title>MOD resumes drilling at T3 copper</title>
+  <content>
+MOD Resources has resumed drilling today at the T3 copper project following approval of the environmental management plan.
+The plan will enable an unlimited number of RC and diamond drill holes to be drilled up to December 2018 within a 48km2 farm block surrounding the T3 project.
+T3 forms part of the JV between MOD (70%) and AIM listed Metal Tiger (30%) and includes an extensive licence holding in the central and western parts of the Kalahari copper belt.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>JV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>T3</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>December 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MOD (70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kalahari</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metal Tiger (30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

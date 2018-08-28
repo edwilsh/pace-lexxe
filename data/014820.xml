@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423403743944756</docid>
+  <date>04/08/2017</date>
+  <time>01:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/webjet-completes-1st-stage-of-cap-raising/news-story/1fe648693627dcb8dbcab64f496824bd</url>
+  <title>Webjet shares up after $93m cap raising</title>
+  <content>
+Shares in online travel agency Webjet are sharply higher as the company resumes trading after generating about $93 million from the institutional stage of its capital raising.
+
+Webjet shares were trading at $12.31, at 1030 AEST, up 12.5 per cent on their price when they entered a two-day trading halt for the first phase of the entitlement offer.
+
+The company says it has had a 98 per cent take-up rate for the $10 per new share institutional capital raising segment, with the retail component set to open on August 10.
+
+Webjet plans to raise about $164 million in total to support its acquisition of European travel business JacTravel Group.
+
+Chairman Roger Sharp says acquiring JacTravel, a business-to-business operation, will support Webjet's aim to become a more globally diversified travel player.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>JacTravel</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>JacTravel Group</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>August 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chairman Roger Sharp</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

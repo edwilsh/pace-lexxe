@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418632035183572</docid>
+  <date>03/08/2017</date>
+  <time>06:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/business/breaking-news/shares-hit-fresh-record-xero-at-new-high/news-story/0371bf2663dbce336e7f4baed0ac13f3</url>
+  <title>Shares hit fresh record, Xero at new high</title>
+  <content>
+New Zealand shares hit a fresh record on Thursday, with retailers Kathmandu and Briscoe gaining on positive earnings, while Xero hit a new high.
+The S&P/NZX50 Index rose 5.44 points, or 0.07 per cent, to 7753.75. Within the index, 30 stocks rose, 12 fell and eight were unchanged. Turnover was $225.4 million.
+"We're up nearly 13 per cent for the year, a very good performance and we've set up some quite high expectations going into reporting season," said Mark Lister, head of private wealth research at Craigs Investment Partners.
+"People are watching the global reporting season continue. It's gone very well and our reporting season has kicked off in a minor way but really gets going the week after next."
+Freightways was the best performer, up 2.1 per cent to $8.15, while Vector gained 1.8 per cent to $3.40 and CBL Corp gained 1.6 per cent to $3.75.
+Kathmandu rose 0.9 per cent to $2.28. Full-year profit rose as much as 13 per cent to $37.4 million after a successful winter sales season and increased revenue from Australia.
+Kathmandu shares have climbed 29 per cent in the past 12 months, outpacing a 6.4 per cent gain for the NZX 50 Index.
+Xero rose 0.5 per cent to $27.80, marking eight consecutive sessions of gains and another record price.
+"It continues to run very well and has had a pretty strong week - up 7 per cent so far," Mr Lister said. "It's up 59 per cent this year, in the top three stocks for the NZX50 and having another good day today."
+TradeMe Group was the worst performer, down 4.2 per cent to $5.23.
+Outside the benchmark index, Briscoe Group gained 0.7 per cent to $4.09. The retailer saw slower sales growth than expected in the second quarter.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>CBL Corp</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Briscoe</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P/NZX 50 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Briscoe Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Lister</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Craigs Investment Partners</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZX 50</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>TradeMe Group</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kathmandu</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Freightways</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NZX 50 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416140954110325</docid>
+  <date>02/08/2017</date>
+  <time>21:10</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/03/one-nation-broke-electoral-laws-report</url>
+  <title>One Nation broke electoral laws: report</title>
+  <content>
+One Nation's Queensland branch broke electoral laws by failing to keep proper records, the ABC says, citing documents relating to a formal probe.
+
+18 MINS AGO  UPDATED 4 MINS AGO
+
+One Nation's Queensland branch has breached electoral laws by failing to keep proper records, the ABC reports.
+
+The broadcaster says it has obtained documents that outline the party's breaches after an investigation by the Electoral Commission of Queensland.
+
+It says the party was found to have breached spending disclosure rules, failed to lodged returns on time, and didn't notify donors of their disclosure requirements, with the ECQ ordering One Nation to improve its systems.
+
+AAP has contacted the commission and One Nation for comment.
+
+One Nation staff had tried to explain the party's failings by pointing to computer problems, and the closure of its Brisbane office during Cyclone Debbie, the ABC reported.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UPDATED 4 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>One Nation</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cyclone Debbie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commission of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nation's Queensland</name>
+    <count>2</count>
+    <score>-7.5</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ECQ</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

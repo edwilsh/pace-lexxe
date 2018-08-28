@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400202330175760</docid>
+  <date>31/07/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-07-31/charges-against-dismissed-in-rabaul-queen-case/8760926</url>
+  <title>Charges against dismissed in Rabaul Queen case</title>
+  <content>
+In PNG, the owner and master of the ferry Rabaul Queen have been found not guilty of the manslaughter of 140 passengers.
+The sinking of the Rabaul Queen in rough seas off Lae in 2012 is the country's worst maritime disaster.
+Following the damning findings of a Commission of Inquiry, the ship's owner Peter Sharp and master Anthony Tsiau were both charged with 140 counts of manslaughter.
+The National Court agreed with the prosecution that the ferry was overloaded, lacked adequate safety management and the crew were unqualified.
+But our Pacific Affairs Correspondent Liam Fox tells Bruce Hill the judge disagreed that these factors contributed to the disaster, saying it was three large waves which struck the ferry within 20 seconds that caused it to capsize and sink.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lae</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>National Court</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Sharp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Affairs Correspondent Liam Fox</name>
+    <count>1</count>
+    <score>-0.2</score>
+  </sindex>
+  <sindex>
+    <name>Rabaul Queen</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hill</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Commission of Inquiry</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Tsiau</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416742249543193</docid>
+  <date>02/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/09/12/icac-findings-corruption</url>
+  <title>ICAC finds Former NSW ministers corrupt</title>
+  <content>
+Three former NSW Labor ministers engaged in serious corrupt conduct, the Independent Commission Against Corruption has found.
+Tony Kelly, Eddie Obeid and Joe Tripodi were found to have engaged in corruption, according to findings from ICAC's investigation, which were released this morning.
+The long-awaited report into the controversial water infrastructure company Australian Water Holdings made no corrupt findings against federal senator Arthur Sinodinos.
+
+The trio of former ministers were found to be corrupt in relation to their actions concerning a public-private partnership proposal by the water company, the ICAC found.
+The inquiry, codenamed Operation Credo, investigated the connections between members of jailed former Labor minister Eddie Obeid's family and the water infrastructure company.
+It also laid bare Australian Water's ties to high-profile Liberal figures, including Sinodinos, a former non-executive chairman of the company and prominent Liberal Party fundraiser Nick Di Girolamo.
+
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Arthur Sinodinos</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Water Holdings</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Former NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Operation Credo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Water</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sinodinos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Di Girolamo</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NSW Labor</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Independent Commission Against Corruption</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liberal Party</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Eddie Obeid</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ICAC</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Joe Tripodi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

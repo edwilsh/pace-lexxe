@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409449394938146</docid>
+  <date>01/08/2017</date>
+  <time>19:12</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/tales-from-the-gum-tree-close-to-readers-hearts/news-story/3a66c28640cdbf03a17bde446781239c</url>
+  <title>Enjoy great family reading, by gum</title>
+  <content>
+HUGH Hayward is well on his way to passing down his favourite tales to his daughter Marlowe.
+The two-year-old is enjoying classics such as Tales From The Gum Tree, which features a set of characters close to Mr Hayward's heart.
+"I remember the characters from when I was a kid," he said.
+"It's nice to be able to share these stories and have that nostalgia. The good old days and values are still around to be passed on to our kids."
+For your copy of Tales From The Gum Tree collect your token from today's Cairns Post and redeem it at participating newsagents, Woolworths and IGA stores for $2.30.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marlowe</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iGA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HUGH Hayward</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gum Tree</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tales From</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hayward</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

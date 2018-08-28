@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441953707913280</docid>
+  <date>07/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/asia-stocks-us-dollar-up-on-jobs-data/news-story/c4691f3bf2a5718adc6a3be806b60c1b</url>
+  <title>Asia stocks, US dollar up on jobs data</title>
+  <content>
+Asian stocks are advancing, taking their cue from Wall Street's strong end to the previous week, while the US dollar finally pulled ahead after stronger-than-expected jobs growth in July.
+MSCI's broadest index of Asia-Pacific shares outside Japan gained 0.2 per cent in early trade on Monday.
+Japan's Nikkei added 0.5 per cent.
+South Korea's KOSPI climbed 0.3 per cent, while Australian shares jumped 0.8 per cent.
+The US dollar steadied early on Monday following strong gains on Friday after data showed US nonfarm payrolls rose by 209,000 jobs last month, and June's employment gain was revised higher.
+Growing signs of labour market tightness offer Federal Reserve policy makers some assurance that inflation will gradually rise to the central bank's 2 per cent target, and likely clear the way for a plan to start shrinking its massive bond portfolio.
+The US dollar was also buoyed by comments from National Economic Council director Gary Cohn that the US administration is working on a tax plan that would bring corporate profits back to the United States.
+The US dollar index, which tracks the greenback against a basket of six global peers, inched back almost 0.1 per cent to 93.462. It rallied 0.76 per cent on Friday, its biggest one-day gain this year.
+The US dollar also pulled back slightly against the euro to $US1.17805 per euro, after surging 0.8 per cent on Friday.
+The greenback rose 0.1 per cent to 110.78 yen, extending Friday's 0.6 per cent gain.
+"The most logical view here is the moves on Friday were clearly just a sizeable covering of USD shorts, from what was one of the biggest net short positions held against the USD for many years," Chris Weston, chief market strategist at IG in Melbourne, wrote in a note.
+For the US dollar rally to gain momentum, the market needs to change its interest rate pricing, and that hasn't happened yet, Weston added.
+Markets are pricing in an even chance of an interest rate hike in December.
+The lift in sentiment from Friday's jobs data also supported Wall Street. The Dow closed 0.3 per cent higher, its eighth consecutive record high. The S&P and Nasdaq ended the session up 0.2 per cent.
+In commodities, oil prices retained gains as the strong jobs data bolstered hopes for growing energy demand.
+US crude was little changed at $US49.55 a barrel early on Monday, after rising 1.1 per cent on Friday.
+Global benchmark Brent was also steady holding on to Friday's 0.8 per cent gain.
+The stronger US dollar weighed on gold, with the precious metal flat at $US1,257.31, failing to make up any of Friday's 0.8 per cent loss.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday's 0.6</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday's 0.8</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan's Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Economic Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USD</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.17805</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gary Cohn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>6</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>Weston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US49.55</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea's KOSPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Weston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,257.31</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416871098564797</docid>
+  <date>03/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/nufarms-acquisition-hunt-not-over-macquarie-securities-20170802-gxnruo</url>
+  <title>Nufarm's acquisition hunt not over: Macquarie Securities</title>
+  <content>
+Agricultural chemicals supplier Nufarm is well positioned to embark on a $500 million acquisition over the next two-to-three months. 
+That's the view of analysts at Macquarie Securities who say the "hunt for strategic assets" is not over at Nufarm.
+"At the current share price, a $500 million deal at eight times trailing EBITDA would be 5 per cent earnings-per-share (EPS) accretive in year one, in our view," they said in a note to clients.
+"We continue to think that the northern hemisphere would be more of interest to NUF from a strategic perspective."
+
+ The company has been linked to businesses being divested globally including ChemChina's crop protection assets, but is said to have missed out on assets being sold to get Dow Chemical and DuPont's $US130 billion merger across the line. 
+
+"We think it's too early to give up on M&A optionality. This coupled with NUF's ongoing effort to rationalise and improve the business is likely to drive solid growth for NUF over the medium term," Macquarie analysts said.
+The broker has a Nufarm price target of $9.90 and an "outperform" rating on the stock.
+Despite Macquarie's bullish view, the broker trimmed its 2017-2019 EPS estimates for Nufarm due to unfavourable weather in Australia and the US, including below average rainfall in some regions.
+Nufarm
+
+Revenue for the six months ended January 31 rose to $1.36 billion,helping the company return to the black from a $91 million loss in the prior corresponding period.
+Nufarm reports full-year earnings in late September.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$130</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Securities</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Chemical</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ChemChina</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>DuPont</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPS</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Nufarm</name>
+    <count>7</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

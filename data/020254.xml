@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437396747565820</docid>
+  <date>06/08/2017</date>
+  <time>07:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/federal-politics/political-news/politics-in-focus-how-we-did-it-20170806-gxqf7q.html</url>
+  <title>Politics in focus: how we did it </title>
+  <content>
+Focus groups are a widely used technique to gain an understanding of the behaviour, attitudes and thoughts of Australian voters, drawing out responses beyond the yes and no answers of phone polling.
+The four sessions in Sydney and Melbourne covered a range of topics and questions - including the participants' approach to and understanding of politics, leadership and policy issues - and lasted 90 minutes. All participants were drawn from marginal electorates and consider themselves undecided voters.Photo: Rob Homer
+On Monday, July 31, in Sydney, people over the age of 44 who voted Liberal at the 2016 election were interviewed first. They were followed by a group under the age of 45 who voted Labor in 2016.
+The following day, in Melbourne, the positions were reversed. The first group were aged 45 years and over, and voted Labor at the 2016 election. The second group were aged 18-45 and voted Liberal in 2016.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rob Homer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

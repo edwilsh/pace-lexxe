@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400936769596705</docid>
+  <date>31/07/2017</date>
+  <time>10:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/fundies-brace-for-rxp-services-raising-20170731-gxmks7</url>
+  <title>Fundies brace for RXP Services raising </title>
+  <content>
+Fund managers have been asked to take a fresh look at technology and digital services company RXP Services Ltd as it considers going cap in hand to investors.
+Sources said RXP Services was working with Shaw and Partners on a potential equity raising, which was slated to be launched as early as Tuesday morning. 
+The company is expected to seek to raise $18 million via a placement at 80¢ a share.
+The stock closed at 89¢ on Monday.
+
+RXP Services reported $70.6 million revenue for the six months to December 31 and $9.2 million in earnings before interest, tax, depreciation and amortisation. 
+
+The company specialises in digital consulting, which it says helps clients embrace the growing digital economy. 
+Its biggest shareholders include chief executive officer Ross Fielding, Oaktel Investments and Regal Funds Management. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ross Fielding</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shaw</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RXP Services</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Oaktel Investments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RXP Services Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 31</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Regal Funds Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

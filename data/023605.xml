@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444530688330671</docid>
+  <date>07/08/2017</date>
+  <time>11:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/outback-survivor-anthony-collis-survived-on-bugs-flowers/news-story/c3e123a4939d7c51600a2e4be1760005</url>
+  <title>Outback survivor credits Bear Grylls</title>
+  <content>
+THE Perth man who almost perished in the WA outback has credited skills he learnt on Bear Grylls TV shows for his survival.
+The Perth man who almost perished in the WA outback has credited skills he learnt on Bear Grylls TV shows for his survival.
+Anthony Collis says he ate flowers and bugs during the three days he spent lost in the Pilbara.
+Mr Collis buried himself in red dirt and tree branches - after watching Bear Grylls do the same on TV - after his ute got bogged on Thursday afternoon.
+Mr Collis had been on a trip of a lifetime with his girlfriend Debbie.
+But it's believed an argument saw the pair separate, with Debbie wandering into a miners camp at Georgia Bore.
+The alarm was raised for Mr Collis at first light on Friday, with the 32-year-old found in bush less than 3km from his ute on Sunday morning.
+"Because of the way he secured himself (lying in the dirt), he didn't show up (on heat seeking data)," senior sergeant Bob Scott said.
+"The indications were that he wasn't in that search area or he was dead."
+
+Despite the trip almost costing Mr Collis his life, he plans to head back out into the outback to retrieve his bogged ute.
+But this time, police will be accompanying him.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mr Collis</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Pilbara</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Collis</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Georgia Bore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Debbie</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bob Scott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bear Grylls TV</name>
+    <count>2</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bear Grylls</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

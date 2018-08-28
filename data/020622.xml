@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439204928814126</docid>
+  <date>06/08/2017</date>
+  <time>14:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/novotel-darwin-atrium-forced-to-move-darwin-cup-night-guests-to-airport-hotel-after-computer-glitch/news-story/e05a61733d9fab6b0b1ac70453693240</url>
+  <title>Bookings overload strands Darwin Cup visitors</title>
+  <content>
+A "GLITCH" in a hotel booking system has left visitors without city accommodation on Darwin Cup night.
+Wendy Baxter and her husband had booked through an online booking agency for four nights at the Novotel Darwin Atrium hotel leading up to today's Darwin Cup, before realising they would need to book for the Monday night as well.
+To add the night to their booking, they rang the hotel at the start of June and the $355 room was confirmed.
+However, last week the couple received a call to say there had been a "glitch" in the computer system and they would need to move to the Novotel's airport hotel for their last night tonight.
+"They rang me (last Wednesday) morning to say they had had a computer glitch and had no more rooms," Ms Baxter said.
+"They said they'd rebooked us at the sister hotel near the airport but we don't have a car, we don't want to stay near the airport."
+Ms Baxter also couldn't confirm whether her original booking was still valid.
+"To make it worse, we can't get a refund and book somewhere else because the entire city is booked out," she said.
+"There's only one hotel that has a room for $799 a night left - or there are hostel rooms but my husband wouldn't even think about going to a hostel."
+Novotel Darwin Atrium general manager Zayne Boon said some of the computer -interfaces hadn't worked -together.
+"This is the first time in 30 years, so it's a very once off thing," he said.
+"We've only had a couple of people at this stage."
+Mr Boon said affected guests would be reimbursed the difference between the prices of the rooms at the different hotels.
+The changes have affected some guests for both tonight and tomorrow night.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin Cup</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Novotel Darwin Atrium</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ms Baxter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wendy Baxter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Boon</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Novotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zayne Boon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

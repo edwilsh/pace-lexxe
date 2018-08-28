@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427904869750671</docid>
+  <date>04/08/2017</date>
+  <time>18:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-05/lucifer-heatwave-holds-italy-eastern-europe-in-fiery-grip/8776788</url>
+  <title>Two dead as 'Lucifer' heatwave holds Italy, eastern Europe in fiery grip</title>
+  <content>
+Related Story:
+
+Related Story:
+
+Swathes of southern and eastern Europe have sweltered in temperatures above 40 degrees Celsius in a heatwave nicknamed "Lucifer", which has killed at least two people across the region.
+Italy and the Balkans were worst affected, though areas as far north as southern Poland also basked in abnormally hot temperatures, and European weather hub Meteoalarm issued its highest grade "red" warnings for 10 countries.
+At least two people have died from the heat - one in Romania and one in Poland - and many more have been taken to hospital suffering from sunstroke and other heat-related conditions.
+In Albania, 300 firefighters and soldiers struggled to contain as many as 75 forest fires and the country asked the European Union for emergency help.
+Firefighters were also busy in Serbia, Bosnia, Macedonia and Croatia, and authorities advised people to stay indoors and increase their water intake.
+Temperatures were expected to stay around 40 degrees Celsius into next week.
+
+Wine growers in Italy have started gathering the grape harvest weeks earlier than usual due to the extreme heat.
+Carlo Petrini, founder of the Slow Food movement, wrote in La Stampa newspaper that the grape harvest had never started before August 15 in living memory.
+"The health of the grapes is severely tested by this weather," Mr Petrini wrote, adding that growers ran the risk of finding the fruit "cooked by the sun and the burning heat".
+Italian authorities have issued weather risk warnings for 26 cities, including tourist hubs Venice and Rome, where many of the fountains have been turned off due to a lengthy drought.
+The world-famous Uffizi art galleries in Florence had to shut temporarily on Friday when the air conditioning system broke down, their director told ANSA news agency.
+
+Bosnian officials said the heatwave and drought had nearly halved agricultural output, which accounts for 10 per cent of the country's economic output.
+Neighbouring Serbia reported a similar situation and experts said drought could slash corn and soybean production by a third.
+In neighbouring Croatia the heatwave and peak tourist season has driven power demand and spot prices to record levels, officials said on Friday.
+Reuters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Serbia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Venice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bosnian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lucifer</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bosnia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Uffizi</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>La Stampa</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Poland</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Romania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Slow Food</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carlo Petrini</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Meteoalarm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ansa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balkan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macedonia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>August 15</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Petrini</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Albania, 300</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Celsius</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Croatia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Florence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

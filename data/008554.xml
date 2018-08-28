@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412361382813138</docid>
+  <date>02/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/university-of-queensland-resident-tests-positive-for-meningococcal/news-story/4923f09d10e0453ff315341ca5aa1a73</url>
+  <title>Teen positive for meningococcal</title>
+  <content>
+A TEENAGE resident of a student college at the University of Queensland's St Lucia campus in Brisbane's west has tested positive to meningococcal disease.
+Close contacts of the 18-year-old woman have been given antibiotics to help reduce the risk of the bacteria being transmitted further.
+The infection, described as "severe, but uncommon", is difficult to contract without close and prolonged contact with someone who has the bacteria.
+Although most people with the bacteria remain well, they can spread the germ to others, who may develop symptoms. At any given time, meningococcal bacteria are carried harmlessly at the back of the throat or in the nose in about 10 per cent of the community.
+Infection occurs when meningococcal bacteria invade the body from the throat or nose.
+Symptoms can include a high fever, vomiting, fatigue, joint pain, a stiff neck and a purple rash that spreads quickly.
+So far this year in Queensland, 37 patients have tested positive to meningococcal disease, compared with 45 for the whole of last year.
+The main strains of meningococcal bacteria that cause disease are A, B, C, W and Y.
+A vaccine against the type C strain of meningococcal bacteria has been given to children at 12 months of age as part of the Federal Government's free immunisation program since 2003.
+In Queensland, vaccinations against meningococcal A, C, W and Y strains are available for free to all Year 10 students in 2017 through the school immunisation program and to young people aged 15 to 19 through their doctor or immunisation provider until May 2018.
+A vaccine against meningococcal B is available but this is not included as part of free immunisation programs.
+Details of the strain in the latest case are unknown at this stage.
+Meningococcal disease occurs in two main forms, meningococcal meningitis, when the bacteria infect the lining around the brain and spinal cord, and meningococcal septicaemia, when the bacteria invade the bloodstream and cause blood poisoning.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>University of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>W</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Y</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>St Lucia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Year 10</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

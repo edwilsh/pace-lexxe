@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410218194098601</docid>
+  <date>01/08/2017</date>
+  <time>22:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/iron-ore-markets-have-calmed-down-after-a-rollicking-start-to-the-week-2017-8</url>
+  <title>Iron ore markets have calmed down after a rollicking start to the week</title>
+  <content>
+The iron ore rally took a breather on Tuesday, falling modestly after storming higher to start the week.
+
+According to Metal Bulletin, the spot price for benchmark 62% fines fell 0.2% to $73.56 a tonne, pausing after logging a 7.2% gain on Monday.
+
+Both lower and higher grades also weakened during the session.
+
+The price for 58% fines lost 0.6% to $48.76 while ore with 65% Fe content fell by a larger 1% to $89.00 a tonne.
+
+The slide in spot markets mirrored a reversal in Chinese futures which finished trade well off their intra-session highs.
+
+However, both rebar and iron ore futures eked out modest gains overnight, providing no real clue as to what direction spot markets will move on Wednesday.
+
+Here's the final scoreboard for Tuesday's night session.
+
+SHFE Rebar		¥3,732	,	0.43%
+DCE Iron Ore		¥569.00	,	-0.78%
+DCE Coking Coal		¥1,339.50	,	0.64%
+DCE Coke		¥2,068.00	,	0.88%
+
+Rebar futures closed Tuesday's day session at 3,698 yuan, while iron ore futures finished at 566.5 yuan.
+
+Trade in Chinese commodity futures will resume at 11am AEST.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DCE Coke		¥2,068.00	,	0.88</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metal Bulletin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DCE Coking Coal		¥1,339.50	,	0.64</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DCE Iron Ore		¥569.00	,	-0.78</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SHFE Rebar		¥3,732	,	0.43</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

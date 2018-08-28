@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424181133037012</docid>
+  <date>04/08/2017</date>
+  <time>04:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/oroton-cuts-ties-with-us-retailer-gap/news-story/a5a56556af5dd8d563b26ba68696cc20</url>
+  <title>Oroton cuts ties with US retailer Gap</title>
+  <content>
+Struggling luxury handbag retailer Oroton will close its Gap stores after deciding to cut ties with the US apparel giant.
+Oroton says it is too early to quantify the financial impact of the Gap store closures which it expects will be completed by January 31, 2018.
+"However, this decision will end the group's future investment in the franchise, limiting related future losses," a company statement on Friday said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oroton</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>January 31</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

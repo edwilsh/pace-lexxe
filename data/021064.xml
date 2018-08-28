@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439591475874245</docid>
+  <date>06/08/2017</date>
+  <time>16:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/3865694/two-quantum-computing-tribes-university-of-sydney-v-unsw/?cs=4173</url>
+  <title>Two quantum computing tribes: University of Sydney v UNSW</title>
+  <content>
+There are two great teams in Sydney exploring ways to build quantum computers.
+
+Professor Michelle Simmons explains the operation of a new scanning tunnelling microscope to the Prime Minister, Malcolm Turnbull (right) and Minister for Science, Christopher Pyne (centre). Photo: Marcus Strom
+Leaders: Michelle Simmons, Andrew Dzurak, Andrea Morello, Sven Rogge
+Research team: 180
+New investment: $25m from UNSW for lab extension; $26m from federal government's innovation agenda; Commonwealth Bank $10m; Telstra $10m
+Approach: UNSW as centre based on phosphorous qubits in silicon. Collaboration with other centres globally when needed.
+University of Sydney Centre for Engineered Quantum Systems
+
+Professor David Reilly in his University of Sydney lab.  Photo: Nick Moir
+Leaders: David Reilly, Stephen Bartlett, Andrew Doherty, Michael Biercuk, Steven Flammia.
+Research team: 72
+New investment: $150m Nanoscience Hub launched this month, including $40m from federal government; ongoing collaboration and support from Microsoft's Station Q project and US government.
+Approaches: 1) Gallium arsenide qubit system; 2) Topological systems to encode and protect quantum information. Collaboration with University of Copenhagen, TU Delft and Microsoft integral to approach. 3) Ion trap qubits.
+THREE PATHS TO QUANTUM COMPUTING
+Phosphorus in silicon (UNSW)
+Pluses: Long coherence times of single spin qubits (when decoupled from magnetic noise)
+Minuses: Background electronic "charge noise" from impurities difficult to manage; single-atom architecture difficult to "scale up" to big computers
+Gallium arsenide (USyd)
+Pluses: Clean materials system with low background electronic charge noise
+Minuses: Susceptible to magnetic noise
+Ion trapped qubits (USyd)
+Pluses: Very long qubit coherence times (longer than silicon)
+Minuses: Very challenging to "scale up" to large numbers of qubit systems
+
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>TU Delft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Engineered Quantum Systems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Michelle Simmons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Biercuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor David Reilly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra $10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Sydney</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PATHS TO QUANTUM COMPUTING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christopher Pyne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UNSW</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft Station Q</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>USYD</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Steven Flammia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nanoscience Hub</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Bartlett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sven Rogge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Doherty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank $10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Dzurak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Moir</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Copenhagen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>David Reilly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michelle Simmons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Strom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrea Morello</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399386286377853</docid>
+  <date>31/07/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4823343/epa-fines-company-with-no-licence-30000/?cs=305</url>
+  <title>EPA fines company with no licence $30,000</title>
+  <content>
+A company which operates out of Kooragang has been fined $30,000 by the Environmental Protection Authority for unlicensed activities.
+Air Liquide Australia Limited was fined for carrying out chemical production and storage activities at its Kooragang and Banksmeadow facilities without holding an environment protection licence. 
+The Protection of the Environment Operations Act 1997 requires premises carrying out certain activities to hold an environment protection licence. This includes any business producing dangerous goods over 1,000 tonnes per year. It also includes companies that store chemicals above specified thresholds.
+"Licences are important tools that help ensure environmental regulation for industries that have potential to impact on the health of the community and environment," EPA Director Hunter Karen Marler said.  
+Air Liquide Australia was processing, storing and then distributing carbon dioxide at its Kooragang premises which it had received from Orica's Ammonium Nitrate Production facility. Carbon dioxide is listed as dangerous goods.  
+At its Banksmeadow facility, the company produces and stores liquefied oxygen, nitrogen, argon and carbon dioxide, all of which are classified as dangerous goods.   
+Ms Marler said Air Liquid Australia holds an environment protection licence for other premises and should have been aware of the need for a licence for these activities. 
+The company has since applied for environment protection licences for each premise. The EPA has issued the company with a licence for its Kooragang operations. The licence application for its Banksmeadow operation is currently being assessed.  
+
+Kooragang Island, as seen from Stockton. Picture Simone De Peak
+</content>
+  <sindexList>
+  <sindex>
+    <name>Environmental Protection Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Marler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Protection of the Environment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPA Director Hunter Karen Marler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Operations Act 1997</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kooragang Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banksmeadow</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Orica's Ammonium Nitrate Production</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air Liquide Australia Limited</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Air Liquid Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPA</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kooragang</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Air Liquide Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simone De Peak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417455214126273</docid>
+  <date>03/08/2017</date>
+  <time>02:16</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/southeast/port-of-brisbane-and-griffith-university-research-studies-whale-interaction-with-ships/news-story/263d473052391677b8704907a45a8c98</url>
+  <title>Whale of a project</title>
+  <content>
+A PROJECT in Moreton Bay is examining the way humpback whales interact with ships.
+Griffith University's Southern Ocean Persistent Organic Pollutants Program and the Port of Brisbane are working together to collect data on the mammals that will help inform a Federal Government-led strategy.
+The information is being collected from other ports across the country. Data about whale numbers and movements during the migration season is overlaid on commercial shipping data.
+Port of Brisbane chief executive Roy Cummins said: "Moreton Bay is one of the region's most spectacular environmental assets and it's essential we support its sustainable use, both in terms of its marine life, as well as its important commercial role.
+"Working together with Griffith University means we can gather data that simply hasn't been available for Moreton Bay before.
+"It will also help inform our own environmental management strategies to help mitigate against potential interaction with commercial vessels in the port's navigational channel."
+He said one of the port's key priorities was to ensure the area was developed in an environmentally sustainable manner.
+"While every year around 2500 commercial ships visit the port, there are thousands of recreational boaties and other vessels who also enjoy the bay all year around," Mr Cummins said.
+The project is expected to finish early next year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Griffith University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roy Cummins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port of Brisbane</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moreton Bay</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government-led</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Griffith University's Southern Ocean Persistent Organic Pollutants Program</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Cummins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

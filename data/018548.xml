@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431727390684780</docid>
+  <date>05/08/2017</date>
+  <time>09:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/19/15/abduction-attempt-sydney-netball-young</url>
+  <title>Young Sydney girl escapes man trying to abduct her</title>
+  <content>
+A nine-year-old girl has fought off a kidnapper who attempted to snatch her from a netball court in Sydney's south in broad daylight.
+The girl was in Wandella Road at Miranda with her family at 9am today when approached by an unknown man who picked her up and began carrying her away.
+She yelled out and broke free before telling her father who alerted police.
+Officers conducted a patrol but could not locate the man, who is described as Caucasian, about 180cm tall and of solid build. He was wearing a black jumper and blue jeans.
+With the area crowded with people at the time of the attack, police are appealing for information.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wandella Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Miranda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caucasians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

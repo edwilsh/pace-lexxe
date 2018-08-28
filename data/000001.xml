@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397578105122432</docid>
+  <date>30/07/2017</date>
+  <time>21:08</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/07/31/vladimir-putin-expels-us-diplomats/</url>
+  <title>Vladimir Putin orders expulsion of 755 US diplomats</title>
+  <content>
+President Vladimir Putin says Russia will expel 755 US diplomatic staff and may consider imposing additional measures against the United States as a response to new US sanctions.
+Moscow ordered the US to cut hundreds of diplomatic staff and said it would seize two US diplomatic properties after the US House of Representatives and the Senate approved new sanctions on Russia.
+Mr Putin told Russia's Vesti TV in an interview released Sunday local time that 755 US diplomatic and technical staff would have to leave Russia by September 1.
+"Because more than 1000 workers - diplomats and support staff - were working and are still working in Russia, 755 must stop their activity in the Russian Federation," he said.
+The new US sanctions were in part a response to conclusions by US intelligence agencies that Russia meddled in the 2016 US presidential election, and to further punish Russia for its annexation of Crimea in 2014.
+Moscow said on Friday that the United States must reduce its diplomatic staff in Russia to 455 people, matching the number of Russian diplomats left in the United States after Washington expelled 35 Russians in December.
+On Friday, an official at the US Embassy, who did not wish to be identified, said the embassy employed around 1100 diplomatic and support staff in Russia, including Russian and US citizens.
+Mr Putin said that Russia could take more measures against the United States but not at the moment.
+He repeated that the US sanctions were a step to worsening relations between the two countries.
+However, he said Moscow and Washington were achieving results on cooperation even "in this quite difficult situation".
+The creation of the Southern de-escalation zone in Syria showed a concrete result of the joint work between the two countries, Mr Putin said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian Federation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Vladimir Putin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Senate</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Putin</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US House of Representatives</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Embassy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia's Vesti TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>9</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Crimea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vladimir Putin</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

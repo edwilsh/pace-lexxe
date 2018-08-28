@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416226853458404</docid>
+  <date>02/08/2017</date>
+  <time>21:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/man-exposes-himself-to-sydney-schoolgirls/news-story/44343b93333d284242eee2fd58e86786</url>
+  <title>Man exposes himself to Sydney schoolgirls</title>
+  <content>
+A man riding an electric scooter has exposed himself twice to two young girls as they played at their school in Sydney's east.
+The man was riding past the school on The Avenue at Randwick on Wednesday afternoon when flashed the girls, aged 7 and 8.
+Police are searching for a man wearing an orange high-visibility shirt and riding a black and silver electric scooter with thick tyres.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Randwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Avenue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

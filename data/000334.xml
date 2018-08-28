@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397840098130704</docid>
+  <date>30/07/2017</date>
+  <time>22:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/clouds-tease-townsville-today/news-story/f294dd587a86ba7288c376197b056351</url>
+  <title>Clouds tease Townsville today</title>
+  <content>
+THERE is a forecast for rain today but the Bureau of Meteorology has dampened down hopes for substantial falls.
+The official prediction has a 40 per cent chance of light showers for Townsville this morning.
+But forecaster Adam Blazak said any rain would be very light and scattering.
+He said little more than 0.2mm of rain was expected.
+"Today you might see cloud around and the odd spit of rain here and there," he said.
+Mr Blazak said there were rain clouds in the area but they were mostly pushing to the north towards Cardwell.
+Today the mercury will peak at 26 degrees, which is about average for July and August.
+There is also a 30 per cent chance of showers on Wednesday but the forecast amount of rain is minimal.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Blazak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cardwell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adam Blazak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

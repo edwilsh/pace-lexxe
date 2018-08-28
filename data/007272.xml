@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410858144237228</docid>
+  <date>02/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/fishing/hopes-fade-for-missing-fisho/news-story/5e0ab151ea9869a5669b32930c0c5f70</url>
+  <title>Hopes fade for missing fisho</title>
+  <content>
+IT is likely a Victorian fisherman missing since last week has died, police say.
+Junichi Yoshimura's kayak was found in Port Phillip Bay on Monday, more than 60km east of the Altona boat ramp where the 41-year-old's car was parked.
+He was believed to have left his Torquay home on Thursday morning to go fishing without a wetsuit or a life jacket. "The weather and the water temperatures would possibly not see a person survive past a day," Water Police Sergeant Louis du Plessis said.
+"So if you're looking at a five-day period, the chances are highly unlikely that we'd find the person alive.
+"Unless he's gone ashore and had hadn't had any public contact, which is unlikely as well." Mr Yoshimura's colleagues reported him missing on Friday after he failed to turn up for his job as a baker.
+This sparked an air and water search, with water police set to continue their recovery operation throughout Monday night.
+A man matching Mr Yoshimura's description was seen fishing in a kayak on Thursday about 3.5km from the parked car, Sgt du Plessis said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Police Sergeant Louis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Phillip Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Yoshimura</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Plessis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Junichi Yoshimura</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sgt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Torquay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411364950386056</docid>
+  <date>02/08/2017</date>
+  <time>02:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/environment/animals/genie-the-calf-is-a-dead-ringer-of-kiss-rocker-gene-simmons-20170802-gxnndp.html</url>
+  <title>Genie the calf is a dead ringer for KISS rocker Gene Simmons</title>
+  <content>
+KISS frontman Gene Simmons is thrilled by a newborn calf born with strikingly similar black-and-white markings to the face paint he wears on stage.
+Simmons tweeted his admiration for the calf on Sunday, saying, "This is real, folks!!!"Photo: Heather Taccetta
+The calf was born on Friday at a ranch near Kerrville in Texas, which is about 96 km northwest of San Antonio.
+Heather Taccetta, who lives at the ranch with her family, said the calf belongs to her grandmother. It's named Genie, in honour of Simmons.
+Taccetta says the calf and its mother are doing fine and that Genie is a family favorite and won't be sold for slaughter.
+
+This is real, folks!!! Calf called Genie is born on Texas ranch and looks EXACTLY like Kiss rocker Gene Simmons
+
+AP 
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Antonio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simmons</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heather Taccetta</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taccetta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kerrville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gene Simmons</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401276072019452</docid>
+  <date>31/07/2017</date>
+  <time>11:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/21/26/two-court-wins-three-losses-nsw-govt</url>
+  <title>Two court wins, three losses: NSW govt</title>
+  <content>
+The NSW government has scored two wins but three losses in court days after it walked away from a policy of forced council amalgamations in Sydney.
+Premier Gladys Berejiklian on Thursday abandoned the government's fight to forcibly merge more than a dozen Sydney councils.
+She cited protracted legal battles with several councils and the uncertainty this was causing ratepayers.
+Local Government Minister Gabrielle Upton on Monday said five cases were decided in court.
+"There were two wins for the government and three losses, showing the uncertain nature of the court process and underlining the government's position to end the uncertainty," she said in a statement.
+Ms Berejiklian in January decided to walk away from planned amalgamations in the bush, but she forged ahead with those in the city.
+On Friday, she ruled out allowing those local governments that had already merged to back out of the deal.
+
+Related Articles
+
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Berejiklian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Government Minister Gabrielle Upton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Gladys Berejiklian</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

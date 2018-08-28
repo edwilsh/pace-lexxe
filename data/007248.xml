@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410810899596373</docid>
+  <date>02/08/2017</date>
+  <time>00:29</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/technology/online/hacking/commonality-of-software-exploits-means-street-criminals-getting-into-cyber-crime-says-expert/news-story/3841fae1e312a516a8e8c54dd89e14cf</url>
+  <title>Commonality of software exploits means street criminals getting into cyber crime, says expert</title>
+  <content>
+In this screenshot a Tasmanian man's passport and licence details are purportedly for sale on the dark web.
+THERE is big business in selling the personal details of Australians on shady websites operating on the dark web and the potentially large sums of money to be made are changing the face of online crime, experts say.
+The ubiquity of software exploits like those recently obtained and  are "enabling everyday street thugs to get involved in e crime," says Chet Wisniewski, the principal research scientist at cyber security firm Sophos.
+But other groups that rely on the dark web to carry out their activities - the underbelly of the internet which more easily allows users to remain anonymous - are becoming increasingly sophisticated and professional in manner, he told news.com.au.
+Almost anything you want - drugs, malicious code with instructions, IT infrastructure for rent like email servers, even consulting, is available from a huge host of vendors, all of whom are competing to convince buyers that their product is the best or most trustworthy.
+
+Last month it was revealed the Medicare details of any Australian were for sale on the dark web upon request. It was later revealed the same dark web vendor was selling a raft of other personal details of unwitting Australians including dozens of email logins, which were reportedly linked to iiNet, Optus, Bigpond and TPG accounts as well as business credit cards allegedly linked to companies in Melbourne.
+One user who claims to have purchased the 'Aussie Business Credit Cards' praises the "great quality" while another wrote that the vendor was "polite and trustworthy," .
+"When we look at things like credit card fraud, it's definitely (organised) groups," said Mr Wisniewski.
+"They've got people that are money mules, they've got people making imprints of the actual cards and magnetic strips, they've got people that operate dead drop locations for packages to be shipped for internet purchases," he said. "Those type of crimes tend to be pretty organised and sophisticated."
+
+In many instances, the laws of countries are not keeping up with the nature of cyber crime, experts say.Source:istock
+Over the weekend, the  revealed one dark web vendor was selling the driver's licenses of 90 Victorians who scanned the cards to enter a club, for $950.
+
+"Hey there, I am selling 90 Victorian licences, which were acquired from nightclub patrons scanning on the door," the vendor posted. "Please note they are 10 years old but the details can still be used."
+This kind information is sought by those who are keen to likely use if for fraud purposes and it's far more likely that vendors such as this are operating individually.
+Mr Wisniewski - who is currently in Asia speaking about the nature of online crime - believes such individuals make up a majority of those pushing nefarious products on the dark web.
+"It depends on the size of the crime, I suspect a vast majority of what I see are individuals," he said. "The guy selling me a kit to build a malicious word doc, to me, that looks like a (single) person."
+And in many instances, the laws of countries are not keeping up with the nature of cyber crime, he said.
+"In many countries it's not against the law to write a tool kit for exploits, it's against the law to use the exploits," he said.
+"So I think some of these guys are just like 'well, I can write this stuff as a hobby on the weekend and sell it on the dark web' and make a couple grand here and a couple grand there and they won't go to jail."
+AUSTRALIA PARTICULARLY VULNERABLE
+"In the case of Australia, you've got multiple things that are all interacting in a bad way," Mr Wisniewski said.
+Primarily, the lack of mandatory disclosure laws in the past has meant business haven't been compelled to make data breaches public, meaning some companies simply weren't spending enough to protect customer data.
+"You find out after the fact when your details are for sale on the dark web," he said. "That's obviously not a good thing."
+However in February, after many years of trying to enact such laws, both parties passed the government's Privacy Amendment (Notifiable Data Breaches) Bill 2016 into law, which is due to come into effect within the year.
+Mr Wisniewski said "hopefully" the new laws will help reduce cases of data breaches on Australian networks.
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bill, 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chet Wisniewski</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>TPG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Wisniewski</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iiNet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRALIA PARTICULARLY VULNERABLE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sophos</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Privacy Amendment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bigpond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medicare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Notifiable Data Breaches</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie Business Credit Cards</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441824858892688</docid>
+  <date>07/08/2017</date>
+  <time>00:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/video/video-news/video-environment-news/warning-graphic-images-something-ate-sams-legs-20170806-4wvgj.html</url>
+  <title>Warning, graphic images: 'Something ate Sam's legs'</title>
+  <content>
+Graphic image warning. After a swim at Brighton Beach, Sam's legs were eaten by something in the water. His dad went back down to the beach to find out what bit his son, this is what he found.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brighton Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

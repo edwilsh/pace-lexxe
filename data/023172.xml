@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444096896626308</docid>
+  <date>07/08/2017</date>
+  <time>09:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/asia-stocks-us-dollar-up-on-jobs-data/news-story/c4691f3bf2a5718adc6a3be806b60c1b</url>
+  <title>World stocks reach new peak</title>
+  <content>
+World stocks have breached new record highs as better-than-expected company earnings and economic data from the United States stole the focus from rising geopolitical tension over North Korea's nuclear program.
+The US dollar dipped slightly but held on to most of Friday's gains - its biggest daily rise this year - made after data showed the United States created more jobs than forecast last month.
+For those watching second quarter corporate results in recent weeks, there have been many such surprises. Of the nearly 1000 companies in the MSCI world index that have reported, 67 per cent have beaten expectations, according to Reuters data.
+These two factors helped nudge the flagship share index above a peak breached late last month, setting a new all-time high of 480.09 on Monday.
+"The US made the most noise last week ... At the start of the new week, risk sentiment improved in Asia with investors continuing to show a certain degree of risk affinity," DZ Bank strategist Rene Albrecht said.
+Aside from a slight weakening in the Korean won, there was little financial market reaction to the news over the weekend that the UN Security Council unanimously imposed new sanctions on North Korea aimed at pressuring Pyongyang to end its nuclear program.
+South Korean President Moon Jae-in and his US counterpart, Donald Trump, agreed in a telephone call on Monday to apply maximum pressure and sanctions on North Korea, while China expressed hope that North and South Korea could resume contact soon.
+Yields on US and German government bonds - seen as a safe haven in times of stress - rose off one-month lows hit at the tail end of last week.
+A strong rise in US and Asian stocks propelled the world index to a new high, with the strength of the euro providing a bit of a headache for European markets.
+The Dow Jones recorded its eighth consecutive record high on Friday, with MSCI's broadest index of Asia-Pacific shares outside Japan adding 0.5 per cent when trading commenced on Monday.
+Japan's Nikkei and Chinese blue chips both added over 0.5 per cent, with the latter bolstered by bets for strong economic data from the world's second largest economy this week.
+The eurozone's main stock index was a touch lower, however, as the single currency headed back towards a 20-month high, a trend which appears to be denting profitability in certain sectors.
+Of the MSCI Europe companies having reported, 61 per cent have either met or beat expectations. But focusing on industrial firms - of which many depend on exports, and are sensitive to a stronger euro - the beat ratio is just 37 per cent.
+Growing signs of labour market tightness offer US policymakers some assurance that inflation will gradually rise to the central bank's two per cent target, and likely clear the way for a plan to start shrinking its massive bond portfolio later this year.
+But market pricing shows investors are still about evenly divided over whether the Fed will also opt to raise rates again in December.
+For some analysts, Monday's pull back in the US dollar backs some views in markets that Friday's rally may not have legs.
+The dollar index, which tracks the greenback against a basket of six global peers, inched back 0.2 per cent to 93.361. It rallied 0.76 per cent on Friday, its biggest one-day gain this year.
+The dollar slipped 0.2 per cent against the euro to $US1.1796 ($A1.4896) per euro, after surging 0.8 per cent on Friday.
+"The most logical view here is the moves on Friday were clearly just a sizeable covering of USD shorts, from what was one of the biggest net short positions held against the USD for many years," Chris Weston, chief market strategist at IG in Melbourne, wrote in a note.
+For the US dollar rally to gain momentum, the market needs to change its interest rate pricing, Weston added.
+In commodities, oil prices fell away from nine-week highs hit after the strong job data bolstered hopes for growing energy demand.
+US crude slipped 0.6 per cent to $US49.30 ($A62.26) a barrel, after rising 1.1 per cent on Friday. Global benchmark Brent lost 0.7 per cent to $US52.06.
+Gold steadied as the dollar surrendered some of its gains, but remained under pressure. The precious metal was marginally lower at $US1257.41 an ounce, extending Friday's 0.8 per cent loss.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rene Albrecht</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday's 0.8</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US52.06</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US1257.41</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan's Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>USD</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DZ Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>7</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>Weston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN Security Council</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US49.30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korean President Moon Jae-in</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Weston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.1796</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

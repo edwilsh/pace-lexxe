@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404587491868065</docid>
+  <date>01/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/news/world/the-sequel-to-the-global-financial-crisis-is-already-here-20170731-gxmpkv</url>
+  <title>The sequel to the global financial crisis is already here</title>
+  <content>
+by
+Frank Partnoy
+
+The financial scene is familiar, the stuff of films like Inside Job and The Big Short.
+Rocket-scientist financiers buy up billions of dollars of risky loans and repackage them into complex investments with multiple layers of debt.
+Credit rating agencies classify the top layers as triple A. Institutional investors, including pension funds and charitable organisations, flock to buy these apparently risk-free yet high-yielding investments.Tension builds.
+But the year is not 2006 or 2007. It is today. While the US administration talks of repealing Dodd-Frank, the reality is that regulators have been flouting that law for years and now the shadow financial markets are frothing.
+
+Almost a decade after the global financial crisis, the sequel has arrived. The central culprit this time is the collateralised loan obligation. Like its earlier esoteric cousins, a CLO bundles risky low-grade loans into attractive packages and high credit ratings.
+
+In May, there were two deals of more than $US1bn each, and experts estimate that $US75bn worth are coming this year. Antares Capital recently closed a $US2.1bn CLO, the largest in the US since 2006 and the third-largest in history.
+Although most of the loans underlying these deals are of "junk" status, more than half the new debt is rated triple A. Sound familiar?
+During the early 2000s, similar highly-rated deals called collateralised debt obligations were popular. At first, they seemed harmless, or at least not so big that their collapse could cause financial contagion.
+But when regulators ignored their growth, they became more opaque and more profitable, with credit ratings disconnected from reality.
+
+Like cracks in a building's foundation, the risks seemed minor at first. But high ratings hid the instability of the entire structure. Until it was too late.
+Dodd-Frank was supposed to stop these credit-rating ploys. But the Securities and Exchange Commission has permitted the agencies to dodge that law. While Dodd-Frank imposed liability on the agencies for false ratings, the SEC exempted them.
+Likewise, Congress barred the agencies from getting inside information about issuers they rate, but the SEC permitted that, too.
+As CLOs grow, the cracks are spreading again.
+
+Last Christmas Eve, the so-called risk-retention rule of Dodd-Frank took effect, requiring that arrangers of these complex deals keep a slice of the downside. But clever financiers arranged for third parties to take on this risk.
+The credit rating agencies, particularly Moody's Investors Service and S&P Global Ratings, are the central actors in this story, just as in the original. The computer programs they use to assign triple-A ratings remain flawed.
+Because loan defaults can come in waves, mathematical models should account for "correlation risk", the chance that defaults might occur simultaneously. But the models for CLOs assume correlations are low.
+When defaults occur at the same time, these supposed triple-A investments will be wiped out. CLOs are just CDOs in new wrapping.
+
+Some experts say this time it is different. Earlier this month, Ashish Shah, a managing director of Madison Capital Funding, a subsidiary of New York Life, told a roundtable of CLO experts they should not worry about defaults in 2017.
+"The appetite for assets is ferocious," he said. Pension funds, insurance companies and university endowments are demanding both safety and high returns. CLOs seem to offer both.
+A new Office of Credit Ratings within the SEC is supposed to provide a check on this appetite. But when I sent a Freedom of Information Act request, seeking to identify which credit rating agencies have been found to violate SEC rules, the regulators refused to divulge names.
+Violators remain anonymous. It is hard to police the financial markets. New business school graduates are inevitably one step ahead of their regulator counterparts, and many of the least creditworthy businesses find it easy to borrow, because their loans can be quickly repackaged and sold.
+
+During the debates about Dodd-Frank repeal, legislators should keep their eyes on these complex investments and the agencies that facilitate them. Some might claim CLOs are different or smaller, or that regulators are better prepared today, or that business loans could not possibly default all at once, as home mortgage loans did.
+But similar arguments were made about risks during the early 2000s, before they spread to the major banks and AIG, and the markets spiralled out of control.
+To avoid an even bigger crisis, regulators should heed warnings about financial dysfunction and hidden risks now, before the cracks spread.
+The writer is a professor at the University of San Diego and author of Fiasco: Blood in the Water on Wall Street.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New York Life</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clos</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Inside Job</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Freedom of Information</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashish Shah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of San</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Antares Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dodd-Frank</name>
+    <count>5</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>SEC</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Christmas Eve</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Diego</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Office of Credit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Madison Capital Funding</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Short</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CDOs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Frank Partnoy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P Global Ratings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AIG</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Exchange Commission</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Moody's Investor Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CLO</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US2.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$75</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

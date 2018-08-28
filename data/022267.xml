@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443152003804916</docid>
+  <date>07/08/2017</date>
+  <time>05:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/kiwi-little-changed-ahead-of-ocr-review/news-story/650e96a6238e81a3621b0c9cbfde0357</url>
+  <title>Kiwi little changed ahead of OCR review</title>
+  <content>
+The New Zealand dollar was largely unchanged on Monday, capped by expectations the central bank may be more dovish on Thursday and by a strong rebound in the US dollar after solid jobs data on Friday.
+The kiwi dollar traded at US73.99c as at 5pm in Wellington from US73.98c as at 8am and little changed from Friday in New York.
+"We have basically maintained the losses we got hit with on Friday night as a result of the strong payrolls data," said Westpac Bank Senior FX Strategist Imre Speizer.
+He said the central bank's survey of inflation expectations Monday just added to the view that the central bank will keep rates on hold at 1.75 per cent on Thursday and could even indicate it is planning to keep rates on hold for even longer than it previously forecast.
+The Reserve Bank's survey of expectations showed respondents see annual inflation at 1.77 per cent in one year, down from 1.92 per cent rate in the prior survey three months ago.
+The survey confirmed "come Thursday they will sit on their hands, keep repeating they are going to do so for a long time. There is a case for them to be slightly more dovish this time around", said Mr Speizer.
+The US dollar index rallied after Labor Department figures showed non-farm payrolls rose by 209,000 jobs in July.
+The kiwi was trading at A93.20c from A93.50c in New York on Friday.
+It was at 56.65 British pence from 56.81 pence and was at 4.9740 yuan from 4.9828 yuan. It dipped to 62.72 euro cents from 62.90 cents and traded at 81.90 yen from 81.98 yen.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US73.98</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US73.99</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OCR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Speizer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Labor Department</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac Bank Senior FX Strategist Imre Speizer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wellington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kiwi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442679557395544</docid>
+  <date>07/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/13/57/vic-company-fined-over-truckie-s-death</url>
+  <title>Vic company fined over truckie's death</title>
+  <content>
+A Victorian towing company has been fined $275,000 for safety breaches that led to a truck driver's death.
+The truck driver died in hospital after he was struck by a van while loading a crane onto a truck in August 2015.
+JMAL Group Pty Ltd, of Sunshine North, was fined $275,000 and convicted of failing to provide a safe system of work after WorkSafe found there were no measures in place to warn motorists of the crane being loaded onto the trailer.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>August 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JMAL Group Pty Ltd, of Sunshine</name>
+    <count>1</count>
+    <score>-3.3</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WorkSafe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

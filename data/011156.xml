@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416222558490936</docid>
+  <date>02/08/2017</date>
+  <time>21:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/one-nation-broke-electoral-laws-report/news-story/7e501a20c92f85834cadcdbc9cea6916</url>
+  <title>One Nation broke electoral laws: report</title>
+  <content>
+One Nation's Queensland branch has breached electoral laws by failing to keep proper records, the ABC reports.
+The broadcaster says it has obtained documents that outline the party's breaches after an investigation by the Electoral Commission of Queensland.
+It says the party was found to have breached spending disclosure rules, failed to lodged returns on time, and didn't notify donors of their disclosure requirements, with the ECQ ordering One Nation to improve its systems.
+AAP has contacted the commission and One Nation for comment.
+One Nation staff had tried to explain the party's failings by pointing to computer problems, and the closure of its Brisbane office during Cyclone Debbie, the ABC reported.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>One Nation</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cyclone Debbie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commission of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nation's Queensland</name>
+    <count>1</count>
+    <score>-3.5</score>
+  </sindex>
+  <sindex>
+    <name>ECQ</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

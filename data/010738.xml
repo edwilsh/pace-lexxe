@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416871098564657</docid>
+  <date>03/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/oracle-system-woes-put-suncorps-core-overhaul-on-hold-470001</url>
+  <title>Oracle system woes put Suncorp's core overhaul on hold</title>
+  <content>
+Suncorp has decided to put the migration of the final and crucial pieces of its core banking overhaul on hold until platform vendor Oracle can improve its technology.
+
+The bank revealed at its half-year financial results in February that configuration and migration issues had  for the 'Project Ignite' overhaul.
+
+It had already migrated customer, collateral, collections, and personal loan origination onto the Oracle Flexcube core banking technology, but had left its critical deposits and transaction banking components until last.
+
+At the time the bank told iTnews it was hoping to have completed this last stage of the migration by the end of 2017, and complete decommissioning by June next year.
+
+Today however the bank revealed that it would put the migration of deposits and transaction banking on hold indefinitely "pending further system enhancements from the vendor".
+
+Instead it will focus on "accelerating payment technology and digital banking capabilities ... as society continues to progress towards cashless transactions".
+
+The bank has been contacted for detail on the "system enhancements" it has requested from Oracle.
+
+In February it told iTnews scalability, regulatory and capacity issues were behind the delay.
+
+Suncorp says it is the first company globally to roll out the Oracle end-to-end loan origination, servicing and collections platform.
+
+The issues with the core banking overhaul meant the bank was forced to pay more money than it had anticipated to complete the migration of loans and lending origination in its FY17 year. It did not specify a dollar figure.
+
+Marketplace
+
+Elsewhere the bank has committed $100 million over the next year to deliver the key components of its so-called 'marketplace'.
+
+The marketplace is a broad strategy intended to unite the Suncorp group's brands. It has so far seen two new concept stores open in Parramatta and Carindale, a branding refresh, and the delivery of new AAMI and Suncorp mobile apps.
+
+The new investment will go towards the creation of a "single digital experience" for the entire Suncorp group through a new Suncorp marketplace app.
+
+Suncorp will also encourage third parties to connect into the marketplace to offer new services and solutions, it said.
+
+"The marketplace will help customers navigate complexity, make better choices and allow them to interact with the group in any way they choose, through both digital and physical channels." the bank said.
+
+"[It] seeks to shift away from individualised commoditised products to a single destination where customers can meet their financial wellbeing needs."
+
+The bank also completed the migration of its "super simplification" project, which has seen 43 legacy superannuation and pension products rationalised down to ten, in its FY17 year.
+
+Around 170,000 customers and $6.3 billion of assets have been migrated onto the new administration platform, it said today.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oracle</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oracle Flexcube</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>8</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>iTnews</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Project Ignite</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY17</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carindale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428806812896558</docid>
+  <date>04/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/tighter-security-for-domestic-flights/news-story/4251fc4da0b9c475b3f457288e79b364</url>
+  <title>Tighter security for domestic flights</title>
+  <content>
+Tighter security checks could be introduced for Australian domestic flights following an alleged terror plot to bomb a plane.
+Identity checks, full-body scanners and restrictions on liquids similar to security measures for international flights are reportedly being considered by the federal government, according to The Australian.
+Two Sydney men have been charged over the alleged plot to bring down an Abu Dhabi-bound plane on July 15 using an improvised explosive device.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abu Dhabi-bound</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 15</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

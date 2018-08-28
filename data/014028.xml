@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422927002567440</docid>
+  <date>03/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/business/breaking-news/aap-markets-report/news-story/0167130587e4dae7310e026e02996b45</url>
+  <title>AAP Markets Report</title>
+  <content>
+Stock Market Wrap 0700
+INDEX LAST MOVE PREVIOUS
+Dow Jones 22026.1 9.86 22016.24
+S&P500 2472.16 -5.41 2477.57
+Nasdaq 6340.341 -22.304 6362.645
+FTSE100 7474.77 63.34 7411.43
+DAX 12154.72 -26.76 12181.48
+Shanghai 3273.4088 -11.648 3285.0568
+Hang Seng 27531.01 -76.37 27607.38
+NIKKEI225 20029.26 -50.78 20080.04
+NZSE 50 7753.75 5.44 7748.31
+One Australian dollar buys:
+* 79.49 US cents, from 79.28 on Thursday
+* 87.46 Japanese yen, from 87.69 yen
+* 66.96 euro cents, from 66.89 euro cents
+* 60.50 British pence, from 59.91 pence
+* 106.92 NZ cents, from 107.13 cents
+METAL LAST MOVE PREVIOUS
+Gold US$/o 1268.15 1.95 1266.2
+Copper US$/t 6289.5 -32.75 6322.25
+Iron ore US$/t 73.25 -0.60 73.85
+OIL (US$/b) LAST MOVE PREVIOUS
+Brent Crude 51.93 -0.43 52.36
+WTI Cushing 48.89 -0.70 49.59
+Source: Reuters
+Pagemasters
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NIKKEI225 20029.26 -50.78 20080.04</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZSE 50 7753.75 5.44 7748.31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent Crude 51.93 -0.43 52.36</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P500 2472.16 -5.41 2477.57</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pagemasters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WTI Cushing 48.89 -0.70 49.59</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones 22026.1 9.86 22016.24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP Markets Report</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq 6340.341 -22.304 6362.645</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAX 12154.72 -26.76 12181.48</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>INDEX LAST MOVE PREVIOUS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LAST MOVE PREVIOUS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hang Seng 27531.01 -76.37 27607.38</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Market Wrap 0700</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTSE100 7474.77 63.34 7411.43</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai 3273.4088 -11.648 3285.0568</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

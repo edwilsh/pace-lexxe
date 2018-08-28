@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417433739289120</docid>
+  <date>03/08/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/asian-shares-dip-on-profittaking/news-story/d78b49ebaf0ae31716be25ffbc27b548</url>
+  <title>Asian shares dip on profit-taking</title>
+  <content>
+Asian shares dipped on Thursday as investors locked in recent gains after Wall Street's Dow Jones Industrial Average broke the 22,000 barrier for the first time in its 121-year history.
+
+MSCI's broadest index of Asia-Pacific shares outside Japan dropped 0.5 per cent, with South Korea's Kospi index falling 1.5 per cent in early trade.
+
+Samsung Electronics, which on Friday posted its biggest daily fall since October, fell 2.6 per cent, giving up the gains made so far this week.
+
+"Those shares that were bought heavily on Tuesday are being sold aggressively. I would suspect investors want to take profits quickly after they saw a sharp correction last week," said Yukino Yamada, senior strategist at Daiwa Securities.
+
+Japan's Nikkei dipped 0.1 per cent while the broader Topix was flat.
+
+In New York overnight, the Dow Jones Industrial Average topped the 22,000 mark for the first time on strength in Apple shares following its earnings.
+
+The S&P 500 gained 0.05 per cent, hovering just below its record high touched last week, supported by upbeat earnings and rising expectations that the Federal Reserve's policy tightening will move ahead only slowly.
+
+"The stock markets are supported by steady growth in earnings," said Mutsumi Kagawa, chief global strategist at Rakuten Securities, noting steady growth in forward earnings in the United States, Japan and elsewhere.
+
+"In addition, even as the economy grows, both policy interest rates and long-term interest rates remain low because inflation remains tame due to various structural reasons," he added.
+
+US inflation has been contained even as the country's labour market appears to be in its best shape in many years, with the jobless rate staying near a 17-year low.
+
+A report by private payrolls processor ADP showed on Wednesday that private US employers added 178,000 jobs in July, slightly below economists' expectations, although payroll gains in June were revised up to 191,000 from an originally reported 158,000.
+
+Market participants expect the more closely watched government employment report due on Friday to show a solid expansion in US job creation.
+
+In the currency market, the US dollar has been losing its lustre as the euro zone and a few other countries have been slowly winding back stimulus.
+
+The European Central Bank, which is buying 60 billion euro government bonds per month to shore up the economy, is expected to unveil a plan to wind down the asset purchase program in coming months.
+
+The euro traded at $US1.1858, after having risen to as high as $US1.19105 on Wednesday, its highest level since January 2015.
+
+The common currency has strengthened sharply against the safe-haven Swiss franc, having gained more than four per cent in less than two weeks.
+
+The British pound held near its highest in almost 11 months against a broadly weaker dollar ahead of the Bank of England's "Super Thursday", which could shed light on how soon interest rates could be lifted.
+
+Sterling has been supported in recent weeks by expectations the bank might finally be getting ready for a hike after a series of hawkish comments from policymakers, though Governor Mark Carney could be more cautious.
+
+The yen stepped back from Tuesday's 1 1/2-month high of 109.92 yen per dollar to trade at 110.71 yen.
+
+Oil prices held firm as surging US fuel demand and strong refinery runs offset data from the Energy Department that showed crude inventories did not fall as much as expected last week.
+
+Brent crude futures slipped 0.3 per cent to $US52.22 per barrel, still not far from Wednesday's high of $US52.93, its highest level in 10 weeks.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yukino Yamada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daiwa Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.1858</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sterling</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.93</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US52.22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Japan's Nikkei</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Electronics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mutsumi Kagawa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Topix</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.19105</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rakuten Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea's KOSPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energy Department</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ADP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Super Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Governor Mark Carney</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street's Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

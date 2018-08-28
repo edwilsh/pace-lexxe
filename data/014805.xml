@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422836808252345</docid>
+  <date>03/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/leadership/careers/career-advancement/how-much-money-you-must-earn-to-be-in-the-top-1-per-cent-at-every-age-20170803-gxp2uw</url>
+  <title>Want to be in the top 1 per cent? Here's what you need to earn (at every age)</title>
+  <content>
+by
+Chris Weller, Andy Kiersz
+
+Income and wealth inequality in the US have become steadily worse over the past decade.
+As the country's richest get even richer and the share of people below the poverty line grows, America's middle class . A  from the University of Chicago's Booth School of Business found the bottom 50 per cent of Americans had zero income growth over the past 35 years.
+One way to understand that change is to analyse what annual salary people now need to make to be in the top 1 per cent of earners in their age group.
+Business Insider used recent US Census data to determine that breakdown. At age 25, you'd have to be earning $US116,000 ($145,900) a year to be in the top 1 per cent of earners. By age 65, that number rises to $US473,000 ($594,893). Here's the full spread:
+
+Andy Kiersz/Business Insider
+
+In its calculations, Business Insider analysed data from the , an annual survey run by the US Census Bureau that aims to interview about 1 per cent of all households about various economic, demographic, social, and housing characteristics.
+
+It also relied on individual people's responses from the , which allowed it to estimate the cutoffs for being in the top 1 per cent of earners among  for each age in 2015.
+It's worth noting that this approach has its limits - surveys like the ACS have been found to have difficulty characterising people with extremely high incomes, and some researchers prefer to use alternative forms of data, such as tax records, when studying those at the top of the income and wealth distributions.
+Being in the top 1 per cent of incomes also doesn't necessarily mean someone is in the top 1 per cent of total wealth, since wealth takes into account a variety of sources. Still, the large sample size of the ACS gives a fairly good idea of what it takes to reach the top 1 per cent of earners - and shows just how rich "rich" really is.
+This story first appeared in Business Insider. Read it  or follow  on Facebook.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US Census Bureau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US116,000 ($145,900</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Census</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Andy Kiersz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Weller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Chicago</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andy Kiersz/Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Booth School of Business</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US473,000 ($594,893</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACS</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

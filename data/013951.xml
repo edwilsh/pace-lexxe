@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422759498839856</docid>
+  <date>03/08/2017</date>
+  <time>22:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/technology/consumer-security/cybersecurity-researcher-who-stopped-wannacry-arrested-in-the-us-20170803-gxp2km.html</url>
+  <title>Cybersecurity researcher who stopped Wannacry arrested in the US</title>
+  <content>
+A British security researcher, who became an internet hero after he was credited with stopping a malicious software attack earlier this year, has been arrested at the Las Vegas airport and charged in connection with a separate attack.
+Marcus Hutchins, the researcher,  a way to disable the WannaCry malicious software (or malware) attack that  earlier this year. Researchers credited Hutchins' discovery of a kill switch in the malware for stopping its spread and preventing the attack from infecting millions more computers.Photo: AP
+According to an indictment filed in federal court in Milwaukee on Thursday, US time, Hutchins and an unidentified accomplice created and sold malware intended to steal login information and other financial data from online banking sites. The pair conspired to sell and distribute the malware program, known as the Kronos banking trojan, around 2014 and 2015, the indictment said.
+The Justice Department said in a statement that a federal grand jury returned a six-count indictment against Hutchins last month after a two-year investigation.
+Earlier on Thursday, Motherboard  Hutchins had been detained at the Las Vegas airport after a week of attending a security conference in the city. He had been scheduled to fly back to his home in the United Kingdom.
+The WannaCry ransomware infected computers running older versions of Microsoft Windows. Once spread, the software encrypted computers and locked users out of files, folders and drives. If an affected machine was connected to a network, other computers on the network could become infected as well.
+The Electronic Frontier Foundation, a digital rights organisation, said in a statement that it was concerned about the arrest of Hutchins and was looking into the matter.
+New York Times
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft's Windows</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>Electronic Frontier Foundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Kingdom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Milwaukee</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

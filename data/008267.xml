@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411562518884873</docid>
+  <date>02/08/2017</date>
+  <time>03:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/us-congress-wants-to-force-smart-device-makers-to-secure-their-crap/</url>
+  <title>US Congress Wants To Force 'Smart' Device Makers To Secure Their Crap</title>
+  <content>
+The swarm of internet-connected security cameras, kitchen appliances, wearables and other gadgets that make up the Internet of Things are notoriously insecure. Two US senators want to fix that - at least for tech acquired by the US federal government - and are introducing bipartisan legislation intended to force manufacturers to include basic security features in their products.
+
+Photo: AP
+
+The bill, called the , would require manufacturers to allow software updates on their devices, make them properly authenticate those updates, and forbid them from using hardcoded passwords on devices that cannot be modified.
+
+The security requirements outlined in the bill sound basic, but IoT devices are often shipped with unsecure features that make them easy to hijack.
+
+When a large-scale  last spring, it turned out that a botnet of IoT gadgets with hardcoded passwords were to blame. Manufacturers typically ship devices with these kinds of unchangeable passwords so they can install updates or debug devices once they're out in the hands of consumers, but the login credentials are often something stupidly easy to guess such as "admin/admin". This makes it simple for hackers to take over devices, and impossible for companies to kick them out by changing a password.
+
+The bill would also require vendors who sell IoT devices to the US government to certify that their product has no known security vulnerabilities at the time it is sold, and take responsibility for issuing patches if vulnerabilities are discovered later. There's also a nice carveout in the bill that protects security researchers who are hunting for new, undiscovered bugs in IoT devices.
+
+Senators Cory Gardner, Steve Daines, Mark Warner and Ron Wyden are sponsoring the proposed legislation. Warner told  that the bill is designed to address an "obvious market failure" in IoT.
+
+Although the bill only covers devices that are sold to the US federal government, hopefully IoT vendors who are hungry for lucrative government contracts will start making more secure IoT devices available to consumers, too.
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Congress Wants To Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senators Cory Gardner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ron Wyden</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Warner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Daines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Warner</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Smart' Device Makers To Secure Their Crap</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

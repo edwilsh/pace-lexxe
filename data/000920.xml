@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398875185262604</docid>
+  <date>31/07/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/sa-court-hears-of-sociopathic-killing/news-story/2a3fc9c7cbad4d465b590f22841969a9</url>
+  <title>SA court hears of 'sociopathic' killing</title>
+  <content>
+A Brisbane woman who killed her Adelaide grandfather went to his home wearing rubber gloves and armed with a knife, a court has heard.
+Brittney Jade Dwyer, 19, has pleaded guilty to the murder of 81-year-old Robert Whitwell in August last year.
+In sentencing submissions, the South Australian Supreme Court on Monday was told the killing was "almost sociopathic in style".
+Prosecutor Jim Pearce also objected to the proposed tendering of a psychiatric report prepared about Dwyer because it raised issues that had not come out in any other material before the court, including Dwyer's police interview.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Dwyer</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Robert Whitwell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jim Pearce</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Supreme Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brittney Jade Dwyer, 19</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424898392586461</docid>
+  <date>04/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/australias-new-digital-health-strategy-has-been-approved-470161</url>
+  <title>Australia's new digital health strategy has been approved</title>
+  <content>
+The strategy governing Australia's move to default e-health records for all citizens as part of a push towards a digital health services ecosystem has received the official stamp of approval by the country's governments.
+
+The Council of Australian Governments (COAG)'s health council today approved the  following a meeting in Brisbane.
+
+The country's health ministers said the strategy "put the consumer at the centre of their health care and provides choice, control, and transparency".
+
+Australian Digital Health Agency (ADHA) CEO Tim Kelsey said the strategy was intended to address "new health challenges and rapidly rising demand for services".
+
+"It is imperative that we work together to harness the power of technology and foster innovation to support high quality, sustainable health and care for all, today and into the future," he said in a statement.
+
+The strategy outlines seven "strategic priorities" for digital health in Australia, including the  for every Australian by next year.
+
+The ADHA said 5 million Australians have already been set up with an e-health record. The federal government allocated $374.2 million to the My Health Record rollout in its May budget.
+
+The funding cemented the policy change from an opt-in to opt-out model, after the former PCEHR scheme failed to garner significant adoption.
+
+ADHA's new digital health strategy also includes:
+
+the delivery of paper-free secure messaging for all clinicians
+
+real-time sharing of patient information between hospitals and healthcare providers
+
+paper-free medication management and electronic prescribing and dispensing
+
+digital upskilling of health workers, and
+
+a suite of accredited health apps.
+
+The agency is now working with the healthcare industry to create a 'framework for action' that will detail how the strategy will be implemented. It will be published later this year.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>COAG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PCEHR</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health Record</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CEO Tim Kelsey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Council of Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adha</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Digital Health Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

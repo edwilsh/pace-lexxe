@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415406514689700</docid>
+  <date>02/08/2017</date>
+  <time>18:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/light-plane-kills-sunbathers-in-emergency-beach-landing-in-portugal-20170802-gxo6il.html</url>
+  <title>Light plane kills sunbathers in emergency beach landing in Portugal</title>
+  <content>
+Lisbon: A light plane has made an emergency landing on a packed beach near Lisbon on Tuesday, killing a 56-year-old man and an eight-year-old girl who were sunbathing, authorities said.
+Hundreds of sunbathers were on the popular beach at Caparica, 30 kilometres south of Lisbon, and witnesses said some sunbathers ran into the sea to avoid the plane.
+The National Maritime Authority said the man and girl died on the beach. Officials said they were not aware of any injured people.
+The small aircraft, reportedly a Cessna, carrying two people appeared to be in difficulty and wobbled as it skimmed low over the sunbathers, scattering them and spreading panic on the beach, witnesses said.
+
+The plane appeared to have a partly broken left wing, which hung lower than the right wing, Portuguese television pictures showed. Officials said the accident occurred at 4.50pm local time.
+The dead girl was with her parents, who were unhurt, witnesses told local television channels. The plane passed over the man who was killed as he sunbathed on a towel, they said.
+The two occupants of the plane were unhurt and were being questioned by police.
+AP
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Maritime Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caparica</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Portugal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lisbon</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cessna</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Portuguese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

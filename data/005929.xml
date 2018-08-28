@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406816579930916</docid>
+  <date>01/08/2017</date>
+  <time>08:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/etihad-helping-with-nsw-terror-probe/news-story/022c7f72662dbe24a73b390e6e6a7d54</url>
+  <title>Etihad helping with NSW terror probe</title>
+  <content>
+Etihad Airways is assisting with the investigation into an alleged Sydney-based conspiracy to bring down an aircraft as a leading terror expert suggests the suspects may been building a gas bomb like that used in Manchester.
+Four men remain in custody over the alleged plot which US officials believe was "fairly well along" when Australian authorities swooped on Saturday.
+News agency Reuters on Tuesday cited two US officials familiar with the arrests as also saying the Australian investigation wasn't a sting operation but the result of the detection of a developing plot.
+Etihad has confirmed it's helping authorities.
+"The Etihad Airways aviation security team is assisting the AFP with its investigation and the matter is ongoing," the airline said in a statement.
+"Etihad is complying fully with the enhanced security measures at airports in Australia and monitoring the situation closely."
+Investigators on Monday found a Qantas release slip relating to a Sydney to Jakarta flight near one of the raided Sydney properties but AAP understands the plot did not involve Qantas or the Qantas Group.
+Authorities have refused to officially confirm any details about what they've found after rifling through properties in four Sydney suburbs.
+However, one theory is the plot involved the use of a meat grinder to conceal a home-made device.
+Deakin University terror expert Greg Barton suggests the plan may have centred around acetone peroxide - or TATP - the same chemical used in the Manchester Arena bombing in May and the 2015 Paris attacks.
+Referred to as the "mother of Satan" because it can kill those handling it, TATP is unstable but powerful and would not give off "tell-tale" chemicals picked up by airport swab tests, Prof Barton told AAP.
+"That makes it a candidate for using in this sort of attack."
+TATP, which needs a pressure vessel to be packed in, could be placed in a grinder so it was opaque through an X-ray machine and appeared innocuous upon visual inspection.
+"It might just pass (security)," Prof Barton said.
+"That, I'm guessing, was their plan."
+Prof Barton speculated while the plot could have succeeded it more likely would have failed because the bomb would have been detected, failed to detonate or not have detonated to its full potential.
+"(Still) it's important to understand this clearly is the most sophisticated terror plot we've had, probably ever, in Australia," he added.
+Other US officials, speaking to Reuters on condition of anonymity, said communications between the alleged plotters in Sydney and members of Islamic State in Syria were intercepted by a foreign intelligence service.
+The US officials declined to identify the service and United Kingdom officials refused to confirm or deny playing a role in detecting the plot.
+Australian National University intelligence expert Professor John Blaxland says relying on international tip-offs shouldn't raise questions about the adequacy of Australia's intelligence services.
+"What we know is that organisations like the AFP and ASIO have extensive networks of connections and liaisons arrangements with counterparts globally," Prof Blaxland told AAP.
+"There's a mutual benefit - a mutual back-scratching exercise.
+"That network is proving more and more useful and more and more important for countering potential terrorist acts."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Greg Barton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Qantas Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney-based</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Etihad</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor John Blaxland</name>
+    <count>1</count>
+    <score>0.33</score>
+  </sindex>
+  <sindex>
+    <name>X-rays</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Kingdom</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>Deakin University</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manchester Arena</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Satan</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Prof Blaxland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Etihad Airways</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jakarta</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Manchester</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prof Barton</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TATP</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416570450848119</docid>
+  <date>02/08/2017</date>
+  <time>22:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/fluor-secures-contract-bhp-south-flank-iron-ore-project/</url>
+  <title>Fluor secures contract with BHP at South Flank iron ore project - Australian Mining</title>
+  <content>
+Latest News
+
+BHP has awarded Fluor a project and construction management services contract at the South Flank iron ore project in the Pilbara region of Western Australia.
+The work is being performed from BHP's Perth office, with the two companies managing the project together as an integrated team. A contract value has not been revealed.
+project in June. The project has been flagged as a potential replacement for the company's ageing Yandi iron ore operation.
+The initial funding for the $US3.2 billion project was expected to create hundreds of construction jobs and provide opportunities for WA suppliers.
+Full development of the South Flank project would generate thousands of construction jobs.
+Fluor Mining and Metals president Tony Morgan said the company was enthusiastic about the opportunity to support BHP on this important project.
+"We are delighted that BHP has recognised that Fluor's execution capabilities and experience will help them develop this project successfully," Morgan said.
+According to Fluor, the project will draw on its worldwide capabilities and resources.
+Fluor will work with BHP to optimise the feasibility study design with a focus on execution readiness and capital efficiency.
+A decision to move forward with the execution phase of the project is expected in mid-2018.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>5</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>Yandi</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>BHP's Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fluor's Mining</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pilbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fluor</name>
+    <count>5</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>South Flank</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Morgan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

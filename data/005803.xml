@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406472982540868</docid>
+  <date>01/08/2017</date>
+  <time>07:39</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/national/2017/08/01/australia-hottest-july/</url>
+  <title>Australia records hottest July, Bureau of Meteorology says</title>
+  <content>
+Australia has had its warmest July on record, the Bureau of Meteorology (BoM) has said.
+A  the country's average July temperature was at its highest in more than 100 years of weather recording.
+BoM forecaster David Crock said the warmest parts had been through Queensland, the Northern Territory, northern Western Australia and New South Wales.
+Mackay, in central Queensland, had its hottest July day on record at 28.9C on July 19, beating the previous record set only the year before.
+"The month has been dominated - at least in eastern Australia - by a ridge of high pressure which has seen very clear skies and a warm air mass sit over the country for days and weeks at a time," he said.
+"The inland areas have certainly been warmer away from the cooling influence of the ocean ... but certainly some of the temperature anomalies extend right across northern Australia.
+Extraordinary 'warm winter' weekend coming up for NSW and Queensland
+
+"Queensland had its warmest July on record for both maximum and minimum temperatures across the whole state - parts of Queensland have been very dry."
+Mr Crock said temperatures had remained warm because the high-pressure system prevented cold fronts moving north from Victoria and NSW.
+BoM meteorologist Greg Browning said it was "basically this background warming signal that we're seeing right across the globe associated with global warming".
+"It seems like the warming conditions we've seen right across the globe are just becoming commonplace, and we're seeing them in monthly temperatures on a regular basis."
+In the Northern Territory, the mean maximum temperature was 3 degrees Celsius above average - the mercury was the highest it had been in July since records began more than 100 years ago.
+Those in Darwin also sweltered through the nights with only six overnight lows under 20C, while the average for July is 18.5 nights below 20C.
+New South Wales recorded the second month in a row of rainfall in the lowest 10 per cent of years since records began in 1910.
+The hottest July days ever recorded were in Brewarrina, Sydney, Bathurst, Dubbo and Scone.
+BoM senior climatologist Blair Trewin said quite a few sites were also showing up as the highest average daytime temperature for July.
+"It is likely that overall this year the state of New South Wales as a whole will record in the top three years for the highest average daytime temperature for July," Mr Trewin said.
+Mr Trewin said a number of centres in the Riverina also recorded their lowest rainfall figures ever.
+"Following on from June, which was also very dry pretty well everywhere west of the ranges, it has been pretty dry through much of the state, particularly in the southern and central inland," he said.
+'More research needed'
+
+Research published in Nature Climate Change last week indicated the hot and dry climate system would increase in frequency if global warming was kept to the Paris Climate Summit target of 1.5C.
+It warned it would be longer and harder to break drought events, but University of Southern Queensland Professor Roger Stone said more research was needed.
+"El Nino can have a fairly big impact in Queensland, but depends where you live - it has less of an impact in Boulia than it does in Charters Towers, or in Marlborough or Kingaroy.
+"So most of eastern Queensland gets impacted by El Nino, but the far west doesn't, so in between the two it can be a bit patchy.
+"In my opinion, it would be good to see some other follow-up studies besides this very useful one in Nature Climate Change and see other groups around the world if they get the same results perhaps, before we get too alarmed by this."
+-ABC
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>University of Southern</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Professor Roger Stone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nature Climate Change</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Bathurst</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dubbo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boulia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>El Nino</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paris Climate Summit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mackay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marlborough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trewin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blair Trewin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Riverina</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charters Towers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingaroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Crock</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Northern Territory</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brewarrina</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Celsius</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Browning</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>10</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>7</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Mr Crock</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

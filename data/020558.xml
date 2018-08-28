@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438899986133068</docid>
+  <date>06/08/2017</date>
+  <time>13:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/world/israel-moves-to-shut-down-local-operations-of-aljazeera-20170806-gxqiw9.html</url>
+  <title>Israel moves to shut down local operations of Al-Jazeera</title>
+  <content>
+Jerusalem: Israel plans to revoke press credentials of Al-Jazeera TV journalists, close their Jerusalem bureau and pull the Qatar-based station's broadcasts from local cable and satellite providers, Communications Minister Ayoub Kara said on Sunday.
+Kara accused the station of "supporting terrorism" and said cable broadcasters had agreed to his proposal to take the station's Arabic and English channels off air. Closure of the station's office would require further legislation, he added. Photo: AP
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Communications Minister Ayoub Kara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Israel</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Al Jazeera TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jerusalem</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Arabic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kara</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Al Jazeera</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qatar-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

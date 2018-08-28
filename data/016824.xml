@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426423106005453</docid>
+  <date>04/08/2017</date>
+  <time>13:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/weve-run-out-of-beer-names-and-ai-is-here-to-help/</url>
+  <title>We've Run Out Of Beer Names And AI Is Here To Help</title>
+  <content>
+Image: /Flickr
+
+Craft brewers are running out of beer names. NPR reports that companies are having to compromise over shared a name, or getting in Twitter fights over them. Even lawyers are settling spats over imagery, or hop puns like Hopscotch and Bitter End.
+
+So, rather than relying on our boring human brains, why not use artificial intelligence to come up with fresh new names? That's what scientist Janelle Shane (who uses artificial intelligence for this purpose frequently) decided to do. The results: an IPA called Yamquak. A Cherry Trout Stout. The Fire Pipe Amber Ale.
+
+Janelle Shane found out about the dearth of original beer names after I mentioned it in an article I wrote about her artificial intelligence-generated . She emailed me back, "Craft brewers are running out of fun names? THIS sounds like a job for..."
+
+In a later article about her neural network-generated , I told Shane to "Please send me the beer name dataset if you have it." Soon, Gizmodo reader Andy Haraldson answered the call and scraped together a dataset with hundreds of thousands of beer names of over 90 types from BeerAdvocate.com. Shane's friend Eva Gulotty helped sort the data into groups, after which the neural network did its job.
+
+Neural networks are just computer programs that learn to read on big datasets, then try to come up with new words based on their learned knowledge, picking the most likely letter after the previous letter. As I've said before, it's sort of like teaching a kid to speak English, but only teaching them beer names instead of real words. Shane uses a network called .
+
+Will artificial intelligence solve the great beer naming crisis? Well, Shane told us that these names are up for grabs, and brewers, let us know if you end up using one of them for your own beer. "First come, first served, though," said Shane. "Who wouldn't want to use 'Shaceblat Hake Stout Caramel Chilli Late Stout?'"
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Shaceblat Hake Stout Caramel Chilli Late Stout</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Run Out Of Beer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NPR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flickr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitter End</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BeerAdvocate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yamquak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hopscotch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shane</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Andy Haraldson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eva Gulotty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AI Is Here To Help</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fire Pipe Amber Ale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cherry Trout Stout</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janelle Shane</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

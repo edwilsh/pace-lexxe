@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399996171742132</docid>
+  <date>31/07/2017</date>
+  <time>06:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/business/breaking-news/hsbc-reports-12-lift-in-h1-profit/news-story/1172e1df14a4db8ed763892cfb88902e</url>
+  <title>HSBC reports 12% lift in H1 profit</title>
+  <content>
+HSBC is reporting that its pretax profit rose 12 per cent in the first half as revenue expanded faster than costs and higher interest rates fattened margins for its Hong Kong lending business.
+The London-based global bank also said on Monday it will buy back another $US2 billion ($A2.5 billion) in shares in the second half of the year.
+That brings the total amount of share repurchases announced since last year to $US5.5 billion.
+HSBC said in profit for the January-June period came in at $US12 billion.
+The figure is adjusted for currency fluctuations and one-off gains and losses and is higher than the $US10.7 billion from a year ago.
+Adjusted revenue rose 0.8 per cent to $US26.1 billion ($A32.7 billion).
+HSBC is Europe's biggest bank but earns most of its income from Asia.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January-June</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US5.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10.7</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>London-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>H1</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US26.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404110750490016</docid>
+  <date>31/07/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/08/19/prisoner-attacks-three-vic-prison-staff</url>
+  <title>Prisoner attacks three Vic prison staff</title>
+  <content>
+Paramedics have treated three Victorian prison officers after a violent prisoner attacked them in a Melbourne prison.
+It's understood the prisoner at the Melbourne Assessment Prison attacked three staff on Sunday and they were seen by paramedics but not taken to hospital.
+The prisoner had also threatened an officer with a shiv a week earlier. The Victorian Justice Department has been contacted for comment.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Assessment Prison</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

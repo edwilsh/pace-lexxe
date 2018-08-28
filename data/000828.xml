@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398784990948256</docid>
+  <date>31/07/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/queensland-police-officer-stood-down-amid-domestic-violence-allegations/news-story/53d7901231682cacd85c8ad16220db35</url>
+  <title>Cop stood down amid DV allegations</title>
+  <content>
+A BRISBANE police officer has been forced to stand down from operational duties after being accused of domestic violence allegations.
+The Queensland Police Service said the 25-year-old male constable will be confined to non-operational duties while the allegations are investigated.
+No further details have been released.
+If you need help contact the national domestic violence helpline on 1800 737 732 or call 1800RESPECT.
+</content>
+  <sindexList>
+  <sindex>
+    <name>DV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

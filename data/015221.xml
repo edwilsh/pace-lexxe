@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423652852052520</docid>
+  <date>04/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/12/10/drugs-assets-seized-in-perth-home-search</url>
+  <title>Drugs, assets seized in Perth home search</title>
+  <content>
+A 52-year old man has been charged with a string of drug offences and had his assets frozen after a raid on a property in a coastal Perth suburb.
+Drugs including methylamphetamine and MDMA, as well as stolen property were allegedly found in a search of the man's $800,000 Coogee home on Monday.
+His 10 charges include possession of a prohibited drug with intent to sell or supply, possessing a controlled weapon and breaching a violence restraining order, and he will appear in Fremantle Magistrates Court on August 29.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fremantle Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MDMA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coogee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

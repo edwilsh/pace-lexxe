@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410299798478885</docid>
+  <date>01/08/2017</date>
+  <time>22:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Broker</source>
+  <url>http://www.brokernews.com.au/news/breaking-news/investors-flagged-in-false-loan-switching-239409.aspx</url>
+  <title>Investors flagged in false loan switching</title>
+  <content>
+Recent trends in the property market have suggested that all may not be what it seems when it comes to investors reclassifying their loans as owner-occupier, according to one international bank.
+While investment property lending has slowed down from 0.76% in December to 0.41% in June, figures for actual lending have remained steady between 0.50% and 0.55% per month, said UBS analysts  and Rachel Bentvelzen in a recent Australian banking sector update.
+The update entitled Are Owner Occupiers Filling the Investor Housing Gap? was released on Monday (31 July) and implied two possibilities:
+
+Owner occupier lending is filling the gap left by investors
+
+Some investment borrowers are telling their lender they intend to occupy their property to benefit from lower interest rates
+
+Since first home buyer numbers are near record lows, the analysts said that for owner occupiers to be filling the gap, it would require a rapid uptick in the number of upgraders purchasing bigger homes.
+"While it is plausible that there has been an increase in upgraders, we would not be surprised if borrowers are tempted to apply for or re-classify themselves as owner occupiers given the almost 60 basis point differential in interest rate between owner occupier and investment property lending."
+This was consistent with figures from previous UBS research which found that 28% of mortgage holders in general and 32% of those using mortgage brokers said their application was not factually accurate, Mott and Bentvelzen said.
+
+Related stories:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Investor Housing Gap</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bentvelzen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Monday 31 July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Owner Occupiers Filling</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Rachel Bentvelzen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

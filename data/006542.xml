@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409707092980209</docid>
+  <date>01/08/2017</date>
+  <time>20:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/domain-is-opening-up-its-property-data-for-startups-to-use-2017-8</url>
+  <title>Domain is opening up its property data for startups to use</title>
+  <content>
+While fintechs , property tech startups have been provided a leg-up by major real estate classifieds site Domain.
+
+Domain, owned by Fairfax Media*, on Wednesday launched a public application programming interface (API), which allows third parties to access its vast dataset of Australian properties.
+
+Domain Group senior product manager Simon Farrugia said that the open API was the first of its kind in the country and has the potential to "reshape the future of innovation for the industry".
+
+"To date, it has been timely and costly for a startup or established business to quickly move on an idea. It typically involves filling out forms, signing an NDA, and agreeing to contracts," he said.
+
+"The delivery often involves working with manual data exchanges, which is error prone and inefficient. We are removing the barriers and democratising our property data, and encouraging innovation."
+
+The new API regime sees startups able to choose from three feeds from Domain: agencies and listing data; property content data; and property & location data.
+
+Business Insider has contacted Domain about pricing details.
+
+Domain Group chief technology officer Mark Cohen said that the opening up of the data would "strengthen" its relationships with third parties and build its reputation as one of the leading property platforms.
+
+"The wealth of data Domain Group holds provides enormous value to the Australian property industry and we look forward to seeing what innovations eventuate from this," he said.
+
+* - Fairfax Media also owns Allure Media, the publisher of Business Insider.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NDA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Domain Group</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Simon Farrugia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Allure Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Cohen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441953707913329</docid>
+  <date>07/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/westpac-puts-40m-into-zipmoney-470248</url>
+  <title>Westpac puts $40m into zipMoney</title>
+  <content>
+Westpac has taken a $40 million stake in listed fintech firm zipMoney, which provides credit that can be used for online and in-store purchases.
+
+The bank's equity investment is coupled with a "strategic relationship" to find ways to incorporate Zip's products and services into "Westpac's network".
+
+"As part of the strategic relationship, the parties will explore other initiatives including the provision of currently in-development business-to-business products and services to Westpac," the fintech said in a statement.
+
+Zip said it would put the equity into the further development of "new products and technologies, including enhancing data science and proprietary decisioning capabilities".
+
+Zip acts as an alternative form of credit for consumers.
+
+As with existing credit lines, the firm offers consumers a fixed interest-free period, generally for three months, before it begins charging interest. Merchants can offer longer interest-free periods at their discretion.
+
+Zip says it charges a "monthly service fee of $4.95 when there is an outstanding balance" on an account. There "may" also be an "establishment fee" charged for accounts with higher credit limits, and late fees for not paying prior to a due date.
+
+In addition to covering retail transactions, the company also has a healthcare service, which similarly allows people to use credit to cover medical bills.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>zipMoney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

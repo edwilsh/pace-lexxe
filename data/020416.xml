@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438221381294004</docid>
+  <date>06/08/2017</date>
+  <time>10:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/attempted-armed-attack-at-eiffel-tower/news-story/ff3ee8f2ca12fef6d829690700e207e0</url>
+  <title>Attempted armed attack at Eiffel Tower</title>
+  <content>
+An attempted attack by an armed man at the Eiffel Tower caused police to evacuate the famous Parisian landmark.
+The man was arrested on Saturday night and is being held for questioning, police say.
+The incident occurred about 11.30 pmlocal time.
+The tower, which lets visitors enter until midnight, was evacuated an hour later in what the police source said was a standard precaution.
+The company that runs the Eiffel Tower said that a man with an "arme blanche" - a French term for any weapon that is not a firearm - attempted to force his way through one of the security checks at the entrance to the tower.
+He was "quickly overcome and arrested," the company said, and there were no injuries.
+France has been on high alert since a series of terrorist attacks in 2015 and 2016 that left more than 230 people dead.
+Security forces have been attacked several times this year at tourist sites in Paris, which they patrol intensively.
+In June 2017, a man attacked police officers with a hammer outside Notre Dame cathedral, injuring one of them.
+In April, a police officer was shot dead on the Champs-Elysees by a man with a long criminal record.
+In January, a man attacked soldiers on guard near the Louvre museum in Paris with a machete, causing a slight injury to one of them.
+Authorities are treating all three of those incidents as terrorism.
+City authorities plan to replace the makeshift barriers currently surrounding the Eiffel Tower with bullet-proof glass walls on two sides, and metal fences on the other two.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parisian</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Notre Dame</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eiffel Towers</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louvre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Champs Elysees</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

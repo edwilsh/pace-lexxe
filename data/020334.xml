@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438255741032664</docid>
+  <date>06/08/2017</date>
+  <time>10:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836800/knife-wielding-man-shot-by-police-in-northern-nsw/?cs=4219</url>
+  <title>Knife-wielding man shot by police in northern NSW</title>
+  <content>
+A man has been airlifted to hospital in a critical condition after being shot by police during a confrontation in Grafton on Sunday afternoon.
+
+The man, who is yet to be identified, allegedly confronted police wielding a knife after they responded to reports of a disturbance at a unit on Turf Street.
+Police first Tasered the man, before shooting him.
+Officers treated the man at the scene until paramedics arrived.
+The man was then taken to Grafton Hospital before being airlifted to hospital on the Gold Coast.
+A police statement said a critical incident team would investigate the circumstances of the shooting, which will be subject to an independent review.
+Police are appealing for witnesses to come forward and call Crime Stoppers on 1800 333 000.
+
+/**/
+
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turf Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

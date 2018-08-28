@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443237903152413</docid>
+  <date>07/08/2017</date>
+  <time>06:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/voters-kinder-to-key-independents-than-major-party-leaders-20170802-gxo83x</url>
+  <title>Voters kinder to key independents than major party leaders</title>
+  <content>
+Independent and minor party politicians tend to be held in higher regard by swing voters than major party leaders because they are more likely to speak their mind, new focus group research finds.
+And the rise of Donald Trump in the United States and last year's Brexit vote in the United Kingdom have also lifted awareness, especially among younger voters, that individual votes do matter.
+"(They) felt galvanised and even obliged to take voting more seriously and learn more about each of the parties' policies so they could make an informed decision," concluded the research which was conducted last week for Fairfax Media by Ipsos Australia.
+ On Monday night, two groups of undecided voters in western Sydney were tested.  One group comprised voters aged 45 and over who voted Liberal in 2016 and a group aged between 18 and 45 who voted Labor last year. On Tuesday night in Melbourne, a group of 45s and over who voted Labor in 2016 were tested, followed by a group of 18-to-45s, who voted Liberal.
+
+All voters from all four groups are undecided voters.
+
+While  and former PM , voters were more forgiving toward the likes of Nick Xenophon, Derry Hinch and Pauline Hanson. 
+Typical views expressed about Senator Xenophon included "good negotiator", "he isn't scared of companies, he isn't scared of exposing things" and "he is a good leader and he can communicate quite effectively".
+Senator Hanson was generally well regarded for not being afraid "to say what she thinks" and "she understands the middle-to-low class". On the downside, her ability to grasp detail was questioned with one illustrative quote being "her IQ level is not quite right".
+Senator Hinch was well regarded for taking strong stands on issues, as both a radio broadcaster and now a politician.
+
+"Despite other people's views about what he is, he really stands up for what he believes in and that he once went to jail for it."
+Voters were far more reserved about Mr Trump. While there was a general view "he has done stuff", the rest was fairly negative.
+"He s not professional. If any of us in our job tweeted like that we would all be fired," said one swing voter.
+Another said they were worried Australia could head in the same direction.
+
+"It just makes me think I hope we never end up there. Imagine if Gina Rinehart [ever became Prime Minister]?"
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>IQ</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Senator Hanson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Senator Xenophon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Derry Hinch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Kingdom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gina Rinehart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Xenophon</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Pauline Hanson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipsos Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senator Hinch</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

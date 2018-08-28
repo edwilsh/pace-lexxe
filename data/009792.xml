@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414186743951257</docid>
+  <date>02/08/2017</date>
+  <time>13:35</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/financial-services/lessrisky-loans-could-create-more-mortgage-risks-genworth-20170802-gxnupf</url>
+  <title>Less-risky loans could create more mortgage risks</title>
+  <content>
+Home buyers who are desperately trying to meet banks' requirements for higher mortgage deposits may actually be injecting more risk into the housing market in the long term.
+The country's largest mortgage insurance provider, Genworth Mortgage Insurance Australia, said its data showed mortgages with a loan-to-value ratio of 75-80 per cent - that is, where the bank has lent 75 to 80 per cent of the home's value - default more often than those with an LVR of 80-90 per cent. High-LVR mortgages are often favoured by first home buyers.
+Genworth chief executive Georgette Nicholas said the higher default rate is because people are scraping together deposits through credit cards, personal loans or loans from their parents to get below an LVR of 80 per cent to avoid having to take out the lenders mortgage insurance that Genworth sells.
+LMI protects a lender if a borrower defaults on their home loan. It is standard practice in the banking sector to insist that borrowers take out LMI if their LVR goes above 80 per cent.
+
+"The draw to lower-LVR lending is creating additional risk factors and unintended consequences in the mortgage markets. There has been an increased use of unsecured debt and cross-collateralisation of properties, especially parental guarantees, to achieve a lower LVR," said Ms Nicholas.
+
+"I compare some of this to what happened in the US with 80-10-10 loans or piggyback loans, where an unsecured line of credit was put against a mortgage and those perform much worse in a crisis than loans which had LMI on them."
+The 80-10-10 loans seen in the US in the lead-up to the GFC allowed borrowers to take out two home loans - one for 80 per cent of the purchase price and a second for 10 per cent of the price. This allowed home buyers to avoid taking out LMI.
+The reports that home ownership for under-40s plunged from 36 per cent to 25 per cent from 2001 to 2014, while mortgage debt in the group has ticked up from 89 per cent in 2002 to 94 per cent in 2014.
+Delinquency rising
+
+Genworth is also grappling with an increase in delinquent loans, which helped push its loss ratio up 34.8 per cent in the six months to June 40, up from 33.0 per cent for the first half of 2017.
+The second-quarter 2017 overall delinquency rate has lifted to 0.51 per cent, up 8 basis points compared with the same period last year. Queensland and Western Australia were again called out because of the downturn in the mining, but parts of Victoria where employment in the manufacturing sector is under pressure are becoming a larger contributor.
+The rate of delinquencies in Queensland was up 10 basis points to 0.72 per cent and WA was up 25 basis points to 0.86 per cent from the 2016 June half.
+"The number of paid claims is 711 in the half and was up from a year ago. The average paid claims was just over $102,000 and is also over the normal long-run expectations, and reflects the payment of a number of higher-than-average claims in regions that have experienced significant house price depreciation due to the slowdown in mining activity," said Genworth chief financial officer Luke Oxenham.
+
+This comes as Genworth, the ASX-listed arm of the US lender's mortgage insurance provider, on Wednesday
+The company reported that its net profit for the period was $88.7 million, down 34.7 per cent on the previous corresponding period.
+New insurance written dropped 6.4 per cent to $13.1 billion for the six months to June 2017. GWP dropped 4 per cent to $182.3 million compared with the previous corresponding period, and net earned premium was down 7.5 per cent to $211.6 million.
+As part of a program of capital management, Genworth confirmed an on-market share buyback of $100 million and restructured its reinsurance program.Genworth has about 30 per cent of the LMI market share and provides cover for Commonwealth Bank of Australia and more than 100 smaller lenders.
+
+But its relationship with the National Australia Bank may be ripe for change, with the company telling investors on Wednesday that the bank had issued a request for proposals relating to its LMI requirements.
+In March, The Australian Financial Review revealed that  Macquarie, which represented 14 per cent of gross written premium. However, it was able to secure alternative business with the banking giant.
+"I think the value proposition is still strong for our lenders, we still see them using significant amounts of mortgage insurance in their portfolios," said Ms Nicholas.
+"I think as bank capital has grown and there was additional pressure around pricing and margins of the portfolio, they're looking for various ways to manage both their capital and risk."
+
+A combination of large macro issues, including the Australian Prudential Regulation Authority's move to cap risky loans, has seen the high-LVR segment shrink.
+For first-half 2015, 25 per cent of new insurance written was for loans above 90 per cent LVR, but for this most recent half they accounted for 17 per cent.
+UBS analyst James Coghill said that although "key profit drivers remain under pressure" from rising delinquencies and declining GWP, first-half 2017 contained no significant incremental negative news and confirmation of a buyback could thus sway short-term sentiment back to the capital bulls.
+The company maintained its guidance for 2017 of GWP and NEP 10-15 percent and loss ratio 40-50 per cent, and said it would pay an interim dividend of 12¢ per share plus a special dividend of 2¢, both fully franked. The record date for the dividends is August 16.
+Genworth shares are 9.97 per cent for the year to date. The benchmark S&P/ASX 200 index was up about 3.1 per cent during the same period.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LMI</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>LVR</name>
+    <count>8</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Georgette Nicholas</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>James Coghill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Nicholas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Mortgage Insurance Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GWP</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June 40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Australia Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX200</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Luke Oxenham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

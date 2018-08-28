@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444530688330676</docid>
+  <date>07/08/2017</date>
+  <time>11:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/holocaust-denier-ernst-zundel-dies/news-story/98fdb04c2c81cc920543516bf4cbb407</url>
+  <title>Holocaust denier Ernst Zundel dies</title>
+  <content>
+Far-right activist Ernst Zundel, who was convicted of Holocaust denial in Mannheim after his deportation from Canada, has died. He was 78.
+Marina Lahmann, a spokeswoman for the community of Bad Wildbad in Baden-Wuerttemberg where Zundel lived, told The Associated Press on Monday he died over the weekend but she had no further information.
+Zundel's wife was quoted by media in Canada as saying he had died of a heart attack on Sunday.
+Born in Germany in 1939, Zundel emigrated to Canada in 1958 and rose to nationwide notoriety for his neo-Nazi beliefs and writings, including The Hitler We Loved and Why.
+He was deported in 2005 from Canada and convicted in 2007 of Holocaust denial, a crime in Germany. He was released from prison in 2010.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Holocaust</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Hitler We Loved</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bad Wildbad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mannheim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baden-Wuerttemberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina Lahmann</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Zundel</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nazi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ernst Zundel</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

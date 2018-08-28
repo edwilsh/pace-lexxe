@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441464081635329</docid>
+  <date>06/08/2017</date>
+  <time>23:26</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/best-smartphones-august-2017-8</url>
+  <title>The 20 best smartphones in the world</title>
+  <content>
+Hollis Johnson
+
+Samsung's Galaxy S8 is the best-looking smartphone out right now, period. Yes, it's better-looking than the iPhone 7. The curved glass on both the front and back of the S8 is a refinement of its predecessor, the Galaxy S7. And the ultra-narrow borders around the screen makes the S8 the new reference for premium, luxurious design in smartphones.
+
+Apart from looks, the Galaxy S8 is laden with features, including water resistance, a taller-than-average screen that's great for viewing more of your content, fast charging, wireless charging, face recognition, iris recognition, the best-in-class camera, Samsung Pay, and a hidden home button.
+
+It sounds like the S8 should take the top spot on this list, but I'm not a fan of Samsung's layer of software, called Touchwiz, that runs on top of stock Android. Unfortunately, it will inevitably prevent the Galaxy S8 from receiving the latest Android updates from Google on time when they're released. And, overall, I prefer stock Android's clean look and functionality.
+
+It's true that the Galaxy S8 wouldn't have features like face or iris recognition without Touchwiz, but those Samsung-specific features don't tempt me as much as timely Android updates. And Samsung's own software isn't even fully baked onto this phone yet; the company's own Siri-like virtual assistant, Bixby, will not be ready at launch, and will roll out in an update for this phone later in the year.
+
+Price:
+
+Read the Samsung Galaxy S8 review >>
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 7</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Samsung-specific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Touchwiz</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Galaxy S7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Galaxy S8</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Siri-like</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>S$8</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Galaxy S8</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>4</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Hollis Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bixby</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Pay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

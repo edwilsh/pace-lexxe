@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428385906095092</docid>
+  <date>04/08/2017</date>
+  <time>20:41</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/british-columbia-fires-continue-to-rage/news-story/4c6c7c2aa59fc1f23526f379b95f8d8b</url>
+  <title>British Columbia fires continue to rage</title>
+  <content>
+The Canadian province of British Columbia has extended a state of emergency by two weeks for a second time as it battles 122 fires that have forced as many as 45,000 people to flee their homes.
+Since April 1, 840 fires across the province have charred an estimated 460,000 hectares and destroyed 305 structures, officials say, including homes, sheds, barns, and commercial buildings. About 115 burnt structures have not been identified.
+The fires have cost the province $C188 million (about $A187.3 million) so far this fire season, its government has said.
+While many evacuees have since been allowed back to their homes, British Columbia's government says there are still 25 evacuation orders affecting about 7,00 people, and there are roughly 25,000 people under a less serious form of notice, an evacuation alert.
+The state of emergency, which grants the authorities more powers, will be extended until August 18, following a previous extension on July 19, the government says.
+British Columbia has not declared a state of emergency since 2003.
+Firefighters from Mexico and the US are due to arrive in British Columbia this week to help tackle the flames.
+Mexico will send 108 firefighters and the US 27 to join a force of nearly 4000 battling blazes that have shut sawmills and mines and forced thousands from their homes. It is so far the province's third-worst fire season on record, based on area burnt.
+British Columbia said on Friday it would provide each evacuee household with $C600, which will be renewed every 14 days until they return to their homes.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>British Columbia</name>
+    <count>6</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Mexico</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>C$188</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 1, 840</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUGUST 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>C$600</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

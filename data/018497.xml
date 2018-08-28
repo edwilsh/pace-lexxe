@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432247081732116</docid>
+  <date>05/08/2017</date>
+  <time>11:40</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/national/2017/08/05/australian-airport-security/</url>
+  <title>Australian airports set for domestic security overhaul</title>
+  <content>
+Australian passengers are set to experience rigorous airport screening in domestic terminals in line with international travel procedures.
+Cross-checking boarding passes with personal identification, plus liquid, aerosol and gel restrictions for carry-on luggage and full-body scans are expected in domestic terminals following an alleged Islamic terror plot to bring down a passenger plane.
+Two Sydney men have been charged over a conspiracy to blow up an Etihad flight from Sydney to Abu Dhabi on July 15 using an improvised explosive device allegedly shipped to them from Turkey.
+The rollout of the new domestic security restrictions has yet to be announced and will go before a full cabinet in the coming weeks, according to a published Saturday.
+Australian airports are already advising passengers to arrive at least two hours prior to domestic flights and three hours prior to an international flight.
+The Federal Government is also believed to be considering biometric identity checks by iris or fingerprint according to .
+Reports also suggest the government has also flagged the security changes may prevent anyone without a boarding pass entering the domestic terminal gate area, as is the case in the US.
+Australian Airline Pilot's Association (AusAPLA) safety and technical director Shane Loney said while increased security and restrictions have been part of international flight procedure for some time, domestic flights remained vulnerable.
+"The risk exists for domestic flights as well, so it makes sense to put those steps in place," said Mr Loney, who added he "seen enough" security breaches.
+"Liquid scanning, limits on amount of liquids, most of these security procedures don't occur on a whim."
+Mr Loney explained the current Australian system allowed a domestic passenger to book a flight, turn up and board a plane.
+"At no stage is a person verified. Is this actually the person that booked the flight? How do we know if that person is not on any security watch list? Is this person who boards the person they say they are?"
+
+The Australian Airline Pilot's Association said the proposed changes should include screening of airport employees and contractors.
+In a statement the association said pilots were subjected to screenings and did not understand why others who had access to aircraft - baggage handlers, cleaners and catering staff - were not.
+Mr Loney said we will have to "wait and see" how much transit time for passengers will be increased by the measures, but we could look to international terminal standards.
+"Some security measures are highly visible - others are not seen by the travelling public," Mr Chester said in a statement.
+Sydney Airport was contacted by The New Daily but a spokesperson declined to comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Chester</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Etihad</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Turkey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Airline Pilots Association</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July 15</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AusAPLA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Shane Loney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Loney</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cross-checking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abu Dhabi</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

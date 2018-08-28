@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411373540320786</docid>
+  <date>02/08/2017</date>
+  <time>02:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/man-trapped-in-majura-parkway-truck-crash-20170802-gxnneb.html</url>
+  <title>Man trapped in Majura Parkway crash </title>
+  <content>
+Firefighters are working to free a man trapped in a truck after the vehicle crashed with a grader on the Majura Parkway.
+The Emergency Services Agency said the man was being treated by intensive-care paramedics for suspected lower limb injuries and would be transported to the Canberra Hospital once freed from the wreckage.
+The ACT Ambulance Service and ACT Fire & Rescue were alerted to the incident at 11.12 am and arrived to find the man trapped in the passenger side of the light truck. 
+The crash occurred in the northbound lanes of the Majura Parkway near the Tambreet Street exit.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Canberra Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Majura Parkway</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tambreet Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Ambulance Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Fire</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400631826913101</docid>
+  <date>31/07/2017</date>
+  <time>08:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-07-31/weather-warning-perth-suspected-tornado-wind-gusts/8759210</url>
+  <title>Weather warning: Suspected tornado hits Perth's north as storm sweeps through</title>
+  <content>
+Trees are down and building damage has been reported after a suspected tornado ripped through Perth's northern suburbs, as an intense cold front hits Western Australia's south.
+The State Emergency Services has received 44 calls for help, 42 of which were in the metro area.
+The Bureau of Meteorology (BOM) said the suspected tornado moved through parts of Sorrento, Duncraig, Warwick, Hamersley and Balga at speeds of more than 110 kilometres per hour.
+"This damage is consistent with winds estimated to be in excess of 110 kilometres per hour, and the path is also consistent with that of a typical cool season tornado," the BOM said in a statement.
+A severe weather warning was issued due to isolated areas of dangerous wind gusts, but has since been cancelled.
+A fallen tree has also caused damage to a house in Margaret River.
+
+External Link:
+
+Live video of storm coming over City Beach
+The BOM said wind gusts of 82 kilometres per hour had been observed in Mandurah just after 10:00am as the strong front crossed the coast.
+Cape Leeuwin recorded a gust of 96 kilometres per hour at 7:00am, while Rottnest recorded winds of 89 kilometres per hour about the same time.
+
+External Link:
+
+BOM tweet
+Tornadoes typically occur two or three times in Perth during winter, the BOM said.
+"Typical tornado paths are around 50-150 metres wide and several kilometres long, and damage to houses in the path can range from minor roof damage to complete demolition," it said.
+"They often last as little as half an hour, but by that time the damage is done."
+
+External Link:
+
+BOM tweet 2
+The Department of Fire and Emergency Services is advising people to be careful of fallen trees and powerlines, as well as stormwater drains and streams.
+It said people should assess their home, car and property for damage and contact their insurer if damage has occurred.
+Gusty showers, hail and thunderstorms are expected to continue in Perth and throughout the South West for the rest of Monday.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City Beach</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hamersley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cape Leeuwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sorrento</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Rottnest</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Duncraig</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balga</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

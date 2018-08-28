@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416437306859606</docid>
+  <date>02/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melbourne-train-delays-due-to-massive-electrical-spark/news-story/1513dc6870dac0f6a8525370eadc60b4</url>
+  <title>Explosion sparks peak hour train delays</title>
+  <content>
+A MASSIVE electrical spark has ground trains to a halt this morning near Flinders St Station.
+Passengers on board the affected train were forced to jump off the train and walk along Batman Ave to the nearby station.
+Metro spokeswoman Sammie Black confirmed an overhead power issue between Richmond and Flinders St station is causing delays of up to 45 minutes on the Sandringham line.
+MFB crews were called to Flinders St station at 7.24am but confirmed it was a "false alarm" and there was no fire.
+Crews left the scene a short time later.
+Electricians are on site and Metro said they are hoping to restore power shortly.
+Commuters are urged to check the Metro website for information about delayed services.
+Motorists are also facing major delays this morning as four crashes within a one kilometre stretch of the Western Ring road caused traffic chaos about 7am.
+The multi-car crashes, which occurred within an hour of each other, has traffic backed up Altona-bound between Airport Drive and the Calder Freeway.
+The left lane remains closed at Airport Drive, due to two separate collisions.
+There is also a third collision in the left-hand emergency lane Altona-bound.
+Delays are currently back to the Tullamarine Freeway.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flinders St Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MFB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altona-bound</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Calder Freeway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Airport Drive</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Western Ring</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sammie Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Batman Ave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders St</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tullamarine Freeway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandringham</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

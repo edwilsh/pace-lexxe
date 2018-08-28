@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410089345077120</docid>
+  <date>01/08/2017</date>
+  <time>21:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/video-released-in-probe-of-sydney-fires/news-story/82291778fa35714fb38c004f7763f68a</url>
+  <title>Video released in probe of Sydney fires</title>
+  <content>
+NSW police have released dramatic security footage in their appeal for information about two suspicious fires at a function centre in Sydney's west.
+The first fire was put out quickly early on Boxing Day 2016 but it caused major smoke damage at the Bankstown centre, police say.
+A second blaze on January 3 caused major damage to the building.
+The CCTV video shows two people appearing to pour fuel around the centre's interior and flames engulfing the floor.
+It also shows an XR model Ford utility seen in the area about the time of the fire.
+Detectives want to speak to anyone who recognises the people or the ute.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>XR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bankstown</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boxing Day 2016</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>January 3</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

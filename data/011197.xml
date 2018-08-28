@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416437306859569</docid>
+  <date>02/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4830143/warilla-road-closed-after-gas-main-leak/?cs=12</url>
+  <title>Warilla road closed after gas main leak</title>
+  <content>
+A gas leak has caused peak hour traffic disruptions Thursday morning.
+
+Some time before 8am emergency services cordoned off sections of George Street with different diversions in place.
+A NSW Police spokeswoman said it was due to a broken gas line at Arcadia Avenue.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Arcadia Avenue</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Warilla</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>George Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

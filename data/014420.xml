@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423532592965896</docid>
+  <date>04/08/2017</date>
+  <time>01:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/technology/young-computer-researcher-hailed-a-hero-for-derailing-wannacry-virus-has-been-arrested-by-the-fbi-over-sinister-software/news-story/891e960771b2e3e4d411cad0f98c6470</url>
+  <title>Hacker hero suddenly arrested in Vegas</title>
+  <content>
+A YOUNG computer researcher who just months ago was hailed as a hero for stopping the spread of a global malware attack has been arrested by the FBI for allegedly distributing banking malware.
+You might remember the face of Marcus Hutchins. Pictures of the curly-haired surfer from the UK were plastered all over the internet after he found a way to inadvertently derail the WannaCry ransomware virus.
+The 22-year-old researcher from cybersecurity firm Kryptos Logic stopped the malware in its tracks by registering a specific website domain included in the code of the malware, and in doing so earned .
+But what a difference a few months makes.
+On Thursday in the US he was swooped on by federal agents in Las Vegas for allegedly creating and distributing malicious software designed to collect bank account passwords in 2014.
+The youngster was on his way back to Britain from an annual gathering of hackers and information security experts in Las Vegas.
+The malware, called Kronos, that he is accused of creating infects web browsers, then captures usernames and passwords when an unsuspecting user visits a bank or other trusted location. Such software would be hugely valuable to willing cyber criminals.
+An unsealed indictment accused him of intentionally creating the banking malware for criminal purposes as well as a conspiracy to sell it for around $3700 between 2014 and 2015 on dark web market places.
+The indictment also include a co-defendant but the name has been mysteriously redacted, leading to conspiracies and questions about the case.
+The big question is why is one name of the co-accused blacked out?
+"Maybe the other guy testified against him," computer security expert Rob Graham wondered out aloud to the Associated Press.
+News of Mr Hutchins' detention - who is considered a rising star among white hat hackers - came as a shock to the cybersecurity community. Many have rallied behind the researcher whose quick thinking helped stop the spread of the WannaCry attack in May.
+The Electronic Frontier Foundation, a San Francisco-based digital rights group, said it was "deeply concerned" about Hutchins' arrest and was attempting to reach him.
+Speaking to , Orin Kerr, a law professor at George Washington University raised serious questions about the case saying
+"It's not a crime to create malware. It's not a crime to sell malware. It's a crime to sell malware with the intent to further someone else's crime." Mr Kerr said. "This story alone doesn't really fit. There's got to be more to it, or it's going to run into legal problems."
+It's very difficult to prosecute such cases as the problem with software creation is that often a program includes code written by multiple programmers. Prosecutors might need to prove that Hutchins wrote code with specific targets - which would be extremely difficult.
+The FBI said the malware was first made available in early 2014, and "marketed and distributed through AlphaBay, a hidden service on the Tor network." Last month the site was shut down by authorities after a prolonged sting.
+A federal magistrate judge said on Friday (AEST) that Marcus Hutchins will stay in custody pending a hearing Saturday morning (AEST) to determine if he will hire his own lawyer or have one appointed to his case.
+The 22-year-old entered no plea.
+- With AP
+
+Kevin Mitnick, who spent time on the FBI's Most Wanted List for hacking 40 corporations, discusses his new book, "The Art of Invisibility," on Lunch Break with Tanya Rivero. He also explains why hackers breach data with relative ease, and why we should never link our devices. Photo: iStock
+
+Former Convicted Hacker on How to Protect Your Data
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kryptos Logic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Orin Kerr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iStock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kerr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Art of Invisibility</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI's Most Wanted List</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tanya Rivero</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>George Washington University</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Electronic Frontier Foundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>TOR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Convicted Hacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Protect Your Data</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Mitnick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lunch Break</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News of Mr</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rob Graham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

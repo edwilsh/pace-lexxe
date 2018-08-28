@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409784402393016</docid>
+  <date>01/08/2017</date>
+  <time>20:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/02/06/15/afghan-bomb-kills-29-people</url>
+  <title>At least 29 killed in Afghan mosque attack</title>
+  <content>
+A suicide bomber and a gunman killed at least 29 people and wounded 63 at a packed Shiite mosque in Afghanistan's main western city of Herat yesterday.
+The assault on the Jawadya mosque in Herat, which is close to Afghanistan's border with Iran, came a day after the Islamic State group claimed a deadly attack on the Iraqi embassy in Kabul.
+The Herat attack was the latest in a series of assaults on Afghanistan's minority Shiite population.
+"The death toll has risen to 29 killed and 63 wounded. Some wounded are in a critical condition so the toll may go up," hospital spokesman Rafeeq Shirzai told AFP.
+Herat police spokesman Abdul Ahad Walizada said the assault happened around 8pm local time on Tuesday when "a terrorist attack was carried out on a (Shiite) mosque in the third security district of Herat city".
+"Based on our initial information two terrorists were involved, one of them wearing a suicide vest who detonated himself while the second one was armed with a rifle. They are both dead," he added.
+A reporter for AFP said he had seen a number of bodies brought out of the mosque, leading to fears of a heavy death toll.
+He reported seeing a body torn to pieces at the entrance, possibly that of the attacker, while others were lying in pools of blood inside, some still crying and moving.
+Photos posted on social media showed large crowds had gathered at the hospital.
+There was no immediate claim of responsibility but IS has been targeting Shiite minority crowds and mosques in Afghanistan for around a year. The Taliban specifically denied that it was involved.
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abdul Ahad Walizada</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Iraqis</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Jawadya</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Shiite</name>
+    <count>4</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Herat</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rafeeq Shirzai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

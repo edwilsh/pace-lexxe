@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425847580376116</docid>
+  <date>04/08/2017</date>
+  <time>10:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/melbourne-police-pursuit-man-arrested/news-story/ea025b35b7c81f14245e441cb2fbec5d</url>
+  <title>Melbourne police pursuit, man arrested</title>
+  <content>
+A driver has been arrested in Melbourne after witnesses reported seeing him narrowly miss children walking on a footpath.
+The man of no fixed address, believed to be aged in his 40s, was driving on the wrong side of a road and then on a footpath at the Mornington Peninsula on Friday afternoon, police said.
+Officers pursued the car along the Eastlink toll road toward Melbourne at speeds reported at 200km/h before they made a dramatic arrest at Huntingdale, with the man taken to hospital suffering minor injuries and three police treated at the scene.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mornington Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huntingdale</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>EastLink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

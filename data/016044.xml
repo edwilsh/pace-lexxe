@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424297097155897</docid>
+  <date>04/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north/the-new-chandler-hwy-bridge-is-the-unlikely-star-of-a-new-video/news-story/89df188918ca00b6b1ea10d36a6f7455</url>
+  <title>Chandler Hwy bridge is a film star</title>
+  <content>
+AS WORK begins on the long-awaited Chandler Highway Bridge upgrade, a new VicRoads video reveals the scope of the massive project.
+The State Government will build a six-lane bridge next to the existing traffic-snarled two-lane bridge, which connects Alphington to Kew.
+The old bridge, which is heritage-listed, will be preserved and converted to a walking and cycling trail.
+VicRoads says the upgrade will remove one of the state's worst bottlenecks, which is used by more than 44,000 motorists each day.
+New safety features will benefit pedestrians and cyclists while improved signalling will keep the traffic flowing.
+
+The $110 million project will create more than 100 jobs, according to the State Government.
+Roads Minister Luke Donnellan said the travel time savings could be up to 20 minutes for some users.
+The bridge is expected to be completed by late 2018.
+More details: https://www.vicroads.vic.gov.au/planning-and-projects/melbourne-road-projects/chandler-highway-kew
+</content>
+  <sindexList>
+  <sindex>
+    <name>Roads Minister Luke Donnellan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kew</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chandler Highway Bridge</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VicRoads</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chandler Hwy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alphington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

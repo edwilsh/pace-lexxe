@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445217883111125</docid>
+  <date>07/08/2017</date>
+  <time>14:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/new-43m-boat-moorings-to-transform-brisbane-river-as-gateway-to-moreton-bay-islands/news-story/d514356ac0b92fa8643569e97e9c27ce</url>
+  <title>See the river like never before</title>
+  <content>
+THE first artist impressions of a $43 million riverside upgrade have been released as part of a bold plan to transform Brisbane's waterway into a gateway to Moreton Bay.
+Brisbane City Council will release designs today for two new docking hubs outside the Powerhouse at New Farm and the City Botanic Gardens at the end of Alice St.
+It is the first step in opening up direct trips from Brisbane to the Moreton Bay islands in what is hoped will be a boon for hop-on, hop-off sightseeing tours.
+The moorings will be the first of 10 new sites, including five inner-city locations, that were heralded as a flagship item of council's Budget this year.
+All up the docking hubs will cost $18 million.
+Lord Mayor Graham Quirk said the plan was about enhancing further tourism and recreational opportunities, including kayaking or paddle boarding, along the city's river.
+"New Farm Park and the City Botanic Gardens are two of the five inner-city docking sites that will be built, followed by West End and two riverfront locations at South Bank," Cr Quirk said.
+"Another five mooring hubs will be built in suburban locations including Dutton Park."
+The pontoon jetties will include several symmetrical fingers for smaller vessels to dock, with a larger area out front for bigger boats. Up to 15 vessels, from canoes to water taxis, will be able to be supported at each of the docking hubs.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane City Council</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dutton Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Farm Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moreton Bay</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>City Botanic Gardens</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West End</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alice St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cr Quirk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lord Mayor Graham Quirk</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Farm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410643395869101</docid>
+  <date>01/08/2017</date>
+  <time>23:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/energy/wind-energy/tesla-batteries-may-back-up-wind-farm-off-massachusetts-coast-20170801-gxngi4</url>
+  <title>Tesla batteries may back up wind farm off Massachusetts coast</title>
+  <content>
+by
+Joe Ryan
+
+ is proposing to pair  with massive offshore wind turbines as part of a bid to supply the state of Massachusetts with clean energy generated at sea.
+The 144-megawatt development would stockpile electricity produced late at night, then deliver it when the grid needs it most, Deepwater chief executive officer Jeff Grybowski said in an interview on Monday US time.
+Deepwater submitted its bid last week in response to a  from National Grid, Unitil and Eversource Energy for about 9.45 million megawatt-hours of annual clean energy supply.
+The contracts - open to hydro-electric, solar and other forms of clean energy - require the majority of power to be delivered during late winter afternoons and evenings.
+
+"Those hours are very valuable to the grid," said Grybowski, who plans to use a 40-megawatt storage system. "The battery will ensure that we can do that."
+
+Massachusetts will award the contracts in December and is expected to make the bids public this week, Grybowski said.
+Deepwater, which built the first US wind farm off Rhode Island, also plans to compete  for contracts limited exclusively to offshore wind developers to comply with a Massachusetts law to aggressively develop the nascent industry in the US.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Joe Ryan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Unitil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rhode Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eversource Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Grid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeff Grybowski</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grybowski</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Massachusetts</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

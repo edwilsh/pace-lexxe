@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423403743944691</docid>
+  <date>04/08/2017</date>
+  <time>01:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Energy Business News</source>
+  <url>http://www.energybusinessnews.com.au/energy/wind/another-wind-farm-sa/</url>
+  <title>Another wind farm for SA</title>
+  <content>
+ENGIE's retail subsidiary Simply Energy will purchase the power
+Construction has begun on another wind farm in the Mid-North region of South Australia, a project which will deliver up to 119MW of extra capacity to the state.
+ENGIE is constructing the Willogoleche Wind Farm around 5 kilometres from the township of Hallett, with the project expected for completion by mid-2018.
+The project was originally develooped by Wind Prospect before being sold to ENGIE, and will comprise 32 turbines producing up to 3.8MW each.
+Willgoleche will not be equipped with energy storage. There isa power purchase agreement in place to supply ENGIE's retail business, Simply Energy, which has more than 80,000 customers in SA.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Engie</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hallett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Willgoleche</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wind Prospect</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simply Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mid-North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Willogoleche Wind Farm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410428647499993</docid>
+  <date>01/08/2017</date>
+  <time>23:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/technology/smartphones/explainer-how-to-extend-your-phones-battery-life/news-story/84fea757101237114c7ab4a233e46723</url>
+  <title>How to extend your phone's battery life</title>
+  <content>
+AS MOBILE phone users, all we want is enough battery life to last the day. Frustratingly, the older the device, the less power it seems to have.
+In fact, the amount of battery life our mobiles have on any given day depends on two key factors: how we use them on that particular day, and how we used them in the past.
+Mobile phones use lithium-ion batteries for energy storage. In this type of battery, lithium metal and lithium ions move in and out of individual electrodes, causing them to physically expand and contract.
+Unfortunately, these processes are not completely reversible and the batteries lose their charge capacity and voltage as the number of charge and discharge cycles grows.
+To make matters worse, the electrolyte (electrically conductive liquid) that connects the electrodes also degrades throughout these cycles.
+The ability of lithium-ion batteries to store charge depends on the extent of their degradation. This means there is a link between how we handle our devices today and the charge capacity available in the future.
+Through a few simple steps, users can minimise this degradation and extend their device's life.
+STRATEGIES FOR EXTENDING BATTERY CAPACITY
+Control battery discharge
+Typical lithium-ion batteries for mobile phones are supposed to retain 80% of their charge capacity after 300-500 charge/discharge cycles. However, batteries rarely produce this level of performance, with charge storage capacity sometimes reduced to 80% levels within only 100 cycles.
+Fortunately, we can extend our future battery capacity by limiting how much we discharge our mobile phone batteries. With most battery degradation occurring during deep discharge/charge cycles, it is actually better to limit the battery discharge during any one cycle before charging it again.
+As it happens, our devices do have battery-management systems, which reduce damage from overcharging and shut down automatically if the battery gets too low.
+Nonetheless, to maximise the battery capacity in the future we should avoid that 0% battery mark altogether, while also keeping those batteries at least partially charged if storing them for a prolonged period of time to avoid deep discharge.
+Extend charging times
+Many of today's mobile devices have a fast charge option that enables users to supercharge them in minutes rather than hours. This is convenient when we're in a rush, but should be avoided otherwise.
+Why? Because charging a battery too quickly reduces its storage capacity.
+Physically, the shuttling of lithium metal and lithium ions between the electrodes in lithium-ion batteries is a slow process. Therefore, charging at lower rates allows more complete shuttling to occur, which enhances the battery's charge capacity.
+For example, charging a phone in five minutes compared with the standard two hours can reduce the battery capacity for that charge cycle by more than 20%.
+Keep the temperature just right
+Fortunately, for most parts of the country, temperatures in Australia sit between 0C and 45C throughout the year. This is the exact range in which lithium-ion batteries can be stored to maintain optimal long-term charge capacity.
+Below 0C, the amount of power available within the battery system is reduced because of a restriction in the movement of lithium metal and lithium ions within the electrodes and through the electrolyte.
+Above 45C, the amount of power available is actually enhanced compared with lower temperatures, so you can get a little more "juice" from your battery under hotter conditions. However, at these temperatures the degradation of the battery is also greatly accelerated, so over an extended period of time its ability to store charge will be reduced.
+As a result, phones should be kept out of direct sunlight for prolonged periods, especially in summer when surface temperatures can increase to above 70C.
+Use battery-saving modes
+Aaron Carroll and Gernot Heiser from the  analysed the power consumption of different smartphone components under a range of typical scenarios.
+They concluded there are a handful of simple software and hardware strategies that can be used to preserve battery life.
+Reduce screen brightness. The easiest way to conserve battery life while maintaining full function is to reduce the brightness of the screen. For devices such as mobile phones that have an organic light emitting diode (OLED) display, you can also use the "light on dark" option for viewing.
+Turn off the cellular network or limit talk time. The connection to the cellular network uses the global system for mobile communication (GSM) module. The GSM is the most dominant energy-consuming component in a mobile phone, so it is beneficial to turn it off altogether or at least limit call time.
+Use Wi-Fi, not 4G. With Wi-Fi being up to 40% less power-hungry than 4G for internet browsing, turning off cellular data and using Wi-Fi instead will help your battery life.
+Limit video content. Video processing is one of the most power-consuming operations on a mobile device.
+Turn on smart battery modes. All modern mobile devices have a smart battery saving mode (for instance, Android has Power Saving Mode and iOS has Low Power Mode). These software features modify central processing unit (CPU) usage for different apps, screen brightness, notifications and various hardware options to reduce energy consumption.
+Use Airplane mode. This mode typically disables GSM, Wi-Fi, bluetooth and GPS functions on your devices. When turning off all such auxiliary functions, the device will use only up to 5% of its usual energy consumption with the screen off. For comparison, simply having your device in idle can still use more than 15%.
+Enhancing your phone's battery usability requires a combination of limiting the use of power-hungry hardware and software, as well as handling mobile devices so as to maximise the charge capacity and minimise battery degradation.
+By adopting these simple strategies, users can extend their battery life by more than 40% in any given day while maintaining a more consistent battery capacity throughout the lifetime of the device.
+
+Jack Jasieniak is an Associate Professor of Materials Science & Engineering and Director of the Monash Energy Materials & Systems Institute (MEMSI), Monash University.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Systems Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OLED</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Power Saving Mode</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Associate Professor of Materials</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Low Power Mode</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gernot Heiser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Director of the Monash</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jack Jasieniak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monash University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G. With Wi-Fi</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GSM</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energy Materials</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aaron Carroll</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EXTENDING BATTERY CAPACITY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MEMSI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CPU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

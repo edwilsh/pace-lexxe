@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406090730444324</docid>
+  <date>01/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/15/58/grasping-victoria-s-new-school-gradings</url>
+  <title>Grasping Victoria's new school gradings</title>
+  <content>
+RAISING THE BAR ON VICTORIA'S SCHOOL RESULTS:
+Grade/Old School Score/New School Score
+A = 85-100 per cent = 18 months ahead of age group
+B = 75-84 per cent = six-to-12 months ahead of age group
+C = 65-74 per cent = working at the same level as age peers
+D = 50-64 per cent = six-to-12 months behind age group
+E = n/a = 12-to-18 months behind age group
+
+Related Articles
+
+F = less than 50 per cent = n/a
+NOTE: There have been progressive changes to the school grading system, not shown in this table. Schools can choose to create their own five-point system, using scales such as "outstanding" and "unsatisfactory".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Old School Score/New School Score</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>F</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BAR ON VICTORIA'S SCHOOL RESULTS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

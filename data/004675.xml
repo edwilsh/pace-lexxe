@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405961881423357</docid>
+  <date>01/08/2017</date>
+  <time>05:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/energy/amazon-and-walmart-finally-give-hydrogen-power-a-reason-to-be-20170731-gxmntz</url>
+  <title>Amazon and Wal-Mart finally give hydrogen power a reason to be</title>
+  <content>
+by
+Joe Ryan and Christopher Martin
+
+Andy Marsh sees his future -- and it's forklifts.
+His tiny company, Plug Power, makes hydrogen fuel cells, and for years he struggled to find customers. No longer. In April, Amazon.com agreed to try out the technology in forklift fleets at 10 of its warehouses.
+And in July, Wal-Mart Stores matched Amazon's $600 million deal with a similar one, committing to double, to 58, the number of its warehouses that use forklifts running on Power Plug cells.
+"Obviously, Wal-Mart sees it. Obviously, Amazon sees it," says Marsh, Plug Power's chief executive officer. "When you have the two largest retailers saying, 'This makes our business run better,' that's validation that this is here for the long run."
+
+Ever since a Swiss inventor named Francois Isaac de Rivaz built the first hydrogen-powered automobile in 1808, inventors and futurists have pinned their dreams and fortunes on the clean technology that converts water to energy. But .
+
+Now, thanks to the thriving warehouse networks of online and big-box retailers, . The numbers work out: Although a forklift outfitted with a hydrogen fuel-cell pack costs up to $58,000 -- about twice as much as one with a standard lead-acid battery -- hydrogen models are 10 percent cheaper over the 10-year life span of an average forklift, according to a study by the National Renewable Energy Laboratory. (Plug says its cost advantage has improved further since the study.)
+Charged in Minutes
+
+That's because they can be charged in minutes instead of hours, eliminating the labor cost of charging batteries, freeing up warehouse space and keeping goods flowing around the clock.
+Hydrogen fuel cells produce power, and a little bit of water, when liquid hydrogen is pushed through a membrane that strips off electrons through an electrochemical process. Fewer than 3 percent of the more than 600,000 forklifts used in US warehouses run on hydrogen, but that number is growing.
+
+Toyota, the world's largest forklift maker, is developing hydrogen-powered models and began using prototypes at one of its plants in Japan this year. Hyster-Yale Materials Handling, another large forklift maker, bought Nuvera Fuel Cells in 2014 and has begun incorporating the technology into its products.
+"Lead-acid batteries have inefficiencies," says Nuvera CEO Jon Taylor. "Fuel cells solve most of those shortfalls."
+Other fuel-cell companies, including Ballard Power Systems and Hydrogenics, are pushing beyond forklifts, using hydrogen to power buses, delivery trucks and drone aircraft. In each of those markets, the vehicles return to a central depot for refuelling, eliminating the need for a sprawling network of hydrogen stations.
+Eureka Moment
+
+Plug Power, founded in 1997, spent years casting about for the right market, including using fuel cells to generate electricity for homes and mobile-phone towers. Marsh's eureka moment came in 2008, when a plain-spoken warehouse manager in Canada explained why forklifts were a good fit. Beyond saving time on recharges and space once used for spare batteries, hydrogen-powered forklifts don't get sluggish inside arctic-cold freezer rooms or when their juice runs low.
+None of that means it'll be easy to unseat lead-acid batteries, which are durable, fully recyclable and have been powering forklifts since the days when most vehicles were drawn by horses. Another hurdle: A federal tax credit for fuel cells expired at the end of 2016 after Congress cut the technology from legislation designed to promote clean energy.
+Still, Marsh says Plug Power is on track to increase its revenue this year and expects to turn a profit as early as next year. "People have talked for years about hydrogen fuel cells being the next disruptive technology," says Jeffrey Osborne, an analyst at investment bank Cowen & Co. "Forklifts are finally validating them."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Joe Ryan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Francois Isaac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeffrey Osborne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nuvera Fuel Cells</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wal-Mart</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>National Renewable Energy Laboratory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christopher Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eureka Moment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ballard Power Systems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andy Marsh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Marsh</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon's $600</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hydrogenics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wal Mart Stores</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cowen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Plug Power</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Power Plug</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rivaz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nuvera CEO Jon Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hyster-Yale Materials Handling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

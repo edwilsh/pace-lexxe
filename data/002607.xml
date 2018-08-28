@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401018373976898</docid>
+  <date>31/07/2017</date>
+  <time>10:29</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/changing-rainfall-leaves-some-areas-experiencing-the-wettest-july-on-record-a-month-after-their-driest-june/news-story/fc2d651a8db1b79fbba1278a9540c1b3</url>
+  <title>From the driest month to the wettest</title>
+  <content>
+SOUTH Australia has gone from the driest month on record for some areas to the wettest for others as the state catches up on its annual rainfall in a tumultuous 31 days.
+In parts of Kangaroo Island, the Yorke Peninsula and areas to Adelaide's north, June was the driest on record while large swathes of the state measured well below average rainfall.
+Flash forward to July, and some of those same areas have recorded the highest rainfall on average.
+A small area in the Barossa Valley went from having the driest June on record to its wettest July.
+Also basking in the high rainfall was areas of the lower Yorke Peninsula, which also had its highest monthly rainfall on record.
+Adelaide experienced more than 13mm rainfall in July over the average of 77.4mm.
+The rain has bought Adelaide back in line with the average for the year so far, only 15mm off the 319.5mm average.
+The rain is far from over with the beginning of August heralding more cold days and evenings with rainfall expected later this week.
+A cloudy, dry day is forecast for Tuesday with a top of 16, but rain is predicted for the rest of the week.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Yorke Peninsula</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kangaroo Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barossa Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

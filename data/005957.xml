@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406387083193078</docid>
+  <date>01/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/national/education/how-every-university-in-australia-ranks-for-sexual-harassment-and-assault-20170801-gxn594.html</url>
+  <title>Search how every university in Australia ranks for sexual harassment and assault</title>
+  <content>
+On August 1, the Human Rights Commission released its report titled , after surveying more than 30,000 students nationwide. Use the interactive below to see reported sexual assaults and harassment at specific universities. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Human Rights Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

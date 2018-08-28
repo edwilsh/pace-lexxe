@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436451854752505</docid>
+  <date>06/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/politics/three-people-missing-after-marine-corps-aircraft-crash-near-australia-20170806-gxqaa9</url>
+  <title>Three people missing after Marine Corps aircraft crash near Australia</title>
+  <content>
+by
+Thomas Gibbons-Neff
+
+The Marine Corps has suspended a search for three Marines who were missing after an MV-22 Osprey went down off the east coast of Australia.
+The Osprey was conducting operations from an amphibious assault ship - a large aircraft carrier-type vessel designed for launching helicopters - when it went into the water, the Marine Corps said in a statement.
+The incident is under investigation, and it is unclear why the Osprey crashed, though landing and taking off from ships at sea is often difficult and inherently dangerous.
+Twenty-three of the 26 personnel aboard the Osprey were recovered by the nearby ship's small boats, but the search for the remaining three Marines shifted to a recovery effort Saturday night, a Marine Corps news release said. The missing Marines' family members had been notified, the statement said.
+
+The aircraft was assigned to Marine Medium Tiltrotor Squadron 265 and was operating with the 31st Marine Expeditionary Unit, or MEU.
+
+President Trump was briefed on the incident Saturday morning by his chief of staff, retired Marine Corps Gen. John F. Kelly, a White House official said.
+Trump and Kelly are in Bedminster, N.J., on what aides have described as a 17-day "working vacation" for the president that began Friday.
+The MV-22 is a hybrid-type aircraft that can take off and land as a helicopter but transitions its two engines to fly like an airplane in midflight. The aircraft had a turbulent development history and was involved in multiple fatal crashes.
+The 31st MEU - based out of Okinawa, Japan - comprises roughly 2,200 Marines and U.S. Navy sailors. Operating from a collection of ships, the unit acts as a standby force that is almost constantly deployed in the Pacific. Late last month, parts of the MEU were training in Queensland, Australia.
+
+The crash is just the latest mishap for Marine Corps aircraft. Last month, a cargo plane carrying 15 Marines and one sailor crashed in western Mississippi, killing all aboard. The incident was one of the deadliest military aviation accidents in decades, and it remains unclear what brought the aircraft down.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marine Corps</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>MEU</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>N.J</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>U.S. Navy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Corps Gen. John F. Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Expeditionary Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twenty-three</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Medium Tiltrotor Squadron 265</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mississippi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Gibbons-Neff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Okinawa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bedminster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ospreys</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Marine</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408113660081765</docid>
+  <date>01/08/2017</date>
+  <time>14:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/us-auto-sales-july-2017-8</url>
+  <title>Big Three automakers report another disastrous month of sales</title>
+  <content>
+The slump in US auto sales extended into July with the so-called Big Three carmakers reporting declines that were worse than expected.
+
+Here's the scoreboard of year-on-year sales:
+
+Auto sales have fallen every month this year following seven straight years of record-setting volumes, suggesting that the market has peaked for now.
+
+Economists forecast a rebound in July sales from June to a 16.8 million seasonally adjusted annual rate, according to Bloomberg.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Three</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

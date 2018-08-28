@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400906704824932</docid>
+  <date>31/07/2017</date>
+  <time>10:03</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/mmg-identifies-targets-at-plumridge/news-story/ea82227a993c434c484f8246f35d446f</url>
+  <title>MMG identifies targets at Plumridge</title>
+  <content>
+MMG has completed a HELITEM survey over a large portion of the Plumridge nickel project area and has identified over 15 EM targets.
+GAP Geophysics has commenced a ground SAMSON fixed loop EM (FLEM) survey of selected high priority targets to refine the orientation of bedrock conductor plates prior to drilling which is expected to be completed in late August.
+MMG is planning to drill test any high priority conductors identified from the ground FLEM program with RC drilling in September 2017.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MMG</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>EMS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAMSON</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Geophysics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>September 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FLEM</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Plumridge</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HELITEM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404110750489980</docid>
+  <date>31/07/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/01/08/20/nz-opposition-leader-quits-amid-poor-polls</url>
+  <title>NZ opposition leader quits amid poor polls</title>
+  <content>
+New Zealand's opposition leader has stepped down after a string of poor poll results.
+A cloud has persisted over the leadership of NZ Labour Leader Andrew Little since two disastrous poll results from One News Colmar Brunton and Newshub Reid Research that saw party support slip to just 24 per cent.
+A third by Labour's own pollsters, UMR, put support at just 23 per cent, low enough to even leave Mr Little's position as a listed MP in doubt.
+Little told the caucus he would stand aside on Tuesday.
+His comments came a little over an hour after Mr Little told an RNZ reporter at Wellington Airport that he wasn't planning on resigning his leadership, nor was he aware of any challenge to his position.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>MP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>One News Colmar Brunton</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wellington Airport</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UMR</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Little</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newshub Reid Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RNZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ Labour Leader Andrew Little</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

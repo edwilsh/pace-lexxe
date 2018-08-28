@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418799538911268</docid>
+  <date>03/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4832331/gwynneville-crash-causing-m1-traffic-delays/?cs=300</url>
+  <title>Gwynneville crash causing M1 traffic delays</title>
+  <content>
+Motorists heading home from work on Thursday afternoon are facing delays southbound after a multi-vehicle crash on the M1 Princes Motorway at Gwynneville. 
+Initial reports suggest three vehicles are involved in the crash, which has closed two of three southbound lanes near the Mount Keira Road overpass. 
+Meanwhile, another crash, understood to involve five vehicles, is reportedly affecting traffic on Memorial Drive near Porter Street.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gwynneville</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>M1</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mount Keira Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Memorial Drive</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Porter Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>M1 Princes Motorway</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

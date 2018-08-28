@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401765698301265</docid>
+  <date>31/07/2017</date>
+  <time>13:23</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/policy/tax/labors-trust-tax-policy-a-concerted-attack-on-business-20170731-gxm10o</url>
+  <title>Labor's trust tax policy a 'concerted attack on business'</title>
+  <content>
+Commercial finance broker David Gandolfo slammed  as a "thoroughly dumb idea and a concerted attack on business".
+"The rhetoric sounds good to the right cheer squad but in practice it will have little if any effect whatsoever other than to inconvenience the 99 per cent of people who run their business legitimately and pay all the tax they should," he said.
+Mr Gandolfo part owns Quantum Business Finance via his family trust, the beneficiaries of which include his wife and adult children. He is the deputy chairman of the Council of Small Business of Australia, which has heavily criticised the Labor proposal.
+Melbourne-based Quantum specialises in commercial finance brokerage for small to medium enterprises, which means Mr Gandolfo sees the books of thousands of businesses every year.
+
+"This is going to affect tradespeople, booksellers, cafe owners, newsagents," he said.
+
+"It's going to affect 100 per cent of people utilising trusts when perhaps 1 per cent might be rorting them. In our experience family trusts only distribute to people within the business who are active in the business. There is nothing unreasonable about distributing profit to the people who earn it."
+, and the average amount held in private trusts by the wealthiest 20 per cent of households was more than $123,000, while for the next quintile it was just $4000. Labor sees mischief in the use of trusts to split income and therefore minimise tax.
+Mr Gandolfo said there might have been abuse of trusts 20 years ago but not now.
+
+"We look at thousands of people's financial statements and we're not seeing widespread rorting of family trusts or distributions to aunts and uncles or people who don't live in the country.
+
+"Plus the ATO's data matching is much better than it used to be."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Quantum Business Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Council of Small</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Gandolfo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne-based Quantum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Business of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mr Gandolfo</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

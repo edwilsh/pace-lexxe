@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410381402859033</docid>
+  <date>01/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/how-holden-closure-will-help-ease-energy-demand/8765828</url>
+  <title>Holden closure will help Energy Market Operator manage SA's blackout risk, report finds</title>
+  <content>
+Part of the soon-to-be vacated Holden factory in Adelaide is  to help stave off load-shedding blackouts this summer.
+But the car industry's closure will help the authorities manage the risk of blackouts in another way.
+The  will see the state using less electricity, .
+The information is contained in the latest Electricity Forecasting Insights published by the Australian Energy Market Operator (AEMO).
+"Projections for strong growth in rooftop PV and other consumer changes, along with closure of the automotive industry, are forecast to result in lower consumption in the next two years," the report said.
+South Australia's forecast maximum operational demand, which usually occurs when air-conditioners kick in on very hot afternoons in summer, is expected to fall to 3,035 megawatts by 2021-22.
+The current maximum demand is 3,116MW.
+Nevertheless, AEMO is forecasting widespread shortfalls of reserve power over the next two summers, prompting the State Government to invest in temporary generators.
+AEMO found South Australia's heavy use of rooftop solar panels meant the state could have a surplus of electricity on some days within a decade.
+"Minimum demand in South Australia is expected to be negative by 2027-28, as rooftop PV generation is expected to exceed customer demand in some hours," the report stated.
+"South Australia could store this excess generation or export it to the rest of the NEM [National Electricity Market] via the interconnectors, provided they were in service.
+"This signals the important need for market and regulatory frameworks that support storage solutions and maximise the efficiency of shared electricity services for consumers."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PV</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NEM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Electricity Market</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Energy Market Operator</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Energy Market Operator</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEMO</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Electricity Forecasting Insights</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424782428467848</docid>
+  <date>04/08/2017</date>
+  <time>06:42</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/bostons-distribution-option-lapses/news-story/593ef53556edc97c1569427379e7e987</url>
+  <title>Boston's distribution option lapses</title>
+  <content>
+Newsbites Finance
+
+Share
+
+REVA Medical said Boston Scientific Corporation's exclusive right to negotiate for distribution of REVA's coronary and peripheral bioresorbable scaffolds has expired.
+BSC's election window was triggered earlier this year when the company delivered an extensive set of positive clinical data supporting the performance of Fantom, the company's drug-eluting coronary scaffold.
+With expiration of the distribution option, all aspects of the 2007 agreement are now concluded.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BSC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>REVA Medical</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fantom</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Boston Scientific Corporation</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reva</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Boston</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

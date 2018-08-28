@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405656938740624</docid>
+  <date>01/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/01/14/14/1000-year-old-baby-skull-found-above-arctic-circle</url>
+  <title>1000 year old baby skull found above Arctic Circle</title>
+  <content>
+A centuries old skull of an infant believed to have been part of a mystery polar civilisation has been uncovered by archaeologists above the Arctic Circle.
+The remains, believed to be 1000 years old, were unearthed following the discovery of fragments of a turquoise-coloured bronzed bowl, the  reports.
+The bowl fragments, which reportedly originated from Persia, were found on the remote permafrost Gydan peninsula in Russia and was part of a lavish burial for a child from a wealthy family.
+As well as the skull, there was the remnants of fur clothes or animal skins, an ancient blade and a small temple ring.
+"We can definitely say that this child was not ordinary," Andrey Gusev, a researcher at the Arctic Research Centre in Salekhard, said.
+"He or she was from some wealthy family, judging by the things laid in the grave. The parents could afford quite expensive things, especially the bowl - it was imported."
+A medical expert Evgenia Syatova, from Yekaterinburg found the fragments of the infant's skull in soil surrounding segments of the bowl.
+"The baby was aged between six months and three-years-old when it died," she said.
+Gusev said a large fragment of the bowl appears to have been intentionally laid upside-down in the ground.
+He said it was not yet clear if the bowl was placed in this manner to cover part of the child's head. However, he said the burial dates back to the 10th to 12th centuries.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yekaterinburg</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Evgenia Syatova</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gusev</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Arctic Research Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Persia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gydan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrey Gusev</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arctic Circle</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Salekhard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398183695518924</docid>
+  <date>30/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/09/19/elderly-man-dies-in-central-qld-crash</url>
+  <title>Elderly man dies in central Qld crash</title>
+  <content>
+An elderly driver has been killed after his car left the road and crashed into a tree near Rockhampton in central Queensland.
+The 80-year-old man died at the scene after the crash at Emu Park at around 6.20am on Monday, police said.
+An 80-year-old woman, who was a passenger in the car, is being treated at Yeppoon Hospital for non-life threatening injuries.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yeppoon Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emu Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

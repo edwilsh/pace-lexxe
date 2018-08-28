@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436675193053642</docid>
+  <date>06/08/2017</date>
+  <time>04:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/man-missing-in-remote-wa-found-alive/news-story/77183ce0e56d0b6723d95e1c0ebb35eb</url>
+  <title>Man missing in remote WA found alive</title>
+  <content>
+A man who was reported missing in a remote part of Western Australia's Pilbara region has been found alive.
+Anthony Collis, 32, was travelling along the Canning Stock Route to Darwin with a 39-year-old woman when they became separated on Thursday afternoon.
+The woman walked into Georgia Bore Camp, 8.2km north of Well 22, and was disoriented and dehydrated.
+Their car was was located on Friday afternoon.
+Mr Collis was found "alive and well" about 8am on Sunday, about one kilometre north of Well 22.
+"He is dehydrated and suffering from exposure, but otherwise fine," a police spokesman said.
+Mr Collis was flown by helicopter to Newman Hospital for treatment.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Georgia Bore Camp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newman Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Collis</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Canning Stock Route</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia's Pilbara</name>
+    <count>1</count>
+    <score>-0.33</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Collis, 32</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Well 22</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

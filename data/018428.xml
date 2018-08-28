@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431813290031484</docid>
+  <date>05/08/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/video/video-news/video-world-news/wall-street-rallies-on-jobs-report-20170805-4wu2r.html</url>
+  <title>Wall Street rallies on jobs report</title>
+  <content>
+'This culture of leaking must stop': Sessions
+
+01:39
+
+Wall Street rallies on jobs report
+
+The Dow has risen to its eighth straight record closing high.
+
+Previous slide
+Next slide
+
+Previous slide
+Next slide
+
+Previous slide
+Next slide
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

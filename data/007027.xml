@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410557496521508</docid>
+  <date>01/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/apples-next-big-leap-augmented-reality/news-story/2f87676e98217a09ca22a4067e32b92e</url>
+  <title>Apple's next big leap: augmented reality?</title>
+  <content>
+Apple's iPhone may be ready for its next big act - as a springboard into "augmented reality", a technology that projects life-like images into real-world settings viewed through a screen.
+If you've heard about AR at all, it's most likely because you've encountered Pokemon Go, in which players wander around neighborhoods trying to capture monsters only they can see on their phones. AR is also making its way into education and some industrial applications, such as product assembly and warehouse inventory management.
+Now Apple is hoping to transform the technology from a geeky sideshow into a mass-market phenomenon. It's embedding AR-ready technology into its iPhones later this year, potentially setting the stage for a rush of new apps that blur the line between reality and digital representation in new and imaginative ways.
+"This is one of those huge things that we'll look back at and marvel on the start of it," Apple CEO Tim Cook told analysts during a Tuesday conference call. Many analysts agree. "This is the most important platform that Apple has created since the app store in 2008," said Jan Dawson of Jackdaw Research.
+There's just one catch: No one can yet point to a killer app for AR, at least beyond the year-old (and fading) fad of Pokemon Go. Instead, analysts argue more generally that AR creates enormous potential for new games, home-remodelling apps that let you visualise new furnishings and decor in an existing room, education, health care and more.
+For the moment, though, we're basically stuck with demos created by developers, including a Star Wars-like droid rolling past a dog that doesn't realise it's there; a digital replica of Houston on a table ; and a virtual tour of Vincent Van Gogh's bedroom .
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>AR</name>
+    <count>4</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Star Wars-like</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pokemon Go</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AR-ready</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jan Dawson of Jackdaw</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's iPhone</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vincent Van Gogh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple CEO Tim Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Houston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

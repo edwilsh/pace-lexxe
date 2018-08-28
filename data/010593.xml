@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416536091109256</docid>
+  <date>02/08/2017</date>
+  <time>22:42</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/gold-near-sevenweek-high-as-us-falls/news-story/ca20b9420e5fb5b8d8cf226d68c2e471</url>
+  <title>Gold near seven-week high as $US falls</title>
+  <content>
+Marcy Nicholson and Peter HobsonReuters
+
+Share
+
+Gold has risen, nearing seven-week highs, as the US dollar fell to a 15-month low and US data showed fewer-than-expected new jobs in July, bringing into question chances of the Federal Reserve raising interest rates in the coming months.
+Gold is highly sensitive to rising rates because they lift bond yields, raising the opportunity cost of holding non-yielding bullion, and tend to boost the US dollar, in which gold is priced.
+Spot gold was up 0.2 per cent at $US1,270.43 an ounce by 1.50 pm Wednesday EDT (0550 Thursday AEST).
+But US gold futures settled down 0.08 per cent at $US1,278.40.
+"This is one of the quieter sessions that I've seen in a while. Part of it is anticipation of the employment report," said Bill O'Neill, co-founder of LOGIC Advisors, pointing to technical resistance in bullion around $US1,280.
+The US dollar index fell to a 15-month low as traders eyed doubts about another US rate increase this year,
+"That's helped perked things up off the lows," O'Neill said, adding that gold's uptrend remained intact.
+US private employers added 178,000 jobs in July, below economists' expectations, a payrolls processor report showed.
+Investors were looking ahead to the more comprehensive US non-farm payrolls report on Friday for a clearer indication of the Fed's intentions.
+
+While weak employment data may dissuade the Fed from aggressive interest rate increases, gold is likely to come under pressure from the bank's plans to shrink its balance sheet, said Mitsubishi analyst Jonathan Butler.
+"If the Fed is no longer investing the proceeds of its maturing debt then we would expect the price of those securities to go down and the yield to go up, which is not good for gold," he said.
+Demand for physical gold has been weak, with holdings in the largest gold-backed exchange-traded-fund, the SPDR Gold Trust, falling more than 7 per cent in July, the biggest monthly outflow since April 2013.
+Among other precious metals, silver was up 0.1 per cent at $US16.69 an ounce after touching its highest since June 29.
+Platinum was up 0.2 per cent at $US945.20 an ounce, after rising to $US951.40, the highest since June 14 and near the 200-day moving average.
+Palladium , used in the automotive industry for emission-controlling catalytic converters, was 0.2 per cent higher at $US893.50 an ounce after rising to $US906, the highest since June 13.
+But US car sales data had disappointed, analysts at Commerzbank said. "We no longer see any justification for the high palladium price."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bill O'Neill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SPDR Gold Trust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter HobsonReuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mitsubishi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcy Nicholson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commerzbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US16.69</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday EDT (0550 Thursday AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,270.43</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US1,278.40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US945.20</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>US906</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Platinum</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>O'Neill</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LOGIC Advisors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 14</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US951.40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2013</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,280</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Butler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US893.50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406043485803292</docid>
+  <date>01/08/2017</date>
+  <time>05:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/nsw/queanbeyan-police-officer-pleads-not-guilty-to-assault-charges-20170801-gxn3mg.html</url>
+  <title>Queanbeyan police officer faces court on assault charges</title>
+  <content>
+A police officer has been charged over an alleged assault at Queanbeyan earlier this year.
+Joseph Steven Fairless, 44, of Bungendore, was charged with assault occasioning actual bodily harm and common assault.
+He appeared in Queanbeyan Local Court on Monday where he pleaded not guilty to both charges.
+NSW police allege the incident occurred during the arrest of a man just after midnight on Sunday, March 5.
+
+The officer, a senior constable, was on duty.
+A spokeswoman for NSW Police said the officer was stood down from active duty following the alleged incident.
+The spokeswoman said he would remain so depending on the outcome of the court case.
+Bail was continued in local court on Monday, with the man to reappear before the court in September.
+The Queanbeyan Age
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queanbeyan Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queanbeyan</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queanbeyan Age</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joseph Steven Fairless, 44, of Bungendore</name>
+    <count>1</count>
+    <score>-0.25</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

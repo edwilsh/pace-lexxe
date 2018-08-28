@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400159380501920</docid>
+  <date>31/07/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/16/55/killer-sa-driver-admits-he-must-be-jailed</url>
+  <title>Killer SA driver admits he must be jailed</title>
+  <content>
+A drugged and disqualified driver who was speeding when he ran down a man in Adelaide has apologised for his actions and admits he must go to jail.
+Dylan Michael Lanc-Quin read his apology to the District Court on Monday, telling the relatives of his victim there was no excuse for his actions.
+Lanc-Quin pleaded guilty to causing the death of Harley Chester in February last year and to fleeing the scene.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Harley Chester</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>District Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dylan Michael Lanc-Quin</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lanc-Quin</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

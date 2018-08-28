@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424477485785010</docid>
+  <date>04/08/2017</date>
+  <time>05:31</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/it-was-full-on-like-gta-pursuit-witness/3208904/</url>
+  <title>'It was full on like GTA': pursuit witness</title>
+  <content>
+RETURNING from a day at the races, Opal Pillage returned home to find her car was missing.
+She said she knew the .
+"She was babysitting my kids when I went to the Coffs Cup," Ms Pillage said.
+Ms Pillage said the babysitter stole her red Ford Falcon.
+She said police notified her that car had been found this morning.
+Witness to the pursuit, Dillon Lock of Coffs Harbour, said he was "doing a Maccas run" when he was caught between the Ford Falcon and pursuing police.
+"I wish I had a dash cam, I'm thinking of buying one," Mr Lock said.
+"It was full on like GTA (video game Grand Theft Auto)."
+Mr Lock said the 16-year-old driver of the Ford lost control on a bend, spinning 360 degrees and veered onto the wrong side of the road before carrying on.
+He said the driver then hit a roundabout near Baringa Hospital, getting airborne and ended in bush.
+Mr Lock said the driver was arrested shortly after.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Baringa Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Opal Pillage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macca</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grand Theft Auto</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Ford Falcon</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lock</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Pillage</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Cup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dillon Lock of Coffs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Harbor</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GTA</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Ford</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

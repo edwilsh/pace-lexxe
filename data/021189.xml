@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441399657124801</docid>
+  <date>06/08/2017</date>
+  <time>23:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/uk-companies-4-turnover-fines-breaches-data-protection-bill-2017-8</url>
+  <title>UK companies will face far tougher fines if they lose customers' info in data breaches</title>
+  <content>
+LONDON - Companies that expose their customers information in data breaches could face far harsher penalties - including fines of up to 4% of their global annual turnover.
+
+On Monday, the British government announced plans to strengthen UK data protection law with the a new Data Protection Bill.
+
+Among the plans laid out in the bill is to give the ICO (Information Commissioner's Office) regulator the power to fine companies up to £17 million, or 4% of global turnover, in the "most serious data breaches."
+
+It's a significant increase - the maximum fine that the ICO can currently levy is for £500,000.
+
+It's likely that these powers would be used in major breaches like the 2015 hack of British telecoms firm TalkTalk . Hackers were able to gain access using a rudimentary attack that has been known about for more than 15 years, and in its aftermath
+
+The Data Protection Bill will also make it easier for people to withdraw consent for the use of their personal data, and expand the definition of "personal data" so that it includes DNA, internet cookies, and IP addresses, among other changes.
+
+In a statement, secretary for digital Matt Hancock said: "Our measures are designed to support businesses in their use of data, and give consumers the confidence that their data is protected and those who misuse it will be held to account.
+
+"The new Data Protection Bill will give us one of the most robust, yet dynamic, set of data laws in the world. It will give people more control over their data, require more consent for its use, and prepare Britain for Brexit. We have some of the best data science in the world and this new law will help it to thrive."
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>ICO</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>TalkTalk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Data Protection Bill</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Information Commissioner's Office</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Hancock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

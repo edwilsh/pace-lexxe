@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410471597173873</docid>
+  <date>01/08/2017</date>
+  <time>23:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/watch-an-australian-robot-wins-the-amazon-robotics-challenge-2017-8</url>
+  <title>WATCH: An Australian robot wins the Amazon robotics challenge</title>
+  <content>
+An Australian team has won first prize at the 2017 Amazon Robotics Challenge in Japan.
+
+The Australian Centre for Robotic Vision, headquartered at QUT, entered what's called a Cartesian manipulator, Cartman, built from scratch.
+
+Cartman can move along three axes, like a gantry crane, with a rotating gripper allowing the robot to pick up objects using a suction or a simple two-finger grip.
+
+Here is Cartman in action:
+
+"We were the only team with a Cartesian robot at the event. Cartman was definitely a large reason for our success," says team leader Dr Juxi Leitner.
+
+"With six degrees of articulation and both a claw and suction gripper, Cartman gives us more flexibility to complete the tasks than an off-the-shelf robot can offer," Leitner says.
+
+"The robot is robust and tackles the task in an innovative way and is also cost effective. I think it would have been the lowest cost robot at the event."
+
+Fifteen of the centre's 27-member team of researchers, sourced from QUT, the University of Adelaide and The Australian National University, were in Japan for the event.
+
+The challenge combined object recognition, pose recognition, grasp planning, compliant manipulation, motion planning, task planning, task execution, and error detection and recovery.
+
+The robots were scored by how many items they successfully picked up and stowed in a fixed amount of time.
+
+The Amazon Robotics Challenge encourages idea sharing and innovation within the robotics and automation community.
+
+NOW WATCH: Briefing videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Leitner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robotic Vision</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Juxi Leitner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QUT</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartesian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartman</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Robotics Challenge</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>University of Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

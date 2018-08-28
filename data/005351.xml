@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406558881888370</docid>
+  <date>01/08/2017</date>
+  <time>07:59</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/dockside-smoke-alert-sparks-peak-hour-traffic-snarl-in-hobart/news-story/6bec642a8b23e6acb96decf6ea9352d7</url>
+  <title>Dockside smoke alert sparks traffic snarl</title>
+  <content>
+PEAK hour traffic on the Hobart waterfront was brought to a standstill after a fire incident in a dockside office building.
+The Tasmania Fire Service was called to the incident on the Franklin Wharf side of Morrison St just before 4.30pm and blocked off a section of the road.
+Fire crews searched for the source of smoke inside the building, which houses Tasmanian Greens leader Cassy O'Connor's office.
+Two fire crews from Hobart and a crew from Glenorchy attended.
+The incident was contained by 5.40pm.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hobart</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Morrison St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Franklin Wharf</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cassy O'Connor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenorchy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian Greens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Fire Service</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

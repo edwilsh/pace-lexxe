@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406640486268665</docid>
+  <date>01/08/2017</date>
+  <time>08:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/bitcoin-changes-explained/8763980</url>
+  <title>What's going on with digital currency bitcoin?</title>
+  <content>
+There are some changes about to happen in bitcoin.
+Here's a look at what's going on and why some investors are nervous.
+Hold on, refresh me on the basics
+
+We get it, bitcoin is a bit confusing.
+It's a digital currency that isn't tied to any bank or government.
+Like cash, it lets users spend or receive money anonymously, but like other online payment services, it lets them do so over the internet.
+The coins are created by miners, who operate computer farms that verify other users' transactions by solving complex mathematical puzzles.
+These miners receive bitcoin in exchange.
+It's also possible to exchange bitcoin for US dollars and other currencies.
+It's been touted as a currency of the future, but so far hasn't proven to be a very popular as a way to pay for goods or services.
+What's going on?
+
+Bitcoin can be slow. Real slow.
+The bitcoin network is limited in how quickly it can shuffle around digital money.
+As it has grown, payment delays have become more common and worrisome.
+Some software developers came up with a way to speed things up by reengineering bitcoin's universal ledger, which is called the blockchain.
+Did everyone want this to happen?
+
+Well, there were differing views on the right solution.
+Supporters of the new method include Microsoft, the bitcoin exchange Coinbase and a variety of other bitcoin proponents who would like to see the currency used more widely in commerce.
+Reformers had threatened to stop recognising transactions confirmed by miners who hadn't adopted the upgrade.
+And a move by users to force a change in the computer code seemed to have worked.
+Earlier today, AP reported that a majority of miners - the core bitcoin users who verify bitcoin transactions around the world - had signalled their support.
+Though the change is designed to improve capacity on the increasingly clogged network, some miners had objected because it could reduce transaction fees they collect.
+The show of support helped reverse a slide in the value of bitcoin from around $1,900 two weeks ago to roughly $2,800 on Monday.
+However, some uncertainty still remains
+
+Regardless of the compromise to update the system, a separate group plans to launch bitcoin cash tonight, which they say will offer more transactions with faster speeds.
+The BBC has reported ex-Facebook engineer Amaury Sechet and other Bitcoin insiders have revealed plans to launch it at 10:20pm AEST.
+Bitcoin cash effectively rewards every owner of bitcoin with an equal amount of the new currency using a system that can handle much higher volumes of trades.
+Some digital currency exchange operators- including Coinbase and Bitstamp - have said they won't support bitcoin cash.
+And Cornell computer science professor Emin Gun Sirer said savvy traders could game the system to create free money for themselves.
+Tone Vays, a bitcoin analyst and consultant, said he thought bitcoin cash is destined to become one of many alternative digital currencies known as "alt-coins".
+He says the concept is similar to Clams, digital coins that were also awarded to bitcoin holders in 2014 but now trade at about one-thousandth of bitcoin's price.
+Once bitcoin cash goes live he said people "will immediately sell it for bitcoin".
+What would a split mean?
+
+Generally speaking, chaos - though mostly limited to those who use or squirrel away bitcoin.
+People who use bitcoin couldn't be sure which version they held, or what might happen if they spent it or accepted bitcoin as payment.
+Taking bitcoin, for instance, could leave you with currency you couldn't spend freely - and that might disappear entirely if it ended up being the "wrong" kind.
+That's one reason the community-supported website Bitcoin.org had warned users not to accept any bitcoin up to two days prior to Monday's deadline and to wait for confirmation the situation had been resolved before trading again.
+AP/ABC
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cornell</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vays</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP/ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitstamp</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Coinbase</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Amaury Sechet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emin Gun Sirer</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

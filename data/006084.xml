@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407714228114444</docid>
+  <date>01/08/2017</date>
+  <time>12:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/jeans-means-signs-of-hope-for-kids/news-story/1c26e071e642ed5282359a45698ffb6f</url>
+  <title>Jeans means signs of hope for kids</title>
+  <content>
+TAKE the chance to embrace denim on denim for Jeans for Genes Day.
+Friday's fundraiser encourages Aussies to don denim to help raise money for the Children's Medical Research Institute, which finds cures for childhood diseases.
+Scarlett, 3, and mum Naomi Sheldon will bake cupcakes to raise money.
+Scarlett has Russell Silver syndrome, a rare genetic disorder that means she fails to grow and gain weight as expected.
+Ms Sheldon said research could help her daughter lead a long and healthy life.
+"Without CMRI, diseases like RSS would never be found or have a cure," she said.
+The duo hope to top last year's efforts in selling 700 cupcakes and raising more than $2000.
+The fundraiser is channelling money into a world-first research initiative to better diagnose cancer patients.
+For more information about how to get involved:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ms Sheldon</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CMRI</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russell Silver</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Children's Medical Research Institute</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Scarlett, 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genes Day</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jean</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RSS</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Scarlett</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Naomi Sheldon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

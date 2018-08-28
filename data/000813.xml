@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398492933168229</docid>
+  <date>31/07/2017</date>
+  <time>00:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/07/a-guide-to-deconstructing-the-battery-hype-cycle/</url>
+  <title>A Guide To Deconstructing The Battery Hype Cycle</title>
+  <content>
+Image: Wikimedia
+"The storage battery is, in my opinion, a catchpenny, a sensation, a mechanism for swindling the public by stock companies."
+- Thomas Edison, 1883
+
+When American inventor Thomas Edison , he was working on the nickel-iron battery. It became the backbone of the electric vehicle fleet of the day, before petrol took over. At the time, the lead-acid battery was in its infancy and went on to outperform Edison's nickel-iron technology.
+
+Thomas Alva Edison with his nickel-iron battery in 1910.
+Today lead-acid batteries are still used heavily in the automotive industry, while lithium-ion batteries power our electronics and newer cars. Emerging battery technologies continue to generate interest and serious hype; there are breathless promises of longer cycle life, more energy and more power.
+
+A team at Carnegie Mellon University has even attempted  the hype cycle for batteries that scientists hope will surpass lithium-ion.
+
+How do we wade through the fact and fiction to avoid being - as Edison put it - swindled?
+
+Not all batteries are the same
+
+In batteries, the positive and negative electrodes are separated by an electrolyte. Charged molecules (such as the lithium ions in lithium-ion batteries) move between the two electrodes, delivering energy.
+
+There are two ways to improve the energy of a battery cell:
+
+increase the amount of charge that can be stored, or
+
+increase the voltage between the negative and positive electrodes.
+
+But when it comes to measuring how they work, the numbers can be confusing.
+
+Researchers generally describe energy as either watt-hour per kilogram or watt-hour per litre, which mean two different things:
+
+watt-hour per kilogram measures the energy density of a battery - it tells us how much energy is stored per unit of mass.
+
+watt-hour per litre refers to specific density - how much energy is stored per unit of volume.
+
+Either of these two measurements can be important depending on the application.
+
+Mass or weight matters in different situations. A bus, for example, can handle a heavy battery. Sometimes size is paramount - a battery with small volume is important for smartphones so the device can fit in your pocket.
+
+High energy versus high power
+
+Watch out for claims that a new battery is high-energy and high-power.
+
+Researchers and engineers can design battery materials and electrodes to be suitable for either high-energy or high-power uses, but generally not both.
+
+For example, a battery can deliver large amounts of energy over a long period of time for a wildlife-tracking sensor. Or, for applications such as a hand drill, it can provide a large amount of power in a short burst.
+
+This is largely governed by the process of how fast lithium ions can be stored in the electrode and released.
+
+For high-energy batteries, lithium metal is the holy grail, because it's the material with the highest energy per unit of mass. When it comes to power, researchers are looking at things like lithium iron phosphate, which can charge and discharge quickly.
+
+How super are super materials?
+
+In some papers, you may read about the use of additives in either the battery's electrode or the electrolyte that lead to better performance. These new materials have a lot of potential for the promised effects, but significant limitations remain.
+
+Let's consider graphene. A 2D material made from a single layer of carbon atoms, it's a good electrical conductor. Some researchers are looking at it as a possible electrode material.
+
+But like the internal combustion engine, a battery has the highest efficiency when it delivers energy under a constant and steady load. Graphene has no physical sites where ions can be stored. Since it doesn't "store" ions, the material doesn't add to the energy of the device.
+
+Graphene could be used , however, which use static electricity rather than a battery's chemical reaction to produce energy.
+
+Not to mention, graphene and other 2D materials are generally expensive and hard to process on a large scale.
+
+Overstating cycle life
+
+A diagram from the United States patents granted to Thomas Edison.
+And then there are the bold claims made about a battery's cycle life.
+
+This is the number of times you can charge and discharge a battery before it dies. Many companies define this cycle life for themselves, which means they could create a self-serving test that effectively allows their battery to last forever.
+
+Often new battery testing is done with coin cell batteries, which are similar to the batteries you might find in a watch. In other words, they're great for research but don't resemble batteries you'd actually use to run an electric car.
+
+Depending on how it's used, more than 1,000 cycles - each cycle is one charge and discharge - are typically required for a battery to come to market.
+
+In order to provide clarity on this issue, many industry groups, such as the , have adopted standard test cycles to evaluate and compare batteries.
+
+Obstacles to commercialisation
+
+The reality is, not all batteries are created equal. Not all batteries will serve every market.
+
+When you read "our battery is targeting automotive applications", there is more to consider than just energy and power - there is safety, cost and cycle life to consider, among other issues.
+
+It's also important to recognise that it's tremendously difficult to get a new battery into a car. Automotive companies demand tried and true solutions, and it can be a challenge for new technologies to get a foothold in the market.
+
+We have come a long way from when Edison invented the nickel-iron battery, but it's important to check the detail and understand the lingo to make sure that you aren't being swindled.
+
+, Research Group Leader & Senior Research Scientist,
+
+This article was originally published on . Read the .
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Senior Research Scientist</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carnegie Mellon University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Edison, 1883</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Alva Edison</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wikimedia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Research Group Leader</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Guide To Deconstructing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Automotive</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Edison</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Edison</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Battery Hype Cycle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

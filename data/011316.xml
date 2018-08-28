@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416531796141924</docid>
+  <date>02/08/2017</date>
+  <time>22:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/roof-of-melbourne-train-on-fire/news-story/d9dc550d93b67c38a3320a9784ee0c91</url>
+  <title>Vic train passengers get explosion scare</title>
+  <content>
+Passengers have rushed to the back of a Melbourne train when its power line connectors exploded during the morning commute, leaving them stranded.
+Two videos show what looks like flames and smoke coming from the roof of the train, which is stopped near Flinders Street Station, but a Metro Trains spokeswoman said there was no fire.
+"The train has never been on fire, the MFB have left," she told AAP.
+"It was an overhead wire issue, it was electrical, the train was not on fire."
+Firefighters arrived after the train's power connectors exploded first at 7.21am, and then again about 20 minutes later.
+Metro has helped passengers to walk off the train, and the train behind it.
+"We are currently assisting passengers off the train, the train is still there so we anticipate around 45-minute delays on the Sandringham line," the spokeswoman said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>MFB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Flinders Street Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandringham</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Metro Trains</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

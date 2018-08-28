@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411845986730052</docid>
+  <date>02/08/2017</date>
+  <time>04:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/14/16/vic-refugee-worker-ripped-off-court</url>
+  <title>Vic refugee worker ripped off: court</title>
+  <content>
+A Melbourne fruit market operator has been slugged with a record $660,000 fine for underpaying an Afghan refugee worker.
+The former owner-operator of Sunshine Fruit Market, Abdulrahman Taleb and his company Mhoney, together face what the Fair Work Ombudsman on Wednesday said was a record penalty after the refugee worker was paid between $3.49 and $9.29 an hour for moving and stacking fruit and vegetables in 2012 and 2013.
+Federal Circuit Court Judge Philip Burchardt labelled the underpayment "egregious" and said it gave the employer and his company "an unfair advantage in the competitive retail industry".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Federal Circuit Court Judge Philip Burchardt</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Fruit Market</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fair Work Ombudsman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abdulrahman Taleb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mhoney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

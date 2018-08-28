@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399691229059820</docid>
+  <date>31/07/2017</date>
+  <time>05:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north-west/residents-slam-sunbury-visitor-centre-move-from-historic-site-to-new-complex/news-story/22d10704d30ccbe9bf5d9588567bff1c</url>
+  <title>Anger over Sunbury visitor centre move</title>
+  <content>
+A DECISION to relocate the Sunbury Visitors Information Centre to the soon-to-be-built Hume Global Learning Centre-Sunbury has drawn the ire of the Sunbury Residents' Association.
+The 1885 former courthouse adjacent a historic bluestone lockup and existing police station has been the home of the centre since a community campaign in the 1980s that rescued the building.
+But the future function of the building is now clouded.
+
+SRA president Peter Free, who also sat on a community consultative group looking into the centre, said he was blindsided by the move to change the address of the key tourism post.
+A letter has been sent by the association to Hume Council over the decision, urging the retention of the site as a visitor centre.
+Mr Free said the SRA believed the centre was ideally located and offered appropriate parking for buses and caravans.
+"Hume Council is showing its contempt for the Sunbury community's long history and association with this building by proposing this action without any community notice," he said.
+According to Hume Mayor Drew Jessop, the centre relocation will improve visitor experiences.
+"The housing of the Sunbury Visitor Information Centre at the HGLC-S is an exciting development and ensures the visitor centre will have access to modern facilities, and provides ease-of-use for residents and visitors by bringing services to the one central location," Cr Jessop said.
+Sunbury councillor Ann Potter said moving the visitor centre would bring it under the same roof as the George Evans Museum and interactive library facilities.
+</content>
+  <sindexList>
+  <sindex>
+    <name>HGLC-S</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cr Jessop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ann Potter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>George Evans Museum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunbury</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunbury Visitors Information Centre</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Frees</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SRA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sunbury Residents' Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hume Global Learning Centre-Sunbury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Free</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hume Council</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hume Mayor Drew Jessop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

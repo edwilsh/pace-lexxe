@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422149613471566</docid>
+  <date>03/08/2017</date>
+  <time>20:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/world/mueller-establishes-washington-grand-jury-in-russia-probe/news-story/de54556e98eeef2790bcc5575f254424</url>
+  <title>Jury will judge Trump - Russia claims</title>
+  <content>
+SPECIAL counsel Robert Mueller has empaneled a grand jury in Washington to investigate allegations of Russia's interference in the 2016 elections, the Wall Street Journal said on Thursday, citing two unnamed people familiar with the matter.
+The grand jury began its work in recent weeks and is a sign that Mueller's inquiry into Russia's efforts to influence the election and whether it colluded with President Donald Trump's campaign is ramping up, the Journal said.
+It's being reported that the grand jury has now issued subpoenas related to the June 2016 meeting between Donald Trump Jr, a Russial lawyer, and a representative of a Russian billionaire.
+
+CNN reports the federal investigator is focusing on the financial trail between Trump, his associates and Moscow.
+Unnamed sources reportedly say the money trail provides a more 'concrete path' towards a potential prosecution than 'murkier' allegations of collusion.
+The FBI initiated the investigation into Russia's attempts to influence the 2016 US election a year ago. Special counsel Robert Mueller, formerly of the FBI, was appointed to pursue the evidence earlier this year. FBI investigations of cyber breaches in US political organisations began as early as 2015.
+President Trump has been reluctant to reveal details of his business detailings, refusing to release his tax returns in what has been a longstanding US presidential tradition.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russial</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CNN</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

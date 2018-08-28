@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443285147793485</docid>
+  <date>07/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/google-wifi-gets-your-home-network-out-of-sticky-situations-20170803-gxoman</url>
+  <title>Google WiFi gets your home network out of sticky situations</title>
+  <content>
+The hardest thing about setting up Google WiFi, which has just gone on sale in Australia, is undoing the sticky tape on the power cord.
+It's a piece of tape looped around and stuck back onto itself, holding the power cable in a neat bundle, and it can be hard to find the end of the piece to unloop it.
+Anyone who has ever tried to wrap Christmas presents will know what an absolute nightmare it can be, finding the end of sticky tape. I must have fumbled about with that tape for all of 15 seconds before I gave up and cut it with a knife.
+So when I say that's the hardest thing about setting up Google WiFi, that says more about how easy the setup procedure is than it says about the tape.
+
+From go to woah (including opening the box the Google WiFi router comes in, which also has some sneaky tape on it) it took us 17 minutes to set up a WiFi network in our Labs, which wouldn't be bad for a WiFi network with a single WiFi router but which is pretty remarkable when you consider we were dealing with the Google WiFi "3-pack", which gives you not one but three Google WiFi routers/access points to scatter around the far reaches of your house and create a single, meshed network that ensures you don't have any dead spots.
+
+We've reviewed a couple of similar devices lately, including the  and , both of which are excellent ways to quickly create a whole-home wireless network, but with different strengths and weakness. 
+Of the three, the Google WiFi was the slowest in our tests, but it's by far the cheapest (a three-pack is $499, compared to $799 for a three-pack of the Velop and $599 for a two-pack of the Orbi) and it's also the easiest to set up.
+And, compared to the Orbi in particular, the Google WiFi device is the most discrete. It's small enough (just 7cms high) you can put an access point on your mantlepiece and people will think you sat a little white jewellery box there, albeit one with an anomalous white power cable running to it.
+We also like the look of the Velop, which looks like a small flower vase, albeit one with no flowers in it. Long gone are the days when WiFi routers had to .
+
+John Davidson
+
+(Not that we dislike the the very evil-looking Synology RT2600ac, which has  that you'll never find in Google WiFi. If you're of a more technical bent, and have the time to set up a sophisticated router and any range extenders you need, we highly recommend the Synology.)
+When you open up the three pack of the Google WiFi, you'll notice it has three identical  router/access points in it, each with two ethernet ports and a USB-C power port hidden away in the bottom. Whichever of the three you plug into your broadband connection becomes the router, which you set up first, and the other two automatically become meshed access points, which extend the range of the router.
+Using the Google WiFi app (Android and iPhone) to guide you, you can set up the entire network in a matter of minutes. 17 minutes in our case, though if you've never set up a mesh network before it could take you as many as 20 minutes. Add five minutes for the firmware update that happens automatically once it's set up, and you can be done in half an hour.
+The fact that they're meshed (as opposed to having a hub-and-spoke topology like the Orbi) means that, if you have a long skinny house, or a house with a lot of floors, the access points will automatically daisy chain for you, hopping your internet connection from access point to access point before it ultimately arrives at your device.
+
+John Davidson
+
+Technically, it's not as good as a Velop mesh, which uses a separate WiFi channel to connect the access points to each other where the Google WiFi uses the same WiFi channel that all your devices are using, but in practice it's still good enough for most applications, especially if you use ethernet in conjunction with WiFi.
+Connecting our test laptop via WiFi to an access point that was connected in a single network hop to the main router, we got average download speeds to 157 megabits per second with Google Home, quite a lot less than the 510 Mbps downloads we averaged with the Velop, downloading a 1 megabyte file hundreds and hundreds of times under the same conditions in both tests.
+When we attached our test laptop to one of the access point's ethernet ports, that download speed more than doubled on the Google Home, however, to 385 Mbps, which just goes to show you that: a) you really do pay a high price for not having a separate WiFi channel for mesh backhaul, and b) Google really should have built three or four ethernet ports into each unit, rather than just the two.
+The need for more ethernet ports will be especially dire if you use a nifty feature in Google WiFi, which lets you plug  smart home devices such a Philips Hue lighting system into the ethernet port of a router or access point, and extend control of those devices to anyone on your WiFi using a system Google calls "Home Control".
+
+John Davidson
+
+Once you register your smart devices using the Google WiFi app, anyone on your wifi network (even people on your guest wifi network if you have set one up) can simply open a browser and go to the URL "on.here", and they'll see a page that lets them control all the registered devices, without the need for installing an app and logging into the devices.
+As far as we can tell, Home Control only works with Philips Hue, despite the mention of "playlists" on the on.here webpage, suggesting the Home Control might also be able to control a Google Home speaker, so that visitors can browse through you playlists on their device, and control the music on your Google Home speaker.
+But Home Control is very poorly documented (even Google technical support didn't know what the "playlist" mention referred to), and after an hour of trying to attach a Google Home speaker to Home Control, we gave up.
+The sticky tape was easier.
+
+John Davidson
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mbps</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Synology RT2600</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>USB-C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Home Control</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Davidson</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philips Hue</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Velop</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Synology</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wifi</name>
+    <count>10</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christmas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Orbi</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Wifi</name>
+    <count>14</count>
+    <score>-8</score>
+  </sindex>
+  </sindexList>
+</snippet>

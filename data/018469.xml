@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432118232712153</docid>
+  <date>05/08/2017</date>
+  <time>11:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/goldman-sachs-earnings-season-underperformance-advice-2017-8</url>
+  <title>GOLDMAN SACHS: There's a overlooked way to make a fortune this earnings season</title>
+  <content>
+Sure, US stocks have edged higher since the start of , but you could be making even more money.
+
+All you have to do is identify good companies that have fallen on hard times, position yourself to capture their earnings move, then get the heck out of dodge.
+
+Sounds straightforward, right? Perhaps, but investors haven't been taking advantage of it. If they were, the trade wouldn't be outperforming to the extent it is.
+
+A strategy of buying bullish options on stocks that have lagged the  by 3% or more in the weeks leading up to earnings has returned a whopping 17% this earnings season, according to data compiled by Goldman Sachs. In contrast, using the same strategy for the entire stock universe has lost 4.5%, on average.
+
+To expand upon Goldman's strategy a bit more, it involves buying the closest out-of-the-money call contract on a stock, and then closing the trade one day after earnings. And the companies in question are those with either buy or hold ratings - no duds allowed.
+
+The method has worked more often than not over the past two decades, but it's working even better than usual during this particular period, exceeding its average quarterly return of 14% by three percentage points.
+
+On a broader basis, it's getting increasingly important for traders to get earnings season right, with stock reactions coming in nearly , the most in the past 18 years.
+
+This historically high volatility could explain why Goldman's options strategy is outperforming - with bigger price swings come bigger gains. And by picking companies perceived to be of higher quality, you eliminate some of the heightened downside risk.
+
+So what kinds of companies are we talking about? Goldman has provided a handy list of 15 stocks that meet its criteria. Ranked by recent underperformance relative to the S&P 500, here are the stocks best-suited to the firm's options strategy:
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Goldman</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401572424768736</docid>
+  <date>31/07/2017</date>
+  <time>12:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/firefighters-investigate-cause-of-wanniassa-house-fire-20170731-gxmmfl.html</url>
+  <title>Firefighters investigate cause of Wanniassa house fire</title>
+  <content>
+Firefighters are investigating the cause of a fire at a Wanniassa home.
+ACT Fire & Rescue was called to the property at Methven Place at 9.45pm on Monday.
+No one was inside the home at the time.
+Firefighters extinguished the fire, which damaged two rooms, and conducted atmospheric monitoring.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Methven Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wanniassa</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

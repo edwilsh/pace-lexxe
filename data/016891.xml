@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426191177766600</docid>
+  <date>04/08/2017</date>
+  <time>12:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4835372/former-priest-ryan-fails-to-appear-in-court-over-rape-charges/?cs=2452</url>
+  <title>Former priest Ryan fails to appear in court over rape charges</title>
+  <content>
+A former Ballarat diocese Catholic priest accused of historic child sexual abuse in regional and suburban Victoria has not appeared in court for health reasons.
+Paul David Ryan, 68, was summoned to appear in Melbourne Magistrates' Court on Friday on seven charges including rape and indecent assault at Warrnambool and the Melbourne suburb of Lower Plenty in the 1980s.
+At least some of the allegations relate to a victim aged 16 and 17 at the time.
+The court was told Ryan, now living in Western Australia, has prostate cancer and could not be in court for health reasons.
+His matter was adjourned until September 22.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Paul David Ryan, 68</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lower Plenty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Catholic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ballarat</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>SEPTEMBER 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warrnambool</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

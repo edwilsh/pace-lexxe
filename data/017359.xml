@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427861920077124</docid>
+  <date>04/08/2017</date>
+  <time>18:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/04/29/woman-dies-in-rollover-on-wa-highway</url>
+  <title>Woman dies in rollover on WA highway</title>
+  <content>
+A woman has died and a man has critical injuries after their vehicle rolled on WA's Broome Highway.
+The single vehicle accident occurred about 8.30pm on Friday about 10km north of Broome. Police believe the car rolled before coming to rest on its wheels.
+The male driver, a man in his 40s, was taken to Broome hospital in critical condition while the woman, who was a passenger, died at the scene.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Broome</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA's Broome Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

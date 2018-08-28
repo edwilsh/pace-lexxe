@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411541044047984</docid>
+  <date>02/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/tas-fisherman-caught-with-illegal-scallops/news-story/29cb3d2429edaa352f5a7251d1ae7f90</url>
+  <title>Tas fisherman caught with illegal scallops</title>
+  <content>
+A Tasmanian fisherman has allegedly been found with hundreds of illegally caught and undersize scallops.
+The 38-year-old from Magra could be fined of thousands of dollars after being found with more than 780 commercial scallops, police say.
+About 600 were under the 100mm size limit, with some as small as 79mm.
+Recreational scallop season closed at the end of July and an on-land limit of 100 applies.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Magra</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437697395278983</docid>
+  <date>06/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/memorial-paddleout-for-kawa-sweeney-3-who-drowned-in-a-bali-pool/news-story/4892a6b0121af19a127990e7562562e5</url>
+  <title>Memorial paddle-out for little Kawa</title>
+  <content>
+A MEMORIAL beach paddle-out has been held for a girl who died in Perth last month after falling into a pool in Bali.
+Kawa Leaf Sweeney, 3, died after doctors said they could not save her, and her life support was switched off.
+Parents Des Sweeney and Dee Tang, from Newport on Sydney's northern beaches, last week announced a paddle-out memorial would take place today at Newport Beach.
+The couple urged people who wanted to take part to wear white, Hawaiian or floral shirts and bring flowers, leaves and shells.
+After two nights at Princess Margaret Hospital, Kawa was unresponsive to physical tests.
+Kawa fell into the pool of the Bali resort where her family was staying.
+When she was pulled from the water, Cottesloe surgeon Grant Booth performed emergency resuscitation on the child for 45 minutes until medical help arrived.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawaiian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kawa Leaf Sweeney, 3</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kawa</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Newport Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Cottesloe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Des Sweeney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dee Tang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bali</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Princess Margaret Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grant Booth</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

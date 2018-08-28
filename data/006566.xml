@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409750042654119</docid>
+  <date>01/08/2017</date>
+  <time>20:22</time>
+  <isTopNews>true</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/02/dozens-killed-afghan-shiite-mosque-attack</url>
+  <title>Dozens killed in Afghan Shi'ite mosque attack</title>
+  <content>
+An Afghan hospital official says at least 29 people have been killed in an explosion inside a Shi'ite Muslim mosque in western Herat.
+
+10 MINS AGO  UPDATED 5 MINS AGO
+
+A suicide attack on a Shi'ite mosque in the western Afghan city of Herat has killed more than 29 people and wounded more than 64.
+
+Abdulhai Walizada, a local police spokesman, said there appeared to be more than one attacker on Tuesday, with witnesses describing a suicide bomber who detonated explosives and at least one other, a gunman who threw grenades at worshippers.
+
+"Two attackers entered the mosque and started shooting and throwing grenades at people," said Mohammad Adi, a worshipper at the mosque who was injured in the attack and taken to hospital.
+
+Mohammad Asif Rahimi, governor of Herat, said at least 29 people were killed and 64 wounded in the incident which came two months after an attack on a 12th century mosque known as the Jama Masjid in Herat, in which seven people died.
+
+More than 1700 civilians have been killed in attacks in Afghanistan so far this year, hitting confidence in the Western-backed government of President Ashraf Ghani.
+
+There was no claim of responsibility. But the Taliban, fighting to install strict Islamic law and drive foreign troops out of Afghanistan, denied any involvement.
+
+Ghani, whose government has been under mounting pressure because of deteriorating security across the country, condemned the bombing and called on religious scholars to "raise their voices against the terrorist attacks".
+
+Afghanistan has traditionally been relatively free of the sectarian violence common in Iraq or Syria but hardline Sunni militants from the local branch of Islamic State have repeatedly attacked the mainly Shi'ite Hazara minority in the past year.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Western-backed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Ashraf Ghani</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 5 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mohammad Asif Rahimi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mohammad Adi</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Shi</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Muslim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hazara</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunni</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ghani</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Abdulhai Walizada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghan Shi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herat</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jama Masjid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

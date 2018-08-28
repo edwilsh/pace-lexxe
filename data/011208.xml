@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416226853458416</docid>
+  <date>02/08/2017</date>
+  <time>21:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/mark-warner-writes-to-sec-about-cybersecurity-2017-8</url>
+  <title>An influential US Senator is worried about the stock market getting hacked</title>
+  <content>
+Senator Mark Warner (D-Va) who sits on the Committee on Banking, Housing and Urban Affairs, is worried about cybersecurity threats to the US securities market.
+
+In a letter to the Securities and Exchange Commission chairman Jay Clayton dated August 1, he asked the SEC to provide more information on cybersecurity rules in the US securities market.
+
+The letter is focused on Regulation Systems Compliance and Integrity (Reg SCI), a rule introduced in 2014.
+
+"Reg SCI was intended to strengthen the technology infrastructure of the US securities markets by reducing the occurrence of systems issues, particularly following several high-profile outages that had the potential to cause considerable harm to investor confidence," he said.
+
+Under Reg SCI, those trading venues subject to the regulation "must notify the SEC when system problems do occur, including compliance issues, system disruptions and system intrusions." The entities subject to the rule include all exchanges, clearinghouses, Securities Information Processors (SIPs), and those Alternative Trading Systems (ATS) that exceed certain thresholds.
+
+Warner writes that the SEC has not publicly disclosed which market centres have become subject to Reg SCI, and as a result "investors are unable to determine whether their orders are being routed to market centres which are being held to the requirement of having a strong, audited cybersecurity program."
+
+The letter said (emphasis added):
+
+"This includes any broker-dealer operated ATS's, single-dealer internalizers, and wholesalers which handle a significant percentage of retail investor order flow and a high percentage of overall US average daily volume. If compromised, these market centres could destabilize markets by not having the protections in place tht the SEC has outlined in Reg SCI to strengthen the integrity of our markets. "
+
+He urges the SEC to identify those in compliance with Reg SCI, and to require investment advisers and broker-dealers to consider compliance with Reg SCI when determining best execution.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jay Clayton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Urban Affairs</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US Senator</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Securities Information Processors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Regulation Systems Compliance</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SEC</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Alternative Trading Systems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senator Mark Warner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D.Va</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reg SCI</name>
+    <count>7</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>ATS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Exchange Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425851875343504</docid>
+  <date>04/08/2017</date>
+  <time>10:51</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/vic-teenagers-arrested-over-home-invasions/news-story/12294233987d4f1bfe4da678b7ad802f</url>
+  <title>Vic teenagers arrested over home invasions</title>
+  <content>
+Three teenagers have been charged over a string of home invasions in regional Victoria.
+Two of the boys, aged 13 and 14, were charged on Friday with multiple counts of aggravated burglary and theft in connection with the break-ins in Mooroopna, near Shepparton, over the past month.
+Both have been bailed to appear in court later this year.
+A 15-year-old boy, who was on bail, remains behind bars for aggravated burglary, theft and attempted armed robbery.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mooroopna</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Shepparton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

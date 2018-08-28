@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427617106937396</docid>
+  <date>04/08/2017</date>
+  <time>17:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/03/32/homicide-squad-investigates-body-in-farm</url>
+  <title>Homicide squad investigates body in farm</title>
+  <content>
+A prominent member of a small NSW farming community may have been murdered, police believe.
+Police and paramedics found Matthew Dunbar, 42, dead in his home at Thunderbolts Way at Walcha at 2am on Wednesday.
+Homicide squad detectives were brought in to the case late on Friday, police told AAP.
+Friends paid their respects to a "caring" and "humble" Mr Dunbar online. He was well known in Walcha.
+"This is so sad, Mathew was a great person, very humble and kind with a heart of gold," one friend said.
+"Heaven has opened its door to a very special angel. RIP my friend Matt."
+A post-mortem examination will be conducted and police will prepare a report for the coroner.
+
+Related Articles
+
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Dunbar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walcha</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thunderbolts Way</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mathew</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Dunbar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

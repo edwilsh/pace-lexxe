@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418421581782757</docid>
+  <date>03/08/2017</date>
+  <time>06:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/breaking-driver-trapped-in-highway-crash/3208448/</url>
+  <title>BREAKING: Driver trapped in highway crash</title>
+  <content>
+UPDATE 3.48pm: Two utes have collided on the Bruce Hwy at Bakers Creek with one driver still trapped in the car.
+
+Two QFES crews are attempting to free the man, with two ambulance crews on standby.
+
+The Bruce Hwy remains open despite the serious crash on the intersection of the Bruce Hwy and Gorman St.
+
+Emergency crews have been at the scene since 3.15pm.
+
+INITIAL: A DRIVER involved in a two-vehicle crash at Baker Creek is believed to be trapped.
+
+Crash on Bruce HwyContributed
+
+The crash happened about 3.15pm, and paramedics and QFES crews were called after reports one of the cars had run into a fence and the driver was trapped.
+
+According to a QAS spokeswoman, the crash happened on the Bruce Hwy at the intersection of Gorman St.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>QAS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bakers Creek</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bruce HwyContributed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gorman St</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QFES</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hwy</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

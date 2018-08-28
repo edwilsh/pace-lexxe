@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423528297998505</docid>
+  <date>04/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/san-failure-fast-tracks-atos-cloud-shift-469457</url>
+  <title>SAN failure fast-tracks ATO's cloud shift</title>
+  <content>
+The storage area network failure that crippled the Australian Taxation Office last December forced the agency to fast-track its migration to a cloud environment, chief digital officer John Dardo has revealed.
+
+Problems with the ATO's HPE 3PAR SAN began last December when it suffered a  to its online services.
+
+A PwC review of the incident later found that a , including software bugs on the SAN disk drives and poor fitting of the fibre optic cable feeding the SAN.
+
+The collapse of the SAN network also caused a second  as a result of efforts to replace SAN cabling.
+
+Speaking at the recent Digital and Cloud Government Summit in Sydney, Dardo said that losing both its primary and secondary storage array networks was "the equivalent of losing 3000 virtual servers worth of applications, times two", and had resulted in two months of lost development time.
+
+"We had to compress all the preparation for this tax time into effectively less than a four month period," he said.
+
+He said there were still some applications "running in a sticky tape version", which could explain why the agency has  to its systems as recently as earlier this month.
+
+But the unprecedented outage forced the agency to fast-track the migration of some environments to the cloud to ensure a solid platform could serve its application development and production needs.
+
+"We moved ato.gov.au into the cloud in a few days, we moved ATO Online into the cloud within a couple of months. They were all scheduled to go over a financial year, but we did it in days and months," he said.
+
+"We turned on our dev and testing environments for SBR [single business reporting] services within a few days, and within the next couple of weeks we'll turn on production for cloud for SBR services.
+
+"So we've fast-tracked our shift into other environments to give us the resilience we need."
+
+These services were largely hosted on-premise prior to moving to the cloud.
+
+A spokesperson said the shift was part of a "long term plan to move some specific services to a cloud platform" that is supported by ,  and .
+
+The AWS and Microsoft contracts have grown by a combined value of more than $10 million over the last six months as a result of increased cloud use.
+
+The tax office has already pledged to  with a focus on resilience and availability following the outage.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>John Dardo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dardo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ATO Online</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PwC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SBR</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAN</name>
+    <count>5</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Australian Taxation Office</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cloud Government Summit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ATO's HPE 3PAR SAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AWS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

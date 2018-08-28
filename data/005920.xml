@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407164472289041</docid>
+  <date>01/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/deutsche-bank-on-changes-in-sterling-trading-patterns-2017-8</url>
+  <title>DEUTSCHE BANK: Here's how Brexit fundamentally changed the way in which the pound is traded</title>
+  <content>
+LONDON - When Brits decided to leave the European Union last June,
+
+The day after the referendum, Sterling dropped more than 10%, suffering the biggest single-day fall for a major currency since the Second World War, and hitting a low against the dollar that had not been seen in 31 years.
+
+Sterling dropped from being worth close to 1.48 against the dollar to around $US1.32, and also plummeted against the euro, costing forex traders millions and making the average Brit's trips abroad a whole lot more expensive.
+
+The referendum, however, had another - lesser noticed - impact on the pound. It has shifted how traders around the world trade the currency.
+
+That's according to Deutsche Bank macro strategist Oliver Harvey and his colleague Rohini Grover, who discussed this change in their daily FX note, circulated to clients on Tuesday.
+
+"Investment biases in different FX time-zones ... changed markedly after last year's referendum," the pair wrote.
+
+The first major change occurred in the few months that followed immediately after the referendum when Asian traders and those working early in the morning in Europe turned marginally more positive on the currency than in the past, with trade getting less bullish as the day progressed.
+
+Here are Harvey and Grover:
+
+"Historically, GBP/USD used to weaken during the Asia and London morning but strengthen during the common London-NY and NY afternoon sessions (Fig 1). In the aftermath of Brexit, however, Asia and the London morning turned slightly bullish, while the combined London/NY session, representing peak liquidity, saw systematic selling of the pound (Fig 2).
+"This may be due to Asian investors regarding sterling as a value proposition after its initial sell-off, while domestic or European investors were significantly more pessimistic on the Brexit outlook."
+
+And here are the charts:
+
+The next major change, Harvey and Grover note, came after
+
+"Asian investors appeared to revise their view, and the Asian and London morning sessions saw selling pressure resume," the pair note.
+
+The next big shift came after May delivered her Brexit vision in a speech in January. During that speech,
+
+"At that point, it seems like more investors active at this time saw all the bad news priced. Asian investors were less impressed and remained bearish," Deutsche's analysts write.
+
+"Interestingly, there has been little change to the persistent pattern of buying during the NY afternoon through this whole period."
+
+Here is that chart:
+
+Since June's shock election result -  - caused less of a split between traders, with a "broader based agreement among global investors."
+
+"Sentiment in both the Asia, joint London/NY and the NY afternoon has been bullish, perhaps reflecting optimism in a softer Brexit, although general dollar weakness may be another factor," Harvey and Grover write."
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>FX</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NY</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sterling</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brit</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fig 2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fig 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London-NY</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GBP/USD</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Harvey</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Second World War</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rohini Grover</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>5</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Grover</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.32</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oliver Harvey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

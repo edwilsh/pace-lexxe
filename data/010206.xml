@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415926205741340</docid>
+  <date>02/08/2017</date>
+  <time>20:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/hope-over-for-improved-us-ties-medvedev/news-story/d67a783fbd0b21e16a3db4a64599003b</url>
+  <title>Hope over for improved US ties: Medvedev</title>
+  <content>
+Russia's prime minister says the sanctions bill signed by President Donald Trump ends hopes for improved US-Russia ties.
+Dmitry Medvedev says in a Facebook post that "Trump's administration has demonstrated total impotence by surrendering its executive authority to Congress in the most humiliating way."
+Medvedev thinks the "American establishment has won an overwhelming victory over Trump" and he describes the sanctions as "yet another way to put Trump in his place."
+The prime minister contends the new penalties amount to the declaration of an "all-out trade war against Russia."
+Meanwhile, the Russian Foreign Ministry says Moscow reserves the right to take further retaliatory measures in response to the bill.
+The statement came not long after Kremlin spokesman Dmitry Peskov had noted that "retaliatory measures already have been taken." That was a reference to Russia's decision to sharply cut the US diplomatic personnel and close a US recreational retreat and warehouse facilities.
+The Foreign Ministry emphasised that "we naturally reserve the right for other countermeasures."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dmitry Medvedev</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medvedev</name>
+    <count>2</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Dmitry Peskov</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>US-Russia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russian's Foreign Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Foreign Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441133369149612</docid>
+  <date>06/08/2017</date>
+  <time>22:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/08/04/flood-watch-for-adelaide-hills</url>
+  <title>Flood watch for Adelaide Hills</title>
+  <content>
+Severe weather warnings for South Australia have been downgraded as winds and rains that battered the state over the weekend subside, however, parts of the Adelaide Hills are on flood watch.
+The SES is warning of localised flooding in the Mount Lofty Ranges District and Onkaparinga River which may pose a threat to properties upstream from Verdun as creeks and rivers quickly rise.
+Heavy winds and rain battered the state over the weekend, causing damage to roofs and roads to be closed due to fallen trees.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Verdun</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Hills</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Onkaparinga River</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Lofty Ranges District</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

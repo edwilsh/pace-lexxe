@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408233919169340</docid>
+  <date>01/08/2017</date>
+  <time>14:29</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/property/2017/08/02/inequality-property-ownership/</url>
+  <title>Our second-class citizens - kids who can't leave home</title>
+  <content>
+This year's Household, Income and Labour Dynamics in Australia (HILDA) survey results confirm, with damning certainty, how Australia is spiralling back into inequality based around property ownership.
+The Household, Income and Labour Dynamics in Australia survey, one of the most comprehensive studies of social and economic trends, shows the proportion of 18 to 39-year-olds owning their own home slumping from 36 per cent in 2002 to just 25 per cent today.
+Within that figure, couples with dependent children went from an ownership rate of 55.5 per cent 15 years ago, to just 38.6 per cent.
+That's important, because it is parents passing wealth down to their children that are once again starting to define who gets into property and who doesn't - we're going back to a 1950s-style class division.
+All in the numbers
+
+To see how, consider the way assets grow in value over time, and the relationship between inflation-adjusted ('real') growth, and nominal growth.
+Imagine a couple buying a home in Brisbane in 2002 at the age of 25. When they hit 40 this year, two things will have happened.
+Firstly, for any given interest rate, the real value of their monthly mortgage payments will be lower thanks to the eroding effect of inflation.
+Assuming their income had only just kept pace with inflation, their repayments after 15 years would be, for any given interest rate, only 70 per cent as large a chunk of their pay packets.
+Secondly, the home would be worth about 1.9 times as much in inflation-adjusted terms, or 2.7 times as much in nominal dollars, based on ABS data.
+Those left behind
+
+By contrast, a 25-year-old couple who decided not to buy in 2002, but who at the age of 40 decided to do so today, faces two financial nasties - they'll need a much larger deposit; and they'll have to hand over a much larger chunk of their income each month if they want to pay off the home by retirement.
+If this example were set in the 1980s and 1990s, you might say "it's their own stupid fault".
+And you'd probably be right - the barriers to entering the housing market were much lower then.
+Today, however, the HILDA numbers describe a housing market in which many young Australians have no choice about getting into the market.
+Since the turn of the millennium, house prices across Australia have roughly doubled in inflation-adjusted terms, and a deposit for a home can't just be 'scraped together' by maxing-out a few credit cards and smashing the piggy bank.
+So young Australians have three options: stay at home for years more and save madly for a deposit; move out and rent, saving even more madly for a deposit; or receive a windfall gift or loan from the 'bank of Mum and Dad'.
+The HILDA data shows more young Aussies opting for the first option. In 2001, 43 per cent of men and 27 per cent of women aged 22 to 25 lived with their parents, but those numbers have now ballooned to 60 per cent for men and 48 per cent for women.
+The old progression of moving out and renting, scraping together a deposit, and then moving into property ownership is almost impossible for many - unless the 'bank of Mum and Dad' is able to help.
+A compounding problem
+
+When Mum and Dad are unable to help with a deposit, the effects on wealth equality begin to compound.
+Today's 25-year-olds who do not have family money behind them will take much longer to get into the market, meaning they'll have smaller capital gains behind them when their own children come asking for help.
+Buying a home has never been a universal right, but as , it's something that at its peak was available to 71.4 per cent of Australian households.
+As that number slides lower - or tumbles lower for younger groups - it's time to face facts.
+The new class divide in Australia is between those who have generous property-owning parents, and those who do not.
+</content>
+  <sindexList>
+  <sindex>
+    <name>HILDA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labour Dynamics</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>5</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

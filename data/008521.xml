@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412318433139595</docid>
+  <date>02/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/perfect-8-jackpot-is-195000-play-for-free/news-story/76e84b8b95564b2193f8c8c8dce83fb6</url>
+  <title>Monster cash jackpot reaches $195,000</title>
+  <content>
+Love your NRL SuperCoach? Register and play Perfect 8 - it's FREE - it's worth $195,000!!!
+It takes no time at all to select your eight players from all eight matches of the round for your chance to win.
+You need to select the top SuperCoach points scorer in each match to collect the catch.
+
+This season we've had several players land five out of eight so it's just a matter of time before the JACKPOT goes off. It might as well be you!
+Perfect 8 It's the perfect partner for SuperCoach Classic. If you are you a commitment-phobe or don't have the patience for a full SuperCoach season, then Perfect 8 is the best option for you (aside from )
+Perfect 8 is just like bingo for NRL - all you have to do is select the top SuperCoach NRL points-scorer in each of the eight matches in that the round to collect the cash.
+If no-one lands 8-8, the prize jackpots $5000 (except bye rounds).
+That's some serious cash for fantasy rugby league!
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perfect 8</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NRL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SUPERCOACH</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NRL SuperCoach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SuperCoach NRL</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SuperCoach Classic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

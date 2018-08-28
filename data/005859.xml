@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407246076669264</docid>
+  <date>01/08/2017</date>
+  <time>10:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/canberra-man-pleads-guilty-to-anu-uc-robberies-targeting-asian-students-20170801-gxmxx3.html</url>
+  <title>Canberra man pleads guilty to ANU, UC robberies targeting Asian students</title>
+  <content>
+A man has pleaded guilty to a string of violent robberies against Asian students at Canberra's universities. 
+he and a co-offender targeted students as they walked or cycled alone at night at the University of Canberra and the Australian National University.
+He was arrested after  in numerous on-campus attacks in late 2016.
+Police said he committed four aggravated robberies over six days from October 22.
+Scott will avoid trial after he switched his pleas in the ACT Supreme Court on Tuesday. 
+He pleaded guilty to six counts of aggravated robbery and four charges of obtaining property by deception. He had previously admitted to two robberies on a second weekend. 
+Scott is in custody and did not apply for bail. He returns to court on September 26 for sentencing.
+</content>
+  <sindexList>
+  <sindex>
+    <name>UC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ACT Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

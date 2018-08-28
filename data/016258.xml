@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425027241608248</docid>
+  <date>04/08/2017</date>
+  <time>07:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/business/breaking-news/stocks-of-interest-on-the-asx-this-week/news-story/aa02475fdff1cf41e087f8bed5bfe143</url>
+  <title>Stocks of interest on the ASX this week</title>
+  <content>
+CBA - COMMONWEALTH BANK - down $3.04, or 3.6 per cent, at $80.72
+Shares in the Commonwealth Bank fell after it was revealed on Thursday that the federal government's financial intelligence unit, AUSTRAC, accused the lender of more than 53,000 breaches of Australia's money laundering and counter-terrorism financing laws.
+RIO - RIO TINTO - up $1.0, or 1.6 per cent, at $65.24
+Rio Tinto shares dipped on Tuesday despite the major miner reporting its underlying half year profit had more than doubled due to stronger commodity prices, leading to it paying shareholders a record interim dividend, but ultimately rose across the week.
+CWN - CROWN RESORTS - down $0.30, or 2.4 per cent, at $12.40
+Crown Resorts shares rose on Friday, after the casino operator reported a near-doubling of full-year profit to $1.9 billion, thanks to a $1.6 billion gain mainly from the sale of its Melco Resorts & Entertainment interest, but dipped across the week.
+SUN - SUNCORP GROUP - down $0.65, or 4.5 per cent, at $13.68
+Suncorp shares fell on Thursday when the insurance company reported a full year net profit of $1.08 billion, which was slightly weaker than analysts had expected.
+ORG - ORIGIN ENERGY - up $0.34, or 4.96 per cent, at $7.20
+Origin Energy's oil and gas revenue for the year to June 30 doubled to $2.2 billion, helped by the ramp-up at the APLNG plant, the energy producer announced on Monday, giving its shares a slight boost.
+API - AUSTRALIAN PHARMACEUTICAL INDUSTRIES - down $0.26, or 14.6 per cent, at $1.52
+Shares in Australian Pharmaceutical Industries plunged to their lowest level since October 2015 on Thursday after the operator of Priceline pharmacies and health and beauty stores lowered its profit growth forecast because customers have been spending less.
+TAH - TABCORP HOLDINGS - up $0.18, or 4.3 per cent, at $7.20
+Tabcorp shares were slightly up on Friday after it announced it had slipped to a full-year net loss of $20.8 million on the back of costs related to its proposed merger with Tatts, legal battles and its new UK business.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TAH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Crown Resorts</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APLNG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melco Resorts</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tatt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Priceline</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Origin Energy</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CWN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Pharmaceutical Industries</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

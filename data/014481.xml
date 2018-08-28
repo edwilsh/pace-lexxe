@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423137455968357</docid>
+  <date>04/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/commonwealth-bank-accused-of-53710-breaches-of-money-laundering-laws/news-story/bae8844e9ab8ebe8219ba97e8ce16f30</url>
+  <title>CBA embroiled in laundering scanda</title>
+  <content>
+THE nation's biggest bank has been accused of 53,700 breaches of anti-money laundering laws involving $77 million worth of transactions.
+Fresh from securing a record $45 million penalty against Tabcorp for breaches of anti-money laundering rules, AUSTRAC today launched a civil action against CBA in the Federal Court for failing to report suspicious transactions which could have been conducted by criminals to fund terrorism or launder money.
+For three years from 2012 CBA failed to report or was slow to report suspicious transactions through its self-service intelligent deposit machines, AUSTRAC acting CEO Peter Clark said in a statement.
+"Even after CBA became aware of suspected money laundering or structuring on CBA accounts, it did not monitor its customers to mitigate and manage money laundering and terrorism financing risk, including the ongoing ML/TF risks of doing business with those customers," the statement said.
+"AUSTRAC alleges that the bank failed to report suspicious matters either on time or at all involving transactions totalling over $77 million."
+Mr Clark said: "By failing to have sound AML/CTF systems and controls in place, businesses are at risk of being misused for criminal purposes.
+"AUSTRAC's goal is to have a financial sector that is vigilant and capable of responding, including through innovation, to threats of criminal exploitation."
+CBA said it had co-operated with the investigation.
+"We have been in discussions with AUSTRAC for an extended period and have co-operated fully with their requests.
+"Over the same period we have worked to continuously improve our compliance and have kept AUSTRAC abreast of those efforts, which will continue."
+The bank said it has invested more than $230 million in anti-money laundering compliance and reported four million transactions a year to AUSTRAC, the statement said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>ML/TF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Clark</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>7</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>CEO Peter Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

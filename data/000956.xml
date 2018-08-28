@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398918134936508</docid>
+  <date>31/07/2017</date>
+  <time>02:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/uk-man-in-court-after-14yo-raped-twice/news-story/85004f13d9ff7c9120237625906b8d1a</url>
+  <title>UK man in court after 14yo raped twice</title>
+  <content>
+A man is due to appear in court in London charged with raping a 14-year-old girl who was attacked twice in the same night.
+Khurram Rahi, 27, is accused of assaulting the teenager in a secluded part of Witton station, near Aston Villa's football ground late last Tuesday.
+Afterwards, the girl walked out of the station and flagged down a passing vehicle to ask for help, but was raped a second time after getting into the car with another man.
+Rah will appear at Birmingham Magistrates' Court today, British Transport Police said.Detectives are still searching for a suspect in connection with the second attack.
+Detective Chief Inspector Tony Fitzpatrick said: "The second assault happened at approximately 2am close to Witton station. The victim flagged down a vehicle for help, a man then raped her."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Aston Villa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Khurram Rahi, 27</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Detective Chief Inspector Tony Fitzpatrick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>British Transport Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Witton</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Birmingham Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

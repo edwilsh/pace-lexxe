@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442000952554428</docid>
+  <date>07/08/2017</date>
+  <time>01:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/homemade-bomb-explodes-main-street-qld-town/3209540/</url>
+  <title>'Homemade bomb' explodes in main street of Qld town</title>
+  <content>
+A SEARCH is underway for a person who allegedly blew up a homemade bomb in front of City Lane on Flinders Street.
+
+Police are investigating the incident following reports of an "extremely loud explosion" on August 3 about 9.22pm near City Lane.
+
+In a statement police said it will be alleged an unknown person has placed a tin can on the traffic island on Flinders St in front of City Lane, when a witness driving along the street heard the explosion.
+
+"A witness has been driving along Flinders Street when he heard an extremely loud explosion and has seen a mist," the statement read.
+
+The witness has observed a damaged tin can and smelt a gas in the air.
+
+"No persons were injured," the statement read.
+
+If you have any information or were in the area and can assist police, contact Crime Stoppers on 1800 333 000.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flinders Street</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City Lane</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Flinders St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 3</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

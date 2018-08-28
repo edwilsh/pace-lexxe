@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445346732132969</docid>
+  <date>07/08/2017</date>
+  <time>14:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bitcoin-price-stock-market-today-correlation-2017-8</url>
+  <title>Bitcoin's explosive gains could spell good news for stocks</title>
+  <content>
+is trading at a record high on Monday, up 3.92% at $US3,356 a coin.
+It has gained about 80% over the past month, shaking off fears that a  in the cryptocurrency would cause its price to plummet.
+These kinds of astronomical gains in bitcoin, it turns out, are correlated with a strong showing by stocks too, according to Nautilus Investment Research.
+To be more specific, the firm says that of the 18 previous instances when bitcoin returned at least 30% in a month, the S&P 500 was higher 15 times two months later and 17 times three months out, averaging gains of 3.61% and 4.66%, respectively.
+What explains this? Nautilus doesn't offer a reason, but it does note that it could just be that bitcoin is a "barometer for animal spirits in the markets."
+In other words, when traders are going nuts about a highly-speculative investment like bitcoin, that same risk-loving attitude might turn up among the folks who trade stocks. What we can't know from this is whether one affects the other, or if there's something else driving strong demand for both.
+Though Nautilus only has 18 points of reference, it's worth noting that these go all the way back to 2010, so the backdrop for the rallies - the strength of the economy, investor sentiment, and Trump - haven't all been the same. Of course, bitcoin hasn't been around that long so we don't know how this correlation will hold up in the long-term.
+
+Bitcoin has had a blazing start to 2017. Through the first seven-plus months of the year it has gained 257%.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US3,356</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nautilus</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nautilus Investment Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

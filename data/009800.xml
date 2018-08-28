@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414465916831930</docid>
+  <date>02/08/2017</date>
+  <time>14:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/bunnings-victim-of-alleged-nt-tradies-tax-scam/news-story/7b9e848dbb7c6a1b7ce6bb37f90d0b84</url>
+  <title>Bunnings target of alleged NT tradies' tax scam</title>
+  <content>
+TERRITORY tradies are allegedly rorting the Federal Government out of millions of dollars by using the ABN of hardware chain Bunnings to avoid paying tax.
+Treasury's black economy taskforce chairman Michael Andrew told The Australian the scheme was endemic in the NT, where more than 40 per cent of ABNs quoted belong to Bunnings.
+"Of course, every tradesman goes to Bunnings. They get an invoice - the ABN's up top," Mr Andrew said.
+When clients requested an invoice for a job, the dodgy tradies allegedly use Bunnings', allowing them to skirt paying tax.
+"People ask for an invoice or valid receipt and they get the name of the company, but they then get an ABN of someone else such as Bunnings: the result of which (is) you can't trace then where the money really went," he said.
+Mr Andrew said the problem was partly caused by changes to the way the economy operated.
+"There's this huge shift from employment to contracting where we are actually seeing people now basically incorporate entities and operate as an independent contractor, avoid superannuation guarantee, payroll tax (and) get lower tax rates," he said.
+Darwin apprentice plum-ber Tyrone Pepretti told The Australian customers often asked for an invoice, although "not so much for cash jobs".
+"There's no real benefit in not putting your ABN on there," he said. "It might work if you were pretty dodgy. There might be a few guys out there who do that, I suppose."
+CPA Australia's policy head Paul Drum said the ABN system had serious flaws.
+"Effectively, the ABN system is not working," he said.
+"We have 3.5 million ABNs who have never lodged a tax statement or a tax return.
+"We issued 180,000 ABNs last year to people on tourist visas who are not allowed to have an ABN. We're seeing secretaries and receptionists out there with ABNs at the moment.
+"So we have to basically work to put more integrity and governance around the issuing of ABNs and make sure that they're something that is valued, not something which is just automatically issued."
+The black economy taskforce is due to deliver its final findings to the government by October.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Andrew</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bunnings</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Paul Drum</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CPA Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Andrew</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tyrone Pepretti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABN</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>ABNs</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

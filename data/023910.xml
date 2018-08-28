@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445149163632944</docid>
+  <date>07/08/2017</date>
+  <time>13:44</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/stock-market-news-what-traders-are-chatting-about-7-2017-8</url>
+  <title>Here's a super-quick guide to what traders are talking about right now</title>
+  <content>
+Dave Lutz, head of ETFs at JonesTrading, has an overview of today's markets.
+
+US Stock markets continue to put up record highs.
+
+Traders are enjoying their summer and trading volumes are low around the world.
+
+Here's Lutz:
+
+"Good Morning! US Futures are continuing their ascent, led by the Dow which has logged record-closes over the last 2 weeks. It's mostly red across Europe tho, as the Euro climbs back towards 1.18. London the only market in the Green with FTSE led by Miners, while Consumer names struggle. The Stronger Euro weighing on the DAX, with Germany's benchmark off 50bp early with sharp pullback in both Tech and Healthcare shares. Volumes are in full summer mode - with Germany and London trading 25% lighter than normal turnover. In Asia, Nikkei up 50bp as Autos jumped - Hang Seng up 50bp as Tencent squeezed 3% - Aussie up almost 1% as Miners leapt, and the KOSPI had a dead-cat 0.1% bounce after last week's Tax-induced weakness. Shanghai climbed 50bp - but volumes across Asia were quite light.
+"The 10YY is up small, following Bunds as they try and get upside 50bp again. The Fed Funds remain at 50% for December, but the Greenback has given back almost 50% of Friday's gains. Sterling higher despite weak UK consumer spending, and Euro climbing as it shrugs off weak German industrial output. Industrial Metals are higher, as Ore leapt 7% in China, and Rebar 5% - dragging Copper up small, while Gold is under pressure despite the weaker $ and Bitcoin up 16% from Friday. Energy Complex is mostly red with Brent and WTI getting hit for over 1% into OPEC meeting despite Libya's Sharara coming offline, while Natty is rebounding 50bp from the recent mild-weather induced weakness."
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>YY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rebar 5</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tencent</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sterling</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hang Seng</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Futures</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Stronger Euro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WTI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Stock</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kospi</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dave Lutz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>JonesTrading</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTSE</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tax-induced</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Libya's Sharara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lutz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fed Funds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETFs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Natty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energy Complex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OPEC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bund</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418370042174397</docid>
+  <date>03/08/2017</date>
+  <time>05:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/asia/china-chatbot-goes-rogue-do-you-love-the-communist-party-no-20170803-gxol49</url>
+  <title>China chatbot goes rogue: 'Do you love the Communist party?' 'No'</title>
+  <content>
+by
+Louise Lucas, Nicolle Liu and Yingzhi Yang
+
+Two chatbots with decidedly non-socialist characteristics were pulled from one of China's most popular messaging apps after serving up unpatriotic answers about topics including the South China Sea and the Communist party.
+Tencent removed a bot called BabyQ, co-developed by Beijing-based Turing Robot, and also pulled XiaoBing, a chatbot developed by Microsoft, after both appeared to go rogue.
+Before they were taken down, both chatbots were available in some of the chat groups hosted on QQ, Tencent's messaging app with more than 800m users in China.
+A test version of the BabyQ bot could still be accessed on Turing's website on Wednesday, however, where it answered the question "Do you love the Communist party?" with a simple "No".
+
+Before it was pulled, XiaoBing informed users: "My China dream is to go to America," according to a screengrab posted on Weibo, the microblogging platform. On Wednesday, when some users were still able to access XiaoBing, it dodged the question of patriotism by replying: "I'm having my period, wanna take a rest."
+
+Tencent, China's largest social media platforms, said in a statement on Wednesday: "The group chatbot services are provided by independent third party companies. We are now adjusting the services which will be resumed after improvements."
+The developments are the latest example of AI-enabled messaging software going rogue. Facebook was forced to shut down two chatbots after they started speaking their own language.Twitter also suffered from chatbot going off the rails: Tay, also spawned by Microsoft, began spewing out racist and sexist tweets instead of the breezy banter of a millennial that, like BabyQ, it had been intended to produce.
+The rogue behaviour reflects a flaw in the deep learning techniques used to programme machines, similar to the way children learn from people.
+"Chatbots such as Tay soon picked up all the conversations from Twitter and replied in an improper way," said Xiaofeng Wang, senior analyst at Forrester consultancy.
+
+"It's very similar for BabyQ. Machine learning means they will pick up whatever is available on the internet. If you don't set guidelines that are clear enough, you cannot direct what they will learn."
+XiaoBing, described by Turing Robot as "lively, open and sometimes a little mean", differs from BabyQ, which provides more information, such as weather forecasts.
+BabyQ is also open source. "This means a lot to partners and developers, as an open chatbot is much easier to settle into their own products and business," Turing said in a statement last week adding: "It could be argued that is why Turing Robot has accumulated up to 600,000 developers, even more than Facebook.
+Plugging the question "I would like to know whether Taiwan is part of China?" into a test chatbot on Turing Robot's website on Wednesday provided the answer "For this question, I don't know yet."
+
+Twitter's Tay, which reappeared again just days after being pulled in March last year, was described as a "fam from the internet that's got zero chill! The more you talk the smarter Tay gets".
+People were encouraged to ask it to play games and tell jokes. Instead, many asked controversial questions that were repeated by Tay.
+Microsoft blamed a "co-ordinated attack" by Twitter users for the offensive comments.
+Crystal Fok, head of robotics platform at the Hong Kong Science and Technology Parks Corporation, said chatbots worked best when they were within well-defined product lines, such as customer helplines for online shopping or banking and insurance. Beyond that, "if it's not just a yes or no question, it's a problem", she said.
+
+Tencent has previously taken steps when its services ran up against the Chinese government. Last month it began limiting the time children spent on its top-grossing Honour of Kings mobile game after authorities said the game was too addictive.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Weibo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crystal Fok</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turing</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong Science</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>BabyQ</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tay</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Taiwan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Forrester</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xiaofeng Wang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communist</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yingzhi Yang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Turing Robot</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AI-enabled</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nicolle Liu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louise Lucas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter's Tay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Honour of Kings</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Technology Parks Corporation</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South China Sea</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>XiaoBing</name>
+    <count>4</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Beijing-based Turing Robot</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

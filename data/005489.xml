@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406902479278760</docid>
+  <date>01/08/2017</date>
+  <time>09:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/afl/afl-news/afl-tribunal-hawks-veteran-luke-hodge-guilty-of-striking-20170801-gxnckt.html</url>
+  <title>AFL Tribunal: Hawks veteran Luke Hodge guilty of striking</title>
+  <content>
+Hawthorn veteran Luke Hodge will miss Sunday's clash against Richmond after the AFL tribunal upheld his one-match ban for striking.
+Hodge was charged with striking Sydney's Tom Papley during the second quarter of the Hawks' six-point win over the Swans at the MCG on Friday night.Photo: AAP
+The jury - consisting of Paul Williams, Stewart Loewe and Richard Loveridge - took just over 20 minutes to find the four-time premiership star guilty.
+AAP, more to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>MCG</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney's Tom Papley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawk</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Loveridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Swans</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Hawthorn</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hodge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stewart Loewe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL Tribunal</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Paul Williams</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Luke Hodge</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

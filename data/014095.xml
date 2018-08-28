@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423094506294602</docid>
+  <date>04/08/2017</date>
+  <time>00:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/crime-and-justice/lawyer-cameron-james-mckenzie-to-defend-extortion-charge/news-story/b4efec590fbc9d0959121374e84dd118</url>
+  <title>Pisasale lawyer in court on extortion charge</title>
+  <content>
+A LAWYER linked to beleaguered former Ipswich mayor Paul Pisasale has fronted court for the first time, saying he will defend the criminal charge against him.
+Solicitor Cameron James McKenzie, 35, was last month charged by the Crime and Corruption Commission with a single count of extortion and granted watch house bail.
+He briefly faced the Brisbane Magistrates Court this morning, where his defence lawyer Peter Saggers asked for the matter to be adjourned.
+It's alleged McKenzie made the threatening demand between January 31 and March 17.
+The case will be mentioned again on August 21.
+Leaving court, McKenzie told media he would defend the allegations.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Paul Pisasale</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>January 31</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pisasale</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>March 17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Corruption Commission</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Saggers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>McKenzie</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Cameron James McKenzie, 35</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

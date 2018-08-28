@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418365747207016</docid>
+  <date>03/08/2017</date>
+  <time>05:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-03/commission-of-inquiry-into-png-election-top/8771588</url>
+  <title>Commission of inquiry into PNG election top priority for opposition</title>
+  <content>
+PNG's new parliamentary opposition says one of its first actions will be to push for a commission of inquiry into the conduct of the recent national elections.
+Peter O'Neill was re-elected Prime Minister on the floor of parliament yesterday with the support of 60 MPs and 46 opposing.
+That's a much smaller majority than when he was elected PM after the 2012 election by 94 parliamentarians.
+One of the leaders on the opposition side is Kerenga Kua, who says the opposition is in a much stronger position.
+He tells Liam Fox that one of their first priorities will be a demand for a thorough examination of the electoral process.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MPs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter O'Neill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kerenga Kua</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liam Fox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

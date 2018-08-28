@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398875185262452</docid>
+  <date>31/07/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/11/51/turbulence-factor-in-fatal-vic-plane-crash</url>
+  <title>Turbulence factor in fatal Vic plane crash</title>
+  <content>
+An elderly trainee pilot was likely troubled by turbulence at a rural Victorian airport where he crashed and died, with safety investigators noting a lack of information about the potentially hazardous conditions.
+The 72-year-old was killed near Yarram airport in September 2016 while trying to perform a touch-and-go manoeuvre, but fell into a steep descent and hit the ground, the Australian Transport and Safety Bureau said on Monday.
+A combination of the pilot's age and medical history, coupled with mechanical turbulence - experienced often near the airfield, but not officially reported - likely exacerbated the mishandling of the light aircraft, ATSB said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Safety Bureau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Transport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATSB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 2016</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Yarram</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

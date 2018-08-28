@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398269594865960</docid>
+  <date>30/07/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/09/39/man-suffers-serious-burns-as-out-of-control-inferno-envelops-sydney-building</url>
+  <title>Man suffers serious burns as out-of-control inferno envelops Sydney building</title>
+  <content>
+A man is being treated for serious burns as firefighters battle an enormous inferno which has erupted at a building in Sydney's west.
+The factory on Links Road at St Marys housed aerosol cans which have exploded, sending the fire out of control.
+Multiple fire crews are at the site trying to bring to contain the fire.
+A man in his 40s is being treated by paramedics after receiving burns to 60 percent of his body.
+Aerial shots of the fire show large flames ravaging the building and plumes of black smoke rising into the air.
+The cause of the fire is unknown.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Links Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Marys</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

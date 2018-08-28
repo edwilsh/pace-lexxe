@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424791018402528</docid>
+  <date>04/08/2017</date>
+  <time>06:44</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/antipa-extends-minyari-gold-mineralisation/news-story/a1964c6cad73cc3ad0ae27efdf49e6b7</url>
+  <title>Antipa extends Minyari gold mineralisation</title>
+  <content>
+Antipa Minerals has extended the Minyari high-grade gold mineralisation to +400m of strike and remains open at the North Telfer project.
+Improved continuity of Minyari deposit high-grade gold mineralisation has been identified via south-southwest directed drill holes.
+Further phase 2 drilling program is expected to commence this quarter.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Minyari</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>North Telfer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Antipa Minerals</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Antipas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411163086920012</docid>
+  <date>02/08/2017</date>
+  <time>01:51</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/us-to-probe-affirmative-action-at-unis/news-story/31b61bd8c5389c85fa1961b1e4da9d99</url>
+  <title>US 'to probe affirmative action' at unis</title>
+  <content>
+The US Justice Department is planning to investigate and possibly sue universities over admissions policies that discriminate against white applicants, the New York Times has reported, citing a department document.
+The internal memo seeks lawyers in the department's Civil Rights Division who are interested in working on a new project on "investigations and possible litigation related to intentional race-based discrimination in college and university admissions," the Times reported.
+The US Supreme Court has ruled that universities may use affirmative action admissions policies, which are intended to give minority applicants an edge in getting into college. The court has rejected racial quotas but said race could be used as one factor among many in evaluating an applicant.
+Critics of affirmative action say that in some cases it goes too far in discriminating against white and Asian applicants.
+The Times said the Justice Department document does not explicitly say whom it considers at risk because of affirmative action admissions policies. But the Times reported that supporters and critics of the project said it clearly targeted admissions programs that seek to help black and Latino students.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Latino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Civil Rights Division</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Justice Department</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

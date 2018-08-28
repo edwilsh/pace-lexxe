@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443538550868092</docid>
+  <date>07/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/hte-launches-new-division/news-story/f9604ffcc0f0ea00f4415e315ad8eed2</url>
+  <title>HT&E launches new division</title>
+  <content>
+HT&E has entered into a JV with IKON Media & Entertainment to create a new division and brand, HT&E Events.
+In its first venture, HT&E Events will create an Australian eSports business, Gfinity eSports Australia, launching Australia's first city-based franchise league, The Elite Series.
+A partnership with Gfinity eSports Australia will deliver Australian gamers a clear and structured top-to-bottom competitive framework within Australian eSports.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>HT</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elite Series</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IKON Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gfinity eSports Australia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>E Events</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian eSports</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

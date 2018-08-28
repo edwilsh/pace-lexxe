@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397578105122412</docid>
+  <date>30/07/2017</date>
+  <time>21:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/07/31/06/56/mid-air-cable-car-crash-strands-100-passengers-above-river</url>
+  <title>Mid-air cable car crash strands 100 passengers above river</title>
+  <content>
+One hundred passengers have been stranded above a river due to a cable car accident on a sky-way in Germany.
+The gondola, which carries people across the River Rhine in Cologne, was stopped on Sunday after a car hit a pillar.
+Fire crews have used a crane and a winch to rescue the stranded passengers.
+Pictures posted to social media show children and adults being lowered to waiting boats, and strapped in with firefighters.
+No injuries have been reported.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>River Rhine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mid-air</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cologne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442374614713856</docid>
+  <date>07/08/2017</date>
+  <time>02:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/canberra-woman-accused-of-actewagl-fraud-charged-with-fresh-offence-20170807-gxqn9r.html</url>
+  <title>New charge for Canberra woman accused of ActewAGL fraud</title>
+  <content>
+A Canberra woman charged with stealing thousands from ActewAGL customers faced court on Monday charged with a fresh offence.
+Jessica Kate Anderson, 29, was working as a contractor at the energy company when it's alleged she and a co-accused, Taylor Jade Geoghegan, 20, found accounts in credit before transferring the money to bank accounts belonging to Ms Anderson.
+It's alleged more than $13,000 was taken this way.
+Court documents tendered on another occasion suggest the pair had quit their jobs working the telephones at ActewAGL and on the same day booked flights for a Las Vegas holiday.
+Both women were arrested but have since been released on bail.
+Ms Anderson, of Gungahlin, is charged with 15 counts of fraud, while Ms Geoghegan, of Theodore, is charged with 15 counts of being knowingly involved in the fraud.
+On Monday in the ACT Magistrates Court Ms Anderson was also charged with intentionally providing misleading information.
+The court heard no further details of the alleged offence.
+The case is next due in court on August 21, when Magistrate Peter Morrison said the woman would be expected to enter pleas.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Kate Anderson, 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Anderson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Magistrate Peter Morrison</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Geoghegan, of Theodore</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Ms Anderson, of Gungahlin</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>ActewAGL</name>
+    <count>3</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taylor Jade Geoghegan, 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>ACT Magistrates Court Ms Anderson</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428720913549405</docid>
+  <date>04/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/world/neptune-is-experiencing-a-9000kmwide-storm-spanning-one-third-of-its-hemisphere/news-story/449bde046b1ee50dd59292250bdebdba</url>
+  <title>A strange storm is choking Neptune</title>
+  <content>
+NEWS: The surprising gigantic storm spotted by one of our students in our Keck Visiting Scholars Program is...
+
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Neptune</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Keck Visiting Scholars Program</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

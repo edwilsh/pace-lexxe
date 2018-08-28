@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410218194098607</docid>
+  <date>01/08/2017</date>
+  <time>22:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/tully-gets-a-boost-with-prestigious-appointment/3207736/</url>
+  <title>Tully gets a boost with prestigious appointment</title>
+  <content>
+IPSWICH Acting Mayor Paul Tully has been elected to the Local Government Association of Queensland (LGAQ) Policy Executive.
+The Executive comprises 15 district representatives from around Queensland and the LGAQ president Mark Jamieson, Mayor of the Sunshine Coast Regional Council.
+Cr Tully has been elected to represent the Western District councils comprising Ipswich, Lockyer Valley, Scenic Rim and Somerset.
+The other contender for the position was Lockyer Valley Mayor Tanya Milligan.
+Cr Tully, who received notification of his appointment before yesterday's mayoral ballot draw, said it was a great honour to represent the four councils in the western region which are all part of the fastest-growing area of Queensland.
+"The LGAQ has forged a very strong working relationship with the state government to advance the interests of local government across Queensland," Cr Tully said.
+"I am keen to foster greater grass root involvement of our local communities to strongly promote our western region for its social, economic and tourist opportunities."
+Cr Tully said he would continue to work closely with the mayors of Scenic Rim, Lockyer Valley and Somerset to advance the interests of the region.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Western District</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LGAQ</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Local Government Association of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lockyer Valley</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Coast Regional Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPSWICH Acting Mayor Paul Tully</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scenic Rim</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tully</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mayor of the Sunshine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Jamieson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Policy Executive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cr Tully</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Somerset</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Lockyer Valley Mayor Tanya Milligan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  </sindexList>
+</snippet>

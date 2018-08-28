@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404282549184405</docid>
+  <date>31/07/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/web/ecommerce/amazon-scares-executives-more-than-donald-trumps-setbacks-do-20170731-gxmnt2</url>
+  <title>Which topic comes up on most company conference calls, Amazon or Trump?</title>
+  <content>
+by
+Julie Verhage
+
+What keeps corporate leaders up at night?
+It isn't the  or rising worker pay. It's what  is, or could be, doing to their business models, according to a Bloomberg analysis of earnings conference call transcripts.
+The expanding online behemoth has morphed from a retail category killer to a much broader enterprise that now competes with everything from high-end grocers to technology developers. It's safe to say corporate America has taken notice - and is increasingly concerned about the competition.
+Looking at the past 90 days of earnings calls and other corporate events such as investor days, a trend emerges. Amazon comes up a lot.
+
+It was mentioned a staggering 635 times over that time frame, while US President Donald  came up just 162 times and wages were discussed 111, the earnings call data show. It's become even more pronounced over the past 30 days, with Amazon garnering 165 mentions compared with 32 for Trump and 22 for wages.
+
+The trend holds over the past 12 months, which encompasses the period when Trump pulled off his surprise election victory. Yet, Amazon was mentioned 1800 times on earnings calls over that span, compared with 1000 for Trump and 406 for wages.
+A representative for Amazon didn't immediately respond to an email seeking comment.
+McDonald's is worried
+
+Amazon typically comes up in discussions about efforts to expand into new business lines in a shifting retail landscape.
+
+For instance, on the McDonald's second-quarter earnings  this month, chief executive officer Steve Easterbrook pointed to Amazon's purchase of the upscale grocery chain  as an example of how rapidly the food industry is being transformed.
+"It just demonstrates how disruptive the business world is and how quickly it moves," he said.
+Executives are also quick to point out partnerships they have with Amazon. Mark Parker, the CEO of , highlighted the shoe manufacturer's pilot  with the retailer on his June earnings call.
+"As we do with all of our partners," he said, "we're looking for ways to improve the Nike consumer experience on Amazon by elevating the way the brand is presented and increasing the quality of product storytelling."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nike</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>McDonald</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Parker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Julie Verhage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>9</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Easterbrook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

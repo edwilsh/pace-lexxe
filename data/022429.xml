@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442512053669097</docid>
+  <date>07/08/2017</date>
+  <time>03:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4838452/can-you-help-find-andrew/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Can you help find Andrew?</title>
+  <content>
+Andrew Webster. Picture courtesy NSW Police.
+
+Police are appealing for help from the public to find a teenager who was reported missing from Heddon Greta, near Kurri Kurri, last month.
+Andrew Webster, 15, was last seen at a home on Main Street on Wednesday, July 19.
+Police and his family hold serious concerns for the teen's welfare due to his age.
+
+Andrew was described as of Caucasian appearance, about 180cm tall, slim build with curly brown hair and a black spacer earring in his left ear.
+Can you help police? Anyone who knows of Andrew's whereabouts or has any information about the teenager is urged to contact Maitland Police Station via Crime Stoppers on 1800 333 000.
+Information can also be reported via the Crime Stoppers online reporting page at 
+
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Main Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heddon Greta</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Andrew</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Webster, 15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Webster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maitland Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caucasians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kurri Kurri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

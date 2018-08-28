@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424898392586609</docid>
+  <date>04/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/politics/world/mueller-using-grand-jury-as-part-of-russia-probe-20170804-gxp61j</url>
+  <title>Mueller using grand jury as part of Russia probe</title>
+  <content>
+by
+Carol Leonnig, Sari Horwitz and Matt Zapotosky
+
+Special Counsel Robert Mueller began using a grand jury in federal court in Washington several weeks ago as part of his investigation of , according to two people familiar with the inquiry.
+The development is a sign that , and that Mueller is taking full control of a probe that predated him.
+In recent weeks and months, Mueller has been expanding the legal team working on the matter, and recently added Greg Andres, a longtime white-collar lawyer specialising in foreign bribery who previously worked in the Justice Department's criminal division.
+Mueller's investigation now includes a look at whether President, as well as deep dives into financial and other dealings of  and .
+
+Federal prosecutors had previously been using a grand jury in the Eastern District of Virginia, and even before Mueller was appointed, had increased their activity, issuing subpoenas and taking other investigative steps.
+
+The Wall Street Journal on Thursday first reported the existence of the Washington grand jury.
+A White House adviser said the President and his son-in-law, Jared Kushner, had not received subpoenas, nor had the White House. Members of the President's legal team met with Mueller three weeks ago to express their desire to work with his investigators.
+A spokesman for Mueller declined to comment for this article.
+Ty Cobb, whom Trump appointed as White House special counsel, said of the grand jury: "This is news to me, but it's welcome news to the extent it suggests that it may accelerate the resolution of Mr Mueller's work. The White House has every interest in bringing this to a prompt and fair conclusion. As we've said in the past, we're committed to cooperating fully with Mr Mueller."
+
+Mueller has largely removed the original prosecutors from the case, replacing them with a formidable collection of legal talent and expertise in prosecuting national security, fraud and public corruption cases, arguing matters before the Supreme Court and assessing complicated legal questions.
+In federal cases, a grand jury is not necessarily an indication that an indictment is imminent or even likely. Instead, it is a powerful investigative tool that prosecutors use to compel witnesses to testify or force people or companies to turn over documents.
+It's unclear why Mueller chose to use a panel in the District, although there are practical reasons to do so. The special counsel's office is located in southwest DC - much closer to the federal courthouse in the city than the one in Alexandria, Virginia. Mueller also had previously worked in the US attorney's office in DC, giving him some familiarity with the courthouse and the judges.
+Experts said that Washington would be the appropriate place to convene a grand jury to examine actions taken by Trump since he became president and took up residence at the White House. Many of the potential crimes Mueller's team is investigating would have occurred in the District, such as allegations that Trump aides or advisers made false statements in disclosure records or lied to federal agents. The Washington Post has previously reported that Mueller is investigating whether the President tried to obstruct justice leading up to his firing of Comey.
+
+Others said the choice could reflect Mueller's reputation for planning ahead and gaming out a possible trial. He could have better chances convicting aides to Trump in a city in which 90 per cent of voters supported Democrat Hillary Clinton in 2016.
+The special counsel team took over the investigation when Mueller was appointed in May, and prosecutors from the Eastern District of Virginia were largely taken off the case.
+The only prosecutor known to have stayed was Brandon Van Grack, a national security division prosecutor whose name was on the subpoena connected to Flynn. Mueller's team also absorbed an investigation of Manafort that was attempting to trace his sources of income and possible connections to the Russia case.
+The grand jury in Virginia had issued a subpoena related to Flynn's business, the Flynn Intel Group, which was paid more than $500,000 by a company owned by a Turkish American businessman close to top Turkish officials, said people familiar with the matter. A subpoena related to Manafort also was issued from Alexandria.
+
+Washington Post
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>DC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Zapotosky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turkish American</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ty Cobb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democrat Hillary Clinton</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Manafort</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Carol Leonnig</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Andres</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Virginia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Flynn</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Counsel Robert Mueller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>15</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Comey</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mueller</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Turkish</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sari Horwitz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>4</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Alexandria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brandon Van Grack</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jared Kushner</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flynn Intel Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastern District of Virginia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

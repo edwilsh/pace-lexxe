@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411077187572776</docid>
+  <date>02/08/2017</date>
+  <time>01:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/sydney-chase-ends-with-failed-carjacking/news-story/7c545a592f865d50cf318f599af48e1b</url>
+  <title>Sydney chase ends with 'failed carjacking'</title>
+  <content>
+A man is facing a string of charges after allegedly leading police on a wild car chase which ended with an attempted carjacking in Sydney's west.
+The 28-year-old was driving a car stolen from a home in Colyton on Monday when officers spotted him in the nearby suburb of Wilmot on Tuesday afternoon.
+Officers unsuccessfully used road spikes to stop the driver during a pursuit, which began after he refused to pull over.
+A police helicopter tracked the car on the M7 to Blacktown, but lost sight of the suspect when he drove into an underground car park on Stephen Street.
+Police allege the driver tried to steal a car from a 63-year-old woman before running into the street where he was finally arrested.
+He was taken to Blacktown Hospital for non-life threatening injuries and later charged.
+The man was refused bail and is due to appear at Blacktown Local Court on Wednesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>M7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wilmot</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Blacktown Hospital</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Colyton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Blacktown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blacktown Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430438900484988</docid>
+  <date>05/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/14/29/gay-divorce-ban-breaches-human-rights-un</url>
+  <title>Gay divorce ban breaches human rights: UN</title>
+  <content>
+Australian laws stopping same-sex couples who married overseas from getting divorced violate international human rights obligations, the United Nations has found.
+In a decision released overnight, the UN Human Rights Committee ruled an Australian woman has been denied equal protection of the law because Australia does not allow her to end a legal Canadian same-sex marriage.
+"This decision is a timely reminder to the Australian government that banning same-sex couples from marriage is a breach of human rights," gay rights activist Rodney Croome said on Saturday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UN Human Rights Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rodney Croome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

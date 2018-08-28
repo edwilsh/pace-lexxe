@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404892434550828</docid>
+  <date>01/08/2017</date>
+  <time>01:31</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/armourcard-adds-to-its-arsenal/news-story/6f72ec75efab209ea3f96896398c445a</url>
+  <title>Armourcard adds to its arsenal</title>
+  <content>
+Sydney-based Armourcard has added to its arsenal designed to protect mobile phone users from the prying eyes of electronic pickpockets.
+Founded in 2012, Armourcard sells a card-sized jammer that blocks the 13.56 MHz frequency used by radiofrequency identification (RFID) cards to communicate with devices. The RFID technology is widely used in many credit cards and for tap-to-pay systems such as MasterCard's PayPass or Visa payWave.
+
+The details held in a credit card chip can be extracted by criminals who exploit the RFID or Near Field Communicate (NFC) technology in smartphones to skim the cards.
+According to the company, its latest product - Armourcell - is designed to protect smartphones from being exploited through the NFC feature allowing consumers to control when the feature can be used, ensuring only the owner has control and not a hacker.
+The new product hits the market as identity theft continues to make its mark in Australia.
+According to the Attorney-General's Department, the annual cost of identity crime in Australia is $2.2 billion, including the direct and indirect losses incurred by government agencies and individuals; and the cost of identity crimes recorded by police.
+Tyler Harris, founder and CEO of Armourcard, said that as RFID and NFC technology becomes more accessible smartphones are now the new battleground for hackers and identity thieves. "
+"As Australians rely on smartphones to go about their personal and professional transactions, data stored on those devices is the new gold."
+He also pointed to the recent leak of the CIA's Vault 7 leaks as further evidence of how vulnerable mobile devices can be requisitioned as spying tools.
+"What many people don't realise is that mobile phones can be penetrated through the NFC technology which is constantly on and emitting a signal. All it takes is for malicious code to be injected through the NFC feature on a smartphone and a hacker pushing out malicious RFID signal to a phone by the RFID chip, to get hold of passwords, photographs, and other personal information.
+With the information bought and sold on the dark web, the commoditisation of personal data has led to a viable business model for cyber criminals.
+Armourcell, which provides a force field of sorts over the phone, sticks to the back of a mobile phone and discharges a jamming frequency that does not allow other devices to link with the NFC signal emitted from mobile phones.
+Users can deactivate the signal jamming technology by simply holding down the button on the back of the Armourcell to complete a NFC enabled transaction.
+"With Armourcell, we are providing smartphone users peace of mind and protecting their data from being compromised," Mr Harris said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Armourcard</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MHz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tyler Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CIA's Vault 7</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NFC</name>
+    <count>7</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Armourcard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney-based Armourcard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RFID</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Attorney General's Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Visa payWave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Near Field Communicate</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Armourcell</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>MasterCard PayPass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

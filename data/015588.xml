@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424795313369952</docid>
+  <date>04/08/2017</date>
+  <time>06:45</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/accc-reviews-cryosite-deal-with-cell-care/news-story/aa0d1b4a2d9ce43ea9b1ed106ceb789a</url>
+  <title>ACCC reviews Cryosite deal with Cell Care</title>
+  <content>
+Cryosite has been notified by ACCC that it will publicly review the proposed transaction to license the future collection, processing and storage of umbilical cord and tissue and to sell certain assets of its cord blood and tissue banking business to Cell Care Australia.
+The company is in the meantime proceeding with its plans to seek shareholder approval to the proposed transaction.
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cryosite</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cell Care Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cell Care</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406601831562208</docid>
+  <date>01/08/2017</date>
+  <time>08:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/acting-melbourne-fire-chief-quits/news-story/7e9fd474226b73a017e07aaec6018012</url>
+  <title>Acting Melbourne fire chief quits</title>
+  <content>
+Acting chief officer Paul Stacchino has quit the Metropolitan Fire Brigade in another blow for the agency amid a major restructure.
+The MFB on Tuesday confirmed Mr Stacchino had resigned from the position, which he's held since former chief Peter Rau stepped down due to illness in 2016.
+Acting CEO Russel Eddington said Mr Stacchino has "helped steer the organisation through some challenging times" but did not provide a reason for the departure.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Stacchino</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MFB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO Russel Eddington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Stacchino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Rau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

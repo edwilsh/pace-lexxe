@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443194953478585</docid>
+  <date>07/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/brand/chanticleer/telco-boss-takes-on-political-hot-potato-20170807-gxqy3u</url>
+  <title>Optus chairman Paul O'Sullivan takes on political hot potato with airport</title>
+  <content>
+Optus chairman Paul O'Sullivan might want to take some advice from his old Vodafone rival Bill Morrow when it comes to taking on a politically contentious piece of government-funded infrastructure.
+the body overseeing the second Sydney airport to be built at Badgerys Creek.
+O'Sullivan is well-regarded in the telecommunications market for his decade-long stint transforming Optus into a serious rival to market leader Telstra.
+Running an airport is a lot different to running a telecommunications company, but O'Sullivan's track record demonstrates he knows something about turning the underdog into a strong No. 2.
+
+In this case, the second airport will be competing against Sydney Airports, which knocked back its first right of refusal to build the second airport because it was uneconomical.
+
+Urban Infrastructure Minister Paul Fletcher knows O'Sullivan well from his life before politics in senior roles at the telecommunications group.
+It will be a challenging role given the community backlash against the second airport, the complexities around issues such as transport links and the politics involved.
+Telco bosses are suited for these kind of roles, though, because the industry is highly regulated and deeply political.
+Morrow knows what this is like after inheriting the National Broadband Network (NBN), which is the country's largest but most unpopular infrastructure project at the moment.
+
+Like Qantas boss Alan Joyce, O'Sullivan also hails from Dublin although he may struggle to convince the airline boss to move his mainline operations from Mascot to Badgerys Creek.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Urban Infrastructure Minister Paul Fletcher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alan Joyce</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O'Sullivan</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dublin</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul O'Sullivan</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Badgerys Creek</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

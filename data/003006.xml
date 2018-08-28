@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402878094853936</docid>
+  <date>31/07/2017</date>
+  <time>17:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/03/32/nsw-govt-set-for-another-by-election</url>
+  <title>NSW govt set for another by-election</title>
+  <content>
+The NSW government will face another by-election following the resignation of Cootamundra MP Katrina Hodgkinson.
+After nearly 20 years in parliament, the Nationals MP on Monday revealed she was stepping down and would spend more time with her family while entering the corporate sector.
+The move triggers yet another mid-term test for the Berejilkian government.
+In April, the Liberals retained the northern Sydney electorates of Manly and North Shore, while Paralympic gold medallist Liesl Tesch picked up the seat of Gosford for Labor.
+Ms Hodgkinson will officially retire on August 31.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berejilkian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Shore</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Hodgkinson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paralympic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Liesl Tesch</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nationals MP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cootamundra MP Katrina Hodgkinson</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gosford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

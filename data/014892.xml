@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423652852052413</docid>
+  <date>04/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/botnet-builder-gets-almost-four-years-in-prison-470124</url>
+  <title>Botnet builder gets almost four years in prison</title>
+  <content>
+The man who built the infrastructure for the Ebury botnet has received a 46-month prison sentence in the United States after pleading guilty to wire fraud and other computer crimes charges.
+
+Forty one-year-old Russian Maxim Senakh was arrested by Finnish police for his role in the Ebury botnet and extradited to the US in January this year.
+
+The US Department of Justice  Senakh supported the Ebury campaign by creating accounts with domain registrars to develop the botnet infrastructure.
+
+According to the US DoJ, Senakh and an associate known only as "Silver Fox" [] profited from running advertising click-fraud and spamming schemes via the botnet, to the tune of several millions of dollars.
+
+ is a rootkit that was used to attack Linux servers from 2008. It exploited a vulnerability in OpenSSH to steal user log in credentials to create a botnet of tens of thousands of infected servers globally.
+
+It was also used to attack the Linux Foundation and the kernel.org developer site. Programmer Donald Ryan Austin was  in September last year for trying to install a rootkit on the Linux sites.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Linux Foundation</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Linux</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senakh</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US DoJ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian Maxim Senakh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Ryan Austin</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US Department of Justice</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ebury</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>OpenSSH</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Silver Foxes</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Finnish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

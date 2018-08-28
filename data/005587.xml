@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407121522615027</docid>
+  <date>01/08/2017</date>
+  <time>10:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/footscray-tram-attacker-still-on-run-after-stabbing-two-people/news-story/49502f7bbb8776494afc7634643c2796</url>
+  <title>Knife-wielding tram attacker still on run</title>
+  <content>
+A VICIOUS knife-wielding attacker is still on the run after stabbing two people on a Footscray tram last week.
+Police continued their search for evidence this evening after detectives along with SES crews conducted a line search on the corner of Droop St and Geelong Rd.
+It is not known what investigators were looking for.
+Two men, one aged in their 20s and another in their teens, were rushed to hospital with wounds to their upper body, forearm and lower back after being stabbed on Friday night.
+An Ambulance Victoria spokeswoman said paramedics were on the scene about 8.45pm.
+Detectives were seen doorknocking locals on Tuesday afternoon, moments before the line search was conducted.
+A 56-year-old Footscray man was arrested by police in relation to the incident but was later released without charge.
+The two injured victims have provided police with statements.
+One of the victims, a man aged in his 20s, required surgery in the Royal Melbourne Hospital for wounds he suffered to his forearm.
+Witnesses told the Herald Sun the alleged offender was an African man, aged in his 30s, and was wearing a trench coat.
+The witnesses, who asked not to be named, said the man stood up, was agitated and produced a knife.
+They say the man then began attacking passengers before the tram driver opened the doors.
+The attacker then took off on foot.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Droop St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Footscray</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herald Sun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geelong Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

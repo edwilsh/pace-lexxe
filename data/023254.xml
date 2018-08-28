@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444272990288584</docid>
+  <date>07/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/slim-growth-for-uk-property-in-july/news-story/fde90ab11b2295076a9fa28cc3f5761b</url>
+  <title>Slim growth for UK property in July</title>
+  <content>
+British house prices eked out growth in July but deflated wages and the squeeze on spending power continue to take their toll on the country's property market.
+Halifax's monthly index showed that prices rose 0.4 per cent in July, a bounce back from the 0.9 per cent decline recorded in June.
+Prices in the three months to July were 2.1 per cent higher than in the same three months last year, but this was down from 2.6 per cent in June and is the lowest annual rate of growth since April 2013.
+Over the last three months house prices were 0.2 per cent lower than in the previous 12 weeks and represent the fourth successive quarterly fall, the first time this has happened since November 2012.
+Russell Galley, managing director at Halifax Community Bank, said: "House prices continue to remain broadly flat, as they have since the start of the year.
+"Improvement in the jobs market has not, as yet, boosted wage growth, resulting in earnings rising at a slower rate than consumer prices.
+"This squeeze on spending power, together with the impact on property transactions of the stamp duty changes in 2016 now being realised, along with affordability concerns, appear to have contributed to weaker housing demand."
+Across the UK, the average house price stood at STG219,266 ($A361,416) in July. This is STG64,603 or 42 per cent higher than a low point seen in April 2009.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>STG219,266</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Halifax Community Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Halifax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russell Galley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>STG64,603</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>April 2013</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2009</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

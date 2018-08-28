@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441524211178325</docid>
+  <date>06/08/2017</date>
+  <time>23:40</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/cba-blames-coding-error-for-alleged-money-laundering-470233</url>
+  <title>CBA blames coding error for alleged money laundering</title>
+  <content>
+The Commonwealth Bank has blamed a coding error in its intelligent ATMs for 53,700 alleged breaches of money laundering and terrorism financing laws.
+
+Last week financial regulator AUSTRAC  for the alleged contraventions, which the regulator says were facilitated through the bank's fleet of intelligent deposit machines (IDMs).
+
+AUSTRAC alleges $77 million in suspicious transactions were made through the machines over a three-year period.
+
+The IDMs instantly credit cash and cheque deposits to the recipient's account. They were rolled out in 2012.
+
+AUSTRAC asserted that CBA did not assess the risk posed by the machines - which also do not limit the number of deposits a customer can make in a day - for use in money laundering or counter-terrorism financing activities.
+
+"About $8.91 billion in cash was deposited through CommBank IDMs before it conducted any assessment of the ML/TF [money laundering / terrorism financing] risks associated with the IDM channel," AUSTRAC alleged last week.
+
+The regulator claimed CBA's behaviour resulted in lost intelligence and evidence in criminal investigations into five different syndicates alleged to have exploited the IDMs.
+
+CBA on Sunday said the vast majority of the reporting failures alleged by AUSTRAC were explained by a coding error in the IDM software.
+
+It said following a software update in late 2012, a coding error occurred which meant the IDMs did not create reports for transactions over $10,000, which laws require to be sent to AUSTRAC.
+
+"This error became apparent in 2015 and within a month of discovering it, we notified AUSTRAC, delivered the missing [reports] and fixed the coding issue," CBA said in a statement.
+
+"The vast majority of the reporting failures alleged in the statement of claim (approximately 53,000) relate specifically to this coding error. We recognise that there are other serious allegations in the claim unrelated to the [reports].
+
+"In an organisation as large as Commonwealth Bank, mistakes can be made. We know that because we are a big organisation, these mistakes can have significant impact."
+
+The bank said the IDMs had been providing the correct threshold transaction reports to AUSTRAC since September 2015.
+
+"We need to be ever more vigilant in the area of financial crime and anti-money laundering. The rapid evolution of technology in banking, the increased sophistication of criminal activity, and higher regulatory expectations together create an imperative to continuously raise our standards," CBA said.
+
+"We have increased our investment in people, technology and processes through a program designed not only to address existing weaknesses, but also to meet the growing complexity in this area. This work continues today."
+
+Late lodgement of threshold transaction reports to AUSTRAC carries a penalty of up to $18 million. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IDM</name>
+    <count>2</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>ML/TF</name>
+    <count>1</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>9</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CommBank's IDMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

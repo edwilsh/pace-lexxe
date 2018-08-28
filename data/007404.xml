@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410347043120110</docid>
+  <date>01/08/2017</date>
+  <time>22:41</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/more-funding-for-sa-schools-after-naplan/news-story/51902f47717f6bacf7249c875d5c975f</url>
+  <title>More funding for SA schools after NAPLAN</title>
+  <content>
+South Australian schools will receive a $67.5 million funding increase following poor NAPLAN results.
+The extra funding will be used to employ more teachers to help improve literacy and numeracy, SA Education Minister Susan Close said in a statement on Wednesday.
+The minister also noted that the NAPLAN results will be analysed and used to direct extra funding to primary schools.
+"Getting literacy and numeracy right in the early years is the foundation for students to go on to succeed in the rest of their education," Ms Close said.
+SA ranked below the national average in the reading and writing component of the nationwide test.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SA Education Minister Susan Close</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAPLAN</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Close</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

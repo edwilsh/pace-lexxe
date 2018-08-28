@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420435921485545</docid>
+  <date>03/08/2017</date>
+  <time>13:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/opinion/columnists/how-to-read-the-rbas-signals-on-interest-rates-20170803-gxohmt</url>
+  <title>How to read the RBA's signals on interest rates</title>
+  <content>
+by
+Paul Bloxham
+
+There has been an enormous shift in how central banks communicate in recent years. In days gone by, central bankers' public comments were often opaque and revealed little about their forecasts. In 1987, , famously told a US Senate committee, "If I seem unduly clear to you, you must have misunderstood what I said."
+For many central banks, the approach is now at the other extreme. It has become fashionable, and regarded by many as best practice, for central banks to seek to communicate their intended actions in advance. Some central banks, including and the European Central Bank, have adopted "forward guidance" while others, such as the Reserve Bank of New Zealand and the Swedish Riksbank, publish their expected path for the policy rate.
+The challenge is that the outlook is highly uncertain and future shocks are unpredictable. Even the most thorough and well-resourced central bank does not know what it will do in future with much certainty. As a result, there is a trade-off for a central bank between specifically articulating its intended path for the policy rate and the protecting of its credibility given the risk that the published path is wrong.
+In contrast to other central banks, the. This practice stems from the RBA's month-to-month approach to monetary policy. At each board meeting, the RBA is not setting out a path for policy but, rather, . Unlike some other central banks, the RBA explicitly admits that it does not know what it will do with its policy rate in six, 12 or 24 months.
+Undue weight
+
+The RBA has deemed that, by publishing a particular path for the cash rate, it could be giving undue weight to that particular path. The RBA thus seems more willing than other central banks to state that there is considerable uncertainty in forecasting.
+The RBA indicates the unpredictability of the situation in each of its quarterly official statements. Here, it publishes forecasts with confidence intervals based on the central bank's own historical forecasts. These error bands are enormous.
+In May 2017, for example, the RBA's forecasts showed the central bank was 90 per cent confident that GDP growth would be between 1 per cent and 5 per cent over 2017: boom or recession. Importantly, this was not the RBA guessing at the accuracy of its forecasts, but reporting how accurate it has been in the past and applying this to the current outlook.
+Given this quantum of uncertainty around the growth forecasts, one can only imagine the enormous uncertainty that would exist around a published path for the policy rate.
+
+For the Australian economy, where the shocks largely come from abroad and can often be driven by volatile commodity prices, the risk is that publishing a policy path would more likely be "forward misguidance".
+This is important background for understanding the reaction, during the past couple of weeks, to the RBA's monthly board minutes published on July 18. Specifically, the board minutes revealed that the board had discussed the neutral cash rate for Australia, which the RBA staff estimate at around 3.5 per cent - 200bp higher than the current cash rate setting. The mere mention of this saw a large market reaction. Market pricing for the next cash rate rise shifted from late to early 2018 and the AUD rallied.
+No signal intended
+
+The market response makes some sense. Central bank watchers, traders and even trading algorithms around the world are programmed to expect central banks to give forward guidance. After all, most central banks are now doing it. Plus, the Bank of Canada lifted its cash rate in July and some central bank watchers were drawing parallels with Australia.
+
+But the RBA was not giving forward guidance. In a speech a few days after the release of the board minutes, deputy governor and that the . A few days later, governor Phil Lowe reiterated these points in another speech. This saw the market pricing revert to a degree.
+continued with a "neutral" tone, with no hints that the RBA could lift rates any time soon. That doesn't mean it couldn't happen; it's just that the RBA is not going to say so in advance.
+Indeed, our central case is that the RBA will lift its cash rate in early 2018. By then, we expect that local growth will be running at an above-trend pace, that underlying inflation will be back in the 2-3 per cent target band, and that Sydney and Melbourne's housing markets will still be uncomfortably exuberant. Come early 2018, this should give the RBA little reason to keep its highly accommodative cash rate setting.
+Paul Bloxham is HSBC's chief economist for Australia, New Zealand and Global Commodities, and a former RBA staffer
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Phil Lowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swedish Riksbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Global Commodities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Bloxham</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>17</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of New</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AUD</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Senate</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

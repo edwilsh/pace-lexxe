@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436580703772420</docid>
+  <date>06/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/sport/horseracing/tab-figures-fall-again-in-victoria-20170806-gxq9kx.html</url>
+  <title>TAB figures fall again in Victoria</title>
+  <content>
+Financial returns to the three codes of Victorian racing from its joint venture with TAB have dipped for the second successive year.
+The release of wagering giant Tabcorp's annual results to the stock exchange highlighted 2016-17 returns to Victorian thoroughbred, harness and greyhound racing were figures $325 million, down more than $6 million.
+Proceeds from the joint venture are the Victorian racing industry's primary source of revenue. Returns have declined almost $25 million in the last two years.
+In contrast, TAB payments to the NSW industry grew 7.3 per cent to $312 million in 2016-17, helped by new tax arrangements the NSW racing industry has been able to lock in.
+Tabcorp said its total return of $813 million to Australian racing included $76 million from Sky broadcast fees and the sale of Australian racing overseas amounted to $100 million in race field fees.
+Race field fees were secured in Australia after Racing NSW won a bitter high court victory over Sportsbet and Betfair in 2012.
+
+Total wagering with Tabcorp in 2016-17 was $1.69 billion, in line with the previous year. But, its business was hurt by wet weather during the autumn and the under-performance of the cartoon racing game Trackside where revenue dipped 15 per cent.
+The Victorian racing industry receives a share on betting on Trackside with the TAB, as well as sports betting on all racing - not just Victorian.
+The second successive decline in returns to Victorian racing is bound to concern industry chiefs.
+Participants have been questioning a recent deal struck by Victorian racing broadcaster Racing.com with South Australian racing. Not only did the deal cost Racing.com $6 million, the channel is now promoting betting on South Australian racing with corporate bookmakers such as Bet365 from which Victorian racing does not earn a cent.
+And, in William Hill's Tom Waterhouse-led Australian operations declined 85 per cent to just $1.1 million in the first six months of the year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Racing NSW</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sportsbet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Betfair</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>8</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Bet365</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>William Hill's Tom Waterhouse-led Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

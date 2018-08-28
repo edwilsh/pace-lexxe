@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400984014237892</docid>
+  <date>31/07/2017</date>
+  <time>10:21</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/vimy-raises-6m/news-story/6608e6758aec637eaa12629047767182</url>
+  <title>Vimy raises $6m</title>
+  <content>
+Newsbites Finance
+
+Share
+
+Vimy Resources has raised $6 million through an institutional placement, issuing 43 million shares at $0.14 per share.
+Proceeds from this capital raising will be used to complete the definitive feasibility study currently underway at the Mulga Rock project.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vimy Resources</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mulga Rock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vimy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

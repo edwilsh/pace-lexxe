@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417562588310409</docid>
+  <date>03/08/2017</date>
+  <time>02:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/cloud-based-malware-is-the-new-battlefront/</url>
+  <title>Cloud-Based Malware Is The New Battlefront</title>
+  <content>
+Security researcher Abhinav Singh works with security firm Netskope and is the author of the Metasploit Penetration Testing Cookbook and Instant Wireshark. I spoke with him at the recent RSA Conference Held in Singapore about how the cloud is the new vector being exploited by threat actors.
+
+"Cloud is the new threat vector where malware authors are now targeted," said SIngh.
+
+With cloud adoption still rising, criminal gangs and other bad guys see this as their next big opportunity. This follows the patterns of the past. Initially, desktop computers were targeted and then email became a gig target. It follows that as cloud adoption rises, it will become a key security battleground.
+
+"Cloud is becoming the market medium that holds lots of valuable information. Malware authors are using creating new campaigns to leverage the cloud environment in order to hide in plain sight".
+
+Malware authors, he says, are using cloud services to establish command and control services, backend applications and communications so they can communicated with an infected host without being noticed.
+
+With all the traffic transmitted by cloud providers being encrypted, this gives threat actors a major advantage.
+
+One of the malware campaigns Singh identified last year was called .
+
+"CloudSquirrel was very actively using Dropbox. Their authors were hosting files on Dropbox and using that infected file to infect users. If an organisation has sanctioned Dropbox as an approved application they won't block anything that comes from that service," said Singh.
+
+This is at the heart of Singh's message about the use of cloud services. Malware distributors are exploited existing trust relationships in order to circumvent countermeasures businesses have in place to block malware.
+
+"They are using different cloud mediums, being is SaaS, PaaS or IaaS to create a distribution and infection channel".
+
+Other examples Singh mentioned were the APT group dubbed  and the Carbonite banking trojan.
+
+Carbonite is estimated to have been used to steal around a billion dollars said Singh. Rather than simply uploading a file, like CloudSquirrel, it was using Google Docs and Google Sheets. It used these SaaS to create a command and control channel.
+
+Defending against trusted services is a challenge.
+
+"Once I understand there are threats in the cloud, it's important to have very granular visibility into what is happening," he said.
+
+For example, IT administrators need to be able to tell the difference between personal and business instances of cloud services. Rather than trusting an entire SaaS like Dropbox or OneDrive, they need to differentiate traffic going to a business account from a personal one.
+
+Conceptually, this is similar to DLP systems that prevent the exfiltration of corporate data. However, this is about identifying inbound information and ensuring it goes to an authorised location. As all the traffic flowing to and from cloud services is encrypted, traditional tools such as firewalls are no longer as useful for blocking malicious traffic.
+
+One of the points where traffic can be managed is at the API. WIth interaction between services managed through APIs, they can be the new gatekeepers.
+
+"It's very important to have a very granular understanding of API calls".
+
+Building a defensive strategy around cloud services starts with understanding exactly what services are being used. This goes beyond simply listing services but looking at how those cloud applications work. For example, Singh noted that while Slack may be a sanctioned application, it's important to know it relies on AWS has its infrastructure so files sent over that platform are being handled using AWS.
+
+This is where traditional views of security breakdown said Singh. Cloud applications are API driven. That means you need to understand API calls rather than traditional traffic movements between servers across networks.
+
+"One you have that basic understanding of the API, it becomes easier to understand I am sharing a file which will only go to you and not another party. The API call will contain all the information - who this file is going to be shared with, what is access and when was it modified".
+
+Those API calls become a kind of digital fingerprint that makes it possible to identify when an activity using a cloud service is operating within acceptable policies and when a potentially malicious action is being attempted.
+
+Defending against these types of attacks is still relatively new and still evolving. And with threat actors potentially moving to more ephemeral services, such as containers that only exist fleetingly. While Singh says he isn't seeing that being heavily exploited yet it could be a new cloud-based attack vector.
+
+Anthony Caruana attended the RSA Conference in Singapore as a guest of RSA
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dropbox</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PaaS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Caruana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saas</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Metasploit Penetration Testing Cookbook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netskope</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Singh</name>
+    <count>9</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Google Docs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OneDrive</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Instant Wireshark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Sheets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APIs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CloudSquirrel</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>RSA Conference Held</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abhinav Singh</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Battlefront</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IaaS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DLP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AWS</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>RSA Conference</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Based Malware Is</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

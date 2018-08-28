@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445282307622000</docid>
+  <date>07/08/2017</date>
+  <time>14:15</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/microsofts-surface-pro-spawns-handy-imitators/news-story/c99aeaa07c790bde8dd5b79a39a23b18</url>
+  <title>Is Microsoft still best in class?</title>
+  <content>
+"Imitation is the sincerest form of flattery" is an Oscar Wilde quote that applies to Microsoft Surface Pro. Four years after the original Surface Pro was released in 2013, manufacturers want to emulate it, which shows that Microsoft has been on to a good thing.
+Microsoft Surface Pro: When we tested the latest Surface Pro, we found it had superb battery life with more than 14 hours' video playback, and its bright 12.3-inch PixelSense screen offered great resolution. The downside was Microsoft's decision to stick with older-style connectivity: USB3.0 rather than newer and faster USB Type-C, and a mini DisplayPort connector rather than Thunderbolt support. Obviously Microsoft judged the market wasn't ready for the upgrade, but its competitors judged differently.
+
+When selecting the brand, you need to check whether available models and configurations meet your computing needs and -budget. In Australia, there are six different models. There are Intel 7th-generation Core m3, i5 and i7 options, memory from 4GB to 16GB of RAM, solid-state drives from 128GB to 1 terabyte, and various Intel on-board graphics options. They cost $1199 to $3999. You pay additionally for the typecover and pen.
+Samsung Galaxy Book: There are two versions of Galaxy Book. One has a 10.6-inch TFT display, roughly matching iPad Pro at 10.5 inches, and the other has a 12-inch AMOLED 2160x1440 screen, with a 3:2 -aspect ratio.
+Galaxy Book has its own style of typecover that delivers a very comfortable typing experience with decent key travel. Instead of the kickstand extending from the tablet, it's part of the typecover and juts upwards from the back.
+The tablet unit isn't as fine looking as Surface Pro. Its plastic shell and wide-screen bezel gives it an older look and battery life isn't as stellar as with Surface Pro. There's no support for Windows Hello either.
+
+You do get modern connectivity with 2 USB type-C ports down the left-hand side with the -12-inch model, but more restricted specs. There's only Core m3 and i5, up to 8GB of RAM (no 16GB) and a maximum 256GB solid-state drive, although you can add a microSD card for more storage. Surface Pro offers up to 1TB of SSD.
+There's both Wi-Fi and LTE Cat 6 versions. They are slightly cheaper than similarly specced Surface Pro models once you add the cost of the typecover and pen. These are both included in the Galaxy Book price. 4G LTE models cost $300-$400 more than Wi-Fi only versions. Prices range from $1099 to $2299.
+HP Spectre X2: With its classy dark ash colour, metal frame and copper kickstand, Spectre X2 is the fashion item alternative. There's no lower-spec models here, just 7th-generation Intel Core i5 and i7 variants.
+You get a bright 12.3-inch IPS screen with 3000x2000 pixels - again with that Surface 3:2 aspect ratio.
+Like Samsung, HP opted for two USB-C ports rather than USB3.0, but it does offer a USB-A connector for linking your older devices. However, it's a pity the USB-C ports don't support Thunderbolt 3 with its promise of up to 40 gigabits per second data -transfer.
+
+The X2 keyboard offers a slightly better typing experience than the Pro, and the cameras provide higher resolution with 13MP and 5MP lenses.
+But again there's no 16GB RAM option (only up to 8GB), and a maximum 512GB of PCIe SSD storage (no 1TB SSD -option).
+As with Galaxy Book, the typecover and pen is included in the cost.
+We found the Achilles heel to be battery life. Unlike -Surface Pro, which offered well over 14 hours, the X2 lasted just six hours 16 minutes playing the same video with the standard Windows films and TV player.
+That is a negative if you are planning on using the X2 while out and about. HP prices them at $2299 and $3299 in its Australian store.
+</content>
+  <sindexList>
+  <sindex>
+    <name>GB</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MP</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DisplayPort</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TB SSD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Achilles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB of PCIe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AMOLED 2160</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thunderbolt</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Surface 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft Surface Pro</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB-C</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>USB-A</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TFT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PixelSense</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel Core</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pro</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel's 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Galaxy Book</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Galaxy Book</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TB of SSD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SSD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oscar Wilde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad Pro</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Windows Hello</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>HP Spectre X2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Spectre X2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LTE Cat 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>microSD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB Type-C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>X2</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>G LTE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB RAM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thunderbolt™ 3</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Surface Pro</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>GB of RAM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB3.0</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429021561264021</docid>
+  <date>04/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/lifestyle/bestoffarnorthqld/instafamous-honey-belle-loves-her-cafe-break/news-story/388fb26655e99690b0514b49012bbb7d</url>
+  <title>Instafamous Honey Belle loves her cafe break</title>
+  <content>
+NOT every dog can boast 419 followers on Instagram.
+But Honey Belle the miniature dachshund is not any dog.
+Despite being born only 13 weeks ago, Honey Belle has racked up over 400 followers on the popular social media platform, with the help of her human mother Mallory Lloyd.
+The cute pooch was born in Ingham in a litter of seven, and only moved to Cairns with Ms Lloyd three weeks ago.
+"We have been recording her life in Cairns (on Instagram)" Ms Lloyd said. "She's very spoiled, but she's very, very loved. We're part of a dachshund group here in Cairns, so we go to a lot of birthday parties with dachshunds."
+Ms Lloyd enjoys taking her to markets and shops, and dog- friendly cafes on the weekends.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ingham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mallory Lloyd</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Lloyd</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Instafamous Honey Belle</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Honey Belle</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

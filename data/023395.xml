@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443491306227064</docid>
+  <date>07/08/2017</date>
+  <time>07:18</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/mans-body-found-on-rocky-beach-at-abels-bay/news-story/509ebbd7b779b852bc5226ce8f0a377f</url>
+  <title>Man's body found on rocky beach</title>
+  <content>
+THE body of a man has been found on a rocky shore at Abels Bay in Southern Tasmania.
+Police are investigating after the man, believed to be aged in his forties, was found by a local resident.
+The man's identity and the circumstances of his death are yet to be determined.
+Anyone who can assist police is asked to call 131 444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Abels Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

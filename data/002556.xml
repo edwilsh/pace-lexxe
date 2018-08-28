@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400941064564069</docid>
+  <date>31/07/2017</date>
+  <time>10:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/europe/euro-zone-growth-picks-up-momentum--but-inflation-slows-20170731-gxmheq</url>
+  <title>Euro zone growth picks up momentum,  but inflation slows</title>
+  <content>
+by
+Philip Blenkinsop
+
+Data in the coming week should confirm the  is running hot, after the IMF upgraded growth forecasts and Greece returned to the debt market, although inflation figures could throw cold water on ECB plans to start tightening policy.
+Growth in the single currency area outstripped paltry expansion in the United States and Britain in the first quarter and the pace did not let up in the April-June period.
+The euro zone may not be growth champion in the second quarter, after the US rebounded to an annualised 2.6 per cent thanks to consumer spending and business equipment investment. But it should again fare better than Britain, whose economy failed to build momentum.
+A forecast expansion of 0.6 per cent in the April-June period, equivalent to an annualised 2.4 per cent, would be the third consecutive quarter in which the euro zone has grown at or above a half percentage point, for the first time since 2007-08.
+
+"The global economy has been a jumbo jet running on just one engine - the US- for the last five, six years, but now it seems there's more from the euro zone as well, with encouraging signs from Asia too," said James Knightley, chief international economist at ING.
+
+Data on Friday showed the euro zone's second-largest economy, France, grew by 0.5 per cent for a third successive quarter, while Spanish GDP returned to pre-crisis levels with 0.9 per cent expansion.
+"Momentum is there. We're getting a broadening out of countries in terms of economic performance. It's not just the likes of Germany driving it all forward.
+"There does seem to be self-sustaining momentum," said Knightley.
+Euro zone economic sentiment, as compiled by the European Commission, grew for a third straight month in July to a new 10-year high due to a pick-up of the dominant services sector. And confidence levels in all sectors, as well as for consumers, are far above historical averages.
+
+The  and the euro zone, while trimming those for the US and Britain. The Fund said the euro zone's recovery was firming and becoming broad-based, with stronger domestic demand, although it warned of downside risks.
+Political risks seen at the start of the year ahead of elections in France and the Netherlands have diminished, while Greece has returned to the bond market after a three-year exile.
+Five years ago, European Central Bank President Mario Draghi pledged to do "whatever it takes" to save the euro. His ultra-easy monetary policy is partly behind the robust economic recovery, showing more effect this year as growth in bank loans to the private sector hit a 10-year high in May.
+Now the question is when to taper. Strong economic growth should steer the ECB towards reining in asset purchases, but policymakers are still waiting on inflation.
+
+"The economy is recovering and the labour market is doing quite well, but we think core inflation will be at 1 per cent and below for the rest of 2017," said Marco Wagner, economist at Commerzbank. "Except Germany, if you look at France, Italy, Spain or Portugal there are still over-capacities, still relatively high unemployment."
+Among the clearest signs of a rebound has been the euro's pick-up to around $US1.17, from $US1.05 at the start of the year. UniCredit recently raised its forecast for the euro-dollar rate to $US1.20 for the end of the year and an "equilibrium" rate of $US1.25 for the end of 2018, from $US1.14 and $US1.18 respectively before.
+"The political risk factor has been taken out," said Vasileios Gkionakis, co-head of strategy research at UniCredit. "It would bring the rate in line with our estimate of fair value and in all likelihood the market will overshoot."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Italy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Knightley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spanish GDP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>IMF</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commerzbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Portugal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>European Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Greece</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank President Mario Draghi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Knightley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Philip Blenkinsop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marco Wagner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UniCredit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.25</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US1.05</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ECB</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vasileios Gkionakis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April-June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

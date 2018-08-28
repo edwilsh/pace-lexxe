@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442507758701717</docid>
+  <date>07/08/2017</date>
+  <time>03:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4838442/missing-maitland-teenager/?cs=305</url>
+  <title>Missing Maitland teenager</title>
+  <content>
+Andrew Webster.
+
+Police are seeking public help to find a 15-year-old Heddon Greta youth after his disappeared in July. 
+Andrew Webster disappeared from a Main Street home on July 19, leaving authorities with serious concerns for his welfare due to his age. 
+The youth is described as being of caucasian appearance, about 180cm tall, of a slim build, with curly brown hair and a black spacer earring in his left ear.
+Anyone who knows of his whereabouts or has any information is urged to contact Maitland Police Station via Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Main Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heddon Greta</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Maitland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Webster</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maitland Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

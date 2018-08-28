@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442851356089633</docid>
+  <date>07/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/nbn-co-to-start-satellite-multicast-trials-470260</url>
+  <title>NBN Co to start satellite multicast trials</title>
+  <content>
+NBN Co will soon begin a six-month trial of multicast services on Sky Muster to aid education departments and schools in delivering distance education.
+
+The technical trials are set to begin on August 21 and conclude around the end of this year, the network builder said in  published over the weekend.
+
+Those selected to test the satellite service have to be aligned with a state or territory education department that participates in the government's distance education and broadband working group.
+
+They must also have "in place an existing multicast application delivering lessons to students over satellite".
+
+Multicasting allows a service provider to inject data or content once at the network-network interface (NNI), where it is then replicated to any number of premises.
+
+It has been available on the company's FTTP network since 2012, when it was introduced for use by internet TV providers.
+
+Distance education students can already take advantage of an "educational port" on their in-home Sky Muster setup. This provides quota for education purposes only, outside of what the home gets for its regular retail NBN service.
+
+When the strategy was announced , Communications Minister Mitch Fifield flagged the eventual launch of multicast services over satellite to further enhance digital education provision.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NNI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister Mitch Fifield</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sky Muster</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FTTP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

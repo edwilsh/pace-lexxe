@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442894305763052</docid>
+  <date>07/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/14/49/marriage-vote-delay-failure-of-leader</url>
+  <title>Marriage vote delay 'failure of leader'</title>
+  <content>
+Opposition Leader Bill Shorten has blamed a failure of leadership by Malcolm Turnbull for the dragged-out same-sex marriage debate.
+Mr Shorten told the first Labor caucus meeting since the winter break on Monday coalition members were doing all they could to delay a decision on marriage equality.
+"There is only one reason why this failure to deal with marriage equality has dragged on as long as it has - it is because of the complete failure of leadership and weakness of the prime minister of Australia to deal with this issue," Mr Shorten told the meeting in Canberra.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leader Bill Shorten</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Shorten</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

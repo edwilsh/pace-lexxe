@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413697117668256</docid>
+  <date>02/08/2017</date>
+  <time>11:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/motorbike-rider-fights-for-life-in-qld/news-story/0cd5982f587c6aa309b98698655b6d5e</url>
+  <title>Motorbike rider fights for life in Qld</title>
+  <content>
+A motorbike rider is fighting for life after losing control and smashing into another vehicle south of the Queensland Gold Coast.
+The rider was travelling south on the Pacific Motorway near Burleigh Heads when he lost control of the bike and collided with the rear end of another vehicle.
+The rider sustained serious, life-threatening injuries as a result of the incident and was taken to the Gold Coast University Hospital in a critical condition.
+The driver of the vehicle is assisting police with their inquiries.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Burleigh Heads</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland's Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Motorway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast University Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

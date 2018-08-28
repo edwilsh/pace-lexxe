@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398956789642821</docid>
+  <date>31/07/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/sandfire-increases-interest-black-butte-copper-project/</url>
+  <title>Sandfire increases interest in Black Butte copper project - Australian Mining</title>
+  <content>
+Latest News
+
+Sandfire Resources has acquired an additional 16.9 per cent stake in the Black Butte copper project in Montana, USA -  increasing its shareholding to 78.1 per cent.
+Sandfire acquired the 16.9 per cent stake in North American-listed Tintina Resources, which was held by fellow shareholder Electrum Global Holdings.
+The Black Butte copper project is a key part of Sandfire's longer term strategic growth plan, with this acquisition continuing its support of Tintina since its original 36 per cent acquisition in 2014.
+This latest acquisition also takes Sandfire's total investment in Tintina to $31 million.
+Sandfire managing director Karl Minich said the deal reflected the company's long-term commitment to support the development of the Black Butte copper project as a world-class underground copper mine.
+"Given the positive outlook for copper as the market continues to tighten, we see this as a great opportunity to consolidate our growth pipeline with an asset which has the potential to deliver high grade, low cost production for many years into the future," he said.
+"We look forward to working closely with CEO John Shanahan and his team at Tintina as the project continues to move forward towards development, coming on stream during what is shaping up as a very exciting time in the global copper market."
+A preliminary economic assessment (PEA) of the Black Butte project completed in 2013 forecast a life of mine production of around 30,000tpa of copper-in-concentrate over a mine life of around 11 years.
+The project is continuing through the permitting process and once it has received complete and compliant status, it will proceed with the environmental impact study (EIS).
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tintina</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Montana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO John Shanahan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>USA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandfire</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Karl Minich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North American-listed Tintina Resources</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Black Butte</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PEA) of the Black</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>EIS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electrum Global Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Butte</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sandfire Resources</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

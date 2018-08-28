@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398875185262624</docid>
+  <date>31/07/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/trade-minister-slams-qldfirst-policy/news-story/471f73eaec121c2b227380313abda3e0</url>
+  <title>Trade Minister slams 'Qld-first' policy</title>
+  <content>
+Ed JacksonAustralian Associated Press
+
+Share
+
+The state government's "Queensland-first" procurement policy will only leave Queensland's exporters last, according to federal Trade Minister Steve Ciobo.
+Queensland Premier Annastacia Palaszczuk announced over the weekend her government will encourage departments to award contracts to local businesses.
+Under the policy, preference will be given to businesses located within 125km of where work is needed.
+Ms Palaszczuk said where possible, one regional and one Queensland supplier would also be invited to quote or tender for every contract.
+Mr Ciobo says while the plan sounds good to voters, in reality it has the potential to restrict Queensland's trade relations with overseas markets.
+"The simple fact is, you can't have your cake and eat it too," he said.
+"The simple fact is you can't open up export markets internationally and close off Queensland, you either have them both open or both closed."
+The premier defended her policy on the Gold Coast on Monday, saying her government's first priority is creating work for Queenslanders.
+"We want to see as many Queensland businesses enter into those overseas markets (as possible) but what I want to see here in Queensland is Queensland jobs first," she said.
+
+"This is about ensuring local people living in local, regional economies can get that sort of work."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ciobo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trade Minister Steve Ciobo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld-first</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queenslanders</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland-first</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ed JacksonAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

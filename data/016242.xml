@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425413788671646</docid>
+  <date>04/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/cyclist-seriously-injured-in-inglewood/news-story/2908d6f5c9bb5a03aac8d8f0158959ec</url>
+  <title>Cyclist hit by truck in Inglewood</title>
+  <content>
+A CYCLIST has been rushed to hospital after being hit by a truck in Inglewood.
+The male cyclist was knocked from his bike at the Walter Road West and Dundas Road intersection shortly after 4pm.
+Emergency crews have closed the road outside the Mount Lawley Golf Club.
+The cyclist was trapped underneath the truck for a short period of time, before being freed by fire crews and treated by paramedics at the scene.
+The man was then rushed to Royal Perth Hospital, with the extent of his injuries currently unclear.
+Earlier on Friday, a man aged in his 70s was rushed to hospital after a crash in Port Kennedy around 11.30am.
+Police say the elderly man's vehicle collided with a car that was stopped on the side of Mandurah Road, near the Stakehill Road intersection.
+The elderly man was rushed to Royal Perth Hospital in a critical condition.
+A second man, who was sitting in the stationary car, was taken to Rockingham Hospital with minor injuries.
+And two men have had lucky escapes in two separate crashes in Perth's south.
+A man, aged in his 20s, was able to walk from his car after it rolled on the Kwinana Freeway near the Karnup Road exit on Friday afternoon.
+And a man, who is aged in his 30s, sustained only minor injuries when his car hit a tree on Eighth Road in Armadale shortly after 2pm.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Eighth Road</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mount Lawley Golf Club</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karnup Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Kennedy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Walter Road West</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Perth Hospital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stakehill Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dundas Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rockingham Hospital</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Armadale</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Kwinana Freeway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Inglewood</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

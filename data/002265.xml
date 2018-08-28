@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400898114890140</docid>
+  <date>31/07/2017</date>
+  <time>10:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/two-beached-whales-still-stuck-after-failed-rescue/3207184/</url>
+  <title>Two beached whales stuck after failed rescue attempts</title>
+  <content>
+TWO humpback whales will remain stranded on a sandbank off Fraser Island into the night after attempts to rescue them failed.
+
+Queensland Parks and Wildlife Service rangers spotted the 10 and 12 metre long humpbacks about 9.30am Monday in the Great Sandy Strait, south-west of the island.
+
+A QPWS spokeswoman said the rangers then worked on keeping the pair comfortable in hopes they would soon swim free.
+
+"Rangers have been comforting the whales, keeping them wet and shaded while waiting for high tide at approximately 3.30pm in hopes the whales will re-float," the spokeswoman said.
+
+But the high tide failed to set the whales free, and the two mates continued to struggle together.
+
+Due to darkness and weather conditions, rangers returned to shore but plans were in place to return to the site today.
+
+The rangers were originally on their way to conduct a planned burn on Fraser when they spotted the distressed whales.
+
+The whales are stranded at a similar spot to where a pod of stranded killer whales were successfully rescued in July 2013.
+
+It also comes after a whale, entangled in rope, was left overnight off Hervey Bay earlier this month, after nobody in the region was qualified to rescue it.
+
+It had suffered deep cuts to its dorsal fin.
+
+After being left overnight, rangers were not able to find it again.
+
+The carcass of another whale has been attracting large sharks in Platypus Bay for the past three weeks.
+
+Stranded whales should be reported immediately to the RSPCA on .
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QPWS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wildlife Service</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Parks</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fraser</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Great Sandy Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSPCA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hervey Bay</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 2013</name>
+    <count>1</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Platypus Bay</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fraser Island</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429622856692140</docid>
+  <date>05/08/2017</date>
+  <time>01:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/11/25/suspicious-fires-at-gold-coast-schools</url>
+  <title>Suspicious fires at Gold Coast schools</title>
+  <content>
+Fires which caused minor damage to two Gold Coast schools are being investigated as arson.
+On Wednesday evening a small fire was lit in a classroom of a Mermaid Waters school and on Friday night attempts were made to torch another classroom at a Clear Island Waters school.
+"Initial investigations indicate that in both fires, flammable material was pushed under the classroom doors and set alight," police said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clear Island Waters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mermaid Waters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

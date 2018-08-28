@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432367340817500</docid>
+  <date>05/08/2017</date>
+  <time>12:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4835877/search-after-queensland-military-helicopter-crash/?cs=4219</url>
+  <title>Search after Queensland military helicopter crash</title>
+  <content>
+A search is under way after a US military helicopter crashed off the coast of Queensland.
+
+The aircraft, an MV-22 Osprey, is believed to have crashed on Saturday afternoon, with several of those on board unaccounted for.
+Other military aircraft and ships have been sent to the area, where they are combing the water for any sign of the missing service members.
+In a statement, the US Marine Corps Public Affairs Office said there had been a "mishap".
+"The United States Marine Corps confirms there is an active search and rescue mission ongoing for service members involved in an MV-22 mishap off the east coast of Australia," the statement said.
+"Ships, small boats and aircraft from the 31st Marine Expeditionary Unit and Bonhomme Richard Expeditionary Strike Group are conducting the search and rescue operations.
+"We will provide more details as they become available."
+US forces were in Australia for Talisman Saber, a joint military training exercise involving a combined 33,000 troops, which is held each two years.
+More to come
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bonhomme Richard Expeditionary Strike Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corps Public Affairs Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Talisman Saber</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marine Expeditionary Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States Marine Corps</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

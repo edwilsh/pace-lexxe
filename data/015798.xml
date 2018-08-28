@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424559090164748</docid>
+  <date>04/08/2017</date>
+  <time>05:50</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/superannuation/2017/08/04/australiansuper-tackles-unpaid-super-new-app/</url>
+  <title>new AustSuper app</title>
+  <content>
+AustralianSuper is moving to combat unpaid super with a new app that will prod members when employers pay their super contribution.
+An updated AustralianSuper app - which has just been released and downloaded by around 100,000 people, - enables members to receive alerts so they know when their latest superannuation payment has arrived in their account.
+The fund hopes that will empower members to ensure they are getting due payments and help remedy the $5.6 billion problem of unpaid super entitlements identified earlier this year by Industry Super Australia.
+"It is really important that people receive what they are entitled to, and with the technology we have it is easier to check your super than ever before," said Shawn Blackmore, AustralianSuper's member advice executive said.
+" Obviously if you don't receive an alert it's a cue to contact payroll to see where your money is."
+"People can take things into their own hands by using the app to track their super, rather than relying on the ATO to discover any issues." Mr Blackmore said.
+The new app also allows members to: view their super balance and transaction history: download and view their statements for the previous  financial year: view their investment options and returns:  view and change their insurance cover: edit and change their investment options.
+AustralianSuper is Australia's largest super fund with $120 billion in assets under management and 2.2 million members. It returned investors in its balanced fund 12.44 per cent for the year to June 30 2017. That is well above the average for super funds.
+*The New Daily is owned by a group of industry super funds
+</content>
+  <sindexList>
+  <sindex>
+    <name>AustSuper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30, 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Mr Blackmore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AustralianSuper</name>
+    <count>4</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>Industry Super Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Shawn Blackmore</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

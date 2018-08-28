@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398192285453649</docid>
+  <date>30/07/2017</date>
+  <time>23:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-07-31/saint-nick-to-call-it-quits</url>
+  <title>Media conference called: Is Saint Nick set to quit?</title>
+  <content>
+Nick Riewoldt is expected to announce his retirement on Monday
+
+ST KILDA has called a media conference for 2PM AEST on Monday, with speculation mounting that champion Nick Riewoldt will announce his retirement.
+
+Riewoldt and fellow veteran Leigh Montagna are out of contract at the end of the season, and Montagna is also believed to be assessing his future.
+
+Former captain Riewoldt was rested for last Saturday's agonising two-point loss to Port Adelaide as he deals with ongoing knee issues.
+
+The media conference will be shown live on the AFL website and the AFL app.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saint Nick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Adelaide</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>St Kilda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Riewoldt</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nick Riewoldt</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Leigh Montagna</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PM AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Montagna</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

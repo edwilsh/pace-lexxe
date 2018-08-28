@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442168456280653</docid>
+  <date>07/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/personal-finance/sydney-house-and-unit-markets--starting-to-decline-as-tougher-lending-bites-20170806-gxqkj1</url>
+  <title>Sydney house and unit markets 'starting to decline' as tougher lending begins to bite</title>
+  <content>
+by
+Duncan Hughes
+
+Sydney's frenzied, five-year property boom for houses and units is over as lenders' demands for bigger deposits and higher borrowing costs begin to bite, according to national valuers Herron Todd White.
+It's midnight for Melbourne's unit market, which means the next move is down, and houses are approaching market peak, despite continued demand from investors making the most of negative gearing, depreciation and superannuation concessions, according to the valuers.
+
+Major markets have defied earlier predictions of a slow down because of strong job growth, record low cash rates, increasing supply and continued strong local, interstate and overseas' demand from investors.
+
+"Sydney has property at a price point to suit many. But entry level pricing might not always suit the first home buyer's lifestyle aspirations, " said Kim Quick, NSW residential director.
+
+More than half of mortgage demand for Sydney property during April was from investors, according to CoreLogic.
+"It stands to reason that this important segment has had much influence on the overall position of the market," said Mrs Quick.
+Federal and state governments have also recently introduced measures to help first time buyers and inhibit investors. It's too early to gauge their impact.
+
+Investor hot spots include inner urban Kings Cross, despite its seedy image, which covers Potts Point, Elizabeth Bay and Rushcutters Bay. It is about 2kms from the CBD and well-serviced by public transport.
+Melbourne's median house prices have jumped to a record high of $795,000, compared to a mainland average of $645,000, according to CoreLogic.
+"Given the predominantly owner-occupied nature of the middle and outer suburbs, a slow down in investor activity is not likely to have as significant an impact as some of the more investor-dominated markets, which includes the CBD," said Perron King, a Melbourne-based director.
+Herron Todd White warns about the "current trend" for off-the-plan settlement values being less than the original contract price.
+
+Average median prices around Melbourne's Docklands are about 1 per cent compared to median rises in the CBD and nearby South Yarra of between 4.2 per cent and 5.5 per cent.
+Perth housing, which is recovering from the end of the mining boom, has yet to reach the bottom of the market, according to Herron Todd White.
+Darwin's housing market is at the bottom of the cycle, Brisbane and Cairns are starting to recover and Adelaide, Canberra and Hobart are rising.
+Melbourne and Coffs Harbour's unit markets are at their peak. Sydney is starting to decline, Brisbane, Perth and Canberra are declining, Darwin is approaching the bottom of the market and Adelaide and Cairns are at the bottom. Hobart is rising.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Herron Todd White</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Potts Point</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Duncan Hughes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kings Cross</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kim Quick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Docklands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mrs Quick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Bay</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>South Yarra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perron King</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rushcutters Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

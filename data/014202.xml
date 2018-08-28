@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422497505829761</docid>
+  <date>03/08/2017</date>
+  <time>21:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/the-bottom-line-stock-market-records-apple-tesla-tech-earnings-jim-glassman-economy-2017-8</url>
+  <title>THE BOTTOM LINE: New record highs for stocks and a deep dive into Apple's iPhone</title>
+  <content>
+Enter Details
+
+Comment on stories, receive email newsletters & alerts.
+
+Username
+
+@
+
+This is your permanent identity for Business Insider Australia
+
+Email address
+Your email must be valid for account activation
+
+Password
+Minimum of 8 standard keyboard characters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bottom Line</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

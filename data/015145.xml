@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424181133036996</docid>
+  <date>04/08/2017</date>
+  <time>04:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/novel-perth-meth-rehab-centre-in-court-win/news-story/a062c07e9bc81b9fbf78f2cdb182cbc8</url>
+  <title>Novel Perth meth rehab centre in court win</title>
+  <content>
+An innovative rehabilitation centre for male methamphetamine users in Perth's Swan Valley can stay open for now after a Supreme Court ruling gave it a second to chance to secure local council approval.
+Shalom House needed the approval to operate, which the City of Swan refused and also appealed against a State Administrative Tribunal decision to refer the matter back to the council for reconsideration.
+The Supreme Court has sent the case back to the SAT for determination, which Shalom House has welcomed as a good result and one step toward an outcome.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth's Swan Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shalom House</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>State Administrative Tribunal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Swan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

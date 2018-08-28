@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436623653445642</docid>
+  <date>06/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836372/dirt-bike-rider-seriously-injured/?cs=305</url>
+  <title>Dirt bike rider 'seriously injured'</title>
+  <content>
+Emergency services are at Wallsend after a dirt bike rider was seriously injured. Picture: Dan Irwin
+
+A DIRT bike rider has suffered serious injuries after a crash in bushland at Wallsend on Sunday.
+A spokesman for the Hunter's Westpac Rescue Helicopter Service said they were called to a section of bush off the Newcastle Link Road about 12.40pm.
+A doctor and paramedic were winched down into the crash site and the helicopter has landed on a nearby roundabout. 
+The Westpac spokesman said the latest information was the man had been 'seriously injured' in the crash. 
+Emergency services are still on scene.
+More to come. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dan Irwin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter's Westpac Rescue Helicopter Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wallsend</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Link Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

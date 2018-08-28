@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442984500077896</docid>
+  <date>07/08/2017</date>
+  <time>05:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/baby-whale-beached-on-moreton-island/news-story/f9aa52794117c3b4ac29416fd6e4c7ab</url>
+  <title>Baby whale beached on Moreton Island</title>
+  <content>
+A baby humpback whale has become beached on Moreton Island off the coast of Brisbane.
+Ranger in charge Terry Christensen said the baby whale, which is about four metres long, became beached at Bulwer Wrecks on the north-western side of the island at about midday.
+Rangers and Marine Parks staff are keeping the whale cool and wet until the tide comes in enough to refloat it.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moreton Island</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bulwer Wrecks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terry Christensen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Park</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

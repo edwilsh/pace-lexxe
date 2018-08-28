@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415664212731791</docid>
+  <date>02/08/2017</date>
+  <time>19:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/author-distressed-over-councils-removal-of-citys-colourful-character-trees/news-story/87f9a53842373e299e494ea6e1b8430e</url>
+  <title>Colourful charm axed from Cairns</title>
+  <content>
+FRAN Clayton was once so enamoured by the kaleidoscopic natural palette of her town that she published a book titled The Fabulous Flowering Trees of Cairns City.
+The author and photographer believes Cairns Regional Council's extensive tree replacement program is sapping the city of its natural charm, not to mention forcing extensive rewrites with each new edition of her guidebook.
+Yesterday she visited Shields St where 12 gorgeous barringtonias have been replaced with smooth leaved quandongs between Grafton and Sheridan Sts.
+"They say it's for the pavement problems, but I'm not sure how much it has to do with pavement problems and how much to do with efficiency," Ms Clayton said.
+"They have beautiful blossoms that I call a 'powder puff' and they were huge and laid on the ground every morning.
+"The tourists and the locals all loved them.
+The council has also removed eight trees from Sheridan and Kenny Sts to make way for a cycleway.
+"We are losing the character of Cairns, which used to be flowers and colour," Ms Clayton said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Shields St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheridan Sts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Regional Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kenny Sts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheridan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Clayton</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Grafton</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FRAN Clayton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fabulous Flowering Trees of Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

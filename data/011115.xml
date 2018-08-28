@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417038602292012</docid>
+  <date>03/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/technology/gadgets-on-the-go/headphones-sony-cancels-competition-20170731-gxmopk.html</url>
+  <title>Sony cancels competition</title>
+  <content>
+Sony's MDR-1000X headphones have finally usurped Bose as the king of noise-cancelling. The active-cancellation is just as good as those found in Bose's QC35s, and, importantly, just as well tuned to the specific sounds of modern airlines.
+They even sound great in areas that aren't normally kind to noise-cancelling cans, like busy streets, or on public transport. Active cancellation normally gets confused among uneven sounds like these, creating a nauseating, swirling effect. Somehow, the 1000X smooths it out  without the side-effects.Photo: Supplied
+But if you need to let noise filter in, Sony has two settings available.The first allows you to hear everything around you, just a little muffled. Vocal mode only brings in the sounds of voices - great to quickly tune in to announcements on a plane, or to feel less isolated in an office environment.
+As good as these are in knocking out ambient noise, the sound they deliver is where they really shine. Every genre of music, from classical to hip-hop, sounds incredible, without the bass-heavy muddiness of modern over-ear headphones.
+The plastic shell is light enough to wear all day without feeling weighed down or claustrophobic.
+You get 20 hours' battery life with active noise-cancelling switched on, enough for the most brutal long-haul flights, or two weeks commuting back and forth to the office.
+Not that I would wear them everyday. Noise-cancelling headphones are expensive, and should be seen as an investment. My Bose QC25s are three years old and still in mint condition, because they live only in my luggage, waiting for my next flight. The 1000X come with a hard case to protect them on the ground, and should last years in the air, if treated with care.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sony</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sony's MDR-1000X</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>X</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bose</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bose QC25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bose's QC35</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

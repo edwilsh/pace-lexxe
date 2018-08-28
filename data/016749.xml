@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426719458754972</docid>
+  <date>04/08/2017</date>
+  <time>14:13</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/townsville-bom-staff-at-risk-of-being-redeployed-or-made-redundant/news-story/1d7c10fc63d416a2ab4252acb7d3a6d7</url>
+  <title>Storm brewing at BoM over staffing</title>
+  <content>
+THE BUREAU of Meteorology has refused to confirm whether Townsville weather forecasters will be redeployed or made redundant when the office is fully automated within the next two years.
+The news has angered Mayor Jenny Hill who claims a large part of the city may have been evacuated during Cyclone Debbie, if not for the advice of BoM staff on the ground in Townsville.
+BoM     by changes associated with its 24 regional offices being "de-staffed".
+The Federal Government department confirmed this week it had eight operational staff currently employed in Townsville, including the three forecasters, with one technical officer taking a redundancy in June last year.
+A BoM spokeswoman said there were no changes to the Townsville operation expected over the next 12 months but confirmed some work would shift to Cairns.
+"Non-forecaster staff may elect to relocate to other Bureau offices ahead of full automation of observation functions," she said,
+"The Bureau of Meteorology remains on schedule to automate observations at the Townsville field station in 2018-19.
+"The Cairns Observing Operations Hub will accommodate a diversified group of technical staff who will service and maintain all observations equipment located in North Queensland (including Townsville)."
+The Bulletin sought clarification as to what would happen to Townsville staff who did not wish to relocate when the office becomes fully automated or if any would still be required.
+"Discussions with individual staff are confidential and ongoing," the BoM spokeswoman said.
+"It is too early to speculate about future staff movements."
+Cr Hill slammed the plans to go fully automated and redeploy or make staff redundant as "utterly ridiculous".
+"I cannot believe they would be so stupid as to not have staff here in one of the major cities at risk of cyclones," she said. "The Federal Government needs to step in and stop this decision."
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>North Queensland</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bureau</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mayor Jenny Hill</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cr Hill</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cyclone Debbie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Observing Operations Hub</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

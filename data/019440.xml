@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435597156254057</docid>
+  <date>06/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836057/cookie-crumbles-woolworths-drops-kookas-products/?cs=2452</url>
+  <title>Cookie crumbles: Woolworths drops Kooka's products</title>
+  <content>
+Woolworths have dealt a blow to a regional Victorian manufacturer whose products the supermarket has decided to take off shelves. 
+Donald company Kooka's Country Cookies took to Facebook last night to announce the supermarket giant would pull their biscuits from supermarkets in all states except Victoria and Tasmania. 
+"The Kooka's team is proud of their products and it is with disappointment that we find we cannot supply to Woolworths customers throughout Australia," a spokesperson wrote on the company's Facebook page last night.  
+The retailer's move angered Kooka's followers, who bemoaned the lack of support for Australian-made products. 
+
+The company, which started in 1994 with just five staff members, has grown to employs 28 people in Donald, a town with a population of just 1700. 
+The biscuits can still be purchased from Coles, Officeworks and the independent supermarkets across the country.
+
+Kooka's and Woolworths were both contacted for comment. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Officeworks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cookie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Donald</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian-made</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kooka's Country Cookies</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kooka</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

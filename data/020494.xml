@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437697395278996</docid>
+  <date>06/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/fire-at-hackett-unit-on-haddon-street-20170806-gxqgxc.html</url>
+  <title>Fire at Hackett unit on Haddon Street</title>
+  <content>
+Firefighters are working to extinguish a fire at a Hackett unit complex.
+ACT firefighters were called to the unit fire on Haddon Street at 6pm on Sunday.Photo: Karleen Minney
+The Emergency Services Agency said the fire extended from the second storey to the roof.
+Three pumpers, the breathing apparatus van and two commanders were at the scene. The ACT Ambulance Service was also on site.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sunday.Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hackett</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Haddon Street</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Karleen Minney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services Agency</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ACT Ambulance Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

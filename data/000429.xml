@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398458573429416</docid>
+  <date>31/07/2017</date>
+  <time>00:33</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/search-finds-no-trace-of-slain-qld-teen/news-story/8519a6ebedc9e96f471b640b1242cc0a</url>
+  <title>Search finds no trace of slain Qld teen</title>
+  <content>
+An extensive search of bush west of Brisbane has uncovered no trace of slain teenager Tiffany Taylor who has been missing for two years.
+Acting on a tip off, a search party of around 40 emergency rescue and police officers scoured dense bushland and difficult terrain near Banks Creek Road in Fernvale on Saturday but no evidence of the 16-year-old was found.
+Rodney Wayne Williams, 60, was charged with Tiffany's murder, but her body has never been found.
+Tiffany has not been seen since allegedly meeting up with the 60-year-old on July 12, 2015.
+The Logan teenager was pregnant with her 41-year-old partner's child and was using online dating sites to sell sexual services.
+Earlier this month police appealed to the public saying just one phone call with information could be all it took to find Tiffany's body and give her family some answers.
+Investigators were particularly looking for information on a 1995 champagne-coloured Hyundai Excel and had yet to track down Tiffany's white Samsung S5 mobile phone.
+Police are still appealing for information.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>LOGAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banks Creek Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rodney Wayne Williams, 60</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tiffany Taylor</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tiffany</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hyundai Excel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fernvale</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Samsung S5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

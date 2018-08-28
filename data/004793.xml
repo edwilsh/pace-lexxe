@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405223147037918</docid>
+  <date>01/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/palaszczuk-rules-out-new-3-billion-gold-coast-casino-20170801-gxmvym.html</url>
+  <title>Palaszczuk rules out new $3 billion Gold Coast casino</title>
+  <content>
+The Queensland government has canned the proposed $3 billion ASF casino resort development on the Gold Coast Spit. 
+The government will move forward with a community-led master plan. Photo: ASF Consortia
+There will be a three-storey height limit in the master plan. 
+State Development Minister Anthony Lynham said ASF was disappointed. Photo: ASF Consortia
+Premier Annastacia Palaszczuk said the decision did not rule out a future Integrated Resort Development on the Gold Coast.
+More to come...
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gold Coast Spit</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>State Development Minister Anthony Lynham</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Integrated Resort Development</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Palaszczuk</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ASF Consortium</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ASF</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

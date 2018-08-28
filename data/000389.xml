@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398445688527288</docid>
+  <date>31/07/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/chip-stocks-show-signs-of-slowing/news-story/23138552d5b102f90e3ec376fc38ff46</url>
+  <title>Chip stocks show signs of slowing</title>
+  <content>
+High-flying semiconductor stocks may be poised for more losses in the coming weeks as a large swath of chip names reports quarterly results in a sector that may have run up too far for some investors.
+Investors will parse earnings from 40 per cent of the components in the PHLX semiconductor index over the next month, including Applied Materials, Nvidia and Marvell Technology.
+The index is up more than 20 per cent on the year, powered by gains of nearly 60 per cent in names such as Nvidia and Lam Research, which has helped propel the S&P technology sector higher as the best performing of the 11 major S&P sectors. Only five of the 30 names in the semiconductor index are in negative territory for the year.
+Those gains were fuelled by expectations of strong earnings and revenue for the quarter. Semiconductor and semiconductor equipment stocks are expected to see the highest growth within the tech sector, with year-over-year earnings growth of more than 40 per cent, according to Thomson Reuters data.
+"The semis are the heart and soul of the technology sector, particularly the large-cap technology sector, and they are really driving the theme that we saw really take shape in the second quarter," said Peter Kenny, senior market strategist at Global Markets Advisory Group in New York.
+"The question is are they going to be able to continue to do it and even if they are, which the street is expecting, there is a case to be made for stretched valuations triggering a little bit of rotation out of the space."
+Initial stock movements in the wake of those that have already reported suggest some investors are ready to lighten up. The average 1-day stock performance has been a decline of 1.2 per cent for semiconductor companies that reported earnings through Wednesday.
+The semiconductor index was poised for its first weekly drop in four and was on track for its fifth drop in six sessions, with declines on Friday coming on the heels of results from Cypress Semiconductor, InterDigital, MicroSemi Corp and Intel.
+"A year ago I would say you have to be careful but now I'd say you have to be extremely careful," said Kim Forrest, senior equity research analyst at Fort Pitt Capital Group in Pittsburgh.
+"The ones that have these exotic stories and high growth are probably frothy."
+The forward price-to-earnings (P/E) ratio of the S&P 500 semiconductor and semiconductor equipment index stands at 15.2, above its five-year average of 14.4 but below the forward P/E of the broader S&P 500 of nearly 18.
+In addition, the 14-day relative strength index reading for the PHLX Semiconductor index stands at 51.6, below the 70 level that indicate an overbought condition, which suggests the sector may still have room to run higher.
+"The expectations are high in terms of growth rates: you keep raising the bar, raising the bar; even if you hit the number or get a penny over, it's not good enough anymore," said Daniel Morgan, portfolio manager at Synovus Trust in Atlanta, Georgia.
+"You are getting some mismatched trading related to earnings reports coming out; it creates some opportunities to be in some great names where the fundamental themes are still in place."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cypress Semiconductor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>InterDigital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marvell Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lam Research</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Synovus Trust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kim Forrest</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Global Markets Advisory Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Georgia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nvidia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Kenny</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/E</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PHLX Semiconductor</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MicroSemi Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Applied Materials</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fort Pitt Capital Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PHLX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atlanta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pittsburgh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

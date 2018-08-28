@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440145526661212</docid>
+  <date>06/08/2017</date>
+  <time>18:19</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/55-dead-in-interethnic-clashes-in-congo/news-story/844b1a8e16a8836a3ce79fbf3ae57c39</url>
+  <title>55 dead in inter-ethnic clashes in Congo</title>
+  <content>
+Deutsche Presse Agentur
+
+Share
+
+Fifty-five people have been killed in clashes between two ethnic groups in southeastern Congo, a representative of local civil society organisations says.
+The clashes pitted Pygmies (Batwa) against Lubas in Lambo Kilela village, 140 kilometres southwest of Kalemie on the shore of Lake Tanganyika, on Friday and Saturday, said Rogatien Kitenge from the Association for the Integrated Development of Peasants and Children in Tanganyika.
+All the fatalities were Lubas, Kitenge told German news agency DPA on Sunday. Twenty-six people were reported to have been injured.
+The provincial authorities sent a delegation to the area to find out what had happened, Tanganyika province governor Richard Ngoy Kitangala told Radio France Internationale.
+The clashes followed five months of calm after the UN mission to Congo brokered a peace agreement between the two ethnic groups, which had been at odds since late 2013.
+The Luba make up nearly 20 per cent of Congo's population of nearly 68 million. The Batwa, who make up 1 per cent, survive partially on hunting and gathering fruit.
+The Batwa have suffered systematic discrimination, such as being denied fair working conditions, access to land and basic services, according to human rights groups.
+</content>
+  <sindexList>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Richard Ngoy Kitangala</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twenty-six</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radio France Internationale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fifty-five</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Lake Tanganyika</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tanganyika</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Congo</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Integrated Development of Peasants</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kitenge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Presse-Agentur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Batwa</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lambo Kilela</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rogatien Kitenge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Luba</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Kalemie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DPA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

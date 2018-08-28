@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446128416195980</docid>
+  <date>07/08/2017</date>
+  <time>17:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/stock-market-news-today-august-7-2017-8</url>
+  <title>What you need to know on Wall Street today</title>
+  <content>
+Welcome to Finance Insider, Business Insider's summary of the top stories of the past 24 hours.
+
+The meteoric rise of  is rippling through financial markets, and .
+
+Just ask the unfortunate souls who have been trying to short chip makers and learning the hard way that their share prices are closely linked to interest in bitcoin. The stocks of companies like  and , which make chips used to mine, or produce, bitcoin - a process that involves heaps of computers solving complex equations - have surged alongside the cryptocurrency, destroying the short positions.
+
+Short sellers betting against those two companies have lost a combined $US1.8 billion this year as Nvidia has skyrocketed by 57% and AMD has climbed by 16%, according to data provided by the financial analytics firm .
+
+And the fallout is already beginning. The Dallas-based hedge fund Carlson Capital's $US1 billion Black Diamond Thematic fund lost 14.2% this year through July, , according to a client update reviewed by Business Insider.
+
+Elsewhere in markets news and views:
+
+In other news, Blue Apron is . Netflix announced . And Tesla is making a
+
+Lastly, here are . And guys can save hundreds on .
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US1.8</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Black Diamond Thematic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nvidia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Blue Apron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Finance Insider</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Carlson Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

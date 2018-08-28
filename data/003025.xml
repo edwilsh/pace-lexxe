@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403251757015296</docid>
+  <date>31/07/2017</date>
+  <time>19:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/marsden-shopping-centre-extension-leaps-initial-hurdle/news-story/d8e9a8df37608ae8a0882a319038cbf3</url>
+  <title>Green light for shop extension</title>
+  <content>
+EXTENSION plans for Marsden Park Shopping Centre were included in a report to last week's City Growth committee meeting.
+At that meeting, council gave initial approval to a request from the QIC-owned centre to make a minor amendment to the Logan Planning Scheme 2015 to change the zoning of an access restriction strip in Tamarind St.
+The request was prompted after the Logan Planning Scheme was updated in 2015 to zone all restricted access strips and roads, as Community facilities and Infrastructure.
+The report said the zoning change had the "unintended consequence" of forcing some developments, which were consistent with the Logan Planning Scheme, to be impact assessable.
+The report said the rationale for having all access restriction strips zoned for community facilities was to allow government complete control over those areas for functions and to restrict access to sites.
+In May, QIC, asked for the access restriction strip to be zoned as part of the shopping centre, so it could proceed with approved extension plans.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tamarind St</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>QIC</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Logan Planning Scheme</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QIC-owned</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Marsden Park Shopping Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Logan Planning Scheme 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>City Growth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

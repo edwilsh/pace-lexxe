@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413344930342800</docid>
+  <date>02/08/2017</date>
+  <time>10:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/driver-trade-blows-in-middle-of-busy-perth-road/news-story/b33b028526efba7f31697c3634f61ab3</url>
+  <title>Road rage punch up disrupts traffic</title>
+  <content>
+A vicious road rage fight in Perth's south has been caught on camera.
+Traffic was brought to a standstill on Armadale Road in Forrestdale this morning when two men got out of their cars and began swinging punches at each other.
+Arms and legs flew and one man was pressed up against as the pair slugged it out in the middle of the road about 8.30am.
+The fight only ended when the men wrestled each other to a stalemate.
+Nearby residents say there have been crashes and other problems at the intersection of Armadale and Nicholson roads for years.
+The men involved in this morning's fight have not been identified and it is not known if either was injured.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nicholson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Armadale</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Armadale Road</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Forrestdale</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

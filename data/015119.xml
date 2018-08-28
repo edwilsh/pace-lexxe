@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424168248134821</docid>
+  <date>04/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/bank-industry-reputation-tarnished-by-cba-failures-over-money-laundering-20170803-gxp1eb</url>
+  <title>Bank industry reputation tarnished by CBA failures over money laundering</title>
+  <content>
+by
+Kevin Davis
+
+There are many circumstances in which doing nothing gets us into trouble and leads to penalties. The announcement by AUSTRAC that it is seeking to  relating to lack of action about suspected money-laundering activities by users of its banking system is such a case.
+The amounts of identified money-laundering transactions do not appear to be huge - compared with some overseas cases. The AUSTRAC filing with the Federal Court indicates maybe $100 million or so.
+But the alleged failure of CBA's systems and processes to comply with the requirements of the Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) Act of 2006, if proven, is an enormous failing of governance and risk management, which happened over the period 2012-2016.
+Questions will no doubt be asked about who among current and past bank executives and Board members should take responsibility. Perhaps it is a pity that the BEAR (Bank Executive Accountability Regime) is not already in place.
+
+Louie Douvis
+
+This episode did not involve bad behaviour towards customers involved - indeed the problem was being too accommodating to some undesirables. But it is another black mark for banks whose reputations have been badly tarnished by a range of other cultural, ethical and governance issues.
+
+(allegedly) involved: (a) not putting in place adequate systems to identify possible money laundering activities; (b) not acting promptly in cases of transactions that should have been raised red flags and generated reporting to AUSTRAC; and (c) not preventing further such transactions.
+The AML/CTF Act of 2006 places obligations on banks (and others) to take actions to prevent and report money laundering and terrorism financing actions. But a fundamental issue is "how much" action? Rules and regulations promulgated by AUSTRAC answer this using a principles-based and risk-based approach. They require an AML/CTF program involving matters such as having adequate systems for identifying suspicious transactions and undertaking due diligence of customers and staff.
+As often happens with principles based regulation, most things are a shade of gray. Spending more on an AML/CTF program may improve its effectiveness, but ultimately a cost-benefit calculation comes into play. How does a regulator determine whether a bank that spends, say, $100 million a year on such a program is taking enough action? If it is, should a bank half its size also be spending that amount, or half as much, or what? How does a bank's board make such a decision?
+Thus it is likely that only when there are clear breaches of some very specific requirements can significant regulatory penalties be made to stick. In this case, it appears from the AUSTRAC filing with the Federal Court, that CBA did not take required actions on a number of fronts, even when it had received information from law enforcement officials.
+
+David Rowe
+
+The size of any resulting fine can be expected to reflect the extent of the transgressions of the requirements, but the deterrence effect on other institutions is also a very important consideration for AUSTRAC. In March of this year,  for its failings in this area. That signalled to the finance and gambling sectors, according to the then CEO of AUSTRAC, Paul Jevtovic, "if you do not take your AML/CTF Act obligations seriously, AUSTRAC will take action".
+Huge fines in overseas cases
+
+Overseas the recent trend has been for very significant penalties to be imposed. For example, Deutsche Bank had penalties of over $US600 million imposed in the US and UK for inadequate anti-money laundering actions on its part - where the amounts suspected of being laundered were in the order of $US10 billion.
+The amounts of identified money laundering in the AUSTRAC filing (around $100 million),  are minuscule compared to the Deutsche Bank case.
+
+Glenn Hunt
+
+But the amounts of funds deposited through the (poorly named!) Intelligent Deposit Machine ATMs, through which much of the identified money laundering occurred, appear to have been huge. In some cases $1 billion a month was being deposited in mid 2016, some of which could also involve as yet unidentified money laundering.
+Added to that are significant failings to provide required reports to AUSTRAC and to carry out adequate due diligence. For example there were 53,506 cases of not filing "threshold transactions reports" (where over $10,000 cash is involved).
+Put together with the Tabcorp case, far more than a slap on the wrist is likely to be involved. That is not good news for bank shareholders, although the effect of whatever monetary penalty is decided will probably be much smaller than the resulting further trashing of bank reputations.
+The odds on a Royal Commission or further Parliamentary Inquiry into banking have just shortened significantly.
+
+Kevin Davis is professor of finance at the University of Melbourne and professor and research director at the Australian Centre for Financial Studies at Monash University.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US$ 600</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parliamentary Inquiry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Deposit Machine ATMs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Davis</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF</name>
+    <count>3</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>9</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF Act</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louie Douvis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Financial Studies</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Jevtovic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Rowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monash University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank Executive Accountability Regime</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenn Hunt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of AUSTRAC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

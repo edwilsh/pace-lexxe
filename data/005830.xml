@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406988378626364</docid>
+  <date>01/08/2017</date>
+  <time>09:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/19/25/man-saves-son-dog-from-vic-house-fire</url>
+  <title>Man saves son, dog from Vic house fire</title>
+  <content>
+A Melbourne man has saved his son and a dog from a burning house, running into the inferno to wake them up.
+The 60-year-old arrived at the Mill Park house on Tuesday afternoon and found it well alight, rushing in to save his son, who was asleep inside, the Metropolitan Fire Brigade says.
+He managed to get his 35-year-old son, and his pet dog, out of the house and all three were treated by firefighters with oxygen until an ambulance arrived.
+Crews attacked the blaze internally and it was under control in 40 minutes but caused substantial damage.
+The father was taken to hospital and his son and the dog were treated by paramedics at the scene.
+It's believed a second dog may have perished in the fire and investigators will now try to determine the cause.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mill Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430095303098684</docid>
+  <date>05/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/vic-man-stole-1200-handbag-for-girlfriend/news-story/002c24a7bf7d6542a0f9e26a24a3e35d</url>
+  <title>Vic man stole $1200 handbag for girlfriend</title>
+  <content>
+A young Melbourne man stole a $1200 handbag from Myer because he wanted to make his girlfriend happy on her birthday, a court has heard.
+Daniel Porter, 20, has been fined $250 for stealing the pricey designer handbag from the CBD store on Friday evening.
+He was caught and arrested, admitting he nabbed the bag because he only earned $50 a week working part-time at a clothing store and couldn't afford it.
+"From what I've heard it was to please your girlfriend," Melbourne Magistrate Alan Spillane said as Porter faced court on Saturday.
+"This is a very significant theft. It's not just a simple shoplifting.
+"But you're a young man and have time to turn your life around."
+Porter was fined for the theft and released from custody.
+"Thank you very much. Have a good day, your honour," the young man said as he left court.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Daniel Porter, 20</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Myers</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Porter</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrate Alan Spillane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

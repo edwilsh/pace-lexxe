@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406777925224536</docid>
+  <date>01/08/2017</date>
+  <time>08:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/video/video-news/video-world-news/deadly-protests-mar-venezuelan-election-outcome-20170731-4woba.html</url>
+  <title>Deadly protests mar Venezuelan election outcome</title>
+  <content>
+Q&A: Could Trump destabilise US-Australia relationship?
+
+02:50
+
+Deadly protests mar Venezuelan election outcome
+
+At least 10 people were killed in protests but President Nicolas Maduro insists Sunday's vote to rewrite the constitution was a success.
+
+Previous slide
+Next slide
+
+Previous slide
+Next slide
+
+Previous slide
+Next slide
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Q</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US-Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

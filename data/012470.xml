@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418632035183676</docid>
+  <date>03/08/2017</date>
+  <time>06:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/poor-air-quality-warning-in-melbourne-cbd/news-story/31f812a1f8ec73fa00a5267bd0dec946</url>
+  <title>Poor air quality warning in Melbourne CBD</title>
+  <content>
+Pregnant women and people with heart and lung conditions should limit their time outdoors in Melbourne's CBD due to poor air quality.
+A warning from the Environment Protection Authority has been in place for most of Thursday, with an afternoon update stating air quality is "unhealthy for sensitive groups".
+The elevated level of PM2.5 particles is likely due to wood-heater emissions and other sources of urban pollution not being dispersed because of still atmospheric conditions, the environmental watchdog said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM2.5</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Environment Protection Authority</name>
+    <count>1</count>
+    <score>-1.7</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

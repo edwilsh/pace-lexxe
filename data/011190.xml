@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417004242553213</docid>
+  <date>03/08/2017</date>
+  <time>00:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/jayde-kendall-murder-accused-face-trial-september/3208243/</url>
+  <title>Jayde Kendall murder accused to face trial in September</title>
+  <content>
+THE man accused of killing schoolgirl Jayde Kendall will face trial in September.
+
+Brenden Jacob Bennetts, 19, is charged with one count of  murder and one of interfering with a corpse.
+
+Sixteen-year-old Jayde went missing from Gatton on August 14.
+
+Her body was found on a property in Upper Tenthill, south of Gatton, two weeks later.
+
+Mr Bennetts faced a brief hearing in the Brisbane Supreme Court on Thursday.
+
+His trial is due to start on  September 4.
+
+- NewsRegional
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Bennett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brenden Jacob Bennetts, 19</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>NewsRegional</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gatton</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>August 14</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Upper Tenthill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Jayde Kendall</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

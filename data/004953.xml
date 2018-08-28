@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406155154955057</docid>
+  <date>01/08/2017</date>
+  <time>06:25</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/amd-unveils-rx-vega-starts-from-us399/</url>
+  <title>AMD Unveils RX Vega, Starts From $US399</title>
+  <content>
+Image: Facebook (AMD)
+After kicking the Vega can down the road at Computex earlier this year, AMD finally unveiled its Vega series of GPUs at the SIGGRAPH event in Los Angeles. Three cards were unveiled: the Radeon RX Vega 56, an air cooled GPU available for $US399, as well as air cooled and water cooled iterations of the Radeon RX Vega 64.
+
+The Vega GPUs were always targeted at users looking to purchase a GTX 1070 or GTX 1080, and the released specifications for the Vega 56 and Vega 64 match alongside that. The performance target comes at a heavy cost though: the lowest power draw of the Vega GPUs is 210W, while the liquid cooled Vega 64 draws up to 345W alone, more than the R9 390X or the R9 290X (both of which used around 250W-290W of power in third-party real world testing). The R9 Fury X also drew around 275W under regular circumstances, and was manufactured with the older smaller 28nm process.
+
+Image: AMD
+
+The liquid cooled Vega 64 comes with a supplied pump and 120mm radiator, so you won't have to fork out for extra kit. It's worth noting that the baseline Vega card is the air cooled model, however, featuring a blower-style setup not too dissimilar from NVIDIA's Founders Edition cards.
+
+Image: AMD
+
+The Radeon RX 64 starts from $US499. The cards will go on sale internationally from August 15 local time, and we'll confirm local pricing and availability as soon as we can.
+
+From the raw hardware, here's how a GTX 1080 and GTX 1080 Ti compare to the Vega 64. Prices for the GTX cards are taken from the cheapest available on StaticICE right now, although your mileage may vary depending on your preferred retailer.
+
+Geforce GTX 1080
+Geforce GTX 1080 Ti
+RX Vega 64 (Liquid Cooled)
+RX Vega 64 (Air Cooled)
+
+TFLOPs
+9
+11.3
+13.7
+12.66
+
+CUDA/Stream Processors
+2560 (CUDA)
+3584 (CUDA)
+3584 (SP)
+4096 (SP)
+
+Core GPU Clock Speed
+1607MHz
+1481MHz
+1406MHz
+1247MHz
+
+Boost GPU Clock Speed
+1733Mhz
+1582MHz
+1677MHz
+1546MHz
+
+Memory Speed
+10Gbps
+11Gbps
+1.89Gbps
+1.89Gbps
+
+Memory Bandwidth
+320 GB/s
+484 GB/s
+484 GB/s
+484 GB/s
+
+RAM
+8GB GDDR5X
+11GB GDDR5X
+8GB HBM2
+8GB HBM2
+
+Power (W)
+180W
+250W
+345W
+295W
+
+Price
+From $799
+From $1099
+TBA
+TBA
+
+The Vega cards should be in similar territory to their NVIDIA brethren, at least in theory, although it's worth remembering that the GTX 1080 has been out for a full year and AIB versions of the GTX 1080 Ti started landing in the hands of press around late March-early April.
+
+Third party benchmarks haven't hit the internet yet, and aren't expected to until closer to launch. Initial indications place the Vega 64 GPU around the same territory as the GTX 1080, according to 3DMark , although the core/boost clock speeds indicate that the Vega cards may not have been running at full performance.
+
+AMD is making another big push with their Vega cards, by bundling them in three separate Radeon packs, termed Radeon Red (with the Vega 56), Radeon Black (the air cooled Vega 64) and Radeon Aqua (Vega 64 water cooled). "Radeon Packs include a $US200 discount on the 34" Samsung CF791 curved ultrawide FreeSync monitor, and a $US100 discount on select Ryzen(tm) 7 1800X processor and 370X motherboard combos - $US300 in combined hardware savings," AMD said in a release. Each Radeon pack in Australia will also come with codes for Prey and Wolfenstein 2: The New Colossus, while those in Switzerland, Germany and Austria will get Sniper Elite 4 instead of Wolfenstein 2.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TFLOPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radeon RX 64</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MHz</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air-cooled</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GTX 1070</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GTX 1080</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Computex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radeon Aqua</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Radeon</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPUs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>W-290W</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geforce GTX 1080 Ti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siggraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GTX 1080 Ti</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Radeon RX Vega 64</name>
+    <count>1</count>
+    <score>1.2</score>
+  </sindex>
+  <sindex>
+    <name>Radeon RX Vega 56</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FreeSync</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US499</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CUDA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vega 64 GPU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Colossus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TBA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nvidia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R9 Fury X</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>StaticICE</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Vega 56</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vega 64</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Vegas</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gbps</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radeon Red</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sniper Elite 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPU Clock Speed</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R9 390X</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radeon Packs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liquid Cooled</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rams</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryzen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMD Unveils RX Vega</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB HBM2</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Switzerland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R9 290X</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>W</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>X</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radeon Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Starts From</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB GDDR5X</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March-early April</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>RX Vega 64</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GTX</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>GPU</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Geforce GTX 1080</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NVIDIA's Founders Edition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vega GPUs</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMD</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AIB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US399</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$300</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DMark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CUDA/Stream Processors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wolfenstein 2</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung CF791</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

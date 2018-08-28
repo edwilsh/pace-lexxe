@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411115842279162</docid>
+  <date>02/08/2017</date>
+  <time>01:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/helicopter-crashes-near-cloncurry-powerlines/8766198</url>
+  <title>Cattle musterer dies in outback Queensland after chopper crashes into powerlines</title>
+  <content>
+A man who was mustering cattle in outback Queensland has died when his chopper ran off course and crashed into powerlines.
+The chopper came down in a paddock about 7:15am near Cloncurry, with smoke sighted by witnesses before emergency services arrived.
+It caught alight and the 40-year-old pilot died at the scene, police said.
+Another helicopter pilot called in the crash and confirmed no one else was involved.
+Emergency services remain on scene.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cloncurry</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

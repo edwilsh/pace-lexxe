@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421896210396468</docid>
+  <date>03/08/2017</date>
+  <time>19:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bitcoin-cash-price-may-be-house-of-cards-close-to-collapsing-2017-8</url>
+  <title>Bitcoin cash may be a house of cards that's going to come crashing down</title>
+  <content>
+Bitcoin cash come onto the scene on Tuesday following a much-anticipated fork in the bitcoin blockchain, and is the third largest cryptocurrency by market cap.
+
+But its price and high market cap might be the result of some technical issues underpinning the coin's infrastructure. 
+
+Bitcoin cash has the third largest market cap of any alternative cryptocurrency just three days after coming onto the scene. But it's price may be inflated because of some technical issues underpinning the new coin. 
+
+To recap, on Tuesday, bitcoin split in two following a years-long battle in the community over the rules that should guide the cryptocurrency's network. 
+
+That split resulted in the creation of a new cryptocurrency, , which has the same basic underpinnings, but plays by different rules. In essence, it's almost like bitcoin cash is a copy of bitcoin, but it's built to process more transactions and faster. 
+
+Following the fork, bitcoin investors who had their holdings in certain wallets and on certain exchanges now have just as much bitcoin cash as they do bitcoin. but only folks on exchanges are able to actively trade it. 
+
+The 95% of bitcoin cash holders who have their bitcoin cash in a private wallet, according to Aaron Lasher, the CEO of Breadwallet, can't do anything with it. 
+
+Basically, it's stuck. Kind of like when you have a pending deposit on your checking account. 
+
+Lasher told Business Insider that wallets are playing catch-up, and working on updating their infrastructure so bitcoin cash investors can move their coins over to exchanges where they can be actively traded. 
+
+Some bitcoin cash investors have taken to Twitter since the split to complain that they can't trade their bitcoin cash. 
+
+Here are one bitcoin cash investor's Lamentations:
+
+"Our clients have just as many bitcoin cash coins as they do bitcoins, but they're invisible for now," Lasher said."We are being flooded with request to put them on an exchange."
+
+Breadwallet isn't alone. , another wallet, is also having some problems making bitcoin cash available for its users. Here's the company's statement on the matter (emphasis ours):
+
+BCH wallet is still offline in TREZOR Beta Wallet, as the Bitcore backend (BitcoinABC) is reindexing. The fix was found, however, its deployment has been complicated due to changes in BitcoinABC's code (vis-a-vis Bitcoin Core). There is no ETA for bugfixes and deployment. We also do not rule out a possibility of another bug surfacing, as the code has been changed significantly.
+
+Samson Mow, a video game developer and CEO of Pixelmatic, said the market, as a result, is completely illiquid. In other words, sellers in the market can't find buyers. 
+
+"The market for BCH is so illiquid and fragmented that the price, and by extension the market cap, mean almost nothing," Mow told Business Insider
+
+In other words, the only reason why bitcoin cash is trading at $US400 and has the  is because a large swath of the marketplace can't move their coins. 
+
+So what happens when folks are able to unleash those coins onto exchanges?
+
+According to Lasher, it will likely increase the number of folks in the market who want to sell their coins. When more people look to sell a good than buy it, the price falls.  
+
+Mow told Business Insider the bitcoin cash house of cards will completely fall apart. 
+
+"It's unlikely that BCH will survive at prices above $US100 in the long term," he said.
+
+"We have some of our key traders telling us that they will be getting out of their BCC positions by 8 August," Sebastian Quinn-Watson, a venture partner for a bitcoin exchange operator based in Australia, Blockchain Global.
+
+August 8 is the day on which SegWit, a software update for the original bitcoin blockchain, will go into effect. 
+
+"We see 8 August as the day the bell tolls for BCC," Quinn-Watson said. "If the prices of BCC remain strong post the 8th then it is likely to be a currency for a long period."
+
+"Alternatively, we could see a consolidation in bitcoin and see it run well past its peak," he concluded.
+
+Bitcoin cash bulls, you've been warned.   
+
+Get the latest Bitcoin price
+
+u can't move it
+u can't sell it
+no, it's not a rock, it's !
+- #SatoshiMoku (@CarpeNoctom)
+
+???? Nice one! Seriously. Can hardly move my coins. And when I can I can not use it. Even exchanges will not allow me to deposit it.
+- P. Verbrugge (@p_verbrugge)
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$100</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>BCC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BCH</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sebastian Quinn-Watson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Core</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$400</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SatoshiMoku</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Breadwallet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Pixelmatic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samson Mow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lasher</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Breadwallet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SegWit</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P. Verbrugge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Quinn-Watson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BitcoinABC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blockchain Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TREZOR Beta Wallet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aaron Lasher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CarpeNoctom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

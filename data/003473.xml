@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404235304543409</docid>
+  <date>31/07/2017</date>
+  <time>22:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/media-and-marketing/isentia-to-shut-king-content-business-misses-profit-guidance-20170731-gxmooe</url>
+  <title>iSentia to shut King Content business, misses profit guidance</title>
+  <content>
+Two years ago, media monitoring and content company iSentia bought King Content for $48 million and dismissed concerns the content marketing boom was starting to taper. 
+On Tuesday, iSentia, which was formerly known as Media Monitors, revealed it will shut the business down due to its poor performance, and take a $37.8 million writedown that will see its value fall to zero. 
+To compound the bad news, iSentia chief executive John Croll also announced a shock profit downgrade for the group, with revenue and underlying earnings before interest, tax, deprecation and ammortisaiton to fall below guidance provided only months ago. 
+Revenue for the 2016-17 financial year will be $155.1 million, below guidance for $162 million, while underlying EBITDA will be  $41.5 millon, below guidance of $44 million. 
+
+Mr Croll tried to put an upbeat spin on the downgrade, which comes just weeks before the company is due to report its full-year profit on August 23. 
+
+"While we are clearly disappointed with the performance of the business during FY17, particularly the King Content operations, the board and management remain confident in the market positioning and growth potential for Isentia.
+"Our focus now is on leveraging our core business where we have a significant market share, and enhancing and broadening our products as we deliver the most comprehensive media intelligence and insights to our customers in FY18." 
+iSentia shares plunged more than 30 per cent on a single day in February after it warned the content business was weighing on full year earnings. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>John Croll</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>King Content</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Media Monitors</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Isentia</name>
+    <count>6</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY17</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FY18</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>August 23</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Mr Croll</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

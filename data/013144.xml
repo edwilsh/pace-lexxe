@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418713639563564</docid>
+  <date>03/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/stocks-to-watch-at-thursdays-close/news-story/c83a9c510f2e905ef15c828e29f5135a</url>
+  <title>Stocks to watch at Thursday's close</title>
+  <content>
+Australian Associated Press
+
+Share
+
+Stocks to watch on the Australian stock exchange:
+API - AUSTRALIAN PHARMACEUTICAL INDUSTRIES - down 23 cents, or 13.07 per cent at $1.53
+The drugs distributor and pharmacies supplier's lowered its profit growth forecasts on Wednesday due to weaker consumer spending.
+FLT - FLIGHT CENTRE - up $1.54, or 3.5 per cent, at $45.94
+Flight Centre has continued its expansion strategy, acquiring a travel operator based in Canada's Quebec province for an undisclosed sum.
+KMD - KATHMANDU - steady at $2.10
+Strong winter sales growth in Australia and New Zealand will boost the outdoor clothing retailer's profit by up to 13.4 per cent.
+SUN - SUNCORP - down 93 cents, or 6.4 per cent, at $13.57
+Suncorp's annual profit rose four per cent to $1.08 billion, as gains in the Australian insurance business helped offset lower margins in banking and a fall in its New Zealand unit's profit.
+
+WHA - WATTLE HEALTH - up 21.5 cents, or 37.1 per cent ,at 79.5 cents
+The infant formula supplier will raise up to $12.4 million to fund a recent acquisition and joint venture.
+CBA - COMMONWEALTH BANK - down 26 cents, or 0.3 per cent, at $83.97
+Commonwealth Bank has been accused of more than 53,000 breaches of laws put in place to combat money laundering and the financing of terrorism.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>KMD</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WHA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wattle Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kathmandu</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flight Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Pharmaceutical Industries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada's Quebec</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

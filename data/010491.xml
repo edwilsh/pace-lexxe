@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416351407512216</docid>
+  <date>02/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/teen-arrested-at-rosebery-middle-school-after-incident/news-story/52464edff3e785d5c94412e030892c14</url>
+  <title>Police called to Rosebery Middle School</title>
+  <content>
+A TEEN has been arrested after allegedly ripping off his electronic monitoring bracelet at a school and attempting to flee from police.
+A police spokesman said they went to Rosebery Middle School after the 14-year-old removed the ankle monitor and started causing a nuisance.
+There was damage to nearby vehicles reported after the incident.
+The Palmerston school released a statement on Facebook after the incident.
+"Today's incident is not acceptable and the school will continue to work with the student and their family to manage this behaviour, taking the necessary appropriate action to ensure the safety of all students, teachers and staff at Rosebery Middle School is maintained," it read.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rosebery Middle School</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palmerston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

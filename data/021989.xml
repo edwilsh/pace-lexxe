@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442477693930361</docid>
+  <date>07/08/2017</date>
+  <time>03:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/07/how-cba-is-spinning-its-money-laundering-crisis/</url>
+  <title>Commonwealth Bank's response to money laundering charges not even close to enough</title>
+  <content>
+Were you thinking that given the bad odour that surrounds Australian banks, and the now lengthy series of scandals involving the Commonwealth Bank in particular, CBA head Ian Narev would issue a frank mea culpa and acknowledge major and cultural problems at his organisation? Empty your heads of such foolish thoughts.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ian Narev</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

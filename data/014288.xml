@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423227650282997</docid>
+  <date>04/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/event/devops---full-stack-security-automation-tutorial-470053</url>
+  <title>DevOps - Full Stack Security Automation Tutorial</title>
+  <content>
+Phone:
+
+1300922923
+
+Pricing:
+
+A$1,424.50 or $995 Ex GST for AISA Members
+
+Addressing security in a fast-moving DevOps environments is essential, not just for the long-term success of your SDLC, but for the protection of your entire stack of tools and processes. This full-day tutorial examines ways of integrating security into DevOps environments by looking at opportunities at each stage of the development pipeline. The core focus is on automating repeatable security tasks allowing "low- hanging-fruit" issues to be remediated without human intervention.
+
+This full-day tutorial examines ways of integrating security into DevOps environments by looking at opportunities at each stage of the development pipeline. The core focus is on automating repeatable security tasks allowing "low- hanging-fruit" issues to be remediated without human intervention.
+
+In this tutorial we cover the following topics:
+
+Understanding the motivations for providing security in high-velocity DevOps environments.
+
+Securing the entire DevOps system and ensuring risk is managed according to appetite.
+
+A defense-in-depth approach for improving code quality and detecting defects earlier.
+
+Identifying known-vulnerable third-party libraries and managing the supply chain risk.
+
+Using continuous monitoring tools to detect changes across the entire DevOps stack.
+
+Self-healing management and remediation of misconfiguration, and enforcing policies.
+
+Custom solutions versus existing platforms and tools to get immediate results.
+
+A methodology for crawl, walk and run; ways to ensure a path to DevSecOps maturity.
+
+We finish the tutorial with a real-world attack simulation involving a DevOps stack hosted on Amazon AWS, demonstrating the tactics and automated techniques you have learned.
+
+Specifically in this tutorial you will learn about the following methods to use in your DevOps environment.
+
+Application Security
+
+Best Practice Awareness
+
+Coding Helpers and IDE Tools
+
+Developer Sandboxing
+
+Static Analysis Security Testing (SAST)
+
+Dynamic Analysis Security Testing (DAST)
+
+OS/Networking Protection
+
+Visualisation of Network Configuration
+
+Continuous Monitoring Techniques
+
+Alerting of non-compliant environments
+
+Platform Resilience
+
+Auto-enforcement of Configuration Policy
+
+Self-healing & automated platform tools
+
+Server-less event driven security
+
+Venue Information:
+
+Aug 15, 2017, 9:00 AM  to  17:00 PM
+
+60 Margaret Street Sydney
+Sydney: City & inner suburbs, New South Wales, Australia
+
+Sep 12, 2017, 9:00 AM  to  17:00 PM
+
+440 Collins Street Melbourne
+Melbourne: City & inner suburbs, Victoria, Australia
+
+nextmedia takes no responsibility for the accuracy of the content contained in these listings.
+Please contact the vendor with any enquiries.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AISA Members</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon's AWS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SDLC</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Ex GST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Practice Awareness</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Network Configuration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Auto-enforcement of Configuration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IDE Tools</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OS/Networking Protection</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sep 12, 2017, 9:00 AM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Full Stack Security Automation Tutorial</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aug 15, 2017, 9:00 AM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DevOps</name>
+    <count>9</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>DAST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DevSecOps</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Collins Street Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Analysis Security Testing</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monitoring Techniques</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret Street Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

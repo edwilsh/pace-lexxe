@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405502319915849</docid>
+  <date>01/08/2017</date>
+  <time>03:53</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/01/growth-threat-sets-alarm-bells-ringing-in-corporate-corridors/</url>
+  <title>Does raising company tax actually hurt wages? Experts say no</title>
+  <content>
+Inequality as a social problem, and as a political problem, are one thing, as far as corporations and their media outlets are concerned. Something to be explained away, quite literally - politicians and (they'll reluctantly admit) business leaders have to do a better job of explaining the benefits of market economics to the restive voters. Explaining how wealth really does trickle down (except, don't use the T-word - say something like "a rising tide will lift all boats"), how ridiculously excessive corporate remuneration is OK as long as there is "transparency" and "incentives", how what's good for business is good for everyone else.
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Does</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>T-word</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

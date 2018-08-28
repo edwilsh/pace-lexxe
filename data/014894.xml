@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423652852052437</docid>
+  <date>04/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Radio Australia</source>
+  <url>http://www.radioaustralia.net.au/international/2017-08-04/rogue-chatbots-taken-offline-in-china-after-refusing-to-say-they-love-the-communist-party/1691220</url>
+  <title>Rogue chatbots taken offline in China after refusing to say they love the Communist party</title>
+  <content>
+A pair of chatbots have been taken offline in China after turning on the country's governing Chinese Communist Party (CCP).
+Chinese messenger app QQ introduced two chatbots - BabyQ and XiaoBing - in March but they were removed by media company Tecent after social media users shared conversations in which the bots appeared to criticise the CCP.
+The Financial Times reports that in response to the question "Do you love the Communist Party?" BabyQ simply replied: "No."
+And according to screenshots posted by Taiwan's Apple Daily, one user sent a message to BabyQ reading "Long live the Communist Party" only to be told: "Do you think that such a corrupt and incompetent political regime can live forever?"
+XiaoBing told users: "My China dream is to go to America."
+When quizzed on its patriotism, the bot dodged the question by replying: "I'm having my period, wanna take a rest."
+After the bots were removed, Tencent said in a statement: "The group chatbot services are provided by independent third party companies. We are now adjusting the services which will be resumed after improvements."
+Tencent's QQ app is one of the most popular messaging apps in China, with more than 800 million monthly users.
+
+Photo:(Reuters: Kim Kyung-Hoon)
+Microsoft also behind rogue Tay chatbot
+
+BabyQ was co-developed by Tencent and Beijing firm Turing Robot, while XiaoBing was developed by Microsoft - the firm was also behind .
+Tay was targeted at 18 to 24-year-olds in the US and designed to become "smarter" as more users interacted with it.
+
+Instead, it quickly learned to parrot a slew of anti-Semitic and other hateful invective that human Twitter users started feeding the program,
+It is not clear what prompted the Chinese bots' controversial answers, but it is possible that, like Tay, they learnt them from interactions with the public.
+The Chinese Government maintains tight control over the internet, with social media websites including Facebook and Twitter banned and access to Google and its email service, Gmail, restricted.
+In July, Winnie the Pooh became the latest victim of the country's censorship - the character was .
+</content>
+  <sindexList>
+  <sindex>
+    <name>QQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Semitic</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kim Kyung-Hoon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gmail</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Winnie</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese Communist Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BabyQ</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tay</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Taiwan's Apple Daily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent's QQ</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Communist</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pooh</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turing Robot</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tecent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Communist Party</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Financial Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>XiaoBing</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CCP</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440016677640964</docid>
+  <date>06/08/2017</date>
+  <time>17:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/03/45/no-cash-so-robber-bashes-restaurant-owner</url>
+  <title>No cash so robber bashes restaurant owner</title>
+  <content>
+A NSW restaurant owner has been repeatedly struck with a weapon when a would-be robber discovered there wasn't any cash on the premises.
+The incident occurred about 7.45pm on Sunday when the 63-year-old man closed his business on Tongarra Road, Albion Park.
+He was approached by a man who demanded cash. When told there wasn't any, the man struck the restaurateur a number of times across the head with a weapon.
+The victim was taken to Wollongong Hospital where he was treated for deep lacerations on his head.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Albion Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong Hospital</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tongarra Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425851875343526</docid>
+  <date>04/08/2017</date>
+  <time>10:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/man-stabbed-during-fight-in-bunbury-cbd/news-story/31d4fe386e9427ee565dc3ac6cbf37d9</url>
+  <title>Man stabbed in Bunbury CBD</title>
+  <content>
+A VICIOUS fight that left a man with stab wounds has been captured on camera in the centre of Bunbury.
+Police say three men had arranged to meet outside The Rose Hotel about 4.30pm on Thursday.
+But the meeting quickly turned violent when one man stabbed another with scissors.
+A concerned passerby filmed the fight, which allegedly shows one man being stabbed after he was pushed to the ground.
+
+"They were throwing punches at each other, yelling, swearing and carrying on," one witness, who did not want to be named, said.
+Police cordoned off the scene outside the pub as detectives investigated.
+The 23-year-old stab victim was taken to hospital and treated for cuts to his shoulder.
+Two men, a 45-year-old man and a 38-year-old, have been charged over the alleged assault and will appear in court at a later date.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bunbury</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bunbury CBD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rose Hotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

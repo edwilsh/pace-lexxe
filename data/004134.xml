@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404806535203481</docid>
+  <date>01/08/2017</date>
+  <time>01:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/isentia-shares-are-being-hammered-2017-8</url>
+  <title>Isentia shares are being hammered</title>
+  <content>
+Shares in media monitoring company Isentia fell hard after announcing a profit downgrade.
+
+A short time ago, they were down 16% to $1.865. The shares are now down by more than half since the year high of $4.14
+
+The market leading Australian media monitoring group today also announced it was fully writing down by $37.8 million the value of its troubled content marketing business, King Content, and is shedding staff.
+
+, the company says full year revenue is now expected to be $155.1 million, down from the consensus estimates of $162 million.
+
+Content Marketing is expected to report a 30% drop in revenue to $14.2 million and an EBITDA loss of $4.4 million compared with a profit of $3.6 million to year before.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>King Content</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Isentia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

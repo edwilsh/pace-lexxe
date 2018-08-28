@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427612811969992</docid>
+  <date>04/08/2017</date>
+  <time>17:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/03/31/rare-penfolds-grange-wine-set-for-auction</url>
+  <title>Rare Penfolds Grange wine set for auction</title>
+  <content>
+A rare complete set of Penfolds Grange wine is set to go under the hammer in Adelaide and could fetch up to $280,000.
+The set is made up of 62 bottles from the 1951 to 2012 vintages, with some signed by the Penfolds' chief winemakers of the day.
+Auctioneer Marc du Plessis says there has been keen interest in the set which will be sold on Sunday.
+"You might find one complete set come up every 10 or 15 years at auction," Mr du Plessis told AAP.
+A similar set in Melbourne was reportedly sold for $300,00 last year.
+Penfolds Grange is considered a cornerstone of the Australian wine market and is officially heritage listed by the South Australian National Trust.
+It has won numerous awards both nationally and internationally.
+The 1951 Grange was legendary winemaker Max Schubert's first vintage, with many of the bottles given away to friends.
+But buyers now pay upwards of $50,000 to get their hands on a single bottle.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grange</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian National Trust</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Marc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Plessis</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Max Schubert</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Penfolds Grange</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

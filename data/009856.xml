@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414599060821365</docid>
+  <date>02/08/2017</date>
+  <time>15:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/amazon-stock-price-industries-disruption-morgan-stanley-2017-8</url>
+  <title>MORGAN STANLEY: For an industry to be 'safe from Amazon' it must have one of these 5 traits</title>
+  <content>
+Meet BRIAN, Morgan Stanley's concoction of industry attributes that are safest from  ever-expanding reach.
+
+"We introduce a five-factor framework to help investors think about industries' susceptibility to Amazon disruption" said Brian Nowak, an equity analyst, in a note on Wednesday. "We recognise that other hurdles may emerge and that Amazon continues scaling its business and investing harder (in part to overcome some of these factors)."
+
+"That said, at a high level, we see industries' strengths/weaknesses in the following areas materially impacting the pace and potential of Amazon disruption."
+
+Here they are:
+
+Bespoke products that are unique and require lots of customisation. Examples of industries include luxury goods and intimates. Morgan Stanley also lists grocery, which is curious given Amazon's recent acquisition of Whole Foods.
+
+Regulatory hurdles, or industries that make products which are thoroughly scrutinised by government authorities before they can be sold. Tough regulation around a product makes it harder for Amazon to enter a market, Nowak said. Examples include pharma/healthcare and commercial airlines.
+
+Industry/business models with lower gross margins, lower order frequencies, and so on. "This is not to say Amazon can't invest in capabilities (and, as seen with the proposed WFM transaction, acquire) to try to work through these difficulties...but as a baseline, we believe industries of this nature are likely to be more challenging," Nowak said. Examples include dollar stores and DIY auto parts.
+
+Attention post-sale would require in-person customer service for training and installation. So far, industries such as  are a "competitive moat" against Amazon.
+
+Nuances. Amazon is less likely to push into an industry in which purchase transactions are complicated. "The scripting and payment/reimbursement mechanisms in the pharma industry are foreign to Amazon," Nowak said.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Whole Foods</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nowak</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WFM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>10</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brian Nowak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DIY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

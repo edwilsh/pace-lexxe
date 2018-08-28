@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413044282626290</docid>
+  <date>02/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/waroona-winery-worker-crushed-by-falling-frame/news-story/f9c082f2ab1d36e846a2246e62ed68ba</url>
+  <title>Winery worker crushed by falling frame</title>
+  <content>
+A MAN has been seriously injured while helping to rebuild in WA's fire-ravaged south.
+The 64-year-old man was crushed by a verandah frame on Wednesday morning at Drakesbrook Winery in Waroona.
+Winery owner Bernie Worthington says the victim was conscious but in a lot of pain.
+The man was taken to hospital in Perth where he is expected to make a full recovery.
+Mr Worthington said the accident is just another part of a tough 18 months.
+"We were wiped out in the 2016 Waroona-Yarloop fires, I think we were the first private property hit," Mr Worthington said.
+"The whole property was wiped out."
+A man has also been flown to Royal Perth Hospital after he was pinned underneath a tree in a separate accident in WA's south.
+The man was trapped at a property in Hesterbrook, near Bridgetown.
+He escaped with only minor injuries.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>BRIDGETOWN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bernie Worthington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waroona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Perth Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Worthington</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Waroona-Yarloop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Drakesbrook Winery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hesterbrook</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

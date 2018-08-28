@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440145526661193</docid>
+  <date>06/08/2017</date>
+  <time>18:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/3522895/gunman-holds-up-scone-bank/?cs=4173</url>
+  <title>Gunman holds up Scone bank</title>
+  <content>
+ROBBED: Police guard the ANZ Bank branch at Scone after the hold up. Picture:  Ben Murphy
+
+A MAN armed with a shotgun has stormed a Scone bank and robbed tellers of cash.
+
+Police said the bandit entered the Kelly Street bank about 11.15am and threatened employees with the shotgun.
+
+He was handed an amount of cash before fleeing the scene.
+
+None of the attendants were injured.
+He got into a blue vehicle, which was last seen heading west on Kingdon Road. 
+The man is described as being of a large build, wearing a blue hooded jumper with grey long pants, white joggers, black and grey-coloured camouflage pattern hooded jacket. 
+He was carrying a green bag and was armed with what was believed to be a shotgun.
+Hunter Valley detectives are investigating.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kelly Street</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ben Murphy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingdon Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ Bank</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

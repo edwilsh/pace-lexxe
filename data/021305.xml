@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441738959545740</docid>
+  <date>07/08/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/10/19/melbourne-s-four-proposed-toll-road-routes</url>
+  <title>Melbourne's four proposed toll road routes</title>
+  <content>
+Four proposed routes for Melbourne's "missing link" freeway have been put forward with a recommendation for the preferred option expected by the end of the year.
+The North East Link will complete the Metropolitan Ring Road by connecting the ring road to either the Eastern Freeway or EastLink.
+All four options involve tunnels, with the cost per kilometre of tunnel expected to be between $800 million and $1 billion.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Eastern Freeway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EastLink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East Link</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Ring Road</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

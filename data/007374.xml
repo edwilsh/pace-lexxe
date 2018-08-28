@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410986993257900</docid>
+  <date>02/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/helicopter-crashes-into-power-lines-in-qld/news-story/6e47d411d99ae30703d7c7d38acca8a4</url>
+  <title>Pilot dies in outback Qld helicopter crash</title>
+  <content>
+A helicopter pilot who was mustering cattle has died in a firey crash after hitting power lines in outback Queensland.
+Emergency services were called to the crash scene around 20km north of Cloncurry, Queensland early on Wednesday.
+A fire on board the aircraft was extinguished before firefighters arrived, a Queensland Fire and Emergency Services spokeswoman said.
+The crash was reported to the Queensland Ambulance Service at around 7.30am on Wednesday by another pilot.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cloncurry</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

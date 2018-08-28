@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412786584583502</docid>
+  <date>02/08/2017</date>
+  <time>08:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/national/gold-coast-man-fighting-for-life-after-m1-crash/news-story/c243b1772b7ce2e43fcc09cc1ceeae4d</url>
+  <title>Motorcyclist critical after M1 crash</title>
+  <content>
+A MAN who was reportedly riding a motorcycle on the M1 with thongs and no helmet is fighting for life after colliding with two cars.
+About 5.20pm two cars and the motorcycle rider crashed just metres before the southbound Bermuda St exit on the M1.
+Police and paramedics rushed to the scene after receiving multiple calls from members of the public.
+A Queensland Ambulance spokeswoman said a male motorcyclist believed to be aged in his 30s or 40s was found unresponsive on the side of the road.
+Witnesses reported the man was wearing shorts, thongs and no helmet while riding the bike.
+Paramedics performed CPR on the man before rushing him to hospital in a critical condition.
+The other drivers involved suffered minor injuries and shock.
+More information to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>M1</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bermuda St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CPR</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

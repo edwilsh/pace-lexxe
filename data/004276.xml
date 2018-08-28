@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405270391678892</docid>
+  <date>01/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/palaszcuk-rejects-3b-gold-coast-casino/news-story/875d93430aed2b170d220a18db9d23b7</url>
+  <title>Palaszcuk rejects $3b Gold Coast Casino</title>
+  <content>
+The Queensland government has rejected plans to build a $3 billion casino on the Gold Coast's Southport Spit.
+Premier Annastacia Palaszczuk has announced the government will not support the proposed integrated resort put forward by developer ASF.
+Instead, the government says it will develop a new master plan to protect the area.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gold Coast Casino</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Palaszcuk</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast's Southport Spit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ASF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

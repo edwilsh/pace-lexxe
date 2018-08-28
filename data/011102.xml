@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416523206207068</docid>
+  <date>02/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/fed-govt-insists-aircraft-security-robust/news-story/8e7d4aab9856935591cb8a8268ab901e</url>
+  <title>Fed govt insists aircraft security robust</title>
+  <content>
+The Turnbull government has defended airport security measures amid warnings there are major holes in screening.
+Airline pilots say they are seriously concerned airport staff like cleaners and baggage handlers are inadequately screened.
+Transport Minister Darren Chester has offered to discuss the matter with the pilots' union but told ABC radio on Thursday existing measures were robust.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Transport Minister Darren Chester</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

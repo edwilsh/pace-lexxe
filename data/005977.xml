@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407379220658013</docid>
+  <date>01/08/2017</date>
+  <time>11:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/new-information-apple-homepod-details-iphone-8-2017-8</url>
+  <title>New information hidden in Apple's HomePod firmware has revealed fresh details about the iPhone 8</title>
+  <content>
+The developers who  in the unreleased HomePod speaker's firmware over the course of the weekend have dug deeper and found some new information about the upcoming iPhone.
+
+The tentatively-named "iPhone 8" will seemingly come with a new design that features an organic light-emitting diode (OLED) display, which will  of the device.
+
+In doing so, Apple will ditch the iconic physical home button, which  about what the company will replace it with, and .
+
+, developers Steve Troughton-Smith and Guilherme Rambo tweeted their discoveries, and found that the home button is likely going away for good, replaced by a "home indicator" that will only appear when useful, while remaining hidden in certain use cases (such as when watching a video).
+
+There have been long-running rumours that claimed Apple was looking into , but more recent findings seem to , in favour of a yet- Apple refers to as "Pearl ID" in its files.
+
+There is also a so-called "attention detection" feature that developers saw in the code, with references such as "mouthstretch," "mouthsmile," and "mounthdimple," highlighting how Apple wants to make the scanning technology as accurate as possible - which it must do if it wants to replace Touch ID, or .
+
+In addition to that, the developers found references to features such as "tap to wake," which would allow users to simply tap on the device's display to turn it on (which would come in handy in the absence of a physical button to press), as well as links to the iPhone 8's potential screen resolution, which could be as significant as that brought by the iPhone 4 and the original "Retina Display."
+
+And the death of the home button is confirmed. RIP.
+- Guilherme Rambo (@_inside)
+
+There's also a lot of new references to facial expression detection
+- Guilherme Rambo (@_inside)
+
+It looks like the new iPhones might support 'tap to wake', much like Windows Phones/Lumias
+- Steve T-S (@stroughtonsmith)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 4</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Retina Display</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OLED</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple HomePod</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windows Phones/Lumias</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Troughton-Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Pearl ID</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Touch ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve T-S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Guilherme Rambo</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

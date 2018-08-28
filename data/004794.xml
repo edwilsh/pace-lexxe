@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406047780770684</docid>
+  <date>01/08/2017</date>
+  <time>06:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/antieuthanasia-group-targets-vic-mp/news-story/6e305cf52e550f7c180fe06d1b71b9ff</url>
+  <title>Anti-euthanasia group targets Vic MP</title>
+  <content>
+A Victorian government backbencher says he and his staff have been abused after Right To Life campaigners distributed a deceiving brochure in his electorate.
+Member for Bentleigh Nick Staikos says he is undecided on his party's move to legislate in support of voluntary assisted dying for the terminally ill, which is expected to go to a conscience vote later in 2017.
+"If it wasn't the intention from the Right To Life group to make it look like the brochure came from me, it looks like an attempt to hide who it is from," Mr Staikos told AAP.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Right To Life</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Anti-euthanasia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bentleigh Nick Staikos</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Staikos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic MP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

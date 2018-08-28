@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422536160536140</docid>
+  <date>03/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/news-from-around-the-world/news-story/2fe20761c090b10c9cfbb71156de8a9f</url>
+  <title>News from around the world</title>
+  <content>
+Turnbull pressured Trump on refugee deal
+Australian Prime Minister Malcolm Turnbull told US President Donald Trump during their heated January phone call America did not have to accept any of the refugees held on Nauru or Manus Island.
+Teen gets 15 months over boyfriend's death
+A woman who encouraged her suicidal boyfriend to kill himself in dozens of text messages and told him to "get back in" a truck filled with toxic gas has been sentenced to 15 months in jail for involuntary manslaughter.
+Cyber expert who stopped WannaCry arrested
+A cyber security researcher widely credited with helping to neutralise the global "WannaCry" ransomware attack earlier this year has been arrested by the Federal Bureau of Investigation.
+Air France expands North Korea no-fly zone
+Air France-KLM has expanded its no-fly zone over North Korea after one of its jets flew past the location where an intercontinental ballistic missile splashed down 10 minutes later.
+Pistorius taken to hospital with chest pains
+Oscar Pistorius has been taken from prison to a public hospital with chest pains and will stay overnight for observation.
+Trump pushed Mexico on border wall
+US President Donald Trump pressured the Mexican president to stop voicing opposition in public to his plan to have Mexico pay for a border wall, according to transcripts of phone calls.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Air France-KLM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manus Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mexico</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Oscar Pistorius</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Federal Bureau of Investigation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mexican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pistorius</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air France</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nauru</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

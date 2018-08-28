@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402517317594416</docid>
+  <date>31/07/2017</date>
+  <time>16:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/entertainment/celebrity/playwright-sam-shepard-dies-aged-73/news-story/ba1402f3993842a8c008ed70bf2e42e1</url>
+  <title>Playwright icon Sam Shepard dies</title>
+  <content>
+OSCAR-nominated actor, director and playwright Sam Shepard has passed away aged 73.
+A spokesman for the Shepard family said the cause was complications of amyotrophic lateral sclerosis, or Lou Gehrig's disease.
+He was nominated for an Academy Award for Best Supporting Actor for his portrayal of pilot Chuck Yeager in "The Right Stuff." He was also the author of forty-four plays, as well as several books, including short stories, essays, and memoirs.
+He received the Pulitzer Prize for Drama in 1979 for his play "Buried Child."
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lou Gehrig</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shepard</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Oscar-nominated</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Academy Award</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sam Shepard</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Right Stuff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chuck Yeager</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pulitzer Prize</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Best Supporting Actor</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

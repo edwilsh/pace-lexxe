@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441489851439534</docid>
+  <date>06/08/2017</date>
+  <time>23:32</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/four-die-as-heavy-storms-sweep-italy/news-story/8a337276d4588fcea75385668c1ea291</url>
+  <title>Four die as heavy storms sweep Italy</title>
+  <content>
+Heavy storms in northern Italy have led to at least four deaths and multiple emergency rescues in some of the country's most mountainous regions, local media are reporting.
+One man was killed after being struck by lightning on Marmolada, the highest mountain of the Dolomites, Italian news agency Ansa reported on Sunday.
+A Belgian tourist is believed to have died after a tree fell on his tent in the Friuli region, while a woman died in the Lombardy region after slipping on a wet hiking trial.
+Another woman also died in Cortina d'Ampezzo after a landslide buried her car, fire officials said on Saturday.
+Local rescue authorities have reported "many victims" over the weekend and hikers are being warned to take weather alerts seriously.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Italy</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Ampezzo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friuli</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dolomites</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marmolada</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Ansa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cortina</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Belgian</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Lombardy</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

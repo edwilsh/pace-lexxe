@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417257645627272</docid>
+  <date>03/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/17/light-plane-crash-southeast-of-melbourne</url>
+  <title>Light plane crash southeast of Melbourne</title>
+  <content>
+A light plane has crashed southeast of Melbourne as reports emerge of at least one person trapped.
+The aircraft crashed at Clyde North at about 10.40am on Thursday, with one person trapped but in a stable condition. A second person is being assessed by paramedics, Ambulance Victoria says.
+Police and firefighters are also at the scene.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

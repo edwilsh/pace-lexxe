@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417214695953720</docid>
+  <date>03/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/10/melbourne-light-plane-crash-clyde-north-injured-emergencies</url>
+  <title>At least one injured after light plane crash lands in paddock</title>
+  <content>
+Emergency crews are treating one person, believed to be a pilot, after a light plane crashed in a paddock in Melbourne's south-east.
+Crews were called to Pound Road in Clyde North just after 10.30am after witnesses reported seeing smoke come from the plane.
+A caller told 3AW it appeared as though the pilot was looking for a place to land.
+A spokesperson for Ambulance Victoria said a passenger appears trapped inside the aircraft but is believed to be stable.
+An air ambulance has been sent to the scene.
+This is a breaking news story. More information will be added as it comes to hand.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>AW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pound Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

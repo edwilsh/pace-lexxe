@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410596151228052</docid>
+  <date>01/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/09/35/nsw-police-officer-knocked-over-by-ute</url>
+  <title>NSW police officer knocked over by ute</title>
+  <content>
+A man is under police guard in hospital after he allegedly knocked down an officer with a ute on Sydney's north shore.
+Officers were called to a property in Naremburn late on Tuesday night following reports of a trespasser.
+Police say they were trying to talk to the man when he drove off, knocking one of the officers to the ground.
+The driver and the policeman were taken to the Royal North Shore hospital with minor injuries and the driver is expected to be charged after his release.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Royal North Shore</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Naremburn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

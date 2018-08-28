@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423609902378532</docid>
+  <date>04/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/the-economy/the-six-charts-that-prove-why-workers-are-feeling-the-pinch-20170803-gxp2ha.html</url>
+  <title>The six charts that prove why workers are feeling the pinch</title>
+  <content>
+1. YES, INFLATION IS LOW
+Let's start with the good news. Despite soaring electricity prices, the cost of the average basket of goods and services purchased by Australian consumers is rising at well below its historical pace.
+Prices are still rising each year. But at below 2 per cent, annual consumer price inflation is below the Reserve Bank's target band. Interest rates are at record lows as a direct result.
+To stay on top of increases to consumer prices, workers need a payrise each year that at least matches inflation. That's easier to do when inflation is low. Of course, keeping up with rising house prices is another thing...
+
+2. BUT WAGES GROWTH IS EVEN LOWER
+But while price rises are at historic lows - so too is wages growth. During the peak of the mining boom, wages were growing at an impressive 4 per cent or above a year.
+
+Not only did mining employees enjoy supersized paypackets, according to the independent economist, Saul Eslake, all other employers were forced to pay higher wages too "to stop workers nicking off to the Pilbara".
+During the GFC, wages growth stalled to just 2.9 per cent, before recovering somewhat.
+But at just 1.9 per cent on the latest count, growth in annual wages is now the lowest since the Bureau of Statistics began its Wage Price Index nearly two decades ago.
+
+3. PARTICULARLY IN THE PRIVATE SECTOR
+Public servants have seen a dramatic fall in their wages growth since the end of the mining boom, but higher rates of unionisation and collective agreements helped protect their paypackets during the GFC and today, relative to the private sector.
+In the mid 2000s, public servants enjoyed annual pay increases close to 5 per cent. Today, public servant pay packets are still increasing 2.4 per cent - putting them ahead of inflation.
+It is private sector employees who are really feeling the pinch. Private wages (excluding bonuses) increased just 1.8 per cent on the latest count - putting them well behind inflation.
+
+4. OVERALL, AFTER INFLATION, WORKERS ARE GOING BACKWARDS
+When inflation rises faster than wages, higher prices gobble up all gains for workers and we say that "real" wages have shrunk. Real wages shrank 0.2 per cent in the March quarter, after wages grew just 1.9 per cent and inflation by 2.1 per cent.
+It is not unprecedented for wages to rise at a slower pace than inflation. This happened in 2000 and 2001 when the introduction of the GST caused a spike in prices (although households were compensated with higher transfer payments). In happened again in late 2008 when the GFC shrank wages, and again in 2014 when the end of the mining boom did the same.
+But it does mean that workers are going backwards again today.
+
+5. WORKERS ARE NOT GETTING COMPENSATED FOR THEIR HIGHER PRODUCTIVITY
+In theory, workers should be compensated for both inflation and increases in their labour productivity - the amount of output they produce for every hour worked. But according to this graph from Eslake, workers wages have failed to keep pace with productivity increases for the past 15 years.
+Perhaps because they fear being replaced by robots, or foreign workers, Australian workers have been more hesitant to demand their share of productivity increases. Declining rates of unionisation and decades of labour market decentralisation have also shifted the balance of power away from workers.
+
+6. LABOUR'S SHARE OF TOTAL INCOME IS AT A HALF CENTURY LOW
+Australia is not alone. The share of national income going into the pockets to workers, not the owners of capital, has fallen dramatically in many countries. Australian worker's share of income is now at a more than half a century low, at 51.5 per cent.
+According to Eslake, for much of the 2000s, Australia's mining boom protected workers here from global forces of new technologies, globalisation and declining union power. The end of the mining boom has now exposed the true corrosive impact of those forces on worker pay packets.
+"Workers are much more worried about keeping their jobs. If you push for too big a wage rise you could be replaced by a robot, a foreign worker or another underemployed Australian," says Eslake.
+No wonder Aussie workers are feeling the pinch.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Eslake</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GETTING COMPENSATED FOR THEIR HIGHER PRODUCTIVITY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pilbara</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>INFLATION IS LOW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Private Sector</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WAGES GROWTH IS EVEN LOWER</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saul Eslake</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wage Price Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GFC</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>GST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LABOUR'S SHARE OF TOTAL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WORKERS ARE GOING BACKWARDS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>INCOME IS AT A HALF CENTURY LOW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

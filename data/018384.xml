@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431478282579389</docid>
+  <date>05/08/2017</date>
+  <time>08:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-05/swallow-withdrawn-forgotten-sun-gets-a-chance</url>
+  <title>Swallow withdrawn, forgotten Sun gets a chance</title>
+  <content>
+David Swallow is a late out for Suns
+
+GOLD Coast's challenging assignment notching a rare win in Perth just got tougher after midfielder David Swallow was ruled out of Saturday night's clash against Fremantle.
+
+Swallow flew to Perth but has a tight groin and has been replaced by Jarrad Grant.
+
+It will be Grant's first match this season. He played 13 times for the Suns last year after being delisted by the Western Bulldogs.
+
+Superstar midfielder Gary Ablett will take his place for his first match away from Metricon Stadium since round 12.
+
+The Dockers will go in unchanged and are aiming to break a four-game losing streak at home.
+
+Gold Coast has won only once in nine trips to Domain Stadium, a 26-point triumph in round two last year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gary Ablett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Swallow</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Jarrad Grant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Bulldogs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metricon Stadium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Domain Stadium</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Fremantle</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dockers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445299487491605</docid>
+  <date>07/08/2017</date>
+  <time>14:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north/new-images-reveal-scope-of-new-public-housing-estate-in-walker-st-northcote/news-story/ac256c696f205534285b8dbc973d0dca</url>
+  <title>Public housing revamp revealed</title>
+  <content>
+NEW images shed light on a planned multi-million dollar overhaul to a Northcote public housing estate.
+The dilapidated Walker St housing estate, which includes 87 dwellings, will be torn down and rebuilt under a $185 million State Government program.
+There are currently seven walk-up apartment blocks on the site no taller than five storeys.
+Documents released last month by the Department of Housing and Human Services reveal the new housing blocks could be as tall as eight storeys.
+The program will renew nine ageing Melbourne estates with the promise of a 10 per cent increase in public housing units.
+The Walker St estate was built in the 1960s and is inaccessible for people with disabilities.
+The renewal program will use a public-private partnership model and mix private homes with public housing.
+Most dwellings will be one and two-bedroom units.
+Residents have been told they will have the right to return once the development is complete, but some have raised concerns over the loss of three-bedroom units.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Department of Housing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walker St</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Northcote</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Human Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416158133980060</docid>
+  <date>02/08/2017</date>
+  <time>21:14</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/business/markets/dow-cracks-22000-mark-as-apple-hits-record-high-20170802-gxo72b.html</url>
+  <title>Dow cracks 22,000 mark as Apple hits record high</title>
+  <content>
+The Dow has climbed above the 22,000 mark for the first time, buoyed by Apple's healthy quarterly iPhone sales, while weakness in other tech stocks held back the Nasdaq and S&P 500.
+Apple jumped 4.73 per cent to a record high after the world's largest publicly- listed company reported strong results. It is up 36 per cent this year.Photo: Bloomberg
+The iPhone maker's rise helped push the Dow to a record closing high, although tech heavyweights Microsoft, Facebook and Alphabet all lost ground following recent strong gains that have made the sector the strongest performer in 2017.
+Some investors believe corporations must start spending less on buying back shares and more on technology to improve productivity in order to justify further gains in Silicon Valley stocks, with the S&P 500 information technology index already up 23 per cent this year.
+
+"Apple, at the heart of it, has a lot of consumer exposure, and the consumer is in great shape. But we would like to see some capex," said Mike Baele, managing director at US Bank Private Client Wealth Management in Portland. Microsoft slipped 0.44 per cent and Facebook lost 0.33 per cent, both among the heaviest drags on the S&P 500 and the Nasdaq.
+The Dow has risen 11 per cent in 2017 and is on track for its sixth straight record close, even as Wall Street loses confidence that President Donald Trump and a Republican-controlled Congress will be able to cut taxes and increase infrastructure spending this year.
+
+"The Trump agenda getting done or not is not the difference between positive or negative GDP," said Brent Schutte, chief investment strategist at Northwestern Mutual Wealth Management Company in Milwaukee. "I continue to believe the Trump potential tax changes are the icing on the cake of an already improving economy."
+
+You will now receive updates from
+
+Business AM Newsletter
+
+Business AM Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+The Dow hit the 20,000 level in late January and crossed the 21,000 mark on March 1.
+Two-thirds of S&P 500 companies have reported their second-quarter earnings so far and 72 per cent of them have beaten Wall Street's expectations, according to Thomson Reuters I/B/E/S. In a typical quarter, 64 per cent of companies beat expectations.
+The Dow Jones Industrial Average rose 0.24 per cent to end at 22,016.24, a record high. The S&P 500 gained 0.05 per cent to 2477.57 and the Nasdaq Composite was flat at 6362.65.
+Data showed US private employers added 178,000 jobs in July after adding 191,000 in June. Economists polled by Reuters expected an addition of 185,000 jobs. The more comprehensive non-farm payrolls report is due on Friday.
+About 6.5 billion shares changed hands in US exchanges, above the 6.1-billion average over the last 20 sessions.
+Reuters 
+</content>
+  <sindexList>
+  <sindex>
+    <name>US Bank Private Client Wealth Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S. In</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>2</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Portland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mike Baele</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Northwestern Mutual Wealth Management Company</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Republican-controlled Congress</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent Schutte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Milwaukee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

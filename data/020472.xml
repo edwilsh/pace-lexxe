@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437267898545820</docid>
+  <date>06/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/australian-military-accidents/news-story/67b9fd96382b4de5a7ec6869c9e4f4df</url>
+  <title>Australian military accidents</title>
+  <content>
+Australian Associated Press
+
+Share
+
+* Fifteen Special Air Service Regiment soldiers and three aircrew from the Army's 5th Aviation Regiment are killed when two Australian Black Hawk helicopters collide in June 12 ,1996 during a night live-fire counter-terrorism exercise near Townsville.
+* Nine Australian Defence Force personnel are killed in the Sea King "Shark02" crash on the Indonesian island of Nias on April 2, 2005 while on a mercy mission to help survivors of a massive earthquake off the coast of Sumatra.
+* Two men die in June 1992 when a Black Hawk crashes near the Army aviation school at Oakey, Queensland due to pilot error. The helicopter was carrying six SAS soldiers and four crew members.
+* A Black Hawk helicopter crashes while trying to land on HMAS Kanimbla during exercises preparing for evacuation from coup-stricken Fiji on November 29, 2006. Army pilot Captain Mark Bingley and SAS trooper Joshua Porter are killed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sumatra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Black Hawk</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NIAS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Defence Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Army's 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June 1992</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Aviation Regiment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HMAS Kanimbla</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>November 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shark02</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>April 2</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fiji</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fifteen Special Air Service Regiment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Captain Mark Bingley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 12</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Oakey</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joshua Porter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sea King</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Hawk</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

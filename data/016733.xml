@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426685099015864</docid>
+  <date>04/08/2017</date>
+  <time>14:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/computer-program-taught-itself-walk-run-play-soccer-2017-8</url>
+  <title>This computer program taught itself how to walk, run, and play soccer</title>
+  <content>
+The University of British Columbia created a computer program called DeepLoco that uses deep learning to teach itself to walk, run, and even dribble a soccer ball. It could help video games become much more realistic and even aid robots in the real world.
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>University of British</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Columbia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DeepLoco</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

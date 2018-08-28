@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406649076203426</docid>
+  <date>01/08/2017</date>
+  <time>08:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/woman-child-hurt-three-car-crash/3207648/</url>
+  <title>Woman, child hurt in three car crash</title>
+  <content>
+A child and a woman are in hospital after a three vehicle crash at West Ipswich late this afternoon.
+
+The collision occurred near the intersection of Tiger and Brisbane streets at about 5pm.
+
+They were taken to Ipswich Hospital in a stable condition.
+
+A Queensland Ambulance Service spokesperson says five other patients were assessed but did not require transport.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ipswich Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tigers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>West Ipswich</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420904072931688</docid>
+  <date>03/08/2017</date>
+  <time>15:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/entertainment/movies/harry-potter-actor-robert-hardy-dead-at-91-20170803-gxp0vq.html</url>
+  <title>Harry Potter actor Robert Hardy dead at 91</title>
+  <content>
+London: British actor Robert Hardy, who played Minister For Magic, Cornelius Fudge in the Harry Potter films, has died at the age of 91.
+Hardy was also known for playing Siegfried Farnon in BBC series All Creatures Great and Small.Photo: Fairfax Media
+A statement from his family says: "It is with great sadness that the family of Robert Hardy CBE today announced his death, following a tremendous life: a giant career in theatre, television and film spanning more than 70 years."
+PA
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cornelius Fudge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Siegfried Farnon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister For Magic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>All Creatures Great</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Hardy</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Hardy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harry Potter</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Robert Hardy CBE</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Small.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

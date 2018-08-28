@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406430032867077</docid>
+  <date>01/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/vodafone-halves-loss-in-first-half-469850</url>
+  <title>Vodafone halves loss in first half</title>
+  <content>
+Vodafone Hutchison Australia lost $81.5 million in the first half of its 2017 year despite increased customer numbers and revenues.
+
+However, this figure is down by almost half compared to the first six months of last year, when the telco lost over $162 million. 
+
+It comes off the back of a 3.5 percent increase in total customer numbers to 5.7 million, and a 3 percent revenue bump to $1.6 million for the first six months of the year.
+
+Annual revenue per user increased by 2 percent to $45.89 thanks to customers buying larger data plans. Average customer data usage also grew from 3.2GB a month to 4.8GB.
+
+VHA's chief financial officer James Marsh attributed the improved figures to increased spend on the telco's network: the company will spend $2 billion this year - double that of 2016 - to improve coverage, capacity, and performance.
+
+The money will fund 1800 new and upgraded cell sites and fibre transmission circuits in metro and regional areas, but will mostly go towards spectrum licence payments, Marsh said.
+
+The $2 billion also doesn't include the cost of 700MHz spectrum, which will be booked in 2018.
+
+Vodafone also today  it would offer customers a temporary 4G connection for customers that are waiting for NBN broadband to be set up.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MHz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GB</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone Hutchison Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>VHA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marsh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>James Marsh</name>
+    <count>1</count>
+    <score>2.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405184492331612</docid>
+  <date>01/08/2017</date>
+  <time>02:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/flight-plan-lacking-in-tas-plane-crash/news-story/c89594fd33d331831579437a0fb07822</url>
+  <title>Flight plan lacking in Tas plane crash</title>
+  <content>
+Two Tasmanian pilots who survived a light plane crash took off with no flight plan and both believing the other was in charge, an investigation has found.
+The pair left from Bridport in the state's north in July last year, but were forced to ditch in a paddock when the plane's engine failed.
+The pilot from Scottsdale suffered spinal injuries, while his co-pilot walked away relatively unharmed.
+An Australian Transport Safety Bureau report released on Tuesday found the plane ran out of fuel.
+"There was inadequate communication between the pilots ... with no defined flight plan, no pre-flight brief and each pilot believing the other was in command," it said.
+"The lack of a flight plan prevented the pilots from ensuring there was sufficient fuel and reserves available to ensure safe flight."
+The bureau said uncertified maintenance had been carried out on the amateur-built Europa Aircraft Classic, which increased the flight's risk, but didn't contribute directly to the crash.
+"The aircraft's log book was incomplete with respect to fuel system maintenance and the aircraft's fuel filter had been replaced with an unapproved part," it said.
+The accident highlighted the importance of pre-fight planning, the investigation concluded.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Europa Aircraft Classic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bridport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scottsdale</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Transport Safety Bureau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

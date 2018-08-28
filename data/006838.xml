@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410213899131288</docid>
+  <date>01/08/2017</date>
+  <time>22:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/dad-finds-out-child-killer-and-sex-offender-had-hi/3207737/</url>
+  <title>Dad finds out child killer and sex offender had his kids</title>
+  <content>
+A FATHER of three children under the age of seven was horrified to learn his kids were left in the care of convicted baby killer and child sex offender Lee David Hulley.
+
+The father said he only realised Hulley, 41, was his ex-partner's boyfriend after seeing his photo in the NT News on Friday following his latest court appearance.
+
+Hulley was spared a return to prison last week for failing to comply with lifetime report conditions.
+
+He faced five charges including one for not showing up to an annual reporting appointment and four for not notifying police of cars he owned.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hulley</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lee David Hulley</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

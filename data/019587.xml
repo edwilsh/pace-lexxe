@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436675193053692</docid>
+  <date>06/08/2017</date>
+  <time>04:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/man-dies-3-days-after-vic-plane-crash/news-story/e620e5b67a7ceb2b00d94bcf54260b3c</url>
+  <title>Man dies 3 days after Vic plane crash</title>
+  <content>
+A Chinese National, one of the victims of a light plane clash in Melbourne's outskirts three days ago, has died.
+The 19-year-old died on Saturday after the ultralight aircraft crashed into a paddock in Clyde North on Thursday.
+A 25-year-old man from Newry remains in hospital.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese National</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Newry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

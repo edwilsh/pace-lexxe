@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416866803597308</docid>
+  <date>02/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/vic/2017/08/03/passengers-evacuated-train-explosion/</url>
+  <title>Rush hour passengers evacuated after train explosion scare</title>
+  <content>
+Passengers have been taken off two Melbourne trains after electrical sparks were seen shooting from the roof of a carriage on the suburban network in the inner city.
+Metro Trains said a problem with wires caused sparking above a train heading out of the city about 7:25am, and about 30 passengers were escorted off the train just after 8:00am.
+Metro spokeswoman Sammy Black said the train was about 600 metres from Flinders Street Station when the incident happened.
+"We did call the fire brigade to attend just as a safety precaution, but they left pretty soon after that knowing it was just an overhead wire issue," she told ABC Radio Melbourne.
+"We can understand from seeing that footage it does look quite confronting but there was absolutely no risk at all to our passengers."
+Ms Black said an investigation was underway.
+I think your trains need servicing if this in happening cc
+- Benjamin Yeo (@benyeo)
+The video was taken by Ben Yeo, who saw the sparks as he pulled into the carpark at Federation Square.
+"When I was getting the ticket out of the machine I heard this massive spark and crack and saw some smoke coming up," he told ABC Radio Melbourne.
+"It happened again, so I thought I'd pull out my phone and see what was going on and took a quick video.
+"It happened a third time but I had to rush off to work.
+"The transformer of the train had a little fire coming off it. I figured that's what was causing the delays on the Sandringham lines."
+A second train heading towards the city then lost power between the two stations.
+A Metro spokeswoman said at no time were passengers at risk and the train did not catch fire.
+About 300 passengers were escorted off the second train in between the stations, Metro said.
+The incident was causing delays of about 30 minutes.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ben Yeo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sammy Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders Street Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federation Square</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Benjamin Yeo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandringham</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Metro Trains</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

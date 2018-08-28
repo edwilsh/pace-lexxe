@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400481503055129</docid>
+  <date>31/07/2017</date>
+  <time>08:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/apple-homepod-code-biometric-face-unlocking-tech-screen-shape-2017-7</url>
+  <title>Apple may have just accidentally leaked that you can unlock the iPhone 8 with your face</title>
+  <content>
+Apple may have just leaked some key details about the iPhone 8.
+
+Developers have been trawling through the firmware code for the HomePod, Apple's upcoming smart speaker, . And they say it offers tantalising clues as to what will be in the next iPhone - including face-unlocking technology and the shape of the screen.
+
+The "iPhone 8" (or iPhone Edition, or iPhone X, or iPhone Pro, depending on who you ask) will be the tenth-anniversary edition of Apple's smartphones, and is eagerly anticipated. Apple is expected to launch an incrementally improved new device, the 7s, in the fall of 2017 - but sitting alongside it will likely be the 8, with a radical redesign, significant new features, and a higher price.
+
+There have been reports and rumours swirling for months now about the features of the iPhone 8 - including an almost edge-to-edge screen with no home button, wireless charging, an improved camera, and the ability to unlock it with your face via infrared sensors.
+
+Developer Steve Troughton-Smith says he has found code referencing that last one in HomePod's firmware. "I can confirm reports that HomePod's firmware reveals the existence of upcoming iPhone's infra-red face unlock in BiometricKit and elsewhere," , alongside screengrabs of the code.
+
+In recent years, Apple has secured iPhones with its biometric "Touch ID" fingerprint scanner. Touch ID has traditionally lived on the iPhone's home button - but Apple is reportedly ditching the home button in the iPhone 8, which has . Apple has reportedly tried to integrate it directly into the screen, and also looked at moving it to the back of the device, or even removing it entirely.
+
+In early July,  "The sensor's speed and accuracy are focal points of the feature. It can scan a user's face and unlock the iPhone within a few hundred milliseconds, the person said. It is designed to work even if the device is laying flat on a table, rather than just close up to the face."
+
+It's not clear whether this face unlock technology would be intended to replace Touch ID completely, or simply sit alongside it as an alternate method for unlocking your phone.
+
+Another developer, , as well as something else interesting - an icon apparently depicting the front of the iPhone 8. The image seems to confirm earlier reports that its screen will stretch almost to the edges of the device.
+
+However, don't expect Apple to confirm or deny any of this. The famously secretive company almost ever talks about upcoming products before they're officially announced.
+
+The iPhone 8 is expected to be formally unveiled in September at Apple's big annual event, alongside the 7s/7s Plus. But there has been , as Apple battles to solve technical challenges.
+
+EXCLUSIVE FREE REPORT:
+
+25 Big Tech Predictions by BI Intelligence.
+
+I can confirm reports that HomePod's firmware reveals the existence of upcoming iPhone's infra-red face unlock in BiometricKit and elsewhere
+- Steve T-S (@stroughtonsmith)
+
+Me too. New bezel-less form factor as well
+- Guilherme Rambo (@_inside)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>iPhone X</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Troughton-Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Tech Predictions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FREE REPORT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BiometricKit</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Touch ID</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone Pro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BI Intelligence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone Edition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Steve T-S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>11</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Guilherme Rambo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

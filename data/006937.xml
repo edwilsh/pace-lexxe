@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410428647499965</docid>
+  <date>01/08/2017</date>
+  <time>23:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/police-confirm-identity-of-body-found/news-story/c298752ccba3b9c4b78321e5f579d286</url>
+  <title>Police confirm identity of body found</title>
+  <content>
+POLICE have confirmed a body found in a vehicle pulled from the water near Gladstone last week is 69-year-old missing man Leslie Shulze.
+The body was found in a car at Tooloola last week but police could not confirm the identity until after a forensic examination.
+Police said preliminary results indicate the death was non-suspicious.
+A report will be prepared for the coroner.
+Mr Shulze vanished in June, prompting an extensive search by police.
+Police said last week that they believed the vehicle may have gone into the waterway the same day Mr Shulze was last seen, on June 19.
+Weeks of trawling through CCTV led police to the discovery of the car.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Leslie Shulze</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Shulze</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tooloola</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gladstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

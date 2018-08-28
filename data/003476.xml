@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404368448532080</docid>
+  <date>31/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets/aussie-sneaks-back-above-us80-20170731-gxmocc.html</url>
+  <title>Aussie sneaks back above US80¢</title>
+  <content>
+The Australian dollar pushed back above US80¢ early Tuesday morning, an unwelcome development for the RBA when it meets later today.
+The Aussie nudged 0.2 per cent higher overnight to reach US80.04¢, the second time in as many weeks that it has broken above that threshold to trade at over two-year highs. In Tuesday morning trade it continued to hover around US80¢.Photo: Andrew Quilty
+Reserve Bank governor Philip Lowe and his predecessor have frequently expressed a desire for the local currency to be weaker as it aids the economy's continuing transition away from a once-in-a-generation mining investment boom.
+But Mr Lowe has refrained from "jawboning" the dollar lower, which suggests the central bank remains broadly comfortable with the dollar at these levels. That's despite an 11 per cent surge against the greenback in 2017.
+Economists are now wondering whether the RBA will express more concern in its statement accompanying this afternoon's monetary policy decision, where the cash rate target is expected to remain unchanged at a record low of 1.5 per cent.
+"The market will be interested in whether they change the language around the exchange rate, other than to again note that a low rate would be helpful," NAB economists David de Garis said. "The market understands that the bank wants to see a weaker currency, but what can be said without inflating property?"
+
+An improving economy would give the RBA "a degree of comfort and ability to be patient to let the market sort itself out," Mr de Garis said.
+Strengthening commodity prices are likely to have also supported the local currency in recent weeks, including an incredible 40 per cent climb in the spot price of iron ore since mid-June. But those moves -  - in the bulk commodity has left it broadly flat for the year against the 10 per cent lift in the Aussie.
+Instead, analysts have largely blamed the weakening US dollar for the strength in the local currency. The emergence of a solid economic recovery in Europe has meant the United States is no longer the sole engine of global economic growth, and that rebalancing has been reflected in the strength of the euro and weakness in the big dollar.
+Overnight the euro traded above 1.18 versus the US dollar for the first time in over two years.
+This relative trade has been amplified by shifting expectations within the market around the path of the respective central banks.
+While the US Federal Reserve Bank continues to flag further rate hikes and a start to shrinking its bloated balance sheet in the coming months, traders remain unconvinced. While the Fed's own projections suggest one more quarter of a percentage point hike this year followed by three or four more in 2018, futures markets are factoring less-than-even odds of another move in December, and only a single additional rate rise by the end of next year.
+"In the very near term, there is some scope for the [US] dollar to make a little bit of a come back," says Sean Callow, senior currency strategist at Westpac Banking, said. "Expectations around US growth have become a bit too downbeat. With the market about 50:50 for a year-end rate hike, there is scope for the dollar to find support there."
+Meanwhile, there has been waning confidence in the ability of the Trump administration to follow through with stimulatory policies such as tax cuts and infrastructure spending.
+The US dollar has given up all its gains and more since the November 8 election.after only 10 explosive days in the job was only the latest drama in a chaotic first six months for the Trump administration.
+"The fading confidence in the Trump administration on repeated political missteps is central here, even as economic activities' data stabilise," Nizam Idris, Singapore-based head of foreign-exchange strategy at Macquarie Bank, said."This is likely yet another important week for the dollar" as traders await a slew of data, including PCE deflator and non-farm payrolls, he said.
+With wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>US Federal Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nizam Idris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>PCE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sean Callow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Lowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November @ 8</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Singapore-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80.04</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Quilty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Lowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac Banking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

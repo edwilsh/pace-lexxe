@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407950451321029</docid>
+  <date>01/08/2017</date>
+  <time>13:23</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/leadership/entrepreneur/priced-equity-vs-convertibles-notes-vs-safe-notes-how-to-choose-20170731-gxmcjo</url>
+  <title>Sound the right note for your tech start-up funding</title>
+  <content>
+by
+Alan Jones
+
+A common question from tech start-up founders is whether they should raise their investment with a convertible note, priced equity, or what's known as a 'SAFE' note.
+The short answer is that you can raise investment with a SAFE note or convertible note in Australia, but you may find it harder to raise your round.
+Here's the longer answer (nothing that this advice pertains to Australian tech start-ups in 2017, that the future may be different and that other markets, like San Francisco, definitely are different).
+Priced equity rounds
+
+In a priced equity round, you and the investors must first agree on a dollar figure amount for the value of the company (called "the pre-money valuation" or sometimes just "the pre-money" or "the pre").
+
+You and the investors must then agree on how much investment capital (money) the company needs to achieve its next set of goals (called "the investment round" or "the round").
+You and the investors must also agree how that investment capital will be provided - which investors will contribute what amount. If there's an investor that contributes the majority of the capital, or even a stake larger than any other investor, they are usually called "the lead investor" or "the lead" and they may expect to define many of the variables in the valuation and the terms of the investment such as how much equity should be set aside for compensating early employees, what sorts of decisions the founders can make without board approval, who gets a board seat, and crucially, whether any investors get any special rights to get their investment back in case of the company going bust or being acquired.
+Negotiating all those variables can take a lot of time. The riskier the investment is perceived to be, the longer it can take. The less interest there is in the investment opportunity, the longer it will take. Meanwhile, the start-up might be struggling without sufficient cash for growth and supporting existing customers.
+So, the tech start-up industry also uses two alternative forms of investment, called a 'convertible note' and a 'SAFE note'.
+
+How convertible notes work
+
+A convertible note ("con note" if you're cool) is simpler than a priced equity round mainly because it postpones the need to agree on a pre-money valuation of the company prior to investment. Instead of the start-up offering shares to the investors, it offers a convertible note, which is a loan to the company.
+The loan has a fixed term, and an interest rate that accrues over the term. The interest rate is negotiable, depending on how much the investors want to invest and how much you want their investment (there's usually a going market rate which will vary, so check around with other founders who've recently raised on a convertible note).
+At the end of the term, the investors participating in the convertible note can choose whether they'd prefer to have their principal back plus interest, or whether they would rather the loan be converted to shares in the company ("equity"). There are usually terms in the convertible note which specify some instances in which the loan automatically converts to shares, such as the completion of a priced equity round or the sale of the company.
+
+A convertible note also usually includes a "valuation cap" - a maximum valuation at which the investment made via the convertible note will convert into equity. This protects the investor against receiving only a minuscule amount of ownership in the company because the valuation of the future priced equity round gets set so high. Investors in the convertible note typically get converted at the lesser of: (a) the valuation of the next qualified priced round; or (b) the valuation cap.
+To compensate the investors for making an unsecured loan to a high-risk tech start-up, it's common to offer a discount on the conversion from debt to equity when the convertible note converts. How much of a discount is again dependant on how much the investors want to invest and how much you want their investment and you should check with other founders who've recently raised.
+You don't need to negotiate a pre-money valuation, the paperwork is usually shorter (meaning cheaper to do with your lawyer and accountant) and you don't always need to agree on the size of the round - some start-ups will hold a convertible note open for some time, banking cheques from investors as they come in.
+Why convertible notes aren't always best
+
+In the US, convertible notes are commonly used for pre-seed and seed investment rounds and are an established way of investing in start-ups. In Australia, convertible notes are used, but are less common, partly because we're just generally a bit behind the times, but more often because more Australian tech investors are new to investing in this sector and more conservative in making investment decisions.
+Some Australian investors feel that convertible notes have more risk for them than a priced equity round because, until a priced equity round occurs, the investors don't have a valuation on the company and hence don't know how much of the company they own. Personally, I don't care how much of your company I own as long as I believe you can turn every dollar I invest into one hundred dollars.
+In general, Australia sees less competition between investors, lower valuations at each round, and more time between rounds. Each of these tends to take a bit of heat out of the competition between investors, which tends to make Australian investors more likely to prefer priced equity rounds to con notes.
+As a founder, you need to remember that your convertible note funds are a loan and hence a debt that needs to be repaid, and also a debt which needs to be accounted for in your fiduciary responsibilities to the company. For instance, you can't allow your start-up to trade while insolvent, which could happen if you forget to account for one or more convertible notes that have yet to convert to equity. Multiple convertible notes are quite complicated to account for correctly.
+
+What is a SAFE note?
+
+SAFE is in all-capitals because it's an acronym that stands for "simple agreement for future equity". "Simple" is a relative term meaning "simple if you're a lawyer" but a SAFE note does usually have fewer pages, fewer clauses and is simpler to grasp.
+While convertible note is a debt, a SAFE note is not debt so while a convertible note includes an interest rate and maturity rate, a SAFE note doesn't.
+Both SAFEs and convertible notes convert into equity in a future priced equity round; a convertible note may have more complexity to when/if/how it converts. Both SAFEs and convertible notes can have valuation caps, discounts, and "most-favoured-nations" clauses (an agreement to offer the SAFE note investor the same terms as future investors on subsequent investment rounds and/or the opportunity to pull their proceeds out first in the event of a sale or winding-up of the company).
+But unlike convertible notes, some SAFE notes, particularly in the US, don't include a valuation cap, or a discount on conversion to equity. Whether your SAFE note does - or does not - depends upon how much you and your potential investors want to make the deal happen.
+Generally speaking, SAFE notes mean less risk for the founder and more risk for the investor. In an accelerator like Y Combinator where angels are falling over each other to get in on a first round, and funding rounds are much closer together, SAFE notes can work. In Australia, where there's less competition between investors, less momentum and less , it's definitely harder to raise on a SAFE note than a convertible note, and harder to raise on a convertible note than on a priced equity round.
+Disclaimer: I am not a lawyer or accountant and you should probably engage the services of an experienced instance of both those before proceeding with an investment round, unless you're OK with learning the hard way. You should also seek the advice of the mentors and alumni in your start-up accelerator program, that's what they're there for.
+Alan Jones is entrepreneur-in-residence at BlueChilli, a start-up incubator based in Sydney.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Y Combinator</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alan Jones</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BlueChilli</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

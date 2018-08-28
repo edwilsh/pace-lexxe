@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406060665672969</docid>
+  <date>01/08/2017</date>
+  <time>06:03</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/technology/brisbane-perth-melbourne-and-sydney-flagged-as-cities-responsible-for-game-of-thrones-downloads/news-story/d646deb9b8a519ada9c60e9a2443e79c</url>
+  <title>Map exposes Game of Thrones pirates</title>
+  <content>
+IF YOU live in Brisbane, Perth, Melbourne or Sydney, your IP-addresses might have been flagged as one of the 1.77 million people who downloaded Game of Thrones.
+These statistics come from BitTorrent-oriented research project , which aims to quantify and map the "shadow economy" of Game of Thrones piracy.
+Associate Professor Abigail De Kosnik and computer scientist Benjamin De Kosnik used tracking software to collect swarm data from 72 torrents sharing the premiere of Game of Thrones season seven.
+In an attempt to reveal various traffic patterns, the researchers collected IP-addresses and translated them to geographical locations before they were anonymised.
+The results were explored in a white paper and visualised as a five-day time-lapse on a world map.
+As expected, download patterns generally corresponded to areas of population density and varied depending on the time of the day.
+
+From here, the data was further broken down into the total number of downloads and the number of "overpirating" relative to the population of any given city.
+When looking at the total numbers, Seoul (Korea) was the Game of Thrones download capital of the world, closely followed by Athens (Greece), Sao Paulo (Brazil), Guangzhou (China) and Mumbai (India).
+Interestingly, despite being flagged as a heavily pirating nation, no Australian cities were ranked in the top 25.
+However, when ranking "overpirating" locations based on how much a city's volume of Game of Thrones piracy was disproportionate to its population size, four Australian cities appeared in the top 25.
+Of the places mentioned, Brisbane was ranked second, Perth sixth, Melbourne 12th and Sydney 16th.
+While this is not a great look for Australia, researchers said it was impossible to determine what extent either the "total" or "overpirating" numbers were affected by geospoofing - the use of a VPN.
+"Overpirating cities, especially, could be determined in large part by VPN subscribers using these cities as masks for their real locations," .
+The news comes as HBO continues its efforts to hold pirates accountable as the long-awaited seventh season of the hit series goes to air.
+As such, HBO's anti-piracy partner IP Echelon has begun sending warnings to those found torrenting Game of Thrones.
+The letters are sent to ISPs and include the IP-addresses of the alleged downloaders, with the anti-piracy group asking they be passed onto infringers to prevent further downloads.
+"We have information leading us to believe that the IP address xx.xxx.xxx.xx was used to download or share Game of Thrones without authorisation," the notification begins, reported .
+"HBO owns the copyright or exclusive rights to Game of Thrones, and the unauthorised download or distribution constitutes copyright infringement. Downloading unauthorised or unknown content is also a security risk for computers, devices and networks."
+It must also be mentioned that HBO makes no mention of legal action against pirates, with the letters acting as a warning and highlighting legal alternatives to watching the show.
+"We also encourage you to inform the subscriber that HBO programming can easily be watched and streamed on many devices legally," the letter reads.
+Do you find these stats surprising? Continue the conversation in the comments below or with Matthew Dunn on  and .
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>IP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>IP Echelon</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brazil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IP-addresses</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Athens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>VPN</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne 12</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Guangzhou</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greece</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>9</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BitTorrent-oriented</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sao Paulo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Abigail De Kosnik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Dunn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seoul</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Benjamin De Kosnik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Overpirating</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mumbai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

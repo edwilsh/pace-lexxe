@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416007810121710</docid>
+  <date>02/08/2017</date>
+  <time>20:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/trump-looking-to-australia-on-immigration/news-story/5d5c5540412e9aed9d4b67f8c3b75c13</url>
+  <title>Trump looking to Australia on immigration</title>
+  <content>
+US President Donald Trump is using Australia as an inspiration for a major and controversial overhaul of America's immigration policy.
+The new proposal, announced at a fiery White House press briefing on Wednesday, has a points-based system favouring green cards being awarded to English-speaking applicants who can financially support themselves.
+"We are proposing to limit family based migration to spouses and minor children," senior White House adviser Stephen Miller told reporters.
+"Additionally we are establishing a new entry system that's points based.
+"Australia has a points-based system.
+"Canada has a points-based system and what will the system look at?
+"It will look at, does the applicant speak English?
+"Can they support themselves and their families financially?
+"Do they have a skill that will add to the US economy?
+"Are they being paid a high wage?"
+The press briefing turned volatile when CNN White House reporter Jim Acosta, the son of a non-English speaking Cuban immigrant father, queried the importance of applicants being proficient in English.
+"Are we just going to bring in people from Great Britain and Australia?" Mr Acosta, a vocal critic of the Trump White House, asked Mr Miller.
+Mr Miller fired back.
+"I am shocked at your statement that you think that only people from Great Britain and Australia would know English," Mr Miller said during the heated exchange.
+"It reveals your cosmopolitan bias to a shocking degree.
+"No.
+"This is an amazing moment that you think only people from Great Britain or Australia would speak English is so insulting to millions of hardworking immigrants who do speak English from all over the world."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>English-speaking</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Trump White House</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Miller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CNN White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Great Britain</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jim Acosta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cuban</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Acosta</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Miller</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

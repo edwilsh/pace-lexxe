@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405072823180208</docid>
+  <date>01/08/2017</date>
+  <time>02:13</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/asian-shares-up-on-goldilocks-sentiment/news-story/0126b9ea76b878202b00045483587780</url>
+  <title>Asian shares up on 'goldilocks' sentiment</title>
+  <content>
+Asian shares ticked up in early Tuesday trade as investors looked to a barrage of economic data around the world to confirm recent signs the global economy is in robust health with inflation staying well contained.
+MSCI's broadest index of Asia-Pacific shares outside Japan was up 0.1 per cent, while Tokyo's Nikkei rose 0.4 per cent.
+On Wall Street, the Dow Jones Industrial Average rose 0.28 per cent to end at a record high of 21,891.12 but the Nasdaq Composite pulled back 0.42 per cent after recent rallies.
+MSCI ACWI, an index of the world's 47 stock markets, logged its ninth consecutive month of gains in July on the back of expectations of solid global economic growth.
+On the other hand, softening US inflation in recent months prompted investors to bet the Federal Reserve will adopt a patient approach to further interest rate increases.
+As a result, the CBOE volatility index, which measures implied volatility of stocks and is often seen as investors' fear gauge, stood near record low levels hit last week.
+"The low level of the Vix is a testament that investors expect 'goldilocks markets' to continue," said Shuji Shirota, head of macro economic strategy group at HSBC in Tokyo.
+"Under such an environment, the US dollar, which is a safe-haven asset, will continue to decline," he added.
+Indeed, besides the United States, recent data from other parts of the world suggest a 'goldilocks' scenario where growth is fast enough to create jobs but not so rapid that it would lead to runaway inflation.
+A raft of economic data is due on Tuesday, starting with Chinese manufacturing survey.
+That will be followed by preliminary flash estimates of euro zone gross domestic product and US spending and manufacturing data.
+In the currency market, the euro traded at $1.1824, having risen to as high as $1.1846, its best level since January 2015, with a test of $1.20 within sight.
+It has gained almost 15 per cent from its January 3 low of $1.0340, which was its weakest level since January 2003, on rising expectations that the European Central Bank will taper its stimulus next year.
+The US dollar also slipped to a 1-1/2-month low of 110.21 yen , and last stood at 110.32 yen.
+The Australian dollar held steady at $0.8000 ahead of the Reserve Bank of Australia's policy announcement later in the day. The RBA is widely expected to keep interest rates on hold.
+The firing of US President Donald Trump's communications director, Anthony Scaramucci, on Monday over an obscene tirade, just over a week after naming him to the job, also cemented the perception of a White house in disarray, further dragging on the dollar.
+An administration official said Trump's new chief of staff, retired Marine Corps General John Kelly, who sources said was seeking to impose order and discipline on a White House riven with factions and backbiting, asked for Scaramucci's removal.
+Oil prices rose to two-month highs on Monday, on expectations of US sanctions against Venezuela's oil sector after Sunday's election of a constitutional super-body in Caracas, which Washington denounced as a "sham" vote.
+Oil prices maintained gains even after the US Treasury Department late on Monday announced sanctions limited only to Venezuelan President Nicolas Maduro.
+Brent crude futures traded at $52.70 per barrel after having hit a high of $52.92 on Monday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US Treasury Department</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Marine Corps General John Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo's Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI ACWI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>VIX</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scaramucci</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan President Nicolas Maduro</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CBOE</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caracas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Scaramucci</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Shuji Shirota</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2003</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

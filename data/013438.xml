@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420088029126741</docid>
+  <date>03/08/2017</date>
+  <time>12:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/facebook-related-articles-feature-will-show-you-anti-fake-news-2017-8</url>
+  <title>Facebook will show people anti-fake news articles when they post false stories</title>
+  <content>
+Facebook is trying a new way to combat the scourge of fake news.
+
+If a user shares a popular story that might be fake on Facebook, a new feature called "Related Articles" will show the user fact-checked articles on the same subject from other sources.
+
+It's a few steps short of actually censoring information, and the idea is to show people more information to help them make up their minds about a topic. We first saw the updated feature reported on The .
+
+Here's how the update looks:
+
+You can see that one person has posted a dubious article, and that Facebook will show you more accurate articles directly beneath, in your News Feed.
+
+Facebook has been testing this feature since August and, , said that people had found it useful.
+
+The company wrote:
+
+"Since starting this test, we've heard that Related Articles helps give people more perspectives and additional information, and helps them determine whether the news they are reading is misleading or false. So we're rolling this out more broadly."
+
+If Facebook has reviewed a widely shared news story and found it to be false, it will display fact-checked stories in related articles. It will also show stories that give people more context about what they are reading.
+
+This is all part of the social network's efforts to fight fake news. The company has been caught up in the ongoing furore around fake news, with  about Donald Trump in the run-up to the US elections last year. The problem is that it's easy for people to spread false information.
+
+But Facebook has said it doesn't want to be an "arbiter of truth," and has stopped short of full censorship. Early this year,  by third-party fact checking firms.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>7</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Related Articles</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Feed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

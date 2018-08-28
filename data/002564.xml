@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400889524955336</docid>
+  <date>31/07/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/arena-completes-55m-placement/news-story/13fc179869c46a69ac66ef58ec3edb69</url>
+  <title>Arena completes $55m placement</title>
+  <content>
+Arena REIT has completed the $55 million fully-underwritten institutional placement, pricing at $2.03 per security.
+Arena is offering a non-underwritten SPP to eligible securityholders in Australia and New Zealand at the same price as the institutional placement. The total amount to be raised is $5 million, with the capacity to accept a further $5 million in oversubscriptions.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Arena REIT</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SPP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

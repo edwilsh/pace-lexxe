@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440759706990240</docid>
+  <date>06/08/2017</date>
+  <time>20:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/prince-harry-set-propose-meghan-markle/3209438/</url>
+  <title>Is Prince Harry set to propose to Meghan Markle?</title>
+  <content>
+PRINCE Harry has whisked TV star girlfriend Meghan Markle off on a romantic African birthday escape as speculation mounts a proposal is imminent.
+
+The couple touched down on Friday, Markle's 36th birthday, in Botswana.
+
+An intimate safari is on the couple's agenda as are boat trips, camping under the stars and dawn bush treks.
+
+Some royal observers believe Harry may be keen to propose to the Suits star before his birthday on September 15, when he turns 33.
+
+Meghan Markle and Prince Harry
+
+It is understood he quietly visited Botswana two weeks ago as patron of the Rhino Conservation Botswana charity.
+
+It's believed he also scouted locations to ensure his trip with Meghan would be perfect.
+
+Britain's Duke and Duchess of Cambridge.
+
+The royals are not unfamiliar with a romantic African proposal - Prince William popped the question to Kate Middleton on a 2010 holiday to Kenya.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rhino Conservation Botswana</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Markle's 36</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prince Harry</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain's Duke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kate Middleton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Meghan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Princes William</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Harry</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Duchess of Cambridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Meghan Markle</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>September 15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Botswana</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kenya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

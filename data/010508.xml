@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416527501174480</docid>
+  <date>02/08/2017</date>
+  <time>22:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/federal-politics/political-news/one-nations-qld-branch-broke-electoral-laws-report-20170802-gxo7sd.html</url>
+  <title>One Nation Qld branch broke electoral laws: report</title>
+  <content>
+One Nation's Queensland branch has breached the state's electoral laws by failing to keep proper records, the ABC reports.
+Breaches include sometimes failing to disclose spending, lodge returns on time, and notify party donors of their disclosure requirements, with the Electoral Commission of Queensland (ECQ) ordering the party to improve its systems.Photo: Tony McDonough
+The ABC report cites documents, obtained under freedom of information, in which party staffers tried to explain things to ECQ investigators.
+In March, the party's office manager wrote to the commission seeking more time to disclose donation details due to computer problems, the broadcaster said.
+When the party failed to meet the extended deadline, staffers blamed the closure of its office due to Cyclone Debbie in March, the ABC reported.
+AAP has contacted One Nation and the ECQ for comment.
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tony McDonough</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>One Nation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cyclone Debbie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commission of Queensland</name>
+    <count>1</count>
+    <score>1.7</score>
+  </sindex>
+  <sindex>
+    <name>Nation's Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nation Qld</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ECQ</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

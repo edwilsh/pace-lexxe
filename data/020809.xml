@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439080374761072</docid>
+  <date>06/08/2017</date>
+  <time>14:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/clouds-failed-to-deliver-decent-drop/news-story/cdc448701b4473a55a9a77d7c44bb832</url>
+  <title>Wet weekend hope dries up</title>
+  <content>
+A WEATHER system forecast to hit Townsville at the weekend failed to deliver much-needed rain to the region.
+The Bureau of Meteorology had predicted up to 20mm of rain in Townsville on Saturday, but forecaster David Grant said there was less than 5mm in the region. The heaviest rainfall on Saturday was at Paluma, where 15 to 20mm of rain fell.
+The bureau had forecast 45mm of rain on Sunday, but none had been recorded in the city late yesterday.
+Mr Grant yesterday said there was a chance of showers overnight, but that would disappear by today.
+"That weather system is expected to move offshore during the course of (today), and with that it will probably take much of the weather with it. We'll return to fine conditions," he said.
+The Ross River Dam was at 20 per cent capacity yesterday, down from 20.1 per cent Friday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>David Grant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Grant</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Paluma</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ross River Dam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411072892605357</docid>
+  <date>02/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/nbn-co-looks-to-raise-minimum-broadband-speeds-469919</url>
+  <title>NBN Co looks to raise minimum broadband speeds</title>
+  <content>
+NBN Co is looking at ways it can improve how users experience its network, with everything from "minimum [speed] assurance" to changes to the basic 12/1 Mbps wholesale product on the table.
+
+CEO Bill Morrow has been under pressure in recent weeks to turn perceptions of NBN service performance around.
+
+The negative perceptions relate to services that are slower in peak times than users' previous ADSL, and to the  when something goes wrong.
+
+NBN Co has ramped up pressure on ISPs to stop discounting retail prices so heavily and instead focus on delivering a better quality of service, principally by buying enough backhaul capacity to meet user needs.
+
+But Morrow told a parliamentary committee in Sydney yesterday that the network builder is also considering directly how it can give users a better experience of its broadband products.
+
+One of the options under consideration is to change or axe the basic 12/1 Mbps tier that Morrow says many customers are being sold in the first instance. One in three NBN customers has a 12/1 Mbps service.
+
+Morrow said NBN Co is weighing up whether the mere existence of the 12/1 Mbps service is contributing to the company's image woes, through its alleged misuse by ISPs.
+
+"The fact that we have a 12Mbps product means that's how [ISPs are] going to price the cheapest number [they] can put on [their NBN offering]," Morrow said.
+
+"Interestingly enough, the designers - before my time - have told me the 12Mbps product was never designed for broadband. It was designed for a voice-based product in case someone in a home says I don't want to surf the internet over the network, I just want a phone service.
+
+"Now it's suddenly being used as 'this is your high speed broadband NBN-enabled product' because it is cheaper than a 25 Mbps product - ISPs are only paying NBN Co $24 a month versus $27 to ratchet it up to a 25Mbps service.
+
+"Hence the question: should we have that 12Mbps product in the market at all, and this is part of the consideration that we have."
+
+Morrow, however, cautioned that it was "not a foregone conclusion" that the 12/1 Mbps tier product would be axed.
+
+"We have to be very careful about being too prescriptive to this retail market, because if we suddenly say that everyone is on a flat rate 50Mbps [for example] for those that can get it, we've taken away the ability for ISPs to customise their product that may meet individual needs.
+
+"Not everyone needs 50Mbps today so why would we force that on them when they'd rather pay a little bit less and get 25Mbps, as an example.
+
+"And there are some out there who might say they don't want any more than 12 Mbps, they were fine with [the average] 8-9 Mbps they had on ADSL, they'd just like to make sure in the busy time at night that it's a bona fide 12Mbps."
+
+Another option  was the creation of a "media streaming" NBN product that set a "minimum assurance" standard for the number of consecutive video streams a premises could run.
+
+Morrow provided more detail on that option yesterday. He said it came from discussions with ISPs on improving the way many people use the internet.
+
+"A little over 70 percent of the internet traffic is video streaming today, and that's expected by some analyst predictions to grow to over 80 percent by 2020," he said.
+
+"If you take that as probably the bulk of what people are using the internet for today, then video streaming becomes critical and it's more of a video streaming product and service level that I'm interested in, rather than how fast [the NBN connection] is going.
+
+"So should we restructure this whole pricing mechanism to say [ISPs] have to buy [bandwidth] in terms of two or three simultaneous standard definition video streams going into the house?"
+
+Morrow said there was still some debate over the bitrates needed to properly support popular streaming services.
+
+"Let's use an example of a standard definition 3Mbps per simultaneous channel so therefore if I want three [streams] coming into my house I should always at least have 9Mbps for that streaming," Morrow said.
+
+"And the product would therefore say - at least over NBN's portion of the network, and remember we're just a couple of links in a big long chain - that we would not drop you below that 9 or 10Mbps."
+
+Morrow said that minimum speed would be guaranteed "to the degree guarantees are offered".
+
+However, he said he didn't know what impact such a model would have on retail internet prices.
+
+"These are ideas that we're exploring. It's a process that takes months," Morrow said.
+
+Further, he indicated that the media streaming product idea may not gain enough support from the broader ISP base to progress to an actual service.
+
+"If the ISPs say we're not interested in that, this is one of many different models to explore but if they're not interested we're not going to spend any more time on it and we'll move onto something else," Morrow said.
+
+"They'll opine on it and then we'll make the final decision. But we're interested in something that works for them, that they buy a lot of, and that can serve the nation and community overall."
+
+Another uncertainty is whether NBN Co would be able to easily introduce such a change under its special access undertaking, or whether it would need to pursue an amendment through regulators, which could introduce delays.
+
+"It depends on the degree and scope of the change required," Morrow said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NBN</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>19</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ISP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN-enabled</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co $24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ADSL</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO Bill Morrow</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>12</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

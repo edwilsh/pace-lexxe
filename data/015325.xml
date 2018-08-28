@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424468895850324</docid>
+  <date>04/08/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/two-qantas-flights-return-to-sydney-after-engineering-issues/news-story/e371b8c260c74e365aa4d2757ae618bc</url>
+  <title>Flight dumping fuel off Sydney</title>
+  <content>
+TWO Qantas flights are returning to Sydney with "engineering issues".
+Seven News reports Qantas flight A380 QF7 was dumping fuel off the coast.
+It departed Sydney for Dallas/Fortworth about 1.40pm.
+There are also reports Qantas flight QF63, from Sydney to Johannesburg, has also returned to Sydney.
+The QF63 flight is safely back at the gate and the QF7 flight was dumping fuel for about 35 minutes. Reports suggest the QF7 flight is circling out in the Tasman.
+A Qantas customer is complaining on Twitter about another flight, QF23, which maintenance crews have been fixing for five hours. The issue with that aircraft is unknown.
+
+So what's happening . Been sitting at Sydney airport waiting for QF23 to be fixed for over 5 hours now
+
+A Qantas flight was forced to to land in June after it was dumping fuel at sea.
+A Melbourne woman on the Los Angeles-bound flight QF93, which diverted to Sydney said the crew made the decision to turn around.
+Jessica McCallum, 29, praised Qantas crew for their handling of the situation, after an emergency light came on in the cockpit of the A380 about an hour into the flight.
+News.com.au has contacted Qantas for comment.
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qantas</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jessica McCallum, 29</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles-bound</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas/Fortworth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF93</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF23</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tasman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

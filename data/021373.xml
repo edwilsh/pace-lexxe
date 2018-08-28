@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441919348174412</docid>
+  <date>07/08/2017</date>
+  <time>01:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/this-app-instantly-tells-you-if-you-should-dispute-a-traffic-fine/</url>
+  <title>This App Instantly Tells You If You Should Dispute A Traffic Fine</title>
+  <content>
+Dispute It is a free legal chat bot for motorists that has been designed to answer that age-old question: "is this fine worth challenging in court?" The app automatically compares the details of your case with scenarios where a review could be considered. It even provides sample wording and templates for your appeal and advice on what to do next.
+
+Our  receives more questions about speeding and traffic fines than any other topic. Usually, the crux of the matter centres on whether a penalty was justified and the likelihood of having it quashed in court. This is where Dispute It aims to help.
+
+Designed by a group of Australian coders fronted by Queenslander Scott Bradley, the app takes the details of your fine and assesses the likelihood of a successful appeal, based on each state's debt recovery office guidelines.
+
+If there is a scenario where a appeal may be considered, the app tell you everything you need to know. According to Scott, the app is capable of the following:
+
+identifying scenarios where a review may be considered
+
+suggesting what proof would need to be sent with the appeal
+
+providing sample wording & templates for your appeal
+
+giving advice on how to go about the appeal
+
+"Our chat bot clearly shows what scenarios [debt recovery officers] consider for review and what proof would have to be supplied with it," Bradley explained to Lifehacker. "All the robot lawyer does is give the same info but presents it in a question and answer format and also gives sample text to use with the dispute."
+
+The app is pretty straightforward to use: you simply click on the options that relate you your fine and the bot spits out the rest.
+
+Here's a sample response to my (fictional) speeding fine in NSW that was issued by a police officer and followed up by an enforcement order:
+
+As you have received an enforcement order at this stage your options are to dispute the fine in court or to pay and dispute it within 60 days of paying.
+
+You do not have to have a lawyer if you elect to go to court, however, it is not always easy to represent yourself and even simple cases can sometimes raise complex legal issues.
+
+Sometimes what you think is a defence is only an explanation, which means you are still guilty of the offence. Before you elect to go to court, you should get legal advice.
+
+If you go to court, the court can give you a higher fine. You may also have to pay a court costs levy, a victims support levy and the legal costs of the prosecutor.
+
+If you decide to pay but would still like assistance with disputing it start the chat process again but don't say you have received an enforcement order.
+
+Not bad for a free service, right? As with any automated bot service, it goes without saying that you should not rely on it as a substitute for professional legal advice. But as a starting point, it's pretty damn great.
+
+[]
+
+WATCH MORE: Travel Ideas
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Lifehacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Travel Ideas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bradley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queenslander Scott Bradley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dispute A Traffic Fine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>App Instantly Tells You</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dispute It</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

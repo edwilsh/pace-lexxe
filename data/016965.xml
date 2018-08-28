@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426461760711981</docid>
+  <date>04/08/2017</date>
+  <time>13:13</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/telecommunications/nbn--make-it-better-by-giving-service-providers-skin-in-the-game-20170802-gxo9ov</url>
+  <title>NBN - make it better by giving service providers skin in the game</title>
+  <content>
+by
+Ian Martin
+
+When Labor's heavyweights Kevin Rudd, Lindsay Tanner, Wayne Swan and Stephen Conroy announced the NBN in April 2009 they promised to invest up to $43 billion to build it over eight years. The NBN, they promised, would be "built and operated on a commercial basis" but still be affordable for "every person and business in Australia, no matter where they are located".
+There was something there for everyone, but even then it didn't add up.
+Then Communications Minister Stephen Conroy dismissed as "wild claims" concerns broadband prices might exceed $100 per month. "NBN prices," he said on April 30 that year, "cannot be structured without having careful regard to the prices people pay today for comparable services".
+Instead NBN's entry level NBN 12 megabits per second (Mbps) product was anchored, at $24 per month, to an equivalent wholesale product on Telstra's copper network. Switching up from 12 to 25 and 100Mbps would be encouraged with small price increments.
+
+Glenn Hunt
+
+However, low monthly access prices would only deliver initially 50-60 per cent of the revenue NBN needed to break even, even if everything else went perfectly to plan. Conroy's answer was that NBN would receive income through new "revenue-generating services" provided by the high-speed network. Competition between retail service providers (RSPs) using the NBN would drive "innovation and greater choice of different services and price points".
+
+As a wholesale-only carrier, NBN would share in that blue-sky revenue through a two-part wholesale tariff. A monthly access virtual circuit (AVC) charge would be set to reflect the speed tier provided and a connectivity virtual circuit (CVC) charge set to reflect the capacity required by RSPs. In 2012 NBN said: "The construct of charging for CVC capacity is the principal mechanism by which NBN Co can benefit from the expected future growth in broadband data usage."
+Of course, the pricing scheme has two major flaws. No.1, if that blue-sky demand for broadband data isn't there, or even if data volumes grow - as they have for many years - but there is a lack of willingness to pay more for those higher traffic volumes. If there's not enough market demand for broadband data, CVC revenue won't reach the 35 per cent revenue target.
+The second flaw is that NBN doesn't directly face end user demand. It's structurally separated and is not out in the market developing, promoting and selling the products needed to justify its investment.
+"CVC revenues will be heavily dependent upon competition through quality of service, which will act as a catalyst for access seekers to purchase sufficient CVC capacity to enable end-users to experience maximum actual speeds over the NBN," NBN said in 2010.
+
+Glenn Hunt
+
+How's that working out then?
+The RSPs, which do face end user demand, aren't showing a great desire to compete on capacity and service quality. What they are showing is a great desire to compete on price and that means they're selling lower tier NBN products and buying minimal CVC capacity.
+Let's be clear, technology is not the issue in slow speeds. Hybrid Fibre Co-Axial (HFC) and Fibre to the Node (FTTN) are well able to handle speeds of 50Mbps and 100Mbps or more. In some places the copper component of NBN, FTTN is old and slow but this is not an issue across the board and can be dealt with other than by an expensive upgrade to FTTH nationally.
+Broadly, there are three approaches to resolving the NBN capacity pricing issue. NBN is reviewing prices and is likely to adjust the structure, perhaps lowering the CVC and offsetting this higher AVC charges. It could change CVC pricing to a usage model rather than capacity.
+
+David Rowe
+
+But tinkering with prices won't make a great deal of difference to underlying demand and runs the risk of crystallising a write-down in value if it reduces revenue targets. The RSPs may prefer that, but it should be a last resort for taxpayers' investment.
+A better solution is to change the structure so that RSPs have some skin in the game. The economics of capacity ownership is transformative compared with monthly capacity rent. When you have your own capital at risk you're driven to do things better faster to generate a return. When carriers invest in network capacity they are driven to quickly increase utilisation and monetise their traffic in order to generate a return.
+The mobile network operators have shown how transformative capacity ownership is quickly filling mobile networks to generate returns, a lesson now learned by provider TPG.
+It's more than a little ironic that we are moving towards unlimited data plans on mobile devices while fixed broadband service providers are finding ways to constrain data usage on the NBN.
+
+Robert Peet
+
+Behaviour changes radically when you hold risk. NBN RSPs don't hold NBN capacity risk. Instead they know NBN holds the risk but being structurally separated lacks the ability to manage it, an issue known in economics as "hold up".
+There are several ways capacity plans might work for NBN. Fifteen-year capacity leases are common in telecommunications - but would mainly favour the larger RSPs. Smaller RSPs may prefer two-year or five-year commitments for more modest capacity products, either across separate NBN transmission links or a virtual capacity product across the whole transmission network.
+Capacity leases would also provide a benefit for the government as owner by bringing forward some cash value, much as it achieves in the sale of mobile spectrum licences. That's a lot better
+In the long term the solution requires a radical restructure of the NBN along the lines recommended by the 2014 Vertigan review of the NBN.That would mean network investment and capacity decisions reflect market demand. But as that would crystallise losses resulting from investment decisions dating back to 2009 it would be destabilising and is best left until a post-build review.
+
+Ian Martin is senior telecommunications analyst, Australia and New Zealand at New Street Research.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lindsay Tanner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wayne Swan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>23</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Ian Martin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vertigan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Street Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fibre Co-Axial</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ROBERT PEET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN RSPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TPG</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Communications Minister Stephen Conroy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTN</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>David Rowe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NBN.That</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fifteen-year</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Conroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AVC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenn Hunt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2009</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Conroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>8</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>7</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

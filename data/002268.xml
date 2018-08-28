@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400898114890173</docid>
+  <date>31/07/2017</date>
+  <time>10:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/amazon-is-creating-more-jobs-than-it-destroys--for-now-20170731-gxm04t</url>
+  <title>Amazon is creating more jobs than it destroys - for now</title>
+  <content>
+by
+Mark Vandevelde
+
+Jeff Bezos did not become the world's richest man by replacing workers with machines.
+Alone among technology pioneers, the Amazon founder - whose fortune briefly eclipsed Bill Gates' last week - has
+It is rarely good for workers when someone invents a button to make a wish come true. Elevator operators did not long outlast the 1920s, when building owners fitted lifts with automatic controls.
+Americans who have lost their retail jobs since 1994 must rue the year when
+
+Joseph Nair
+
+Yet the efficiencies of online retail lie in scant inventory and cheap property, not eliminating staff. To stand a chance of selling a $US400 Breville food processor somewhere in the US, Macy's has to stock it in hundreds of stores from Brooklyn to Santa Barbara, where it pays exorbitant rent in malls.
+
+Amazon will deliver the same kitchen tool to any address in America. But it stocks just one of them, according to its website, in a nondescript warehouse where rents are low and, if it is lucky, the local government pays a subsidy.
+Legions of pickers, packers and drivers have made livelihoods out of what, for customers of physical shops, are unrewarding chores.
+Official figures show that, compared with a decade ago, Americans now spend 13 fewer hours a year travelling to stores or browsing the shelves. Yet the carnage in local malls is easier to see than the distant industry taking life.
+Retail employment growth has stalled since 2015 in the US, where half a million department store jobs have been lost since the turn of the millennium.
+
+Jason Alden
+
+Amazon bears much of the blame. Half of all US households are now reckoned to have signed up for its $US99-a-year Prime service, which offers free delivery on millions of products.
+When they do, Wedbush Securities estimates they spend 10 per cent less in physical stores.
+The jobs created are harder to pinpoint. Amazon employs fewer than three times as many people in the US as Walmart did in 1985, when its founder Sam Walton was crowned America's richest person - despite having five times the inflation-adjusted revenue.
+But whereas Walmart ran most of its logistics in house, Amazon relies extensively on parcel carriers and agency workers; UPS alone has added 100,000 jobs in the past 16 years. Officials do not count these as retail jobs.
+
+But Michael Mandel, an economist at the Progressive Policy Institute in Washington, reckons that once warehouse workers are taken into account, new ecommerce jobs outnumber brick-and-mortar losses by 54,000 over the past year.
+That chimes with the experience of Ocado, a British online grocer. At its fulfilment centre in Andover, 70 miles west of London, battery-powered robots fetch crates of food, so workers can handle 180 or more items an hour. Nonetheless, Ocado employs 12,000 drivers, warehouse operatives and other staff to deliver perhaps £1.6bn worth of groceries, including the estimated revenues of a website the company runs for rival Wm Morrison.
+That is 76 staff for every £10m of retail sales, compared with just 36 to generate the same revenue at Aldi's UK stores.
+Logistics openings do not help jobless shop workers, who are often in the wrong place and not up to the physical demands. Still, Mr Mandel is probably right that ecommerce roles are more productive and better-paid than shop work, which can involve standing idle for hours.
+
+The new jobs may not last, even if fulfilment centres today are the opposite of Arthur Radebaugh's 1950s vision of a robot warehouse. One of his futuristic illustrations depicts a lone human masterminding a warehouse staffed by antlike automata.
+In reality, computers beat humans at planning; we need people for their motor skills.
+Amazon is trying to change that, developing a fleet of delivery drones that would put thousands of workers out of work. The company also offers an annual $US20,000 prize for the robot that does best at fiddly tasks such as picking up a golf ball.
+What such a technological leap would mean for employment is unguessable. But progress has been slow.
+
+Last year's winners despaired of emulating a human hand. Instead, they strapped a hose to a robot arm. A computer program manoeuvred it into position and then switched on a vacuum cleaner, trying to replace human grip with a sucker's grasp. mark.vandevelde@ft.com
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jason Alden</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wedbush Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arthur Radebaugh's 1950</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Vandevelde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aldi's UK</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>BROOKLYN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andover</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mandel</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wm Morrison</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US$20,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Jeff Bezos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Walmart</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joseph Nair</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Walton</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Santa Barbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Progressive Policy Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US400 Breville</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bill Gates</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Michael Mandel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431641491338174</docid>
+  <date>05/08/2017</date>
+  <time>09:19</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/man-in-critical-condition-after-firefighters-rescued-him-from-seaton-unit/news-story/63059c85fc4fdeecab101deb3aad35f3</url>
+  <title>Man critical after being pulled from burning home</title>
+  <content>
+A MAN is in a critical condition after he was dragged from a burning home in Adelaide's northwest.
+Firefighters were dispatched to the unit on Russ Ave in Seaton just after 5.30pm on Saturday.
+When they arrived, they dragged an unconscious man from the home.
+Paramedics worked on the man in his 60s outside the property for around 20 minutes before transporting him to the Royal Adelaide Hospital.
+He is in a critical condition and remains unresponsive, SA Ambulance say.
+The house fire was quickly extinguished by firefighters.
+MORE TO COME
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA Ambulance</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Royal Adelaide Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russ Ave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seaton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

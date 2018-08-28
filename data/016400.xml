@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425937774691332</docid>
+  <date>04/08/2017</date>
+  <time>11:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/indian-police-hunt-mystery-hair-thief/news-story/8a729b0eb8639a39fe750b251d23820d</url>
+  <title>Indian police hunt mystery hair thief</title>
+  <content>
+Police are investigating a mysterious raft of attacks in which Indian women say they are waking to find someone has chopped off their hair.
+A top official in northern Uttar Pradesh state says police have advised people not to believe or spread rumours following the death of a 65-year-old woman who was beaten by a mob on suspicion she was a witch responsible for the hair theft.
+Anand Kumar said on Friday village committees had been ordered to quash rumours about ghosts or witches cutting off women's braids.
+Similar claims have come from neighbouring Haryana and Delhi suburbs, police said.
+They have spread fear the hair could be used to cast spells.
+In the state capital, Lucknow, police said a rumour began last week about someone cutting off the hair of women.
+"Within days it has spread to areas around Delhi and western Uttar Pradesh. Now almost every day, police are getting complaints from women about this unknown ghost," said Manish Rakesh, a police officer.
+Some psychiatrists believe the stories might be due to mass hysteria or hallucination.
+"Ghosts do not cut the braids of women. This is mischief, nothing else," said Rakesh Gaur, a psychiatrist at Jawaharlal Nehru Medical College in Agra.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anand Kumar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Haryana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Delhi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Manish Rakesh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lucknow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rakesh Gaur</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Uttar Pradesh</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jawaharlal Nehru Medical College</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Agra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

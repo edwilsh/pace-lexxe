@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442851356089572</docid>
+  <date>07/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/14/43/wave-likely-caused-wa-men-s-death-inquest</url>
+  <title>Wave likely caused WA men's death: inquest</title>
+  <content>
+Two experienced fisherman who were never heard from again after going missing off the WA coast were probably hit by a large wave that sank their boat, an inquest has heard.
+The coroner is investigating the deaths of Rockingham men Nigel Kitchen, 50, and 57-year-old Andrew Hinds, who failed to return from a fishing trip off Coral Bay last year.
+The key evidence of the men's fate was the discovery by a diver two days after they were last heard from of a human arm that was confirmed to be Mr Kitchen's and had been bitten off by sharks.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nigel Kitchen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kitchen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Hinds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockingham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coral Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

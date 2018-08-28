@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433746025333609</docid>
+  <date>05/08/2017</date>
+  <time>17:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/2928575/thirroul-reserve-to-become-pop-up-skate-park/?cs=4110</url>
+  <title>Thirroul reserve to become pop-up skate park</title>
+  <content>
+Local crew: James Brown (left), 8, and Sam Beadman, 6, lead a group lobbying for a Thirroul skate park. Picture: KIRK GILMOUR
+Skateboards are set to take over Thirroul Beach Reserve on Saturday as dozens of keen boardriders show off their moves at a pop-up skate park.
+
+The park, organised by the Northern Illawarra Skateboarders Alliance, is a free event aimed at raising awareness of the need for a permanent skate park in the area.
+The skate park will run from 10am to 4pm and will include a DJ, a sausage sizzle and a skate clinic for beginners.
+</content>
+  <sindexList>
+  <sindex>
+    <name>DJ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Illawarra Skateboarders Alliance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Beadman, 6</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thirroul</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thirroul Beach Reserve</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>KIRK GILMOUR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Brown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

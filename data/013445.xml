@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420667849724929</docid>
+  <date>03/08/2017</date>
+  <time>14:44</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/nvidia-stock-price-investing-boils-down-to-one-question-2017-8</url>
+  <title>Investing in Nvidia all boils down to one question</title>
+  <content>
+Nvidia is undoubtedly one of the hottest stocks this year.
+
+Its shares have risen 61.15%, which is meteoric compared to the 9.73% growth of the S&P 500. Nvidia has been , and it has carved itself out a major chunk of the self-driving, data center and AI world. But if you are a small investor thinking about investing in the company, what do you need to know?
+
+Mitch Steves, an analyst at RBC, says it all boils down to one question.
+
+"You have to be comfortable around understanding whether they will continue to have the best GPU," he said. "If the answer is yes, then they are going to be fine. If the answer is no, then they are going to have trouble down the road."
+
+Nvidia does one thing really well. The company builds graphics processing units or GPUs. GPUs began their life as a way to increase the speed and quality of video game graphics. Rendering the large number of shapes required for today's video games requires lots of processing power which GPUs are good at handling. Solving multiple problems at once in the fashion of GPUs has been called "parallel processing."
+
+and powers things like artificial intelligence. Nvidia is well placed to be a major player in the new business, according to Steves.
+
+"It's practically impossible to win in tech if you don't have the best product," he said. "If you're pushing out the bleeding edge of tech, you have to have the best product because otherwise, you are otherwise going to get crushed."
+
+At a recent GPU conference, Nvidia announced its new "Volta" architecture. The newest, Volta generation of GPU claims 12 times faster processing than its previous "Pascal" architecture.
+
+The Volta product is initially built to be installed in data centres. Artificial intelligence research is primarily done on large data centres, and Nvidia's chips are the heart and soul of those data centres, according to Steves.
+
+Artificial intelligence is the technology powering advances in self-driving cars, personal assistants, image recognition and so much more. Faster chips can speed up research which brings AI advances to market faster.
+
+Steves said this new Volta technology is the next big thing not only for Nvidia, but for the artificial intelligence community as a whole. "The Volta is clearly just another step function upward, so that's [the] reason why when they announced that product, the stock moved up $US20," Steves said.
+
+When asked why he's bullish on Nvidia, Steves said: "If it's Intel, Nvidia and AMD and you ask me to chose one, it's going to be Nvidia by a country mile. Essentially, their product is the best."
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>GPUs</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Steve</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nvidia</name>
+    <count>11</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pascal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VoLTE</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPU</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitch Steves</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$20</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410342748152760</docid>
+  <date>01/08/2017</date>
+  <time>22:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/business/markets/apple-google-drop-risky-trading-apps-after-asic-intervention-20170801-gxng5d.html</url>
+  <title>Apple, Google drop risky trading apps after ASIC intervention</title>
+  <content>
+Apple and Google have removed over 330 so-called binary trading applications from their online stores after intervention by the Australian Securities & Investments Commission, according to an ASIC statement on Tuesday.
+The securities regulator said it made the request to Apple and Google after numerous cases of fraud involving unlicensed operators of the apps, which encourage consumers to make bets on whether instruments like shares or currencies will rise or fall.
+While some are legitimate operations, there has been an explosion in unlicensed products operating across borders and beyond the reach of regulators in recent years.
+Some of the apps "make outrageous claims" said Greg Yanco, head of market integrity at ASIC. "There is an issue globally with these products.""
+"Earn up to 90 per cent in less than an hour, in fact you can profit quickly as 60 seconds and profit as much as 620 per cent via one trade", is what one of those apps falsely promised.
+An Australia-based spokeswoman for Apple pointed to its recently updated developer guidelines, which explicitly prohibit all new apps that facilitate binary options trading, but declined to comment further on its discussions with the Australian authorities.
+
+"We remove applications that violate our policies. We don't comment on individual applications," said an Australia-based spokesman for Google.
+ASIC cited cases where consumers are unable to withdraw cash from their accounts or make winning trades 9 times out of 10 in the demonstration app, before losing everything once they switch to the live product.
+
+You will now receive updates from
+
+Business AM Newsletter
+
+Business AM Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+It said Apple has removed the apps from their online stores globally, though it didn't specify if Google's removal applies to just Australia or to its app stores around the world.
+Of the 330 apps that have now been removed, 80 per cent had no warnings about the risks inherent in trading, ASIC said.
+"This is a timely reminder for investors to remain vigilant and not fall for flashy advertising or hard selling", said ASIC Commissioner Cathie Armour.
+Bloomberg 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Yanco</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia-based</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASIC Commissioner Cathie Armour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>5</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

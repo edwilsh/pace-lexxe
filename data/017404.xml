@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428381611127724</docid>
+  <date>04/08/2017</date>
+  <time>20:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/venezuelas-new-legislative-body-opens/news-story/5bd32c02eb82701641d12e33dda38455</url>
+  <title>Venezuela's new legislative body opens</title>
+  <content>
+Venezuela has inaugurated a new legislative superbody that is expected to rewrite the constitution and give vast new powers to the ruling Socialist Party, defying worldwide condemnation.
+The 545-member assembly unanimously elected well-known allies of President Nicolas Maduro to its leadership in a show of unity, signalling that the socialists have put aside differences to focus on consolidating the all-powerful body.
+Former foreign minister Delcy Rodriguez, a close Maduro ally, was elected to the presidency while former vice president Aristobulo Isturiz will serve as vice president.
+The leadership notably excludes Socialist Party No. 2 Diosdado Cabello, a long-time rival for power to Maduro, who himself put Rodriguez's name forward.
+"There is no humanitarian crisis here, what we have is love, what we have is a crisis of the right-wing fascists," said Rodriguez, dressed in a bright red pantsuit, in an opening speech that paid homage to late socialist leader Hugo Chavez.
+"The people arrived with fighting spirit, on their feet."
+The assembly will function in the same downtown Caracas palace complex as the existing opposition-run congress, which could potentially be dissolved by the new all-powerful body.
+The two bodies are expected to hold sessions in parallel, separated by an ornate cobblestone courtyard.
+The largely ceremonial installation of the constituent assembly offered few hints as what its first moves would be.
+Leaders including Maduro and Cabello have in recent days suggested it would quickly move against Chief Prosecutor Luisa Ortega, who broke with the government this year and described the assembly election as a fraud.
+Governments ranging from Latin American neighbours to the US and European Union have condemned the assembly, with the Vatican making a last-minute plea for authorities to suspend it.
+Brazil on Friday recommended that Venezuela be suspended from trade bloc Mercosur until it returns to democracy.
+Protests against the inauguration of the assembly by the opposition were relatively modest.
+Opposition leader Antonio Ledezma, who had encouraged protests against the constituent assembly, on Friday morning was returned to house arrest after being briefly put back in prison.
+Ledezma and fellow opposition figure Leopoldo Lopez had been taken to prison from house arrest early on Tuesday.
+It was not immediately evident if Lopez would also be returned to his home.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hugo Chavez</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Socialist Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Delcy Rodriguez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Diosdado Cabello</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Aristobulo Isturiz</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Antonio Ledezma</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brazil</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Vatican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ledezma</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cabello</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Latin American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maduro</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lopez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Socialist Party No</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caracas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rodriguez</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mercosur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chief Prosecutor Luisa Ortega</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leopoldo Lopez</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

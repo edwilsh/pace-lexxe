@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408199559430048</docid>
+  <date>01/08/2017</date>
+  <time>14:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/federal-politics/political-news/better-under-rudd-household-finances-in-reverse-as-job-prospects-worsen-20170801-gxn0yb.html</url>
+  <title>HILDA. Household finances go backwards as full-time job prospects worsen </title>
+  <content>
+The typical Australian family takes home less today than it did in 2009, when Kevin Rudd was prime minister.
+The shocking finding, in the latest latest wave of the Household Income and Labour Dynamics survey, helps explain a growing political divide about inequality, even though the survey itself provides mixed evidence on whether things are getting worse.
+Unique among Australian surveys, HILDA has been conducted every year since 2001 by returning to the same households and tracking changes in their lives.
+Funded by the Department of Social Services and managed by the Melbourne Institute, it is able to reveal what the census and other mass surveys cannot: how the life circumstances of individuals change over time.
+More than 7000 households have been surveyed each year. Another 2000 have been added in recent years, bringing the total number of people surveyed up to 17,300, including 5000 children.
+The survey finds that real household disposable income (net of tax) peaked just before the global financial crisis at $77,411.
+
+It fell sharply in 2010 and 2011 to $73,531 and then climbed back to $77,143 before sliding in 2014 and 2015 to $76,225.
+
+You will now receive updates from
+
+Breaking News Alert
+
+Breaking News Alert
+
+Get the latest news and updates emailed straight to your inbox.
+
+The figures are medians, meaning half of Australia's households would have earned more than $76,225 and half less.
+A measure of inequality, the Gini coefficient, shows little change in household inequality over the entire 15 years of the survey.
+But when only earnings from paid work are examined on an individual basis, the survey finds inequality has worsened since 2008, by about 7 per cent for men and 9 per cent for women.
+
+Over 15 years the typical inflation-adjusted household income has climbed from $58,956 to $76,225.
+Sydney experienced the weakest growth of any region, with the typical household income adjusted for size climbing just $5182.
+The typical Melbourne income climbed $9785. Perth household incomes grew $19,276.
+The relatively weak performance of Sydney has changed the league table, with Perth now the highest-earning Australian state capital, with a typical real household income of $56,073, up 52 per cent after adjusting for inflation.
+Brisbane is in second place on $49,210, followed by Melbourne on $48,494.
+Sydney, which had the highest household income of any state capital back in 2001, is in fourth place just ahead of Adelaide at $44,779.
+The percentage of Australians in poverty has fallen since 2001, whether measured as the proportion of households earning less than 50 per cent of the typical household adjusted for size, or whether measured as the proportion of households able to afford a limited basket of goods.
+Poverty is highest among older Australians, especially women, although the report says the measure will overstate poverty where elderly Australians own their own homes and don't have to pay rent as many do.
+Poverty is lowest among couples with dependant children.
+Victoria has the most extreme geographical divide, with Melbourne having one of Australia's lowest poverty rates at 7.6 per cent while other Victorian towns and cities have 16.5 per cent.
+In NSW the rates in Sydney and other towns and cities are much the same at 10.5 and 11.6 per cent.
+South Australian regional towns and cities are the most disadvantaged in Australia with a poverty rate of 21.1 per cent, compared with 10.1 per cent in Adelaide.
+Most people in poverty improve their situation in one to two years.
+Far fewer Australians live in households that receive welfare payments than in 2001: 32.2 per cent of workforce-aged Australians, down from 38.1 per cent, and most get off it fairly quickly.
+The experience of those surveyed suggests that university education is not the ticket to full-time employment it used to be.
+Around 86 per cent of those who graduated between 2001 and 2005 were in full-time jobs five years later, compared with just 75 per cent of those who graduated between 2010 and 2011.
+They were more likely to be employed part-time or doing further study.
+The decline in full-time employment for men who had only completed high school was even worse, from 81 per cent to 32.6 per cent.
+</content>
+  <sindexList>
+  <sindex>
+    <name>HILDA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Labour Dynamics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Household Income</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Alert</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Social</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gini</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

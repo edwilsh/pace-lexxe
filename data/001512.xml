@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399738473700749</docid>
+  <date>31/07/2017</date>
+  <time>05:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/australian-mining-stocks-are-storming-ahead-as-iron-ore-futures-go-ballistic-2017-7</url>
+  <title>Australian mining stocks are storming ahead as iron ore futures go ballistic</title>
+  <content>
+Australian mining companies have kicked off the week in style, with the ASX200 resources index up by 2.3% in afternoon trade.
+
+While the rest of the index has also pushed higher, miners are setting the pace and its most likely due to the price action on China's Dalian Commodotieis Exchange (DCE).
+
+In the midday trading session between 10-2 on the DCE, iron ore futures rocketed 8% higher. That's as high as prices can go in intra-day trade before the DCE enforces a "limit-up" restriction.
+
+As a pure-play iron ore miner, Fortescue has been the best placed of the big miners to benefit from iron ore's rapid ascent. A short time ago FMG shares were up by 5.9%%.
+
+Rio Tinto and BHP have also posted strong gains for the session, a short time ago up by 3.18% and 2.68% respectively.
+
+With gold prices benefiting from a weaker US dollar, gold miner Newcrest Mining has also rallied by around 2.3%.
+
+The DCE reopened at 3pm AEST and will operate until 5pm, before daily spot prices for iron ore are released later this evening.
+
+A short time ago, iron ore futures remained "limit-up" suggesting that spot prices are poised to rise strongly.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>China's Dalian Commodotieis Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DCE</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Newcrest Mining</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>FMG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

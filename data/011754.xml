@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418155293805844</docid>
+  <date>03/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/commonwealth-bank-accused-of-breaching-money-laundering-terrorism-financing-laws/news-story/80d6a9c6424ee37aeb39d5e5921a5773</url>
+  <title>CBA accused of breaching money laundering laws</title>
+  <content>
+AUSTRALIA'S biggest bank, the Commonwealth Bank, has been accused of failing to comply with anti-money laundering and counter terrorism financing laws.
+The federal government's financial intelligence unit Austrac on Thursday launched civil penalty proceedings in the Federal Court, accusing the lender of over 53,700 contraventions of law, and contravention carries a maximum penalty of $18 million.
+Among Austrac's allegations are claims CBA failed to assess the money laundering and terrorism financing risk of automated cash deposit machines, and failed to meet its requirements related to monitoring transactions.
+The bank's "conduct in this matter has exposed the Australian community to serious and ongoing financial crime," Austrac said in the court filing.
+Austrac alleges the lender failed to report suspicious matters either on time or at all involving transactions totalling more than $77 million. It says the lender didn't monitor its customers to mitigate the risk even after being made aware of suspected money laundering.
+CBA said it had fully co-operated with Austrac's requests and had been in discussions with the unit for "an extended period".
+"Over the same period we have worked to continuously improve our compliance and have kept Austrac abreast of those efforts, which will continue," the big four lender said.
+"We take our regulatory obligations extremely seriously and we are one of the largest reporters to Austrac. On an annual basis we report over four million transactions to Austrac in an effort to identify and combat any suspicious activity as quickly and efficiently as we can."
+CBA said it had invested more than $230 million in its anti-money laundering compliance and reporting processes and systems.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>8</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

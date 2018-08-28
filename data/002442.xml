@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401194467639116</docid>
+  <date>31/07/2017</date>
+  <time>11:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/world/fouryearold-boy-fatally-shoots-himself-with-gun-found-inside-home-in-us/news-story/ca0814a25b39343f7fb91f1e062d99b6</url>
+  <title>Boy shoots himself with gun found in home</title>
+  <content>
+POLICE in the US say a four-year-old child has died after shooting himself with a gun he found in his house.
+The shooting happened about 5.45pm local time in Tampa, Florida.
+In a news release, police said Ashton Gooding found the weapon and discharged it. He was severely injured when police arrived and died shortly after arriving at Tampa General Hospital.
+The state attorney's office is reviewing the case to determine whether charges should be brought.
+No further details were immediately available.
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Florida</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashton Gooding</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tampa General Hospital</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Tampa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399257437357469</docid>
+  <date>31/07/2017</date>
+  <time>03:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/web/nbn/consumers-the-losers-in-the-nbn-blame-game-20170730-gxlwit</url>
+  <title>Consumers the losers in the NBN blame game</title>
+  <content>
+by
+Rod Tucker
+
+NBN is rapidly coming to the realisation that it has a PR issue on its hands.
+Many NBN retail customers are complaining about the quality of their service, and what is particularly frustrating to them is that it is not clear who to blame.
+Do they blame their, or is it the fault of the ?
+The irony of this situation is that had the Rudd government's original fibre-to-the-premises (FTTP) network been rolled out as planned, the blame game we are now seeing between the RSPs and NBN would not be happening and the debate over CVC charges would be a non-issue.
+
+NBN has attempted to address the reported shortcomings in speeds achievable on the FTTN network by arguing that retail customers should question RSPs about details of the service they can expect to receive, and then choose an RSP that can provide the level of service that they want.
+
+But how can the average retail customer be expected to know what questions to ask?
+A commitment by NBN late last week to improve public education should go some way to resolving this issue.
+In an attempt to ease the growing PR disaster around underperforming FTTN services,  and has signalled the possibility of enforcing minimum service standards on RSPs for various services provided to retail customers. 
+Who is at fault?
+
+It is not clear how tweaking the wholesale pricing model will resolve the issue of who is to blame. And while few details have been released by NBN about how service standards could be monitored and enforced, great caution needs to be exercised about such a move.
+It could cause many more problems than it solves, and it would be a substantial mission creep for NBN to be intervening between RSPs and customers over service standards.
+NBN would not be facing these problems if it was rolling out a predominantly FTTP network.
+This is because FTTP provides all of the bandwidth that it promises, any shortfall in bandwidth seen by the customer is immediately identifiable as the RSP's fault. Consequently, good old-fashioned retail competition forces underperforming RSPs out of the marketplace.
+
+This concept of an active and competitive retail market place was built into the planning of Labor's original FTTP network.
+Driving competition
+
+In those original plans, it was correctly assumed that a competitive retail marketplace would resolve bandwidth shortfall issues, and customers would churn to those RSPs with good reputations for delivering the bandwidth they promise.
+But unfortunately NBN is rolling out a slower-speed fibre-to-the-node (FTTN) network. And in this FTTN network, it is not clear whether shortcomings in bandwidth are due to the RSP or the FTTN connection.
+
+Unfortunately, the performance of FTTN depends on a number of factors, including the distance between the node and the customer, the quality of the copper and rainwater in cables.
+These problems are exacerbated because NBN is not publicly releasing information about the bandwidth that individual customers can expect to obtain on their FTTN connection, so customers are further restricted in their ability figure out who is at fault if they are not receiving the bandwidth they expect.
+The net result is that the competitive retail market place, as envisaged by the original architects of the NBN has failed to materialise.
+Instead, some RSPs are skimping on CVC in order to minimise costs and then hiding behind supposedly poor performance of the FTTN network, whether or not performance of the FTTN network is an issue in individual cases.
+
+NBN needs to find a way to invigorate real retail competition. This is more important than tweaking the CVC charges.
+Rod Tucker is a Melbourne Laureate Emeritus Professor at the University of Melbourne. He was formerly, director of the Institute for a Broadband-Enabled Society
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PR</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>13</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Broadband-Enabled Society</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rod Tucker</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSP</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FTTP</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTN</name>
+    <count>9</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Laureate Emeritus Professor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rudd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>7</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

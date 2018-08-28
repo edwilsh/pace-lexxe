@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422321412166501</docid>
+  <date>03/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/symantec-sells-tls-cert-business-to-digicert-470089</url>
+  <title>Symantec sells TLS cert business to DigiCert</title>
+  <content>
+Symantec has sold its troubled digital credentials business to private equity-backed firm DigiCert for US$950 million (A$1.2 billion) in cash.
+
+The deal means Symantec website security and private key infrastructure subsidiaries such as Thawte, RapidSSL, Verisign and Geotrust - which have around  of the transport layer certificate issuance market - will be merged with DigiCert, a relative minnow with just 2.2 percent .
+
+Symantec will hold a 30 percent stake in the merged business. The deal has been unanimously approved by the security vendor's board, and is expected to be complete early next year.
+
+DigiCert has been backed by private equity fim Thomas Bravo since 2015. The US-based company will grow its staff to 1000 with the acquisition of Symantec's TLS business.
+
+Symantec has been involved in a long-running  with Google and other providers over its sloppy TLS certificate issuance practices.
+
+The security vendor was accused of issuing thousands of fake certificates which could have been used to impersonate high-profile websites such as Google properties.
+
+It resulted in Symantec-issued certificates being distrusted in Google's Chrome, the world's most popular web browser,
+
+Symantec chief executive Greg Clark made no reference to the spat with Google, but said the sale of the TLS business would sharpen the security vendor's focus on the enterprise and cloud.
+
+"We carefully examined our options to ensure our customers would have a world-class experience with a company that offers a modern website PKI platform and is poised to lead the next generation of website security innovation," he said in a statement.
+
+"I'm thrilled that our customers will benefit from a seamless transition to DigiCert, a company that is solely focused on delivering leading identity and encryption solutions. Symantec is deeply committed to the success of this transition for our customers."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Symantec</name>
+    <count>7</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Bravo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>TLS</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>GeoTrust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PKI</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>DigiCert</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Symantec TLS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$950</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RapidSSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VeriSign</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's Chrome</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thawte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Symantec-issued</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

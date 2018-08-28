@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412150929412580</docid>
+  <date>02/08/2017</date>
+  <time>05:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/child-hit-by-car-at-front-of-coast-school/3207975/</url>
+  <title>Child hit by car at front of Coast school</title>
+  <content>
+BREAKING: A CHILD has been taken to hospital after being hit by a car while leaving school.
+
+The 10-year-old boy was struck out the front of Buddina State School about 3pm this afternoon and was taken to hospital with minor injuries.
+
+Two ambulance crews were on scene to transport the boy to Sunshine Coast University Hospital.
+
+No details are available about the driver at this stage.
+
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Buddina State School</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast University Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

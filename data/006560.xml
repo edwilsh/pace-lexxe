@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409479459709776</docid>
+  <date>01/08/2017</date>
+  <time>19:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/trump-jrs-statement-was-true-wh/news-story/e46f9e1f8f45f9c3cb995ddb4aee1f08</url>
+  <title>Trump Jr's statement was 'true'- WH</title>
+  <content>
+The White House says US President Donald Trump had a role in a statement in which his son denied a meeting with a Russian lawyer was related to the 2016 presidential campaign, but a spokeswoman insists the statement is true.
+"He certainly didn't dictate (the statement)," said White House Press Secretary Sarah Sanders on Tuesday, "but ... he weighed in, offered suggestion like any father would do."
+"The statement that was issued was true and there were no inaccuracies in the statement," Sanders said, even though emails later released by Donald Trump Jr. showed that the subject of the meeting was to be possible damaging information about Trump's rival for the presidency, Democrat Hillary Clinton.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>WH</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democrat Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>White House Press Secretary Sarah Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump Jr</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

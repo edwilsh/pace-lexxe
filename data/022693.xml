@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442636607722023</docid>
+  <date>07/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Tech Guide</source>
+  <url>http://www.techguide.com.au/news/transit-information-now-available-australian-cities-apple-maps/</url>
+  <title>Transit information now available for more Australian cities on Apple Maps - Tech Guide</title>
+  <content>
+Related Articles
+
+Apple has expanded the transit information for Apple Maps to now include Brisbane and Perth to help commuters on their journey with the latest information about public transport.
+
+Transit data is already available for Sydney and Melbourne as well as other major cities arounds the world.
+
+The feature is helpful not only for commuters but also tourists who want to find their way around the city they're visiting.
+
+Australian cities Brisbane and Perth are now part of Apple Maps Transit directions.
+
+Users can view transit specific maps and view public transport options so you know which bus or train to catch.
+
+Users will also be able to see train station entrances and exits on Apple Maps to make the journey even easier to follow.
+
+Apple Maps with Transit data is available for more than 300 cities around the world.
+
+Related Posts
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Apple Maps Transit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Maps</name>
+    <count>4</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Tech Guide</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

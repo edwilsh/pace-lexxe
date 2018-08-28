@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425933479723956</docid>
+  <date>04/08/2017</date>
+  <time>11:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/rwandans-vote-kagame-expected-to-win/news-story/a632c9152b42f27eae09907244f78d14</url>
+  <title>Rwandans vote, Kagame expected to win</title>
+  <content>
+Rwandan voters have queued in long lines to cast their ballots in a presidential election that incumbent President Paul Kagame is tipped to win by a landslide after 17 years in power.
+Kagame has won international plaudits for presiding over a peaceful and rapid economic recovery in the tiny central African nation since the 1994 genocide, when an estimated 800,000 people Tutsis and moderate Hutus were killed.
+But he has also faced mounting censure for what critics and rights groups say are widespread human rights abuses, a muzzling of independent media and suppression of political opposition.
+Kagame, a commander who led Tutsi rebel forces into Rwanda to end the 1994 genocide, banned the use of tribal terms after becoming president.
+Kagame's main opponent, Frank Habineza, voted early on Friday at Kimoronko, a polling station in Kigali.
+He told reporters his campaign had been hobbled because it could not compete with the machinery of the state.
+If elected, Habineza has promised to set up a tribunal to retry dissidents whose convictions by Rwandan courts have been criticised as politically motivated.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kagame</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Rwanda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kimoronko</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Paul Kagame</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Habineza</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hutu</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Frank Habineza</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rwandans</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tutsi</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kigali</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

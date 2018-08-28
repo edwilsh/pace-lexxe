@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417940545437616</docid>
+  <date>03/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/14/01/vic-accused-wanted-witness-killed-court</url>
+  <title>Vic accused wanted witness killed: court</title>
+  <content>
+Accused killer Christopher Lavery once asked an acquaintance if he knew anyone who could get a witness "knocked", a Melbourne court has been told.
+Lavery, 31, is standing trial for the March 2008 murder of James Russouw, whose body was found stabbed to death and on fire in his Jeep beside a suburban sports oval.
+Witness B, who cannot be identified for legal reasons, told the Supreme Court of Victoria on Thursday that he "changed the subject right away" when Lavery asked him if he knew anyone because he was "probably scared".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lavery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2008</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>James Russouw</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Christopher Lavery</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Jeep</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lavery, 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court of Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

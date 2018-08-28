@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416269803132039</docid>
+  <date>02/08/2017</date>
+  <time>21:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/roadside-reserves-receive-funding/3208155/</url>
+  <title>Roadside reserves receive funding</title>
+  <content>
+PROJECTS to protect and manage roadside reserves have been granted funding by the NSW Environmental Trust.
+Local Government NSW (LGNSW) announced 21 council projects will receive grants including the Coffs Harbour City Council who will be given $50,000.
+Roads the strategy will focus on in the Coffs Harbour LGA are Solitary Islands Way, Hogbin Drive and Bucca Road.
+The programs are designed to protect significant biodiversity, connect vegetation across the landscape, provide valuable wildlife habitats and manage roadside reserves in the local area.
+LGNSW president councillor Keith Rhoades said the project was an example of local government streamlining the management of roadside environment areas across council areas to deliver real environmental benefits.
+"Roadside reserves conserve habitat and prevent erosion as well as having an aesthetic and ecological value."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bucca Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour City Council</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hogbin Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Government NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LGNSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Environmental Trust</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Keith Rhoades</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour LGA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Solitary Islands Way</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

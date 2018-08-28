@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416609105554376</docid>
+  <date>02/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/08/48/adelaide-shop-damaged-by-suspicious-fire</url>
+  <title>Adelaide shop damaged by suspicious fire</title>
+  <content>
+A shop has been badly damaged in a suspicious fire north of Adelaide's CBD.
+Emergency services were called to the Enfield shop about 2am on Thursday and quick extinguished the blaze, however the property was significantly damaged.
+Police are treating the fire as suspicious after observing signs of forced entry and evidence of an accelerant being used.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide CBD</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

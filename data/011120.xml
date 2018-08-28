@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417124501639152</docid>
+  <date>03/08/2017</date>
+  <time>00:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/markets/australian-sharemarket-ignores-us-lead-opens-lower/news-story/30eee8a23e48da80aced9f903e090d83</url>
+  <title>ASX ignores US, opens lower</title>
+  <content>
+Australian shares fell sharply after trade opened, ignoring Wall Street's lead where the Dow closed above 22,000 for the first time.
+At 10.15a, (AEST), the benchmark S & P/ASX200 index was down 35.5 points, or 0.62 per cent, at 5,708.7, while the broader All Ordinaries index was down 33.3 points, or 0.57 per cent, at 5,761.2.
+In futures trading, the SPI200 futures contract was down 37 points, or 0.65 per cent, at 5,644 points.
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>All Ordinaries</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SPI200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

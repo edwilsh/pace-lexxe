@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398913839968936</docid>
+  <date>31/07/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/three-plead-guilty-to-sydney-terror-plot/news-story/77bde8c34126744914c8f5355198fc8d</url>
+  <title>Three plead guilty to Sydney terror plot</title>
+  <content>
+Tom RabeAustralian Associated Press
+
+Share
+
+Two men and a teenager have pleaded guilty to plotting a terrorist attack on government buildings in Sydney.
+Jibryl Almaouie, 23, and Sulayman Khalid, 22, on Monday at a Supreme Court matter heard in Parramatta pleaded guilty to planning an act of terror in late 2014.
+Another person under 18, who cannot be named, also pleaded guilty to the plan, which centred around carrying out attacks on government buildings, including police headquarters, with firearms.
+Almaouie, Khalid and the teen are among six involved in the plot - with the other three having pleaded guilty earlier this year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jibryl Almaouie, 23</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom RabeAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Almaouie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Khalid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sulayman Khalid, 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

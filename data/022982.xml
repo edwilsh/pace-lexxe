@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442679557395600</docid>
+  <date>07/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/14/04/appeal-to-find-missing-victorian-woman</url>
+  <title>Appeal to find missing Victorian woman</title>
+  <content>
+Police have appealed for information into the whereabouts of a missing Victorian woman after her backpack was found on a Gold Coast beach.
+Gail Elizabeth Oliver's bag was found by a member of the public on Kurrawa Beach about 6.15am on Monday.
+A search of the beach and water failed to locate the 40-year-old, who has been reported missing in her home state.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gail Elizabeth Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kurrawa Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424254147482116</docid>
+  <date>04/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/14/28/vic-debt-collector-plans-foiled-by-keycard</url>
+  <title>Vic debt collector plans foiled by keycard</title>
+  <content>
+Former Melbourne debt collector Timoti Kapene Te Amo forced his ex-boss to drive to an ATM, planning to make him withdraw and handover cash, but the scheme came unstuck when the victim forgot his keycard.
+At the County Court of Victoria on Friday the 47-year-old pleaded guilty to false imprisonment in addition to previous charges including assault and theft linked to a debt dispute at a Braybrook factory in March 2016.
+Kapene Te Amo held the man in a headlock next to a stone cutting machine, then forced him to drive to an ATM before turning back because the victim's bank card was still at the factory, the court was told.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Braybrook</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>March 2016</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kapene Te Amo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-22</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Timoti Kapene Te Amo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>County Court of Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

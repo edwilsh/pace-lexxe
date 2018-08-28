@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412528886540708</docid>
+  <date>02/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/16/52/vic-axe-man-denies-shooting-friend-s-lover</url>
+  <title>Vic axe man denies shooting friend's lover</title>
+  <content>
+A Melbourne septuagenarian has denied allegations he armed himself with a sawn-off rifle and a tomahawk before shooting his flatmate's lover.
+Manfred Ulrich Kobert, now 77, is facing a jury trial charged with intentionally shooting Matthew Lovitt, 38, piercing his liver and right kidney, in May 2016.
+The County Court of Victoria was told on Thursday that although Kobert agreed he entered the property with a "small axe", he didn't agree the gun was his, nor that he brought it into his home, or that he aimed it at Mr Lovitt.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kobert</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Manfred Ulrich Kobert</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Lovitt</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>County Court of Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lovitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

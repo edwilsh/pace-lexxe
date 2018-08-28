@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425628537040158</docid>
+  <date>04/08/2017</date>
+  <time>09:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/man-missing-on-canning-stock-route/news-story/e4c10736f4db679debdb71781ff04526</url>
+  <title>Desert search for missing man</title>
+  <content>
+A LAND search and rescue operation is currently underway in the Pilbara for a missing man.
+Police say the man has gone missing along the Canning Stock Route near Lake Disappointment.
+"Police are appealing for anyone travelling on the Canning Stock Route near Well 22 who might have seen or picked up a man to contact police immediately," a police spokesperson said.
+The missing man is described as being fair skinned, roughly 185cm tall, of a medium build and with blonde hair.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pilbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canning Stock Route</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lake Disappointment</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Well 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

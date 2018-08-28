@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405270391678872</docid>
+  <date>01/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/sa-to-open-lgbt-relationships-register/news-story/9bb010a3c21055738d9f1167960e19d4</url>
+  <title>SA to open LGBT relationships register</title>
+  <content>
+Australian Associated Press
+
+Share
+
+South Australian gay and lesbian couples will soon be able to have their relationships registered.
+The register for LGBT couples will ensure they are able to have their relationships legally recognised and will help people assert their rights, including in situations of medical care, Premier Jay Weatherill announced on Tuesday.
+The register will also allow gay and lesbian couples married overseas to have their relationship legally recognised in SA.
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>LGBT</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Jay Weatherill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

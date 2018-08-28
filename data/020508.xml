@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437401042533144</docid>
+  <date>06/08/2017</date>
+  <time>07:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/afl/afl-news/geelong-cats-skipper-joel-selwood-out-until-afl-finals-20170806-gxqfp3.html</url>
+  <title>Geelong Cats skipper Joel Selwood out until AFL finals</title>
+  <content>
+Geelong have been dealt a huge injury blow with Joel Selwood to undergo surgery which will sideline him until the AFL finals.
+The Cats skipper will have surgery on his left ankle after suffering a syndesmosis injury during Friday night's loss to Sydney.Photo: AAP
+"Selwood will not be available for the remaining three home and away games but is expected to be able to return for the finals series," the Cats said in a statement on Sunday.
+AAP, more to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Geelong Cats</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joel Selwood</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geelong</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sydney.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Selwood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

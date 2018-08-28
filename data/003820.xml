@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404802240236161</docid>
+  <date>01/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/vodafone-says-too-hard-to-sell-nbn-quality-469818</url>
+  <title>Vodafone says too hard to sell NBN 'quality'</title>
+  <content>
+Vodafone has claimed it is too hard to persuade customers to sign up to NBN services based on differences in service quality.
+
+Chief strategy officer Dan Lloyd told a parliamentary committee hearing in Sydney that, short of NBN Co "readjusting" its wholesale price and service construct, ISPs would have "relatively little choice but to compete on price".
+
+Lloyd said ISPs were scared to buy more connectivity virtual circuit (CVC) backhaul from NBN Co because the costs had to be passed on to customers.
+
+There was concern that the relative improvements in the amount of bandwidth available still may not be enough to meet customers' expectations for the service they had bought.
+
+"We have a great deal of sympathy for the fear - and I think fear is the best term rather than reluctance - that the retailers have of purchasing more CVC," Lloyd said.
+
+"When you're trying to sell a service with a theoretical maximum of 12, 25, 50 or 100Mbps, to then try to communicate to customers that you're differentiating on the minimum throughput at the most contended times of capacity on the network of say 1.5-2Mbps, it's simply not something that consumers can understand.
+
+"There's too great a difference between that theoretical maximum and the minimum guaranteed throughput at the most congested times.
+
+"Customers simply don't understand the difference between that theoretical maximum and the guaranteed minimum throughput. We just don't think it's possible to communicate that to customers."
+
+Lloyd's comments come after to sign up as many NBN customers as possible, with little regard for the quality of services they are providing.
+
+NBN Co wants ISPs to buy more CVC capacity per user, which would see the performance of NBN services experienced by customers improve. Currently, only 1Mbps of CVC per user per month is purchased, on average.
+
+The network builder's CEO Bill Morrow argued yesterday that "under our pricing model that could be doubled to 2Mbps for each end user for around an extra $5 per [user per] month". Morrow claimed customers were willing to pay for higher quality services, but weren't being given that option at the point of sale.
+
+Lloyd, however, disputed the assertion. He said buying an extra 1Mbps per user per month represented "a very significant risk" for the ISP in trying to pass on the cost, because it was hard to convince someone that paying the extra would really result in an improved experience compared to rival NBN retail products.
+
+NBN Co is under pressure to improve the performance and quality of services on its network, where some customers have seen their speeds fall after transitioning from existing ADSL or HFC services.
+
+It is imperative for NBN Co to convince ISPs to buy more CVC because its business model is predicated on it; Morrow warned yesterday that it would  if CVC purchases remain stable.
+
+Not all ISPs believe the current construct makes it too hard to differentiate products on quality.
+
+Aussie Broadband's managing director Phillip Britt this morning said it was "entirely possible to provide decent speeds to customers at the current wholesale prices that the NBN charges".
+
+"While [NBN Co's] CVC pricing is some of the most expensive bandwidth in the world, it's unrealistic unlimited plans that makes other providers' models unsustainable," Britt said.
+
+"If we can do it as a small ISP, [others] can certainly do it as well.  
+
+"They're just trying to deflect attention from their strategic choices not to provision more bandwidth."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NBN</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ISP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phillip Britt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie Broadband</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lloyd</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dan Lloyd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ADSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps of CVC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CEO Bill Morrow</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Britt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

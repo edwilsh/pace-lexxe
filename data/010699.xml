@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416823853923465</docid>
+  <date>02/08/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/how-mutant-genes-are-deleted-repaired-replaced/8769288</url>
+  <title>What you need to know about scientists fixing mutant genes</title>
+  <content>
+Gene editing is getting fresh attention thanks to a successful lab experiment with human embryos.
+But for all the angst over possibly altering reproduction years from now, this technology is already used by scientists every day in fields ranging from agriculture to drug development.
+New gene-editing tools let scientists alter the DNA of living cells - from plants, animals, even humans - more precisely than ever before.
+Think of it as a biological cut-and-paste program.
+What is gene editing?
+
+While scientists have long been able to find defective genes, fixing them has been so cumbersome it's slowed development of genetic therapies.
+There are several gene-editing methods, but a tool called CRISPR-Cas9 has recently sparked a boom in research.
+Laboratories worldwide have adopted the method over the past five years because it's faster, cheaper and simple to use with minimal training and allows manipulation of multiple genes at the same time.
+How it works?
+
+It starts with RNA, or ribonucleic acid.
+DNA (deoxyribonucleic acid) and RNA are the nucleic acids essential for all forms of life, together with proteins, carbohydrates and lipids.
+Pieces of RNA are engineered to be a guide that homes in on the targeted stretch of genetic material.
+The Cas9 is an enzyme that acts like molecular scissors to snip that spot.
+That allows scientists to delete, repair, or replace a particular gene.
+
+The research
+
+The fresh attention comes from research involving human embryos.
+In laboratory experiments, a team lead by Oregon researchers used CRISPR to successfully repair a heart-damaging gene in human embryos, marking a step toward one day being able to prevent inherited diseases from being passed on to the next generation.
+But there's wide agreement that more research is needed before ever testing the technique in pregnancy.
+The biggest everyday use of CRISPR so far is to engineer animals with human-like disorders for basic research, such as learning how genes cause disease or influence development and what therapies might help.
+But promising research, in labs and animals so far, also suggests gene editing might lead to treatments for diseases such as sickle cell disease, cancer and maybe Huntington's disease, by altering cells and returning them to the body.
+There are more than 10,000 monogenetic inherited diseases that affect millions of people worldwide.
+Another research project using the CRISPR aims to one day grow organs safe for human transplants inside pigs.
+The biggest hurdle
+
+Safety is a key question because gene editing isn't considered to always be precise enough; there's the possibility of accidentally cutting DNA that's similar to the real target.
+Researchers have improved precision in recent years, but out-of-body treatments like using cells as drugs or treatments get around the fear of fixing one problem only to spark another.
+The ethical dilemma
+
+Altering genes in sperm, eggs or embryos can spread those changes to future generations, so-called "germline" engineering.
+But it's ethically charged because future generations couldn't consent, any long-term negative effects might not become apparent for years and there's concern about babies designed with enhanced traits rather than to prevent disease.
+Earlier this year, an ethics report from the US-based National Academy of Sciences opened the door to lab research to figure out how to make such changes.
+But the report said if germline editing was ever allowed, it should be reserved for serious diseases with no good alternatives and performed under rigorous oversight.
+Is that legal?
+
+Where you live determines if this kind of research is legal or what kind of research can be performed on human embryos.
+Some countries, especially in Europe, ban germline research. Britain allows basic lab research only.
+In the US, scientists can perform laboratory embryo research only with private, not federal taxpayer, funding, as the Oregon team did.
+Beyond medicine
+
+Researchers also are using gene editing to hatch malaria-resistant mosquitoes, grow strains of algae that produce biofuels, improve crop growth, even make mushrooms that don't brown as quickly.
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US-based National Academy of Sciences</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Oregon</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CRISPR</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>RNA</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Cas9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huntington</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CRISPR/Cas9</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

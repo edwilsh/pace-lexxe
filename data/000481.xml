@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397629644730806</docid>
+  <date>30/07/2017</date>
+  <time>21:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/brisbane-fog-delays-ferries-airport-spared-20170730-gxlxim.html</url>
+  <title>Brisbane fog delays ferries, airport spared</title>
+  <content>
+Brisbane's ferries have been delayed as a fog descends on the city but the airport, under pressure from anti-terror measures, looks to have escaped the worst of it.
+Forecasters said the fog was widespread over much of south-east Queensland on Monday morning but in Brisbane it was confined mostly to the south and west, away from the airport.Photo: Bianca Stone - 7 News Queensland
+But it was affecting the CityCat network, with ferries in both directions delayed up to 10 minutes from Northshore Hamilton to the University of Queensland.
+Translink announced the delays about 6.45am.
+Bureau of Meteorology forecaster Harry Clark said the low cloud had limited visibility to about 150 metres at its thickest.
+The fog was expected to burn off throughout the morning, with the temperature in Brisbane rising to 26, a degree less on the Gold and Sunshine coasts and up to 27 degrees in Ipswich.
+after police arrested four men in terror raids in Sydney.
+The Brisbane Airport warned travellers to arrive two hours before domestic flights and three hours before international departures, in line with recommendations across the country.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransLink</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Harry Clark</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>University of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CityCat</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Airport</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Northshore Hamilton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bianca Stone - 7 News Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

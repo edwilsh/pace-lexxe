@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443581500541949</docid>
+  <date>07/08/2017</date>
+  <time>07:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/policy/budget/superannuation-downsizing-scheme-could-leave-retirees-out-of-pocket-20170807-gxqzjx</url>
+  <title>Superannuation downsizing scheme could leave retirees out of pocket</title>
+  <content>
+Retirees looking to  and inject the proceeds into superannuation could be left in a worse financial position and will require sound financial advice before deciding to proceed with the sale, super industry experts say.
+While key industry groups broadly supported the government's proposal to allow people over the age of 65 to inject an extra $300,000 into super if they sold the family home, they noted that the move could lead to a reduction in age pension payments, or even the removal of pension payments altogether. This is because the family home is excluded from the means-testing for the government pension, but all other assets are included. 
+The downsizing measure was part of a package of polices unveiled in the May budget designed to improve housing affordability. 
+The Self Managed Super Fund Association warned that the prospect of pension payment cuts could reduce the attractiveness of the measure.
+
+"The major concern the SMSF Association has is the fact that the family home is exempt from the assets test for the age pension, whilst superannuation is not. This may potentially force older Australians into a scenario where they, as a whole, are worse off after undertaking this downsizing initiative. We understand this policy direction, but careful financial advice will be essential in the utilisation of this measure and may significantly cut down its use," the SMSF Association says in its submission to the Treasury. 
+
+The Association of Superannuation Funds of Australia had similar reservations. 
+"With respect to downsizing it has been observed that it will be critical that members receive personal financial advice, especially with respect to social security means testing, as selling the primary residence (exempt asset) and contributing proceeds into superannuation (counted against the assets test) may reduce, or even remove, their entitlement to the age pension," ASFA warned in its submission.
+ASFA added that a plan to force super funds to report a serious breach if they realised that a "downsizer contribution" failed to meet the criteria was inappropriate because such a breach would be regulatory in nature and super funds would have no way of determining whether the contribution was eligible.
+ASFA and the SMSFA both welcomed another policy announced in the May budget to . But both bodies expressed concerns that the scheme, as it stands, could be used by superannuants for purposes other than to buy property. They also warned that the scheme could be manipulated by fund members to extract additional tax concessions. 
+
+The Coalition has proposed that members who withdraw super savings for the purpose of buying a property would be required to put the money back into super if they did not proceed with the purchase. Superannuants could claim this as a personal contribution and claim a tax deduction. The super fund, said ASFA, would have no way of knowing if the tax deduction claim was legitimate, and proposals to include the Tax Office in this process may not be ready in time. 
+The SMSFA expressed concern that superannuants' retirement savings could be eroded if a member withdrew money to buy a house after a sharp fall in asset prices.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SMSFA</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>SMSF Association</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Association of Superannuation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tax Office</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASFA</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Funds of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Self Managed Super Fund Association</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

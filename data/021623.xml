@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441047469802460</docid>
+  <date>06/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/06/39/police-shoot-knife-wielding-man-in-nsw</url>
+  <title>Knife-wielding Grafton man dies after being shot by police</title>
+  <content>
+A man has died in hospital after he was shot by police in northern New South Wales yesterday for allegedly refusing to drop a knife.
+The shooting happened after police were called to reports of a disturbance at a home on Turf Street in Grafton just before 3.45pm yesterday.
+It's understood the man who was shot was involved in a domestic incident at the home.
+When he refused to drop his weapon, police tasered and shot him.
+They performed CPR on him at the scene, before he was taken to Grafton Hospital in a critical condition.
+He was later transported to the Gold Coast Hospital where he has since died.
+A critical incident team will investigate the circumstances surrounding the shooting, and an independent investigation will then examine the findings.
+
+Related Articles
+
+Anyone with information is urged to contact Crime Stoppers on 1800 333 000.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Turf Street</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grafton</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>CPR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

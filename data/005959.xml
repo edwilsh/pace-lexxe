@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407203126995422</docid>
+  <date>01/08/2017</date>
+  <time>10:29</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/threecar-crash-on-port-river-expressway/news-story/9232fdaa577c6cf08ee0c0d48f06d9ff</url>
+  <title>Three-car crash on Port River Expressway</title>
+  <content>
+AT least one elderly person has been involved in a head-on crash on the Port River Expressway at Gillman.
+Three cars are involved in the crash and police are asking motorists to avoid the area.
+Restrictions are in place for eastbound traffic.
+MORE TO COME
+</content>
+  <sindexList>
+  <sindex>
+    <name>Port River Expressway</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Gillman</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

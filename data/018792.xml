@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433020175853296</docid>
+  <date>05/08/2017</date>
+  <time>14:40</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/two-killed-as-typhoon-slams-southern-japan/news-story/e805f92d392672f257d778f6e408fb15</url>
+  <title>Two killed as typhoon slams southern Japan</title>
+  <content>
+Deutsche Presse Agentur
+
+Share
+
+At least two people have been killed on southern Japanese islands as a powerful typhoon accompanied by heavy rain and strong winds lashed the region, local media report.
+A 67-year-old man died after sustaining injuries in a fall on Yaku island, while an 84-year-old was found floating in a port on Tanegashima island, broadcaster NHK reported on Saturday.
+About 9000 residents were ordered to evacuate their homes on Amami Oshima island as slow-moving Typhoon Noru brought torrential rains to the region, NHK said.
+Authorities were warning of flooding, mudslides, high waves and swollen rivers in the southern part of Kyushu island and on the Amami Oshima region.
+More than 100 flights for Sunday have already been cancelled in the region as the season's fifth typhoon is projected to make landfall on southern Kyushu island on Sunday.
+As of 9pm local time, the eye of the storm was 40 kilometres west-southwest of Yaku island, travelling slowly, with maximum sustained winds of 126 kilometres per hour and gusts of 180km/h, the Japan Meteorological Agency said.
+Rainfall of up to 600 millimetres was forecast for Osumi Peninsula on Kyushu and some southern islands and up to 400mm for the Amami Oshima region by Sunday evening, the agency said.
+A month ago, heavy rains pounded Kyushu and triggered mudslides and flooding in the prefectures of Fukuoka and Oita, leaving 36 dead and five unaccounted for.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kyushu</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NHK</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Oita</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Fukuoka</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japan Meteorological Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Osumi Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Presse-Agentur</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tanegashima</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amami Oshima</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Typhoon Noru</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

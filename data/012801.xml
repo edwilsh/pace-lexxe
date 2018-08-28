@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419619877681180</docid>
+  <date>03/08/2017</date>
+  <time>10:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/major-blaze-at-worlds-biggest-fish-market/news-story/f8598ad7b9bcacca753001a12294bf7f</url>
+  <title>Major blaze at world's biggest fish market</title>
+  <content>
+Dozens of firefighters have battled a major blaze at Tokyo's Tsukiji fishmarket, the world's largest and one of the capital's most popular tourist sites.
+There were no immediate reports of injuries or people trapped.
+The fire broke out just before 5pm local time (6pm AEST) on Thursday.
+Clouds of smoke billowed into the air as efforts to put out the flames were hampered by the area's narrow streets and tight-knit buildings.
+The fire was in Tsukiji's "outer" market - an area packed with informal restaurants where tourists can tuck into fresh seafood plates and sushi.
+Media reports said it spread to four buildings.
+The Tsukiji "inner" market, where most seafood wholesalers are and tuna auctions are carried out at dawn, was not affected.
+Tsukiji draws tens of thousands of visitors a year to its warren of stalls laden with exotic species of fish, huge tuna and fresh sushi, part of a tourism boom that is a key part of Prime Minister Shinzo Abe's economic plan.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tsukiji</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Shinzo Abe</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo's Tsukiji</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413130181973944</docid>
+  <date>02/08/2017</date>
+  <time>09:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/nsw/five-teams-of-firefighters-called-to-lane-cove-house-fire-20170802-gxo3yl.html</url>
+  <title>Five teams of firefighters called to Lane Cove house fire</title>
+  <content>
+Five teams of firefighters are battling to contain a "fully involved" house fire blazing in Lane Cove, which is posing a "major traffic hazard" due to thick smoke in the area.
+Fire services were called to a property on the corner of Lihon Street and Burns Bay Road shortly before 6pm on Wednesday, after receiving "numerous" reports that a fire was blazing through the roof of the house.Photo: Twitter/@IntheCoveITC
+An estimated 26 firefighters are currently undertaking "defensive firefighting", spraying water from three sides of the property, in an attempt to prevent the fire from spreading to neighbouring properties. 
+The house is fully alight, and Fire and Rescue NSW believe a roof collapse is "imminent". Photo: Twitter/@IntheCoveITC
+The blaze is expected to be contained under control within the next half hour, although Fire & Rescue NSW expect it will be later in the evening before the fire is fully extinguished. 
+The house is believed to have been unoccupied, but emergency services have been unable to enter the house to confirm. Eight people have been evacuated from neighbouring properties. 
+
+Fire and Rescue NSW reported that smoke from the blaze was "blanketing" the suburb, posing a major traffic hazard to motorists in the area. 
+Traffic conditions remain "heavy" in the area, with buses delayed up to 55 minutes, according to Transport for NSW.
+While traffic on the southbound direction on Burns Bay Road is being diverted into Penrose Street, cars travelling in the northbound direction are being allowed through using the southbound lane. 
+It is unclear at this stage whether the cause of the fire is suspicious. 
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lane Cove</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Burns Bay Road</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Penrose Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rescue NSW</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Lihon Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IntheCoveITC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400889524955392</docid>
+  <date>31/07/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/variscan-sells-noncore-investments/news-story/75f9d6bb5c9a7be6e2b3bce9bb0a7b5f</url>
+  <title>Variscan sells non-core investments</title>
+  <content>
+Variscan Mines has sold its holdings in Silver City Minerals and Eastern Iron for total cash consideration of $560,000.
+This follows a portfolio review with emphasis on project development and capital allocation.
+Variscan still holds a significant investment in Thomson Resources which has large landholdings for copper, gold and tin within the Thomson and Lachlan Fold Belts, NSW. The current value of Variscan's shareholding in Thomson Resources is $0.85 million.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Variscan</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Resources</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Variscan Mines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lachlan Fold Belts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Iron</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Silver City Minerals</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

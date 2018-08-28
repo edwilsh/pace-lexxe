@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419057236953929</docid>
+  <date>03/08/2017</date>
+  <time>08:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/police-hunt-for-8metre-boat-stolen-from-bees-creek-property/news-story/6bbee111dd60f3fe7c613b97f5fe3e07</url>
+  <title>Police hunt for large stolen boat</title>
+  <content>
+POLICE are calling for information regarding the theft of a large boat from a Bees Creek property.
+The boat was stolen from the property between July 25 and 28, Strike Force Trident Detective Senior Sergeant Mark Bland said.
+He said the boat was an 8-metre aluminium single hull vessel with an inboard Yamaha 240 diesel motor.
+He said the boat was hoisted on a tri-axle trailer when it was stolen.
+Anyone with information about this boat is asked to contact police on 131 444 or Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bees Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yamaha 240</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 25</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Strike Force Trident Detective Senior Sergeant Mark Bland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

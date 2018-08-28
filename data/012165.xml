@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417429444321592</docid>
+  <date>03/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/56/pm-meets-wa-premier-but-gst-unresolved</url>
+  <title>PM meets WA Premier, but GST unresolved</title>
+  <content>
+WA Premier Mark McGowan and Prime Minister Malcolm Turnbull have failed to resolve the state's lowest share of GST revenue, despite a 90 minute meeting in Perth.
+The pair will open a six-kilometre extension to Perth's Mitchell Freeway in the city's north on Thursday, but will avoid an awkward press conference together, with Mr Turnbull leaving for Broome without taking questions.
+"It was a direct, open and constructive conversation with the prime minister," Mr McGowan said after the meeting on Wednesday night.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>-1.2</score>
+  </sindex>
+  <sindex>
+    <name>WA Premier</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Premier Mark McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Broome</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perth's Mitchell Freeway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GST</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

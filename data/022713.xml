@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442159866345825</docid>
+  <date>07/08/2017</date>
+  <time>02:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Radio Australia</source>
+  <url>http://www.radioaustralia.net.au/international/2017-08-07/us-vicepresident-mike-pence-denies-eyeing-2020-presidential-bid-amid-distance-with-donald-trump/1691790</url>
+  <title>US Vice-President Mike Pence denies eyeing 2020 presidential bid amid distance with Donald Trump</title>
+  <content>
+US Vice-President Mike Pence has vehemently denied a New York Times report that he is preparing to run for the presidency in 2020.
+In a statement, Mr Pence said the New York Times report was "disgraceful and offensive" and "categorically false".
+"The allegations in this article ... represent just the latest attempt by the media to divide this administration," Mr Pence said in the statement.
+The report said Mr Pence had not only kept a full political calendar but also had created his own independent power base, including a political fund-raising group called the Great America Committee.
+The paper cited sources claiming Mr Pence was positioning himself in case of an opening in 2020 but the claim was denied by his advisers and the White House.
+The Trump administration's Kellyanne Conway said Mike Pence was preparing to run as vice-president again in 2020 when Donald Trump makes a second presidential attempt.
+"Vice-President Pence is a very loyal, very dutiful, but also incredibly effective vice-president, and active vice-president, with this president," Ms Conway said on ABC's (America) This Week.
+''He is a peer to the President in the West Wing."
+New York Times spokeswoman Danielle Rhoades Ha said in a statement: "We are confident in the accuracy of our reporting and will let the story speak for itself."
+As investigations deepen into Russia's alleged interference in the 2016 US election and possible ties to members of Mr Trump's campaign, Mr Pence has put some distance between himself and the President on the best way to approach Moscow.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Great America Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Danielle Rhoades Ha</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mike Pence</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms. Conway</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kellyanne Conway</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Wing</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>3</count>
+    <score>-2.3</score>
+  </sindex>
+  <sindex>
+    <name>Vice-President Pence</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US Vice President Mike Pence</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Pence</name>
+    <count>5</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

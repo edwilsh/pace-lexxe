@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428978611590464</docid>
+  <date>04/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/08/05/us-attorney-general-jeff-sessions-warns-criminal-charges-sensitive-talks-foreign-leaders-leaked/</url>
+  <title>US Attorney General cracks down on leakers</title>
+  <content>
+US President Donald Trump's administration is cracking down on leakers after a deluge of embarrassing disclosures, including the release of the full transcript of a phone call with Australian Prime Minister Malcolm Turnbull.
+US Attorney General Jeff Sessions and National Intelligence Director Dan Coats announced the ramped-up effort at a press conference in Washington DC on Friday.
+Leakers, dubbed as "rogue anonymous sources", from within the White House, intelligence agencies, other departments and the media members who publish confidential information face prosecution.
+"Just yesterday, we saw reports in the media about conversations the president had with foreign leaders," Mr Sessions told a press conference.
+"No one is entitled to surreptitiously fight their battles in the media by revealing sensitive government information.
+"No government can be effective when its leaders cannot discuss sensitive matters in confidence or to talk freely in confidence with foreign leaders," he said.
+The Washington Post published a full transcript of Mr Turnbull's January 28 phone call with Mr Trump on Thursday, exposing the president lambasting the prime minister and cutting the call short over the Australian-US asylum-seeker deal.
+A transcript of a call between Mr Trump and Mexican President Enrique Pena Nieto, including embarrassing comments about Mr Trump's US-Mexican wall proposal, was also published by the Post.
+Mr Sessions said cases involving leaks will be prioritised and the Department of Justice "will not hesitate to bring lawful and appropriate criminal charges against those who abuse the nation's trust".
+The number of active leak investigations have tripled and the FBI has increased resources devoted to leak cases and created a new counterintelligence unit.
+Policies affecting media subpoenas is being reviewed.
+"We respect the important role that the press plays and will give them respect, but it is not unlimited," Mr Sessions said.
+"They cannot place lives at risk with impunity."
+-AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian-US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Attorney General Jeff Sessions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Attorney General</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Washington DC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull's January 28</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mexican President Enrique Pena Nieto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Sessions</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump's US-Mexican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Intelligence Director Dan Coats</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

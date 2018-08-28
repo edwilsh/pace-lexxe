@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413044282626300</docid>
+  <date>02/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/bitcoin-splits-but-clone-off-to-slow-start-20170802-gxo3oe</url>
+  <title>Bitcoin splits, but clone off to slow start</title>
+  <content>
+Bitcoin's underlying software code was split on Tuesday, generating a new clone called "Bitcoin Cash," but the new virtual currency got off to a slow start due to lacklustre support for its network.
+The initiative was headed by a small group of mostly China-based bitcoin miners - programmers who essentially operate the bitcoin network - who were not happy with scheduled improvements to the currency's technology meant to increase its capacity to process transactions.
+These miners, who get paid in the currency for contributing computing power to the bitcoin network, initiated what is known as a "fork" on Tuesday, where the underlying blockchain splits into two potential paths, creating a new digital currency.
+The blockchain is aand has spawned a range of financial and business applications.
+
+Bitcoin's split has c which remains the oldest and most valuable in circulation.
+
+Yet only a small fraction of to the new blockchain, and it took nearly six hours for the first batch of Bitcoin Cash coins to be mined this afternoon, according to Blockdozer Explorer, a firm providing data on digital currencies.
+"It's been a slow start for Bitcoin Cash," said Iqbal Gandham, managing director at trading platform eToro. "The delay ... could be a result of a lack of miner support for the new cryptocurrency."
+Bitcoin Cash on Tuesday traded on certain exchanges at a median price of $146.37, according to bitinfocharts.com, while bitcoin was at $2,729 on the BitStamp platform, down 4.6 percent from Monday.
+After the split, Bitcoin Cash has all the history from bitcoin's blockchain, creating the same number of tokens, plus the new currency created. People who held bitcoins before the split now have access to an equal amount of Bitcoin Cash for free, which they will then be able to trade for fiat currencies - legal tender such as euros and dollars - or other digital tokens.
+
+The creation of new tokens may speed up as less computing power will be required to mine new blocks, said Jeff Garzik, co-founder of blockchain startup, in an email.
+Ryan Taylor, chief executive of Dash Core, a firm that manages the development of the Dash digital currency, said Bitcoin Cash may yet be short-lived.
+"Bitcoin Cash has not solved scaling," Dash said. "It has merely kicked the can down the road with slightly larger blocks, but still lacks a credible technology to scale to massively larger numbers of users."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blockdozer Explorer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iqbal Gandham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>eToro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>8</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jeff Garzik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dash Core</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitstamp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

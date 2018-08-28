@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419615582713847</docid>
+  <date>03/08/2017</date>
+  <time>10:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/woman-hit-by-car-in-mount-louisa/news-story/0167a4e44ead7b5d63821dd6a2d2ff13</url>
+  <title>Woman hit by car</title>
+  <content>
+A WOMAN is fighting for her life after being hit by a car in Mount Louisa on Thursday night.
+The Bulletin understands the woman was walking with a man when she was struck about 7pm at the roundabout at the intersection of Bayswater Rd and Crestbrook Drive.
+Emergency services including a critical care paramedic raced to the scene and found the woman unconscious with a suspected broken leg.
+She was stabilised before being rushed to Townsville Hospital in a critical condition.
+Forensic crash police were called to the scene.
+A number of witnesses were also helping investigators.
+The age of the woman has not been released.
+Motorists were urged to avoid the area.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Townsville Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bayswater Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Louisa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crestbrook Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

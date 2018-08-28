@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428806812896508</docid>
+  <date>04/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/driver-charged-after-fleeing-police-crashing-into-roundabout-on-fenden-road-salisbury/news-story/ce2d67c1a47509b516395e3dd3a2c057</url>
+  <title>Driver charged after police chase</title>
+  <content>
+A DRIVER has been charged after a police chase in Salisbury early Saturday morning.
+The 34-year-old man was arrested after police tried to stop him for a breath test just after 1am but he refused to stop.
+Police chased the driver for a short time before he collided with a roundabout on Fenden Road.
+The Salisbury East man was charged with engaging in a police pursuit and driving without due car.
+He was bailed to appear in the Elizabeth Magistrates Court on September 13.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Fenden Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salisbury East</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Salisbury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

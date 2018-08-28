@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398793580882937</docid>
+  <date>31/07/2017</date>
+  <time>01:51</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/chrome-to-distrust-symantec-certificates-from-next-year-469688</url>
+  <title>Chrome to distrust Symantec certificates from next year</title>
+  <content>
+Symantec transport layer security (TLS) certificates issued before June 1 2016 will not be trusted by Google's Chrome web browser from next year, following a  between the companies over the issuance of fake digital credentials.
+
+Darin Fisher, Google's vice president of the open source Chromium project, which is the foundation for the Chrome browser,  the timeline for distrusting the Symantec certificates by March 15 2018.
+
+As the root certificate for Symantec will be removed, the move means credentials from the security vendor's Thawte, GeoTrust and RapidSSL subsidiaries will also be distrusted.
+
+Google initially wanted to remove trust for the Symantec certificates in October this year, when Chrome version 62 is released.
+
+But it decided that didn't given enough lead time for site operators, given the prevalence of Symantec certificates used on the internet.
+
+Instead, Google settled on Chrome version 66, which will be released as a preview in January next year, beta by March, with stable code expected to appear in April.
+
+Site operators are being asked to replace Symantec TLS server certificates that were issued before June 1 2016. The replacements can be from any trusted certificate authority (CA), including Symantec, Fisher said.
+
+Symantec was forced to rebuild its CA infrastructure after it was sharply criticised by Google and its industry partners for sloppy certificate issuance practices.
+
+The infrastructure is expected to be ready and able to issue new certificates from December this year.
+
+Google's Chrome web browser is the most popular in the world, with around a  market share.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>March 15 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 1 2016</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Symantec</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>TLS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fisher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GeoTrust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Symantec TLS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darin Fisher</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RapidSSL</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's Chrome</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thawte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

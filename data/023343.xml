@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444010997278813</docid>
+  <date>07/08/2017</date>
+  <time>09:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/financial-services/cba-to-grind-out-98-billion-profit-20170807-gxr0zf</url>
+  <title>CBA to grind out $9.8 billion profit</title>
+  <content>
+Commonwealth Bank's valuation as Australia's premier banking franchise will be tested on Wednesday with analysts and investors expecting the bank to unveil a cash profit of close to $10 billion against a backdrop of slowing margin growth, moderating property prices and mortgage market intervention.
+As of Monday afternoon the bank was trading on a price-to-earnings ratio of 14.6 times forward earnings compared with ANZ on 13.1 times, NAB on 12.5 times and Westpac on 13.4 times.
+The consensus estimate of full year cash profit of $9.8 billion is expected to be augmented by a 5.8 per cent rise in second half cash profit for the six months to June 30 of $4.9 billion, with mortgage repricing undertaken by the bank expected to shoulder much of the uplift.
+Questions are being asked however if the profit expectations will be met and whether or not will create yet another capital drag for the bank, with at least one analyst flagging a hiking of the bank's Operating Risk Weighted Asset balance which stands at $33.8 billion.
+
+For many investors however the result will be whittled down to the bank's all important dividend.
+
+Of the big four banks, CBA has the highest proportion of retail investors holding 52.9 per cent of the register. CBA typically pays a higher dividend in the second half with forecasts for a small rise in the fully franked dividend to $2.24 from $2.22 in the prior corresponding half.
+Commonwealth Bank's net interest margin - the difference between the bank's funding and lending costs - is expected to be down 2 basis points in the second half to 2.09 per cent after a third quarter update which acknowledged a NIM that was slightly lower..
+Many are looking to Commonwealth Bank's repricing or hiking of mortgage rates performed in the aftermath of  to provide some support however as UBS analyst Jonathan Mott highlighted the uplift won't be for the full term.
+"CBA has demonstrated a willingness to use pricing power to steady its NIM," Mr Mott said in a note to clients.
+
+"CBA will benefit from the March round of mortgage repricing in this period, however these changes only took effect from May 8 which gives CBA only around seven weeks of repricing benefits."
+Mr Mott also points to a moderating of the house prices and a corresponding slowdown in housing credit growth from the effects of APRA's attempts to cool the housing market, forecasting lower volume growth of 2.4 per cent for the half compared with 2.8 per cent for the first half.
+Broker commissions will also be watched closely. CBA utilises the broker channel far less than rival banks with around 55 per cent of big four bank loans written by a mortgage broker.
+Record low bad and doubtful debts are expected to remain flat however a watching brief is being kept on .
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Mott</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NIM</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>May 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Operating Risk Weighted Asset</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mott</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

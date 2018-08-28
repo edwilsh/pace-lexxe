@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404119340424757</docid>
+  <date>31/07/2017</date>
+  <time>22:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Broker</source>
+  <url>http://www.brokernews.com.au/news/breaking-news/resi-lending-surges-by-10bn-in-june-239362.aspx</url>
+  <title>Resi lending surges by $10bn in June</title>
+  <content>
+The total volume of residential lending amongst the banks, including owner occupier and investor loans, has shot past $1.57trn, according to the newest figures from the Australian Prudential Regulation Authority ().
+The regulator's latest Monthly Banking Statistics show that total lending increased by $9.8bn (or 0.6%) between May and June.
+Owner occupier loans sat at just over $1trn and represented 64.8% of total loans as of June. This was an increase of $7.4bn (or 0.7%) from the month before.
+The remaining $552bn (or 35.2% of total lending) was made up of investment loans - an increase of $2.4bn (or 0.4%) from the previous month.
+The big four banks held $1.3trn in residential lending in June or 82.6% of the total banking market share. Of this, $825bn was in owner occupier loans while $472bn was in investment lending.
+The individual figures for lending at the big four banks are found below with each number listed in billions of dollars:
+
+ 
+
+ 
+Owner occupied (June)
+Owner occupied (May)
+Investor (June)
+Investor (May)
+
+ANZ
+$165.0
+$163.3
+$82.8
+$82.5
+
+CBA
+$277.3
+$276.7
+$138.7
+$139.3
+
+NAB
+$141.4
+$140.4
+$103.4
+$102.7
+
+Westpac
+$241.3
+$239.4
+$146.8
+$145.2
+
+Growth was seen in owner occupier and investment lending across all major banks.
+The following non-major lenders also reported a significant number of owner occupier and investor loans with all figures once more listed in billions of dollars:
+
+ 
+
+ 
+Owner occupied (June)
+Owner occupied (May)
+Investor (June)
+Investor (May)
+
+AMP Bank
+$9.2
+$8.9
+$2.9
+$2.9
+
+$16.1
+$15.9
+$11.2
+$11.2
+
+Bendigo and Adelaide Bank
+$22.9
+$22.9
+$11.8
+$11.9
+
+ING Bank
+$32.8
+$32.6
+$9.6
+$9.5
+
+Macquarie Bank
+$18.8
+$18.5
+$8.6
+$8.6
+
+$12.4
+$12.1
+$5.3
+$5.2
+
+Suncorp
+$28.8
+$28.5
+$11.8
+$11.7
+
+For the second tier banks, owner occupier lending rose for all except Bendigo and Adelaide Bank which remained relatively stable. Levels of investment lending were a little more uneven with AMP,  and Macquarie Bank remaining basically unchanged, Bendigo and Adelaide Bank decreasing, and ING Bank,  and Suncorp all increasing.
+Related stories:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NAB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RESI</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monthly Banking Statistics</name>
+    <count>1</count>
+    <score>1.3</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bendigo</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Bank</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Bank</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AMP Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ING Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

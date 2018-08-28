@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441348117516599</docid>
+  <date>06/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/financial-services/cba-blames-austrac-breach-on-coding-issue-fixed-within-a-month-20170806-gxqk6l</url>
+  <title>CBA claims it is only liable to one breach of the AUSTRAC laws</title>
+  <content>
+The Commonwealth Bank will argue that it should only be liable to a single contravention of the Anti-Money Laundering and Counter-Terrorism Financing Act, reducing its liability to $18 million from as high as $960 billion.
+The bank has sheeted the blame for the  scandal back to a single coding error, which was fixed within a month of discovery, in a statement released by the bank early on Monday morning.
+"The vast majority of the reporting failures alleged in the statement of claim (approximately 53,000) relate specifically to this coding error," the bank says.
+The statement closely followed  as the bank looks to contain the damage from the bombshell development.
+
+In the statement, the bank says that coverage of the allegations that it's  was complex and "some facts are worth clarifying".
+
+The bank said that its failure to generate more than 50,000 threshold transaction reports (TTRs) began after its intelligent deposit machines (IDMs) received a  in late 2012.
+"Following the software update, a coding error occurred which meant the IDMs did not create the TTRs needed. This error became apparent in 2015 and within a month of discovering it, we notified AUSTRAC, delivered the missing TTRs and fixed the coding issue."
+The statement has the potential to  who say that the bank ignored warnings that theIr network was being used by dozens of criminals and thier syndicates.
+The bank acknowledged that there are serious allegations in AUSTRAC's statements of claim separate to the coding error however it does not provide any further details.
+
+The bank also said that it needed to be more vigilant in the area of financial crime and money laundering and was working towards improving its processes.
+The bank said that it was preparing its defence to the monster statement of claim that runs for over 500 pages and includes a 70-page document that consists solely of transactions presented on a single line.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>TTRs</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

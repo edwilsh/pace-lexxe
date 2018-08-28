@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412022080391753</docid>
+  <date>02/08/2017</date>
+  <time>05:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/microsoft-kills-word-flow-keyboard-on-ios-heres-what-to-replace-it-with/</url>
+  <title>Microsoft Kills Word Flow Keyboard On iOS, Here's What To Replace It With</title>
+  <content>
+iOS: When you installed Microsoft's Word Flow keyboard on your iPhone, you probably thought it was an app or extension. Turns out, it was an "experiment", an experiment that is now "complete", and you need to switch to a new keyboard.
+
+Photo by
+
+Your safest bet is , which Microsoft bought early last year, and which recently caught up to the default keyboard with 3D Touch cursor control and over 100 supported languages. Multilingual typers can even switch languages on the fly, and SwiftKey will detect the change.
+
+We also recommend Google's , which offers instant search and dictation. While SwiftKey  to process customisation, Gboard leaves all your typing data (except for searches and dictation recordings) on your keyboard.
+
+Unlike Word Flow, neither of these keyboards will squeeze to one side for one-handed typing (for that you'll need  or ). But both offer swipe-typing, which (after a little practice) is much faster than one-handed tapping.
+
+To enable a new keyboard, after you download it, go to Settings > General > Keyboard > Keyboards > Add New Keyboard, add the keyboard, then select it again and turn on "Allow Full Access."
+
+[]
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Word Flow</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft's Word Flow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Add New Keyboard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SwiftKey</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft Kills Word Flow Keyboard On iOS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Allow Full Access</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Replace It With</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D Touch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gboard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

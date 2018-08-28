@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423695801726192</docid>
+  <date>04/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/retail-spending-up-03pct-in-june/news-story/c49b2f7d13c396a7736ac565363540c1</url>
+  <title>Retail spending up 0.3pct in June</title>
+  <content>
+Retail spending rose 0.3 per cent in June, beating market expectations of a modest 0.2 per cent rise.
+Seasonally adjusted retail spending totalled $26.15 billion in the month, according to the Australian Bureau of Statistics.
+Household goods retailing rose 0.9 per cent, clothing, footwear & personal accessory sales rose 0.8, while department store sales were down 0.3 per cent.
+</content>
+  <sindexList>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

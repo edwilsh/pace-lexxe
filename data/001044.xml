@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399042688989961</docid>
+  <date>31/07/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/nbn-co-boss-declares-war-with-internet-providers-469724</url>
+  <title>NBN Co boss declares war with internet providers</title>
+  <content>
+NBN Co has blamed a "price war" between internet service providers as the root cause of consumer discontent over its services.
+
+CEO Bill Morrow today responded to a fortnight of sustained pressure on the network builder to reduce or revamp its wholesale charges to encourage ISPs to buy enough bandwidth to support their users.
+
+However, the company appears to have ruled out any substantial further review of its price scheme and instead launched a full-scale attack on internet providers, laying the blame for poor-performing services squarely with them.
+
+Morrow said there was a clear "land grab" mentality at ISPs as they sought to sign on as many customers as possible, with apparently little regard for service quality.
+
+He accused ISPs of not selling services at higher prices, which he said users were prepared to pay for.
+
+"We have a land-grab environment where retail prices are lower than what consumers are willing to pay," Morrow said in a position paper released today [].
+
+"The large number of competitors going after the same customer has driven price to be the key attraction and seldom do you see any clarity around speed options or quality during the peak time of day."
+
+Morrow singled out Telstra, accusing the telco of "reducing their retail price by over 20 percent on the most popular 25Mbps product".
+
+"As a result, we have seen their market share jump over 2 percentage points to now be over 50 percent from 12 months ago," Morrow claimed.
+
+"Others have had to follow on price reductions to remain competitive."
+
+Morrow said some retail costs for NBN services were so low that ISPs must have few if any other costs to contend with, or they were "cutting corners" on service quality.
+
+He claimed uncited studies showed customers would pay more for fast broadband than the prices seen in the market.
+
+"It would appear that while our industry is making this massive transition to a new network and market structure, market share gains are higher priority than profit margin or quality of service, despite end-users willing to pay more for better broadband," Morrow said.
+
+The CEO repeated assertions made broadly across mainstream media over the past week that NBN Co "needs to evolve our pricing structure even further in a way that allows for a triple win solution for [us], ISPs, and end-users."
+
+He said it was a present focus for the company but offered no details.
+
+More to come
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CEO Bill Morrow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

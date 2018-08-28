@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416308457838452</docid>
+  <date>02/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/03/07/36/advance-made-in-gene-editing-in-embryos</url>
+  <title>Advance made in gene editing in embryos</title>
+  <content>
+Scientists have used gene editing to stop a hereditary heart condition in early-stage human embryos for the first time, according to a study.
+The research could help reduce instances of the disease in children conceived through IVF and pave the way for eventual cures for some of the thousands of diseases caused by mutations in single genes.
+Researchers targeted a mutation in a gene that causes hypertrophic cardiomyopathy (HCM) - the most common cause of sudden death in otherwise healthy young athletes.
+HCM affects approximately 1 in 500 people overall and people with a faulty copy of the gene have a 50 per cent chance of passing on the mutation to their children.
+Correcting the mutation in embryos would prevent the disease from being passed on to future generations.
+"Every generation on would carry this repair because we've removed the disease-causing gene variant from that family's lineage," said Shoukhrat Mitalipov, director of the Center for Embryonic Cell and Gene Therapy at Oregon Health and Science University.
+The work, described in the journal Nature, was a collaborative project from the Salk Institute in California, Oregon Health and Science University and Korea's Institute for Basic Science.
+The study noted that further work was needed on genome editing processes before moving to clinical trials.
+(C)  DPA 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Basic Science</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Korea Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oregon Health</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IVF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HCM</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Embryonic Cell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gene Therapy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salk Institute</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Science University</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoukhrat Mitalipov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DPA 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

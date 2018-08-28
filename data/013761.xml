@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422072304058592</docid>
+  <date>03/08/2017</date>
+  <time>20:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bristol-myers-squibb-acquires-ifm-therapeutics-for-up-to-232-billion-2017-8</url>
+  <title>Pharma giant Bristol-Myers Squibb just made another big bet on cancer immunotherapy</title>
+  <content>
+Bristol-Myers Squibb, a company known for its cancer immunotherapy drugs, just acquired immunotherapy startup IFM Therapeutics.
+
+The deal is worth $US300 million upfront, and if IFM's two drug programs hit certain development milestones, Bristol-Myers could pay an additional $US1.01 billion for each, adding up to a total of $US2.32 billion.
+
+IFM has two preclinical programs, which work to enhance the immune system's response to cancer cells.
+
+Bristol-Myers has two drugs, Opdivo and Yervoy, that are a part of a new class of cancer treatments called cancer immunotherapy that harness the body's immune system to go after cancer. Unlike , which involves administering powerful drugs that kill both cancerous and healthy cells (most healthy cells can repair themselves), immunotherapies harness the power of the immune system to help it identify and knock out just the cancerous cells.
+
+The drugmaker has made other immunotherapy deals in the past. In March, it partnered with . CytomX is trying to do is activate the drug only when it's by diseased tissue, using something called "Probodies." That way, it might be possible to reduce some of the side effects that current cancer immunotherapy treatments have.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IFM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CytomX</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bristol-Myers Squibb</name>
+    <count>2</count>
+    <score>0.67</score>
+  </sindex>
+  <sindex>
+    <name>Opdivo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Probodies</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bristol-Myers</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.01</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yervoy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IFM Therapeutics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$300</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.32</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pharma</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

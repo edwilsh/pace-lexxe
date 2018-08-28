@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428596359496116</docid>
+  <date>04/08/2017</date>
+  <time>21:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets/dow-jones-ends-at-eighth-consecutive-record-closing-high-20170804-gxpxe4.html</url>
+  <title>Dow Jones ends at eighth consecutive record closing high</title>
+  <content>
+The Dow Jones Industrial Average ended at its eighth straight record high on Friday, with gains in JPMorgan Chase and other banks after data showed US employers hired more workers than expected in July.
+The strong jobs report is likely to clear the way for the Federal Reserve to announce a plan to start shrinking its $US4.2 trillion bond portfolio in September, and could strengthen its case to raise rates for the third time this year in December.Photo: Richard Drew
+The Labor Department report showed , above the 183,000 rise expected by economists polled by Reuters.
+"It's stability. That's what the markets love. This still indicates that the expansion is on. That should provide some comfort," said Bodhi Ganguli, lead economist at Dun & Bradstreet in Short Hills, New Jersey.
+With banks standing to benefit from higher interest rates, the S&P financial index rose 0.72 per cent. Goldman Sachs rose 2.6 per cent and was the top contributor to the Dow's gain for the day.
+Perceived chances of an interest rate hike by the US central bank by the end of the year increased to 50 per cent from 46 per cent after the release of the data, according to CME Group's FedWatch tool.
+
+Analysts, on average, expect S&P 500 earnings to have grown 12 per cent in the second quarter and they project earnings up 9.3 per cent for the September quarter, according to Thomson Reuters I/B/E/S.
+"We would expect next week to see market highs again just based on the positive tone created by strong second-quarter earnings and favourable outlooks," said Tim Ghriskey, chief investment officer of Solaris Group. "We're really in a sweet spot here."
+The Dow Jones Industrial Average rose 0.3 per cent to end at 22,092.81, an all-time high.
+The S&P 500 gained 0.19 per cent to 2476.83 and the Nasdaq Composite added 0.18 per cent to 6351.56.
+For the week, the Dow climbed 1.2 per cent, the S&P 500 rose 0.2 per cent and the Nasdaq shed 0.4 per cent.
+The S&P 500 materials index rose 0.48 per cent, helped by a 1.07-per cent rise in Dow Chemical.
+The utilities, healthcare and consumer staples indexes fell. Gilead's 1.63-per cent fall and Allergan's 3.08-per cent loss weighed on the healthcare index.
+Walt Disney fell 1.31 per cent and was the biggest drag on the Dow.
+Viacom slumped 13.83 per cent after the company forecast a low single-digit dip in sales.
+Yelp jumped 27.67 per cent after the company said it would sell its Eat24 business to Grubhub for $US287.5 million and reported a better-than-expected quarterly revenue. Grubhub rose 9.20 per cent.
+About 6.0 billion shares changed hands in US exchanges, just below the 6.1-billion average over the last 20 sessions.
+</content>
+  <sindexList>
+  <sindex>
+    <name>CME Group's FedWatch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Viacom</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Richard Drew</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walt Disney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eat24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US4.2</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Solaris Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grubhub</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Yelp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Short Hills</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labor Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bodhi Ganguli</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Chemical</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bradstreet</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>DUN</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US287.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Ghriskey</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan Chase</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

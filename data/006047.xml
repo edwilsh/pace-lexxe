@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407886026810032</docid>
+  <date>01/08/2017</date>
+  <time>13:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/shooting-at-moscow-court-20170801-gxnf5z.html</url>
+  <title>Shooting at Moscow court kills four</title>
+  <content>
+Moscow: Four people standing trial in a Moscow court have been killed in a gunfight that broke out in the court building, according to a lawyer for the defendants.
+The lawyer, Diana Tatosova, said she was told by the chief investigator in the case that of the 11 defendants in the court, four had been killed.
+TASS news agency said the gunfight broke out after some of the defendants had tried to grab firearms from court security officers and take hostages.
+More to come
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Diana Tatosova</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TASS</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

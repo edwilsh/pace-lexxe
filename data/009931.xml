@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413907571070356</docid>
+  <date>02/08/2017</date>
+  <time>12:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/oakey-businesses-owners-threatened-with-boycotts-have-called-for-calm/news-story/1c854274a6ccc7dc5b50c610245a6bad</url>
+  <title>Call for calm in Oakey mine action</title>
+  <content>
+OAKEY businesses are calling for calm after threats of boycotts and acts of intimidation over the Acland coal mine expansion.
+Businesses supporting the mine through a series of newspaper advertisements have also been warned in letters by a group opposing the expansion that by associating with the mine's owner, New Hope, they were at risk of suffering a "negative reputation'' but also could be caught up in a potential ACCC investigation.
+Oakey Coal Action Alliance president Paul King said the letters were not meant to be intimidation and were just informing the mine's supporters that the advertisements being run by New Hope were potentially false and misleading and the ACCC had been informed.
+Mr King said he wanted to see people calm down and allow the process to take its course.
+Since the Land Court made its recommendation to the Government to back a group of landowners and scrap the $900 million expansion both sides of the debate have ramped up their campaigns in a bid to influence the decision of Natural Resources Minister Anthony Lynham.
+Store owner and chamber of commerce president Andrew Langton said he had people threatening boycotts against his store over his support for the mine.
+"It's one of those things where these people are saying we are not allowed to have our say,'' Mr Langton said.
+"It's a free country and it should be allowed.
+"Oakey has changed in the last few years. We can't rely on agriculture like we did in previous years.
+"I respect they are against the mine so I don't like the fact that they won't allow me to have my opinion.''
+Butcher Tony James said there had been threats made against him but "they go over my head''
+"Some blokes have made comments but no one really threatens a bloke who has four knives on him all day,'' Mr James said.
+But he said signs that were put up supporting the mine disappear over night and there were some attempts at intimidation.
+Hairdresser Jodi Keane-Venz said the threats were made by "a minority of people who were trying to make things difficult''.
+"The majority are overwhelmingly supportive (of the mine),'' she said.
+"This (the signs) is our quiet way of expressing our opinion. We are not trying to offend anyone.''
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Land Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Langton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New Hope</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Acland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr. James</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr King</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Langton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Butcher Tony James</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jodi Keane-Venz</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Oakey</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Natural Resources Minister Anthony Lynham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oakey Coal Action Alliance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul King</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

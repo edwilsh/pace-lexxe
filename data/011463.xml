@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417549703408358</docid>
+  <date>03/08/2017</date>
+  <time>02:38</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/police-confirm-stuart-gatehouses-remains-found-in-car-in-borumba-dam/news-story/7d7a288018e39f90c7413dab78112486</url>
+  <title>Body in the car identity revealed</title>
+  <content>
+A red VL Holden Commodore was pulled from Borumba Dam, near Imbil, on April 20.
+The vehicle was confirmed as belonging to Stuart Gatehouse, who had gone missing from Kenilworth 13 years ago.
+Police conducted a forensic examination on skeletal remains found inside the car and today confirmed they belonged to Mr Gatehouse.
+Preliminary results indicate the death was non-suspicious.
+</content>
+  <sindexList>
+  <sindex>
+    <name>VL Holden Commodore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Imbil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Gatehouse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kenilworth 13</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>April 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stuart Gatehouse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Borumba Dam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

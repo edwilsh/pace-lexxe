@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407804422429605</docid>
+  <date>01/08/2017</date>
+  <time>12:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/foreign-investor-surcharges-illustrate-lack-of-harmonisation-in-state-tax-policy-20170801-gxmz25</url>
+  <title>Foreign investor surcharges illustrate lack of harmonisation in state tax policy</title>
+  <content>
+by
+Matthew Cridland
+
+In the 17th century the French politician Jean-Baptise Colbert said "the art of taxation consists in so plucking the goose as to procure the largest quantity of feathers with the least possible amount of hissing."
+For the states and territories, which cannot levy their own income taxes, real estate taxes are an obvious source of revenue.
+Recent increases in real estate taxes have largely come from .
+These surcharges are generally justified on the basis they reduce foreign competition for residential property, which in turn alleviates pressure on prices.
+
+The surcharges can be dialled up or down as necessary based on prevailing market conditions.
+
+For developers and investors the main difficulty with state-based real estate taxes, aside from the cost, is the lack of harmonisation between the jurisdictions.
+This lack of harmonisation is perhaps best illustrated in relation to the foreign investor land tax surcharges.
+Queensland has introduced an "Absentee Land Tax" from July 1, 2017. It applies to individuals. It does not apply to companies or trusts. It is not limited to residential property and applies to all taxable land.
+Victoria also has a similarly named "Absentee Owner Surcharge". This tax also applies to individuals, but not Australian citizens. Further, it applies to "Absentee Companies" and "Absentee Trusts". For these purposes, an Absentee Trust includes an Australian-based property trust that has one foreign unit holder. As in Queensland, the surcharge is not limited to residential property and it applies to all taxable land.
+
+Lastly, NSW also imposes a "land tax surcharge". The definition of a "foreign person" is different to the tests applied in Queensland and Victoria and is based on a modified version of the FIRB tests. The surcharge does not apply to Australian citizens. Further, it is limited to residential property only. Unlike in Queensland and Victoria, the surcharge applies even if a property is used as a principal place of residence and there is no tax-free threshold.
+This lack of consistency between similarly named taxes creates uncertainty, which increases risks and compliance costs for both investors and developers.
+From January 1, 2018, Victoria is also introducing a new vacancy tax (not to be confused with the Absentee Owner Surcharge) that may apply to residential properties in inner-Melbourne suburbs which are not occupied or leased for more than six months in a year.
+This tax will apply at a rate of 1 per cent based on the capital improved value of the property (rather than the "site" or unimproved value).
+
+While the foreign investor stamp duty surcharges may be justifiable on the basis of alleviating pressure on the price of residential properties, the Absentee Land Tax in Queensland and the Absentee Owner Surcharge in Victoria are more difficult to justify.
+Notwithstanding these absentee taxes may be framed as taxes on foreign investors, to the extent the taxes apply to non-residential property, they are ultimately a tax on businesses in Queensland and Victoria.
+This is because landlords will invariably pass on the surcharge cost over time, whether through outgoings charges or higher rentals.
+Ideally the absentee taxes in Queensland and Victoria should be limited to residential property only.
+
+Attempts at harmonising state taxes such as stamp duty have not been wholly successful in the past.
+However, the fact that payroll taxes are largely harmonised in key areas demonstrates that it can be done. In addition to legislative harmony, in a payroll tax context there is also administrative consistency, including harmonised public rulings and guidance products.
+Similarly harmonising real estate taxes would see the same or more feathers plucked, but a lot less hissing.
+Matthew Cridland is a Partner at K&L Gates 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian-based</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Absentee Owner Surcharge</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>L Gates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jean-Baptise Colbert</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Absentee Land Tax</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>7</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Cridland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Owner Surcharge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FIRB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>K</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Absentee Trusts</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 1 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Absentee Companies</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 1, 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

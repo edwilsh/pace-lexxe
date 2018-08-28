@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439076079793737</docid>
+  <date>06/08/2017</date>
+  <time>14:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/afp-raided-cba-for-nondisclosure-in-austrac-court-case-20170806-gxq9p2</url>
+  <title>AFP raided CBA for non-disclosure in Austrac court case</title>
+  <content>
+The most disturbing feature of AUSTRAC's 388-page statement of claim against the Commonwealth Bank is how little it has to do with technology - this claim focuses like a laser on a non-compliant bank culture.
+The case details a worsening relationship between AUSTRAC, the Australian Federal Police and CBA, .
+On April 4 last year AFP officers raided CBA premises for documents related to accounts linked to a $315 million methamphetamine seizure in Perth.
+How did things get to that stage? The AUSTRAC complaint is framed by the technology problems that CBA had with its Intelligent Deposit Machines (ADMs) which it introduced in May 2012.
+
+But technology problems account for only part of the mess that CBA now faces.
+
+The statement of claim reads like it is written by someone who is seriously angry, not just over the technological failings, but by a bank culture which under-reported, devoted inadequate resources, and was more concerned with the bank's position than its legal responsibilities.
+If the problem is culture as well as technology, this raises questions over the behaviour of the other unnamed banks which regularly appear in the AUSTRAC statement.
+The CBA IDMs are unusual in that they accept up to 200 notes in a single transaction. If they are $100 notes, that's $20,000.
+Systems error
+
+Banks are required to report to AUSTRAC any transaction above $10,000 or any pattern of structuring deposits to be under that threshold.
+On June 16, 2014, . AUSTRAC says 53,506 such deposits were not notified.
+On September 18, 2014, the bank applied a fix for this to its Financial Crimes Platform, but it didn't fix all accounts - that wasn't resolved until November 30, 2015.
+Even then,
+
+In all, CBA's monitoring problems affected 778,370 accounts during this time, and AUSTRAC says $8.91 billion was deposited in the bank's IDMs before it conducted any risk assessment for money laundering and financing terrorism.
+That's the big picture, the unknown unknowns, which AUSTRAC covers in the first 12 pages of its complaint. The other 376 pages detail what CBA did when its alert system did go off - that is, when its technology was actually working.
+It's ugly reading.
+The complaint details four drug syndicates laundering money and two "cuckoo smurfing" operations (a complex form of money laundering involving unsuspecting third parties), and extends from June 2014 to March this year, well after the time all accounts had been "fixed".
+
+The drug syndicates laundered $44 million, through cash deposits that averaged about $8000 (below the $10,000 reporting threshold) into accounts often in fake names. Syndicate 1 started off describing these fake account holders as "finance manager" or "pharmacy manager", then grew tired of the trouble and listed each of the next 28 fake account holders as unemployed.
+From the bank's point of view, their unemployed customer would set up an account, deposit about $1 million into it over six months, which was sent to a Hong Kong account by telegraphic transfer that cost $22. After six months the bank's compliance officers would be asking questions and it was time for a new fake account.
+Suspicious trading
+
+In the case of syndicate 2, none of the laundered money went overseas - it all went to other Australian banks.
+
+In early 2014 CBA had closed the account of a business that remitted money overseas, because of suspicious trading.
+The business promptly opened a new account at another bank (labelled Domestic Account No. 1 by AUSTRAC). Banks are legally obliged to file Suspicious Movement Reports within three days. In 2014 CBA was often taking a month to review alerts triggered by its monitoring software.
+By June 2014, CBA was getting alerts of structured deposits paid into a string of accounts which were then transferred to Domestic Account No. 1 in the unnamed bank. CBA's Anti Money Laundering (AML) team recommended closing Person 34's account, but it kept trading until October.
+An alert on October 6, on an account held by Person 33, wasn't reviewed by the AML team until November 24 when it was referred to AUSTRAC.
+Another alert on this account was not even reviewed, and while the suspicious activity continued no further alerts were raised.
+It wasn't until June 2015 that CBA wrote to the customer seeking identification details. It got no reply so the bank wrote again two months later, and a third time a month after that.
+The account holder had been in prison since January 2015.
+By 2015 the delay between alerts and the time the AML team reviewed them had got down to a week or so.
+
+The AUSTRAC complaint details time after time when suspicious activity was detected and reported to AUSTRAC. But the bank failed to pass on further alerts as the suspicious trading continued.
+Often the bank would decide to close accounts, writing to give account holders 30 days' notice, and they could set up a new fake account.
+Potential damage
+
+On May 4, 2015, the CBA's Intelligence Team was reviewing a suspect account that was linked to a cuckoo smurfing operation and recommended it be referred to "the Customer High Risk team, due to reputational and potential regulatory damage from suspected money laundering".
+No referral was made, but the comment underlines the sharp divide between AUSTRAC and the bank: the risk assessment for reputational damage, and "potential regulatory damage", which suggests at least the bank knew what its legal obligations were.
+On May 21 NSW Police arrested Arslan Shaffi and Salman Khan for money laundering, and discovered $3 million of banking receipts in their home.
+On May 26 NSW Police emailed CBA urgently seeking documents and CCTV footage related to several CBA accounts.
+CBA emailed back a spreadsheet on June 11, but several of the accounts kept trading. By July CBA's Group Security noted "possible terrorism financing risks" with these accounts.
+
+Through August, Group Security debated, first urging no action because the terrorism links could not be substantiated. But on August 27 Security noted "alleged links to a radicalised figure" and assessed it as a "medium" threat to CBA.
+Group Security kicked the matter upstairs to a "Senior" to decide. Ten months later, on June 29, 2016, a compliance executive approved terminating the account with seven days' notive due to "risk exposure to CBA".
+But at the end of January this year the account was still open.
+
+Turnover exploding
+
+By mid-2015, CBA found itself confronting at least four syndicates of Malaysian nationals who used fake names for accounts to launder money as it battled system problems.
+The turnover in the IDMs was exploding, reaching $1 billion deposited a month.
+On April 13, 2015, an AML team member commented on the latest alert: "I'm aware that about 1 million CBA profiles are not being picked up by FCP/Pegasus [the bank's crime reporting platform]. I just wanted to run these ... by your team to see whether they are part of it or if we have a wider issue."
+But the AFP was becoming increasingly frustrated that even without the technology problems, CBA was not forwarding the information that it did have - and its delays in responding to suspicious activity enabled money launderers to move millions of dollars more that could have been stopped.
+
+On May 18 the AFP served a section 49 notice on CBA seeking account opening and transaction docs for 16 suspicious accounts.
+On May 28 the manager of the Leichhardt branch in Sydney reported one of these accounts: "This morning we had an error in our IDM saying it was full. This is very unusual for our branch so I looked up the report and saw that there was 2 accounts used to make multiple deposits each just short of $50K in each account. Upon further investigation it appears that both accounts/profiles have been established through internet banking. I have looked through the transactions and it looks like each profile has deposited then transferred overseas at least $1Mil over the last month or so."
+CBA's AML team did not review this alert until June 29, when it concluded that a report on the customer had been referred to AUSTRAC on June 11 for similar activity, so no further investigation was required. Case closed.
+In July 1 the AFP asked CBA to stop withdrawals on the 16 suspect accounts and three more accounts, "but to continue allowing deposits to be made so that the AFP would be in a position to restrain the deposits before they were transferred to Hong Kong".
+CBA issued letters they were closing the accounts. The syndicate opened 11 new accounts in fake names and laundered another $4.78 million to Hong Kong in the next two months.
+On August 21 the CBA High Risk Customer team identified two companies and a director that had no shopfront, online presence or merchant facility. By August 26 the bank had moved to close the accounts, again with 30 days' notice.
+The AFP moved on Syndicate 1 on August 24, arresting Kha Weng Foong at Eastgardens branch after he deposited $40,050.
+The AFP asked for documents from CBA. With no response, on September 4 the AFP asked CBA to "escalate [their request for documents] to the highest priority at CBA. As I mentioned last week, 21 million in cash has been laundered by this syndicate and 5 persons have now been arrested (including 3 in Hong Kong)".
+
+Relations fraying
+
+CBA got back on September 9. With relations fraying, on November 25, 2016, the AFP advised CBA that eight company accounts were linked to an ice importation ring, and asked for account documents.
+CBA did not respond until December 22. By that time the AFP had swooped on the drug ring, arresting eight people in connection with the seizure of $315 million of ice on December 14.
+Few details are given of what followed. The AFP appear to have concluded that not all information was provided.
+The statement only says that "a search warrant in respect of this account was executed at CommBank premises on 4 April 2016".
+By this time relations between AUSTRAC and the AFP and CBA appear to have been seriously damaged. So it went on, for 93 case studies, example after example after mind-numbing example.
+By September 27 last year CBA's technology problems had all been fixed. But AUSTRAC's complaints continue.
+In five days from January 5 this year, Person 56, a Chinese national on a visitors visa loaded $444,000 into an account he opened.
+
+It wasn't until March 15 that CBA finally filed a full report, two months after the deposits. Person 56 by this time was long gone.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OCTOBER 6</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>November 25, 2016</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 29, 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Deposit Machines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IDM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA's Anti Money Laundering</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Group Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 26 NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kha Weng Foong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FCP/Pegasus</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Malaysian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Person 33</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Person 34</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>16</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA's AML</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA's IDMs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>March 15</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>August 27 Security</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA Intelligence Team</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 16, 2014</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 21 NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Financial Crimes Platform</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>April 4</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 30, 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Domestic Account No</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Customer High Risk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2014</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suspicious Movement Reports</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>April 13, 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July CBA's Group Security</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>May 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastgardens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>K</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>September 27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salman Khan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>August 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 26</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 24</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ADMS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DECEMBER 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 29</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 11</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arslan Shaffi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 18, 2014</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA High Risk Customer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 4, 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syndicate 1</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AML</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>13</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2016</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>May 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leichhardt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>31</count>
+    <score>-14</score>
+  </sindex>
+  <sindex>
+    <name>CommBank</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

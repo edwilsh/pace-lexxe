@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424898392586480</docid>
+  <date>04/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/17/05/wa-premier-disappointed-with-pm-s-visit</url>
+  <title>WA premier 'disappointed' with PM's visit</title>
+  <content>
+WA Premier Mark McGowan says he cannot put the prime minister in a headlock to get a better share of the GST revenue, but has vowed to maintain political pressure as Malcolm Turnbull finished his week in the west.
+WA receives the lowest share of GST revenue and the state government this week urged Canberra to intervene over new census figures downgrading WA's population it says could lead to another $1.9 billion drop in GST.
+The premier said he was disappointed with Mr Turnbull's visit to WA this week and hoped the prime minister would have more to offer next time.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WA Premier Mark McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GST</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

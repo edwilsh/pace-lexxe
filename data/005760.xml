@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407383515625365</docid>
+  <date>01/08/2017</date>
+  <time>11:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/new-technique-creates-stunning-3d-images-of-live-insects/</url>
+  <title>New Technique Creates Stunning 3D Images Of Live Insects</title>
+  <content>
+When taking high-resolution 3D scans of insects, scientists typically have to kill their test subjects, which isn't always ideal. By taking advantage of an insect's ability to survive oxygen-poor conditions, scientists have now used carbon dioxide to keep bugs in a state of suspended animation for upwards of seven hours at a time - and with no apparent side effects.
+
+(Image: D. Poinapen et al., 2017)
+
+Creating accurate and detailed 3D scans of live bugs has proven to be a challenge for scientists, mostly because insects have this nasty tendency of wanting to wiggle and move around. This is especially problematic when using standard X-ray or MRI machines, as the movements of bugs produce unwanted artefacts in the images. One option is to kill the test subject, but that presents other problems and limitations, namely the fact that a dead bug doesn't look a living bug. It also doesn't allow scientists to perform long term or follow-up studies on the same test subject.
+
+3D reconstruction of the whole body showing the internal structures and the tracheal system of a live anesthetized male adult true armyworm at one (sexually immature) and four (sexually mature) days. (Image: D. Poinapen et al., 2017)
+
+To overcome this problem, researchers Danny Poinapen and Joanna Konopka from Western University in London, Ontario, developed a new technique in which a steady stream of carbon dioxide is pumped into a chamber to temporarily immobilise an insect within. The CO2 induces a state of suspended animation in the insect, called hypoxia, allowing the scientists to take high-resolution 3D scans of live bugs using X-ray micro-computed tomography (micro-CT). The  have been published in the science journal BMC Zoology.
+
+In tests, the researchers immobilised living Colorado potato beetles and true armyworms with a steady gas flow of about 0.5L/min. The bugs, starved of oxygen, were immobilised for upwards of seven hours at a time, and in subsequent sessions several days later. The technique allowed the researchers to study minute differences in the bugs over time, including sexual development. Each bug was blasted with a tiny dose of radiation to improve the accuracy of the X-ray scans. The resulting micro-CT images were produced with an impressive resolution of 20 microns per voxel (a voxel is a 3-D pixel).
+
+Despite the CO2 and the radiation, the exposed bugs made a full recovery. The hypoxia had very little impact on their behaviour and longevity, and they had no problems mating later on.
+
+"We have demonstrated that using CO2 gas during micro-CT imaging effectively induces safe, repeatable, whole-body, and temporary immobilization of live insects for 3D visualisations without motion artefacts," concluded the authors in their study.
+
+In future, the technique could be used by scientists to study insects that impact on human health, including parasites.
+
+[]
+
+WATCH MORE: Science & Health News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BMC Zoology</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MRI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CT</name>
+    <count>3</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>CO2</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D. Poinapen</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>X-rays</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Colorado</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joanna Konopka</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>L</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Danny Poinapen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Technique Creates Stunning 3D Images Of Live</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ontario</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Health News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

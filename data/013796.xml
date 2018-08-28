@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422196858112798</docid>
+  <date>03/08/2017</date>
+  <time>20:40</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/friday-pulse-power-outage-affects-all-traffic-lights-on-oconnell-st-north-adelaide/news-story/4d550379aa3d3de0fe5226671a4a952c</url>
+  <title>Lights out along O'Connell St</title>
+  <content>
+A POWER outage is affecting all the traffic lights along a busy street in North Adelaide.
+The outage was first reported earlier this morning and has left 268 households without power.
+Among other streets affected are Main North Rd, Tynte St, George St and Chapel St.
+Police are asking the public to avoid the area where possible.
+SA Power Networks estimate electricity should be reconnected by about 7.15am.
+The cause of the outage is not yet known.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chapel St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Power Networks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Main North Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>O'Connell St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>George St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tynte St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

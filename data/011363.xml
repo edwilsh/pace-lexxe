@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416695004901996</docid>
+  <date>02/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/icac-operation-credo-findings/8769534</url>
+  <title>ICAC Operation Credo finds Obeid, Tripodi, Kelly engaged in corruption</title>
+  <content>
+The New South Wales Independent Commission Against Corruption (ICAC) has found former Labor ministers Eddie Obeid Snr, Joe Tripodi and Tony Kelly engaged in serious corrupt conduct.
+
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ICAC Operation Credo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tripodi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Obeid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales Independent Commission Against Corruption</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Kelly</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Eddie Obeid Snr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ICAC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joe Tripodi</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Kelly</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

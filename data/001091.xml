@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399128588336894</docid>
+  <date>31/07/2017</date>
+  <time>03:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/airport-delays-on-way-to-townsville/news-story/93b7937a7c67d1264ebaa90f316d4d2d</url>
+  <title>Airport delays on way to Townsville</title>
+  <content>
+PASSENGERS travelling through major airports en route to Townsville should expect delays.
+Townsville Airport has moved to reassure passengers it is not impacted by additional aviation security measures put in place after terrorist threats.
+But the airport did warn passengers travelling through any of the affected airports en route back to Townsville would be subject to increased processing times.
+"(Passengers) are encouraged to arrive at the airport two hours before scheduled flight," a Townsville Airport spokesman said.
+"There are no changes to what may be carried on board an aircraft and more information can be found at www.travelsecure.infrastructure.gov.au."
+"The new measures, which affect international and domestic terminals at Australia's major airports, do not include Townsville Airport.
+"The introduction is applicable to Australian capital city airports only, with the inclusion of both Gold Coast and Cairns airports.
+"Townsville Airport security screening procedures remain unchanged as directed by the Australian Government."
+The new measures were brought in after a .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville Airport</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Australian Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

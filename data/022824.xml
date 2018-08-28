@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442340254974896</docid>
+  <date>07/08/2017</date>
+  <time>02:50</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/south-australian-whales-need-space/news-story/2700b18efe443c28026457800789d82c</url>
+  <title>South Australian whales need space</title>
+  <content>
+Australian Associated Press
+
+Share
+
+South Australia's annual whale migration is underway, prompting a warning for people to keep their distance.
+Environmental authorities say there have been reports of boat users and paddlers getting too close to whales on the Fleurieu and Eyre peninsulas.
+"High-powered boats and jet-skis are not allowed closer than 300 metres to a whale, and paddle boarders and other conventional vessels must not come closer than 100 metres," a department of environment spokeswoman said.
+Every year southern right whales which can measure up to 18 metres long and 80 tonnes migrate from Antarctic waters to Australia's south coast between June and early October to breed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Antarctic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fleurieu</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eyres</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

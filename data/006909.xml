@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410347043120148</docid>
+  <date>01/08/2017</date>
+  <time>22:41</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/brisbane-parking-costs-more-than-sydney/news-story/194fd858ac0ac77d00924ee3ee534bd1</url>
+  <title>Brisbane parking costs more than Sydney</title>
+  <content>
+Brisbane drivers are paying more for short-term off-street parking than people in Sydney and Melbourne, Queensland's peak motoring group says.
+After surveying 150 parking stations across the city, the RACQ found it cost a Brisbane driver an average of $28.32 to stop for an hour compared to $28.08 in Sydney and $20.56 in Melbourne.
+RACQ spokesman Paul Turner described Brisbane's short-term parking as "very expensive" and full day prices as "outrageous".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>RACQ</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paul Turner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

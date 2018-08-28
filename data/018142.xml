@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430675123688501</docid>
+  <date>05/08/2017</date>
+  <time>05:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/google-play-will-bury-unstable-crappy-apps-in-favour-of-higher-quality-ones/</url>
+  <title>Google Play Will Bury Unstable, Crappy Apps In Favour Of 'Higher Quality' Ones</title>
+  <content>
+Both Google Play and the App Store are now saturated to the point that picking the right app for the job comes down to trial and error. Given two apps of equal functionality and price, you're going to want the faster, more stable one. Reviews can help make the decision, but Google is going a step further by tweaking its search algorithms to favour "higher quality" products.
+
+Google Play product manager Andrew Ahn :
+
+Excessive battery usage, slow render times, and crashes ... can be a source of frustration. In fact, in an internal analysis of app reviews on Google Play, we noticed that half of 1-star reviews mentioned app stability.
+
+So, along with the usual data of keywords, reviews and other bits and pieces, Google has "enhanced [its] search and discovery algorithms" to better "reflect app quality":
+
+This results in higher quality apps being surfaced in the Play Store more than similar apps of lower quality (eg: apps that exhibit more frequent crashes). The change has had a positive impact on engagement - we've seen that people go on to use higher quality apps more and uninstall them less.
+
+Ahn goes on to say that his change will ultimately help developers as well. You could have the best app in the world, but if it crashes on a customer's device, they're probably going to hit you with a single-star review, even if the problem is on the user's side. So this should give developers more reason to make compatibility and stability a priority, the reward being better discoverability.
+
+Well, that's the theory anyway.
+
+[Android Developers Blog, via ]
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Andrew Ahn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apps In Favour Of 'Higher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Quality' Ones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android Developers Blog</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Play Store</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Play</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Play Will Bury Unstable</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ahn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

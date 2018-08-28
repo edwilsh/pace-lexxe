@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416789494184483</docid>
+  <date>02/08/2017</date>
+  <time>23:41</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/truck-smashes-bridge-causing-road-and-rail-chaos/3208214/</url>
+  <title>Truck smashes into bridge, causing road and rail chaos</title>
+  <content>
+COMMUTERS have been warned of delays on the roads and the rail network after a truck carrying a load of cotton reportedly collided with a rail bridge.
+
+A member of the public reported the incident on Sherwood Rd, Rocklea to police after cotton spilled across the road about 8am.
+
+Police have arrived on scene and diversions are in place.
+
+The truck that crashed into a railway bridge on Muriel Ave in Rocklea. Picture: Peter Wallis
+
+The eastbound lane of Sherwood Rd will remain closed as emergency services remove the truck from under the rail crossing.
+
+Motorists have been asked to be mindful of delays and to not drive on the wrong side of the road to avoid the truck.
+
+Both the Beenleigh and Gold Coast lines were suspended for a time but are now back in operation.
+
+Translink has warned commuters to expect some delays.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Beenleigh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Wallis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Muriel Ave</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>TransLink</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sherwood Rd</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rocklea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

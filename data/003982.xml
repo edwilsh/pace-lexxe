@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404368448532100</docid>
+  <date>31/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/01/09/15/fire-department-rescues-man-and-dog</url>
+  <title>US fire department rescues man and his dog</title>
+  <content>
+Firefighters have come to the rescue of a man and his dog stuck in their SUV in a rapidly rising creek.
+The Florence Fire Department in Fremont, California used their truck's ladder to reach the man and his pooch - with a rope used to secure the dog who was then pulled to safety before the owner hauled himself out of harm's way.
+Posted to the Fremont County Sheriff's Office Facebook page on Sunday, the video has been shared more than 5,000 times and has been viewed nearly 460,000 times.
+According to the post, the man had parked his SUV in a dry creek bed, but it quickly became flooded by severe rain.
+The sherrif's office also posted a "Happy ending" picture with the man, his dog - who they identify as "Petey" - and their rescuer, while the stranded SUV can be seen in the background still stuck in the raging flood water.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Petey</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fremont County Sheriff's Office Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SUV</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fremont</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Florence Fire Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

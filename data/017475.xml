@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428935661916946</docid>
+  <date>04/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/qld-taxi-surfer-suffers-head-injuries/news-story/6f1347877105f347793b7555aa274789</url>
+  <title>Qld taxi surfer suffers head injuries</title>
+  <content>
+A Queensland man who tried to climb onto the roof of a moving taxi is fighting for his life after suffering serious head injuries.
+The 36-year-old ran in front of the taxi as it travelled along Waterson Way at Cannonvale, near Airlie Beach, on Friday night and jumped onto its bonnet and climbed up to the roof.
+"The man fell from the moving vehicle onto the road, and sustained serious head injuries," police said.
+He is in a critical but stable condition in Townsville Hospital, and forensic specialists are investigating.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Airlie Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waterson Way</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cannonvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Townsville Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

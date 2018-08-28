@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422707959231536</docid>
+  <date>03/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/08/23/qld-police-appeal-for-info-for-missing-man</url>
+  <title>Qld police appeal for info on missing man</title>
+  <content>
+Homicide police have launched a fresh appeal for information following the disappearance of a Queensland man two-and-a-half years ago.
+Sam Robert Price-Purcell, also known as Sam Price, was last seen in the southeast of the state on February 16, 2015.
+Both police and his family hold concerns for his welfare.
+The Homicide Group's Detective Inspector Damien Hansen said on Friday the 28-year-old's disappearance was being treated as "suspicious".
+He urged anyone with information about his movements in 2015 or his current whereabouts to contact police.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sam Price</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Robert Price-Purcell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Homicide Group's Detective Inspector Damien Hansen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

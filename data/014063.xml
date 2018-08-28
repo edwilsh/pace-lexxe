@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422712254198883</docid>
+  <date>03/08/2017</date>
+  <time>22:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/police-looking-missing-yamanto-man/3208660/</url>
+  <title>Police looking for missing Yamanto man</title>
+  <content>
+POLICE are appealing for the public's to help find a 57-year-old man reported missing from Yamanto since Wednesday night.
+
+Ashley Schulz (pictured) was last seen at an address on Arabian Close at around 6:00pm and friends or family have not seen him since.
+
+Police hold concerns for his welfare as this behaviour is out of character.
+
+Ashley Schulz is missing.QPS
+
+Ashley is described as Caucasian in appearance, approximately 180cm tall and is of a slim build.
+
+He was last seen driving a silver 2002 Ford Falcon station wagon with Queensland registration 272-RMP (similar to pictured).
+
+Anyone with information on Ashley's location is urged to contact Policelink on 131 444 or Crime Stoppers on 1800 333 000.
+
+Ashley Schulz is missing.QPS
+Ashley Schulz is missing.QPS
+</content>
+  <sindexList>
+  <sindex>
+    <name>Policelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashley Schulz</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yamanto</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ford Falcon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QPS</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RMP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arabian Close</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashley</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caucasians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

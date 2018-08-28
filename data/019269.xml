@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434957206121045</docid>
+  <date>05/08/2017</date>
+  <time>22:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/subscribe-to-notifications-on-facebook-posts-rather-than-commenting/</url>
+  <title>Subscribe To Notifications On Facebook Posts Rather Than Commenting</title>
+  <content>
+I really like using groups on Facebook. I'm in a ton of different writing groups where writers swap advice, as well as a few beer groups where people swap, well, beer. One thing that has become painfully obvious across both groups: a lot of people don't fully understand how Facebook works. There are a lot of odd offenses that pop up, but the one that tends to bother me the most is when people respond to posts with just the word "Following".
+
+People write "Following" as a comment on posts presumably because they want to keep up with them. This happens most often on posts where someone has asked a question that those people would also like the answer to. Once you comment, you're default subscribed to the thread, so you'll get a notification each time someone comments.
+
+It seems like an OK solution, but the thing is, you also get a notification each time some other person decides to write "Following." on the post as does every other person that's commented. It's annoying, and Facebook actually has a feature that lets you do this without notification spamming everyone in the conversation.
+
+Go to the post in question, and then click the tiny arrow at the top right of it.
+
+Select "Turn on notifications for this post" from the drop-down menu
+
+That's it. When you do that you'll get a notification whenever anyone comments on the post.
+
+Screenshot: Facebook
+
+The feature also works great in the reverse. I tend to run into issues whenever I comment on someone's new baby picture or engagement announcement. When you comment, you get everyone else's "Congrats!" message sent your way as well. You can stop it by going to that same drop down menu and selecting "Turn off notifications for this post".
+
+Your friend still gets your congratulatory message, but you don't have to read the hundreds of others that pour in after yours.
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>4</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Congrats</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subscribe To Notifications On Facebook Posts Rather Than Commenting</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423184700609332</docid>
+  <date>04/08/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/2017/08/04/fire-skyscraper-dubai/</url>
+  <title>Tower evacuated as flames engulf skyscraper in Dubai</title>
+  <content>
+A fire has broken out in one of the world's tallest residential towers in Dubai, engulfing part of the skyscraper and sending chunks of debris plummeting below.
+Firefighters are working to bring the blaze under control and no injuries have been reported so far at the Torch Tower, located in the popular Marina neighbourhood.
+"Dubai Civil Defense has successfully evacuated the Torch Tower and is working to bring the fire under control," Dubai's official media office said in a tweet.
+It is the second major fire to engulf the 86-storey skyscraper, which caught fire in early 2015. There were no major casualties reported in that blaze.
+An Associated Press journalist near the scene of early Friday's blaze said more than 40 floors of the high-rise tower appeared to be engulfed in flames on one side of the building. Residents of the building could be seen crying with several saying the fire broke just after 1am (local time).
+Dubai police cordoned off the area around the building, keeping people about a block away from the fire and the falling debris.
+Fires have affected several skyscrapers in the United Arab Emirates, including a towering inferno that engulfed a 63-storey luxury hotel in Dubai on New Year's Eve in 2016.
+Building and safety experts have cited a popular type of cladding covering the buildings that can be highly flammable.
+The devastating Grenfell tower fire in London in June killed at least 80 people and prompted Britain to order more thorough testing on the cladding systems of its towers.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Torch Tower</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Grenfell</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United Arab Emirates</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dubai Civil Defense</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Year's Eve</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

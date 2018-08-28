@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405528089719844</docid>
+  <date>01/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/13/50/sa-s-dignity-party-announces-nominations</url>
+  <title>SA's Dignity Party announces nominations</title>
+  <content>
+Dignity Party MP Kelly Vincent will be supported by a speech pathologist and a former South Sudanese refugee in her bid to retain the party's sole upper house seat at next year's South Australian election.
+In second spot on the ticket will be Diana Bleby, a speech pathologist, while Esther Simbi, a social worker and former refugee from South Sudan, will run in fourth spot.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Party MP Kelly Vincent</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Sudanese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA's Dignity Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esther Simbi</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Sudan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Diana Bleby</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436546344033833</docid>
+  <date>06/08/2017</date>
+  <time>04:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/jetbrains-has-officially-released-rider-its-cross-platform-c-and-net-ide/</url>
+  <title>JetBrains Has Officially Released Rider, Its Cross-Platform C# And .NET IDE</title>
+  <content>
+JetBrains has been , but this week marks its exit from beta and into the realm of retail. The cross-platform .NET and web development IDE has a lot to offer, though its subscription-based pricing may see it struggle against Microsoft.
+
+Unfortunately, if you've been enjoying Rider for free as part of the beta, unless you're a student or working on an open-source project, you're in for a surprise. . For businesses, .
+
+, which requires paying for a 12-month subscription, either all-up or cumulatively. While the pricing .
+
+On Rider's side is the fact it has JetBrains' ReSharper built-in, which is a big plus and it also runs on Windows, Linux and Mac, something Visual Studio doesn't offer, unless you go with Visual Studio Code.
+
+Other than that, Rider is going to be a hard sell to .NET developers. That said, it's about time Visual Studio had some solid competition.
+
+[JetBrains]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IDE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JetBrains' ReSharper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Linux</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cross-Platform C</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Visual Studio Code</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NET IDE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JetBrains</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Visual Studio</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JetBrains Has Officially Released Rider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

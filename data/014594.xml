@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707599953</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/wild-winds-rain-to-lash-parts-of-the-victoria/news-story/ca4dfb98b25e3c9ee28ea6f1fbc86d18</url>
+  <title>Wild winds, rain to lash weekend</title>
+  <content>
+EXTREME weather has been forecast for parts of Victoria this weekend.
+But the Bureau of Meteorology says it will be different from last Saturday's windy conditions.
+
+A revised forecast for this weekend will be realised this morning by BoM and State Emergency Service.
+Strong winds have been forecast, with a severe weather warning expected to be issued for parts of the state.
+Gusts of up to 130km/h swept through Victoria last Saturday, prompting severe weather warnings to be issued.
+The SES received more than 800 calls for help, with 300 due to building damage.
+The BoM will release more information at 11am, after conducting a final forecast of this weekend's conditions.
+Melbourne can expect a rainy top of 14 degrees tomorrow, with a low of seven overnight.
+Similar conditions have been forecast for Sunday with a low of seven and top of 14.
+
+These dedicated weather reporters take 'rain, hail or shine' very seriously.
+
+News reporter wild weather fails
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445316667361220</docid>
+  <date>07/08/2017</date>
+  <time>14:23</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/wealth/boom-then-bust-dollar-strength-enhances-global-options/news-story/2d2b630efcd2a230d9270df2f30b239f</url>
+  <title>Chance of $A-led dip in global pool</title>
+  <content>
+The recent strength of the Australian dollar presents a compelling opportunity for local investors to spread their wings beyond the strictures of the domestic sharemarket to global opportunities, notably US dollar-denominated assets.
+Why? A higher Australian dollar means investors enjoy more "bang for their buck" on the currency translation. And if the playbook of market expectations pans, the dollar's strength is expected to be short-lived (which means investors should enjoy a reverse benefit when repatriating funds).
+The benefits of global diversification are more about a currency play: the choice of exposures on offer (in terms of individual companies and sectors) is more expansive. While the Australian economy is progressing in fits and starts, there are better opportunities in a recovering Europe and - despite the dangers of an erratic president - the US.
+In July the Australian dollar hit two-year highs, sustained by both the weakening US dollar and the Reserve Bank's musings about a "neutral" official cash rate of 3.5 per cent - compared with the current 1.5 per cent. The neutral cash rate is widely seen as the normalised setting reflecting a healthy economy.
+The currency plunged half a cent in hours after the RBA's deputy governor, Guy Debelle, said the comments - part of the bank's monthly minutes - should not be seen as a precursor to an imminent rates rise.
+"The RBA sees a strong Australian dollar as complicating the transition, so it's not in the best interest of the Australian economy for the Australian dollar to trade higher," explains Citi investment strategist Simson Sanaphay. "Any currency volatility can easily snuff out the yield pick-up, making Australian dollar assets less in demand.''
+What does this mean for the Australian dollar now? On market consensus - the forecasts of institutional economists and strategists - the Australian dollar is tipped to settle back to the US75c range.
+Citi shares that view, forecasting the currency to mark time for the next three months, before falling to the mid-US70c level within a year. It expects weaker iron ore and coal prices - Australia's biggest sectors - potentially weakening our terms of trade in the long run as seaborne supply surges see lower prices too. "In our view the long term is not as constructive for the currency," he says.
+On the other side of the Australia-US dollar equation, the greenback has been lacking the catalysts it enjoyed from the "Trump effect" early this year: optimism about tax cuts and free-market reforms and big spending on defence and infrastructure. And the Federal Reserve's signals pointed to a third rate rise for the year.
+Since then, the timeframe for another rise has been pushed out to the end of the year - or even beyond. Not surprisingly, this "later rather than sooner" stand has weighed on the US dollar.
+What's driving the wariness is disappointing US economic data, including weaker retail sales figures. US inflation also has been running below the targeted 2 per cent Goldilocks level that implies a desirable increase in both prices and salaries. In the meantime there's a logjam on Capitol Hill, with the legislative process to implement tax cuts moving at a snail's pace.
+But have all the negatives been more than factored into the greenback's weakness? As Sanaphay points out, "We think tax cuts are likely to come through but pushed out further. If they come, they could create a substantial surprise."
+This mosaic of currency influences makes for compelling opportunities to leverage the Australian dollar strength to expand investors' horizons into global equity exposures.
+Commenting on trends in Citi's client base, Sanaphay notes that investors take advantage of the similar returns in US dollar-denominated as well as Australian dollar-denominated investments. "There's been an 8 per cent growth in US dollar at-call funds so far this year. Clients are deploying their US dollar funds and taking advantage of Citi's ability to get them access to popular global stocks like Apple, Facebook, Alipay and Eli Lily. "Of course investors are not currency screen jockeys and they should never make decisions based on currency trends alone. But the Australian dollar's strength provides a sturdier 'rod' for them to fish in far deeper asset ponds - something they should be doing anyway."
+Of the S & P/ASX 200 stocks, resources (predominantly BHP, Rio and Woodside Petroleum) account for 23 per cent of the index. The financials (read: the banks, especially the Big Four) account for 41 per cent. Compare that to the MSCI all-country index, the global proxy of the world's economy, which has a more balanced 19 per cent exposure to financials and 5 per cent to resources. This means Australians miss out on global big-name technology and pharmaceuticals stocks.
+While Citi expects the profit-reporting season to be robust and positive for local equities: "We still believe there are potentially better opportunities elsewhere," Sanaphay says.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Debelle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia-US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woodside Petroleum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>14</count>
+    <score>15</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Alipay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Four</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eli Lily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldilocks</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Capitol Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sanaphay</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simson Sanaphay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US$75</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

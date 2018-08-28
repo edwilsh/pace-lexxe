@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426710868820216</docid>
+  <date>04/08/2017</date>
+  <time>14:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/inner-south/port-phillip-council-promises-tougher-scrutiny-on-highrise/news-story/a4ddc6df48a767ebcd94fbac986cf9e4</url>
+  <title>St Kilda high-rise plans face tougher tests</title>
+  <content>
+PLANS for buildings higher than six storeys on St Kilda Rd north will now face tougher scrutiny.
+The precinct, which stretches from Dorcas St to Queens Way, bounded by St Kilda Rd to the east and Queens Rd to the west, is in the midst of a development boom as the city's population skyrockets.
+St Kilda Rd north is also under pressure from Metro Rail Tunnel works set to add congestion to much of the road for years to come.
+Port Phillip Council this week voted to put a trigger clause on all planning applications for buildings over six storeys in the area, putting the onus on councillors, rather than council officers, to consider each proposal.
+The same sort of rule applies to developments slated for Fishermans Bend.
+Cr Marcus Pearl said the new condition was a response to "significant resident concern".
+"It's aimed at ensuring we get better community outcomes ... and it empowers this group of councillors to increase transparency," he said.
+"This area is predicted to have a total of 17,675 residents (by 2027), and I think that sort of increase in such a small area does justify (the added scrutiny).
+"(This change) sends a very clear message to the St Kilda Rd community that ... we understand the needs and requirements of that area and we'll do our best to support our residents and future residents."
+Vicky Myers, who lives on St Kilda Rd, said it was important councillors gave the rapidly growing area the same considerations as Fishermans Bend.
+"I'd like to think councillors, those voted for by residents to represent their interests, would take responsibility for important decisions relating to planning permit ... rather than delegating such decisions to officers," she said.
+Mayor Bernadene Voss said councillors needed to band together for the community.
+"We've seen the gusto with which the planning applications for development are coming in to change the area into this high-density, mixed-use zone," she said.
+"We need to support our officers and the community to get the very best outcome."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Queens Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayor Bernadene Voss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Kilda Rd</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vicky Myers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Kilda</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Cr Marcus Pearl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dorcas St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queens Way</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Phillip Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fisherman's Bend</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Metro Rail Tunnel</name>
+    <count>1</count>
+    <score>-2.7</score>
+  </sindex>
+  </sindexList>
+</snippet>

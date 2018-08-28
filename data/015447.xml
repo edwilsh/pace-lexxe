@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424597744870901</docid>
+  <date>04/08/2017</date>
+  <time>05:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4834830/qantas-a380-dumps-fuel-as-it-circles-off-wollongong-coast/?cs=300</url>
+  <title>Qantas A380 dumps fuel as it circles off Wollongong coast</title>
+  <content>
+The plane's movements, as seen on flightradar24.com
+A Dallas-bound Qantas A380 that's encountered a mechanical problem is circling in the sky off the coast of Wollongong, dumping fuel as it prepares to return to Sydney. 
+In a statement, Oantas said the flight, QF7, was returning to Sydney Airport due to "a mechanical issue".
+"The flaps on the aircraft (which are attached to the wing) are unable to retract which means the aircraft can't fly efficiently," the statement said.
+"As the Dallas flight is our longest on the network, the captain made the decision to return to Sydney.
+"The aircraft - an Airbus A380 -  is expected to land at around 4pm Sydney time where it will be inspected by engineers."
+The plane has been seen flying low over Wollongong on Friday afternoon. 
+Meanwhile, a second flight - Qantas flight QF63 to Johannesburg - also needed to return to Sydney due to an engineering issue on Friday afternoon.
+"This aircraft has landed safely. It is a Boeing 747-400 and has an unrelated issue to the QF7," Qantas said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Airbus A380</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-bound Qantas A380</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Qantas A380</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oantas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

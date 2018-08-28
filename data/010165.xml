@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415836011426469</docid>
+  <date>02/08/2017</date>
+  <time>19:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/mining/iron-ore/china-iron-ore-snaps-threeday-rally-20170802-gxo6g1</url>
+  <title>China iron ore snaps three-day rally</title>
+  <content>
+Iron ore futures in China retreated on Wednesday after a three-day rise that pushed prices to their highest in more than four months amid doubts a restocking-driven rally would be sustainable.
+Chinese steel producers, the world's top buyers of iron ore, had been boosting stocks of the raw material as they increase output in anticipation of demand picking up after the summer lull but could leave them with too much iron ore later this year.
+That has lifted spot iron prices this week to their strongest level since April at above $US70 a tonne, although analysts at Barclays think that may be difficult to sustain, saying that a drop to "mid-to-low $US50/tonne handle by the fourth quarter is increasingly likely".
+"Even if we assume demand conditions remain supportive, we see the price outlook as still under downward pressure," they said in a note.
+
+Iron ore for September delivery on the Dalian Commodity Exchange closed down 1.1 per cent at 567.50 yuan ($US84) a tonne. The contract rose to 582 yuan on Tuesday, its highest since March 24.
+
+Spot iron ore prices fell 1.7 per cent to $US72.30 a tonne, according to Metal Bulletin. They had hit $US73.70 on Monday, the highest since April 11.
+Investment bank ANZ said firmer Chinese steel prices should "keep upward pressure on raw material prices in the short term".
+The most-active rebar on the Shanghai Futures Exchange closed 0.2 per cent higher at 3725 yuan per tonne. The construction steel product rose to 3759 yuan on Tuesday, its highest level since September 2013.
+Rio Tinto , the world's No. 2 iron ore miner, on Wednesday reported that  to $US3.94 billion amid a recovery in prices of iron ore and other commodities.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US73.70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metal Bulletin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai Futures Exchange</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US3.94</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>March 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barclays</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>April 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 2013</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US72.30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US 84</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US$70</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dalian Commodities Exchange</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

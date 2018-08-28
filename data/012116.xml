@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417687142363668</docid>
+  <date>03/08/2017</date>
+  <time>03:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/pacific-trade-pact-bills-before-parliament/news-story/8b1def1096a57e222bbcfe66ffb0d45b</url>
+  <title>Pacific trade pact bills before parliament</title>
+  <content>
+The Turnbull government will push ahead with an attempt to formally legislate the controversial Trans-Pacific Partnership deal, despite its uncertain fate following US withdrawal.
+The 12-country deal appeared doomed after President Donald Trump scuttled US participation shortly after he took office in January, but the remaining 11 countries have been considering the prospects of reviving the deal without America.
+Two customs and tariff bills are listed on the agenda for the spring session of federal parliament which begins next week.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Trans-Pacific Partnership</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

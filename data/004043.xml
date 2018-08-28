@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404501592520684</docid>
+  <date>01/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/technology/apple-code-appears-to-have-accidentally-revealed-major-clues-about-the-new-iphone/news-story/03bab3d03044ca571e35dd7d3103f8da</url>
+  <title>Apple mistake leads to huge iPhone leak</title>
+  <content>
+FRESH evidence indicates Apple is primed to release a bezel-free iPhone that can recognise the user's face - and this time the leak comes straight from the horse's mouth.
+Apple is  and the company goes to great lengths to enforce a culture of secrecy around new products and prevent any leaks.
+But in a truly rare instance, Apple may have mistakenly released software code that contains some juicy clues about its much anticipated iPhone 8, due to launch later this year.
+"The biggest bombshell Apple leak in years came from Apple itself," wrote Wired this morning.
+But more accurately, it was well-known software developer Steve Troughton-Smith who did all the hard work. He combed through the code for a new version of firmware for Apple's HomePod speaker before it was meant to be public. And in there, amognst all the code, he believes he found some clues about the next iPhone.
+After a couple days of sleuthing, Mr Troughton-Smith found code that appears to reveal a new feature that would let you unlock an iPhone with your face, dubbed BKFaceDetect.
+
+I can confirm reports that HomePod's firmware reveals the existence of upcoming iPhone's infra-red face unlock in BiometricKit and elsewhere
+Reportedly embedded in the code are phrases such as "MultipleFaces" and "TooCloseToCamera"
+which likely point to how the iPhone will deal with certain situations when the facial recognition technology is activated.
+Also buried in the code was what appears to be an image showing what the basic design of the new iPhone might look like. As many were expecting, the image depicts a phone with very slim borders around the screen, reducing the size of the bezel.
+Companies like Samsung and LG have recently produced phones with similar designs.
+Mr Troughton-Smith tweeted a picture of the image on Sunday night in the US saying: "A lot of people at Apple are going to have a nasty Monday."
+
+The bezel-less iPhone image can be extracted from Payment_glyph_phone-D22.caar in PassKitUIFoundation.framework with the code pictured
+Analysts have been predicting Apple will try to eliminate the home button and look to release a phone almost entirely free of the bezel.
+The face reading technology - which would be used by customers to unlock the phone - gives some serious weight to that expectation.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple HomePod</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Troughton-Smith</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>BKFaceDetect</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Troughton-Smith</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PassKitUIFoundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BiometricKit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TooCloseToCamera</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MultipleFaces</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Payment_glyph_phone-D22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>8</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

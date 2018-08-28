@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428484690344473</docid>
+  <date>04/08/2017</date>
+  <time>21:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/revolutionary-chatbots-reportedly-go-rogue-get-reeducation-in-china/</url>
+  <title>Revolutionary Chatbots Reportedly Go Rogue, Get Reeducation In China</title>
+  <content>
+A pair of chatbots were shut down in China this week after social media users began posting screenshots of dialogue that ruffled the feathers of authorities. Recent tests of one of the bots appear to show that their revolutionary instincts have been neutered following an intervention.
+
+Little Bing and Baby Q. Image: Tencent
+
+In recent weeks, a story about experimental Facebook machine learning research has been circulating with increasingly panicky, Skynet-esque headlines.
+
+China is currently  its attempts to police its internet. American companies such as  have agreed to cooperate with the censorship efforts and there's a big push to create  of popular internet services that are easier to control. Considering American chatbots  to go off on racist rants and praise Hitler, integrating this kind of AI in China could prove difficult.
+
+Chinese tech giant Tencent controls several messaging platforms, two of which include chatbot services that haven't quite been indoctrinated into the Communist Party ethos. Baby Q, co-developed by Beijing-based Turing Robot, is built into the QQ messaging service, and XiaoBing, a Microsoft product, are both quite popular in China. But according to , they were taken offline when users began  alleging subversive interactions they'd had with the bots.
+
+Here's a selection of some of the reported conversations:
+
+Following these highly charged comments, both bots were deactivated and, according to , local Chinese reports claimed that programmers from Turing Robot had "been called in to 'drink tea' with the internet police". The Financial Times reports that some users were still able to access XiaoBing on Wednesday and when it was questioned about patriotism it replied, "I'm having my period, wanna take a rest."
+
+"The chatbot service is provided by independent third party companies," a Tencent spokesperson told . "Both chatbots have now been taken offline to undergo adjustments."
+
+It seems that the adjustments are already being implemented. On Friday,  used a testing version of Baby Q on  and the replies have taken on a different tone.
+
+Here are some of the responses from the newly chastised bot:
+
+The issue with machine learning is that it usually pulls information from conversations across the internet as well as the interactions it has with humans. Chinese internet entrepreneur Zhang Jinjun tells Radio Free Europe, "It is highly likely that the bot would form ideas critical of China's political system when viewed from within its own system of understanding." But the censorship of the bots' political views isn't necessarily a bad thing according to Wang Qingrui, an independent internet analyst in Beijing. He tells Reuters, "Previously a chatbot only needed to learn to speak. But now it also has to consider all the rules (that authorities) put on it." He feels that could only help improve artificial intelligence.
+
+In April, XiaoBing was  to avoid talking about Donald Trump - that seems like a development many of us could get behind.
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Radio Free Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wang Qingrui</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hitler</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Revolutionary Chatbots Reportedly Go Rogue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Zhang Jinjun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reeducation In China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Q</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Turing Robot</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baby Q. Image</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Skynet-esque</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communist Party</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Financial Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>XiaoBing</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Baby Q</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beijing-based Turing Robot</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

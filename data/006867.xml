@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410299798478855</docid>
+  <date>01/08/2017</date>
+  <time>22:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/6-things-australian-traders-will-be-talking-about-this-morning-v2-2017-8</url>
+  <title>6 things Australian traders will be talking about this morning</title>
+  <content>
+Good morning.
+
+To the scoreboard:
+
+Dow: 21,963.92 +72.80 (+0.33%)
+S&P 500: 2,476.35 +6.05 (+0.24%)
+AUD/USD: 0.7969 -0.0002 (-0.02%)
+ASX200 SPI futures (Sept contracts): 5,711 (-3)
+Iron ore benchmark 62% fines: $US73.56 (-0.2%)
+
+1. USD climbs off the mat: Europe's run of solid data continued as annual GDP growth came in at 2.1%, matching forecasts as the Eurozone economy stabilises. In the US, the ISM manufacturing PMIs missed but remained solid at 56.8, while the PCE core inflation index showed soft consumer spending growth of just 0.1%. Despite that, the US dollar gained ground against the euro. Although the pound rose  the overnight moves suggest that the market took the view that the greenback has been oversold.
+
+2. Tough night for the commodity bloc: That US dollar strength extended to the commodity bloc currencies with the Aussie, Canadian "loonie" and Kiwi dollar all lower this morning. Commodity prices also fell overnight after recent strong gains. The AUD is back below US79.7 cents after holding above US80 cents yesterday following the RBA's statement accompanying interest rates. Although the RBA paid extra attention to the headwinds stemming from a stronger currency,
+
+3. Bond market repositions: It was an interesting night on bond markets, with the yield on benchmark US 10-year treasuries reaching 2.32% before falling 7 basis points to 2.25%. German bonds followed a similar path as did Australian 10-years, with yields climbing to 2.75% before falling to 2.7%. Lower bond yields suggest that the bond market is pushing back the time frame for an expected rise in inflation.
+
+4. And stocks rally: Stocks in the US, Europe and the UK all rose overnight. Bulls would have been encouraged by the IHS Markit global manufacturing index which hit a 3-month high of 52.7. German stocks rose by more than 1% to lead European indexes higher, while in the US the Dow hit a new record high  Despite the strong lead, futures traders on the ASX200 have picked the local index to open flat after a strong day of gains yesterday to start the month.
+
+5. The day ahead: Domestic data will be headlined by June building approvals from the ABS at 11:30am AEST,  Across the strait the Kiwi's release employment figures. Later tonight there's speeches the heads of the Cleveland and San Francisco offices of the US Federal Reserve, along with more PMI data and the weekly oil inventory figures from the US government's Energy Information Authority.
+
+6. Oil bulls run out of steam: Oil prices took a breather overnight amid broader commodity weakness, and dipped further this morning upon the release of API inventory data in the US which showed a stock build. Iron ore also fell after a posting a 7% gain the day before, while gold's negative correlation with the US dollar continued with prices falling slightly as the greenback strengthened.
+
+Bonus (crypto) item: Bitcoin split in two last night,  Meanwhile, orders for the new version called Bitcoin Cash are  Prices dipped slightly but it wasn't too dramatic, with the cost of a Bitcoin dipping from above $US2,900 to around $US2,730 this morning.
+
+Enjoy your Wednesday, I'm on Twitter
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISM</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sept</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX200 SPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AUD/USD: 0.7969 -0.0002 (-0.02</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2,900</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US73.56 (-0.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PCE</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cleveland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMIs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500: 2,476.35 +6.05 (+0.24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Energy Information Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US79.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AUD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kiwi</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dow: 21,963.92 +72.80 (+0.33</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,730</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bulls</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419572633040036</docid>
+  <date>03/08/2017</date>
+  <time>10:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/thailand-floods-leave-at-least-23-dead/news-story/391c4c00d3a38e2bd6d259aa062187f4</url>
+  <title>Thailand floods leave at least 23 dead</title>
+  <content>
+Floods in Thailand's northern and eastern regions have killed at least 23 people and left two missing with damage estimated about $A378 million.
+Ten provinces have been flooded due to heavy rains, affecting 721,500 people, the Interior Ministry said on Thursday.
+It said about 1554sqkm of rice farming land had been affected.
+The hardest hit is Sakon Nakhon province, about 640km east of Bangkok, which has recorded nine deaths.
+Schools and department stores in the province remain shut.
+Prime Minister Prayuth Chan-ocha visited flood victims in Sakon Nakhon on Wednesday and said the government was working on a big project to fix flooding.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Prime Minister Prayuth Chan-ocha</name>
+    <count>1</count>
+    <score>-2.6</score>
+  </sindex>
+  <sindex>
+    <name>Interior Ministry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bangkok</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Thailand</name>
+    <count>2</count>
+    <score>14</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sakon Nakhon</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

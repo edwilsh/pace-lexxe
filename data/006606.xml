@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409827352066804</docid>
+  <date>01/08/2017</date>
+  <time>20:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/nsw/man-charged-after-allegedly-stealing-a-safe-from-rozelle-pub-20170801-gxng6i.html</url>
+  <title>Man charged after allegedly stealing a safe from Rozelle pub</title>
+  <content>
+Photo: NSW Police Force
+A man spotted allegedly wheeling a large floor safe in a shopping trolley down a busy road in Sydney's inner west will face court on Wednesday morning charged over a pub robbery.
+Police allege the 44-year-old man broke into Rozelle hotel early on Tuesday morning, taking cash, documents and a heavy floor safe.
+The man was arrested at 10.15am the same day while allegedly wheeling the safe, estimated to weigh a few hundred kilograms, in a shopping trolley along Victoria Road.
+Police could not say how the man allegedly managed to get the safe into the trolley before making his getaway.
+He was taken to Newtown Police Station where he was charged with a number of offences including break, enter and steal.
+Following further investigation, he was also charged with breaking into the same hotel in June and allegedly stealing keys, a computer and a cash register.
+The man was refused police bail and is scheduled to appear in Parramatta Local Court on Wednesday.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rozelle</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newtown Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443594385444160</docid>
+  <date>07/08/2017</date>
+  <time>07:42</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/labor-to-oppose-welfare-drug-test-trials/news-story/894fffd9b1c7909fa73f794a34a8e626</url>
+  <title>Labor to oppose welfare drug test trials</title>
+  <content>
+Labor will oppose the Turnbull government's move to randomly test Newstart and Youth Allowance recipients for drugs.
+The government plans to roll out the scheme across three trial sites from January next year, affecting about 5000 people.
+The Labor caucus on Monday voted to oppose the drug test trials and six other sections of the legislation and will reserve its position on the overall bill until after a Senate inquiry.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Youth Allowance</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newstart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

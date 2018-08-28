@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414075074798740</docid>
+  <date>02/08/2017</date>
+  <time>13:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/bomber-strikes-nato-convoy-in-afghanistan/news-story/4865d2742599283c41f08315bc079b73</url>
+  <title>Bomber strikes NATO convoy in Afghanistan</title>
+  <content>
+A suicide bomber has struck a NATO convoy near the southern Afghan city of Kandahar.
+US military officials have confirmed the attack, adding that there were casualties but without providing more information.
+The Taliban promptly took responsibility, a spokesman for the insurgents saying Wednesday's bombing had killed 15 soldiers. Similar claims in the past have been exaggerated.
+Lieutenant Damien E. Horvath, a military spokesman, could not say how many casualties there were or provide their nationalities.
+The NATO mission, known as Resolute Support, "can confirm that a NATO convoy was attacked in Kandahar. The attack did cause casualties," he said.
+In their claim of responsibility, the Taliban also said the attack destroyed two armoured tanks.
+The insurgents' spokesman for southern Afghanistan, Qari Yusuf Ahmadi, said fighter Asadullah Kandahari was the "hero" who carried out the attack with a small pick-up truck, packed with explosives.
+Kandahar province was the Taliban spiritual heartland and the headquarters of their leadership during the five-year rule of the Taliban, which ended with the US invasion in 2001.
+Eyewitness Ghulam Ali, who runs a mechanics shop near the attack site on the outskirts of the city of Kandahar, said the intensity of the blast knocked him out.
+When he came to, he saw a military vehicle on fire on the road.
+He stepped out of his shop but a sudden burst of gunfire drove him back inside, he said.
+Then, helicopters arrived and he saw soldiers being taken away from the scene but could not determine the extent of their injuries.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Lieutenant Damien E. Horvath</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ghulam Ali</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qari Yusuf Ahmadi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Resolute Support</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NATO</name>
+    <count>4</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Asadullah Kandahari</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

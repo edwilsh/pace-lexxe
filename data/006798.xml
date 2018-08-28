@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410123704816306</docid>
+  <date>01/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/sydney-terror-raids:-man-released-without-charge/8765874</url>
+  <title>Sydney terror raids: Man released without charge over alleged plane terror plot</title>
+  <content>
+A man arrested by counter-terrorism police over an alleged plot to attack a plane has been released from police custody in Sydney without charge.
+Four men were arrested by the New South Wales Joint Counter-Terrorism team on Saturday after intelligence reports of a plot to take down a passenger plane using an improvised device.
+A 50-year-old man was released from police custody last night. A further three men remain in custody.
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales Joint Counter-Terrorism</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

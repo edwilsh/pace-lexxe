@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412786584583541</docid>
+  <date>02/08/2017</date>
+  <time>08:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/cba-nab-tighten-rules-amid-identity-theft-warning-20170731-gxmonj</url>
+  <title>CBA, NAB tighten rules amid identity theft warning</title>
+  <content>
+Commonwealth Bank of Australia, National Australia Bank and Westpac Group are tightening identity and financial checks as a federal taskforce pushes for tougher controls, including overhauling of Australian Business Licences.
+CBA, the nation's biggest mortgage provider, will demand mortgage brokers, which act as intermediaries between the lender and borrower, personally verify the applicant's identity and provide legible copies of original documents.
+NAB is making it mandatory for mortgage brokers to include and verify personal, guarantor, company consent forms and broker declarations about the borrowers' identity.
+Westpac Group, which includes Bank of Melbourne, BankSA and St George, is reminding brokers it requires improved analysis of a borrower's financial situation, including detailed expenses and liabilities.
+
+The moves follow warnings by the chairman of the federal government's Black Economy Taskforce that rampant identity theft could "systemically undermine" the nation's financial and banking system.
+
+The taskforce has launched a discussion paper in the lead-up to his final recommendations about strategies for tackling
+"A more robust, reliable and efficient identity system is urgently needed," chairman Michael Andrew said. "This is as much about the black economy as it is national security."
+Canvassing opinion
+
+Other issues beng canvassed include:
+
+*Plugging gaps in the tax regime with strict liability violations for offences such as phoenixing;
+*Specialist tax tribunals to increase the number of cases and convictions;
+*Naming and shaming tax evaders and sanctioning unethical tax agents;
+*Reverse onus of proof for serious offences, such as trying to smuggle large amounts of cash out of the country;
+
+*Cutting red tape and boosting cooperation between Canberra, states and territories;
+*Boosting whistle-blower incentives;
+*Using smarter digital technologies to detect breaches; and,
+*Requiring non-cash payment of wages, reducing the number of $100 notes in circulation and introducing non-cash wagering.
+
+It also recommends incentives, such as government contracts, for companies with good tax records, introducing minimum tax assessments for high-risk businesses and using education and publicity to promote the importance of "doing the right thing".
+Banks seek balance
+
+Major banks, which are prime targets for identity theft, are attempting to balance client demand for easy online access to financial products with the threat of identify theft.
+Under the new arrangement being introduced by CBA, mortgage brokers will have to acknowledge they have viewed the original identification documents for borrowers and/or guarantors.
+
+"We are always looking at ways to strengthen our policies and support responsible lending," a CBA spokesman said.
+NAB is telling mortgage brokers to self-verify personal consent forms, guarantor consent forms, company consent forms and their broker declaration about the applications bona fides.
+Westpac has resent details of its new expense-to-income ratio intended to capture all clients' actual declared expenses. It follows Australian Securities and Investments Commission identifying wide-scale suspected fraud in lenders' expense and liability statements.
+John Flavell, chief executive of Mortgage Choice, a listed mortgage brokerage, said he welcomes any security improvements that lower risk of identity theft and increase transparency.
+Mr Flavell said: "CBA and NAB are by mandating the broker sights original identification documents and ensures all parties know what they are signing up for."
+Fraud fast-growing
+
+Independent bank-sponsored agencies, such as Equifax, estimate identify theft is growing by 80 per cent a year, the fastest-growing source of fraud for banking, superannuation, credit card and insurance providers.
+Tyler Harris, chief executive of Armourcard, a cyber security company, said: "It has never been easier to steal personal ID,"
+
+For example, smartphones are being targeted by sophisticated cyber-thieves who can plant Trojan Horse codes for stealing data by using digital signals, he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Armourcard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tyler Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trojan Horse</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Black Economy Taskforce</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Westpac Group</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Flavell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Business Licences</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Michael Andrew</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St George</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Equifax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Flavell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mortgage Choice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Australia Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>BankSA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

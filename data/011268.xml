@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417042897259360</docid>
+  <date>03/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/mps-have-right-to-vote-for-gay-marriage/news-story/733bfa93fad9acb853b408e461d231c5</url>
+  <title>MPs have 'right' to vote for gay marriage</title>
+  <content>
+Australia's deputy prime minister says he wouldn't punish government MPs for crossing the floor of the lower house in favour of gay marriage.
+Labor and some government backbenchers may push for a free vote on same sex marriage when parliament returns next week, contravening the coalition's position to hold a plebiscite or a postal ballot over the issue.
+West Australian Liberal senator Dean Smith is working on a private members' bill legalising same-sex marriage, while his lower house colleagues Trevor Evans, Tim Wilson and Warren Entsch have flagged crossing the floor to support it.
+Barnaby Joyce said Liberal and National MPs have the right to vote against party lines, and the coalition doesn't subscribe to the same "totalitarian process" as the opposition.
+"I'd be the last person to criticise someone for crossing floor - in the Labor party they kick you out," the Nationals leader told ABC radio.
+"We don't believe in that... if you've got a different view and you can support a potent argument, then that's your right."
+Prime Minister Malcolm Turnbull will reportedly use a secret ballot to canvass the opinions of his partyroom on marriage reform, in a bid to stop infighting over the issue that threatens his leadership.
+The vote could be used to deter moderates from crossing the floor in support of same-sex marriage, with the prime minister told just one in five MPs support the reform advocates.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>MPs</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Barnaby Joyce</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Wilson</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warren Entsch</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nationals MPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Australian Liberal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trevor Evans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444397544342203</docid>
+  <date>07/08/2017</date>
+  <time>10:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/victim-repeatedly-bashed-in-mandurah-brawl/news-story/b19fc7a8925d5cfafe7c511ef1483a5a</url>
+  <title>Man bashed in wild Mandurah brawl</title>
+  <content>
+CAMERAS have captured the moment a 24-year-old man was smashed in the face and knocked down in a fight in Mandurah.
+The 24-year-old victim was out the front of the Rollercoaster nightclub in the Smart Street Mall around 2am on Sunday when he was hit.
+The victim, who does not want to be identified, told Seven News that he was trying to break up the fight when he was hit.
+It wasn't the only fight in Mandurah last weekend, with police called to a hotel on Mandurah Terrace after a man was hit.
+That man suffered cuts and bruises to his face.
+Mandurah man Clinton Salter, who was assaulted when he left work two years ago, says he is sick of the violence in the area.
+"The more fights that happen, the more people don't go out," he said.
+Mr Salter was left battered and bruised after his attack, where he was punched 19 times.
+The latest crime statistics reveal that since June last year, assaults in Mandurah have decreased.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Clinton Salter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Smart Street Mall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Salter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Seven News</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah Terrace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

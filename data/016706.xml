@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426474645614245</docid>
+  <date>04/08/2017</date>
+  <time>13:16</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/wilson-asset-management-doesnt-want-rate-hikes-20170804-gxpijp</url>
+  <title>Wilson Asset Management doesn't want rate hikes</title>
+  <content>
+Wilson Asset Management believes the Reserve Bank of Australia should resist any urge to hike interest rates to cool property prices, supporting a more interventionist Australian Prudential Regulation Authority instead.
+WAM portfolio manager Matthew Haupt highlights Reserve Bank  and the Reserve Bank's disclosure that it sees the economy's neutral rate at 3.5 per cent. He infers that the RBA wants to raise rates from a financial stability perspective, but argues the economy outside of the hot property cities could not handle it.
+The central bank has said its neutral rate discussion was not a policy signal.
+"What may be true in theory is more complicated in reality and we believe the RBA should exercise caution in normalising the current cash rate," Mr Haupt said in research published by WAM. "Using a blunt instrument to burst a localised bubble would have negative consequences for the entire Australian economy."
+
+It is unusual for a fund manager to devote much time to monetary policy, although it is not unusual for an equity investor to favour low interest rates, which have supported a chase for yield and swelled valuations in the sharemarket. Mr Haupt doesn't dispute that low rates are positive for equities, but he says a "a strong economy is better".
+
+"Lowe and [assistant governor Christopher] Kent argued that while regulation of the financial system can limit the likelihood and impact of a bubble, only monetary policy can respond once a bubble emerges after regulation has failed," the fund manager notes, citing their 1997 paper. In this case, Mr Haupt is not convinced the regulatory response is exhausted yet.
+Growth forecast downgraded
+
+Market pricing suggests that rate hikes are not on the table for the Reserve Bank until 2018. In its statement on monetary policy issued on Friday, the RBA  to 2-3 per cent.
+WAM speculates that the prudential regulator could toughen its restrictions on lending, after two rounds of regulation "have so far failed" to slow momentum in the housing market. APRA could pursue a 20 per cent limit on interest-only loans and a 7.5 per cent limit on property investor loans before the Reserve Bank considers a policy response.
+
+"In our view, the RBA is eager to increase interest rates, however capacity in the employment market and low inflation, in particular wage inflation, is holding it back."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Christopher</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Haupt</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kent</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WAM</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wilson Asset Management</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Haupt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lowe</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

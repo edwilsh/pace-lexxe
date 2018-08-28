@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440918620781995</docid>
+  <date>06/08/2017</date>
+  <time>21:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836872/fatal-crash-on-putty-road/?cs=303</url>
+  <title>Fatal crash on Putty Road</title>
+  <content>
+A 37-year-old man has died in a car crash on Putty Road at Howes Valley.
+Police investigations are continuing following the fatal crash which occurred about 60 kilometres south west of Singleton, just before 1.50pm on Sunday.
+Initial inquiries suggest a Toyota Hilux utility and a Mitsubishi Triton utility have collided head on.
+The driver and sole occupant of the Toyota died at the scene.
+The driver of the Mitsubishi, a 48-year-old man, and his female passenger were treated by NSW Ambulance paramedics for minor injuries. The man was taken to Singleton Hospital and the woman to John Hunter Hospital, both in a stable condition.
+Officers from Hunter Valley Local Area Command established a crime scene and have commenced inquiries into the circumstances surrounding the incident.
+A report will be prepared for the Coroner.
+As inquires continue, police are urging any witnesses or anyone with information to come forward.
+Call Crime Stoppers on 1800 333 000 or use the Crime Stoppers online reporting page:  
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Singleton Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitsubishi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Putty Road</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitsubishi Triton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Toyota</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Singleton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Howes Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Valley Local Area Command</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Hilux</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

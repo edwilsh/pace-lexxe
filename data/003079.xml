@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403423555710095</docid>
+  <date>31/07/2017</date>
+  <time>19:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/how-i-was-sucked-into-the-world-of-third-party-billing/8752950</url>
+  <title>How I was sucked into the murky world of 'third-party billing' and couldn't opt out</title>
+  <content>
+Related Story:
+
+When some weird looking text messages started flooding my phone two months ago, I ignored them.
+That's what we all do with email spam, right?
+But what I didn't know was that I had somehow been subscribed to a premium content service without my consent, but with the full support of my telco provider. And I wasn't alone.
+"It's a bloody scam."
+That's what fellow Optus customer Alex said when I asked him about the mysterious charges on my last two phone bills.
+Supposedly I was receiving access to a suite of games and trivia - although it was never made clear where I could access them.
+Ignoring the texts didn't help. I tried replying STOP to the opt-out number. That didn't work either.
+Before long, I was on the hook for nearly $100, charged by a company I had never heard of.
+The charges were applied directly to my Optus phone bill, buried towards the end.
+After a few calls and a quick search of the internet, I discovered I had been sucked into the very murky world of so-called "third-party billing".
+Third party what?
+
+Third-party billing is where one company handles the invoicing and billing for another company.
+In my case, Optus has an agreement with a content services company called MIA Sphere Live, which is also known as Digital Turbine.
+It appears that somewhere along the way, I clicked on a website that auto-subscribed to a premium SMS service. It was as simple as that.
+Allie Coyne from ITNews said the technology can have legitimate and useful services, like for example paying for parking, or for items from the Google Play store.
+But that's only if you have intentionally opted in.
+"It can be quite shady because it only takes one click to sign up, some of them take two clicks," she said.
+"So in some cases you might be just browsing a website and sign up to something without even knowing."
+Up to 1.9m Australians affected
+
+I spoke to Una Lawrence, director of policy at the Australian Communications Consumer Action Network (ACCAN), who represents phone and internet consumers.
+She said Alex and I are among around 12 per cent of Australians who have had these odd texts pop up on their phone.
+"We found that quite a lot of people have no idea why the charges have been incurred," she said.
+"So you're representative of a lot of people that have been caught in this way.
+
+A recent survey by ACCAN found more than one in 10 respondents have experienced unexpected third-party charges.
+"Applied to the mobile customer base of Telstra, Optus and Vodafone, this 12 per cent equates to almost 1.9 million people who could have received unexpected charges on their mobile bills," she said.
+ACCAN extrapolated the figures out and found the total cost of these premium SMS to consumers could be as high as $20 million over the last six months.
+Ms Lawrence said the practice is legal and administered by a code, but ACCAN have concerns about the way it is applied.
+"We've got a real concern [and] there's a bit of evidence that some of the providers perhaps don't follow the code exactly," she said.
+Coyne the problem is that there is no transparency over what sites telcos have partnered with.
+"If you read their privacy policies it will usually just say we may share some of your information with some trusted partners at some point," she said.
+"So it's very vague so you don't really ever know where your data is going."
+Telco bows to complaint
+
+I called Digital Turbine multiple times but their customer service team kept hanging up on me. So I took my complaint to Optus.
+"We regularly review our providers to ensure they comply with this requirement," Optus said in a statement.
+"Based on feedback we have received Optus has temporarily suspended Prizedsaints.com [sic] and is undertaking a review of their compliance status."
+But Prizesaints is just one service handled by Digital Turbine.
+When Digital Turbine got back to me, they were quick to point out that they provide a billing platform for their partners to "sell digital content through our direct agreements with mobile operators".
+"We serve as a billing aggregator for mobile operators and content service providers," the statement said.
+"The content service providers are independent third parties who run and market their own services.
+"We work very closely with our operator partners to enforce all guidelines including double opt-in. We provide a quality service and work in tandem with our partners to ensure a high-level of customer service."
+So a win for me, but we have no way of knowing how many other services and companies are out there.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications Consumer Action Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coyne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Allie Coyne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prizesaints</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Play</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Una Lawrence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SMS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MIA Sphere Live</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iTnews</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ACCAN</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prizedsaints</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Turbine</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Lawrence</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

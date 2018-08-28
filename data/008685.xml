@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411545339015348</docid>
+  <date>02/08/2017</date>
+  <time>03:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/02/china-and-india-sabre-ratting-in-bhutan-but-is-war-coming/</url>
+  <title>China and India sabre-ratting in Bhutan, but is war coming?</title>
+  <content>
+In a world that seems to be more rather than less prone to confrontation, China and India are now squaring off against each other on a remote plateau in a corner of the almost-as-remote country of Bhutan. Bhutan, an ally of India, is wedged between the two Asian powers, with China claiming a sliver of Bhutan as its own.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bhutan</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

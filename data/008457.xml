@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412275483465828</docid>
+  <date>02/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/child-among-15-injured-in-melb-tram-crash/news-story/7afc5719a28cc2a3f612b96957d2a31c</url>
+  <title>Child among 15 injured in Melb tram crash</title>
+  <content>
+A young child is among at least six people injured after two trams collided in Melbourne's CBD.
+The crash happened at Melbourne's Docklands precinct at 2.39pm on Wednesday.
+Paramedics are at the scene assessing 15 people with six reported to have minor injuries.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Melb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Docklands</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

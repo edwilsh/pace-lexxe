@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423141750935725</docid>
+  <date>04/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/technology/the-extreme-lengths-apple-go-to-ensure-its-products-remain-a-secret/news-story/0cc3beb09cf526d821779979b2a5d3c3</url>
+  <title>Apple's extreme measures to protect secrets</title>
+  <content>
+IT'S a very particular formula.
+Tim Cook stands on stage at Apple's annual September event and unveils the company's latest flagship products to the world for the first time.
+Whether it's exploiting government loopholes, spying on its own employees or remaining extremely tight-lipped when approached by media, Apple is meticulous when it comes to
+achieving this element of surprise at its flagship launches.
+One of the various tactics used by Apple to enforce its intense secrecy involves registering its product names in foreign countries without searchable trademark databases.
+By leveraging loophole in section 44(d) of the , Apple is able to apply for a trademark in one of 177 countries complying with US rules and can receive registration priority in the US if the trademark is filed locally within six months of the foreign filing date.
+And with 66 countries complying with US rules having no trademark databases searchable online, it makes it much harder for Apple-obsessed sleuths to uncover what the company has planned. This doesn't mean it's impossible, just ask Brian Conroy.
+The Irish lawyer ruined Apple's party last year when he found out the company had used the Jamaica Intellectual Property Office to register its trademarks.
+As any self-described trademark ninja would do, Conroy paid a local law firm to search the office's on-site computers and manually print off trademark filings from Apple.
+Aside from the underwhelming iPhone 7 and iPhone 7 Plus trademarks, Conroy was able to uncover a filing for products known as "AirPods" and "Touch Bar".
+These obviously were Apple's new wireless earphones and the touch screen strip on the latest MacBook Pro keyboards unveiled by the company last September.
+Despite his success, Conroy doesn't expect things to be so simple this time around.
+"I suspect Apple will keep jumping from jurisdiction to jurisdiction to keep prying eyes away," he told .
+"It would be a shot in the dark every time to find the trademarks of future product names."
+And there is also the small fact the Jamaica Intellectual Property Office has since tweaked its rules to protect companies like Apple.
+"Proprietor searches and date range searches will no longer be available using these public computers. Proprietor searches will be performed by the office upon request and payment of the requisite fees, with only information on published and registered marks being provided," the updated guidelines read.
+Conroy said these changes make it next to impossible to leak Apple's trademarks.
+"You can no longer search for 'any applications filed by Apple in the last 'X' months, which is what you really need to do to find trademarks for products which don't yet exist and which we don't know the name of," he said.
+Protecting trademarks is one technique used by the company, with former FBI, NSA, the Secret Service and the US military personnel also tasked with ensuring the clandestine nature of Apple.
+Apple refers to these militant professionals as "secrecy members" and positions them in certain product teams to prevent and track down the source of any product leaks.
+To further its goal of security measures, Apple also has screening systems at manufacturing plants that would not look out of place at any major airport.
+Head of Apple's Global Security team and former NSA employee David Rice defended the extreme measures, blaming black market demand for secrets as the justification.
+"We deal with very talented adversaries," Mr Rice said in the secret recording, reported
+"They're very creative and so as good as we get on our security controls, they get just as clever."
+And if you thought this is where Apple drew the line, you must not have heard of the secret service-esque briefing played to employees at the company.
+In a video known as "Stopping Leakers - Keeping Confidential at Apple", Apple's Vice President of iPod, iPhone and iOS product marketing Greg Joswiak delivered eerie comments you would expect to hear from Tony Soprano.
+"I have faith deep in my soul that if we hire smart people they're gonna think about this, they're gonna understand this, and ultimately they're gonna do the right thing, and that's to keep their mouth shut," he said.
+This was backed with comments from indoctrinated employees towing the company line.
+"When I see a leak in the press, for me, it's gut-wrenching," said one Apple employee. "It really makes me sick to my stomach."
+A second Apple employee echoed the sentiments.
+"When you leak this information, you're letting all of us down. It's our company, the reputation of the company, the hard work of the different teams that work on this stuff."
+What do you think of the techniques used by Apple? Continue the conversation in the comments below or with Matthew Dunn on  and .
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Touch Bar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 7</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSA</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Apple's Global Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 7 Plus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brian Conroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AirPods</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stopping Leakers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secret Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Irish</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tony Soprano</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple-obsessed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's Vice President of iPod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Joswiak</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Keeping Confidential</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Dunn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>X</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Rice</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Conroy</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jamaica Intellectual Property Office</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>20</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MacBook Pro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Rice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405678413577540</docid>
+  <date>01/08/2017</date>
+  <time>04:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/qld-rangers-prepare-to-move-dead-whales/news-story/1a17d04bae096d07de64fab0b52ab8ad</url>
+  <title>Qld rangers prepare to move dead whales</title>
+  <content>
+Rangers are preparing to move the carcasses of two humpback whales that died after becoming beached near Fraser Island.
+The 10 and 12 metre-long humpbacks were found on Sheridan Flats, in the Great Sandy Strait, on Monday morning.
+Rangers kept the whales wet and shaded in the hope they could be refloated on the high tide, but they died overnight.
+The carcasses will now be moved to a location away from the navigational channel where they can decompose naturally.
+A spokesperson from the Department of Environment and Heritage Protection says it is not known what caused the stranding or how long the pair had been beached, but that it was possible the whales were fatigued or unwell.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Environment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheridan Flats</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Great Sandy Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fraser Island</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Heritage Protection</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

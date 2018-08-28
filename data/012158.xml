@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418640625118392</docid>
+  <date>03/08/2017</date>
+  <time>06:52</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/abe-reshuffles-cabinet-as-support-dips/news-story/fc358be0857b0cbf38a461247c6a2e07</url>
+  <title>Abe reshuffles cabinet as support dips</title>
+  <content>
+Japan's Prime Minister Shinzo Abe has reshuffled his cabinet, opting for seasoned party veterans to help restore his battered popularity.
+Chief Cabinet Secretary Yoshihide Suga, who was among many ministers to be reappointed or taking up posts they have held before, announced the new line-up on Thursday.
+Abe's approval ratings have suffered from a spate of scandals over alleged cronyism and other abuses and objections to the ruling Liberal Democratic Party's tendency to force unpopular legislation through parliament.
+The shake-up reflects Abe's recognition that despite his party's overwhelming majority in parliament, his own once seemingly invincible position after more than four years in office might be imperilled.
+The newly named ministers included many cabinet veterans, including Itsunori Onodera, a former defence minister who again was named to that post.
+Last week, Abe's protege Tomomi Inada stepped down as defence minister after the disclosure the ministry hid information about risks faced by Japanese peacekeeping troops in South Sudan.
+Abe also chose several popular MPs known to differ from him on key issues such as nuclear power and revision of Japan's pacifist constitution.
+The new foreign minister, Taro Kono, 54, is known to be liberal-leaning and has opposed nuclear energy, though he toned down his stance while serving as reform minister in an earlier Abe cabinet.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MPs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chief Cabinet Secretary Yoshihide Suga</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liberal Democratic Party</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Sudan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taro Kono, 54</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Itsunori Onodera</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tomomi Inada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Japan's Prime Minister Shinzo Abe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abe</name>
+    <count>6</count>
+    <score>7</score>
+  </sindex>
+  </sindexList>
+</snippet>

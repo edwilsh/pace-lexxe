@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442043902227805</docid>
+  <date>07/08/2017</date>
+  <time>01:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/cba-shares-are-on-the-way-up-again-2017-8</url>
+  <title>CBA shares are on the way up again</title>
+  <content>
+Shares in the Commonwealth rose in early trade, clawing back some of  following allegations of breaches of money laundering laws.
+
+A short time ago, the shares were up 1.1% to $81.63.
+
+The other major banks were also up, including the NAB which had added 1.3% to $30.32.
+
+Last week Australia's financial intelligence and regulatory agency, AUSTRAC,  claiming the bank breached the Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) Act over combined cash deposits of $624.7 million.
+
+The bank, in a statement this morning, says  to Intelligent Deposit Machines, the latest ATMs, in late 2012.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Deposit Machines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

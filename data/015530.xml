@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424769543565585</docid>
+  <date>04/08/2017</date>
+  <time>06:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/sa-weather-flood-gale-warnings-sandbags-offered/8775752</url>
+  <title>BOM warns South Australia to expect wet and windy weekend; SES offers sandbags</title>
+  <content>
+Related Story:
+
+South Australia is bracing for several days of severe winter weather, with flood alerts, gale warnings and road closures for areas including Adelaide and the neighbouring Mount Lofty Ranges.
+Forecast heavy rain for Adelaide and the hills region over the weekend has prompted the State Emergency Service (SES) to announce sandbags will be made available from six depots between 10:00am and 2:00pm on Saturday.
+
+SES offering sandbags at:
+
+Hoods Rd Northfield
+Cnr Lindsay and Brian rds Lonsdale
+Beagle St Lynton
+Montecute Rd Campbelltown
+Simper Cres Mt Barker
+Willochra St Largs North(10am-2pm on Saturday)
+
+Bureau of Meteorology (BOM) forecaster Matt Collopy said they were set to be the most severe conditions so far this winter.
+"It is certainly a very wet and windy weekend expected. There's a series of fronts to move through ... a really strong one moving through on Saturday evening and into Sunday," he said.
+"This is certainly the strongest one we've seen this winter."
+Heavy rainfall, thunderstorms and even some hail are expected, Mr Collopy said.
+"I think the weekend weather will keep us pretty busy," he said.
+"We're expecting 20-60 mm generally across southern parts of SA and the possibility of 60-100 mm in the Mount Lofty Ranges over two or three days."
+He warned localised rainfall might even reach 120mm in parts.
+Flood risk in Oakbank, Verdun area
+
+Some waterways in the hills might rise rapidly, in areas around Oakbank and Verdun, the forecaster said.
+"All SA coastal waters have strong wind or gale warnings current; there's also a warning to sheep graziers," Mr Collopy said.
+The Transport Department said heavy rain would increase the risk of rockfalls in the Adelaide Hills and it had closed Gorge Road from today until at least Monday, between Playford Bridge and Torrens Hill Road.
+It said drivers could detour via Lower North East, North East and Tippet roads to reach Cudlee Creek.
+
+Many thousands of South Australian football fans are expected to converge on Adelaide Oval on Sunday afternoon for the AFL Showdown between the Crows and Port Adelaide.
+"They should definitely take some wet weather gear," Mr Collopy advised.
+"There's a high probability of showers across the Adelaide area and for the Showdown on Sunday arvo.
+"We're going to be looking at 12-13 degrees with a little bit of wind chill added in there, [so] it could feel a lot cooler."
+The bureau said the winter weather should improve by about Tuesday or Wednesday.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Verdun</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CROWS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cnr Lindsay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Oval</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL Showdown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Playford Bridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cudlee Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hoods Rd Northfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Hills</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Lofty Ranges</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gorge Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Willochra St Largs North(10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Torrens Hill Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tippet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lonsdale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lower North East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SES</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Matt Collopy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beagle St Lynton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Mr Collopy</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Montecute Rd Campbelltown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oakbank</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cres Mt Barker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

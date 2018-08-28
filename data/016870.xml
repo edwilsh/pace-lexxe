@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426354386527396</docid>
+  <date>04/08/2017</date>
+  <time>12:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/22/32/man-dead-in-nsw-farmhouse-murdered-police</url>
+  <title>Man dead in NSW farmhouse murdered: police</title>
+  <content>
+Detectives believe a prominent community figure found dead in his northern NSW farmhouse may have been murdered.
+Police and paramedics were called to a home on Thunderbolts Way at Walcha at 2am on Wednesday following reports of an unresponsive 42-year-old male.
+By the time they arrived he was already dead.
+The man, named by Fairfax Media as Matthew Dunbar, is a recognisable face in the small country town.
+A crime scene was established with homicide squad detectives brought in to the case late Friday, police told AAP.
+Friends paid their respects to the "caring" and "humble" Mr Dunbar online.
+"This is so sad, Mathew was a great person, very humble and kind with a heart of gold," one friend said.
+
+Related Articles
+
+"Heaven has opened its door to a very special angel. RIP my friend Matt."
+A post-mortem examination will be conducted and police will prepare a report for the coroner.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Dunbar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walcha</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thunderbolts Way</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mathew</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Dunbar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

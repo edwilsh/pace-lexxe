@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416780904249727</docid>
+  <date>02/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/credit-suisses-hasan-tevfik-says-equity-issuance-drought-undermines-asx-20170802-gxnv4k</url>
+  <title>Credit Suisse's Hasan Tevfik says equity issuance drought undermines ASX</title>
+  <content>
+A dearth of floats and the availability of ultra-cheap debt means the sharemarket's central function as a platform for providing capital is being seriously undermined.
+finds that just $1 billion has been raised via the ASX in 2017, based on net equity issuance for S&P/ASX 200 Index companies. That's down from an average of $40 billion a year over the past decade, and a peak of $113 billion in 2009.
+Mr Tevfik also observes that share buybacks have possibly never been more accretive, providing companies an irresistible means to lift their earnings and keep shareholders happy.
+He estimates a 1 per cent buyback in Australia will deliver a 0.5 per cent lift to earnings per share, "close to the highest level in 20 years".
+
+"The social and economic function of the stock market is to provide equity capital to the Australian economy," the strategist said in research published Wednesday.
+
+"This has helped create jobs, supported our economy's solid momentum, and facilitated the development of new products." Now, the stock market is "not working".
+Making most of credit markets
+
+The lack of equity issuance - measured by when companies go public, raise money by issuing more shares, or are promoted to the benchmark - does not mean "Australia Inc" is at a standstill.
+Instead, businesses are taking advantage of the credit markets where corporate debt can be raised at an interest rate of about 3 per cent.
+
+That is roughly 2 percentage points lower than the ASX 200's free cashflow yield, Credit Suisse estimates, arguing the potential for capital arbitrage has "hardly ever" been greater. "Issue debt at 3 [per cent], buy equities at 5 [per cent] seems like a great trade."
+Major floats that have been pulled this year include ; ; ; ; ; and .
+Bucking the trend is Yancoal which kicked off the year's biggest entitlement offer, worth up to $US2.35 billion, The Australian Financial Review. However, almost all of the offer will be taken up by Yancoal's parent.
+Credit Suisse predicts that the reporting season under way this week could see buyback announcements from Qantas, BHP Billiton, Computershare and Lend Lease.
+
+"The potential EPS accretion from a buyback remains unusually high, which bodes well for future equity market returns," Mr Tevfik said.
+Equity capital stock
+
+There was $52 billion of "equitisation" in 2015, followed by $15 billion in 2016, implying the equity market grew by 3.7 per cent in 2015 and 0.1 per cent year-to-date.
+He added: "Perhaps the stock of equity capital should grow in-line with nominal GDP, this is when the stock market is fulfilling its function as an appropriate capital provider to the Australian economy.
+
+"With current nominal GDP running at 7 per cent, it is clear the Aussie stock market is not functioning as it should," the strategist concludes.
+Mr Tevfik is not the only expert to observe this trend. Citigroup's global equity strategist Robert Buckland  that IPO activity as a percentage of global market cap was unusually low for a bull market. "Why come to the equity market to raise capital when you can raise money in the debt market for zero to 1 per cent?" he said.
+Mr Buckland also speculated that it was also partly because "new companies are not as capital intensive as they used to be, so they don't need to come to the stock market to raise capital", and that the equity market was unwilling to overpay.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australia Inc</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Citigroup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Tevfik</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Buckland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suisse</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BHP Billiton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX 200 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>EPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lend Lease</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suisse's Hasan Tevfik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Mr Buckland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Computershare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.35</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404248189445457</docid>
+  <date>31/07/2017</date>
+  <time>23:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/facebook-ais-began-talking-each-other-new-language/3207272/</url>
+  <title>Facebook AIs began talking to each other in new language</title>
+  <content>
+FACEBOOK has shut down two artificial intelligences that appeared to be chatting to each other in a strange language only they understood.
+
+The two chatbots came to create their own changes to English that made it easier for them to work - but which remained mysterious to the humans that supposedly look after them.
+
+The bizarre discussions came as Facebook challenged its chatbots to try and negotiate with each other over a trade, attempting to swap hats, balls and books, each of which were given a certain value. But they quickly broke down as the robots appeared to chant at each other in a language that they each understood but which appears mostly incomprehensible to humans.
+
+The robots had been instructed to work out how to negotiate between themselves, and improve their bartering as they went along.
+
+The actual negotiations appear very odd, and don't look especially useful:
+
+Bob: i can i i everything else . . . . . . . . . . . . . .
+
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+
+Bob: you i everything else . . . . . . . . . . . . . .
+
+Alice: balls have a ball to me to me to me to me to me to me to me
+
+Bob: i i can i i i everything else . . . . . . . . . . . . . .
+
+Alice: balls have a ball to me to me to me to me to me to me to me
+
+Bob: i . . . . . . . . . . . . . . . . . . .
+
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+
+Bob: you i i i i i everything else . . . . . . . . . . . . . .
+
+Alice: balls have 0 to me to me to me to me to me to me to me to me to
+
+Bob: you i i i everything else . . . . . . . . . . . . . .
+
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+
+But there appear to be some rules to the speech. The way the chatbots keep stressing their own name appears to a part of their negotiations, not simply a glitch in the way the messages are read out.
+
+Indeed, some of the negotiations that were carried out in this bizarre language even ended up successfully concluding their negotiations, while conducting them entirely in the bizarre language.
+
+That said, it's unlikely that the language is a precursor to new forms of human speech, according to linguist Mark Liberman.
+
+"n the first place, it's entirely text-based, while human languages are all basically spoken (or gestured), with text being an artificial overlay," he wrote on his blog. "And beyond that, it's unclear that this process yields a system with the kind of word, phrase, and sentence structures characteristic of human languages."
+From VCRs to Robots: 50 years of gadgets and technology:
+
+The chatbots also learned to negotiate in ways that seem very human. They would, for instance, pretend to be very interested in one specific item - so that they could later pretend they were making a big sacrifice in giving it up, according to a paper published by the Facebook Artificial Intelligence Research division.
+
+(That paper was published more than a month ago but began to pick up interest this week.)
+
+Facebook's experiment isn't the only time that artificial intelligence has invented new forms of language.
+
+Earlier this year, Google revealed that the AI it uses for its Translate tool had created its own language, which it would translate things into and then out of. But the company was happy with that development and allowed it to continue.
+
+Another study at OpenAI found that artificial intelligence could be encouraged to create a language, making itself more efficient and better at communicating as it did so.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bob</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Alice</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VCRs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OpenAI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robots: 50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Liberman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook Artificial Intelligence Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook's AIs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

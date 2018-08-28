@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433015880885944</docid>
+  <date>05/08/2017</date>
+  <time>14:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/nato-soldiers-stop-afghan-insider-attack/news-story/a2b22504f2257c1cfae5df6139b27e73</url>
+  <title>NATO soldiers stop Afghan insider attack</title>
+  <content>
+Romanian soldiers from the NATO-led Resolute Support mission in Afghanistan have killed an Afghan policeman who was trying to carry out an insider attack after a training session in the southern province of Kandahar.
+A Romanian was wounded in the attack on Saturday while an Afghan policeman was wounded in the crossfire, a statement from Resolute Support headquarters in Kabul says.
+"The advisers had completed a scheduled law enforcement training and were preparing to return to base when they were attacked by a member of the Afghan National Civil Order Police," the statement said.
+Romanian soldiers providing security returned fire and killed the attacker, it said.
+The attack, which came as the US is considering increasing the number of troops it has in Afghanistan, is the latest in a series of so-called "green-on-blue" incidents.
+In June, three American soldiers were killed and seven wounded in two separate incidents, a week apart.
+In May last year, two members of the Romanian special forces were killed and a third was wounded when a local policeman opened fire on them.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Afghan</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Afghan National Civil Order Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Resolute Support</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NATO-led Resolute Support</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Romanian</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NATO</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

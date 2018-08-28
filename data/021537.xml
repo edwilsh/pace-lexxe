@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441176318823040</docid>
+  <date>06/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/homicide-squad-investigate-fatal-melbourne-stabbing/news-story/6adda89c011decb3c0d9decf994fd6a4</url>
+  <title>'Love triangle' homicide probe</title>
+  <content>
+HOMICIDE squad detectives in Melbourne have charged a man with the murder of his housemate.
+The victim, 44, died in the McGregor Court home in the suburb of Sunshine West, about 8.30pm Saturday. It's believed an argument erupted between him and a 45-year-old man over their housemate, 42-year-old Laura Chan.
+The Herald Sun reports the deceased man had begun a relationship with Ms Chan while her ex-boyfriend was away.
+A 45-year-old man faced an out of session's court hearing on a charge of murder and was remanded to appear at the Melbourne Magistrates' Court later Monday.
+Two teenage boys who lived at the address hadn't been seen in a couple of weeks. They are believed to be the children of Ms Chan, who was also stabbed.
+Her injuries are not life-threatening and she is recovering in Royal Melbourne Hospital. 7 News reported Ms Chan was in a relationship with one of the men at the home while the other was her ex-partner.
+Neighbours told 7 News they felt unsafe after the "shocking' incident.
+The house where the man died had seen a number of visitors coming and going, often late at night or early in the morning, and a security camera out the front had been turned around to face a garage wall.
+
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>McGregor Court</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Chan</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Laura Chan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne Hospital</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Herald Sun</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

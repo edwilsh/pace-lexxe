@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446914395223513</docid>
+  <date>07/08/2017</date>
+  <time>20:35</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/netflix-buys-millarworld-mark-millars-creator-owned-publishing-house/</url>
+  <title>Netflix Buys Millarworld, Mark Millar's Creator-Owned Publishing House</title>
+  <content>
+The stable of characters thought up by the writer who co-created Wanted, Kingsmen and Kick-Ass has been bought by one of the biggest players in filmed entertainment.
+
+Image: Jupiter's Legacy, art by Frank Quitely
+
+Announced last night via press release, Netflix's purchase of Millarworld makes the streaming service the exclusive home of the British creator's yet-to-be-optioned properties. Here's the relevant stuff from the Netflix release:
+
+Millar put forth words of his own on the , including a special acknowledgement to the artists he's worked with and noting that Kick-Ass and Kingsmen have special deals elsewhere:
+
+It will be interesting to see which Millar-brand (TM) properties wind up being adapted at Netflix first. I'd put money on something character-driven like MPH being on the fast track. Oh, man, that happened totally by accident...
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>TM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingsmen</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Millar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Millar-brand</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>Kick-Ass</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Millarworld</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jupiter's Legacy</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mark Millar's Creator-Owned Publishing House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Frank Quitely</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Netflix Buys Millarworld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

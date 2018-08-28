@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418627740216216</docid>
+  <date>03/08/2017</date>
+  <time>06:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/16/41/ex-vic-union-official-fined-for-contempt</url>
+  <title>Ex Vic union official fined for contempt</title>
+  <content>
+A former Victorian union official has been fined $25,000 for contempt of court after refusing to let investigators search his home for evidence of suspected illegal industrial action.
+Gregory Thomas Hardy, who works at AGL Energy's Loy Yang Power Station in Victoria and was a former CFMEU secretary, refused to let investigators search his Traralgon home in March for evidence that he organised industrial action that breached the Fair Work Act.
+In the Federal Court of Australia on Thursday, Justice David O'Callaghan said Hardy's contempt was "self-evidently, deliberately defiant and contumacious" and fined him $25,000.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>CFMEU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice David O'Callaghan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Traralgon</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AGL Energy's Loy Yang Power Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ex Vic</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Hardy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fair Work Act</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gregory Thomas Hardy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

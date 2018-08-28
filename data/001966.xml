@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400240984882122</docid>
+  <date>31/07/2017</date>
+  <time>07:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/more-brisbane-bus-strikes-set-for-this-week/news-story/bd21c45f1d59849bc2c17af1ced784e5</url>
+  <title>More bus strikes on the cards</title>
+  <content>
+MORE Brisbane bus strikes have been planned for this week as the union feud with council continues to escalate into rolling industrial action.
+Bus drivers plan to strike from 10am to 2pm on Wednesday this week as part of the protected industrial after enterprise bargaining agreement negotiations with council reached a stalemate.
+A council spokesman said services were expected to return to normal after 2.45pm but "no major impacts" were anticipated across the network.
+The low-impact industrial action follows a major peak-hour strike across all seven depots on Friday last week after tensions with council came to a head.
+The RTBU have been demanding a 3.5 per cent pay rise and input into the rostering system to help better manage driver fatigue.
+But council has maintained its offer of a 2.5 per cent pay rise to all employees, while refusing to cede any control of the rosters to the union, citing fears it would turn into a similar fiasco that consumed Queensland Rail.
+The union has also asked for greater security on buses after ongoing assaults, which culminated in the death of driver Manmeet Alisher last year.
+After refusing to meet the demands, council recently offered an olive branch on security measures but the union have asked for it to be written into the enterprise agreement.
+The RTBU have been contacted for comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Manmeet Alisher</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Rail</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>RTBU</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

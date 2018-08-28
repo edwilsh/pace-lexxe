@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443624450215719</docid>
+  <date>07/08/2017</date>
+  <time>07:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-07/commonwealth-bank-how-smart-atms-and-coding-error-caused-mistake/8781066</url>
+  <title>Commonwealth Bank: How smart ATMs and a coding error caused a massive mistake</title>
+  <content>
+The Commonwealth Bank is embroiled in a scandal that may have allowed terrorists and criminals to launder millions of dollars.
+AUSTRAC, Australian's financial spy agency, , alleging it failed to report 53,506 transactions.
+They are known as TTRs, or "threshold transaction reports".
+Basically, banks have to let AUSTRAC know within 10 business days if it processes a transaction of $10,000 or more.
+So how did it happen?
+Today the CBA says it all comes down to a "software error" in the bank's smart ATMs.
+But what are these fancy smart ATMs, and how could the bank miss a coding error that has lead to a massive civil proceeding in the Federal Court?
+How can smart ATMs help the bad guys?
+
+The CBA first rolled out the Intelligent Deposit Machines (IDMs) in May 2012.
+You might have seen IDMs around. They're a type of ATM that automatically counts the cash as it goes into the CBA customer's account.
+It's convenient and saves the bank money, since fewer human tellers are required.
+But AUSTRAC alleges that CBA didn't limit the number of transactions a customer could make per day, and that its IDMs allowed up to 200 notes per transaction.
+If you've got a lot of Granny Smiths ($100 notes) from your illegal drug empire, you could put 200 into a machine at a time.
+That adds up to a $20,000 in transaction - well above the mandatory reporting limit.
+IDMs also allowed anonymous cash deposits, so it wasn't long before the system was abused by criminals.
+For a criminal, that means you could potentially put millions of dollars through a machine in one day anonymously.
+Not only that, but because the money appears instantly, a user can immediately transfer the money to another account - say, one that exists offshore.
+Since the Commonwealth Bank introduced the IDMs five years ago, their use has grown significantly.
+In May and June 2016, more than $1 billion in cash went through CBA's IDMs.
+CBA blames 'software error'
+
+AUSTRAC has made a number of allegations against the Commonwealth Bank in its civil proceedings.
+The most significant is that the bank failed to flag more than 53,000 transactions over the $10,000 limit that passed through the smart ATMs over three years.
+It is unclear how it happened, but it is possible whoever installed the machines back in 2012 simply didn't realise transactions above $10,000 had to be reported, and never wrote the code.
+On the ABC's AM program, .
+"One very important piece of context here is that the vast majority related to one software coding error in 2012 that we picked up in 2015, fixed within a month and rectified," he said.
+In a statement to the Australian Stock Exchange today, the bank went further, arguing that all 53,000 alleged contraventions of the code could be counted as just one offence.
+It is an important distinction, because one infraction alone carries a penalty of $18 million. 53,000 of them ... is a rather large fine.
+The ABC's business editor Ian Verrender calls that a "brave" and "adventurous" argument but said the law is very clear.
+"Imagine if you're caught for speeding again and again and again, and you say, "Well, look, my speedo was broken so I didn't know how fast I was going, so therefore I should only have to pay the fine once, not the 450 times that you've caught me speeding.'
+"You reckon that'd fly?"
+'Absolute pandemonium'
+
+Verrender said the error may have been discovered simply because the AFP requested all deposits from a specific day, and when the bank went to look for them they realised they weren't there.
+The Commonwealth Bank submitted two records to AUSTRAC, then exactly four weeks later, the remaining 53,503 flooded in.
+"It must have been absolute pandemonium," Verrender said.
+"Somebody must have gone, 'Oh my God, look at this. It's not just these two that are missing, it's every transaction since we started these machines'."
+Verrender argues we should reconsider our reliance on technology.
+"My gut feeling is that banks and all sorts of corporations over the years have replaced human beings with machines, intelligent machines, thinking the machines will do everything for you.
+"I think they've just cut down on the number of staff, the number of people who are looking at compliance issues, and the number of people who are supposed to police and monitor these issues."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Granny Smiths ($100</name>
+    <count>1</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Deposit Machines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Stock Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>5</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>CBA's IDMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TTRs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ian Verrender</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC's AM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Verrender</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

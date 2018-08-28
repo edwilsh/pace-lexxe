@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442464809028312</docid>
+  <date>07/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/trump-speaks-to-skorea-about-un-sanctions/news-story/9a22b3d04b586de7f5eda15956a1c10d</url>
+  <title>US, SKorea join on NKorea missile threat</title>
+  <content>
+US President Donald Trump and South Korean President Moon Jae-in have affirmed that North Korea poses a growing threat to most of the world after recent intercontinental ballistic missile tests, the White House says.
+In their telephone call on Sunday, the two leaders also welcomed the UN Security Council's unanimous passage of a resolution on Saturday imposing new sanctions on Pyongyang, the White House said in a statement.
+"The two leaders affirmed that North Korea poses a grave and growing direct threat to the United States, South Korea, and Japan, as well as to most countries around the world," the White House said. "The leaders committed to fully implement all relevant resolutions and to urge the international community to do so as well."
+The new sanctions on Pyongyang could slash North Korea's $US3 billion ($A3.8 billion) annual export revenue by a third. North Korea has been a focus of international attention in recent months, as it has conducted a series of ballistic missile tests, including two in July that helped prompt the UN action.
+The US-drafted resolution bans North Korean exports of coal, iron, iron ore, lead, lead ore and seafood. It also prohibits countries from increasing the current numbers of North Korean labourers working abroad, bans new joint ventures with North Korea and any new investment in current joint ventures.
+Washington has threatened to exert trade pressure on Beijing and impose sanctions on Chinese firms doing business with Pyongyang. Last week, Trump signed into law a sweeping set of sanctions on North Korea passed by the US Congress.
+China's foreign minister said on Sunday new UN sanctions on North Korea were the right response to a series of missile tests, but dialogue was vital to resolve a complex and sensitive issue, now at a "critical juncture."
+North Korea has been under UN sanctions since 2006. The new measures, which expand the existing sanctions, were a response to five nuclear tests and four long-range missile launches.
+The standoff is expected to dominate Monday's ASEAN Regional Forum, a gathering of 27 foreign ministers, including former participants in halted six-party talks on North Korea - Russia, Japan, the United States, China and North and South Korea.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>9</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>NKorea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 3</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UN Security Council</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Korean President Moon Jae-in</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-drafted</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Congress</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>SKorea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Monday's ASEAN Regional Forum</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

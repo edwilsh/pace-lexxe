@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442335960007384</docid>
+  <date>07/08/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/yoga-reduces-depression-symptoms-research/news-story/6adb1b43ab45fdba4d23e08fd32ec0af</url>
+  <title>Yoga reduces depression symptoms: research</title>
+  <content>
+Yoga has been shown to lessen the symptoms of depression, psychologists meeting in the US have been told.
+A series of studies focusing on the antidepressant effects of yoga were presented at the 125th Annual Convention of the American Psychological Association.
+While the research is still preliminary, yoga as a treatment for depression does have potential, says researcher Lindsey Hopkins, PhD, of the San Francisco Veterans Affairs Medical Center, who chaired the session.
+One of the studies, led by Ms Hopkins, examined the effects of hatha yoga, a type of yoga that emphasises physical movement and breathing exercises.
+For eight weeks, 23 male veterans participated in hatha yoga classes twice a week.
+By the end of the program, veterans with elevated depression scores before the yoga program had a significant reduction in depression symptoms.
+Meanwhile, a pilot study conducted by researchers at the Center for Integrative Psychiatry in the Netherlands followed patients with chronic depression for 11 years.
+As part of the research, the participants took weekly 2.5 hour classes for nine weeks combined with their usual care - generally a combination of therapy and antidepressants.
+At the end of the treatment period, patients' scores of depression and anxiety were reduced compared to when they'd started the yoga.
+Another study found that an eight-week course of Bikram yoga (hot yoga) helped reduce depression symptoms in young to early middle-age women, compared to those in the control group.
+"At this time, we can only recommend yoga as a complementary approach, likely most effective in conjunction with standard approaches delivered by a licensed therapist," Ms Hopkins said.
+"Clearly, yoga is not a cure-all. However, based on empirical evidence, there seems to be a lot of potential," she said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Francisco Veterans Affairs Medical Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lindsey Hopkins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Annual Convention of the American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bikram</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Psychological Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Integrative Psychiatry</name>
+    <count>1</count>
+    <score>-2.5</score>
+  </sindex>
+  <sindex>
+    <name>PhD, of the San</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Ms Hopkins</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

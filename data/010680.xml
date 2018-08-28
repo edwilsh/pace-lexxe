@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416785199217088</docid>
+  <date>02/08/2017</date>
+  <time>23:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/kathmandu-flags-profit-rise-on-sales-boost/news-story/3d78f909a3840f37a1bd2bdaa7c0d3cc</url>
+  <title>Kathmandu flags profit rise on sales boost</title>
+  <content>
+Kathmandu Holdings says full-year profit has risen as much as 13.4 per cent on the back of strong winter sales and improvements in promotions.
+The retailer on Thursday said it expects net profit for the full year to July 31, will be between $37.4 million and $38 million, up from $33.5 million in 2016.
+Earnings before interest and tax are expected to come in between $56 million and $57 million, with group sales up $19.7 million.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kathmandu Holdings</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>July 31</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Kathmandu</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

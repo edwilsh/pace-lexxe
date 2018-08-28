@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444191385908409</docid>
+  <date>07/08/2017</date>
+  <time>10:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/apple-iphone-8-face-scanner-work-flat-surfaces-2017-8</url>
+  <title>Apple is reportedly working to make the iPhone 8's face scanner work even on flat surfaces</title>
+  <content>
+Apple's forthcoming tenth anniversary iPhone will reportedly have a face scanner, and the company wants to make it work so that the user doesn't have to look directly at it, according to  (which ).
+
+Face-scanning technologies have been around for some time now, but even advanced devices (like Samsung's Galaxy S8) require that users hold the device in front of their eyes, which can be impractical most of the time.
+
+Developers have continued to dig inside the leaked code of the HomePod speaker's software,  and found references to things such as "AXRestingPearlUnlock" and "com.accessibility.resting.pearl.unlock" (Apparently, "PearlID" is the technology's code name).
+
+The new iPhone will , Apple's signature fingerprint scanner, so the company obviously wants its replacement to be as accurate as possible, and these new lines of code suggest that the device's face scanner may be able to securely identify its owner no matter where they are looking.
+
+Other code strings developer found include "APPS_USING_PEARL" as well as "PEARL_AUTOLOCK"; the former suggests that some apps may become only accessible through face detection, while "Pearl Autolock" may simply refer to a feature that keeps unrecognised users out.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>APPS_USING_PEARL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HomePod</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PearlID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PEARL_AUTOLOCK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AXRestingPearlUnlock</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Galaxy S8</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pearl Autolock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

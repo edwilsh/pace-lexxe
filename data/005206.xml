@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405742838087745</docid>
+  <date>01/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/does-south-australia-need-two-back-up-power-stations/8763164</url>
+  <title>Does South Australia need two back-up power stations?</title>
+  <content>
+The South Australian Government has announced two taxpayer-funded power plants will be up and running by December 1.
+Why are they doing this?
+
+The closure of coal-fired power stations in Port Augusta and Hazelwood in Victoria mean there's less power to go around.
+With policy uncertainty discouraging private companies from committing to new long-term investments in generation, the Australian Energy Market Operator (AEMO) is  over the next few summers.
+That means both states are at a much higher risk of the sort of load-shedding blackouts which caused much controversy in South Australia last summer.
+The Government says its generators will act as an insurance policy against such blackouts.
+The generators will not bid their energy into the wholesale power market, as privately owned ones do. Instead, they'll only be fired up when AEMO warns the SA Government that blackouts are on the way.
+While load shedding is best avoided, truth be told, it's not the worst sort of blackout.
+Individual homes or businesses are rarely without power in a load-shedding blackout for more than 45 minutes. But they tend to happen on the hottest days, and people end up pretty hot under the collar. Oh, and there's an election in March, which is when the biggest risk is.
+South Australia's well-documented power problems have affected business confidence - and the Government is anxious to provide reassurance to companies that their power won't disappear unexpectedly.
+There's something else at play too.
+The SA Government believes private electricity providers have been pricing scarcity of power into their contracts with retailers and businesses. It hopes the spectre of the Government turning on its own generators will force them to be more competitive.
+How will these power stations operate?
+
+In the first instance,  from US company APR Energy.
+These are trailer-sized units which operate on either gas or diesel and are capable of very quickly producing about 30 megawatt (MW) of power each (a total of 270MW, or roughly 10 per cent of average demand).
+Because the Government needs the generators to be set up and running by December 1, it's chosen two temporary sites which already have significant connections to the grid.
+The first is at Lonsdale near the Adelaide Desalination Plant in the city's south, the second is at General Motors Holden at Elizabeth in the city's north.
+APR Energy will be contracted by SA Power Networks to operate the two power stations on diesel fuel for two years.
+After that, the Government has an option to purchase the generators. If it does so, they'll be moved to a permanent site and will operate on gas.
+
+Do we need these AND world's largest lithium ion battery?
+
+There's now a race on between  and APR's generators to see which can be ready by December 1 (hopefully both!).
+Batteries can also be used to prevent load shedding, and the SA Government has indicated it will have the power to command Neon's battery to do just that.
+But batteries have limitations - if used at full output, the battery will last for less than an hour and 20 minutes. It then has to be recharged to be used again, and quickly discharging/recharging batteries can limit their shelf life.
+In contrast, so long as they have fuel, the gas generators will be able to keep running for much longer.
+The battery's biggest advantage is that it will be able to provide power in milliseconds.
+APR's gas/diesel generators are faster than most but they still take minutes.
+
+How much will the power stations cost?
+
+The Government isn't saying yet.
+However, it says the cost will come in under the $360 million estimate for gas and temporary generation contained in Premier Jay Weatherill's energy plan.
+Will they work?
+
+Defining success might be difficult for these power stations.
+Certainly if they're called upon to prevent a load-shedding blackout or three, the Government will claim it as a win.
+But spending up to $360 million on power stations that may be switched on for a couple of hours each summer is a pretty expensive win.
+The Government says eventually, the permanent gas-fired generator will be capable of providing inertia into the grid, which could help keep the system stable when large amounts of wind and solar energy are being fed into the grid.
+Then there's the question of whether it will help suppress wholesale prices. The Government certainly hopes so.
+What are the risks?
+
+This is the first major taxpayer investment in non-renewable power generation since South Australia's electricity system was privatised a generation ago.
+The risk is the private sector will see the Government encroaching on their patch, and it may deter their own investments in new generations.
+Energy Minister Tom Koutsantonis has been at pains to point out the taxpayer-owned generators will not be bidding into the market and will only be used in emergencies.
+But that's not to say a future government of a different persuasion might share that view.
+Taxpayer-owned generators could always be privatised. There would also be great pressure on future energy ministers if wholesale power prices were spiking through the roof, and taxpayer-owned generation equipment was left sitting idle.
+Will the permanent power plant ever happen?
+
+There's so much change going on in the world of power generation, it's hard to know.
+Certainly the Government will have the right not to proceed with purchasing the generators if it doesn't feel they're necessary beyond the next two summers.
+It's not yet clear when that decision would need to be made.
+The Liberals have given every indication that they're no fans of taxpayer-funded generators, and should they win government next March, they'd probably opt out given the chance.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MW</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA Power Networks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APR Energy</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hazelwood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lonsdale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Does South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energy Minister Tom Koutsantonis</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Energy Market Operator</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Jay Weatherill</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Desalination Plant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Government</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Augusta</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AEMO</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>General Motors Holden</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apr</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 1</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

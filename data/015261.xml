@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424382996503136</docid>
+  <date>04/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/southwest-japan-braces-for-typhoon-noru/news-story/e97115c9bcdc26e4ea0a84c46d40b8d7</url>
+  <title>Southwest Japan braces for Typhoon Noru</title>
+  <content>
+A wide swathe of southwest Japan, including areas devastated by torrential rain last month, is braced for more rain as Typhoon Noru, at one point the world's strongest storm this year, churns closer to the country's main islands.
+The Amami island chain, located just south of the southwest main island of Kyushu and some 1350km from Tokyo, will be hit by strong winds and heavy rain from noon on Friday, with as much as 800mm possible in the next 48 hours, the Meteorological Agency said.
+Noru - which is a Korean word for a type of deer - is then likely to turn north and drench Kyushu, although the northern parts of the island, which last month were hit with torrential rain and flooding that killed 36 and left four missing, are likely to be spared the worst, an agency spokesman said.
+"This is an extremely slow-moving storm," he added, noting this means there is a higher danger of floods due to extended heavy rains in one area.
+Noru, at one point a Category 5 typhoon and an unusually long-lived storm, first formed two weeks ago and wandered in a circle around the northern Pacific before heading northwest and aiming for Japan, weakening as it approached.
+Depending on how its course changes, Noru could also rake straight across Kyushu and then along Japan's main island of Honshu, but longer-term movements are still hard to pin down, the spokesman added.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kyushu</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Category 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Noru</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amami</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southwest Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Meteorological Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Honshu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Typhoon Noru</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

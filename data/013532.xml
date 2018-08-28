@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421818900983782</docid>
+  <date>03/08/2017</date>
+  <time>19:12</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/revealed-inside-derelict-ipswich-nightclub/3208365/</url>
+  <title>REVEALED: Inside derelict Ipswich nightclub</title>
+  <content>
+WITH the floors still sticky with spilled drinks, bottles of alcohol neatly lined in the fridges and disco balls hanging with cobwebs , the derelict Cocktails Nightclub is all but a fuzzy memory for many Ipswich party people.
+
+It's been close to two years since the old managers served their last drinks and locked the doors on the iconic Brisbane St venue but the historic bank building is about to have a new lease on life.
+
+Building leasee and Switch Nightclub manager Andre Samra has bold plans for the building including a schmick new vibe.Emma Clarke
+Cocktails nightclub owners served their last drinks and locked the doors on venue close to two years ago.David Nielsen
+</content>
+  <sindexList>
+  <sindex>
+    <name>David Nielsen</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane St</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cocktails Nightclub</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Switch Nightclub</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Andre Samra</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Emma Clarke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

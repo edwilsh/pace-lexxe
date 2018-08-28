@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404239599510738</docid>
+  <date>31/07/2017</date>
+  <time>22:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/crash-sees-highway-grind-to-a-halt/news-story/496fa40979fafdb9289c7714bcd295dc</url>
+  <title>Crash sees highway grind to a halt</title>
+  <content>
+A TWO-VEHICLE crash on the Bruce Hwy has left the road in gridlock as peak hour traffic grinds to a halt.
+Paramedics had arrived at the scene of the crash by about 8am, the  reports.
+The incident happened just north of the Caloundra Rd interchange in the southbound lanes.
+All occupants in the crash were out of their vehicles and paramedics were assessing patients.
+The banked traffic spanned about 5km at 8.15am, with the highway heavily affected in the southbound lanes as far away as the Sunshine Mwy interchange.
+</content>
+  <sindexList>
+  <sindex>
+    <name>TWO-VEHICLE</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Mwy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hwy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Caloundra Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418799538911376</docid>
+  <date>03/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/energy-execs-blame-govt-for-poor-policy/news-story/95bc7d0924d507972a60c5bc7fb60697</url>
+  <title>Energy execs blame govt for poor policy</title>
+  <content>
+Top energy industry executives have blamed poor policy by state and federal government for driving domestic electricity and gas prices higher.
+In particular, they have slammed the federal government's recent decision to introduce curbs on gas exports to ensure adequate domestic supply and bring prices down.
+Speaking at a Committee for the Economic Development of Australia (CEDA) event, Santos chief executive Kevin Gallagher urged Canberra to come up with proper policy for the energy sector.
+"We have been asked to believe that the high domestic prices are the fault of the LNG exports," he said.
+"At the same time, states and territory governments have either banned or restricted gas exploration and production.
+"Government interference in these arrangements is reactive politics and squarely raises the issue of sovereign risk."
+The Australian Domestic Gas Security mechanism will give the federal government the power to impose export controls on companies when there is a shortfall of gas supply in the domestic market.
+Its introduction follows warnings by the Australian Energy Market Operator of domestic gas and electricity shortages on the east coast within the next few years.
+Santos has been accused of contributing to the tight gas supply situation, given its reliance on third-party supplies to fill up export shipments at its giant Gladstone LNG project in Queensland.
+Domestic gas reservation is a legitimate policy objective to secure supply for domestic use in times of shortage, Mr Gallagher said, but he urged the government not to apply this retrospectively to already committed long term offtake agreements.
+A better alternative would be to restrict the export of uncontracted gas available to be sold in the energy spot markets, he suggested, which is likely to cover rivals Origin Energy's Australia Pacific LNG project and Shell's Queensland Curtis LNG projects in Queensland.
+"This is clearly not a long term solution to higher domestic gas prices nor is it a substitute for a properly developed national gas plan," he said.
+His sentiment was echoed by APA Group chief executive Mick McCormack, who accused politicians of making poor policy on the run.
+"I take issue with poor policy development based on conjecture and misinformation, and hastily put together to ensure the appearance of government action," he said.
+"Policy development processes have been truncated, submissions left unread, concerns not considered and ministers make announcements on decisions prior to the close of consultation periods."
+Both executives also want the federal government to set up a clean energy target to ensure reliability of supply and reduction in emissions.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>LNG</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Shell's Queensland Curtis LNG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Origin Energy's Australia Pacific LNG</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Domestic Gas Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Energy Market Operator</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Gallagher</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Economic Development of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mick McCormack</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Santos</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gladstone LNG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CEDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APA Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Gallagher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

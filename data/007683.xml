@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409951906120581</docid>
+  <date>01/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/apple-ipad-sales-grow-after-years-of-declining-sales-2017-8</url>
+  <title>Apple's iPad slump is over</title>
+  <content>
+Apple's iPad business is growing again.
+
+After , the iPad business saw a boost last quarter, according to .
+
+Apple sold 11.4 million iPads in the quarter, up from 9.95 million in the year-ago quarter. (That's 14% growth in unit sales.)
+
+That could be due to the new 10.5-inch iPad Pro, which launched last month to . Apple also released a new version of the 9.7-inch iPad, which starts at a much lower price, $US329. That likely drove a lot of sales.
+
+The iPad is also scheduled to get a , which will add more desktop-like features to the iPad.
+
+This chart  shows iPad sales and sales growth over time:
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Apple's iPad</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPad Pro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US329</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

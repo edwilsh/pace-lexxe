@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423274894924061</docid>
+  <date>04/08/2017</date>
+  <time>00:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/to-explain-coding-to-kids-make-it-relatable/</url>
+  <title>To Explain Coding To Kids, Make It Relatable</title>
+  <content>
+Image credit: Donnie Ray Jones/
+
+Kids have a way of picking up information quickly (sometimes more quickly than we'd like...), but when explaining more abstract concepts like coding or computer programming, you might need something more than a lecture or some quick YouTube explainer. That's what  learned as he explained the skill to a group of 6-year-old children, among them his own daughter.
+
+To make sure he got his message about programming across he came up with a few simple strategies that make explaining concepts to kids easy and engaging for both teacher and student.
+
+Start With the Basics
+
+It helps to start from the beginning. Kaczanowski began his explanation by asking the group of children if they knew what a computer programmer and a computer was.
+
+He used simplified explanations to explain how computers handle data input and output, and used pseudocode to explain programming languages. From there he was able to discuss what qualifies as a computer and how a programmer would interact with computers like laptops, cars, and smartwatches.
+
+Ask Kids Questions
+
+Kids love  questions, and asking them is a great way to figure out what they know. It also provides the opportunity to correct any potentially confusing misconceptions they may have.
+
+Kaczanowski asked the group questions about computers, databases, and programming languages.
+
+From there he was able to glean what his audience knew, explain the concepts, and move on to the next topic.
+
+Make it Relatable
+
+Your kid probably doesn't understand the concept of databases or processors, but they do know how a toy box or bookshelf works, and what a brain is for.
+
+So when explaining a concept like programming, it's hugely helpful to make it relatable to what they already know. In this case, Kaczanowski referred to a site with which his audience was very familiar: YouTube. "I moved to YouTube because I knew they would know a lot about it," said Kaczanowski. "I started by drawing UI that they are all familiar with."
+
+The familiar, cartoonish mockup helped him explain how a database works while using examples like Peppa Pig to get kids to think about where exactly the videos were coming from and how YouTube knew which videos to play. Referencing objects in their daily lives - like brains, bookshelves, and YouTube - helps to associate abstract concepts with concrete subjects.
+
+Be Clear and Repetitive
+
+You're dealing with kids here, so you should  quite a few times. Kaczanowski employed the aid of simple images, like webpage mockups and a stack of DVDs drawn during his explanation, that he could refer to repeatedly. "It grabs their attention and lets me remind them about things we have discussed few minutes ago by pointing to a certain drawing," he wrote. The drawings and repetitive statements might seem tedious, but Kaczanowski found using the images like a pop quiz helped the kids remember terms and concepts.
+
+[dev.to()]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DVDs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donnie Ray Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kids Questions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Peppa Pig</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Explain Coding To Kids</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kaczanowski</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

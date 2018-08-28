@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423442398650980</docid>
+  <date>04/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/11/19/whistleblower-laws-flagged-for-debate</url>
+  <title>Whistleblower laws flagged for debate</title>
+  <content>
+Greater protections for public sector whistleblowers are set to be put in law in the coming parliamentary session.
+In November last year, the Turnbull government reached a deal with the Nick Xenophon Team to extend whistleblower protections to public servants.
+An inquiry into the proposed laws, which have been scheduled for the spring sittings, has heard many public servants fear reprisal for disclosing possible wrongdoing despite existing laws.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nick Xenophon Team</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

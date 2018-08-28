@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414719319908315</docid>
+  <date>02/08/2017</date>
+  <time>15:39</time>
+  <isTopNews>true</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/north-america/donald-trump-approves-russian-sanctions-over-meddling-in-the-2016-election-that-he-won/news-story/a5405412bce3ce0a6bb25727903f9223</url>
+  <title>Donald Trump approves Russian sanctions over meddling in the 2016 election that he won</title>
+  <content>
+US President Donald Trump (L) has signed off on new sanctions for Vladimir Putin's Russia. Picture: AFP
+
+APNews Corp Australia Network
+
+Share
+
+WHITE House officials say US President Donald Trump has signed a bill to impose new sanctions on Russia.
+Two White House officials said that the president signed the bill on Wednesday morning Washington DC time.
+The package of stiff financial sanctions against Russia passed Congress with overwhelming support.
+
+Us President Donald Trump meets with Russian President Vladimir Putin at the G20 Summit in Hamburg, Germany. Picture: APSource:AP
+It was in response to information that Russia meddled in the US elections, however it has denied doing so.
+Moscow responded to the sanctions by ordering a reduction in the number of US diplomats in Russia.
+The officials spoke on the condition of anonymity because they were not authorised to speak publicly before an official statement.
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian President Vladimir Putin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vladimir Putin's Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APSource</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington DC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>APNews Corp Australia Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>3</count>
+    <score>-0.25</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>G20 Summit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>L</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hamburg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

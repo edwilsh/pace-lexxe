@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435511256907472</docid>
+  <date>06/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/hiroshima-marks-72nd-anniversary-of-abomb/news-story/9a5ef6665139104c94b574d5a4051b7d</url>
+  <title>Hiroshima marks 72nd anniversary of a-bomb</title>
+  <content>
+Associated Press
+
+Share
+
+Hiroshima's appeal of "never again" on the anniversary of the world's first atomic bomb attack has acquired renewed urgency as North Korea moves ever closer to acquiring nuclear weapons.
+The city marked the 72nd anniversary of the August 6, 1945, attack that killed 140,000 people with a sombre ceremony on Sunday, a minute of silence to remember the dead and a call to eliminate nuclear weapons.
+Mayor Kazumi Matsui said that "hell is not a thing of the past," urging that the "absolute evil" of atomic weaponry be banished.
+North Korea's efforts to acquire nuclear weapons and its recent test-firings of intercontinental ballistic missiles have brought deep unease in Hiroshima, even as many Japanese appear resigned to the growing threat.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayor Kazumi Matsui</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hiroshima</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

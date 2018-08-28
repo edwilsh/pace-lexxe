@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423137455968396</docid>
+  <date>04/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/10/07/arson-attack-on-perth-heritage-building</url>
+  <title>Arson attack on Perth heritage building</title>
+  <content>
+Perth detectives are seeking the public's help to solve an arson attack on a heritage-listed commercial property that caused $150,000 worth of damage.
+The fire began at the Great Eastern Highway property in Redcliffe about 3am on July 21, and police want to speak to the driver of a white utility seen driving nearby at the time.
+Rewards of up to $50,000 are available for information that leads to the identification and conviction of an arsonist.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Great Eastern Highway</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Redcliffe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

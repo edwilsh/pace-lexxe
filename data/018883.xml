@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433612881346092</docid>
+  <date>05/08/2017</date>
+  <time>16:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/chinese-tourists-arrested-for-hitler-salutes-in-germany-20170805-gxq67z.html</url>
+  <title>Chinese tourists arrested for Hitler salutes in Germany</title>
+  <content>
+Berlin: German police on Saturday arrested two Chinese tourists for making illegal "Heil Hitler" salutes in front of the historic Reichstag building that houses the German parliament.
+Berlin police officers say they detained the two men, aged 36 and 49, after they were seen striking the Nazi-era pose and photographing each other with their mobile phones.Photo: Markus Scholz
+They face charges for "using symbols of illegal organisations", the police said in a statement, and were released after posting bail of 500 euros each.
+Germany has strict laws on hate speech and symbols linked to Hitler and the Nazis, who ruled between 1933 and 1945.Photo: Supplied
+The Reichstag is a powerful symbol in Germany. It was destroyed by fire in 1933 by an arsonist thought to have been paid by the Nazis, who then blamed the blaze on the Communists and used it as an excuse to severely restrict civil liberties. 
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Heil Hitler</name>
+    <count>1</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reichstag</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Communist</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hitler</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Markus Scholz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berlin</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nazi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nazi-era</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

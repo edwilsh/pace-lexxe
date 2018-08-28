@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398660436894940</docid>
+  <date>31/07/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/nsw/man-seriously-injured-in-chemical-fire-at-warehouse-in-sydneys-west-20170731-gxm19t.html</url>
+  <title>Man seriously injured in chemical fire at warehouse in Sydney's west</title>
+  <content>
+A man has been taken to hospital with serious burns after explosions caused a chemical fire in Sydney's west on Monday.
+The blaze at a warehouse on Links Road, St Marys, is believed to have been started by exploding aerosol cans.
+About 15 fire crews are battling the fire.
+A CareFlight rapid response helicopter landed at nearby St Marys Rugby League Stadium to help paramedics treat the man, 55.
+The helicopter flew the man to Westmead Hospital.
+
+Emergency services were called when the fire broke out about 8.35am.
+Police have blocked off Links Road after setting up an exclusion zone between Forrester Road and Charles Street.
+A police spokesperson said Hazmat fire crews were managing the scene.
+SafeWork NSW will investigate the fire.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Westmead Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Links Road</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Forrester Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CareFlight</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>St Marys</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Marys Rugby League Stadium</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Charles Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SafeWork NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  </sindexList>
+</snippet>

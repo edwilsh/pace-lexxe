@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445290897556852</docid>
+  <date>07/08/2017</date>
+  <time>14:17</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/opinion/game-of-pwns-security-lessons-from-the-latest-hbo-hack/news-story/a70b05af225a0bb18487b179bdbc4661</url>
+  <title>Shore up those digital defences</title>
+  <content>
+HBO recently suffered a massive cyberattack, with hackers stealing 1.5 terabytes of data from inside its network, including upcoming episodes of shows such as Ballers and Room 104. But the crown jewel of the hack wasn't even a video, it was the script to this Sunday's episode of the wildly popular HBO series Game of Thrones. The network's chairman and chief executive, Richard Plepler, confirmed the hack and called the recovery efforts "nothing short of herculean".
+He also said something more important, something that many people overlooked: "The problem before us is unfortunately all too familiar in the world we now find ourselves a part of."
+We often think of major data hacks as individual unrelated incidents, but when we step back and look at cybercrime as a whole, some very disturbing trends start to emerge. Last year alone, companies and individuals were targeted by an estimated 90 million cyberattacks globally - that's more than 12 attacks per second. Just last month, Lloyd's of London warned that a major global cyberattack could trigger more than $65 billion of economic losses. For comparison, the 1999 Sydney hailstorm - the most expensive natural disaster in Australian history - caused about $2.3bn in total damage.
+Over the past decade, we've seen a significant evolution in the scale and sophistication of hacker organisations, along with the types of businesses they target. Historically, hackers tended to go where the money was, primarily targeting banks, merchants, retailers and other organisations that directly handled financial information and transactions, but as these organisations improved their security standards and began locking down their systems, hackers started looking for easier targets.
+Trial by combat
+With streaming services like Netflix and Hulu leading the way, the global entertainment industry is now worth about $2.7 trillion, equivalent to the combined value of the world's top 10 banks. HBO by itself generates about $8bn in revenue, with Game of Thrones being its most popular series, it is no surprise that professional hacker groups are increasingly targeting major movie and television studios.
+In 2014, a group of hackers known as the "Guardians of Peace" infiltrated Sony Pictures and spent at least two months inside its network copying critical files, stealing up to 100 terabytes of data. The group demanded that Sony halt the release of the major motion picture The Interview, threatening terrorist attacks and causing Sony to cancel the film's premiere and mainstream release. Just a few months ago, Netflix was hit by a ransomware attack from "thedarkoverlord" hacker group, which ultimately leaked an upcoming season of Orange Is The New Black. Even HBO is no stranger to these types of attacks, with the first four episodes of season five of Game of Thrones leaking out to BitTorrent before the season premiere.
+Where are dragons?
+The entertainment industry needs to update its security model to reflect the reality of the modern IT ecosystem. Many organisations still focus on perimeter defences - firewalls, intrusion detection systems and network access control. But perimeter defences are only effective in protecting data inside the network. What happens if, as was the case with Sony, your network is compromised? And more importantly, how do you continue to protect the data once it leaves your network?
+The good news is that all of the technologies needed to protect against these types of attacks are already available from companies like BlackBerry. Enterprise file synchronisation and sharing solutions are used by several entertainment companies to securely share encrypted files and control digital rights even after the files leave their network. Using secure communication solutions means it is safe to communicate with external parties over secure channels, be they email, text, phone or instant messaging. Unified endpoint management solutions are also key in centrally securing and controlling all IT endpoints, including desktops, laptops, mobiles or even IoT devices. And finally, cybersecurity consulting services can be used to assess an organisation's defences, bringing "ethical hackers" into their environment to simulate a real-world attack.
+If Game of Thrones has taught us anything, it's that enemies will always try to find and exploit our biggest weaknesses, be they physical, mental or in this case digital. And just as in the hit HBO show, our goal isn't to make our defences impenetrable, it's to make them strong enough that hackers simply move on to easier targets. In the end, enterprises and individuals who adopt this approach to risk management will have the best chance to survive the digital winter.
+Alex Manea is chief security officer, BlackBerry.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Room 104</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Guardians of Peace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex Manea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sony</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hulu</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Orange Is</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lloyd's of London</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sony Pictures</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BlackBerry</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Plepler</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>BitTorrent</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

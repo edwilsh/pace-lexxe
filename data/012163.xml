@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418159588773228</docid>
+  <date>03/08/2017</date>
+  <time>05:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/victoria/one-trapped-one-fights-for-life-after-plane-crashes-in-melbournes-southeast-20170803-gxodr3.html</url>
+  <title>Two flown to hospital after plane crashes in Melbourne's south-east</title>
+  <content>
+Two people have been flown to hospital after a light plane crash in Melbourne's outer south-east on Thursday.
+Paramedics were called to the accident about 10.40am in Clyde North, Ambulance Victoria said in a statement.Photo: Twitter/@dougalbeatty
+One person is in a critical condition, but no details of their injuries have been released.
+They are being taken by air-ambulance to The Royal Melbourne Hospital.
+An Ambulance Victoria spokeswoman could not confirm the gender or any other details about the person.
+A man believed to be in his 20s was initially trapped in the plane, but has now been freed.
+
+Paramedics believe he has suffered facial, chest and spinal injuries.
+He is in a serious but stable condition, and will be flown to The Alfred hospital.
+The area is regularly used by light planes, including pilots in training.
+Four people died in two separate crashes in the same area little more than a year apart in February 2007 and May 2008.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 2007</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alfred</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2008</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

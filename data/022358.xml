@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443280852826104</docid>
+  <date>07/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/turnbull-adopts-shouldershrug-shorten/news-story/ba02078691f0b68b73d1b6f6ac5e2e54</url>
+  <title>Turnbull adopts 'shoulder-shrug': Shorten</title>
+  <content>
+Malcolm Turnbull has adopted a "shoulder-shrugging style" when it comes to everything from power prices to home ownership, the Labor caucus has heard.
+Opposition Leader Bill Shorten delivered a pep talk to the caucus at its first meeting since the winter break, with the latest Newspoll giving Labor a 53-47 per cent two party lead over the coalition.
+Mr Shorten said the prime minister had shown a "complete failure of leadership" on a range of issues, which would be pursued during a fortnight of parliamentary sittings starting on Tuesday.
+"I think many Australians are increasingly sick of the prime minister's excuses on any of these matters: NBN, home ownership, energy prices, marriage equality, rising inequality in this country," Mr Shorten said.
+"It is that shoulder-shrugging style of his which says, 'What do you expect me to do about it? I'm only the prime minister'."
+The Labor leader said the opposition would be focused on the issue of inequality, which did not simply mean the gap between rich and poor.
+"We also talk about the inequality between prospective first home buyers and their parents on one side and the property investors subsidised by the Turnbull government on the other," he said.
+"We talk about millionaires getting tax cuts, large multinationals getting $65 billion ... but millions of working Australians have had no wage rise for the last three years."
+Inequality also related to the gender pay gap, people in regional areas getting second-rate broadband and the gap between indigenous and non-indigenous Australians on "nearly every indicator".
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shorten</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Leader Bill Shorten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Shorten</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newspolls</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

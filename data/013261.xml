@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420169633507144</docid>
+  <date>03/08/2017</date>
+  <time>12:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/22/43/us-russia-ties-at-all-time-low-trump</url>
+  <title>US-Russia ties at 'all-time low': Trump</title>
+  <content>
+US President Donald Trump says Washington's "relationship with Russia is at an all-time and very dangerous low" and blames Congress for the situation.
+Trump's comment, in a post on Twitter early on Thursday, comes one day after he signed new sanctions against Russia into law, a move Moscow said amounted to a full-scale trade war and an end to hopes for better ties with the Trump administration.
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US-Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

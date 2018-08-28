@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404286844151872</docid>
+  <date>31/07/2017</date>
+  <time>23:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/08/53/i-renounced-uk-citizenship-labor-mp</url>
+  <title>I renounced UK citizenship: Labor MP</title>
+  <content>
+A federal Labor MP insists she took all reasonable steps to renounce her British citizenship before contesting the 2016 election.
+Justine Keay, the member for the northern Tasmanian seat of Braddon, on Tuesday released details of what she did to overcome her constitutional ineligibility.
+"My renunciation was officially receipted by the (UK) Home Office on 31 May, 2016," the MP said, noting nominations for the election closed on June 9.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>MP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 9</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labour MP</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Home Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Braddon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justine Keay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

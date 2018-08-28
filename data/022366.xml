@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443285147793520</docid>
+  <date>07/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/south-east/mornington-peninsula-ciu-detectives-warn-thief-on-the-prowl-after-seven-holiday-homes-burgled-in-just-over-four-weeks/news-story/bbd79cdbd5c134304801089526ff91ff</url>
+  <title>Holiday home burglar a serial offender</title>
+  <content>
+DETECTIVES believe a burglar is targeting peninsula holiday homes, with seven similar break-ins over the past month.
+Mornington Peninsula Crime Investigation Unit officers say the series of thefts have the same method of entry, with doors and windows being forced, and similar types of large items stolen.
+Since July 9 there have been five burglaries at Merricks Beach, one at Point Leo and one at Shoreham.
+The five Merricks Beach burglaries were at Spray St, Bluff Rd, Surf St and two at different addresses in Cliff Rd.
+Thefts have also taken place at Lesley Avenue, Point Leo, and Myers Drive in Shoreham.
+Investigators believe the offenders may be using a trailer, ute or truck due to the size of the items stolen.
+Information: Crime Stoppers on 1800 333 000 or click .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Leo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Myers Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 9</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lesley Avenue</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surf St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluff Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spray St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Merricks Beach</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Point Leo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cliff Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mornington Peninsula Crime Investigation Unit</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shoreham</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

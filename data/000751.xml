@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398711976503272</docid>
+  <date>31/07/2017</date>
+  <time>01:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/asia-stocks-subdued-after-missile-test/news-story/e5baa7ea5d9a6ab719368af72bc90909</url>
+  <title>Asia stocks subdued after missile test</title>
+  <content>
+Asian shares dipped on Monday following a lacklustre end to last week globally on some earnings disappointments, while the dollar edged up but remained capped by US political uncertainty.
+Investors stuck to perceived havens such as the Japanese yen and gold after North Korea conducted another missile test late on Friday that it said proved its ability to strike the US mainland.
+The US responded by flying two bombers over the Korean peninsula on Sunday.
+Markets were also awaiting China's official factory and service sector activity surveys due out at 0100 GMT and a flurry of other data globally later in the week.
+The safe-haven Japanese yen strengthened about 0.2 per cent to 110.42 yen to the dollar. Gold hit a 6 1/2-week high early on Monday and was trading just a whisker below that level at $US1,269.86 an ounce.
+"The geopolitical overhang will likely keep top side moves in check early in the week as the disorganised US and China policy towards North Korea is not helping matters," Stephen Innes, head of Asia-Pacific trading at OANDA, wrote in a note.
+The Korean won was little changed early on Monday at 1,124.35 won to the dollar, after sliding almost 0.7 per cent on Friday. South Korea's KOSPI fell 0.1 per cent.
+MSCI's broadest index of Asia-Pacific shares outside Japan slipped 0.1 per cent.
+Japan's Nikkei was little changed, with a firm yen offsetting data showing the country's industrial output rebounded in June from a decline in May.
+Australian shares advanced 0.2 per cent.
+On Wall Street on Friday, the S&P and Nasdaq closed lower after earnings from companies including Amazon , Exxon Mobil and Starbucks disappointed.
+But the Dow closed higher and set an intraday record, lifted by Chevron's strong earnings.
+US corporate results overall have come in better than expected for the second quarter. More than halfway through reporting season, S&P 500 companies are on track to have increased earnings by 10.8 per cent, according to Thomson Reuters I/B/E/S.
+The dollar index, which tracks the greenback against a basket of major peers, edged up about 0.1 per cent to 93.361, after Friday's 0.6 per cent decline.
+Markets are awaiting speeches by Cleveland Federal Reserve President Loretta Mester and San Francisco Fed President John Williams on Tuesday for further insight into the Fed's seemingly dovish monetary policy stance.
+Investors will also be keeping a close eye on data including eurozone core inflation for July on Monday; the Reserve Bank of Australia's rate decision, at which it is expected to stay on hold, and US manufacturing conditions, due Tuesday; the Reserve Bank of India's meeting on Wednesday, at which it is expected to cut rates; and Bank of England on Thursday, when it is likely to leave rates unchanged.
+A raft of private manufacturing surveys will also be released on Tuesday.
+"It's a huge week on the data front, but for USD bulls there's an unpalatable reality that with (European Central Bank) members sounding increasingly hawkish and their (Fed) counterparts ever so dovish anything to confirm this bias will be pounced on by traders," Innes wrote.
+The euro was steady at $US1.1742, following Friday's 0.6 per cent gain.
+In commodities, oil prices rose for their sixth straight session on bigger-than-expected inventory drawdowns and signs that Saudi Arabia will reduce output further in August.
+US crude futures rose 0.1 per cent to $US49.75 a barrel, after earlier hitting $US50.06, its first foray above $US50 in two months.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>4</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday's 0.6</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Saudi Arabia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan's Nikkei</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cleveland Federal Reserve President Loretta Mester</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50.06</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Starbucks</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>USD</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Exxon Mobil</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Korean</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chevron</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US49.75</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea's KOSPI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OANDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GMT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US1,269.86</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco Fed President John Williams</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Innes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>INNES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.1742</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

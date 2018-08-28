@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399300387030925</docid>
+  <date>31/07/2017</date>
+  <time>03:49</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/nbn-co-warns-positive-financial-return-on-shaky-ground-469735</url>
+  <title>NBN Co warns positive financial return on shaky ground</title>
+  <content>
+NBN Co has warned it won't achieve a positive financial return on the government's multi billion-dollar investment in the network if usage levels - and revenue - remain at today's levels.
+
+CEO Bill Morrow made the admission in a  in which he blamed a  among ISPs as the root cause of the NBN's tarnished image for broadband performance.
+
+Specifically, he said ISPs were choosing not to buy enough backhaul to provide proper services, and were simply focused on trying to sign up as many customers as possible at the expense of everything else.
+
+Morrow has previously warned the company could miss its 2020 revenue targets if it is , which require more bandwidth and therefore bring in more revenue.
+
+The revenue targets need to be revised further because the network will now reach . The financial impact of the downgrade is expected to be known at the end of August.
+
+In the meantime, Morrow has confirmed the internal rate of return (IRR) for the network is also on shaky ground.
+
+"Even if we reach our planned 70 percent-plus take up rate, NBN's current revenue per user coming from the RSPs will not generate enough total revenue to produce a positive return on the investment made to build the network as it is planned," he said.
+
+Morrow said the current backhaul - known as connectivity virtual circuit (CVC) - construct was "by design" and the company had always assumed "those who [offer] their end-users more - and who therefore have the ability to charge more" would need to buy more CVC to maintain their differentiation, thus bolstering NBN Co's coffers.
+
+But the company's position paper today alleged there was little room to differentiate in this way, as ISPs find themselves in a race to the bottom on price, with apparently little care about the effect on internet services.
+
+That has big impacts on NBN Co's revenue assumptions and future profitability, and could increase the pressure on the company to find revenue elsewhere.
+
+For example, NBN Co recently revealed it hoped to secure 15-20 percent of total revenue from the business sector, and is locked in a fierce battle with the industry over just how far it should be allowed to encroach into the enterprise space.
+
+On the consumer side, NBN Co's average revenue per user is a stagnant $43 per month. The average amount of CVC bought per user is 1Mbps, and that has also been stagnant for some time.
+
+It is likely that NBN Co's IRR warning today is about staving off any further attempts by the industry to have the CVC prices lowered further.
+
+The network builder has found itself under a fortnight of sustained pressure to take action on the CVC charge, which has been widely blamed as the cause of slow performing internet services because its high costs dissuade ISPs from buying enough.
+
+The Parliamentary Budget Office last year also , which is likely to be unknown until the government tries to sell the network. It is widely expected to do so.
+
+Entrepreneur Bevan Slattery in April called on the government to
+
+"We've got to write down $20 - $30 billion of the NBN investment and call it a social infrastructure investment. No different to a road, no different to a bridge, whatever the hell you don't get a commercial return on," Slattery said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IRR</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Parliamentary Budget Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Slattery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>6</count>
+    <score>4.5</score>
+  </sindex>
+  <sindex>
+    <name>Bevan Slattery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co's IRR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CEO Bill Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morrow</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

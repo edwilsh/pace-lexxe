@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426573429864026</docid>
+  <date>04/08/2017</date>
+  <time>13:39</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/thousands-of-properties-in-adelaides-north-without-electricty/news-story/1381de8b4e4a562cfc8a40a80a3fc4db</url>
+  <title>Power outages in Adelaide's north</title>
+  <content>
+THOUSANDS of properties in Adelaide's north have lost power during an unexpected outage on Friday night.
+Around 8500 properties across the northern suburbs lost electricity around 10.30pm.
+The cause of the outage is believed to be an issue at a substation.
+Repair crews have been dispatched.
+The affected suburbs include Golden Grove, Gulfview Heights, Wynn Vale, Modbury Heights, Modbury North, Greenwith, Salisbury Heights, Fairview Park and Surrey Downs.
+SA Power Networks estimates electricity will be restored by 1.15am on Saturday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA Power Networks</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wynn Vale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Modbury Heights</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surrey Downs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greenwith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Modbury North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairview Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Gulfview Heights</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Salisbury Heights</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Golden Grove</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

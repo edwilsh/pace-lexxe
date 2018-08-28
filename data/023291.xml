@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444526393363320</docid>
+  <date>07/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/qld-mineworker-killed-in-onsite-incident/news-story/e33fee8f4dacc24fb13a43b679c02c1f</url>
+  <title>Qld mineworker killed in on-site incident</title>
+  <content>
+A young father and husband has died after an incident at a mine west of Mackay in Queensland.
+Daniel Springer, 31, died following an incident at the Goonyella Riverside mine on Saturday.
+He left behind a wife and young child.
+Mr Springer's friend, Jake Tredwell, posted a heartfelt farewell on Facebook following news of the death.
+"My heart sunk last night when I heard that one of the biggest bloody legends of all time had been taken from us," he said.
+"I know you touched a lot of people brother and damn sure will be missed. Thoughts are with your family. See you on the other side Springer."
+Natural Resources and Mines Minister Anthony Lynham confirmed the death on Monday night and said investigations were under way.
+"Our mines inspectors have been at the mine since the weekend undertaking a thorough investigation into the cause and nature of the incident," Dr Lynham said.
+"Every worker in Queensland deserves the right to come home from work safely each day."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Springer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Lynham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jake Tredwell</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Mines Minister Anthony Lynham</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mackay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Springer, 31</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Goonyella Riverside</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Springer</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

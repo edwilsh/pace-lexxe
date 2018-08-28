@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423695801726200</docid>
+  <date>04/08/2017</date>
+  <time>02:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/12/26/perth-teen-driver-dodges-jail-over-death</url>
+  <title>Perth teen driver dodges jail over death</title>
+  <content>
+A 21-year-old man who killed a 17-year-old motorcyclist from New Zealand by driving on the wrong side of a dark semi-rural road in Perth's south has avoided an immediate jail term.
+Oscar Graetz was 18 when he momentarily swerved over broken white lines into the oncoming lane of the Hopeland road in April 2015, killing Logan Cant almost immediately.
+Graetz was sentenced in the District Court of WA on Friday to a two-year suspended jail term and had his drivers' licence disqualified for two-and-a-half years.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Logan Ca</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hopeland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oscar Graetz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>District Court of WA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Graetz</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>April 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

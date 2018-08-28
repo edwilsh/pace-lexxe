@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429412403292590</docid>
+  <date>05/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melbourne-weather-wild-weather-to-hit-victoria-over-the-weekend/news-story/2724f4a7961e5e79f8828199521a9915</url>
+  <title>Melbourne calm before big storm</title>
+  <content>
+IT is the calm before the storm as a dry Melbourne braces for a wild winter storm set to hit the state tonight.
+Melburnians are soaking in a mostly dry Saturday with a fresh breeze, reaching a high of 14C.
+However, the weather is set to turn ugly overnight as the Bureau of Meteorology anticipates strong winds of up to 90km/h.
+The BOM has issued warnings of severe, damaging winds set to blast the state over the Central, South West, North Central and parts of the East Gippsland, North East, West and South Gippsland and Wimmera Forecast Districts
+The State Emergency Service advises people to move vehicles under cover or away from trees, secure or put away loose items around the house and keep clear of fallen power lines.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wimmera Forecast Districts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>East Gippsland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Central</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Gippsland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melburnians</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

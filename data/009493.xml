@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412704980203264</docid>
+  <date>02/08/2017</date>
+  <time>07:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/wa-premier-tells-pm-fix-gst-or-stay-home/news-story/bdcee123a31347a2a949399628f77919</url>
+  <title>WA premier tells PM 'fix GST or stay home'</title>
+  <content>
+Prime Minister Malcolm Turnbull and his cabinet may as well have stayed home if they weren't going to fix the state's GST woes, Premier Mark McGowan says.
+New Australian Bureau of Statistics population estimates resulting from last year's census have trimmed the number of WA residents by 60,000, which the WA Treasury expects will lead to a $1.9 billion drop in GST share.
+With WA's finances already dire, state Treasurer Ben Wyatt asked his federal counterpart Scott Morrison to intervene but was told he legally could not do so, which Mr McGowan labelled an "excuse" on Wednesday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Mark McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott Morrison</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Treasury</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GST</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Treasurer Ben Wyatt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

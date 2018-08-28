@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405571039393412</docid>
+  <date>01/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/14/00/ice-bust-at-qld-maccas-drive-thru</url>
+  <title>Ice bust at Qld Maccas drive-thru</title>
+  <content>
+Two men have been busted with five kilograms of ice at a McDonald's drive-thru in the central Queensland city of Rockhampton.
+Police nabbed the two men at the drive-through at 2.30am on Tuesday.
+The men have been charged and will appear in Rockhampton Magistrates Court on Wednesday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>McDonald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld Maccas</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

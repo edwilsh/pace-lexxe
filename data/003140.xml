@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403565289633360</docid>
+  <date>31/07/2017</date>
+  <time>20:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Banking Day</source>
+  <url>http://www.bankingday.com/nl06_news_selected.php?act=2&stream=145&selkey=22688&hlc=2&hlw=</url>
+  <title>UnionPay losing ground to non-bank payments, US credit card losses up, HSBC big buy back</title>
+  <content>
+This content requires an active Banking Day subscription. Login below or .
+
+I'm a returning subscriber
+
+Request a free trial
+
+Emailing you the news at 7am.
+Covering core lending and funding issues, strategy, payments, regulation, risk management, IT, marketing and more.
+Original news and summaries of major stories from other media - ditch your newspaper subscriptions.
+
+Focused on banking and finance, saving you the time spent wading through newspapers and other services.
+With reporting from former editors and senior writers from the AFR and The Australian.
+Configured for your phone, laptop and PC.
+</content>
+  <sindexList>
+  <sindex>
+    <name>PC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banking Day</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HSBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UnionPay</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

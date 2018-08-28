@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406425737899720</docid>
+  <date>01/08/2017</date>
+  <time>07:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/17/22/shark-warning-over-whale-carcass-in-perth</url>
+  <title>Shark warning over whale carcass in Perth</title>
+  <content>
+A shark warning has been issued after a whale carcass washed up at a beach in Perth's outer north.
+The whale carcass was found on Tuesday afternoon about one kilometre south of Yanchep.
+"It is possible the carcass will act as an attractant that could lead to sharks coming close in to shore along this stretch of coast," authorities warn.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yanchep</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

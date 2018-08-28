@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422931297534861</docid>
+  <date>03/08/2017</date>
+  <time>23:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/that-hbo-game-of-thrones-hack-was-worse-than-we-thought/</url>
+  <title>That HBO Game Of Thrones Hack Was Worse Than We Thought</title>
+  <content>
+Well, this isn't terribly surprising. According to the latest dispatch from Variety, the hackers who broke into HBO's servers and stole 1.5 terabytes of data, including at least one Game of Thrones script, also stole employee data. More specifically, the hackers made off with "thousands of Home Box Office (HBO) internal company documents". That's bad.
+
+Image: HBO
+
+Thanks to a DMCA takedown notice, we now know that the HBO cyber heist not only included secret information about shows but also information about HBO employees. This update comes as a result of a disclosure made by a security company recently tasked with preventing links to the stolen content showing up on Google. Variety :
+
+The hackers appear to have also leaked personal information of a senior HBO executive. That information, published online in a text document, contains access information to dozens of online accounts, including paid newspaper subscriptions, online banking, and personal health services. At least one of these accounts may also have given the hackers access to the executive's work email. ...
+An image file published as part of the leaks ... appears to show screenshots of HBO's internal administration tools, listing employee names and email addresses and their functions within the organisation.
+
+Eeeegggghhhhhh that's really bad. This revelation makes the HBO hack look a lot more like , an incident that led to bad things such as leaked financial information and .
+
+Initially, it appeared that the recent HBO hack was most impactful for the theft and possible leak of Game of Thrones data. The digital thieves also allegedly released unseen episodes of Ballers, Insecure and Room 104, but those plot lines will hardly shift the scope of global politics in the same way that George R.R. Martin's dragon-studded epic might. The new disclosure, Variety reports, also includes "Two episodes of 'Barry,' the hit man comedy starring Bill Hader that is not scheduled to air until 2018 on the network".
+
+Let's be honest, though. None of the leaked episode data could be nearly as damaging as private information about HBO employees. If the personal banking details of one HBO executive have already been released, there's a good chance that the hackers have more data like that. And frankly, the notion of such sensitive information finding its way on to the internet is very, very bad for HBO.
+
+For now, at least, it looks like HBO is working hard to contain the dissemination of the leaked information. To the company's credit, links to download the stolen data haven't made it on to mainstream internet forums such as Reddit, though it certainly might in the coming hours and days. Let's hope not, though. It might be fun to know what's going to happen next on Game of Thrones. It's no fun for unsuspecting HBO employees to deal with the disaster of their most personal information being shared around the web.
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Room 104</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Hader</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>14</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Hack Was Worse Than We Thought</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>George R.R. Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Home Box Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reddit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO's Game of Thrones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barry</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eeeegggghhhhhh</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DMCA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

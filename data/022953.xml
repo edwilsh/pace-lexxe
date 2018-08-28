@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443332392434680</docid>
+  <date>07/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/new-hobart-flight-adds-weight-to-afp-calls/news-story/42e34e7c9b4922ff33ddd1fabdd950b7</url>
+  <title>New Hobart flight adds weight to AFP calls</title>
+  <content>
+The return of direct flights between Hobart and Adelaide strengthens the case for AFP officers at Tasmania's biggest airport, the state's premier Will Hodgman says.
+Jetstar announced on Monday flights between the two state capitals three times a week would start in mid-November.
+It's the first time in seven years Hobart and Adelaide have been directly linked after fellow budget airline Tiger canned their service due to a lack of demand.
+Flights will run on Tuesday, Thursday and Saturday, with 55,000 people expected to fly per year.
+Mr Hodgman hailed the cutting of travel times as a win for tourism.
+"It does also strengthen the case for Tasmania to have a permanent AFP presence here," he said.
+AFP officers were withdrawn in late 2014 but Mr Hodgman said that arrangement would "change" if Tasmania's security risk increased.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Will Hodgman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jetstar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tigers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hodgman</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>New Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

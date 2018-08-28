@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419448078985461</docid>
+  <date>03/08/2017</date>
+  <time>10:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/deepmind-is-funding-nhs-research-2017-7</url>
+  <title>Google DeepMind is funding NHS research at Moorfields Eye Hospital</title>
+  <content>
+DeepMind, the London-based artificial intelligence (AI) lab owned by Google, is funding research being carried out by the National Health Service (NHS).
+
+The company has paid Moorfields Eye Hospital NHS Foundation Trust £110,000 since it  last July, according to a Freedom of Information request made by Business Insider.
+
+DeepMind and Moorfields are working together to see if DeepMind's AI technology can be used to help spot early signs of eye conditions that human eye care experts might miss.
+
+Specifically, Moorfields is applying DeepMind's algorithms to 1 million anonymous OCT (Optical Coherence Tomography) scans. The aim is to determine whether the algorithms can learn to spot early signs of  and sight loss that occurs as a result of diabetes.
+
+The payment from DeepMind to Moorfields "represents the costs incurred by the Trust," according to the FoI response. Moorfields has not paid any money to DeepMind.
+
+DeepMind is working with four other NHS Trusts on a variety of projects but this is the first example we've come across where DeepMind has paid a Trust.
+
+The financial exchange should not be interpreted as DeepMind paying Moorfields for access to patient data, according to a source with knowledge of the partnership.
+
+"What we want to do is train an algorithm to classify a potential diagnosis in an image in the same way that we've trained algorithms to classify, say, chairs or plants in photos, or that we've trained algorithms to perform well in the Atari [game] simulator," Mustafa Suleyman, DeepMind's cofounder, .
+
+He added: "Essentially, what it's doing is learning that a particular cluster of pixels are correlated with a particular outcome or action or object that we're looking for."
+
+A spokesperson for DeepMind Health told Business Insider:
+
+"DeepMind has reimbursed Moorfields for the direct costs they have incurred de-personalising and manually segmenting eye scans prior to transfer. Our research together looks at whether AI techniques can reduce the time between a patient's scan and their diagnosis by an expert eye specialist.
+
+"We hope this work will help doctors faster analyse the 3,000 eye scans Moorfields carries out every week. Speeding up the time between test and diagnosis could play a critical role in treating serious eye conditions before patients are left with long-term health conditions or blindness. Moorfields owns and controls the de-personalised data at all times and retains the right to share the same dataset with other research groups with the standard ethical approvals."
+
+A spokesperson for Moorfields Eye Hospital NHS Foundation Trust added:
+
+"We are working with DeepMind on a research project to apply machine learning to one million anonymised eye scans to explore whether this could lead to earlier detection of common eye diseases. Where administrative or clinical time is spent on the research project by Moorfields staff, DeepMind ensures that this time is appropriately reimbursed to the trust. All payments received from DeepMind are to recover costs that have been incurred by Moorfields during the delivery of this collaborative research project."
+
+DeepMind declined to comment when asked whether it was funding any other NHS research.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Oct</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NHS</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optical Coherence Tomography</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Freedom of Information</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London-based</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Moorfields Eye Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Health Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deepmind</name>
+    <count>14</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>DeepMind Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moorfield</name>
+    <count>10</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Moorfields Eye Hospital NHS Foundation Trust £110,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DeepMind's AI</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atari</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NHS Trusts</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Moorfields Eye Hospital NHS Foundation Trust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mustafa Suleyman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FOI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's DeepMind</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410085050109638</docid>
+  <date>01/08/2017</date>
+  <time>21:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/doctors-slam-turnbull-government-drug-plan/news-story/6b2659f442a391ca776c4373d831e154</url>
+  <title>Doctors slam Turnbull government drug plan</title>
+  <content>
+Doctors have slammed the federal government's approach to drug policy, insisting its 10-year strategy is disappointing and misdirected.
+The Australian Medical Association has criticised the national drug strategy 2017-2026 for listing methamphetamine, or ice, as the highest priority substance for Australia despite only 1.4 per cent of Australians over 14 having ever tried the drug.
+Alcohol is considered a lower priority despite being associated with 5000 deaths and more than 150,000 hospitalisations each year, the AMA says.
+"The government must focus on those dependencies and addictions that cause the greatest harm, including alcohol, regardless of whether some substances are more socially acceptable than others," AMA president Michael Gannon said on Wednesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Medical Association</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Gannon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

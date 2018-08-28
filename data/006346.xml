@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408925408918497</docid>
+  <date>01/08/2017</date>
+  <time>17:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/voting-machine-hack-def-con-russia-2017-7</url>
+  <title>'The bad guys can get in': Hackers at a cybersecurity conference breached dozens of voting machines within minutes</title>
+  <content>
+Hackers at a cybersecurity conference breached 30 voting machines in less than two hours.
+
+The episode demonstrates the US' continued vulnerability to electoral tampering by state actors.
+
+Some believe that going back to paper ballots is the only way to guard against future cyberattacks from Russia or other foreign powers.
+
+Professional hackers were invited to break into dozens of voting machines and election software at this year's annual DEFCON cybersecurity conference. And they successfully hacked every single one of the 30 machines acquired by the conference.
+
+The challenge was held at DEF CON's "Voting Village," where hackers took turns breaching ten sample voting machines and voter registration systems, .
+
+Carten Schurman, a professor of computer science at the University of Copenhagen in Denmark, was able to break into one voting machine in minutes.
+
+"I could have done this in 2004, or 2008, or 2012," Schurman told Politico. With access to the voting machine, Schurman had the the power not only to see all the votes cast on the machine, but also to manipulate the results.
+
+DEF CON's hacking exercise came as the US grapples with the fallout from Russia's interference in the 2016 election, which included attempts to tamper with voting systems.
+
+Bloomberg  in June that election systems in as many as 39 states could have been attacked by Russian state actors, though voting tallies are not believed to have been altered or manipulated in any way.
+
+"In Illinois, investigators found evidence that cyber intruders tried to delete or alter voter data," Bloomberg said. "The hackers accessed software designed to be used by poll workers on Election Day, and in at least one state accessed a campaign finance database."
+
+The report was bolstered by a leaked NSA document published by The Intercept in June detailing how hackers connected to Russian military intelligence had attempted to breach US voting systems days before the election.
+
+At DEFCON, an intern named Anne-Marie Hwang was able to gain administrative access to a voting machine by simply using a generic key like the ones poll workers are given, plugging in a keyboard to the machine, and hitting control-alt-delete, Politico reported.
+
+Participants were also able to uncover voter data from 2002 in a machine still being used in certain parts of seven states and across the state of Nevada.
+
+Hackers obtained the data despite the fact that the machine had been wiped when it was auctioned off by the government.
+
+The ease with which hackers were able to break into voting machines should serve as an important warning signal to US authorities.
+
+"'Unhackable' is absurd on its face," panel moderator and former Department of Homeland Security adviser Jack Braun told Politico. "If the Russians and Chinese and whoever else can get into NSA and Lockheed Martin and JP Morgan, they absolutely can get into Kalamazoo County or the state of Ohio or the [voting machine] vendor."
+
+The results at DEF CON show that "the bad guys can get in," Braun added.
+
+'If Russia wants you badly enough...they will find a way'
+
+Some argue that it's very unlikely hackers would be able to manipulate vote tallies in a national election.
+
+Eric Hodge, the director of consulting at CyberScout and a consultant for Kentucky's Board of Elections,  that because voting machines are distributed county-to-county, it makes it hard for intruders to swing national results.
+
+To be sure, a US official told Bloomberg in June that the decentralized nature of voting systems may have prevented hackers from being able to use a uniform approach to access and manipulate voter data.
+
+But in national elections that are closely contested, the numbers could come down to just a few critical swing districts, which could be targeted by nefarious actors.
+
+And national elections are not the only ones that could prove vulnerable to a cyberattack. Virginia and New Jersey will hold gubernatorial elections later this year, and all 435 seats in the House and 33 of the 100 seats in the Senate will be contested in the 2018 midterm elections.
+
+"Follow the money," Harri Hursti, the cofounder of Nordic Innovation Labs, which helped organise DEF CON, told The Hill. "On the other end of the ballot, that's where the money is - banks and roads."
+
+Hodge said that if officials take care to "store machines, set them up, [and] always have someone keeping an eye on machines," that could go a long way in ensuring the safety of the electoral process.
+
+But others are not so sure.
+
+"Going back to a scantron machine is probably the best bet" to guard against cyberattacks, Alex McGeorge, the head of threat intelligence at cybersecurity firm Immunity Inc, told Business Insider. "It's unlikely that one could create software that would withstand the attention of a nation-state, especially if you had physical access to the machines."
+
+That assessment was echoed by Barbara Simons, the Board Chair of Verified Voting, a nonprofit that studies US election equipment.
+
+Simons told Politico that DEFCON exercise sheds light on the need for the US to go back to using verifiable paper ballots and mandatory audits. Still, her concerns extended to states that have begun moving in that direction.
+
+"Even where there are paper ballots, most ballots haven't been checked to see if there was any hacking or intrusion, so even if security people didn't see any outside hacking occurring on Election Day, things could have been attacked earlier," Simons told Politico.
+
+McGeorge underscored the fact that the US will continue to be vulnerable if it relies on election software with lax security.
+
+"If Russia wants you badly enough, they will out-spend you to find a way," he said. "Voting is important enough to be extremely cautious about how we use computers."
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Simon</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Barbara Simons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CyberScout</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Illinois</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Homeland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OHIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anne-Marie Hwang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Politico</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jack Braun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Virginia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Immunity Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Board Chair of Verified</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kentucky's Board of Elections</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nevada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carten Schurman</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Alex McGeorge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>McGeorge</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Denmark</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Braun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Election Day</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hodge</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>JP Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Copenhagen</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nordic Innovation Labs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harri Hursti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lockheed Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Schurman</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eric Hodge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kalamazoo County</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422931297534789</docid>
+  <date>03/08/2017</date>
+  <time>23:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/one-chart-shows-instagram-and-whatsapp-dominating-snapchat-2017-8</url>
+  <title>This chart shows the trouble Facebook's copycat strategy is making for Snapchat</title>
+  <content>
+Snap's first few months as a publicly traded company have been rough, with its stock trading well below its March IPO price. The Snapchat app's parent company missed Wall Street targets in the first quarter, and investors will be paying close attention when it reports its Q2 results next week.
+
+Snap's greatest challenge comes from Facebook, which liked the idea of Snapchat stories so much that it decided to roll out its own version of stories on its Instagram and WhatsApp apps. As this chart from  shows, more than 250 million people use Instagram stories and WhatsApp every day. Despite its headstart, Snapchat lagged behind with 166 million users as of February 2017.
+
+Instagram also announced on Wednesday that users who are under 25 years old spend more than 32 minutes a day on its app, on average. By contrast, Snapchat said in February that its under-25 users spent over 30 minutes a day on the platform.
+
+To convince investors it can be successful, Snap needs to close the gap.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March IPO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Q2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Snapchat</name>
+    <count>5</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

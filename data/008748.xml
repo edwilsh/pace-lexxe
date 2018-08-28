@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412365677780580</docid>
+  <date>02/08/2017</date>
+  <time>06:31</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/nz-shares-rise-to-new-record/news-story/ef2c45b90ea9fe8a99b12a5aae846bbf</url>
+  <title>NZ shares rise to new record</title>
+  <content>
+Sophie BootAustralian Associated Press
+
+Share
+
+New Zealand shares rose to a new record on Wednesday, led by blue chip stocks including Xero and Ryman Healthcare, while Metro Performance Glass dropped.
+The S&P/NZX50 Index gained 18.87 points, or 0.24 per cent, to 7748.31, a new record close.
+Within the index, 28 stocks rose, 14 fell and eight were unchanged. Turnover was $195 million.
+The local bourse continued to follow international markets higher as better than expected earnings on Wall Street and the prospect of low interest rates for even longer continue to drive the attraction of equities.
+The Dow Jones Industrial Average broke new ground in the US overnight.
+"We're stronger today in line with firmer offshore markets, though Australia is bucking that trend a wee bit," said Grant Williamson, director at Hamilton Hindin Greene.
+"The blue chip stocks are mostly firmer and that has had a positive effect on the index."
+Fisher & Paykel Healthcare rose 0.9 per cent to $11.24, while Spark gained 0.3 per cent to $3.87.
+Xero led the index higher, rising 3.2 per cent to $27.65, the highest since June 2014 and its seventh consecutive positive trading session.
+
+It's up 53 per cent this year after multiple upbeat results have kept intact market expectations it will achieve its maiden profit in 2019.
+"It has been in a pretty strong up trend for some time now, one or two brokers have upgraded their price targets," Mr Williamson said.
+"It has created some good strength for the buy side."
+Ryman Healthcare gained 2.1 per cent to $9.07, while Summerset Group Holdings rose 1.9 per cent to $4.94 and CBL Corp gained 1.7 per cent to $3.69.
+Metro Performance Glass was the worst performer, down 3.3 per cent to $1.45.
+</content>
+  <sindexList>
+  <sindex>
+    <name>CBL Corp</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro Performance Glass</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>P/NZX 50 Index</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hamilton Hindin Greene</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paykel Healthcare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grant Williamson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Summerset Group Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fisher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sophie BootAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryman Healthcare</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2014</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Williamson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

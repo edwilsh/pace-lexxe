@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441958002880702</docid>
+  <date>07/08/2017</date>
+  <time>01:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/business/breaking-news/home-sales-and-prices-edge-higher/news-story/6261c480b5d89248df9034b653f616e4</url>
+  <title>Home sales and prices edge higher</title>
+  <content>
+Home prices in most of Australia's major capital cities have risen alongside auction clearance rates in the past week.
+Sydney, Melbourne, Brisbane and Adelaide all recorded higher home values in the week to August 6, while Perth edged lower, data from property statistics firm CoreLogic show.
+The first week of August had fewer auctions held across the five capital cities but the auction clearance rate rose to 71.5 per cent from 68.7 per cent in the prior week .
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>August 6</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398097796171395</docid>
+  <date>30/07/2017</date>
+  <time>23:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-07-31/woman-calls-911-while-being-bitten-by-boa-constrictor/8758666</url>
+  <title>'I have a boa constrictor stuck to my face': Woman calls 911 as she's attacked by 1.7m snake</title>
+  <content>
+A firefighter has cut the head off a boa constrictor that was suffocating an American woman who called 911 as the snake attacked her in her driveway.
+The woman, 45, told a 911 operator she had rescued the 1.7 metre snake a day earlier, but it had turned on her at her Ohio home.
+"Help, please. I have a boa constrictor stuck to my face," the panicked woman told the somewhat confused operator on Thursday.
+"Mam, you have a what?" the operator replied.
+
+The woman urged the operator to "please hurry, he's biting my nose" as she lay bleeding in the driveway of her home in Sheffield Lake, about 40 kilometres west of Cleveland.
+Firefighters and police arrived within minutes and found the woman in the grip of the snake.
+A firefighter cut off the snake's head with a pocket knife and the woman, who has not been identified, was taken by ambulance to a hospital for treatment.
+The woman told the emergency dispatcher she had rescued two boa constrictors on Wednesday and that she owned nine ball pythons.
+Local man Steve Kosman said he had seen the woman walking around the local area with a snake draped over her.
+"She would have it around her neck and walk over to the park behind us here. [I] just thought it was a little odd with her snakes," he said.
+"I was just shocked. I mean it was right next to my mother-in-law's house so it was like it was right there.
+"Maybe she'll get rid of them now."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OHIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Kosman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheffield Lake</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cleveland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

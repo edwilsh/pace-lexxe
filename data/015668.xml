@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424176838069581</docid>
+  <date>04/08/2017</date>
+  <time>04:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/the-pros-and-cons-of-a-boxer-four-engine-versus-an-inline-four/</url>
+  <title>The Pros And Cons Of A Boxer-Four Engine Versus An Inline-Four</title>
+  <content>
+If you've ever wondered why Subaru uses flat-four engines while everyone else has inline-fours, let Engineering Explained use a pair of lovely 3-D printed models to break down the pros and cons of each engine layout.
+
+gif: Engineering Explained/ (screengrabs)
+
+The two engines Jason Fenske from Engineering Explained uses for his demonstration are the Toyota 22R-E (found in first and second generation 4runners, among other Toyota trucks and cars of the era), and the Subaru EJ20 (found in all sorts of Subis from the '90s and 2000s).
+
+He starts by discussing firing order, pointing out that a boxer engine fires in the sequence 1-3-2-4, while an inline-four's combustion reactions happen in the order 1-3-4-2 (note that the cylinders are counted from the front-end accessory side to the rear flywheel side).
+
+From there, he goes on to discuss engine balance, saying that, because on both engines pairs of pistons move in and out together, primary forces in either engine design cancel out.
+
+Secondary forces - which result from a difference in piston speed (and thus, inertial forces) during the top half of crankshaft rotation (i.e. 90 degrees before and after top dead center) versus the bottom - are different between the two designs. Flat fours balance those secondary forces, while inline-fours don't, often requiring balance shafts to cancel out vibrations.
+
+Both engines cancel primary forces. photo: Engineering Explained/ (screengrabs)
+
+The downside of a boxer engine from a balance perspective is that pistons don't sit directly across from one another, meaning they can create a torque that tends to want to rotate the engine about the vertical axis.
+
+Other differences include a lower center of gravity for the boxer engine (which can translate to better vehicle dynamics), as well as benefits from a vehicle safety perspective (because it's theoretically easier for the low engine to tuck under the passenger compartment during wrecks).
+
+Inline-fours, though, are narrow, meaning there can be a lot of room for steering and suspension bits in rear-drive applications. Plus, they only use a single, easily-accessed cylinder head, and a lot fewer moving parts. This means inline-fours tend to be more serviceable, which is something you probably already know about from listening to WRX owners complain about spark-plug jobs.
+
+Watch the video above for the full breakdown, and arm yourself with knowledge for the next time you talk with a boxer-obsessed Subaru fanboy.
+
+WATCH MORE: Car News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Subaru EJ20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Car News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Engineering Explained</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boxer-Four Engine Versus An Inline-Four</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WRX</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Toyota 22R-E</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subaru</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jason Fenske</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pros And Cons Of A</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

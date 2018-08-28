@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404926794289748</docid>
+  <date>01/08/2017</date>
+  <time>01:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/11/33/teen-dies-after-herding-bulls-on-wa-farm</url>
+  <title>Teen dies after herding bulls on WA farm</title>
+  <content>
+A 19-year-old woman has died after being crushed by a bull at a farm near Esperance in Western Australia's south.
+A co-worker found the unconscious victim at about 11.30am on Monday and she was rushed by ambulance to Esperance Hospital where she died a short time later.
+Worksafe will investigate and a report is being prepared for the coroner.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esperance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esperance Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WorkSafe</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

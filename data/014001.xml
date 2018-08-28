@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422884052893648</docid>
+  <date>03/08/2017</date>
+  <time>23:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/business/tabcorp-posts-208m-fullyear-loss-on-tatts-merger-costs-legal-battles-20170803-gxp36d.html</url>
+  <title>Tabcorp posts $20.8m full-year loss on Tatts merger costs, legal battles</title>
+  <content>
+Tabcorp has slipped to a full-year net loss of $20.8 million on the back of costs related to its proposed merger with Tatts, legal battles and its new UK business.
+The result contrasts sharply with last year's $169.7 million profit and comes amid a 2 per cent lift in revenue to $2.23 billion for the 12 months to June 30.Photo: Phil Carrick
+The gaming giant, which is in the process of completing a merger with Tatts Group, declared a fully franked final dividend of 12.5¢ a share, taking full-year dividend to 25¢.
+More to come
+
+AAP 
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June 30.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tatts Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Phil Carrick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tatt</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

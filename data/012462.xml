@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418202538446931</docid>
+  <date>03/08/2017</date>
+  <time>05:10</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/companies/commonwealth-bank-accused-of-53000-contraventions-of-money-laundering-laws/news-story/83b64e7014510e5695dca4228f5ca776</url>
+  <title>CBA embroiled in laundering scandal</title>
+  <content>
+AUTHORITIES have accused the Commonwealth Bank of more than 53,000 contraventions of strict regulations designed to combat money laundering and terrorist financing.
+The Australian Transaction Reports and Analysis Centre (AUSTRAC)  it will begin court action against the country's largest bank over the alleged breaches.
+Peter Clark, the acting head of the financial intelligence and regulatory agency, said an investigation into CBA's compliance focused particularly on its  (IDMs).
+As a result, it will allege there were a staggering 53,700 breaches of the Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) Act.
+Mr Clark said CBA did not carry out any assessment of the money laundering and terrorism financing risk of IDMs before their rollout in 2012.
+"For a period of three years, CBA did not comply with the requirements of its AML/CTF program relating to monitoring transactions on 778,370 accounts," a statement said.
+"AUSTRAC alleges that the bank failed to report suspicious matters either on time or at all involving transactions totalling over $77 million.
+"Even after CBA became aware of suspected money laundering or structuring on CBA accounts, it did not monitor its customers to mitigate and manage ... risk."
+
+Mr Clark said that today's action should send a clear message to all reporting entities about the importance of meeting their obligations.
+"By failing to have sound AML/CTF systems and controls in place, businesses are at risk of being misused for criminal purposes," Mr Clark said.
+"AUSTRAC's goal is to have a financial sector that is vigilant and capable of responding, including through innovation, to threats of criminal exploitation."
+In , CBA acknowledged civil proceedings had been brought by AUSTRAC.
+"We have been in discussions with AUSTRAC for an extended period and have co-operated fully with their requests," it said.
+"We take our regulatory obligations extremely seriously and we are one of the largest reporters to AUSTRAC. On an annual basis we report over four million transactions to AUSTRAC in an effort to identify and combat any suspicious activity as quickly and efficiently as we can."
+AUSTRAC's statement of claim in the Federal Court relates to at least four different laundering syndicates accused of using CBA teller machines.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Clark</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>8</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Australian Transaction Reports</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Analysis Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>8</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

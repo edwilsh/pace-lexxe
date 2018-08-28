@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411545339015377</docid>
+  <date>02/08/2017</date>
+  <time>03:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/woman-mauled-death-dog-boarding-kennel/3207884/</url>
+  <title>Woman mauled to death by dog at boarding kennel</title>
+  <content>
+A WOMAN has been mauled to death by a dog in Perth.
+Reports suggest the attack happened in Southern River, a residential suburb in the city's southeast. The woman is believed to be aged in her 50s.
+The West Australian reports police got called to a property with boarding kennels for dogs about 1.30pm local time (3.30pm EST).
+St John Ambulance officers declared the woman dead after she received life threatening injuries as a result of the dog attack.
+Gosnells Council has seized the dog, reportedly a mastiff. PerthNow reports the death is not being treated as suspicious and a report is being prepared for the coroner.
+
+News.com.au has contacted Gosnells Council for comment.
+The tragic incident comes just weeks after a Melbourne man was attacked at a beach in Brighton East.
+Cam McIntyre said he was lucky to be alive after dog, believed to be a labrador-rottweiler cross, attacked him and left him with a gash in his neck just millimetres from a major artery.
+
+The dog bit his hand and neck and he was treated with 40 stitches.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gosnells Council</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>PerthNow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cam McIntyre</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brighton East</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

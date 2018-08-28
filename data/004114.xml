@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404497297553300</docid>
+  <date>31/07/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/09/47/stranded-whales-die-on-qld-sandbank</url>
+  <title>Stranded whales die on Qld sandbank</title>
+  <content>
+Two humpback whales have died after beaching themselves on a sandbank near Fraser Island.
+The 10 and 12 metre-long humpbacks were found by rangers on Sheridan Flats, in the Great Sandy Strait, on Monday morning.
+Rangers kept the whales wet and shaded in the hope they could be refloated but they died overnight.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheridan Flats</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Great Sandy Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fraser Island</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417124501639099</docid>
+  <date>03/08/2017</date>
+  <time>00:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/opinion/columnists/global-economy-teeters-on-the-brink-of-trade-war-20170802-gxo6wc</url>
+  <title>Global economy teeters on the brink of trade war</title>
+  <content>
+Earlier this year, both China's president Xi Jinping and Russian leader Vladimir Putin thought they'd be able to reach a tolerable - perhaps even cordial - working relationship with US President Donald Trump.
+Instead, the global economy is teetering on the brink of a bitter and damaging trade war, as Washington has moved to impose tough economic sanctions on Moscow, while flagging its intention to take a much more aggressive stance with Beijing.
+Tensions between Washington and Moscow have spiralled after Trump reluctantly signed a bill that imposes new sanctions on Russia to punish the Kremlin for its alleged meddling in the 2016 election.
+Although Trump criticised the legislation as "seriously flawed", he had little option but to sign the bill after it had received overwhelming bipartisan and veto-proof support in US Congress. 
+
+Even before he signed it, the Kremlin had retaliated by ordering the US to reduce its embassy staff numbers in Russia by 755 people and by seizing two US diplomatic properties.
+
+The new sanctions are mainly economic, and .
+Europe at risk
+
+The bill tightens restrictions on lending to Russian entities and enforces sanctions on those deemed to be undermining cybersecurity, and on people and companies engaged in significant transactions involving the Russian defence and intelligence sectors.
+Although some joint US-Russian energy ventures will be allowed to proceed, the bill imposes penalties on new projects and joint ventures in which a sanctioned Russian person or entity holds a stake of 33 per cent or more.
+
+The bill also allows the US President to impose sanctions on firms backing the high-profile Russian pipeline project - the Nord Stream 2 pipeline. This has alarmed the Europeans who worry that it puts at risk the five European companies that are backing the Gazprom-led project which will transport gas from Russia to Europe.
+But tensions between the US and China have also flared following reports that the Trump administration is preparing new measures aimed at forcing Beijing to crack down on intellectual property theft and to water down the requirement that US companies share their advanced technologies if they want to access the Chinese market.
+According to a report in the Wall Street Journal, the Trump administration is using a little-used provision of US trade law to investigate whether China's intellectual property policies amount to "unfair trade practices".
+This would clear the way for the US to impose sanctions on Chinese exporters, or to further limit the transfer of advanced technology to Chinese firms or to US-Chinese joint ventures.
+
+Major US companies are becoming increasingly frustrated with China's reluctance to open up markets, particularly given the open access Chinese companies have to US markets.
+Beijing's tough response
+
+They're also critical of Beijing's restrictions on foreign companies, at a time when Chinese companies are boosting their investment offshore, and complain that the Trump administration hasn't done enough in areas like intellectual property, and has instead focussed on Chinese manufacturing.
+Their dissatisfaction has bubbled up as China's economy has become more sophisticated, and its computer and software sectors have increasingly emerged as global competitors.
+
+But the risk is that Beijing responds to sanctions by imposing further restrictions on US investment in China, or by making life more difficult for US firms already operating in the country.
+The Trump administration's threat comes at a time of growing economic frictions between Washington and Beijing. Bilateral economic talks in mid-July ended in a stalemate, as China pushed for more high-tech imports that the US is reluctant to sell to China, while the Trump administration argued that Beijing should reduce trade barriers.
+Trump has also  that Beijing has not done more to rein in North Korea's missile program.
+Meanwhile, Beijing is watching closely to see whether the Trump administration follows through with its threat to impose as high as 20 per cent on Chinese steel and aluminium imports. 
+
+Last month, Trump said he was considering using quotas and tariffs to deal with the "big problem" of steel dumping from China and others.
+"They're dumping steel and destroying our steel industry, they've been doing it for decades, and I'm stopping it", he told reporters. "There are two ways: quotas and tariffs. Maybe I'll do both."
+Both Chinese and European officials have warned the Trump administration of the dangers of such a move, saying that it risks triggering a global trade war.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Nord Stream-2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-Chinese</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>9</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US-Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US President</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>9</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>11</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gazprom-led</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>US Congress</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Vladimir Putin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>8</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Xi Jinping</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398230940159908</docid>
+  <date>30/07/2017</date>
+  <time>23:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/lifestyle/top-10-health-checks-you-can-do-yourself-with-help-of-technology/news-story/51c6e6275cbf91f733000dbace4c75a4</url>
+  <title>Top 10 DIY health checks</title>
+  <content>
+THESE hightech tools will help you keep track of your wellbeing without even leaving the house. 1 AT-HOME PAP SMEAR
+SoloPap HPV Test ($30, solopap.com.au) Take the dread out of pap smears by using this kit in the privacy of your own home. It also tests for HPV (human papillomavirus). It comes with a patented cylinder for a smooth and effortless insertion, and a guide head that automatically positions your cervix to allow the collection brush to retrieve cell samples. Take it to your GP for testing or, for $90, send it to the independent lab. Results are then sent to your chosen doctor.2 SKIN CANCER DETECTION APP
+SkinVision (free from the App Store and Google Play, skinvision.com) Take a photo of the mole you want to check, wait for the app to analyse the image, then save the picture so you can keep an eye on it. SkinVision boasts an 88 per cent sensitivity rate for melanoma but should be used in conjunction with yearly skin checks with a GP or dermatologist.3 BLUETOOTH BLOOD PRESSURE MONITOR
+Omron HEM7280T Bluetooth blood pressure monitor ($249, omronhealthcare.com.au) This high-tech piece of equipment makes checking your blood pressure a cinch to do at home. The clever armband will apply the perfect amount of pressure for an accurate and comfortable measurement, while the OMRON connect app, which syncs wirelessly from your smartphone, will tell you if your reading is abnormal or if you have an irregular heartbeat.4 BLOOD GLUCOSE ARM SENSOR
+FreeStyle Libre Sensor ($92.50) & Reader ($95, freestylelibre.com.au) Gone are the days when you'd do a fingerprick test to check your glucose levels. Now all you need is this 5g sensor patch and pocket-size reader. Stick the sensor on your upper arm, scan it for one second using the reader, and you'll receive data on your glucose levels from the past 8 hours.
+Each sensor lasts for 14 days and is waterproof so you won't even remember it's on your arm.5 UV EXPOSURE PATCH
+La Roche-Posay My UV Patch (free with the purchase of La Roche-Posay sunscreen at most pharmacies, laroche-posay.com.au) This thin, flexible patch measures sun exposure when connected to the My UV Patch app (free from the App Store and Google Play). The transparent adhesive about the size of a 50c coin contains photosensitive dyes that change colour when exposed to UV. Use the app to scan the patch on your skin and it will determine your level of UV exposure. You can sleep, exercise, shower and swim with it on for up to five days - you'll forget it's even there!6 DIGITAL OVULATION TEST
+Clearblue Digital Ovulation Test (with dual hormone indicator; $50.99 for 10, available from all major pharmacies) Most ovulation tests give a two-day window but this one tracks four or more fertile days and is more than 99 per cent accurate. Pee on a strip each morning and wait for the words 'high fertility' to appear. From there, 6 you know what to do!7 A GP IN YOUR POCKET
+ADA (free from the App Store and Google Play, ada.com) This 'health companion app' was designed by an international team of 100 doctors, data scientists and engineers, and is like having a doctor in your pocket when you feel sick. It asks personalised questions and suggests possible causes for symptoms. Then it keeps a digital record of your health history so you can share it with your real-life GP.8 BESPOKE DIET TEST
+MyDNA Personalised Diet Report ($99, mydna.life) This kit provides a diet plan to suit your genes. Just swipe the inside of your cheek with the utensils, and send the sample to the myDNA lab team for interpretation. You'll receive a personlised health report and guidance on how to enhance your health.
+9 BOWEL CANCER SCREENING KIT
+BowelScreen Australia Screening Kit ($39.95, bowelscreenaustralia.org) A bowel cancer test every one to two years from age 50 could save your life. Collect a stool sample with the brush provided and paint it onto the test card (no need to handle anything).
+Results are mailed to you and your doctor, all costs included.
+10 SEXUAL HEALTH TEST
+iCare Sexual Health Multi-Test Pack ($64.95, headstarttesting.com) This pack of four test kits includes either a swab or fingerprick blood test for chlamydia, gonorrhea, syphilis and hepatitis B, all of which pose serious health risks if untreated. Results are delivered in 10 minutes. See your GP if you test positive.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>SKIN CANCER DETECTION APP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GP</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UV</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>BLOOD GLUCOSE ARM SENSOR</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Omron HEM7280T Bluetooth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HPV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SEXUAL HEALTH TEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GP IN YOUR POCKET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>La Roche-Posay</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>BowelScreen Australia Screening Kit ($39.95</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BOWEL CANCER SCREENING KIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iCare Sexual Health Multi-Test Pack ($64.95</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Google Play</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SkinVision</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>myDNA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UV EXPOSURE PATCH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>La Roche-Posay My UV Patch</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Libre Sensor ($92.50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clearblue Digital Ovulation Test</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DIY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SoloPap HPV Test ($30</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>GP.8 BESPOKE DIET TEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DIGITAL OVULATION TEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MyDNA Personalised Diet Report ($99</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HOME PAP SMEAR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ADA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>BLUETOOTH BLOOD PRESSURE MONITOR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UV Patch</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reader ($95</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

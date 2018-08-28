@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398355494212912</docid>
+  <date>31/07/2017</date>
+  <time>00:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/07/31/09/56/six-people-injured-as-car-ploughs-into-crowd-in-los-angeles</url>
+  <title>Six people injured as car ploughs into crowd in Los Angeles</title>
+  <content>
+At least six people were injured when a car drove into a crowd in Los Angeles.
+The vehicle careened into the crowd around 3.47pm Sunday local time (8.37am today AEST), on West Pico Boulevard in Wilshire, the .
+Two cars collided at an intersection after one of the vehicles ran a red light, Los Angeles police Sergeant Dwayne Wilson told the LA Times. 
+The impact forced one car onto the sidewalk, where it hit a group of people dining alfresco at a restaurant. 
+Four people have been rushed to hospital, while two other suffered non-life-threatening injuries.
+Both drivers remain at the scene.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>LA Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sergeant Dwayne Wilson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wilshire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Pico Boulevard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

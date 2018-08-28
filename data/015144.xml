@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423614197345936</docid>
+  <date>04/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/qlds-m1-northbound-lanes-reopened/news-story/10d9b5a8dac8e4fe86fd57cdd9ceb0a3</url>
+  <title>Qld's M1 northbound lanes reopened</title>
+  <content>
+Northbound lanes on Queensland's M1 motorway have reopened hours after a tanker carrying hydrochloric acid exploded into flames.
+A one-kilometre-wide exclusion zone was established after the tanker caught fire on the M1 Motorway at Loganholme on Friday morning, closing the motorway, which connects Brisbane with the Gold Coast, in both directions.
+Queensland police say all northbound lanes have now reopened but southbound lanes are expected to remain closed for several more hours.
+Motorists stuck in the traffic jam are being urged not to cross onto the wrong side of the road to get out or do illegal U-Turns.
+Police say moving the tanker from the motorway will be a "logistical challenge" as it will need to be escorted away by police after emergency crews remove the acid from the tanker.
+The tanker caught fire around 8:30am on Friday sending thick black smoke billowing across the nearby area.
+The driver of the vehicle escaped uninjured.
+Nine firefighter crews were sent to the scene to extinguish the blaze.
+A local resident told ABC Radio he heard loud "bangs" that shook the windows in his house.
+Queensland Fire and Emergency Services say smoke is continuing to blow from the site and will continue to affect the local area during the day.
+Anyone with breathing difficulties has been advised to keep medication or breathing aids with them.
+</content>
+  <sindexList>
+  <sindex>
+    <name>U-turn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Loganholme</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld's M1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>M1 Motorway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland's M1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

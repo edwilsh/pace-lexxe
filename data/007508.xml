@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411081482540200</docid>
+  <date>02/08/2017</date>
+  <time>01:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/man-with-scissors-caught-at-cbd-station/news-story/8bf9d05e35f4bb326b62c18cead0c974</url>
+  <title>'Man with scissors' caught at CBD station</title>
+  <content>
+A man allegedly armed with a pair of scissors has been arrested at Sydney's Central Station.
+Police say the man entered a shop at Henry Deane Plaza at 8.30am on Wednesday, then closed the door and pulled out the scissors.
+A staff member inside managed to contact police, who quickly arrived at the scene and arrested the man "without incident", a NSW Police spokesman told AAP.
+The alleged offender was taken to Day Street Police Station for questioning.
+The arrest comes a week after police shot dead 30-year-old Danukul Mokmool at Central Station, who was also armed with a pair of scissors.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Day Street Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Danukul Mokmool</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Central Station</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Henry Deane Plaza</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney's Central Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

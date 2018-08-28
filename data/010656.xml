@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416402947120709</docid>
+  <date>02/08/2017</date>
+  <time>22:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/why-is-self-driving-tech-still-so-expensive/</url>
+  <title>Why Is Self-Driving Tech Still So Expensive?</title>
+  <content>
+Our self-driving car future may be farther away than the hype suggests. Besides Tesla, self-driving car developers depend on an expensive piece of technology called LIDAR, a laser-based radar that allows an autonomous vehicle to see the road.
+
+There are cheaper options, but the MIT Technology Review explains that these more-affordable solutions won't deliver the kind of data that's necessary for self-driving cars to operate at highway speeds.
+
+Photo: Waymo
+
+A new start-up founded by former Tesla engineers called  as being a possible way forward. Companies like Velodyne are working to produce a solid-start LIDAR device; another start-up called Quanergy has , and it expects it to cost $US250 ($314).
+
+But, as the MIT story notes, every piece of LIDAR - which stands for Light Detection and Ranging - has its own characteristics. The spinning turret atop a Google-equipped Chrysler Pacifica can be different from what's on a self-driving Volvo operated by Uber.
+
+Here's how the MIT story explains it:
+
+Velodyne, for example, has a range of offerings. Its high-end model is an $US80,000 ($100,422) behemoth called  - this is the one that looks a lot like a coffee can. It spits 64 laser beams, one atop the other. Each beam is separated by an angle of 0.4° (smaller angles between beams equal higher resolution), with a range of 120 meters. At the other end the firm sells the smaller  for $US8,000 ($10,042). This sensor uses 16 beams of light, each separated by 2.0°, and has a range of 100 meters.
+
+Tacking on an extra several thousand dollars for a sensor makes robotcars particularly cost prohibitive. And early fully autonomous cars will need perform perfectly with the best equipment to ensure AVs can succeed and win over a .
+
+That's why solid-state devices are seen as a solution; they're easier to manufacturer and cheaper. But current options don't provide the same data that Velodyne's HDL-64E provides, the MIT story reports.
+
+In June, Graeme Smith, chief executive of the , told MIT Technology Review that he thinks a trade-off between data quality and affordability in the lidar sector might affect the rate at which high-speed autonomous vehicles take to the roads.
+"Low-speed applications may be more affordable more quickly than higher-speed ones," he explained. "If you want a laser that's operating over 250 meters, you need a finely calibrated laser. If you're working in a lower-speed environment and can get by with 15 meters' range, then you can afford [to use] a much lower-cost sensor."
+
+The story notes that some solutions could be rolled out in the near-future, though how widespread they will be is unclear: Velodyne's solid-state device that's under development boasts 32 laser lines and a claimed range of 200 meters, but MIT said the company wouldn't provide a resolution for the hardware.
+
+An Israeli startup called Innoviz Technologies  it's making a $US100 ($126) unit that can see up to 200 meters ahead with an angular resolution of 0.1°. Both hope to have them in production by next year, MIT reports, but as of now, it's unclear how available they will be.
+
+The solid-state tech will almost certainly improve over time, but at the speed automakers are working to get AVs on the road, that's why cost is something to consider. And that's why it's not surprising to read the : fully-autonomous cars, early on, will be costly - perhaps as much as $US400,000 ($502,112). Until the cheaper solutions succeed in delivering the necessary high-quality data, that's going to be the reality.
+
+This story originally appeared on .
+
+WATCH MORE: Travel Ideas
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIT</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Innoviz Technologies</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Quanergy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LIDAR</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Waymo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US250 ($314</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Light Detection</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80,000 ($100,422</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Graeme Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Velodyne</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US8,000 ($10,042</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MIT Technology Review</name>
+    <count>2</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>Travel Ideas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Israeli</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google-equipped Chrysler Pacifica</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Volvo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Velodyne's HDL-64E</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Self-Driving Tech Still</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US400,000 ($502,112</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US100 ($126</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AVS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Uber</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

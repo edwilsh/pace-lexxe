@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441777614251817</docid>
+  <date>07/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/morgan-stanleys-three-reasons-to-be-cautious-on-acquisitive-webjet-20170806-gxqlvr</url>
+  <title>Morgan Stanley's three reasons to be cautious on acquisitive Webjet</title>
+  <content>
+As fund managers and analysts re-work the numbers on Webjet following a sizeable acquisition, Morgan Stanley analysts reckon there are good reasons to be cautious. 
+Morgan Stanley cut the stock to "underweight" on Monday morning, and told clients there were three issues which made it hard to own the company. 
+The issues included:
+1. Large acquisition with questions over previous acquisition accounting: Webjet was pursuing the Jac deal while debating with its auditor and seeking opinions from other accounting firms on treatment of a previous deal.
+
+2. Lack of transparency in B2B: WEB provides TTV by brand, but no colour on revenue, costs, or EBITDA. We still don't have an EBITDA figure for Thomas Cook. This deal makes B2B more opaque.
+
+3. Further complications: Jac is a transformational acquisition. We were surprised by language from management like "capacity to pursue further growth opportunities".
+Morgan Stanley's warning comes only days after  and funded it with an equity raising. 
+The ASX-listed travel company told shareholders the deal would be at least 25 per cent accretive to earnings per share in the 2017 financial year, on a proforma basis before synergies, and was expected to complete by the end of August. 
+Its pitch was about creating the No.2 business to business player globally, with contracted hotel relationships increasing from about 10,000 to 17,000. 
+
+The JacTravel acquisition followed Webjet's announcement that it had disagreed with auditor BDO about how to account for another deal; its sourcing partnership with Thomas Cook. 
+Webjet has finished the institutional portion of its $165 million rights issue and is due to open the retail offer later this week. New shares were offered at $10 each, which was an 8.6 per cent discount to the theoretical ex-rights price. 
+Webjet shares were trading down 8¢ to $12 on Monday morning. 
+Morgan Stanley has an $11.35 price target on the stock. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BDO</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>JacTravel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jac</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>TTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Cook</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>B2B</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404458642847116</docid>
+  <date>31/07/2017</date>
+  <time>23:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/01/09/42/australians-concerned-about-blood-cancers</url>
+  <title>Australians concerned about blood cancers</title>
+  <content>
+With 35 new cases diagnosed every day more Australians than ever are turning to Dr Google for information on blood cancers.
+Research has revealed a spike in online searches for 'leukaemia', 'lymphoma' and 'myeloma'.
+The data reflects a "troubling" increase in the number of blood cancer diagnoses and related deaths in Australia and a need for greater patient support, says The Leukaemia Foundation CEO Bill Petch.
+Analysis of search traffic conducted by the cancer charity found there were an average of 56,842 searches per month in 2016-17.
+It's a 44 per cent increase on the average 39,547 monthly searches in 2013-14.
+In March this year alone, there were over 69,600 searches nationally - a four-year monthly high.
+The number of Australians diagnosed with blood cancer has also increased.
+According to The Leukaemia Foundation, 35 people are diagnosed every day, up from 31 people just four years ago.
+While the cause for the increase in online searches is unclear, Mr Petch says the data raises concern that the country's "60,000-strong blood cancer community" is in need of greater support.
+"This new data paints a troubling picture about the growing problem of blood cancer," Mr Petch said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Petch</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Leukaemia Foundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Google</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Leukaemia Foundation CEO Bill Petch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

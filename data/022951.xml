@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443074694392516</docid>
+  <date>07/08/2017</date>
+  <time>05:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4839167/woolies-double-charges-have-customers-seeing-red/?cs=2452</url>
+  <title>Woolies double charges have customers seeing red</title>
+  <content>
+A Woolworths payment system error has angered customers, after it generated duplicate charges for transactions made at the supermarket in March.
+Woolworths customers used the store's Facebook page to vent their frustration at the "extremely inconvenient charges" which have left the accounts of some overdrawn.
+"Couldn't put fuel in the car and go to work because of this!!!" wrote Trav Wilkins.
+While another customer, Damien Hammond posted that his account was "now overdrawn because of a double up on a transaction...if I am charged an overdrawn fee I will be sure to pass that cost onto you so I can be reimbursed because of your incompetence."
+One customer who contacted Fairfax Media called his bank, ING, after noticing the charge on his statement.
+Read more:
+He was told the error occurred on the Woolworths end of the transaction and it "was up to them to resolve it."
+"Although it was a small amount in my case [$25], the big concern is that card details are kept so long after the transaction. Doesn't instil a lot of confidence in the age of cyber crime," said the customer, who asked not to be named.
+On its phone line, ING is currently playing a pre-recorded phone message to inform customers who may have been affected.
+"If you're calling about a duplicate transaction from the Woolworths Group in March, please be aware this issue will be resolved early tomorrow morning," the message says.  
+A Woolworths spokeswoman said one of its payment processors, Cuscal, had confirmed that "an error at a data centre" had left a limited number of customers with incorrect transactions on accounts processed by Cuscal.
+"We are working closely with Cuscal and can confirm any payment errors will be corrected as soon as possible. We apologise for the inconvenience this may cause customers. If further information is required please contact 1300 767 969."
+Woolworths could not confirm the number of affected customers.
+Cuscal has been contacted for comment.
+
+This story first appeared on The Age as .
+</content>
+  <sindexList>
+  <sindex>
+    <name>ING</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cuscal</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Trav Wilkins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Damien Hammond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

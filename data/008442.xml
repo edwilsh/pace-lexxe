@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412254008628997</docid>
+  <date>02/08/2017</date>
+  <time>06:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/tim-cook-says-apple-had-to-comply-with-chinese-censors-and-theyd-do-it-in-the-us-too/</url>
+  <title>Tim Cook Says Apple Had To Comply With Chinese Censors, And They'd Do It In The US Too</title>
+  <content>
+Last week, consumer tech giant Apple  from the Chinese branch of its Apps Store, seemingly putting yet another barrier in place for millions of Chinese citizens who might desire to defy their government's pervasive internet censorship system. Today, Apple CEO Tim Cook explained why Apple chose to comply with the wishes of Chinese censors.
+
+Photo: AP
+
+It's pretty simple, in Cook's telling. Unlicensed VPNs are against the law in China now, and Apple has to obey the law, period.
+
+"The central government in China back in 2015 started tightening the regulations associated with VPN apps," Cook told investors and media during Apple's Q3 2017 earnings and conference call, per . "We have a number of those on our store. Essentially, as a requirement for someone to operate a VPN they have to have a licence from the government there."
+
+"Earlier this year, they began a renewed effort to enforce that policy," he continued. "We were required by the government to remove some of those VPN apps from the app store that don't meet these new regulations... Today there's still hundreds of VPN apps on the app store, including hundreds by developers outside China. We would obviously rather not remove the apps, but like we do in other countries we follow the law wherever we do business."
+
+Here's where Cook's reply gets a little more cynical.
+
+"We believe in engaging with governments even when we disagree," Cook continued. "This particular case, we're hopeful that over time the restrictions we're seeing are loosened, because innovation really requires freedom to collaborate and communicate."
+
+Cook compared the controversy to Apple's 2016 battle with US authorities over iPhone security features, saying the "situation last year" was "very different" because US law was on the company's side. But he added if US law changed, Apple would have no choice but to comply.
+
+"In the case of China, the law is very clear there," Cook said. "Like we would if the US changed the law here, we have to abide by them in both cases. That doesn't mean that we don't state our point of view in the appropriate way, we always do that."
+
+Here's the thing: Apple isn't really "engaging" Chinese censors so much as complying with their orders, and there's no way removing the VPN apps will somehow result in that censorship being "loosened". It's at best a tradeoff between maintaining market access on one hand, and collaborating with the current Chinese censorship system on the other.
+
+Without getting into an argument on the merits of Chinese artist Ai Weiwei's work, he hit something on the head in a New York Times editorial earlier this year: "Whenever the state controls or blocks information, it not only reasserts its absolute power; it also elicits from the people whom it rules a voluntary submission to the system and an acknowledgment of its dominion." While Apple's decision to remove the VPN apps may be mandated by the "absolute power" of the Chinese state, it's also clearly reinforcing part two of the equation, voluntary submission to said power.
+
+Cook, of course, is clearly aware of this - which is why he mentioned Apple would have no choice but to comply with a US censorship regime, too. He's not exactly wrong. But it's also a reminder of how any abuse of power requires enablers, and institutions whose bottom line rely on compliance are probably not going to save anyone from autocracy. With a , they will usually comply.
+
+Elsewhere during the call, , mainland China sales are doing just fine. The company's poor performance was mostly due to poor sales in the mostly autonomous region of Hong Kong, which has much less restrictive laws on censorship.
+
+[]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US Too</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cook</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ai Weiwei</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VPN</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's 2016</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple's Q3 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Cook Says Apple Had To Comply With Chinese Censors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple CEO Tim Cook</name>
+    <count>1</count>
+    <score>0.33</score>
+  </sindex>
+  <sindex>
+    <name>VPNs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>7</count>
+    <score>9.5</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

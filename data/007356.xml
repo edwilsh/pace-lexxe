@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410948338551685</docid>
+  <date>02/08/2017</date>
+  <time>01:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/fortescue-retakes-control-solomon-power-station/</url>
+  <title>Fortescue retakes control of Solomon Power Station - Australian Mining</title>
+  <content>
+Fortescue's Solomon Hub
+
+Latest News
+
+Fortescue Metals Group has repurchased the Solomon Power Station from TransAlta Corp.
+The Solomon Power Station is a gas-fired operation providing power to Fortescue's Solomon Hub iron ore mining complex in the Pilbara region of Western Australia.
+Fortescue sold the operation to TransAlta in 2012, before then agreeing to purchase the station's entire power capacity from the new operator.
+The contract between the two parties entitles Fortescue to repurchase the power station and terminate the associated agreement, according to the iron ore miner.
+Solomon Power Station has been treated by Fortescue as a lease agreement and recognised as debt on its balance sheet.
+The company will pay $US348 million in liability and associated costs in November and resume operation and control of the power station.
+Fortescue chief executive officer Nev Power said the insourcing of the Solomon Power Station maintained the company's focus on improving productivity and efficiency to reduce operating costs, repay debt and maximise shareholder returns.
+"It also provides opportunities for Fortescue to improve operational synergies at Solomon and across Fortescue's other mining operations," Power said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Solomon</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue Metals Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pilbara</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nev Power</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransAlta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransAlta Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue's Solomon Hub</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Solomon Power Station</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue</name>
+    <count>7</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US348</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441786204186516</docid>
+  <date>07/08/2017</date>
+  <time>00:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/10/32/former-sa-liberal-mp-willing-to-back-labor</url>
+  <title>Former SA Liberal MP willing to back Labor</title>
+  <content>
+Former South Australian Liberal party leader-turned-independent Martin Hamilton-Smith says he is willing to do a deal with whichever party wins the most seats at next year's election.
+Mr Hamilton-Smith has not ruled out doing a deal with his old party or Labor in order to bring about stable government.
+"If either of the major parties was within one vote of a majority, I think all of the independents would be under a lot of pressure to give South Australians stable government," Mr Hamilton-Smith told ABC radio on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Liberal MP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Martin Hamilton-Smith</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Liberals</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hamilton-Smith</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

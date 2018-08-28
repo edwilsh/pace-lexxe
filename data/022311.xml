@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443156298772228</docid>
+  <date>07/08/2017</date>
+  <time>06:00</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/body-found-on-rocks-at-tasmanian-bay/news-story/39b88b0702b02a182609dc7793232da6</url>
+  <title>Body found on rocks at Tasmanian bay</title>
+  <content>
+John Durie
+
+CBA chief Ian Narev will not be in the job this time next year and his replacement will likely come from outside the bank.
+
+GREG BROWN
+
+Greens spokesman says death of a man detained in the PNG island represents an "abhorrent failure" of Coalition immigration policies.
+
+British model is kidnapped and drugged at bogus shoot by gang that threatened to sell her as a sex slave on the dark web.
+
+DAMIAN WHITWORTH
+
+Anyone can learn to boost their powers of persuasion, although there is one man who's particularly difficult to outwit.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ian Narev</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DAMIAN WHITWORTH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>John Durie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GREG BROWN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

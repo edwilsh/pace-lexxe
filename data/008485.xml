@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412284073400641</docid>
+  <date>02/08/2017</date>
+  <time>06:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/with-new-proof-that-football-damages-your-brain-researchers-are-now-concerned-about-soccer-too/</url>
+  <title>Researchers: Heading Soccer Balls Can Damage The Brain</title>
+  <content>
+Researchers at Boston University studying deceased football players' brains released new findings last week on the potential connection between the athletes and long-term neurological conditions, and the results were damning.
+
+To wit: Of the 111 NFL players included in , only one was not diagnosed with chronic traumatic encephalopathy (CTE). Most commonly believed to be a boxing-related disease, CTE, according to the , is a progressive degenerative disease that impacts those who have suffered from repeated blows to the head.
+
+Football has been the sport getting the most recent headlines, but those involved with the BU study are worried about another group of concussion-riddled athletes: Soccer players. While it may be seen as less of a contact sport than football, players routinely head the ball in soccer, and BU researcher Ann McKee told  that it isn't the how of the impact that matters, but the repetitiveness.
+
+Teams and governing bodies are paying some attention, mainly due to early-retiring players and lawsuits. In 2015, the US Soccer Federation set new regulations and guidelines for youth players, the result of a proposed class-action lawsuit filed against US Soccer. Included in those parameters was a policy prohibiting ball heading for those aged 10 and younger, and reducing the amount of heading for those age 11 to 13.
+
+Studies are difficult across all sports, because medical researchers say that CTE can only be determined through post-mortem testing of the brain. The BU study was the largest CTE case series ever published, but its authors are pushing for an even wider-ranging longitudinal study, in addition to seeking out potential CTE biomarkers.
+
+A biomarker indicator could help a player make an early retirement decision, as could the work of other researchers such as Michael Lipton, a neurologist with New York's Albert Einstein School of Medicine. His  hopes to understand how injuries might affect and change the brains of current amateur players through bloodwork, MRIs and brain games.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bu</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NFL</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US Soccer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heading Soccer Balls Can Damage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Soccer Federation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MRIs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ann McKee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Lipton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston University</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>New York's Albert Einstein School of Medicine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CTE</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

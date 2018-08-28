@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399085638663512</docid>
+  <date>31/07/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/12/52/elderly-vic-woman-shaken-by-home-theft</url>
+  <title>Elderly Vic woman shaken by home theft</title>
+  <content>
+A thief has broken into the regional Victorian home of a 96-year-old war widow and stolen her late husband's war medals.
+The woman woke at midnight on Sunday in her Kyabram home of 62 years and discovered it had been ransacked.
+A small amount of cash was missing and her husband's replica war medals and air force log books were gone.
+Police say the woman was very distressed by the theft and they are urging anyone who sees the stolen medals to make contact.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kyabram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

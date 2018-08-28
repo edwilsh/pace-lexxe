@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421385109278757</docid>
+  <date>03/08/2017</date>
+  <time>17:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/marcus-hutchins-wannacry-detained-in-us-report-2017-8</url>
+  <title>The security researcher who stopped the WannaCry attack has reportedly been 'detained' in the US</title>
+  <content>
+The security researcher who managed to stop the devastating WannaCry cyberattack has been "detained" in the US, .
+
+Marcus Hutchins, who goes by the online handle MalwareTechBlog, was visiting the Def Con security conference in Las Vegas before reportedly being detained.
+
+The FBI and the UK National Crime Agency did not immediately respond to Business Insider's request for comment.
+
+An unnamed friend of Hutchins told Motherboard: "I've spoken to the US Marshals again and they say they have no record of Marcus being in the system. At this point we've been trying to get in contact with Marcus for 18 hours and nobody knows where he's been taken ... We still don't know why Marcus has been arrested and now we have no idea where in the US he's been taken to and we're extremely concerned for his welfare."
+
+Twitter user Andrew MAbbitt wrote that he "can confirm @MalwareTechBlog was detained yesterday and FBI/US Marshalls won't tell me where he is ... I'm working on getting a lawyer for  as he has no legal representation and no visitors. I'll be crowdfunding legal fees soon."
+
+The WannaCry attack infected computers in more than 150 companies, crippling hospitals and telecoms firms, before Hutchins stumbled across a kill switch while investigating it. He has been hailed as a hero for stopping the malware, which infected the UK NHS (National Health Service), Spanish telecoms firm Telefonica, and logistics company FedEx, among other companies.
+
+I'm working on getting a lawyer for  as he has no legal representation and no visitors. I'll be crowdfunding legal fees soon
+- Andrew Mabbitt (@MabbsSec)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Telefonica</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FBI/US Marshalls</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MalwareTechBlog</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Mabbitt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Health Service</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>3</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>MabbsSec</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK's NHS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spanish</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FedEx</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK's National Crime Agency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marshals</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

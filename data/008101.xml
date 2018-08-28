@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411549633982796</docid>
+  <date>02/08/2017</date>
+  <time>03:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/02/news-corps-leading-tinfoiler-hot-for-alleged-bom-climate-conspiracy/</url>
+  <title>Rundle: Graham Lloyd attacks Bureau of Meteorology alleging climate conspiracy</title>
+  <content>
+It will be a cold, cold day before News Corp abandons its love of obsessive, crackpot climate change stories. Indeed that was exactly the story in the Oz yesterday - a , sorry, a GRAHAM LLOYD EXCLUSIVE, alleging skullduggery at the Bureau of Meteorology. This was after - prepare TO BE HORRIFIED - a couple of low-side temperature findings from high-altitude stations near Goulburn did not appear online for a period.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rundle</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Goulburn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Graham Lloyd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GRAHAM LLOYD EXCLUSIVE</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

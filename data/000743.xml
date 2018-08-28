@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398711976503244</docid>
+  <date>31/07/2017</date>
+  <time>01:32</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/sirtex-may-face-shareholder-class-action/news-story/18706074b7546a11d66e13720b1f03ef</url>
+  <title>Sirtex may face shareholder class action</title>
+  <content>
+Sirtex Medical may face legal action from disgruntled shareholders who claim the biotech engaged in misleading and deceptive conduct in relation to its sales forecast for 2016/17 and that shareholders consequently suffered financial losses.
+Law firm William Roberts Lawyers, which is inviting Sirtex shareholders to join a class action, alleges that Sirtex had no reasonable basis for forecasting double-digit sales growth for its primary revenue-earner, SIR-Spheres Y-90 in fiscal 2017.
+SIR-Spheres Y-90 is a targeted radiation therapy approved for supply in Australia, the European Union and the US, and accounts for almost all of Sirtex's revenues.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sirtex</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SIR-Spheres Y-90</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sirtex Medical</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>William Roberts Lawyers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

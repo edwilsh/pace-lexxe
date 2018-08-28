@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415058622332132</docid>
+  <date>02/08/2017</date>
+  <time>16:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/02/46/reports-of-plane-emergency-landing-portugal</url>
+  <title>Two dead as plane makes emergency landing in Portugal: reports</title>
+  <content>
+Two people have died after a light aircraft hit several people in an emergency landing on a beach in Portugal, local media reports.
+
+An eight-year-old child is among the victims on the beach at Sao Joao da Caprica, .
+
+It says multiple emergency services personnel are at the scene.
+
+"I only saw people shouting and now there is a heap of people," Diogo Silveira told the newspaper.
+
+More to come...
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Portugal</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sao Joao</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Diogo Silveira</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

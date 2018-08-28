@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446802726071776</docid>
+  <date>07/08/2017</date>
+  <time>20:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-08/could-a-robot-do-your-job-artificial-intelligence/8782174</url>
+  <title>Artificial intelligence and automation: Could a robot do your job?</title>
+  <content>
+New data from research house AlphaBeta provides the answer. Search to find your job - if you're game.
+
+Did you find this story surprising, insightful or useful?
+Sign up to hear about interactives, visualisations and good reads from the ABC News Digital Storytelling team.
+
+(No more than one email a week, we promise.)
+
+A new analysis ranks how much of every occupation in Australia is at risk of automation, as artificial intelligence looks set to reshape our working lives.
+The research, conducted by economic modelling firm AlphaBeta and funded by Google, finds the top five easiest to automate job categories are:
+Construction and mining labourers, with 86 per cent of their job susceptible to automation.
+Glaziers, plasterers and tilers (85 per cent)
+Floor Finishers and Painting Trades Workers (84 per cent)
+Food Preparation Assistants (84 per cent)
+Food Preparation Assistants (84 per cent)
+At the other end of the scale, the study ranks these jobs as the least able to be automated using AI:
+Contract, program and project administrators, with just 7 per cent of their work time susceptible to automation.
+Insurance agents and sales representatives (also 7 per cent)
+Real estate sales agents (9 per cent)
+Engineering professionals (10 per cent)
+ICT managers and miscellaneous specialist managers (both 12 per cent)
+What does this mean for my job?
+
+Economist Andrew Charlton, who led the AlphaBeta team that conducted the analysis, says that over the next 30 years, automation will affect every job in Australia - but not always in the ways you might expect.
+It's not all about machines destroying jobs.
+"It's not so much about what jobs will we do, but how will we do our jobs," he explains. "Everyone will do their job differently, working with machines over the next 20 years."
+"For example, a retail worker will spend nine hours less on physical and routine tasks like stocking shelves and processing goods at the checkout, and nine hours more on tasks like helping customers to find what they want and providing them with advice."
+Still, there's no doubt AI will put some jobs at risk, and Charlton says the most critical thing is how Australian governments and businesses respond to the need to reshape large sections of the workforce.
+How did you get this data?
+
+AlphaBeta conducted an analysis to figure out how difficult it would be to automate each type of job in Australia, in a research project that was funded by Google.
+It's a huge task, and not simple. The project was led by economist Andrew Charlton, a former adviser to Kevin Rudd.
+"We broke the Australian economy down into 20 billion hours of work," he explains, "and we asked what does every Australian do with their day, and how does what they do in their job change over the next 15 years."
+In more detail, here's the process Charlton and his team stepped through:
+The starting point was an existing US government database called O*NET, which provides a breakdown of the types of tasks every occupation performs. For example, a factory worker might 'operate equipment' and 'monitor facilities', while a sales assistant would 'assist customers' and 'assess products'. The database contains more than 2,000 such work-related activities.
+Each of those work tasks was assessed and placed into one of six groups depending on the type of work it represented. For instance, tasks requiring interaction with other people were assigned to a group named 'interpersonal' and tasks such as reviewing documents or monitoring facilities were assigned to a group named 'information analysis'.
+Each of those groups of work tasks was rated as 'difficult to automate' or 'automatable'.
+All of that information was pulled together, so the researchers could see how much of any individual job was 'difficult to automate' and how much was 'automatable'.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Preparation Assistants (84</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AI</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Painting Trades Workers (84</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ICT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Charlton</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charlton</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>ABC News Digital Storytelling</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBeta</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>O</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

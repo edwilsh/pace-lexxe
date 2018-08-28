@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443031744718961</docid>
+  <date>07/08/2017</date>
+  <time>05:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/standard-safety-controller-one-unit/</url>
+  <title>Standard And Safety Controller In One Unit - Australian Mining</title>
+  <content>
+Latest News
+
+Powerful standard and safety PLC in one unit
+Modern vehicles and mobile machines need very powerful control electronics to process the high number of input and output signals. That is why the new third generation ecomatController was developed: It has two independent, powerful 32-bit PLCs - one of them a certified safety controller. In addition to its multifunctional inputs and outputs with diagnostic capabilities, the unit features two Ethernet ports and four CAN interfaces. The CAN interfaces support all important bus protocols (CANopen, CANopen Safety and J1939) as well as the transparent and preprocessed data exchange. The control functions are easily integrated into the application program thanks to CODESYS programming (version 3.5).
+Features and benefits
+Sturdy mechanical design
+The control electronics are integrated into a compact metal housing with front-mounted, coded central plugs for mobile use, providing all the necessary connections for inputs, outputs, communication and programming. RGB status LEDs indicate the most important system messages.
+Powerful electronics​
+The core of the controller, which has been designed according to the applicable standards for electronics in mobile applications, is one of the most advanced multi-core 32-bit processors with 300 MHz clock frequency. Its 6 MByte application memory includes a 1 MByte file storage system. Two internal, independently programmable controllers allow for subdivision of the application software if required. Consequently, the safe program part can be executed without interference from the general program execution. This ensures reliable operation even with complex control functions. The controller can be used in applications up to EN 13849 PL d and EN 62061 SIL cl2.
+Configurable inputs and outputs​
+The inputs and outputs can be configured as digital, frequency or analogue inputs with diagnostic function or as inputs for resistance measurement. The analogue inputs enable both current and voltage measurement. The outputs can be configured as digital or PWM outputs with diagnostic capabilities, with or without current control. All inputs and outputs can also be configured as safe channels if required. Thus, safe sensors and actuators can be directly connected and processed in the application software.
+Programmable to IEC 61131-3 with CODESYS​
+Programming is done by means of the standardised IEC 61131-3 languages. Established and certified libraries are available for special functions and safe applications. Maintenance, diagnosis and updates are performed using TFTP via Ethernet and the maintenance tool. Additionally, these functions can be accessed via an application interface for ifm's PDM displays and via a software development kit for customer applications.
+Interfaces with extended functionality
+Besides an RS-232 interface and the Ethernet interface with internal switch, all controllers provide four CAN interfaces to ISO 11898. All CAN interfaces support the essential bus protocols CANopen, CANopen Safety and J1939.
+For more information visit the ifm . 
+</content>
+  <sindexList>
+  <sindex>
+    <name>MHz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ethernet</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LEDs</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Safety Controller In One Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EN 13849 PL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EN 62061 SIL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ecomatController</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CODESYS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MByte</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PLC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PDM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PWM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RGB</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>CANopen Safety</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISO 11898</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PLCs</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>J1939</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CANopen</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Rs 232</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TFTP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

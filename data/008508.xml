@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412292663335474</docid>
+  <date>02/08/2017</date>
+  <time>06:14</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/ashleigh-watterson-found-guilt-of-assault-not-guilty-on-two-counts-of-trying-to-smother-baby/news-story/3b47a888c08f3aae8d59fd083e6e713d</url>
+  <title>Mum acquitted of baby kill charges</title>
+  <content>
+A BRISBANE mum has been convicted of assaulting her baby but acquitted of twice trying to kill the five-month-old girl by smothering her.
+Ashleigh Meagan Watterson was in the Supreme Court in Brisbane this afternoon at 3.54pm when the 12-member jury returned their verdict on the four charges.
+She was found guilty of assault occasioning bodily harm, but cleared of two charges of attempted murder and an alternate charge of causing grievous bodily harm.
+She showed no emotion when the verdict was handed down.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Ashleigh Meagan Watterson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

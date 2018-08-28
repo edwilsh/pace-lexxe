@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399695524027184</docid>
+  <date>31/07/2017</date>
+  <time>05:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/man-shoots-girls-in-sydney-with-air-rifle/news-story/7ba3f0d8f40b353cba0fd4c3a60c8348</url>
+  <title>Man shoots girls in Sydney with air rifle</title>
+  <content>
+A man is accused of shooting at a group of teenage girls with an air rifle in Sydney's southwest on the weekend.
+Police say the 28-year-old man fired shots through the open window of his white truck hitting and injuring a girl, 17, before driving off on Saturday evening.
+The teenagers were standing next to the Hume Highway near Woodward Park at Liverpool when the attack occurred, police said in a statement on Monday.
+The 17-year-old received a laceration to her face and swelling while two 16-year-old girls weren't injured.
+The alleged shooter handed himself into police on Sunday and will face Liverpool Local Court in mid-August.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woodward Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hume Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liverpool</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liverpool Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

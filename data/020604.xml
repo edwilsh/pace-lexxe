@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439119029467304</docid>
+  <date>06/08/2017</date>
+  <time>14:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/banking-and-finance/mistakes-can-be-made--cba-blames-software-for-scandal-20170806-gxqiao.html</url>
+  <title>'Mistakes can be made' - CBA blames software for scandal</title>
+  <content>
+Commonwealth Bank says its failure to tell authorities about more than 53,000 large cash deposits was caused by a software update, which triggered an "error" in its reporting system that was not picked up for more than two years.
+The bank will on Monday provide a statement setting out further details about one part of the allegations last week made against it: that it failed to tell Austrac about more than 53,000 cash deposits across its ATM network of more than $10,000, as it is required to.
+
+Up Next
+
+Wall Street rallies on jobs report
+
+01:19
+
+More BusinessDay Videos
+
+Previous slide
+Next slide
+
+CBA accused of breaching money laundering act
+
+Austrac has launched civil proceedings in the federal court alleging that CBA failed to comply with the law on more than 50,000 occasions.
+
+The statement, provided to Fairfax Media, does not directly address other allegations made last week by the government's financial intelligence agency, including that it failed to tell authorities about deposits that were less than $10,000 but suspicious all that same, and that it did not adequately monitor high-risk customers, including when it was warned by the police about suspected criminal activity.
+In the statement, CBA says it took more than two years for the bank to detect an error that meant its intelligent deposit machines (IDMs) did not generate threshold transaction reports (TTRs) on transactions of more than $10,000.
+
+"When we first rolled out these machines in May 2012, they were providing all the correct TTR reporting," the statement from a spokeswoman says.
+"The issue began after an unrelated software update to the IDMs in late 2012. Following the software update, a coding error occurred which meant the IDMs did not create the TTRs needed. This error became apparent in 2015 and within a month of discovering it, we notified AUSTRAC, delivered the missing TTRs and fixed the code issue."
+
+The comments come as pressure mounts on the bank over the scandal, which has triggered renewed calls for a royal commission into the banking industry. CBA's statement said it was taking the allegations "very seriously," and it reiterated it would file a defence, adding that legal proceedings limited what it could say.
+CBA's shares dropped 3.9 per cent on Friday as investors fretted over the potential fines it may face as a result of the action, and prospect of long-term damage to its reputation.Photo: Louie Douvis
+"In an organisation as large as Commonwealth Bank, mistakes can be made and we recognise the seriousness and that our scale means these can have a big impact," the bank said.
+The federal Labor opposition has used the scandal to reiterate its position that a royal commission is needed into the banking sector.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Louie Douvis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TTR</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>TTRs</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BusinessDay Videos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>6</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

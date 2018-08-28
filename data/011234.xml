@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416695004901976</docid>
+  <date>02/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/business/markets-live/markets-live-rios-bumper-payout-falls-flat-20170802-gxo83p.html</url>
+  <title>Markets Live: Rio's bumper payout falls flat</title>
+  <content>
+The big hubbub on Wall St overnight was that the Dow Jones index climbed above the 22,000 mark for the first time, buoyed by Apple's healthy quarterly iPhone sales, while weakness in other tech stocks held back the Nasdaq and S&P 500.
+
+Apple led the night's gains, after the company reported strong iPad and Mac sales in its most recent quarter. The blue-chip index claimed its 32nd record of the year as it rose 52 points, or 0.2 per cent, to 22016.
+
+This stock-market cycle has been marked by a string of new milestones: The Dow shattered 20,000 in January following its 15,000-marker in 2013. It first topped 10,000 in 1999.
+
+The Dow has risen 11 per cent in 2017, even as Wall Street loses confidence that President Donald Trump and a Republican-controlled Congress will be able to cut taxes and increase infrastructure spending this year.
+
+"The Trump agenda getting done or not is not the difference between positive or negative GDP," said Brent Schutte, chief investment strategist at Northwestern Mutual Wealth Management Company in Milwaukee. "I continue to believe the Trump potential tax changes are the icing on the cake of an already improving economy."
+
+Low inflation and rising global growth have set a positive background for equities, while the current US reporting season has also buoyed investors.
+
+Two-thirds of S&P 500 companies have reported their second-quarter earnings so far and 72 per cent of them have beaten Wall Street's expectations, according to Thomson Reuters I/B/E/S. In a typical quarter, 64 per cent of companies beat expectations.
+In case you missed it, yesterday evening Rio Tinto announced a record interim dividend to shareholders after announcing strong underlying earnings of $US3.94 billion ($A4.95 billion) for the half-year.
+
+The cash returns to shareholders of $US3 billion include the dividend of $US1.10 per share which is fully franked and payable next month. Rio will also conduct a further $US1 billion share buyback from investors in its British listing, to be completed before the end of the year.
+
+Rio Tinto's results were released shortly after the Australian market closed on Wednesday, and offshore shareholders were not super impressed, with the London-listed stock dropping 2.8 per cent and the US-listed version slipping 2.3 per cent.
+
+"Whilst the underlying earnings were below our estimates, we believe this should be offset by the additional US$1bn shareholder returns (in the form of a buyback) and the further strengthening of the balance sheet (gross debt reduced by US$2.5bn)," wrote RBC Capital Markets analyst Paul Hissey.
+
+"We retain our outperform rating on Rio given the strength of the balance sheet, a clear strategy with regards for growth (Silvergrass, Amrun, Oyu Tolgoi) and proven potential for shareholder returns."
+
+Morgan Stanley analysts labelled the interim earnings "outstanding", and also noted that the "small miss" in underlying profits against expectations was offset by the generous cash splash. They maintain an "overweight" rating on the stock.
+
+Good morning and welcome to the Markets Live blog for Thursday.
+
+Your editors today are Jens Meyer and Patrick Commins.
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S. In</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Hissey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-listed</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US3.94</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northwestern Mutual Wealth Management Company</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Commins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Republican-controlled Congress</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US1.10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brent Schutte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amrun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Milwaukee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBC Capital Markets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silvergrass</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Oyu Tolgoi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.5</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

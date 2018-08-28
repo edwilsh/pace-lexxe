@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422248397721395</docid>
+  <date>03/08/2017</date>
+  <time>20:52</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/range-chaos-overturned-vehicle-cause-disruptions-a/3208619/</url>
+  <title>RANGE CHAOS: Crash to cause disruptions all day</title>
+  <content>
+An overturned wide-load vehicle is causing delays on the Toowoomba Range, with disruptions predicted to last most of the day.FACEBOOK DARREN WALSH
+BREAKING: A overturned wide-load vehicle is causing massive disruptions on the Toowoomba Range this morning.
+
+A heavy vehicle with a wide load overturned on the eastbound top section of the range about 3am.
+
+Toowoomba Police are on scene directing traffic, with one lane open.
+
+A police spokesman said there was the potential for it to cause disruptions to traffic all day.
+
+"We will probably have to block the up and down section of the range for recovery," he said.
+
+Diversions will be put in place while the recovery is underway, which will be later today.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Toowoomba Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toowoomba Range</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>FACEBOOK DARREN WALSH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

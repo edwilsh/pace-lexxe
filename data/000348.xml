@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398402738853781</docid>
+  <date>31/07/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/technologyone-kicks-off-50m-legal-fight-against-brisbane-city-council-20170727-gxjoaw</url>
+  <title>TechnologyOne kicks off $50m legal fight against Brisbane City Council over failed project</title>
+  <content>
+TechnologyOne founder and executive chairman Adrian Di Marco has accused top executives at Brisbane City Council of seeking to cover up the findings of a review into a troubled system rollout as both sides lined up $50 million cases for damages.
+The stoush between the ASX-listed tech company and Brisbane City Council came to a head on Friday afternoon, with the council terminating the contract for a program to consolidate 15 of its IT systems into one.
+In a statement from the council, it said the reason for terminating the contract was due to TechnologyOne's "persistent and ongoing contract breaches, significant and unacceptable delays in progressing the contract and a complete loss of faith in the company's ability to deliver a replacement system for Council's IT systems."
+However, Mr Di Marco accused Brisbane lord mayor Graham Quirk and others at the council of seeking to bury the findings of an independent committee which earlier investigated problems with the project.
+
+Chris Hyde
+
+The had first turned ugly when Mr Quirk held a press conference in January and said there had been a potential $60 million cost blowout and blamed delays in the project on TechnologyOne.
+
+Mr Di Marco claimed that Mr Quirk was not properly briefed on the findings of the report and has pushed, with no avail, for the report to be made public.
+Now that the contract has been terminated, legal action is under way on both sides, with TechnologyOne and Brisbane Council both seeking damages of more than $50 million.
+But Mr Di Marco told The Australian Financial Review he feared the case would go to arbitration and a settlement, with the council able to try and conceal what happened.
+"I can't comment on the contract, but the behaviour of the council is unprofessional and disingenuous and they've buried the truth," Mr Di Marco said.
+
+TechnologyOne is blaming the council for causing five-month long delays on the project, which involved upgrading 13 of the council's IT systems, by instructing TechnologyOne not to proceed with its work.
+TechnologyOne has said that the issues with the $122 million software integration were driven by poor business processes at the council and its "unreasonable and bureaucratic" conduct.
+'If we're at fault, we're happy to take it on the chin'
+
+In an ASX statement, Mr Di Marco said the lord mayor should never have taken the dispute public without following remedial processes, and had caused the two parties to move onto a collision course, rather than working together to get the project completed.
+
+"I personally find BCC's behaviour both disingenuous and unprofessional," Mr Di Marco said.
+"BCC has made it clear through both its actions and its statements that it did not want to complete this project, and was endeavouring to engineer a termination of the contract for breach. This charade has now come to an end, but unfortunately this now exposes the ratepayers of Brisbane to a $50-million-plus damages claim for wrongful termination by BCC."
+King & Wood Mallesons partner John Swinson has been advising TechnologyOne on its legal position.
+It is believed that the ugly battle between the company and the council has resulted in TechnologyOne staff being harassed on public transport when wearing their company T-shirts.
+
+Mr Di Marco said if the council published the independent report and it found that TechnologyOne was at fault then it would accept the consequences.
+"If we're at fault, we're happy to take it on the chin, but if they're at fault they should come clean," he said.
+"Every letter we've sent to them says we remain ready, willing, and able to complete the job and we think we have a compelling value proposition.
+"On the lower levels of the council they also want to just get on with the job, it's just the higher levels where the issues exist."
+
+Brisbane City Council's statement on Friday said the decision was about the effective use of ratepayers' money.
+"In the past six months, Council offered TechnologyOne the opportunity to reform the contract and met with their representatives on many occasions to assist the company to get the project back on track," Brisbane lord mayor Graham Quirk said.
+"Based on what we have seen of the TechnologyOne system, this is a product still very much in development. After initially promising the product would be operational by March 2017, TechnologyOne has requested several extensions for the go-live date with the most recent advice that it won't occur until January 2019.
+"This continual slippage is unacceptable and Council lacks confidence that even the most recent deadline will be met."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCC</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane City Council</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>TechnologyOne</name>
+    <count>14</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2017</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chris Hyde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wood Mallesons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Graham Quirk</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Council's IT</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>T-shirts</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Di Marco</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Di Marco</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Quirk</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>John Swinson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2019</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

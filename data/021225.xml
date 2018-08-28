@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441485556472165</docid>
+  <date>06/08/2017</date>
+  <time>23:31</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/07/afghan-president-condemns-alleged-village-massacre</url>
+  <title>Afghan president condemns alleged village massacre</title>
+  <content>
+Afghan president Ashraf Ghani condemned the reported massacre of dozens of civilians in a remote area of the wartorn country where the Taliban claimed a victory against military forces.
+
+3 HOURS AGO  UPDATED 2 MINS AGO
+
+"Criminal terrorists have once again killed civilians, women and children in Sayad district of Sar-e Pul province, adding to their crimes.
+
+"This barbaric act of them is deemed a direct violation of human rights and a war crime," Ghani said in a statement.
+
+The comments came after the governor of Sar-e Pul said that "as many as 30 to 40 innocent people... were brutally shot and killed" in the province's predominately Shiite village of Mirzawalang after insurgents captured it on Saturday.
+
+Mohammad Zaher Wahdat, the provincial governor, added that several mosques were set ablaze while an unknown number of villagers had also been taken hostage following a 48-hour battle between insurgents and Afghan security forces.
+
+He said 12 insurgents and seven Afghan troops had been killed in the fighting.
+
+The village is situated in an extremely remote part of the country, where both the Taliban and Islamic State group fighters have a presence, and AFP was unable to confirm the reports with independent sources.
+
+The Taliban said in a statement that it had captured Mirzawalang village but rejected reports of civilians casualties, calling it "hollow propaganda by the enemy".
+
+The incident comes after the Afghan government claimed last month that Taliban fighters had killed 35 people in an attack on a hospital in central Ghor province.
+
+Officials later backtracked though, underscoring the difficulty of verifying information from poor, mountainous areas of Afghanistan made inaccessible by fighting and with patchy communications.
+
+The Taliban is at the peak of its summer fighting season and has carried out a number of deadly attacks in recent days, including the killing of two US soldiers in a suicide bomb attack in Kandahar on Wednesday.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sayad</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mirzawalang</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Afghan</name>
+    <count>5</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 2 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Ashraf Ghani</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>5</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ghani</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ghor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shiite</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Mohammad Zaher Wahdat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>HOURS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sar-e-Pul</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

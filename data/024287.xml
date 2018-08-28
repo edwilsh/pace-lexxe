@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445771933903496</docid>
+  <date>07/08/2017</date>
+  <time>16:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/08/08/02/02/trial-offers-hope-for-leukaemia-patients</url>
+  <title>Trial offers hope for leukaemia patients</title>
+  <content>
+An Australian-first trial will give leukaemia and lymphoma sufferers access to a costly, potentially life-saving cancer treatment that works by infusing genetically modified immune cells into patients.
+Lead cancer researcher Dr Kenneth Micklethwaite at the Westmead Institute for Medical Research says this "exciting" new approach to cell gene therapy is aimed at patients no longer responding to chemotherapy.
+"For many patients, despite heavy chemotherapy and bone marrow transplants, their leukaemia and lymphoma cannot be eradicated, often resulting in death," said Dr Micklethwaite.
+The treatment works by harnessing the power of the immune system to fight the cancer.
+T-cells, a type of immune cell, are taken from a simple blood draw and are then genetically engineered to produce special receptors on their surface called chimeric antigen receptors (CARs).
+These CAR t-cells - which are designed to recognise and kill cancer cells - are then infused into the patient.
+It's a costly therapy but the good news is that the trial will deliver it to patients at a fraction of the cost, says Westmead Hospital head of cell therapies Professor David Gottlieb.
+"While initial trials conducted in the US have been highly encouraging, these trials are inaccessible to Australian patients, except those willing to travel overseas and pay up to $1 million," said Prof Gottlieb.
+"The long-term goal of our research is to make CAR t-cells affordable and widely accessible to Australian patients as quickly as we can," he said.
+Patients who may be interested in participating in the trial are encouraged to speak to their GP or specialist about their suitability.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Westmead Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dr Micklethwaite</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Medical Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Kenneth Micklethwaite</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Professor David Gottlieb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westmead Institute</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian-first</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Prof Gottlieb</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

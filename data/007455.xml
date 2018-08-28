@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411072892605304</docid>
+  <date>02/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/attempted-murder-charge-for-sword-attack/news-story/eaed449f6baaaaf078feb76369a51089</url>
+  <title>Attempted murder charge for sword attack</title>
+  <content>
+Australian Associated Press
+
+Share
+
+A Perth man accused of attacking a police officer with a samurai sword will have one of his charges upgraded to attempted murder.
+WA police allege Milos Radovic, 45, assaulted a senior constable, causing deep wounds to his head, when the officer attended a domestic violence incident in Rockingham on July 19.
+Radovic has been charged with a string of offences, including two counts of breaching a violence restraining order.
+But police say a charge of intent to maim by unlawful wounding would be upgraded to attempting to unlawfully kill when Radovic appears in Rockingham Magistrates Court on Wednesday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Milos Radovic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockingham Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockingham</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Radovic</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

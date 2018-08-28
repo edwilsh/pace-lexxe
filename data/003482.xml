@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404368448532148</docid>
+  <date>31/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/life/tech/2017/08/01/scientists-predict-global-warming-to-reach-tipping-point/</url>
+  <title>Global warming to reach 'tipping point": scientists predict</title>
+  <content>
+World temperatures are likely to rise by more than 2 degrees Celsius this century, surpassing a "tipping point" that global climate deals aim to avert, scientists say.
+A study published in the journal Nature Climate Change on Monday shows a 90 per cent chance that temperatures will increase this century by 2 to 4.9 degrees Celsius.
+Researchers at the University of Washington found only a 5 per cent chance that warming could be at or below 2 degrees Celsius - one of the targets set by the 2015 Paris climate deal on limiting emissions of greenhouse gases that warm the planet.
+Missing that target would have dramatic consequences on people's livelihoods - such as prolonged periods of drought and rising sea levels - said Adrian Raftery, the lead author of the study and a professor at the University of Washington.
+The study uses statistical projections based on total world population, GDP per capita and the amount of carbon emitted for each dollar of economic activity, known as carbon intensity.
+"Our analysis shows that the goal of 2 degrees is very much a best-case scenario," said Mr Raftery.
+"It is achievable, but only with major, sustained effort on all fronts over the next 80 years."
+According to the UN Environment Programme, world greenhouse gas emissions, mainly from burning fossil fuels, are now about 54 billion tonnes a year and should be cut to 42 billion by 2030 to get on track to stay below 2 degrees Celsius.
+- Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nature Climate Change</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>University of Washington</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Raftery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UN Environment Program</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Raftery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Celsius</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

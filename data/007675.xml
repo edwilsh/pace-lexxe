@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410170949457447</docid>
+  <date>01/08/2017</date>
+  <time>22:00</time>
+  <isTopNews>true</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/02/man-released-without-charge-following-sydney-terror-raids</url>
+  <title>Man released without charge following Sydney terror raids</title>
+  <content>
+One-of-four men arrested over an alleged terror plot to bring down a plane has been released without charge.
+
+8 MINS AGO  UPDATED JUST NOW
+
+Federal police have spent days rifling through several properties across Sydney following the arrest on Saturday afternoon of the men on suspicion of being behind the conspiracy.
+
+A 50-year-old man was released from police custody on Tuesday night without being charged with a criminal offence, a joint statement from the AFP and NSW Police said on Wednesday.
+
+The remaining three suspects will stay in detention under special powers which allow police to hold them for up to a week.
+
+"This investigation remains ongoing, and further information will be provided at an appropriate time," the statement said.
+
+The alleged plot involved an improvised device and the target was a plane, with one theory suggesting the would-be terrorists planned to use a meat grinder to conceal their home-made device.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UPDATED JUST NOW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

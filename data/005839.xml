@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406949723919953</docid>
+  <date>01/08/2017</date>
+  <time>09:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/transport/automobile/elon-musk-likened-to-a-common-car-dealer-as-teslas-model-3-can-reach-us59500-20170731-gxmnqi</url>
+  <title>Elon Musk is borrowing car dealer price 'tricks' to sell Tesla's Model 3, says Barclays</title>
+  <content>
+by
+Claire Ballentine
+
+ may tout its electric cars as innovative and unlike anything else on the market, but 's introduction of his cheapest model yet is drawing parallels with the way dealers have pushed traditional cars for decades.
+The car maker's tactics for marketing the Model 3 have been similar to how local car dealers advertise, Barclays analyst Brian Johnson wrote in a report Monday.
+Tesla generated more than 500,000 reservations for its new electric sedan, in part thanks to its $US35,000 ($43,700) base price tag. The company announced on Friday that the total cost for a fully-optioned Model 3 could reach $US59,500, which would be out of reach for many .
+"One of the oldest car dealer advertising 'tricks' is to advertise an irresistible price for a popular car - say a lease for under $US150 per month - in order to generate showroom traffic, only for the car shopper to later realise that the price is for a base model with little appeal," Johnson wrote.
+
+"The similarities to legacy car sales tactics might dim the enthusiasm of the faithful."
+
+'We will be paying close attention'
+
+Musk revealed at his  on Friday night that the basic Model 3 will have 220 miles of range, with a bigger-battery version selling for $US44,000 and capable of driving 310 miles between charges.
+Choosing the high-end model and adding upgrades, including bigger wheels, colours other than black, the autopilot driver assistance system and a tinted roof, can add almost $US25,000 to the Model 3's base price.
+Musk's encouragement for customers to upgrade to the Model S instead of waiting for a Model 3 is similar to car dealers using ads for cheap vehicles to lure in customers, then steering them toward higher-priced ones, Johnson said.
+
+"The brand value and market cap of Tesla revolves so much around being not a car company but some sort of futuristic force to save the planet," he wrote. "We will be paying close attention to social media and Tesla owner/reservation holder forums to see if there is any weakening of the faith among the true believers."
+Tesla fell as much as 2.6 per cent and traded down 2.4 per cent to $US326.96 as of 12.06pm in New York trading. Optimism about the Model 3 has contributed to the shares climbing 53 per cent this year, vaulting the company's market capitalisation past that of General Motors and Ford.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US150</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brian Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US35,000 ($43,700</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US59,500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US326.96</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Model 3</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Model S</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Johnson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Motors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barclays</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US25,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Musk</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US44,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla Model 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Claire Ballentine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

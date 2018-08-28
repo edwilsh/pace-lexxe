@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442340254974808</docid>
+  <date>07/08/2017</date>
+  <time>02:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/wa-offers-state-funeral-to-cuthbert-family/news-story/2a529eda9f827edc16017c4f748bd100</url>
+  <title>WA offers state funeral to Cuthbert family</title>
+  <content>
+WA Premier Mark McGowan has offered a state funeral for Olympic great Betty Cuthbert, who who died overnight aged 79 following a long battle with multiple sclerosis.
+Cuthbert, who won four athletics gold medals including three at the 1956 Melbourne Olympics, lived in Mandurah near Perth for more than 20 years.
+"She was a wonderful Australian, a golden girl from a golden era in Australian sport," Mr McGowan told reporters.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cuthbert</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Olympics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Premier Mark McGowan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Betty Cuthbert</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

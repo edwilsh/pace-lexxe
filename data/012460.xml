@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418155293805829</docid>
+  <date>03/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4831579/serious-systemic-cba-faces-money-laundering-claims/?cs=4219</url>
+  <title>'Serious, systemic': CBA faces money laundering claims</title>
+  <content>
+Commonwealth Bank failed to inform regulators about suspicious cash deposits in its ATM network, in which money laundering syndicates deposited tens of millions of dollars through the bank, Austrac has alleged.
+The government's financial intelligence unit, Austrac, on Thursday said it was taking action against CBA, alleging "serious and systemic non-compliance" with the Anti-Money Laundering and Counter-Terrorism Financing Act.
+
+The Austrac action alleges more than 53,700 contraventions of the act. Photo: Jessica Shapiro
+
+The action alleges more than 53,700 contraventions of the Act, mainly through intelligent deposit machines, a type of ATM that allows anonymous cash deposits. 
+Austrac alleges millions of dollars was put into the machines by money laundering syndicates, with some of the cash then sent offshore, and some of the accounts were connected with drug smuggling.
+It says CBA failed to report more than 50,000 transactions of more than $10,000 to authorities on time, and did not carry out an anti-money-laundering risk assessment before rolling out the ATMs in 2012.
+CBA acknowledged that the civil proceedings had been brought and said it would have more to say on the specific claims "in due course".
+A statement of claim filed in the Federal Court referred to at least four different money laundering syndicates that are alleged to have used CBA ATMs, but said the bank failed to report suspicious activity as required.
+"It is essential to the integrity of the Australian financial system that a major bank such as CommBank has compliant and appropriate risk-based systems and controls in place to deter money laundering and terrorism financing," the statement said.
+"The effect of CommBank's conduct in this matter has exposed the Australian community to serious and ongoing financial crime."
+Austrac's acting head, Peter Clark, said the court action followed an investigation into CBA's compliance, particularly relating to its use of intelligent deposit machines.
+"By failing to have sound AML/CTF [anti-money-laundering/counter-terrorism financing] systems and controls in place, businesses are at risk of being misused for criminal purposes," Mr Clark said.
+"Austrac's goal is to have a financial sector that is vigilant and capable of responding, including through innovation, to threats of criminal exploitation."
+The action against CBA comes after gaming giant  in February.
+
+The Sydney Morning Herald
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Morning Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Clark</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA ATMs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Shapiro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CommBank</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

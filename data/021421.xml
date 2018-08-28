@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441962297848148</docid>
+  <date>07/08/2017</date>
+  <time>01:22</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/nsw-man-charged-over-acid-damage-to-cars/news-story/d6c889c3238f8fcfe67e938a382b47b6</url>
+  <title>NSW man charged over 'acid' damage to cars</title>
+  <content>
+A Sydney man has been charged with using an "acid-like" substance to damage more than a dozen cars at Macquarie University in the city's northwest.
+The cars were targeted at the university's car parks and a nearby shopping centre between February and June and users on a Chinese-language forum speculated the attacks may have been racially motivated.
+The 53-year-old man was charged with 16 counts of malicious damage on Friday and bailed to appear in Burwood Local Court on August 21.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Burwood Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie University</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese-language</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411798742089180</docid>
+  <date>02/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/14/09/slain-vic-man-s-pal-denies-drug-knowledge</url>
+  <title>Slain Vic man's pal denies drug knowledge</title>
+  <content>
+The best friend of murdered cannabis dealer James Russouw has told a Melbourne court he underwent a lie detector test following his mate's death in an attempt to prove he didn't know where drugs were coming from.
+On Wednesday in the Supreme Court of Victoria, Simon Cupido denied knowing who Mr Russouw planned to buy a large quantity of cannabis from on the night of his killing in 2008, and also denied the pair had a "business-friendship" relationship.
+Christopher Lavery, 31, is standing trial for the stabbing murder after which the victims's body was torched inside his Jeep.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Russouw</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Russouw</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Jeep</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simon Cupido</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Christopher Lavery, 31</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court of Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

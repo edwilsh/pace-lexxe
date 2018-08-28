@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416484551500765</docid>
+  <date>02/08/2017</date>
+  <time>22:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/powerball-winning-numbers-august-2-2017-8</url>
+  <title>The Powerball jackpot just hit $261 million  --  here's the best time to buy a ticket, according to maths</title>
+  <content>
+The Powerball lottery jackpot for August 2 has hit $US261 million and the winner will be announced just before 11 p.m. EST.
+
+Former Business Insider writer Walter Hickey did the maths to figure out the best time to buy a ticket.
+
+Factors to consider include odds of winning and odds of splitting the pot.
+
+The Powerball lottery jackpot has hit a , and the question on everyone's mind is "At what point should I actually start caring about the Powerball Lottery"?
+
+Answering this question is not so simple, because in addition to calculating the odds of winning a potential jackpot, you also have to figure out the odds that you will have to split the potential jackpot. And the odds of a split change all the time, because the bigger the jackpot, the more people buy tickets. So we've decided to really drill down into the maths to combine all the factors, including jackpot size, and the odds you will have to split the pot if you do win.
+
+Powerball is interesting in the sense that there are a number of stagnant cash prizes that you can win, as well as an ever-increasing jackpot.
+
+The expected value of spending $US2 on a Powerball ticket is actually -$US1.58 when you ignore the jackpot. That's right, the expected value of playing when you ignore the jackpot is negative.
+
+And while the probability that you win the jackpot is outstandingly small - 1 in 175,223,516 to be precise - the jackpots can grow outstandingly big, which makes it so that at some point, you can actually get a positive expected value.
+
+For instance,  the jackpot had reached a whopping $US600 million. If you look at it in the most rudimentary form, your expected value for playing Powerball was not only positive but also pretty attractive. Because of the ludicrously high jackpot, people could expect to gain about a $US1.78 after playing.
+
+One complicating factor, however, is the fact that when you factor in the probabilities of split jackpots, you will decrease that expected value.
+
+The probability that the winner will have to split the jackpot is also really significant.
+
+So, the expected value for the Powerball lottery is actually a function of the number of players.
+
+And clearly, the higher the Powerball Jackpot, the more people who will participate.
+
+So is there a way we can analyse the Powerball lottery to try to figure out how many people will play the lottery at a given Jackpot? Does that relationship actually exist?
+
+As it turns out, it absolutely does. Let's check it out.
+
+We looked at over one thousand Powerball lotteries - 1117 to be precise - that have taken place since 2003 in order to get a sense of how many people play the game.
+
+of how much each Powerball lottery has taken in over the past two decades. It's remarkable. For pre-January 18, 2012 Powerball lotteries, the amount of money collected is the amount of tickets sold, . After January 18, 2012, we merely have to divide the take by two to ascertain the number of tickets bought.
+
+LottoReport also lists the jackpot, in millions, for each lottery.
+
+Combining this dataset with information from  - and how many winners there were - we're able to make this nice plot of lottery participation as a function of Jackpot value. Red dots are lotteries that had a winner:
+
+Cool, right?
+
+So we can notice a very, very clear upwards trend. The higher the jackpot, the higher the participation.
+
+Please note that following Powerball's shift to a $US2 lottery, the minimum jackpot prize - what the jackpot resets to after paying out a jackpot - has increased from $US10 million to $US40 million. As a result, any information from below $US40,000,000 isn't super relevant here. The advantage, though, it it helps us ascertain people's behaviour at the lower bound, which is crucial for a good regression.
+
+What we want to find, looking at this data set, is a formula that will help us predict the estimated number of lottery players given a certain jackpot value. That way, we can calculate the expected value at every single lottery jackpot amount in order to figure out when the expected value says it's worth it to play.
+
+In order to find that formula, we're going to run a linear regression.
+
+A linear regression calculates the line of best fit given all the values.
+
+However, since it appears that the relationship between jackpot size and powerball players may be polynomial - growth accelerates as the jackpot grows - we'll run a second regression that calculates a curve of best fit instead of a line of best fit.
+
+Here's the result:
+
+So this is what this chart is telling us.
+
+When we ran the linear regression, we found that the line that best fit our sample was the straight line with the formula:
+
+Tickets Sold = 217,629*(Jackpot in Millions) + 5,912,850
+
+So what does this mean? For every additional million you add, an additional 217,629 tickets will be bought. The basic number of tickets bought regardless of the jackpot is 5,912,850. The R2 value tells us that this regression line accounts for about 70% of the correlation between the advertised jackpot and number of tickets bought (simplified).
+
+Next let's look at the polynomial one.
+
+Tickets Sold = 670*(Jackpot in Millions)2 + 19,989*(Jackpot in Millions)+ 1,4063,282
+
+This one assumes that there is an element of growth at an increasing rate, and accounts for roughly 87% of the correlation. You'll notice that it seems to more accurately convey the participation of large-jackpot lotteries.
+
+So moving forward, we'll look to these two models - the linear and polynomial regressions - as estimates of the rate of participation given a new lottery jackpot amount.
+
+As a result, we can plug in the value of any hypothetical jackpot we want to estimate the number of tickets bought given historical rates of participation in Powerball.
+
+One last thing. This chart that shows the probability that there are multiple winners at a given participation rate. We'll use the participation rates from our regressions to find these probabilities at each jackpot value.
+
+And the thing is that jackpot splitting will severely hit your bottom line.
+
+So let's look at what we know:
+
+We know the probability that the jackpot will be halved, or split three ways, or any other split given the number of tickets bought.
+
+We know the estimated number of tickets bought for a given Powerball jackpot value.
+
+We know the value the jackpot will have in each scenario (Halving, thirding, quartering, etc)
+
+We know the probability of winning the jackpot.
+
+We know the Expected Value of a ticket, excluding the jackpot.
+
+Given the first two, we can figure out the probability a jackpot is split - and how it will be split - for every advertised jackpot value.
+
+By factoring in the third, we can estimate the values of those splits.
+
+Combining in the fourth, we can calculate the expected value of each jackpot, disregarding the rest of the expected value.
+
+And by adding in the fifth, we can get the full expected value for a ticket bought at any advertised jackpot price!
+
+Finally, there's one more step.  prefer to take all the cash up-front, rather than in an annual 30-payment annuity. As a tradeoff for getting the money up front, the winner will have to accept the value of the winnings at a discount.
+
+After some analysis of the estimated winnings,  than the cash-up-front value. We can use this to calculate the estimated cash payout for each advertised lottery.
+
+The next two charts show the estimated value of both the Annuity style-winnings as well as the cash-up front winnings for both the linear and polynomial models of lottery participation.
+
+Here's what it looks like for the linear model of lottery participation:
+
+Here's what it looks like for polynomial regression model of lottery participation.
+
+So what did we learn?
+
+The expected value for the cash-up front Powerball winnings is always negative. It will never make sense to take the money up front, whether you believe the linear model or the polynomial model.
+
+The expected value for the annuity, however, is break-even when the jackpot exceeds $US345 million in the linear participation model and $US380 million in the polynomial model. Since the polynomial model seems more accurate at higher jackpots, go with that one.
+
+Taxes will probably mean that it is never profitable or sensible to play the lottery. So if you do play, try to minimise them.
+
+-Walter Hickey published the original version of this article.
+
+NOW WATCH: Ideas videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sold = 217,629</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 600</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walter Hickey</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Millions) + 5,912,850</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US40,000,000</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Powerball Jackpot</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January 18, 2012 Powerball</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Powerball</name>
+    <count>14</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Millions)+ 1,4063,282</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 18, 2012</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.78</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US1.58</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LottoReport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sold = 670</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Does</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Millions)2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US380</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$345</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Expected Value</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US261</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Powerball Lottery</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$40</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

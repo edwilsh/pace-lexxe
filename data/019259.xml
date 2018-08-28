@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435893508999535</docid>
+  <date>06/08/2017</date>
+  <time>01:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/crane-falls-onto-unit-block-at-wolli-creek-sydney/8779014</url>
+  <title>Crane collapses onto apartment block at Wolli Creek injuring three people</title>
+  <content>
+Two unit blocks have been evacuated after a crane collapsed onto one of them at Wolli Creek in Sydney's south on Sunday morning.
+Just after 9:30am emergency services were called to Brodie Spark Drive following reports a crane had fallen from one building and onto a second building.
+Police said paramedics treated three people at the scene for minor injuries.
+They said no-one was inside the crane when it collapsed.
+SafeWork New South Wales has been notified.
+No trains are running between Central and Turrella on the T2 Airport line due to the collapse.
+Trains will continue to operate via Sydenham and buses are being organised to operate between Sydenham and Central.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SafeWork New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brodie Spark Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wolli Creek</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>T2 Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydenham</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turrella</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

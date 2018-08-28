@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442335960007432</docid>
+  <date>07/08/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/google-employee-rebuked-for-diversity-memo/news-story/cf440eb27906b4d3838ef6beab8f4d72</url>
+  <title>Google employee rebuked for diversity memo</title>
+  <content>
+Google executives have rushed to denounce an engineer's memo that ascribed gender inequality in the technology industry to biological differences, a view that sparked outrage at the internet giant and inflamed tensions over sexual harassment and discrimination in Silicon Valley.
+The unnamed engineer asserted in the 3,000-word document that circulated inside the company last week that "Google's left bias has created a politically correct monoculture" which prevented honest discussion of the issue.
+"Distribution of preferences and abilities of men and women differ in part due to biological causes and that these differences may explain why we don't see equal representation of women in tech and leadership," he wrote.
+The memo stoked the heated debate over treatment of women in the male-dominated Silicon Valley that has boiled for months following sexual harassment scandals at Uber Technologies Inc and several venture capital firms.
+Google's recently hired vice president of diversity, integrity and governance, Danielle Brown, sent a memo in response to the furor, saying the engineer's essay "advanced incorrect assumptions about gender."
+"Part of building an open, inclusive environment means fostering a culture in which those with alternative views, including different political views, feel safe sharing their opinions," Brown wrote.
+"But that discourse needs to work alongside the principles of equal employment found in our Code of Conduct, policies, and anti-discrimination laws," she added.
+Google engineering vice president Aristotle Balogh also wrote an internal post criticising the employee's memo, saying "stereotyping and harmful assumptions" could not be allowed to play any part in the company's culture.
+A Google spokesperson told Reuters that the statements from Brown and Balogh were official responses from Google.
+The controversy erupted as the Department of Justice continues to press an investigation of alleged gender-based pay discrimination at Google, a unit of Alphabet Inc.. The company has denied the charges.
+The episode also sparked debate on the proper limits of free speech in corporate environments.
+Entrepreneur Elissa Shevinsky wrote on blogging website Medium that speech "questioning the technical qualifications of people based on race or gender" could fall under Title VII of the Civil Rights Act, which prohibits employment discrimination based on race, color, religion, sex and national origin.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Title VII of the Civil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Alphabet Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elissa Shevinsky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aristotle Balogh</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rights Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Danielle Brown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Uber Technologies Inc</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Balogh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>8</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>Brown</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Code of Conduct</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

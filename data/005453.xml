@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406597536594824</docid>
+  <date>01/08/2017</date>
+  <time>08:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/south-east/abandoned-house-on-heatherton-street-dandenong-venue-for-100strong-party/news-story/d062c0893d590f0bb157f7318f6d0c0d</url>
+  <title>House party erupts into street fights</title>
+  <content>
+A huge party at an abandoned Dandenong house spiralled out of control, erupting into street fights and armed robbery, police said.
+Eight police units were required to clear more than 100 youths from Heatherton Rd during the wild event on July 28.
+Dandenong Police detective Senior Constable Liam Comrie said police received numerous reports of fighting in the street and responded at 11pm to find the large crowd of youths.
+Sen-Constable Comrie said a 17-year-old Cranbourne boy approached officers on the night and said he had been robbed at knifepoint with his wallet and phone taken.
+An 18-year-old Springvale man has been arrested and charged with armed robbery but police believe there could have been more offenders and more victims.
+Sen-Constable Comrie called for any victims or witnesses to come forward and contact Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Heatherton Rd</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dandenong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senior Constable Liam Comrie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cranbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Springvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sen-Constable Comrie</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dandenong Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

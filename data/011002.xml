@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417171746280101</docid>
+  <date>03/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/work/2017/08/03/gender-pay-gap-narrowing/</url>
+  <title>Gender gap closing</title>
+  <content>
+Women may be starting to bridge the gender gap that keeps their earnings well below men, according to the 2017 Household, Income and Labour Dynamics in Australia (HILDA) , published on Tuesday.
+The benchmark report, produced by The Melbourne Institute, showed that men's incomes fell 1 per cent between 2014 and 2015, the most recent year surveyed. Women's pay, meanwhile, rose 3.6 per cent.
+Men's full-time earnings were down from $1691 to $1673, while women saw average incomes up from $1284 to $1330.
+
+ There are two questions arising from that data: is it credible and is it sustainable?
+Report author Professor Roger Wilkins, described the narrowing of the gap as shift as "very tentative. If this continues that might suggest we're making some inroads into the incredibly persistent gender pay gap."
+There are other signs that point to the same phenomenon. The Commonwealth's Workplace Gender Equity Agency  that in 2016 the gap between male and female full-time workers had shrunk to 17.7 per cent from 19 per cent in 2015.
+Research from survey group Roy Morgan shows that in June 2013 the median income of  women was 57 per cent of men's while in June 2017 it had risen to 62 per cent. Those figures include all women, not just those working full-time.
+Nicki Hutley, chief economist with research group Urbis, said there were a number of structural reasons why the gap might be narrowing.
+"There is a trend of more women moving into higher paid job types," she said.
+"At the same time men have been hit by the decline in high paid manufacturing jobs and so they are more likely to move into lower paid paid areas where women traditionally work."
+The downturn in men's incomes in 2015 "could be attributable to the downturn in the mining sector which predominately employs men," Ms Hutley said.
+The report also showed something that every retailer in the country probably knows instinctively. Aussie households are actually bringing in less cash in real terms than they were back in 2009 when Kevin Rudd was in The Lodge.
+
+Back in 2009, average household median income was $77,411 in 2015 dollars. That tanked down to $73,531 two years later, then recovered to $77,157 in 2012. But since then it has slipped again and sat at $76,225 in 2015.
+Well-known independent economist, Stephen Koukoulas, said a number of factors were driving that. "The end of the mining boom meant less highly paid mining jobs."
+"We've now settled into a low inflation environment with very low wage growth and less hours worked per week. Working hours have fallen as more people are working part-time."
+"Some of that could be a result of choice. But it is also because the economy is soft and employers are only prepared to hire people part-time," Mr Koukoulas said.
+Over the full 2001 to 2015 survey period, HILDA found that women had slightly bettered their position against men. Weekly earnings of men employed full-time grew by 21 per cent compared to 22 per cent for females.
+While women have been doing a bit better relative to men over the full 15 years of the HILDA survey, the Gini coefficient, a common measure of overall inequality, has remained at approximately 0.3 over the period. That means that the level of inequality has not changed in that time.
+However, with living costs rising and overall incomes lower than 2009, ACTU President Ged Kearney said: "No one is doing well in this data".
+"The gender wage gap remains at 16 per cent in Australia. We need to close that gap but not at the expense of men's wages".
+</content>
+  <sindexList>
+  <sindex>
+    <name>HILDA</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labour Dynamics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACTU President Ged Kearney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth's Workplace Gender Equity Agency</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Koukoulas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Urbis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 2013</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Koukoulas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nicki Hutley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gini</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roy Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Roger Wilkins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Hutley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424778133500484</docid>
+  <date>04/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/dad-convicted-of-taking-his-sons-adhd-drugs/3208930/</url>
+  <title>Dad convicted of taking his son's ADHD drugs</title>
+  <content>
+A DALBY man pleaded guilty to a string of drug-related offences in the Dalby Magistrates Court on Tuesday, including taking his own son's ADHD medication.
+
+Colin Malcolm Kirstenfeldt pleaded guilty to five charges including possessing dangerous drugs, possessing utensils, and failing to properly dispose of a needle or syringe.
+
+The charges stemmed from a search warrant that was executed by Dalby Police at the man's residence on July 5.
+
+During the search the police found 2.2 grams of cannabis, water pipes, a grinder, plastic bowl, scissors and a bong.
+
+Police also found a syringe that was used to inject methamphetamine.
+
+Arguably the most worrying find during the search warrant was the drug Adderall, used to treat ADHD.
+
+Kirstenfeldt admitted to taking the drug because he wanted to see how it affected his son, who suffered from the condition.
+
+Kirstenfeldt was convicted and fined a total of $1250 for all charges.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dalby</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adderall</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dalby Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kirstenfeldt</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ADHD</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colin Malcolm Kirstenfeldt</name>
+    <count>1</count>
+    <score>-14</score>
+  </sindex>
+  <sindex>
+    <name>Dalby Police</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

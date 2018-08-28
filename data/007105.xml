@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410647690836485</docid>
+  <date>01/08/2017</date>
+  <time>23:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/advancing-fire-suppression-systems-mining/</url>
+  <title>Advancing fire suppression systems in mining - Australian Mining</title>
+  <content>
+Latest News
+
+Throughout the mining industry, it is a widely known fact that with high risks come high rewards.
+Before fire suppression systems were introduced to and implemented in the mining industry in the 1960s, there was a significant amount of crippling loss of equipment, production, and life due to fire outbreaks in mines.
+For example, the fire that happened in North Mount Lyell in 1912, dubbed the "1912 North Mount Lyell Disaster", was a tragedy of epic proportion that took the lives of 43 good men.
+The challenges posed by these evident high risks inevitably created negative public relations with local communities of mining areas and resulted in higher premiums on insurances. The mining industry suffered heavy scrutiny from all angles due to the lack of safety equipment and technology.
+Fast forward to the present day, the advancements in fire suppression systems have changed the mining game to a safer profession.
+With the introduction of dry chemical fire suppression systems that discharge monoammonium phosphate (a multipurpose dry chemical agent) that suppresses flames quickly, prevention of costly repairs and replacement became a reality.
+In turn, insurance costs were lowered, downtime was reduced, and the safety and lives of miners were improved. Dry chemical fire suppression systems are mainly used in environmental conditions which are deemed severe and are designed to quickly eradicate the fire by flooding areas with the chemical agent.
+Fire suppression systems involving CO2 cartridges assist with low temperatures ranging from 0°C to 54°C while nitrogen-based supplies operate in temperatures ranging from -54°C to 99°C.
+Where space is not a luxury in the mines, the compact design of most fire suppression systems built for mining comes as a benefit. With simple five gallon tanks containing liquid agents that can be applied simultaneously with the dry chemical system, a fire breakout can be contained with greater control.
+Liquid agents are used to blanket the fuel for the fire and aid in cutting off any supply of oxygen while the water within the liquid agent acts as a cooling mechanism to help prevent any reflash.
+In order to efficiently operate a fire suppression system, proper detection is needed. Electric detection systems are used together with dry chemical fire suppression systems and twin-agent systems involving both dry chemical and liquid agents.
+The technology for electrical detection systems has excelled to allow for shock and vibration resistant control modules with thermal detection of linear wire and spots. These electrical detection systems facilitate the use of any pneumatically-actuated fire suppression system.
+A fire suppression systems specialist should be consulted before any implementation of any fire suppression systems in a mine due to varying circumstances according to the atmosphere and condition of the mine.
+It is crucial to implement efficient and proven fire suppression systems in mines to avoid any disasters from happening (both in relation to production and safety).
+Furthermore, it takes innovation and extensive experience to develop efficient fire suppression systems and the need for constant improvement of safety equipment and technology is necessary to facilitate a stronger mining industry and community.
+</content>
+  <sindexList>
+  <sindex>
+    <name>CO2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Furthermore</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>North Mount Lyell</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>North Mount Lyell Disaster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

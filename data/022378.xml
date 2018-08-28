@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443289442760908</docid>
+  <date>07/08/2017</date>
+  <time>06:31</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/man-charged-after-fatal-melbourne-crash/news-story/9b503e96508ba6032edcd5ce333c577c</url>
+  <title>Man charged after fatal Melbourne crash</title>
+  <content>
+Caroline SchelleAustralian Associated Press
+
+Share
+
+A man has been charged after an 87-year-old woman was killed in a car crash in Melbourne's north.
+The 43-year-old man was charged on Monday after the elderly woman, who was a passenger in a car, died after a crash with a ute at Reservoir about 6.30pm on Friday.
+The man has been charged with dangerous driving causing death and injury and other driving offences and he is due to face court on August 11.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>August 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caroline SchelleAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

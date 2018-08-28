@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442387499616004</docid>
+  <date>07/08/2017</date>
+  <time>03:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/12/53/manus-death-sparks-concerns-for-refugees</url>
+  <title>Manus death sparks concerns for refugees</title>
+  <content>
+The death of a refugee on Manus Island has sparked serious concerns others will be injured or killed if Australian authorities do not intervene.
+The man reportedly took his own life on Monday morning before he was due to move from detention into the Papua New Guinean community, with advocacy group Doctors for Refugees describing his death as a preventable tragedy.
+"More deaths are likely unless the Australian government acts immediately to bring these people, on both Manus Island and Nauru, to safety in Australia," Dr David Berger said on Monday.
+Readers seeking support and information about suicide prevention can contact Lifeline on 13 11 14.
+Suicide Call Back Service 1300 659 467.
+MensLine Australia 1300 78 99 78.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Manus Island</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Manus</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Dr David Berger</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Call Back Service 1300 659 467</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nauru</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MensLine Australia 1300 78 99 78</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

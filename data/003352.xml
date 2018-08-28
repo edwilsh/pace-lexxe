@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404067800816428</docid>
+  <date>31/07/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/entertainment/tv/2017/08/01/hackers-steal-game-of-thrones-script/</url>
+  <title>Hackers claim to have stolen unaired Game of Thrones script</title>
+  <content>
+US cable channel HBO says hackers have stolen upcoming programming, as Entertainment Weekly reports the theft included a script for an unaired episode of hit show Game of Thrones.
+HBO, a unit of Time-Warner Inc, declined to comment Monday on the specific programming stolen in the hack.
+Reuters says it received an e-mail on Sunday from a person claiming to have stolen HBO data, including Game of Thrones.
+"As most of you have probably heard by now, there has been a cyber incident directed at the company which has resulted in some stolen proprietary information, including some of our programming," HBO Chairman Richard Plepler wrote in a message to employees, which the company shared with reporters.
+The company declined to comment on reports that yet-to-be-aired episodes and scripts were among the data hacked, citing an "ongoing investigation" by unspecified law enforcement officials.
+Entertainment Weekly reported that hackers stole 1.5 terabytes of data and had already posted online un-broadcast episodes of Ballers and Room 104, along with "a script or treatment" for next week's episode of Game of Thrones.
+The show is now in its seventh season and due to wrap up next year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Room 104</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Entertainment Weekly</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO Chairman Richard Plepler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Time Warner Inc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

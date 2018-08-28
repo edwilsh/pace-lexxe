@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410965518421113</docid>
+  <date>02/08/2017</date>
+  <time>01:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/facebook-shells-out-500000-for-project-to-fight-election-hacking/</url>
+  <title>Facebook Shells Out $500,000 For Project To Fight Election Hacking</title>
+  <content>
+Facebook is sponsoring the efforts of former Hillary Clinton and Mitt Romney campaign managers to combat hacking and disinformation campaigns designed to interfere with elections.
+Photo: Getty
+
+Facebook's chief security officer Alex Stamos announced the company's $US500,000 investment in the effort, called , today during a  at the security conference Black Hat. The project was launched last month by a Harvard University group and Stamos is a member of the group's advisory committee.
+
+"Our goal is to build an information sharing organisation that includes political parties, campaigns, state and local election officials, and tech companies," Stamos told Gizmodo.
+
+The information sharing unit will be modelled on similar efforts within the tech industry to share threat intelligence. Facebook and other major tech companies like Microsoft and Twitter use these kinds of partnerships to share information on , , and child exploitation. "If one company detects an attack they can immunize others very quickly," Stamos said.
+
+But Defending Digital Democracy plans to incorporate data not just from participating tech companies - executives from Google and the cybersecurity firm CrowdStrike are also on the advisory board - but from election officials as well.
+
+Getting election officials on board with the project might present a challenge. The Department of Homeland Security has struggled to convince state election officials to accept cybersecurity assistance from the federal government. Jeh Johnson, the Homeland Security Secretary under Obama,  earlier this year that his decision to designate election systems as critical infrastructure was met with a "neutral to negative" reaction from state officials. He also noted that the Democratic National Committee was resistant when DHS offered assistance with the hacks that plagued the Clinton campaign.
+
+Stamos hopes that election officials who are wary of collaborating with the federal government will be more receptive to working with an independent group tied to academia and tech.
+
+"There is some resistance to anything that is imposed on state and local officials by the federal government. We are giving them the opportunity to work together," Stamos explained. "We've had some excellent discussion with state and local election officials." Facebook plans to host state and local election officials at its Menlo Park headquarters later this year to discuss the information sharing organisation, and launch the organisation in early 2018.
+
+Facebook's deep involvement with Defending Digital Democracy may seem out of character for a social media company. But Facebook was an active playground for foreign hackers during the 2016 election cycle, according to  the company published in April. Hackers launched a coordinated disinformation campaign on Facebook, publishing hacked information and fake news and then falsely amplifying it. That experience gave Facebook first-hand insight into how political hacking campaigns are run - experience it can share with election officials.
+
+Stamos said that the security of Defending Digital Democracy's information sharing organisation would be a top priority. "We're going to be eating our own dogfood," he said, referencing an .
+
+The hacking campaigns that occurred during last year's election process startled many in the cybersecurity industry, and fighting back against these campaigns is a recurring theme during this week's industry conferences, Black Hat and DEF CON.
+
+"Cyber deterrence starts with strong cyber defence - and this project brings together key partners in politics, national security, and technology to generate innovative ideas to safeguard our key democratic institutions," Eric Rosenbach, the former assistant secretary of the Defence Department and the head of Defending Digital Democracy, said in a  announcing the project.
+
+Facebook's founding sponsorship in the Defending Digital Democracy project is part of the company's larger effort to fund and improve information security across the internet. But putting money towards the cause isn't enough, Stamos said - security experts also need to begin changing their hard-charging and often combative culture.
+
+"While the security community has been very successful in finding and pointing out new areas of vulnerability, we have been less successful in solving these problems. We have cultural issues that hold us back from our potential - a lack of humility and empathy," Stamos said. "The way that we discussed important political issues that involve security, that lack of humility and empathy is making us way less effective."
+
+As an example, Stamos cited last year's battle between Apple and the Federal Bureau of Investigation over disabling encryption on an iPhone used by one of the San Bernardino shooters. Many people in the security community lambasted the government as stupid, uneducated, and evil, Stamos said, and the combative approach didn't do Apple any favours as it fought the government's order to unlock the iPhone.
+
+"I believe that people deserve to have secure computing experiences and private conversations free of mass surveillance. It's important to do so understanding the place others are coming form and the problems they're dealing with. They are balancing their equities in a different way," Stamos explained.
+
+To support that cultural shift, Facebook also announced investments in research and education. It will put $US1 million towards the , an award that funds research aimed at making the internet more secure. (Since 2014, Facebook has invested $US250,000 into the prize.) Facebook is also partnering with CodePath to offer cybersecurity courses at six colleges that have diverse student bodies but don't currently offer cybersecurity programs. Graduates from the programs are offered paid internships at Facebook.
+
+"I'd like to see our community focus on defence and diversity," Stamos said.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eric Rosenbach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook Shells Out $500,000 For Project To Fight Election Hacking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defense Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeh Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Bureau of Investigation</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Homeland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>13</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>CodePath</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Homeland Security Secretary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Obama</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvard University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitt Romney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clinton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CrowdStrike</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democratic National Committee</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US$500,000</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>San Bernardino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex Stamos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DHS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Menlo Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US250,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stamos</name>
+    <count>12</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Defending Digital Democracy</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Getty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

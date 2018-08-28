@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432290031405436</docid>
+  <date>05/08/2017</date>
+  <time>11:50</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/national/us-marine-aircraft-crashes-off-east-coast-of-australia/news-story/5f000d140d54f72c4b8ecc47312e3215</url>
+  <title>US Marine aircraft crashes off Australia</title>
+  <content>
+A MASSIVE search is underway after a Marine Corps aircraft crashed off the coast of Australia.
+Military officials said in a statement an MV-22 crashed off the east coast of Australia. It's unclear how many service members were on board.
+Officials said small boats and aircrafts from the 31st Marine Expeditionary Unite and Bonhomme Richard Expeditionary Strike Group are conducting the search and rescue operations.
+The crash comes just weeks after a Marine Corps cargo plane spiralled out of the sky and into the Mississippi Delta, killing 15 Marines and a Navy Corpsman.
+About 70 per cent of the Marine Corps fighter jets can't fly due to a shortage of spare parts, and reduced flights hours after years of budget cuts, officials say.
+Additional information about Saturday's crash was not readily available.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marine Corps</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Bonhomme Richard Expeditionary Strike Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Expeditionary Unite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Marines</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mississippi Delta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Navy Corpsman</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Marine</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

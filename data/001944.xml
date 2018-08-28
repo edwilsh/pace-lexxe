@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400163675469329</docid>
+  <date>31/07/2017</date>
+  <time>07:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-07-31/man-escapes-custody-in-canberra-jonathon-hogan/8760850</url>
+  <title>Police announce search for ACT prisoner two days after his escape from custody</title>
+  <content>
+ACT police have warned the public not to approach a man who escaped from custody while being taken to Canberra Hospital for treatment on Saturday.
+Jonathon Hogan, 23, was taken to hospital after a court appearance relating to drug offences and resisting police.
+However, he was able to evade custody and escape the building.
+He was last seen about 8:30pm on Saturday.
+Police announced the escape on Monday afternoon, warning Canberrans not to approach Hogan.
+A spokeswoman for ACT Policing was not immediately able to say why there was a 45-hour delay between his escape and when it was made public.
+Hogan is thin and of Indigenous appearance, about 180cm tall and has dark eyes and hair.
+He also has distinctive tattoos: The name or names "Ricki Rose Murray" on his right forearm, and the name "Ricki" on his left forearm.
+Police said anybody who recognised Hogan should contact them at once.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Canberra Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberrans</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ACT Policing</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ricki Rose Murray</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jonathon Hogan, 23</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ricki</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hogan</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Indigenous</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

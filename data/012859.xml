@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419753021670180</docid>
+  <date>03/08/2017</date>
+  <time>11:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/blogs/andrew-bolt/a-shameful-day-for-australia/news-story/2eb9b0e70195d0425acc0168de14d0a6</url>
+  <title>A SHAMEFUL DAY FOR AUSTRALIA</title>
+  <content>
+Jews back to the ghettos:
+A LOCAL council has banned the construction of a synagogue in Bondi because it could be a terrorist target, in a shock move that religious leaders say has caved in to Islamic extremism and created a dangerous precedent...
+The Land and Environment Court backed the decision by Waverley Council to prohibit the construction of the synagogue in Wellington St, Bondi - just a few hundred metres from Australia's most famous beach - because it was too much of a security risk for users and local residents.
+Jewish leaders are shocked the decision appears to suggest they cannot freely practice their religion because they are the target of hate by Islamist extremists - and that the council has used their own risk assessment of the threat posed by IS against it.
+What next? Jewish shops also moved out to spare the residents?
+Imagine what such a council in Germany would have decided when the Nazis started to target Jewish synagogues and shops. Protect the Jews - or evict them.
+What a shameful day for this country.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Waverley Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bondi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SHAMEFUL DAY FOR AUSTRALIA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Jewish</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wellington St</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jews</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Environment Court</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nazi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamist</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

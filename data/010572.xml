@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416132364175508</docid>
+  <date>02/08/2017</date>
+  <time>21:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/06/56/austrian-artist-claims-responsibility-for-beheading-statue</url>
+  <title>Austrian artist claims responsibility for beheading statue</title>
+  <content>
+Police who believed vandals responsible for beheading a statue in the town square of Neusiedl am See in Austria have received a surprise revelation, after a sculptor came forward to take the blame.
+The police investigation came to an abrupt end on Wednesday when the artist contacted authorities to explain he had removed the head in order to perform repairs, AP reports.
+The sculptor admitted to removing the head from the Saint Rosalia statue - believed to be part of a holy trinity group attached to "Plague Column" - at the request of a local official, who thought it was weathered and needed restoring.
+But other officials and the townsfolk were not informed, and a resident quickly went to police to report the "crime".
+Police have subsequently released a statement signalling their investigation had drawn to a close.
+"The mystery is solved," it read.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Neusiedl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saint Rosalia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austrian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

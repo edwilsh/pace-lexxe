@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398312544539432</docid>
+  <date>30/07/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/09/46/search-finds-no-trace-of-slain-qld-teen</url>
+  <title>Search finds no trace of slain Qld teen</title>
+  <content>
+An extensive search of bush west of Brisbane has uncovered no trace of slain teenager Tiffany Taylor.
+Acting on a tip off, a search party of around 40 emergency rescue and police officers scoured dense bushland and difficult terrain near Banks Creek Road in Fernvale on Saturday but no evidence of the 16-year-old was found.
+A 60-year-old man has been charged with Tiffany's murder, but two years later her body remains missing.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Banks Creek Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tiffany Taylor</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tiffany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fernvale</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

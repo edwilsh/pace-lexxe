@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420002129778676</docid>
+  <date>03/08/2017</date>
+  <time>12:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/21/59/australian-troops-end-png-election-mission</url>
+  <title>Australian troops end PNG election mission</title>
+  <content>
+Hundreds of Australian troops have wrapped up a deployment to Papua New Guinea to help with the country's national elections.
+Roughly 200 Defence personnel and an assortment of Australian aircraft were sent to PNG to help cart 800 people and 90 tonnes of election materials across the nation.
+"The steep terrain and island nature of PNG means aircraft was essential in the dissemination of voting materials and personnel," Vice Admiral David Johnson, Chief of Joint Operations, said on Thursday evening.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vice Admiral David Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chief of Joint</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

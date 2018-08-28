@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423227650283004</docid>
+  <date>04/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/fishing/native-hunters-in-hot-water-over-whale-killing/news-story/39ee8fbac87aba60d6daea89a8f1d5e0</url>
+  <title>Native hunters in hot water over whale killing</title>
+  <content>
+FEDERAL officials were this week investigating the killing of a protected grey whale by Native hunters in Alaska after the massive animal strayed into a river in an area where indigenous residents rely on subsistence fishing and hunting as part of their ancient culture and traditions.
+The hunters peppered the 11m whale with gunfire and harpoons last week until it died and sank to the bottom of the Kuskokwim River near the Yup'ik Eskimo village of Napaskiak.
+The carcass was later retrieved and cut up, with 20,000 pounds of meat and blubber distributed among several villages.
+Officials with the National Oceanic and Atmospheric Administration said it appears to have been an unauthorised harvest of a grey whale - a species that is off-limits to hunting in Alaska, even by Natives. "We understand that these Alaska Natives are living a subsistence lifestyle and they also depend on the ocean for their resources," said Sue Fisher of the Animal Welfare Institute. She added, however, that "they are not allowed to take grey whales."
+In a similar case, villagers in Toksook Bay killed a humpback whale last year, prompting an investigation by NOAA that did not result in prosecution. In the current case, many residents believe the river brought subsistence food and it would violate Yup'ik culture not to accept it.
+"It's right there in front of us," honorary Napaskiak chief Chris Larson said.
+"It's like a gift from someone to the community."
+The whale meat is especially appreciated in the region this year. Much of the subsistence salmon was ruined by heavy rains that prevented the fish from drying properly for preservation of the meat.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chris Larson</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NOAA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>National Oceanic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Napaskiak</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Alaska</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eskimo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alaska Native</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toksook Bay</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Yup</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kuskokwim River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sue Fisher of the Animal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atmospheric Administration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Welfare Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

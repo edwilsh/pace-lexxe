@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398617487221342</docid>
+  <date>31/07/2017</date>
+  <time>01:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/racegoers-charged-for-police-attack/news-story/bf3fe0d2db943b443f88764031a0ac1b</url>
+  <title>Racegoers charged for police attack</title>
+  <content>
+TWO people have been charged for assaulting a police officer at the Townsville Cup.
+A 23-year-old woman and a 22-year-old man were arrested on two counts of serious assault police and one count of serious assault police causing bodily harm.
+Stuart Police officer in charge Senior Sergeant Gavin Oates said the male police officer was breaking up a disturbance at the races about 3pm on Saturday when the incident occurred.
+"One person has attacked him and then a third party has come in and kicked the officer," he said.
+"There were only minor injuries received by the officer.
+"The male has struck the officer in the face."
+Senior Sergeant Oates said for the most part patrons at the Townsville Cup were well behaved.
+"There were a couple of other minor disturbances," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Townsville Cup</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Stuart Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sergeant Oates</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Senior Sergeant Gavin Oates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

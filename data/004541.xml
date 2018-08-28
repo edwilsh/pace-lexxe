@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405785787761245</docid>
+  <date>01/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4825771/fill-the-petrol-tank-now-nrma/?cs=305</url>
+  <title>Fill the petrol tank now: NRMA</title>
+  <content>
+Petrol prices in parts of Newcastle have dropped to $1 a litre, with Charlestown and Windale topping the list for the city's cheapest fuel.
+But experts expect prices will rise again in the coming weeks.
+It comes as fuel prices in parts of Sydney dropped as low as 92c/l on Tuesday.
+In the Hunter, e10 unleaded was being sold for 100.5c/l at Medco Windale, and 100.7c/l at Caltex and Woolworths Caltex at Charlestown.
+According to the NRMA, the average regular unleaded price across Newcastle at the close of business on Monday was 112.5c/l, with a range of 102.5c/l to 125.9c/l.
+
+"Unleaded prices in Newcastle have been falling consistently since June with prices on average 3.2c/l lower than Sydney during the month of July," NRMA chairman Kyle Loades told The Herald. 
+
+"While prices are currently competitive, it is unclear as to how long that will last with an expectation that prices will rise in the coming weeks.
+
+"NRMA's advice to anyone in Newcastle and the Hunter is fill up now while the prices are low and shop around by using the real time data now available through the My NRMA app.
+
+"It's still too easy for motorists to get caught out paying too much for petrol, with the gap between the cheapest and most expensive service station in Newcastle almost 25c/l."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kyle Loades</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windale</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths Caltex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caltex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NRMA</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Charlestown</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medco Windale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

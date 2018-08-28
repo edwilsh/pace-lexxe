@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424778133500476</docid>
+  <date>04/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/osprey-raises-222m/news-story/0c7ddefe866e9d8d7c84ce41dcc94b63</url>
+  <title>Osprey raises $22.2m</title>
+  <content>
+Osprey Medical has received commitments from investors to raise $22.2 million at $0.40 per CDI.
+The placement was over-subscribed. Osprey is also undertaking a fully underwritten, non-renounceable entitlement offer at the same price to raise $10.3 million.
+The funds raised from the placement and entitlement offer will be primarily used for expanding US sales force to increase coverage of the US with focus on geographies with a high share of AKI.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Osprey Medical</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AKI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CDI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ospreys</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

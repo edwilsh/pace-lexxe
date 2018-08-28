@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422433081318981</docid>
+  <date>03/08/2017</date>
+  <time>21:35</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/the-wannacryransomware-attackers-are-cashing-out-their-bitcoin-at-a-dangerous-time/</url>
+  <title>The WannaCry Ransomware Attackers Are Cashing Out Their Bitcoin At A Dangerous Time</title>
+  <content>
+When the WannaCry ransomware attack  back in May, it was really good at causing  but  at generating ransom money. Some analysts said that the attackers were  in their methods. If the people behind the malware are as clumsy as they seem, they should be worried, because they recently started moving what Bitcoin they did collect during a particularly perilous time for cyber criminals.
+
+Three Bitcoin wallets were previously identified as repositories for ransom payments being delivered to the attackers.  set up a tracker to follow the wallets and future transactions. On Wednesday night around 11pm, funds began to be transferred out of them. At the moment,    are empty. At the current Bitcoin exchange rate, the apparent grand total of WannaCry's haul comes out to around $US143,000 ($179,903).
+
+Despite its reputation for anonymity, however, Bitcoin transactions are available for anyone to see on the . There are many methods criminals use to launder Bitcoin and eventually convert it into a more useful fiat currency. Bitcoin mixers are one of the most popular techniques.
+
+The basic idea of a mixer is that a company has a large pool of their own Bitcoins that they are ready to trade. Anyone looking to further anonymize their Bitcoin can send it to the mixer and then receive an unconnected Bitcoin in return. But there are new worries about the viability of mixers.
+
+, the most popular mixing service, recently  that it was shutting down. While the public statement claimed that the founder had a change of heart about how anonymous Bitcoin should be, many people had  that law enforcement was putting pressure on the company. The anonymous founder claimed that Bitcoin was always intended to be open and public, saying that "despite the huge profit we earn," they felt that "bitcoin will have a great future without dark market transactions." But the founder also encouraged other mixers to get out of the game and warned that "very soon this kind of activity will be considered as illegal in most of countries."
+
+This summer has been a particularly rough time for people involved in cybercrime. In the last few weeks, two of the biggest darkweb markets,  and , were taken down by authorities. And last month a 38-year-old Russian man named Alexander Vinnik was  by Greek authorities for allegedly running the BTC-e Bitcoin exchange that's accused of being a money laundering operation. It's still  if users of BTC-e will get their funds back.
+
+On July 17th, Google and security research firm Chainalysis  a large scale analysis of ransomware payments at the  conference in Mandalay Bay. Taking a look at the 11 biggest pieces of ransomware, they concluded that 95 per cent of payments were cashed out through the BTC-e exchange. The exchange is accused of laundering  worth of cryptocurrency. It's loss and Bitmixer's shutdown means criminals will have to look elsewhere.
+
+Chainalysis co-founder Jonathan Levin told Gizmodo over the phone that he's been keeping up with WannaCry's funds and that they are being converted into another cryptocurrency called  which he says is, "much more anonymous." He said that about $US100,000 ($125,807) is still sitting in Bitcoin. Monero automatically mixes coins and has a different source code than Bitcoin. Levin says that despite some  claiming that transactions can be tracked through mixers, that's not necessarily the case. "There are claims that transactions can be traced through Bitcoin mixers but we don't have evidence that it's true, at this point," he said.
+
+Chainalysis and 's research, the WannaCry hackers are using a service called  to launder their Bitcoins. Founded by the American Bitcoin advocate Erik Voorhees, ShapeShift allows a user to provide an email address and anonymously convert one cryptocurrency into another. In this case, Bitcoin become Monero. "Monero is totally anonymous so far," Neutrino CEO Giancarlo Russo Forbes. "It will not be possible to follow further movements."
+
+With so much recent action by law enforcement in the cybercrime world, it seems like a bad time to try to get a small amount of cash from a high-profile international crime. But the recent  might be adding some financial incentive for the hackers to act now. Then again,  that WannaCry was the work of the North Korean government, in which case, the hackers can probably just go YOLO.
+
+[, ]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BTC-e</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Neutrino CEO Giancarlo Russo Forbes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alexander Vinnik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Erik Voorhees</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry Ransomware Attackers Are Cashing Out Their Bitcoin At A Dangerous Time</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>American Bitcoin</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ShapeShift</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitmixer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chainalysis</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandalay Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US100,000 ($125,807</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC-e Bitcoin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Levin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YOLO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Levin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US143,000 ($179,903</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monero</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

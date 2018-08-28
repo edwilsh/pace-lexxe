@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415840306393817</docid>
+  <date>02/08/2017</date>
+  <time>20:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/health/biotechnology/scientists-edit-genes-in-human-embryos-20170802-gxo6qa</url>
+  <title>Scientists edit genes in human embryos</title>
+  <content>
+by
+Pam  Belluck
+
+Scientists for the first time have successfully edited genes in human embryos to repair a common and serious disease-causing mutation, producing apparently healthy embryos, according to a study published overnight.
+The research marks a major milestone and, while a long way from clinical use, it raises the prospect that gene editing may one day protect babies from a variety of hereditary conditions.
+But the achievement is also an example of genetic engineering, once feared and unthinkable, and is sure to renew ethical concerns that some might try to design babies with certain traits, like greater intelligence or athleticism.
+"We've always said in the past gene editing shouldn't be done, mostly because it couldn't be done safely," said Richard Hynes, a cancer researcher at the Massachusetts Institute of Technology who co-led the committee. "That's still true, but now it looks like it's going to be done safely soon," he said, adding that the research is "a big breakthrough."
+
+Scientists at Oregon Health and Science University, with colleagues in California, China and South Korea, reported that they repaired dozens of embryos, fixing a mutation that causes a common heart condition that can lead to sudden death later in life.
+
+If embryos with the repaired mutation were allowed to develop into babies, they would not only be disease-free but also would not transmit the disease to descendants.
+The researchers averted two important safety problems: They produced embryos in which all cells - not just some - were mutation-free, and they avoided creating unwanted extra mutations.
+Potentially, it could apply to any of more than 10,000 conditions caused by specific inherited mutations. Researchers and experts said those might include breast and ovarian cancer linked to BRCA mutations, as well as diseases like Huntington's, Tay-Sachs, beta thalassemia, and even sickle cell anemia, cystic fibrosis or some cases of early-onset Alzheimer's.
+"You could certainly help families who have been blighted by a horrible genetic disease," said Robin Lovell-Badge, a professor of genetics and embryology at the Francis Crick Institute in London, who was not involved in the study.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oregon Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alzheimer</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BRCA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Francis Crick Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Hynes</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Science University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tay-Sachs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Robin Lovell-Badge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huntington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Belluck</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Massachusetts Institute of Technology</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

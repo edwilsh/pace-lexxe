@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420221173115701</docid>
+  <date>03/08/2017</date>
+  <time>13:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/tesla-stock-price-pops-after-crushing-earnings-2017-8</url>
+  <title>Tesla pops after topping Wall Street estimates</title>
+  <content>
+Shares of  are up 6.60% in premarket trading on Thursday, after the company released its .
+
+The electric car maker reported a loss of $US1.33 per share, less than the loss of $US1.88 that Wall Street was anticipating. It brought in revenue of $US2.79 billion, better than the $US2.51 billion expected.
+
+There was lots of other news out of the earnings call. Here's everything you need to know...
+
+The earnings report came just days after the company revealed its newest vehicle, the Model 3. The company has been seeing tons of new orders for the vehicle,  since the launch. Production on the car is slow, though. Customers who order their vehicles today will probably not see their vehicles delivered until late 2018.
+
+Shares of Tesla are up 61.45% this year, including Thursday's premarket bump.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tesla</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Model 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.88</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US1.33</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.51</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US2.79</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

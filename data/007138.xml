@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410570381423836</docid>
+  <date>01/08/2017</date>
+  <time>23:33</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/yelling-hotel-manager-foils-holdup/news-story/57e0fe95091e0711c92ae6d42f7f556d</url>
+  <title>Hotel manager thwarts holdup</title>
+  <content>
+POLICE are investigating the attempted armed robbery of a hotel at Crestmead in the early hours of Wednesday.
+Police reported a man entering the Julie St hotel through the unlocked front door at 4am.
+The report said the man approached the 52-year-old male duty manager and demanded money.
+The manager yelled at the man and chased him out of the hotel.
+The offender was last seen running eastbound towards Crescendo Place.
+No money was stolen, nobody was injured andand the manager did not see any weapon.
+The offender is described as being caucasian, 182cm tall, wearing a balaclava, long sleeve white shirt, black long pants and had an orange high-visibility shirt draped over his shoulder covering his left hand.
+If you have information, contact Policelink on 131 444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Policelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Julie St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crestmead</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crescendo Place</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

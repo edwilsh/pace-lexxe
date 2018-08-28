@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397668299436939</docid>
+  <date>30/07/2017</date>
+  <time>21:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4821585/police-hunt-after-indecent-act-assault-at-wollongong-bike-track/?cs=300</url>
+  <title>Police hunt after indecent act, assault at Wollongong bike track</title>
+  <content>
+Police are searching for a man after he committed an act of indecency and assaulted a woman on a bike track at Wollongong on Sunday night.
+Two women were walking along the bike track between Marine Drive and Bank Street, when they noticed a man standing in the middle of the track committing an act of indecency about 7.30pm.
+The women, aged 23 and 20, attempted to run past the man and he grabbed the older female around her mouth pulling her to the ground.
+The man ran from the scene and was last seen heading north along the cycle path.
+The woman was not injured and police were called. Police searched the area but were unable to find the man. The women were not able to provide a further description of the attacker.
+Anyone with information: 1800 333 000.
+
+File photo.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bank Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

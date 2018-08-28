@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404626146574224</docid>
+  <date>01/08/2017</date>
+  <time>00:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/10/18/sydney-cbd-lanes-closed-as-building-floods</url>
+  <title>Sydney CBD lanes closed as building floods</title>
+  <content>
+A large water pipe has burst at a building in Sydney's CBD, causing flooding in one of the city's busiest thoroughfares.
+Four fire crews are at the George Street cinema precinct and an additional truck has been called after they were alerted to the flooding about 7.45am on Tuesday, a NSW Fire & Rescue spokesman told AAP.
+The Transport Management Centre says two of three northbound lanes are expected to be closed for some time.
+Police are directing traffic around Kent Street between Liverpool and Bathurst Street.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bathurst Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kent Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liverpool</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Management Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney CBD</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>George Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

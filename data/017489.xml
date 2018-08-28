@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428982906557818</docid>
+  <date>04/08/2017</date>
+  <time>23:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/firies-warning-keep-windows-shut-around-contolled-/3209118/</url>
+  <title>FIRIES WARNING: Keep windows shut around contolled burns</title>
+  <content>
+THE skies over Ipswich and surrounding areas will be particularly smokey this weekend as multiple controlled burns are planned.
+
+Local firies are conducting a hazard reduction burn on 100 acres of land at Annie's Lane, Marburg from 7am, weather permitting.
+
+It's expected to finish later this afternoon.
+
+Prenzlau, Hatton Vale, Fernvale, Wivenhoe Pocket, Coominya and Lowood firies will also be in charge of a hazard reduction burn behind the Lowood Gold Course today from 10am.
+
+Queensland Fire and Emergency Services warn large volumes of smoke are likely to affect Marburg and surrounding areas due to the large area and heavy fuel load.
+
+Those who live nearby, should close windows and doors, and keep respiratory medications on hand.
+
+Motorists should drive with caution and to conditions, as smoke can decrease visibility on the roads.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Prenzlau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lowood Gold Course</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Wivenhoe Pocket</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FIRIES WARNING</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Annie's Lane</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hatton Vale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lowood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marburg</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Fernvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coominya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

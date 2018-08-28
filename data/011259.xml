@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416527501174444</docid>
+  <date>02/08/2017</date>
+  <time>22:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/aluminium-up-on-expected-capacity-cuts/news-story/c7849ddbfe78a557c1a260f28688c25a</url>
+  <title>Aluminium up on expected capacity cuts</title>
+  <content>
+Aluminium prices have risen on buying from investors expecting capacity cuts in top producer China, but analysts say supplies may not fall significantly as any cuts could be offset by new capacity.
+Benchmark aluminium on the London Metal Exchange ended up one per cent at $US1,926 a tonne.
+"We don't know how much of the Chinese production cuts are being replaced by new capacity," said Steve Hardcastle, head of client liaison at Sucden Financial. "Many producers in China are upgrading their production facilities."
+CHINA ALUMINIUM: Hongqiao Group, the world's biggest aluminium producer, plans to shut more than 2 million tonnes a year of outdated smelter capacity. But investment in new capacity means Hongqiao still expects production to remain at levels close to current output at 6.5-7.0 million tonnes.
+OUTPUT: China's primary aluminium output hit a record high of 97,700 tonnes per day in June, according to an industry group. That is equivalent to an annualised run rate of 35.7 million tonnes and represents 56.5 per cent of global output, also a fresh high.
+DIVERGENCE: Industry specialists, such as Paul Adkins of AZ China consultancy, believe the official figures are diverging from reality. AZ China estimates actual daily production was 104,000 tonnes in June. It also thinks there was a similar-sized undercount in both April and May.
+LME SPREAD: Traders say the higher discount of above $US20 a tonne for cash aluminium over the three-month forwards has renewed interest in financing deals, where metal is bought now and sold for a future date.
+SWAP QUOTAS: "China's smelters are making use of 'capacity swap quotas': Smelters directed to close excess/unused capacity can sell it as a quota to others seeking to expand," Morgan Stanley analysts said in a note. "While the strategy constrains capacity growth and boosts the industry's utilisation rate, it is likely to see China's total output lift too."
+NICKEL: The LME price of nickel gained 0.6 per cent to $US10,350 a tonne. Earlier this week it touched a four-month high on worries about supplies from the Philippines, which is cracking down on mining pollution.
+OFFSET: But expectations that Indonesian ore shipments could rise after the government recommended two companies be issued nickel export permits for a combined 2 million tonnes limited further gains.
+DOLLAR: The US dollar index hit 15-month lows. The lower US currency this year has boosted demand for dollar-denominated metals, as it makes commodities cheaper for holders of other currencies.
+PRICES: Copper ended up 0.1 per cent at $US6,352, zinc gained 0.8 per cent to $US2,801.5, lead rose 0.6 per cent to $US2,353 and tin added 0.3 per cent to $US20,590.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>London Metal Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AZ China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hongqiao</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LME</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Indonesian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,353</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US20,590</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US6,352</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,926</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,801.5</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Steve Hardcastle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10,350</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Paul Adkins of AZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hongqiao Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sucden Financial</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CHINA ALUMINIUM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LME SPREAD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

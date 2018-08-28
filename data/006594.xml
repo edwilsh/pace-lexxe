@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409698503045468</docid>
+  <date>01/08/2017</date>
+  <time>20:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/markets/us-auto-sales-in-reverse-rental-car-sales-slashed-20170801-gxng54.html</url>
+  <title>US auto sales in reverse, rental car sales slashed</title>
+  <content>
+US car makers said they continued to slash low-margin sales to daily rental fleets in July as the overall pace of US car and light truck sales fell for the fifth straight month.
+The annualised pace of US car and light truck sales in July fell to 16.73 million vehicles, down from 17.8 million vehicles a year earlier, according to Autodata Corp, which tracks industry sales.Photo: John Roe
+Investors sold shares in the Detroit Three car makers.  fell about 3.2 per cent and  slid about 2.5 per cent.
+Several major auto makers, including GM, Ford, Fiat Chrysler, Nissan Motor and Hyundai Motor said they sharply reduced rental car sales in July, and they portrayed the decisions as putting profit ahead of sales volume.
+Auto makers have used low-margin sales to rental fleets to avoid factory shutdowns. With more flexible labour agreements, the Detroit auto makers have shifted course. They are quicker to idle factories to reduce supply, and they are demanding higher prices, industry officials said. Fiat Chrysler has killed several models it once sold to fleets.
+Big US rental car companies such as Hertz Global and Avis Budget Car Rental at the same time are restructuring their fleets as values decline for rental cars they resell, and as ride services such as Uber Technologies bite into their business.
+
+In a more troubling sign for Detroit, combined sales of large pickups fell 4 per cent, and sales of large sport utility vehicles declined by 20 per cent. Only the Ford F-series, up 6 per cent, improved on year-ago results among major truck models.
+Declining sales could leave the Detroit Three with too many plants in North America, Jeff Schuster, a forecaster with LMC Automotive, said at an industry conference in Traverse City, Michigan. The decline in July's annual sales pace from a year ago equates to the output of four assembly plants.
+GM gained little ground in its effort to reduce inventories of unsold vehicles. The auto maker had 104 days of supply at the end of July, down from 105 days at the end of June. GM has promised investors to reduce inventories to 70 days by year-end.
+Ford said July sales fell 7.5 per cent, but inventory fell to 77 days from 79 the previous month. Fiat Chrysler said sales dropped 10 per cent.
+Among the top Japanese companies, only Toyota Motor reported a year-to-year gain, with sales up 4 per cent. Honda Motor sales fell 1 per cent, and Nissan sales fell 3 per cent.
+GM, Ford and Fiat Chrysler have said second-half financial results likely will be lower than first-half results, in part reflecting production cuts in North America and pricing pressures.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Honda Motor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GM</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Nissan Motor</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Detroit Three</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fiat Chrysler</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Michigan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North America</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ford's F-Series</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Autodata Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Motors</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hertz Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Detroit</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Nissan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hyundai Motor</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Avis Budget Car Rental</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeff Schuster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Uber Technologies</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ford</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LMC Automotive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Roe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Traverse City</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

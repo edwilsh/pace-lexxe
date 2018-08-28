@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444144141267381</docid>
+  <date>07/08/2017</date>
+  <time>09:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/asia/worlds-top-stockmarket-is-really-just-a-few-top-stocks-20170807-gxqpvt</url>
+  <title>World's top stockmarket is really just a few top stocks</title>
+  <content>
+by
+Kana Nishizawa
+
+Among the world's biggest stock markets, there haven't been any better investments this year than Hong Kong's Hang Seng Index.
+But under the surface of that 25 per cent surge, gains are getting more concentrated - and that means for some shares, volatility is on the rise. Take one of the Hang Seng's. It's the second-best performer this year with a 64 per cent surge, accounting for almost a quarter of the index's gain, according to data compiled by Bloomberg. And its 30-day volatility has jumped 51 per cent, as price swings across the index grow ever more muted.
+Market watchers say mainland Chinese investors are causing the phenomenon, favouring Hong Kong's biggest shares as they funnel cash into the city through exchange links. While that creates opportunities - and pitfalls - for stock pickers, some strategists see the lack of breadth as a risk for passive money too, in that it's a sign of a fragile rally.
+"There are certain funds coming down from China and they are buying into well-known stocks from their point of view, like Tencent or Ping An. The Hang Seng Index has moved quite considerably upwards but then the second or third liners haven't been able to follow," said Victor Au, chief operating officer at Delta Asia Securities. The rally's reliance on just a few stocks means "an external shock would give the market a good excuse to have a big correction," he said. "Investors are too complacent to the current situation."
+
+The Hang Seng Index's ascent in 2017 marks a departure from years of underperformance versus global equities, with the Hong Kong measure delivering more than twice the S&P 500 Index's gain amid signs of a stabilising Chinese economy and brighter earnings prospects.
+
+The advance has been narrow - just seven of the index's 49 stocks, including Tencent, Ping An Insurance (Group) Co. and AIA Group have accounted for almost 70 per cent of the advance. Their 30-day price swings have jumped 25 per cent on average this year, while the HSI Volatility Index holds near a decade low.
+Market risk
+
+A similar pattern is happening in the US, where rallies in giant technology companies such as Apple and Facebook are dominating indexes, and whether this is something to worry about has been hotly contested.
+Cliff Asness at AQR Capital Management has argued that four or five stocks always shoulder a disproportionate amount of upside - nothing to get excited about. Howard Marks, the co-chairman of Oaktree Capital Group, has listed addiction to FAANG-fomented gains among a handful of vulnerabilities that could spell the end of what is now the second-longest bull market ever.
+
+"It's usually not a good sign for there to be a narrowing of the market in a bull market," said Richard Harris, Hong Kong-based chief executive officer of Port Shelter Investment Management. "It very often means that eventually people are going to run out of things to buy."
+Harris said that as well as the Hang Seng Index being swept up in a global trend for narrower rallies, the buying habits of Chinese mainland investors are having an impact.
+Link flows
+
+Mainland investors have purchased a net 246 billion yuan ($US37 billion) of Hong Kong stocks through Shanghai and Shenzhen trading links this year. Among the most actively traded in recent months include Tencent, . and HSBC Holdings.
+
+Crowd-following quants are also part of the story, according to Eric Liu, head of research at Vanda Securities. Systematic investors are targeting Tencent and some Chinese bank stocks and they tend to raise volatility on a subindex or a company level, while suppressing it on an overall index level, he said.
+"It would not be unusual for there to be narrow market leadership, increasing volatility in those stocks as a forerunner that maybe the markets are getting a bit high and needs to come back to some sort of reality," Port Shelter Investment Management's Harris said. "I would expect some sort of pullback in the third quarter. Maybe sell in August, buy back in November."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oaktree Capital Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Co</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hang Seng Index</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P 500 Index</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AIA Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ping An</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Shelter Investment Management's Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hang Seng</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AQR Capital Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shenzhen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eric Liu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Howard Marks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Delta Asia Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HSBC Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kana Nishizawa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FAANG-fomented</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Port Shelter Investment Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vanda Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victor Au</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HSI Volatility Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shanghai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cliff Asness</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong's Hang Seng Index</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ping An Insurance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US37</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411674188035932</docid>
+  <date>02/08/2017</date>
+  <time>03:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/northern-territorys-million-dollar-fish-competition-officially-launched-for-a-third-season/news-story/585382565145860985d019bf27a2705e</url>
+  <title>Million Dollar Fish comp launched again</title>
+  <content>
+THE Million Dollar Fish competition has officially been launched for a third season.
+A total of 101 barramundi will be tagged and released into Territory waterways over the next few months.
+Of those, 100 will be worth $10,000 and one with be worth $1 million.
+Australian ricket legend Matthew Hayden is the ambassador for the event and said he was excited to get out on to the NT waterways.
+"Where won't I be fishing," he said.
+He said it was a great Australian pastime and everyone should get involved.
+Registrations are now open.
+To register, visit www.milliondollarfish.com.au
+</content>
+  <sindexList>
+  <sindex>
+    <name>NT</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Dollar Fish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Million Dollar Fish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Hayden</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415664212731792</docid>
+  <date>02/08/2017</date>
+  <time>19:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/05/14/move-to-freeze-clive-palmer-s-assets</url>
+  <title>Move to freeze Clive Palmer's assets</title>
+  <content>
+Liquidators have reportedly applied to freeze $200 million of Clive Palmer's assets to recoup money taxpayers gave to the former politician's mining business, Queensland Nickel.
+The Courier Mail says the federal-government appointed liquidators, PPB Advisory, have applied for a Mareva injuction to stop Mr Palmer from spending $200 million of his personal wealth or selling off his businesses.
+A directions hearing is expected in the Queensland Supreme Court on Thursday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr. Palmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Nickel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Palmer</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mareva</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PPB Advisory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Courier-Mail</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424215492776004</docid>
+  <date>04/08/2017</date>
+  <time>04:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/coag-approves-mental-health-approach/news-story/3015cba9cc5b6c8bea7a3d8fe422ffc2</url>
+  <title>COAG approves mental health approach</title>
+  <content>
+Eating disorders and suicide prevention measures are at the centre of a new national mental health care approach.
+State and federal government health officials approved the Fifth National Mental Health Plan at a COAG Health Council meeting in Brisbane on Friday.
+Federal Health Minister Greg Hunt said it stood out from previous plans with its focus on eating disorders and suicide prevention, keys areas that had been raised by lobbyists.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>COAG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>COAG Health Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Health Minister Greg Hunt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fifth National Mental Health Plan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443203543413422</docid>
+  <date>07/08/2017</date>
+  <time>06:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/heightened-security-at-airports-brings-little-chan/3209696/</url>
+  <title>Heightened security at airports brings little change in Coffs</title>
+  <content>
+IT IS business as usual for Coffs Harbour Regional Airport despite heightened security measures being put in place at airports around the country.
+Airport manager Dennis Martin said the Coffs airport had "full security".
+"We have the same security processes as Sydney," he said.
+"We screen both passengers and luggage."
+New rules for travellers at Australian airports were announced after a crackdown was ordered following the foiled Sydney airport terrorism plot.
+Mr Martin said passengers should arrive half-an-hour earlier to compensate delays which may be encountered at other airports.
+"We haven't had any delays since this has started," he said.
+"Our flights are spread out pretty well."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour Regional Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dennis Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

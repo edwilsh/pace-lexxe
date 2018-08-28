@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419787381409649</docid>
+  <date>03/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/lightning-strikes-plane-on-florida-tarmac-injuring-worker/8772476</url>
+  <title>Lightning hits plane on tarmac, injuring airport worker at Fort Myers, Florida</title>
+  <content>
+An airport worker is recovering in hospital after the plane he was working under was struck by lightning.
+Austin Dunn, 21, had followed the Sun Country plane onto the tarmac at Fort Myers, Florida, as it was being readied for take-off.
+As he stood beneath the plane near the wing, lightning struck the tail of the jet, causing a visible flash where Mr Dunn was standing.
+The ground worker immediately collapsed as his panicked co-workers called for medical help.
+
+The victim's sister Autumn Dunn said she feared the worst when she heard the news.
+"My dad called, and he said your brother was electrocuted, and he's at Lee Memorial, and all I asked was, 'Is he alive?'"
+Mr Dunn was rushed to hospital and treated for severe burns.
+"Once they knew he was alive, it was a relief. It was definitely a scary thing," Ms Dunn said.
+No-one on the plane was injured.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ms Dunn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Florida</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lee Memorial</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Autumn Dunn</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Fort Myers</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Austin Dunn, 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Dunn</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sun Country</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

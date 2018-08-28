@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435292213573236</docid>
+  <date>05/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4835995/blaze-damages-newcastle-units/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Blaze damages Newcastle units</title>
+  <content>
+POLICE are investigating circumstances around a fire at Fowler Street in Hamilton.
+
+Emergency services were called to the address shortly after 7.30pm on Saturday following reports a unit block was well alight.
+Residents from several units were evacuated and no-one was injured.
+
+NSW Fire & Rescue extinguished the blaze; however the unit block received extensive damage.
+Newcastle City Local Area Command established a crime scene and started an investigation.
+They arrested a 41 year old man shortly after 9pm and took him to Newcastle Police Station.
+
+He was then transferred to John Hunter Hospital for treatment of unrelated injuries.
+The man has since been released and is helping police with their inquiries.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hamilton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>-1.3</score>
+  </sindex>
+  <sindex>
+    <name>NSW Fire</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle City Local Area Command</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fowler Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

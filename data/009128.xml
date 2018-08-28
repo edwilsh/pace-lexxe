@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413048577593720</docid>
+  <date>02/08/2017</date>
+  <time>09:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/nsw/accident-that-left-worker-quadriplegic-was-preventable-appeal-court-finds-20170802-gxo41u.html</url>
+  <title>Accident that left worker quadriplegic was preventable, appeal court finds </title>
+  <content>
+An Ashton Coal mine contractor drilling incident in 2012 that left a worker with quadriplegia was both preventable and would have cost little to avoid, an appeal court has found in a damning assessment of the drilling company's culpability. 
+Benjamin Kuypers suffered catastrophic injuries at the Singleton mine on August 12, 2012 after a "blooie line" discharge pipe experienced a sudden increase in pressure and hit the platform where he stood, the NSW Court of Criminal Appeal found.Photo: Dean Osland
+The court heard that instead of taking steps to prevent an incident after earlier warnings of pressure fluctuations, Silver City Drilling - contracted by Ashton Coal to carry out work at the mine site - allowed the line to be secured by makeshift means including taping a shovel to the end of the pipe and using pickets to secure it.
+The company allowed the line to be operated with a 90-degree elbow to reduce the pressure "without any apparent consideration, let along a formal risk assessment, as to its effect on the drilling system", the appeal court found.
+Attempting to direct the flow by taping a shovel to the end of the pipe introduced "an element of irresponsibility".
+"Culpability in this case is reasonably high because, even if the pressure event of the force which occurred might not be expected to occur often, the seriousness of the foreseeable resultant harm is extreme and the steps to be taken to avoid it, which were not even assessed, were straightforward and involved only minor inconvenience and little, if any, cost," the appeal court found.
+
+"A failure to have regard to these factors and carry out a risk assessment involved a serious dereliction from the health and safety duty imposed on the respondent as an employer."
+The appeal court overturned a District Court judge's finding of little or no culpability, and nearly doubled the penalty to Silver City Drilling, to more than $212,000.
+It accepted an appeal brought by the NSW Attorney General's office which argued the District Court judge had "mistaken an important aspect of the agreed facts, ignored parts of the agreed facts, and had misunderstood the necessary assessment of the foreseeability of risk".
+"The sentencing judge did not err simply in evaluating the seriousness of the identified circumstances of the offending; rather, he mistook material facts and engaged in a process of reasoning which was erroneous," the appeal court found.
+"In these circumstances, his characterisation of the objective seriousness of the offending as minor, because the 'risk' was 'barely foreseeable', cannot be accepted."
+The District Court judge accepted an expression of "regret" from Silver City Drilling director Vivian Oldfield who provided loan funds to the company owner at the time of the incident, but did not take over control until 2013.
+The court was told Silver City Drilling had total assets of $15.56 million at June, 2015 and liabilities of $20.2 million, but continued to trade and paid wages of nearly $11 million during that year.
+The appeal court was told Mr Kuypers suffered serious injuries to his neck and spinal cord, resulting in quadriplegia, constant pain and ongoing psychological trauma.
+Newcastle Herald
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW Attorney General</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vivian Oldfield</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kuypers</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>District Court</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Benjamin Kuypers</name>
+    <count>1</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Dean Osland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Singleton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashton Coal</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silver City Drilling</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>NSW Court of Criminal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

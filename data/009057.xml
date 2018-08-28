@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412567541247296</docid>
+  <date>02/08/2017</date>
+  <time>07:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-02/west-new-britain-womens-health-ngo-wants-to-halve/8768102</url>
+  <title>West New Britain women's health NGO wants to halve cervical cancer rate</title>
+  <content>
+A locally organised NGO in Papua New Guinea's West New Britain province is aiming to cut the incidence of cervical cancer in the area by half within five years.
+That ambitious goal has been set by the Wantok Health Foundation, which was founded by local women who wanted to take action on women's health issues.
+One of them, Annette Ketalu, tells Bruce Hill they've received a lot of help from local organisations and testing kits from a laboratory in Australia, Victoria Cytology Services.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NGO</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>West New Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea's West New Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Annette Ketalu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wantok Health Foundation</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Cytology Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

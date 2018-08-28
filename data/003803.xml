@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404797945268718</docid>
+  <date>01/08/2017</date>
+  <time>01:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/bull-kills-teenage-farm-worker-in-wa-town-of-dalyup/news-story/b36cea8bc2340eb53c7c41ac274655a5</url>
+  <title>Bull kills teen WA farm worker</title>
+  <content>
+A WOMAN has been killed by a bull while working on a farm in Dalyup, about 680km south-east of Perth.
+The woman was located unresponsive by a co-worker at the South Coast Highway farm at about 11.35am on Monday.
+Police believe the 19-year-old woman had been herding a bull when she was struck by the animal and pushed into a fence railing.
+St John Ambulance took the woman to Esperance Hospital but she could not be revived.
+Worksafe will be investigate the circumstances surrounding the death and a report will be prepared for the coroner.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>South Coast Highway</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esperance Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WorkSafe</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dalyup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bulls</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

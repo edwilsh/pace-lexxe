@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417811696416953</docid>
+  <date>03/08/2017</date>
+  <time>03:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/real-estate/commercial/hotels-and-leisure/tourism-boom-under-threat-citi-downgrades-mantra-20170802-gxo9u1</url>
+  <title>Tourism boom under threat: Citi downgrades Mantra</title>
+  <content>
+Citi has downgraded its recommendation for the country's biggest listed hotel operator, Mantra Group to 'neutral' from 'buy' as it warned the rising Australian dollar could have repercussions for the tourism boom.
+The Citi Research report, which came out ahead of Mantra releasing its full year results on August 18, also warned that Airbnb could impact on Mantra's ability to lift hotel earnings on the Gold Coast during next year's Commonwealth Games while also noting the lack of "major acquisition announcements".
+As a result, Citi forecast Mantra to deliver weaker before-tax earnings in FY18 of $109 million, compared with consensus forecasts of $113 million, with the expectation that FY17 earnings could come in at the bottom end of Mantra's guidance range ($101-$107 million). 
+Mantra shares were down almost 5 per cent at $2.81 in early trading.
+
+"Given the downside risks to FY18 earnings, we no longer recommend investors buy Mantra at current levels. We consider the stock to be fairly priced at 16 times [our] FY18 [earnings forecasts]," wrote Citi Equities analyst Sam Teeger.
+
+Mr Teeger said the strong Australian dollar - up 9 per cent since December 2016 - did not bode well for the tourism sector.
+This has added weight for Mantra which almost a quarter of its accommodation business (over 5000 rooms) on the tourism-dependent Gold Coast with a further 13 per cent on the holiday markets of the Sunshine Coast and in Tropical North Queensland.
+"Historically, the Australian dollar has had a strong and lagged relationship with outbound departures and in-bound arrivals," Mr Teeger wrote.
+"A higher and stable Australian dollar makes international trips more affordable for Australians and makes Australian holidays more expensive for inbound international tourists. We see the appreciation in the Australian dollar as a negative for domestic hotel operators."
+
+Looking more specifically at the Gold Coast, the Citi report noted that hotel occupancy has declined three per cent per month on average since the accident at Ardent Leisure's Dreamworld in October last year.
+While it expects the Gold Coast market to improve and is forecasting a 15 per cent boost to Mantra RevPAR during the Commonwealth Games, Citi said the theme parks continued to struggle "and this could negatively impact Gold Coast hotels" in the first half of fiscal 2018.
+Mr Teeger added that there was the potential for Airbnb to "negatively impact pricing power during the Commonwealth Games given Airbnb hosts could increase inventory in response to demand".
+Looking at other markets where Mantra has a solid presence, Citi warned that Perth and Brisbane remained "challenged" while in Melbourne RevPAR growth was being impacted by increased supply.
+
+Sydney and New Zealand, which make up 11 per cent of Mantra's portfolio are its two best performing markets, Citi said.
+Operating under three brands - Mantra, Peppers and Breakfree - the group manages a national east coast-centric portfolio of nearly 130 hotels and resorts with 21,500 rooms as well as properties in New Zealand, Bali and Hawaii. Only French group AccorHotels has a bigger portfolio in Australia.
+The group recently opened a new Mantra Hotel at Sydney Airport. Last year it acquired Hawaiian hotel Ala Moana for $63 million, which now accounts for six per cent of its portfolio.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Teeger</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>7</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AccorHotels</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawaiian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sam Teeger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Citi Equities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne RevPAR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bali</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY17</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FY18</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Airbnbs</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mantra RevPAR</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hawaii</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUGUST 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Breakfree</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citi Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Games</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Ala Moana</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mantra Hotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tropical North Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Ardent Leisure's Dreamworld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

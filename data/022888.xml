@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442507758701768</docid>
+  <date>07/08/2017</date>
+  <time>03:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/07/13/20/russia-issues-can-be-settled-tillerson</url>
+  <title>Russia issues can be settled: Tillerson</title>
+  <content>
+US Secretary of State Rex Tillerson says the United States wants to work with Russia and it is pointless to cut off ties over their disagreements.
+Discussing a meeting he held on Sunday with Russian counterpart Sergei Lavrov, Tillerson told reporters that Russia had indicated "some willingness" to talk and find ways to move forward on the thorny issue of the Ukraine.
+He said he saw US-Russia relations pragmatically and believed problems could be addressed, and stressed to Lavrov that Russia needed to understand that meddling in elections was a very serious issue.
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sergei Lavrov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tillerson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ukraine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lavrov</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

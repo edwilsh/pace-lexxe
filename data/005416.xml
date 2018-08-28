@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406726385616226</docid>
+  <date>01/08/2017</date>
+  <time>08:38</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/fire-at-bega-court-flats-on-cooyong-street-extinguished-20170801-gxnbr6.html</url>
+  <title>Fire at Bega Court flats on Cooyong Street extinguished</title>
+  <content>
+A blaze at the Bega Court flats in Canberra's city centre has been extinguished. 
+Firefighters were called to the flats, on Cooyong Street near Akuna Street, just before 5.30pm on Tuesday, an ESA spokesman said.Photo: Rohan Thomson
+Three pumpers, the Bronto aerial unit and the hazardous materials unit attended the fire, as well as the ACT Ambulance Service.
+The flats were unoccupied at the time and no injuries have been reported. 
+Firefighters are conducting atmospheric monitoring of the site and will soon begin investigations into the cause of the blaze. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cooyong Street</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bronto</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ESA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Ambulance Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Akuna Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bega Court</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rohan Thomson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

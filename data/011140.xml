@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416261213197344</docid>
+  <date>02/08/2017</date>
+  <time>21:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/police-investigate-whether-sydney-school-was-targeted-by-arsonists/news-story/30237744a56e74ec79cfde6fae2731ec</url>
+  <title>Suspected arson at Sydney school</title>
+  <content>
+POLICE are investigating a suspected arson attack in Sydney that has caused serious damage to a high school.
+Emergency services extinguished the blaze after being called to Marsden High School on Winbourne Street at West Ryde just after 1am this morning, but not before it caused significant damage to a building.
+The fire began in the science block and quickly spread to several other classrooms, Channel 7 reported. Fire crews rushed to the scene after receiving dozens of triple-0 calls from nearby residents who could see thick smoke pouring out the windows.
+A crime scene has been established and forensic crews will examine the site later today. Police are appealing for witnesses to come forward.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Winbourne Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marsden High School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Ryde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Channel 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

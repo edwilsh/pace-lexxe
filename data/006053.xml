@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407898911712093</docid>
+  <date>01/08/2017</date>
+  <time>13:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/amazon-echo-update-fire-tv-voice-control-2017-8</url>
+  <title>Amazon's Echo speakers will now let you control a Fire TV with just your voice</title>
+  <content>
+Amazon is officially bringing its Echo smart speakers and Fire TV media streamers in closer harmony.
+
+The company on Tuesday said that those who own both an Echo device and a Fire TV streamer will be able to use the former to control the interface of the latter.
+
+Most Fire TV streamers can already be controlled via Alexa, but only through a microphone button planted on their respective remotes. Here, the idea is to use an Echo to access those same controls hands-free.
+
+This new Echo update only applies to US customers for now; Amazon hasn't said anything about any other countries where Echo is available, such as UK and Germany, having this feature just yet.
+
+Amazon says an Echo device will automatically pair with a Fire TV device on the same WiFi network as soon as you ask its Alexa voice assistant to do some sort of Fire TV-related action. (Those with multiple TVs will have to use the Alexa app.) The company says this will work with "any" Echo or Fire TV device, including , which come with the Fire TV interface pre-installed.
+
+From there, you can tell the Alexa assistant to play a specific show, open apps, search for specific genres of content, pause and fast forward programs, and the like. Amazon says those with an "Edition" TV can have Alexa switch inputs and navigate to specific channels from an over-the-air antenna as well.
+
+Amazon says the functionality will go live on Tuesday for Fire TV boxes and the Fire TV Stick. An Amazon spokesperson said the update will start rolling out to Fire TV Edition TVs the same day, with full availability expected by the end of the week.
+
+The update isn't unexpected: Details of the Echo integration were spotted on the Fire TV's software update page by  earlier this month before being quickly taken down.
+
+The idea of having a smart speaker do hands-free control of a media streamer isn't totally new:  can already do similar things with its Chromecast media player and smart TVs with its Cast technology built-in.
+
+Based on past experiences with Alexa on the Fire TV, it's generally safe to assume that these commands will work smoothest with Amazon's own streaming services, such as Prime Video. With current Fire TV boxes, you can't have Alexa, say, bring you to different channels within a third-party app like Sling TV.
+
+Still, the update makes life a little bit easier for the  with both an Echo and a Fire TV - and a little bit stickier for those within Amazon's ecosystem to ever get out.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Echo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fire TV Stick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alexa</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fire TV-related</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TVs</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fire TV</name>
+    <count>12</count>
+    <score>13</score>
+  </sindex>
+  <sindex>
+    <name>Chromecast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>8</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wifi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Video</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sling TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fire TV Edition TVs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Edition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

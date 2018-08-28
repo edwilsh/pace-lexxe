@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403522339959464</docid>
+  <date>31/07/2017</date>
+  <time>20:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/venezuelas-president-nicolas-maduro-personally-sanctioned-by-the-us-20170731-gxmnel.html</url>
+  <title>Venezuela's President Nicolas Maduro personally sanctioned by the US</title>
+  <content>
+New York: The Trump administration is imposing sanctions directly on Venezuela's President Nicolas Maduro after the vote Sunday that was a step toward rewriting his country's constitution.
+In an unusual move against a foreign leader, the Treasury Department's designation freezes any of Maduro's assets subject to US jurisdiction and prevents US persons from dealing with him. The measures were announced in a statement by the Treasury on Monday.Photo: AP
+The constituent assembly chosen Sunday will meet as soon as this week to discuss changing the charter rewritten under former socialist leader Hugo Chavez, who is still revered as the inspiration for the revolution that Maduro claims to lead. The opposition says the rewrite is meant to replace a critical congress and delay general elections.
+Maduro has presided over an increasingly autocratic regime that has imperiled the country's six-decade democracy and left the economy and society in shambles. The country has become engulfed in a political and economic crisis that has soldiers patrolling the streets and citizens stockpiling scarce food and water.
+The US had increased its pressure on Maduro's government ahead of the vote election, with President Donald Trump promising "strong and swift economic actions" if the vote took place.
+Bloomberg
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela's President Nicolas Maduro</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Treasury Department</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hugo Chavez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Maduro</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Monday.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

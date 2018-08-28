@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430443195452288</docid>
+  <date>05/08/2017</date>
+  <time>04:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/14/27/vic-driver-put-kids-lives-at-risk-court</url>
+  <title>Vic driver put kids' lives at risk: court</title>
+  <content>
+A Melbourne man has faced court with cuts on his forehead and a bruised eye after he allegedly drove at speed on a footpath near a school, narrowly avoiding children.
+Tyson Anthony Vidal, 34, is accused of driving a stolen car on the wrong side of the road at the Mornington Peninsula on Friday afternoon before a dramatic arrest at a petrol station in Clayton.
+Vidal faced Melbourne Magistrates' Court charged with seven offences, including driving on a footpath while children were in the area, endangering their lives.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mornington Peninsula</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tyson Anthony Vidal, 34</name>
+    <count>1</count>
+    <score>10</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vidal</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clayton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

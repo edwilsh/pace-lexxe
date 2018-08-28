@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441008815096408</docid>
+  <date>06/08/2017</date>
+  <time>21:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/blogs/andrew-bolt/newspoll-turnbull-more-popular-government-isnt/news-story/e5b5543ec179dcf93fe37e6eb6d2fe98</url>
+  <title>NEWSPOLL: TURNBULL MORE POPULAR, GOVERNMENT ISN'T</title>
+  <content>
+Voters just can't warm to Labor leader Bill Shorten. But they just can't vote for Malcolm Turnbull.
+This is the 17th Newspoll in a row that has the Government behind Labor:
+The federal government is struggling to reverse a damaging political slump, despite a significant boost in Malcolm Turnbull's personal standing, with the Coalition trailing Labor by 47 to 53 per cent in two-party terms.
+Mr Turnbull has widened his lead over Bill Shorten as preferred prime minister to reach his strongest position so far this year, backed by 46 per cent of voters compared with 31 per cent who favour the Opposition Leader.
+Pauline Hanson has been quiet lately - on holidays until recently - and it shows:
+Pauline Hanson's One Nation has suffered its second setback in consecutive Newspolls, with its primary vote slipping from 9 to 8 per cent amid questions over whether Queensland senator Malcolm Roberts renounced his British citizenship in time to -secure a valid election to the upper house.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Labour</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Pauline Hanson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Opposition Leader</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Newspolls</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pauline Hanson's One Nation</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Roberts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>TURNBULL MORE POPULAR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GOVERNMENT ISN'T</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Shorten</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411420784961896</docid>
+  <date>02/08/2017</date>
+  <time>02:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/technology/technology-news/japans-robot-run-hotel-is-still-a-bit-buggy-20170726-gxivfy.html</url>
+  <title>Japan's robot-run hotel is still a bit buggy</title>
+  <content>
+Photo: Andrew Masterson
+"Let me scan your passport," said the nice man in the foyer of Tokyo's Henn Na hotel. "The dinosaurs tend to read them backwards."
+The odd thing about this was not the dino reference, but the presence of the man himself.  - situated in Urayasu, on Tokyo's outskirts - markets itself as an almost entirely robot-run establishment, with human staff few in number and deployed only in emergency situations.Photo: Andrew Masterson
+Such as checking in, apparently. One day soon, some hotels will very likely be operated by artificial intelligence over the Internet of Things - but Japan's first stab at it falls conspicuously short of the mark.
+The robotic koi carp in a big tank in the foyer are, admittedly, pretty cool (even if two of them did appear to have died 24 hours later), and the pair of animatronic velociraptors at the check-in desk are certainly fun to watch.
+However, the lizards do nothing more than recite a script, demanding periodic guest inputs (passport, surname and so on) before finally spitting out a room key and wishing you all the best in Japanese, English and Mandarin. Questions are neither welcomed not acknowledged.
+Verbal interaction, however, is very much encouraged once guests reach their destination. Each room contains a talking egg called Tapia, which, says the guff, can do lots of things on command, including switch on the telly, adjust the airconditioning, relay weather and news, tell fortunes and play rock-paper-scissors.
+Sadly, interacting with Tapia was very much like talking to Siri's younger, dumber sibling. Most questions were met with the response, "I'm sorry, I don't understand", and it seemed absurdly pleased with itself when it managed to turn the TV on - an achievement undermined by the fact that it couldn't change channels.
+One day Henn Na will be recognised as a pioneering example of robotic hospitality - perhaps in the same way that Basil Fawlty is recognised as a human one.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tapia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Basil Fawlty</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Siri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo's Henn Na</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Henn Na</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Masterson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Urayasu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mandarin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

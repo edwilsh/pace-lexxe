@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416523206207018</docid>
+  <date>02/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/brisbane-traffic-trains-suspended-at-rocklea-station-as-truck-hits-crossing/news-story/e5fc76b6d22b888a6d115c0b956314fa</url>
+  <title>Trains suspended as truck hits crossing</title>
+  <content>
+COMMUTERS have been warned of delays on the roads and the rail network after a truck carrying a load of cotton reportedly collided with a rail bridge.
+A member of the public reported the incident on Sherwood Rd to police after cotton spilled across the road about 8am.
+Police have arrived on scene and diversions are in place.
+.
+
+A truck has become lodged under the rail bridge over Sherwood & Ipswich Rds. Extensive traffic delays. Watch for diversion directions.
+
+They have urged motorists to be mindful of delays and to not drive on the wrong side of the road to avoid the truck.
+
+Trains are suspended at Rocklea due to a bridge strike. Significant delays are expected on the Beenleigh, G.Coast, Airport & F.Grove lines
+
+Translink has warned commuters travelling on the Beenleigh and Gold Coast lines to expect delays of up to an hour.
+Both line are suspended.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Beenleigh</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sherwood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransLink</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>F.Grove</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich Rds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G.Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sherwood Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rocklea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

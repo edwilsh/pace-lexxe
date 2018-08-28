@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407125817582492</docid>
+  <date>01/08/2017</date>
+  <time>10:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/europes-economic-expansion-rolls-on/news-story/430e084b4bdc90c10d1e41b6e533b69b</url>
+  <title>Europe's economic expansion rolls on</title>
+  <content>
+Europe's economic expansion keeps rolling on and even picked up a little speed in the second quarter.
+The economy in the 19 countries that use the euro currency expanded by 0.6 per cent compared to the quarter before and by 2.1 per cent compared to a year earlier.
+The official figures announced on Tuesday compared with a 0.5 per cent quarterly expansion in the first quarter.
+The eurozone is being boosted by a growing global economy, buoyant consumer and business sentiment and massive monetary stimulus from the European Central Bank.
+The ECB has been reluctant to announce when it will dial back the stimulus in the form of bond purchases slated to run at least through year end.
+That's because annual inflation at 1.3 per cent remains below its goal of just under 2 per cent.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ECB</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

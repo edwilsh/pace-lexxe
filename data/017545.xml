@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429240604598798</docid>
+  <date>05/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/key-liberal-seat-voters-back-gay-marriage/news-story/687c41377b710d465af44b690d50585e</url>
+  <title>Key Liberal seat voters back gay marriage</title>
+  <content>
+A majority of voters in six seats held by Liberal MPs - whose positions on marriage equality are undeclared - support same-sex marriage and a free vote in parliament, according to new polling.
+However, Liberal voters in each seat are significantly less inclined to believe same-sex couples should be able to wed, or that the government should resolve the issue through a free parliamentary vote as soon as possible.
+The ReachTel poll, commissioned by activist group GetUp, comes as Liberal MPs prepare for a special partyroom meeting in Canberra on Monday to discuss a way forward on the issue.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liberal MPs</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ReachTEL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GetUp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

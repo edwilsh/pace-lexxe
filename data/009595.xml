@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412915433604884</docid>
+  <date>02/08/2017</date>
+  <time>08:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/sa-girl-critical-with-meningococcal/news-story/f112ecd826318d83998594ff43c34133</url>
+  <title>SA girl critical with meningococcal</title>
+  <content>
+A two-year-old Adelaide girl is in a critical condition after contracting meningococcal disease.
+SA Health says nine people who have been in close contact with the toddler are receiving precautionary antibiotics.
+The strain of the disease is yet to be determined.
+There have been 21 cases of meningococcal disease in South Australia so far this year, compared to 13 at the same time last year.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SA Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

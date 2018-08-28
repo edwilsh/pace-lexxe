@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405833032402346</docid>
+  <date>01/08/2017</date>
+  <time>05:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/real-estate/queensland/townsville/rise-in-prices-tipped-for-townsville/news-story/e3e6413828ea553ac6a5b4303d5c5307</url>
+  <title>Rise in prices tipped for Townsville - realestate.com.au</title>
+  <content>
+Real estate expert and Hotspotting.com.au founder Terry Ryder
+
+A LEADING real estate -expert says an increase in sales volumes in Townsville is pointing to a rise in prices.
+Hotspotting website founder Terry Ryder's Winter Price Predictor Index is forecasting that property prices in Townsville are about to start steadily increasing.
+In the report Mr Ryder classified Townsville's property market as "steadily rising", while he also included Townsville in the top 10 growth areas in the country.
+Mr Ryder said in his report that Townsville now had several suburbs with steadily rising markets. "Townsville is one of the nation's comeback markets," the report stated.
+"It is showing increasing signs of recovery from years in which the usually strong local economy struggled, thanks to the downturn in the resources sector and the closure of the city's nickel refinery.
+"But there is mounting evidence of a revival, which is likely to gather pace as major events (such as the location of the headquarters for the $20 billion Adani mining project) start to take shape."
+Mr Ryder warned against using median house prices as being indicative of property value as they were prone to creating statistical absurdities.
+Median house prices could be rising while at the same time property values might be falling as they often recorded the type of property selling and not the movement in values, he said.
+He said the Price Predictor Index was based on sale volumes. Mr Ryder has also named Townsville as one of the top 10 places in the country to invest.
+Townsville REIQ zone chairman Damien Keyes said when the market was low and prices had dropped was the perfect time to start buying for investors.
+"Prices are soft and the majority of people stop buying and that's when you really want to buy," Mr Keyes said.
+"You can buy and put some improvements on the property but you don't have to completely transform it.
+"Then put a tenant in it and it looks after itself until the market does a quantum jump.
+"Our population hasn't taken too much of a battering, we still have the biggest population outside of the southeast and sales volumes have increased in the last couple of months.
+"It's too early to say it's turned but I think we have every right to expect more of a movement into the recovery stage next year."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adani</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Price Predictor Index</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Keyes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hotspotting</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terry Ryder's Winter Price Predictor Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terry Ryder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Damien Keyes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ryder</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>8</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Townsville REIQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

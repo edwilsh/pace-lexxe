@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437057445146556</docid>
+  <date>06/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/rugby-league/rugby-league-match-centre/nrl-round-22-penrith-panthers-v-wests-tigers-20170806-gxqa6m.html</url>
+  <title>NRL Round 22: Penrith Panthers v Wests Tigers</title>
+  <content>
+We're in for a little bit extra, this afternoon.
+Ivan Cleary's Tigers face his former side for the first time since a mid-season switch.
+
+He's still got somewhat of a connection to the Panthers through son Nathan, who still lives under his own roof!
+
+There's been all sorts of chat about the match-up in the days leading up to this clash, but there's no time for chat now (other than my own ramblings), as the ball is launched toward the Tigers to kick this thing off.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ivan Cleary's Tigers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nathan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tigers</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NRL ROUND 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Panther</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wests Tigers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Penrith Panthers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

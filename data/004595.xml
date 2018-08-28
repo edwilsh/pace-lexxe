@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405656938740584</docid>
+  <date>01/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/14/24/ragdoll-evidence-given-at-murder-trial</url>
+  <title>'Ragdoll' evidence given at murder trial</title>
+  <content>
+A woman fell to the ground like a ragdoll after her partner slammed her to the floor outside their Sydney unit, a neighbour has told a jury.
+Jamie Christopher Walker, who lived with Linda Locke at Quakers HIll, has pleaded not guilty in the NSW Supreme Court to murdering her in April 2015.
+Giving evidence on Tuesday, Laslo Hartle said that early on April 27 he saw Ms Locke run out of the unit and repeatedly loudly bang the security door open and shut, saying: "At least the police will come if I keep doing this."
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Laslo Hartle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jamie Christopher Walker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 27</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ms Locke</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Supreme Court</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ragdoll</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Quakers HIll</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 2015</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Linda Locke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

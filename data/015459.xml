@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424644989512087</docid>
+  <date>04/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/personal-finance/surging-electricity-prices-could-shock-investors-this-earnings-season-20170804-gxp98r</url>
+  <title>What could bite you this earnings season </title>
+  <content>
+If you are hoping to jump in on a "contrarian" trade on the out-of-favour ASX retail sector, that ship looks to have sailed.
+The ASX 200 retailing index has jumped by more than 10 per cent over the past two months or so, against the broader index's flat performance, as investors rushed to take advantage of what they thought were .
+And that headline number hides some even more impressive moves.
+Since June 8 - which was a bit of a turning point for pessimism - Harvey Norman shares are up 24 per cent and JB Hi-Fi's are up 22 per cent. And it's not just the retailers: independent grocer Metcash has surged close to 30 per cent in less than two months.
+
+It's worth noting that for both Harvey and JB the share price jumps can be wholly explained by a move higher in their valuations. That is, investors have shown they are prepared to pay more for the same expected earnings, which supports the notion that the stocks are rebounding as a result of some of that "Amazon discount".
+
+Stepping back, and it's been around 12 months since rumours started circulating in earnest that Amazon had eyes on the Australian market, and the online shopping behemoth has certainly upset the Australian retailing applecart. The public has certainly taken notice. 
+Web searches for "Amazon" have climbed by over a third over the past 12 months, according to Google trends, which measures the relative interest in a topic over time. Tracking in the opposite direction have been the listed retailers, which as a group have slumped around 11 per cent, even after the recent gains.
+That said, . A cautious consumer had already soured the mood, with a litany of chains announcing they are going out of business this year- even as the company itself looks for a buyer.
+Despite that overall gloomy picture, so much depends on the individual company. Deutsche Bank retail analysts, for example, suggest Harvey Norman and JB Hi-Fi should both report "strong earnings" when they front investors on August 31 and August 14, respectively. They see Harvey lifting underlying earnings per share by 12 per cent over the 2017 financial year. They forecast JB will lift its EPS by 22 per cent. To justify their recent share price moves, though, they better do that and more.
+
+Solid quarter result
+
+More positively, Australian Bureau of Statistics data on retail spending, released on Friday morning, show retail volumes "boomed" over the June quarter, as JP Morgan economist Ben Jarman put it. Over the three months, sales were up 1.5 per cent against the previous quarter, when volumes could only inch up 0.2 per cent. ANZ economist Jo Masters called it a "super solid" result.
+Yet neither are getting carried away. They both point out that heavy discounting helped flatter the result, as prices fell 0.1 per cent over the quarter. That "corroborates the very competitive operating environment being cited by major retailers and in the business surveys," Jarman says, while ANZ's Masters noted that "international competition continues to weigh" on prices.
+While the consumer should provide nice support to the economy over the three months to June, the outlook looks less rosy for the retailers, Jarman and Masters agree.
+
+"Households are income constrained, face higher energy and mortgage costs, and have less flexibility to allow the saving rate to decline after a near 5 percentage-point drop in the last few years," Jarman sums up.
+High energy prices could shock
+
+One of those factors quoted by Jarman could constrain more than just consumers. High electricity prices "will impact companies across the market", Citi analyst Craig Woolford writes. He reckons it's "a factor to watch this reporting season".
+The central banks researchers point out that electricity prices are rising at a quarterly rate of 7.5 per cent at the moment.
+
+"Given the sharp increase in prices over the past six months, we expect commentary from companies about strategies to mitigate the cost increase over the next two years," Woolford says.
+Companies to watch include data-centre operator NextDC, where higher energy bills could potentially wipe 14 per cent from the companies pre-tax profit over the 2018 financial year. Poultry firm Inghams is also a heavy user of electricity, the Citi analysts say, and higher prices could cut 12 per cent off the company's FY18 pre-tax earnings.
+Other companies to watch are retirement village operator Asaleo Care, packaging firm Orora, explosives manufacturer Orica, and the supermarket owners, Woolworths and Wesfarmers, where the hit to pre-tax earnings for the next financial year range around the 6 per cent mark.
+Woolford notes that all of the companies mentioned above have highlighted ways they are or could offset the increased energy bill, including cost savings programs, electricity price hedges or longer-term contracts that are set at lower prices, or the potential to pass on the higher costs to their consumers.
+
+And it's not all bad news for listed companies of course. Utilities such as AGL benefit from higher energy prices. The bad news is that Citi analysts reckon that's all in the share price already after a recent run-up. Origin Energy has a relatively smaller earnings benefit.
+This reporting season it's what you weren't expecting, or what you were sure of that turned out to be wrong, that could bite you. Whether retail stocks can follow through on their recent ride higher fits the latter description, while energy bills might fit the former.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ingham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JB</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metcash</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NextDC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolford</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvey</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Masters</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Craig Woolford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JB Hi-Fi</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jarman</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wesfarmers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvey Norman</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ's Masters</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Asaleo Care</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JP Morgan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>August 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 31</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Orora</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Orica</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Origin Energy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AGL</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ben Jarman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jo Masters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

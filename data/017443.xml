@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428716618582090</docid>
+  <date>04/08/2017</date>
+  <time>21:58</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/traffic-problems-could-continue-after-m1-acid-tanker-explosion-20170804-gxpxic.html</url>
+  <title>Traffic problems could continue after M1 acid tanker explosion</title>
+  <content>
+Traffic problems could continue on the M1 motorway in southeast Queensland during the weekend after a tanker hauling 15,000 litres of hydrochloric acid exploded into flames.
+Authorities say it is a miracle no one was harmed when the truck caught fire on the motorway at Loganholme about 8.30am on Friday, shutting down the major Brisbane and Gold Coast link and causing a kilometre-wide exclusion zone to be established.Photo: Too Easy Towing
+The charred wreckage of the chemical truck was cleared from the motorway on Friday evening and traffic slowly started flowing after two southbound and all northbound lanes were reopened.
+A damaged southbound lane remained closed and it may be some time before conditions return to normal, with police warning of significant delays on Friday night.
+Buses travelling in both directions along the motorway were running up to an hour late because of the disruption.
+It's expected engineers will inspect the road before it's given the all clear but police were unsure when that would happen.
+The owner of the truck, Coogee Chemicals, had sent an incident response team to assist emergency services and said it was "relieved" no one was injured.
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>M1</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Easy Towing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coogee Chemicals</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Loganholme</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

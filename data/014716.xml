@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422750908905022</docid>
+  <date>03/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/major-police-operation-closes-boronia-rd/news-story/d21dec5213bbbfe81ad3fd533bc6c54a</url>
+  <title>Police swarm Boronia property</title>
+  <content>
+A MAJOR police operation at a Boronia property has closed a busy thoroughfare.
+Boronia Road has been closed between Scoresby Road and Dorset Road, as part of an ongoing police incident.
+The incident appears to be in the same area where a siege occurred earlier this week.
+Police say there is no threat to public safety.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Boronia Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dorset Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boronia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Scoresby Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

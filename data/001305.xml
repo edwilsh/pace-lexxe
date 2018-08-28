@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398909545001636</docid>
+  <date>31/07/2017</date>
+  <time>02:18</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/no-jail-time-tinder-date-slasher/news-story/9c4e3ba77fc11f4c64b602ed892256a4</url>
+  <title>No jail time Tinder date slasher</title>
+  <content>
+A woman who slashed her Tinder date with a kitchen knife after she found out he was already in a relationship has avoided spending time behind bars.
+Alana Rose Jones, 26, was sentenced in the Brisbane District Court on Monday to 18 months' jail with immediate parole after pleading guilty to one count of wounding.
+The court heard Jones attacked the man with the knife after answering text messages from his girlfriend while he was passed out.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane District Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Alana Rose Jones, 26</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jones</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tinder</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

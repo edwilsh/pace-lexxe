@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415191766320868</docid>
+  <date>02/08/2017</date>
+  <time>17:29</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/trump-signs-flawed-russia-sanctions-bill/news-story/6b2c8ae807da2053e34e5d4027ef1e09</url>
+  <title>Trump signs 'flawed' Russia sanctions bill</title>
+  <content>
+Roberta Rampton and Patricia ZengerleAssociated Press
+
+Share
+
+US President Donald Trump has grudgingly signed into law new sanctions against Russia that Congress had approved overwhelmingly last week, criticising the legislation as having "clearly unconstitutional" elements.
+After signing a bill that runs counter to his desire to improve relations with Moscow, and which also affects Iran and North Korea, the Republican president laid out a lengthy list of concerns.
+"While I favour tough measures to punish and deter aggressive and destabilising behavior by Iran, North Korea, and Russia, this legislation is significantly flawed," Trump said in a statement announcing the signing.
+The Republican-controlled Congress approved the legislation by such a large margin on Thursday that it would have thwarted any effort by Trump to veto the bill.
+House Democratic leader Nancy Pelosi expressed concerns after Trump's statement.
+"President Trump's signing statement raises serious questions about whether his administration intends to follow the law, or whether he will continue to enable and reward Vladimir Putin's aggression," she said.
+The legislation has already provoked countermeasures by Russian President Vladimir Putin, who has ordered big cuts to the number of staff at the US diplomatic mission to Russia.
+Congress approved the sanctions to punish the Russian government over interference in the 2016 presidential election, annexation of Ukraine's Crimea and other perceived violations of international norms.
+Trump said he was concerned about the sanctions' effect on work with European allies, and on American business.
+
+"My administration ... expects the Congress to refrain from using this flawed bill to hinder our important work with European allies to resolve the conflict in Ukraine, and from using it to hinder our efforts to address any unintended consequences it may have for American businesses, our friends, or our allies," he said.
+The president also complained about what he said were "clearly unconstitutional provisions" in the legislation relating to presidential powers to shape foreign policy.
+The new sanctions measure, the first major foreign policy legislation approved by Congress since Trump took office in January, includes a provision allowing Congress to stop any effort by the president to ease existing sanctions on Russia.
+Trump has long said he would like improved ties with Russia. But any such efforts by his administration have been hamstrung by findings that Russia interfered to help the Republican against Democratic presidential candidate Hillary Clinton.
+In a second statement on the legislation, Trump said that, "Despite its problems, I am signing this bill for the sake of national unity."
+"It represents the will of the American people to see Russia take steps to improve relations with the United States," he added.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ukraine's Crimea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Nancy Pelosi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Russian President Vladimir Putin</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ukraine</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Patricia ZengerleAssociated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roberta Rampton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Republicans</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Republican-controlled Congress</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>8</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>House Democratic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vladimir Putin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

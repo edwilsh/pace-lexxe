@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414684960169081</docid>
+  <date>02/08/2017</date>
+  <time>15:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/1-percent-salary-at-every-age-2017-8</url>
+  <title>How much money you need to earn to be in the top 1% at every age</title>
+  <content>
+Income and wealth inequality in the US have gotten steadily worse over the past decade.
+
+As the country's richest get even richer and the share of people below the poverty line grows, America's middle class . A  from the University of Chicago's Booth School of Business found the bottom 50% of Americans saw zero income growth over the last 35 years.
+
+One way to understand that change is to analyse what annual salary people currently need to make in order to be in the top 1% of earners in their age group.
+
+Business Insider used recent US Census data to determine that breakdown. At age 25, you'd have to be earning $US116,000 a year to be in the top 1% of earners. By age 65, that number rises to $US473,000.
+
+Here's the full spread:
+
+In our calculations, Business Insider analysed data from the
+, an annual survey run by the US Census Bureau that aims to interview about 1% of all households about various economic, demographic, social, and housing characteristics.
+
+We also relied on individual people's responses from the , which allowed us to estimate the cutoffs for being in the top 1% of earners among  for each age in 2015.
+
+It's worth noting that this approach has its limits - surveys like the ACS have been found to have difficulty characterising people with extremely high incomes, and some researchers prefer to use alternate forms of data, such as tax records, when studying those at the top of the income and wealth distributions.
+
+Being in the top 1% of incomes also doesn't necessarily mean someone is in the top 1% of total wealth, since wealth takes into account a variety of sources. Still, the large sample size of the ACS gives us a fairly good idea of what it takes to reach the top 1% of earners - and shows just how rich "rich" really is.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US Census Bureau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Census</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US116,000</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>University of Chicago</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Booth School of Business</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACS</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US473,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

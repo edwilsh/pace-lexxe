@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431078850617528</docid>
+  <date>05/08/2017</date>
+  <time>07:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/firefighters-respond-to-a-blaze-on-russell-and-lonsdale-streets/news-story/a15843d8b62426b60d04c4f166070120</url>
+  <title>Firefighters respond to CBD blaze</title>
+  <content>
+FIRE services have been called to the corner of Russell St and Lonsdale St in the CBD.
+Firefighters are in the area, but the extent of the fire is not yet known.
+The busy intersection is home to a number of restaurants and a prominent Westpac branch.
+The Metropolitan Fire Brigade have been contacted for comment.
+More to follow.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Russell St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Lonsdale St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

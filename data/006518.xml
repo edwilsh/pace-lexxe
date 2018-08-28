@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409677028208597</docid>
+  <date>01/08/2017</date>
+  <time>20:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/personal-info-of-650000-voters-discovered-on-poll-machine-sold-on-ebay/</url>
+  <title>Personal Info Of 650,000 Voters Discovered On Poll Machine Sold On eBay</title>
+  <content>
+When 650 thousand Tennesseans voted in the Memphis area, they probably didn't expect their personal information would eventually be picked apart at a hacker conference at Caesars Palace Las Vegas.
+
+The strength of the US voting system, according to former FBI director James Comey, is that it's "clunky" - every state and often every district can choose its own setup and whether to use paper or electronic machines. And there are over a dozen different manufacturers supplying voting machines to electoral districts. While that clunkiness helps prevent large-scale voter hacking, it provides more opportunities for hackers to access polling data.
+
+When US government workers decommission old voting equipment and auction them off to the public, they're supposed to wipe voter information from the device's memory.
+
+But hackers given access to an ExpressPoll-5000 electronic poll book - the kind of  on Election Day - have discovered the personal records of 654,517 people who voted in Shelby Country, Tennessee.
+
+It's unclear how much of the personal information wasn't yet public. Some of the records, viewed by Gizmodo at the Voting Village - a collection of real, used voting machines that anyone could tinker with at the DEF CON hacker conference in Las Vegas - include not just name, address and birthday, but also political party, whether they voted absentee, and whether they were asked to provide identification.
+
+Election Systems and Software (ES&S), which makes the ExpressPoll-5000, is one of the most popular e-poll book manufacturers in the US, said Barbara Simons, who sits on the board of , a nonpartisan research group that advocates for voting-machine security. There's no formal auditing process for how many of the machines are properly wiped, and thus no way to estimate how many machines have been sold that inadvertently contain voter records.
+
+But the fact that only a handful of such machines were made available at DEF CON and one of them had personal records that were so easily available doesn't inspire confidence, said Matt Blaze, a renowned security researcher who has authored several studies on voting machine security and who helped organise the village.
+
+"How many other of these machines that also have data left on them have been sold to who knows who? There's no way of knowing," Blaze told Gizmodo.
+
+After being sold at government auction, many machines are later resold, often for a few hundred dollars. Harri Hursti, a voting machine expert who  a critical flaw in Diebold voting systems, helped coordinate the machines' purchase for the conference by scouring eBay. The one seller he visited in person before buying had filled an entire warehouse with voting machines bought at auction, he said.
+
+Anyone with access to such a device - whether on Election Day or while playing with an ExpressPoll-5000 at home - would need only moderate computer skills to check for those records. They're stored on a removable memory card. Anyone who pulls out the drive and reads the memory card with their computer will see the drive's contents, including the giant database of personal records, if it hasn't been wiped.
+
+Josh Palmer, the security researcher who first discovered the database, said that once he held the memory card and a reader that connected to his laptop, it was simply a matter of finding and loading the giant file.
+
+"It's just on the drive," Palmer said. "There was no password on it." ES&S "could have encrypted it" to at least give a baseline protection for voters, Palmer said. "They chose not to encrypt it."
+
+ES&S didn't respond to requests for comment.
+
+Soon after Palmer's discovery, the conference confiscated the card to protect the voters included in the database. "We're notifying the county and letting them know of a potential data breach," Blaze said.
+
+A public relations consultant who represents Shelby County Elections Commission, Suzanne Thompson Cozza, said that the commission is "aware of the allegations about the happenings at DEF CON, and we are currently looking into it," but declined to elaborate.
+
+The privacy breach, however, isn't the full extent of problems with the ExpressPoll-5000. Even though the device doesn't tally actual vote results, and instead simply registers voters at a polling place, a compromised machine's lack of security could be used to disenfranchise tens or hundreds of thousands of voters on voting day.
+
+Electronic poll books are often simply given to election officials for safekeeping. There's no comprehensive look at how effectively those officials keep their machines, but some store them at home, and it's clear that they're not always kept secure. In April, before the runoff vote in Georgia's special congressional election, a  from the ute of a poll manager while he shopped for groceries.
+
+If someone were to covertly access the memory card before the election, they could mark some or all users as having already voted absentee, preventing them from casting their actual vote. "I could write a script to do that in seconds," Palmer said.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Memphis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barbara Simons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>eBay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Georgia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Blaze</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ExpressPoll-5000</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Voting Village</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caesars Palace Las Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palmer</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Comey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tennessee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suzanne Thompson Cozza</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Election Day</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harri Hursti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shelby Country</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Diebold</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Voters Discovered On Poll Machine Sold On eBay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shelby County Elections Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tennessean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Josh Palmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

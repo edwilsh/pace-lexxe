@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410467302206333</docid>
+  <date>01/08/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/leadership/company-culture/australians-think-fair-pay-for-ceos-is-about-300000-20170801-gxnhpv</url>
+  <title>Can you guess how much Australians think CEOs should be paid?</title>
+  <content>
+Australians have a poor view of the ethical standards of large corporations and their top managements, particularly in the banking and finance sector, an annual survey by the Governance Institute of Australia has found.
+ continues to be a top issue for most Australians, with respondents also flagging corruption, tax avoidance and misleading or deceptive advertising by companies as other major grouses.
+More than three-quarters of respondents counted CEO pay of $3 million - about 50 times the average annual income in Australia - as unethical.
+Even a $660,000 CEO pay packet was considered unethical by more than half the 1,000-plus survey participants.
+
+Most thought $300,000 was acceptable.
+
+Executive salaries and bonuses were considered the top issues of ethical importance for the banking & finance sector, rating even higher than topical matters such as the treatment of customers and insufficient regulation.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Governance Institute of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEOs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

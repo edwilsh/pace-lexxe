@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405360585993388</docid>
+  <date>01/08/2017</date>
+  <time>03:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/13/15/depraved-vic-child-porn-user-jailed</url>
+  <title>'Depraved' Vic child porn user jailed</title>
+  <content>
+A Victorian man who posed as a young girl online and created "graphic and disturbing" sexual fantasies has been jailed for nine months.
+Layne Pearce, 38, was also found with more than 11,000 child porn files on several computers and devices, including "depraved" images, some featuring infant children, Melbourne County Court judge Mark Gamble said on Tuesday.
+While imposing a jail sentence, the judge noted Pearce's "fragile mental state".
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pearce</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Layne Pearce, 38</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne County Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mark Gamble</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

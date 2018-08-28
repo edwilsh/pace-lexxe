@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405656938740548</docid>
+  <date>01/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/kangaroo-attacks-man-on-gold-coast-golf-course-mauls-woman-who-tried-to-help-20170801-gxmysq.html</url>
+  <title>Kangaroo attacks man, mauls woman who tried to help</title>
+  <content>
+A woman has been treated in hospital after she was attacked by a kangaroo on a Gold Coast golf course.
+Paramedics said the woman, believed to be in her 50s, had gone to the aid of a man who was being attacked on the driving range.Photo: Mark Graham
+Crews were called to the driving range at the prestigious Links Hope Island golf course about 8.10am on Tuesday.
+Queensland Ambulance Service acting senior operations supervisor Bill Houghton said the woman suffered a deep cut to the back of her head and minor cuts and bruises to her back and hands.
+"The crew reported on the scene that the kangaroo initially approached  a male who was on a driving range," he said.
+"He tried to attack the male.
+"The female went across to assist the gentleman that was being attacked and the kangaroo retaliated and attacked the female patient."
+She was taken to the Gold Coast Private Hospital in a stable condition and released later in the day.
+The man escaped injury.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Links Hope Island</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bill Houghton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast Private Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mark Graham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

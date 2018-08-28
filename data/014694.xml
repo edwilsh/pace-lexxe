@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423438103683604</docid>
+  <date>04/08/2017</date>
+  <time>01:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/11/20/parliament-makes-return-from-winter-break</url>
+  <title>Parliament makes return from winter break</title>
+  <content>
+THE WEEK AHEAD FOR FEDERAL PARLIAMENT:
+* First sitting since the winter break.
+* First order of business in the Senate will be referrals of senators to the High Court over their dual citizenship and eligibility to sit.
+* The House of Representatives will debate laws to strengthen requirements for citizenship and deliver the remainder of the government's corporate tax cut plan.
+* Liberal partyroom meeting on same-sex marriage on Monday, followed by discussion in coalition joint partyroom on Tuesday. Labor is open to bringing on debate and a vote on a bill immediately, even if the bill is proposed by a Liberal.
+* Senate inquiry report on university funding reforms due on Wednesday, which will inform debate and crossbench talks on passing the bill.
+* The government is expected to make progress in talks with crossbenchers about media reforms listed for debate on Wednesday.
+
+Related Articles
+
+* Labor is seeking a cross-party Senate inquiry into Murray Darling water rorts and the disallowance of building code changes.
+* Question time will be dominated on the government side by national security, power prices and the economy. Labor will pursue inequality, tax fairness and division in government ranks.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WEEK AHEAD FOR FEDERAL PARLIAMENT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Senate</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>House of Representatives</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>High Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murray Darling</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

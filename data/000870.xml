@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398802170817681</docid>
+  <date>31/07/2017</date>
+  <time>01:53</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/07/31/man-holding-baby-allegedly-punched-face-nice-airport-employee</url>
+  <title>Man holding baby allegedly punched in face by Nice airport employee</title>
+  <content>
+A staff worker at Nice airport has punched a British traveller who was complaining about a flight delay.
+
+35 MINS AGO  UPDATED 12 MINS AGO
+
+A British man holding a nine-month-old baby has been punched in the face by a member of staff at Nice Airport in France after remonstrating over a 14-hour delay.
+
+Witness Arabella Arkwright captured the blow in a picture circulated online.
+
+A spokesman for the airline the man was flyinging with, British budget carrier easyJet, said the person in the photograph is believed to work for Nice Airport's special assistance provider Samsic.
+
+"It was completely unprovoked," said Mrs Arkwright, who was returning from holiday with her husband and children.
+
+"This guy literally smirked, smiled as if, excuse my French, basically 'f*** you,' and then whack. It was a proper whacking," she said.
+
+EasyJet has apologised for the delay to flight EZY2122 from Nice to London Luton because of a "technical issue with the aircraft".
+
+A spokesman for the airline said: "EasyJet is very concerned to see this picture and can confirm the person in the photo is not an easyJet member of staff and they do not work for easyJet's ground handling agents in Nice."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nice</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London Luton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nice Airport</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mrs Arkwright</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EZY2122</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EasyJet</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Arabella Arkwright</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 12 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

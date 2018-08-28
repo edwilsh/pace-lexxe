@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412314138172285</docid>
+  <date>02/08/2017</date>
+  <time>06:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/brand/rear-window/abbott-campaign-goes-awry-in-adelaide-20170802-gxnvku</url>
+  <title>Abbott campaign goes awry in Adelaide</title>
+  <content>
+Coopers beer, power blackouts, you'd think the two concepts would go together like peas in a pod.
+But unfortunately for Tony Abbott, who tried to link the two after a site visit to the Coopers Brewery in Adelaide, it wasn't to be. The former prime minister, you see, found the one business not crippled by last year's power outages.
+Not that anyone seems to have told him. "Coopers is an iconic Australian business that needs affordable reliable power,"  above a photo of him in high-vis at the Coopers power plant.
+As this paper's South Australian correspondent Simon Evans , as violent storms and 80,000 lightning strikes plunged Adelaide into darkness, things at Coopers continued with little fuss. That's because the brewer has since 2003 had a $7 million natural gas fired power plant installed. It's owned and operated by AGL, and when things get dicey, as they did in September last year, the plant merely goes into "island" mode. As SA Labor MP Chris Picton pointed out in response, the brewer is a net producer of electricity: when the plant was installed it was exporting 18,000MWh into the grid annually, needing only 6000MWh a year itself.
+
+Of course, not all businesses in SA are so lucky, with some in the metals and mining industry experiencing  from a sudden loss of power. You'd think Abbott's team could have arranged for him to visit one of those. Mistakes like that can't be good for the come-back campaign!
+</content>
+  <sindexList>
+  <sindex>
+    <name>MWh</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abbott</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Simon Evans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coopers</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA Labor MP Chris Picton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Abbott</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Coopers Brewery</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AGL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

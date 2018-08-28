@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406223874432891</docid>
+  <date>01/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/australian-stocks-rally-heres-what-you-need-to-know-2017-8</url>
+  <title>AUSTRALIAN STOCKS RALLY: Here's what you need to know</title>
+  <content>
+Australian shares closed higher.
+
+Today's scoreboard:
+
+ASX 200: 5,772.40 +51.81            +0.91%
+
+All Ordinaries:  5,820.60 +46.69    +0.81%
+
+AUD/USD:      0.8008 +0.0005        +0.06%
+
+Mining and bank stocks pushed the local market higher.
+
+BHP added 1.2% to $26.16 and Fortescue Metals 1.4% to $5.82.
+
+Among financial stocks, the Commonwealth was up 0.9% to $84.54, the Bank of Queensland 2% to $12.30 and Macquarie 1.1% to $86.82.
+
+Navitas fell 10% to $4.47 after the company posted a 11% fall in profit to $80.3 million.
+
+Webjet fell 3.6% to $11.10. There was no news to explain the fall.
+
+Top stories:
+
+1.  The RBA today: "The higher exchange rate is expected to contribute to subdued price pressures in the economy. It is also weighing on the outlook for output and employment."  The retail sector problems also rated a mention.
+
+2.  The pioneering freelancing and crowdsourcing marketplace, has been hit by a downturn in its escrow business in China. Freelancer shares fell 23% to $0.50.
+
+3.  The market leading Australian media monitoring group has issued another profit warning after deciding to fully write down the value of its troubled content marketing business. Isentia shares fell 20% to close at $1.76.
+
+4.  Most Australians think $3 million is unethical but $300,000 might be about right.
+
+5.  The owner of the Penfolds and Wolf Blass brands says it continues to have a positive outlook for the imported wine market in China. Treasury shares added 4.7% to close at $12.76.
+
+6.  The number of fintech startups in Australia has increased to 579 companies from less than 100 in 2014, according to a study by KPMG.
+
+7.  Credit Corp Group, the buyer of debt from those who fall behind in loan repayments, posted a 20% rise in net profit after tax to $55.2 million for the year to June. Its shares closed at $18.09, up 6.6%.
+
+8.  The Turnbull government has called in the communications umpire.
+
+9.  Sydney house price growth could be about to slow.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bank of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRALIAN STOCKS RALLY</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue Metals 1.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Isentia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wolf Blass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200: 5,772.40 +51.81            +0.91</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie 1.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Navitas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KPMG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Corp Group</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ordinaries:  5,820.60 +46.69    +0.81</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUD/USD:      0.8008 +0.0005        +0.06</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

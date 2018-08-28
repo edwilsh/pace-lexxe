@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429579907018884</docid>
+  <date>05/08/2017</date>
+  <time>01:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/magnitude-60-quake-hits-philippines/news-story/e353dbeea6a9d2b2fb2089fecc727084</url>
+  <title>Magnitude 5.8 quake hits Philippines</title>
+  <content>
+A magnitude 5.8 earthquake has struck south Mindanao island in the Philippines, the US Geological Survey said.
+The quake's epicentre was 34km east of the city of General Santos, which has a population of almost 600,000.
+The USGS said the quake was 74km deep, but European quake agency EMSC put it at only 10km deep, which would increase its impact.
+The temblor, initially reported as a magnitude 6.0, struck at 8:30am on Saturday.
+A magnitude 5.8 earthquake is considered moderate and is capable of causing considerable damage.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>General Santos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>USGS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Geological Survey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EMSC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mindanao</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

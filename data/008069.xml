@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411553928950124</docid>
+  <date>02/08/2017</date>
+  <time>03:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4828859/police-uncover-945k-hydro-house/?cs=2452</url>
+  <title>Police uncover $945k hydro house</title>
+  <content>
+Police uncover $945k hydro house
+
+exit
+
+Police are in the process of dismantling a hydro house filled with about 300 cannabis plants at West Wollongong.
+Officers raided the Valetta Street home on Wednesday morning, finding 297 cannabis plants inside.
+The plants, of varying stages in growth, were discovered in eight rooms and have an estimated street value of about $945,000.
+Police investigations are ongoing. 
+A neighbour told the Mercury he was surprised by the large police presence in what was a typically-quiet cul-de-sac.
+''It's very, very quiet,'' Wolfgang Wendler, who lives across the road from the house at the centre of the raid, said. 
+''These people over there, I've never actually met them but they lived a very quiet life by the looks of it.''
+''There seemed to be a few young people who lived there.
+''I'm shocked because I haven't seen sort of unusual traffic there, people coming and going.''
+
+Illawarra Mercury
+</content>
+  <sindexList>
+  <sindex>
+    <name>Valetta Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Illawarra Mercury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wolfgang Wendler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>West Wollongong</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

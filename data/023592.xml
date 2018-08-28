@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443968047605056</docid>
+  <date>07/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/18/58/vic-mp-s-leave-of-absence-due-to-illness</url>
+  <title>Vic MP's leave of absence due to illness</title>
+  <content>
+Victoria's Minister for Women Fiona Richardson says she is taking a short leave of absence amid treatment for a "serious illness".
+Ms Richardson says she became unwell in June, has undergone successful surgery and expects to return to work in late August.
+Health Minister Jill Hennessy will take over Ms Richardson's portfolios of Women and the Prevent of Family Violence.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Women Fiona Richardson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria's Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health Minister Jill Hennessy</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ms. Richardson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic MP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Prevent of Family</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

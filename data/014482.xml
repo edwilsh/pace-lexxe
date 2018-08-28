@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422665009557852</docid>
+  <date>03/08/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/brisbane-traffic-lanes-closed-on-pacific-motorway-after-crash-20170803-gxp2hh.html</url>
+  <title>Lanes closed on Pacific Motorway after crash</title>
+  <content>
+Commuters have been warned to expect delays after lanes were closed on the Pacific Motorway northbound following a crash.
+A Queensland Ambulance Service spokeswoman said paramedics witnessed the crash, about 7.30am near the Kessels Road on ramp at Macgregor.Photo: Jorge Branco
+According to the government-run QLD Traffic website, the right and left lanes were blocked as crews worked to clean oil from the road.
+Paramedics did not treat any patients.
+A Queensland Fire and Emergency Services spokeswoman said two crews were on scene.
+She said there was a second crash southbound in the same area.
+PACIFIC Mwy NB crash right lane & left lanes blocked. Crews cleaning oil from road. Towing on scene removing car. Heavy delays.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lane</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Macgregor.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jorge Branco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kessels Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QLD Traffic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Motorway</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>PACIFIC Mwy NB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

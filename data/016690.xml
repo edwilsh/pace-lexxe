@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426311436853512</docid>
+  <date>04/08/2017</date>
+  <time>12:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/clive-palmers-application-to-have-plane-ownership-trial-adjourned-fails/news-story/1b982429cc9b5f5589d74e0ea7205e2b</url>
+  <title>Palmer's bid to delay plane trial fails</title>
+  <content>
+CLIVE Palmer's bid to reclaim a $5 million private jet will go to trial later this month despite the former politician's attempts to delay the case.
+Queensland Nickel's general liquidators have been holding the Cessna Citation X hostage at a Gold Coast Airport hangar for more than a year while a Supreme Court battle is ongoing over the ownership of the plane.
+Mr Palmer asserts he is the true owner of the plane and a trial was set down to begin on August 17.
+But Mr Palmer's lawyers made an application yesterday to adjourn the trial, arguing there was overlap with a multimillion-dollar lawsuit being launched by the special government-appointed liquidators.
+Justice John Bond said the adjournment was "not justified" and ordered the trial to go ahead.
+Mr Palmer was also ordered to pay the liquidators' costs.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr. Palmer</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Nickel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cessna Citation X</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Justice John Bond</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Palmer</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Palmer</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast Airport</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>August 17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438045287633256</docid>
+  <date>06/08/2017</date>
+  <time>10:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/brisbanes-citycycle-bike-hire-scheme-tracking-for-record-usage-in-next-financial-year/news-story/4cbee9d9fba7a62bbd19c81b2357cc22</url>
+  <title>Council claims spike in bike scheme usage</title>
+  <content>
+BRISBANE City Council insists the often maligned CityCycle scheme is far from washed up, with a record number of trips being taken in July.
+The bright yellow bikes were checked out more than 57,000 times last month, in a promising start to a financial year, on the back of booming numbers for the scheme.
+The 2016-17 financial year saw a 35 per cent increase in the number of trips taken, to 522,388.
+That was also a 70 per cent increase on the 307,058 users two years ago.
+The CityCycle scheme has been criticised, because of costs and maintenance issues since it was wheeled out in 2010.
+A picture submitted to The Courier-Mail showing two men overlooking a pair of the city's bikes stuck in mangrove mud highlighted some of the issues the council has faced with the scheme.
+The council said there had been no missing bikes in the past week, so, presumably the bogged bikes had been recovered.
+Public and Active Transport chairman Adrian Schrinner said CityCycle was continuing to grow in popularity.
+"There have been more than 1.9 million trips since CityCycle began and during July there was a monthly record of 57,256 trips taken around the inner city," Cr Schrinner said.
+"CityCycle provides a clean, green and sustainable transport alternative to tackle inner city traffic congestion and boosts lifestyle and leisure opportunities for residents and visitors.
+"The number of CityCycle users grew by 35 per cent last financial year to 522,388 trips which is 70 per cent higher than the 307,058 recorded two years ago.
+"In the last week of July we had a weekly record of 14,461 trips and as patronage numbers continue to grow we expect to reach CityCycle's 2 millionth trip later this month.
+"The warmer than usual winter weather is also helping boost patronage as locals and visitors use CityCycle to enjoy our liveable city."
+Damaged bikes and disappearing helmets have been an ongoing problem for the scheme, requiring the council to distribute an extra 2400 helmets last year.
+The council was asked to reveal the number of helmets and bikes that had been damaged or gone missing in the last financial year but did not reply.
+"JCDecaux is the owner and operator of the scheme and responsible for the recovery and cost of misplaced bikes and the scheduled, ongoing maintenance of CityCycle bikes," a spokesman said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>CityCycle</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane City Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CityCycle's 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Schrinner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JCDecaux</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cr Schrinner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Active Transport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Courier-Mail</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

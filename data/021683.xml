@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441605815557865</docid>
+  <date>06/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/crown-building-warchest-but-capital-management-not-priority-no1-citi-says-20170806-gxqkmp</url>
+  <title>Crown building warchest but capital management not priority No.1, Citi says</title>
+  <content>
+Crown Resorts will have up to $2 billion debt capacity in coming years, but that isn't necessarily a signal of near term capital management measures. 
+Following Crown's annual results, Citi analysts reckon Crown's net debt will be worth only 0.2-times earnings come this time next year, and 0.5-times by the end of the 2020 financial year. 
+That means $1.7 billion to $2 billion debt capacity, assuming a 2.5-times net debt-to-earnings limit. 
+While those gearing forecasts are a sharp reduction on Crown's historical levels, Citi reckons shareholders should not expect a step-up in buybacks, special dividends and other capital management initiatives. 
+
+Instead, Crown seems to be preparing for a ramp up in capital expenditure for its expansion into Sydney worth $2.3 billion on a gross basis and $1.7 billion net of apartment sales, on Citi's numbers. 
+
+"We no longer anticipate further near term capital management for CWN in addition to the buyback," Citi analysts told clients following . 
+Crown's result did include a $375 million odd on-market share buyback, however it was less than analysts and fund managers had expected. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Crown</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Crown Resorts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CWN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

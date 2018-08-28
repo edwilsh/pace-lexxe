@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399991876774709</docid>
+  <date>31/07/2017</date>
+  <time>06:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-07-31/court-stops-politicians-from-blocking-critics-on-social-media/8759782</url>
+  <title>Could a Virginia court ruling stop Donald Trump from blocking people on Twitter?</title>
+  <content>
+Related Story:
+
+A court in the US state of Virginia has ruled government officials cannot block critics from their social media pages, saying doing so is a violation of the First Amendment.
+Virginia man Brain C Davison sued the Chair of the Loudoun County Board of Supervisors, Phyllis J Randall, after the public figure blocked his comments from her Facebook page.
+The ban only lasted around 12 hours, but it was enough for Mr Davison to take Ms Randall to court on the grounds she had violated his rights to free speech and due process.
+While Ms Randall argued the page was personal, the Eastern District Court of Virginia ruled that Ms Randall's page operated as a "forum for speech", because the page was categorised as that of a "government official".
+According to court documents Ms Randall recalled Mr Davison's comment included "included allegations of corruption on the part of Loudoun County's School Board involving conflicts of interests among the school board and their family members".
+
+Australian National University law lecturer Kevin Boreham said under the ruling an official could not block people making valid comments, but that it did not give people license to troll public figures.
+"The judgment does make it clear that moderating the Facebook page to take out irrelevant material or material that might be grossly offensive, is not protected by freedom of speech," Mr Boreham said.
+US President Donald Trump is currently involved in a similar case, after being sued by the Knight First Amendment Institute, a free speech group at Columbia University, for blocking seven people on Twitter.
+
+"The suit argues that the @realDonaldTrump account is a 'public forum' under the First Amendment, meaning that the government cannot exclude people from it simply because of their views," the  on its website.
+However, Mr Boreham said the case in Virginia was a finding by a trial judge alone and therefore would not form a precedent for other cases.
+In order for a case to set a precedent it must go through a superior court.
+"It might be picked up and applied to other cases but it's not a precedent that would apply to a case against anyone else," he said.
+"It's unlikely that a court would rule against the President blocking people from his Twitter account."
+Are there different rules for the President?
+
+Mr Boreham said when it came to the president, the rules were not completely clear.
+"The view of the US Department of Justice is that the president is not exposed to the courts in his activities and his in behaviour as president," Mr Boreham said.
+"That's not completely settled and of course it's being explored again in this great controversy about Trump's links to Russia."
+Mr Boreham said the same rules did not apply to officials in Australia as Australian law has no equivalent to the First Amendment.
+"There is no way that an official in Australia could be subject by a declaration of the court in relation to what she or he might do in relation to a Twitter or Facebook account."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Columbia University</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Knight First Amendment Institute</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Boreham</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Virginia</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>First Amendment</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Davison</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Loudoun County's School Board</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Phyllis J Randall</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brain C Davison</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ms Randall</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>County Board of Supervisors</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Department of Justice</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Eastern District Court of Virginia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chair of the Loudoun</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Boreham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>realDonaldTrump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

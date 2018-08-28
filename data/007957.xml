@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411373540320836</docid>
+  <date>02/08/2017</date>
+  <time>02:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/12/25/driverless-bus-to-be-trialled-in-sydney</url>
+  <title>Driverless bus to be trialled in Sydney</title>
+  <content>
+A driverless shuttle bus will take to NSW roads for the first time as part of a trial at Sydney Olympic Park.
+The two-year trail, to begin later this month, will start with safety checks, and eventually let the public hop onto the automated vehicle, Transport Minister Andrew Constance announced on Wednesday.
+The trial is a small part of the state government's vision for "a technology-enabled transport future", Mr Constance said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Minister Andrew Constance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Constance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406180924759188</docid>
+  <date>01/08/2017</date>
+  <time>06:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/26m-long-saltwater-crocodile-captured-by-rangers-at-port-douglas/news-story/e6b8fd338733ecee4121d4e788fcfe04</url>
+  <title>Croc removed from Four Mile Beach</title>
+  <content>
+A SALTWATER crocodile has been removed by rangers from one of the Far North™s most famous beaches " but it may not have been the croc they were initially targeting.
+
+Department of Environment and Heritage Protection wildlife officers today captured a 2.6m long saltie from Four Mile Beach, just weeks after the area was rezoned under the Queensland Crocodile Management Plan.
+
+Environment Minister Steven Miles said the officers had deployed a trap at the mouth of Dickson Inlet at Port Douglas, after the croc was reported on July 12.
+
+"A member of the public saw a crocodile leaving Dickson Inlet with a turtle in its jaws, around 200m north of the Four Mile Beach patrolled area and just 20m off the headland shore," he said.
+
+The captured croc will be shifted to a farm or zoo, where it will spend the rest of its days.
+
+However Mr Miles said the officers did not believe the reptile was the initial target animal, and the croc trap would remain in the area.
+
+"It is possible that the target animal was only moving through the area," he said.
+
+"Crocodiles are highly mobile animals and will use the ocean to travel between estuaries and inland waterways."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Department of Environment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Crocodile Management Plan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Douglas</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dickson Inlet</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Far North</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mr Miles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister Steven Miles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heritage Protection</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Four Mile Beach</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

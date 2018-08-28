@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400945359531448</docid>
+  <date>31/07/2017</date>
+  <time>10:12</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/trump-abe-discuss-growing-n-korea-threat/news-story/2bf265d644e2b6c2d5e78dc4fdc776d6</url>
+  <title>Trump, Abe discuss growing N Korea threat</title>
+  <content>
+Japanese Prime Minister Shinzo Abe has spoken with US President Donald Trump and agreed on the need for further action on North Korea after the US Ambassador to the United Nations said the United States is "done talking about North Korea".
+Nikki Haley, US Ambassador to the UN, said in a statement that China must decide if it is willing to back imposing stronger UN sanctions on North Korea over Friday night's long-range missile test, the second this month.
+Any new UN Security Council resolution "that does not significantly increase the international pressure on North Korea is of no value," Haley said, adding that Japan and South Korea also needed to do more.
+Abe told reporters following his conversation with Trump that repeated efforts by the international community to find a peaceful solution to the North Korean issue had yet to bear fruit in the face of Pyongyang's unilateral "escalation" of the situation.
+"International society, including Russia and China, need to take this seriously and increase pressure," Abe said, adding that the two nations would take steps towards concrete action but did not give details.
+North Korea said on Saturday it had conducted another successful test of an intercontinental ballistic missile that proved its ability to strike the US mainland, drawing a sharp warning from Trump and a rebuke from China.
+Trump later wrote on Twitter that he was "very disappointed" in China and that Beijing had done "nothing" for the United States in regards to North Korea, something he would not allow to continue.
+China's Foreign Ministry, in a statement sent to Reuters responding to Trump's tweets, said the North Korean nuclear issue did not arise because of China and that everyone needed to work together to seek a resolution.
+"All parties should have a correct understanding of this," it said, adding that the essence of Sino-US trade was mutually beneficial and win-win.
+State-run Chinese tabloid the Global Times said in an editorial on Monday Trump's "wrong tweet" was of no help, and that he did not understand the issues.
+"Pyongyang is determined to develop its nuclear and missile program and does not care about military threats from the US and South Korea. How could Chinese sanctions change the situation?" said the paper, which is published by the ruling Communist Party's official People's Daily.
+China wants both balanced trade with the United States and lasting peace on the Korean peninsula, its official Xinhua news agency added in a commentary.
+"However, to realise these goals, Beijing needs a more cooperative partner in the White House, not one who piles blame on China for the United States' failures," it said.
+South Korean President Moon Jae-in, who is on vacation, planned to have a phone call with Trump soon, a senior official at the Presentital Blue House said.
+The United States flew two supersonic B-1B bombers over the Korean peninsula in a show of force on Sunday in response to the missile test and the July 3 launch of the "Hwasong-14" rocket, the Pentagon said. The bombers took off from a US air base in Guam, and were joined by Japanese and South Korean fighter jets during the exercise.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UN</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Presentital Blue House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xinhua</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's Foreign Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>July 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pentagon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Korean</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Global Times</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japanese Prime Minister Shinzo Abe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nikki Haley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sino-US</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US Ambassador</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Haley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hwasong-14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>N. Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UN Security Council</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Korean President Moon Jae-in</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State-run Chinese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>People's Daily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Communist Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Abe</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>B-1B</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Guam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399772833439616</docid>
+  <date>31/07/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/07/31/15/33/powerful-smoke-gustnado-forms-during-california-bushfire</url>
+  <title>Powerful smoke gustnado forms during California bushfire</title>
+  <content>
+A large bushfire has triggered a spectacular smoke "gustnado" in north-western Los Angeles.
+Video shared by  showed the plumes of smoke from a spot fire swirling in an upwards direction, and into a large vortex shape on Friday afternoon (local time).
+It then appeared to dissipate slightly, as a firefighting helicopter drops water on the blaze causing the gustnado.
+The dramatic weather event is not considered to be a tornado, but a "short-lived, ground-based swirling wind", according to AccuWeather.
+In the time since the gustnado was captured on camera, the small fire that triggered it has grown into a 25-acre bushfire in the Gorman region, a Los Angeles County Fire Department spokesman told Fox LA.
+The fire is not threatening properties, the spokesman added.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Fox LA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gorman</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Los Angeles County Fire Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AccuWeather</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

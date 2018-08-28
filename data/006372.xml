@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408762200158157</docid>
+  <date>01/08/2017</date>
+  <time>16:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/snap-stock-price-dropping-after-new-rule-bars-it-from-joining-the-sp-500-2017-8</url>
+  <title>Snap is dropping after new rule bars it from joining the S&P 500</title>
+  <content>
+won't be able to join the Standard & Poor's 500 Index with its current governance structure, and the stock is taking a hit.
+
+companies with multiple classes of shares will not be able to join several of the company's indices. The move excludes companies with multiple share classes that are already in an index, like  and
+
+S&P is hoping to bar companies who discount the voices of their shareholders through limited voting rights and "other governance issues" the company said in a news release. The rules will affect the S&P 500, as well as the S&P MidCap 400 and SmallCap 600.
+
+The move 's share price because it means a large chunk of index funds and passive funds that are pegged to a benchmark like the S&P 500 won't be buying the stock.
+
+Snap is facing additional pressures as the company's . Many shares held by company insiders were unavailable for trading until Monday, and volumes were much higher than average as insiders began trading their freshly liquid shares.
+
+Snap is down 21.47% since its initial public offering. Its shares are struggling to find their bottom as the stock had slid to multiple all-time lows in recent weeks.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P MidCap 400</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Poor's 500 Index</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SmallCap 600</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

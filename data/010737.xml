@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416866803597358</docid>
+  <date>02/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/six-arrested-in-maui-telescope-protest/news-story/8e35e51c07c9eeb7f4089717424ff81d</url>
+  <title>Six arrested in Maui telescope protest</title>
+  <content>
+Six people have been arrested when protesters tried to block an equipment convoy for a solar telescope being built on a Hawaii mountain held sacred by some Native Hawaiians.
+The two women and four men were among more than 100 protesters who gathered starting Tuesday evening to block the convoy of trucks from reaching the summit of Maui's Haleakala.
+Despite the protests, a four-meter mirror system for the Daniel K. Inouye Solar Telescope was delivered safely, telescope officials said in a statement.
+"The project made concerted efforts to identify and mitigate cultural and environmental impacts associated with the construction of what will be the world's most powerful solar telescope," the statement said. "Like those who protest our facility, we too respect and value our planet, broader universe and our shared origins."
+Construction is on-schedule to be completed by 2020. The construction progress of the $US340 million ($A427 million) solar telescope is unlike another embattled telescope planned for a different Hawaii mountain.
+Construction of the Thirty Meter Telescope on Hawaii Island's Mauna Kea is stalled amid protests and a state Supreme Court ruling invalidating its building permit.
+Opponents of both say the telescopes will desecrate land sacred to Native Hawaiians.
+Honolulu couple Mahealani Ahia and Kahala Johnson said they flew to Maui to protect Haleakala from the solar telescope. They said they were among the protesters who laid down on a road with their arms connected by PVC pipes.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Haleakala</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MAUI</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Native Hawaiian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hawaii Island's Mauna Kea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mahealani Ahia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kahala Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PVC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel K. Inouye Solar Telescope</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HONOLULU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawaii</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$340</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thirty Meter Telescope</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Maui's Haleakala</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

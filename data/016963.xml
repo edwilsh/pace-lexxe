@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426487530516388</docid>
+  <date>04/08/2017</date>
+  <time>13:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/car-destroyed-in-blaze-on-port-wakefield-highway/news-story/1619233f56d2251de4c98e808fb3e4ef</url>
+  <title>Car burst into flames at Port Wakefield</title>
+  <content>
+A CAR has burst into flames at Port Wakefield - but fortunately no one was hurt.
+Emergency services were called to Port Wakefield Hwy about 8.15pm on Friday after receiving reports of a car was on fire.
+The car had reportedly just refueled and had a LPG tank.
+Firefighters managed to extinguish the blaze and no one was injured.
+The cause of the fire is unknown.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Port Wakefield Hwy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LPG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Wakefield</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

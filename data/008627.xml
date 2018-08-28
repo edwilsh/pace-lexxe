@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412408627454357</docid>
+  <date>02/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/the-global-manufacturing-sector-is-looking-pretty-good-in-mid-2017-2017-8</url>
+  <title>The global manufacturing sector is looking pretty good in 2017</title>
+  <content>
+The global manufacturing sector is looking pretty good in mid-2017, especially in Europe.
+
+The latest JP Morgan-IHS Markit manufacturing Purchasing Manager Index (PMI) rose by 0.1 point to 52.7 in July, marking the 17th consecutive month that activity levels strengthened from a month earlier.
+
+The PMI measures changes in activity levels across the global manufacturing sector from one month to the next. Anything above 50 signals that activity levels are improving while a reading below suggests they're deteriorating. The distance away from 50 indicates how quickly activity levels are expanding or contracting.
+
+The survey takes in responses from over 12,000 manufacturers from more than 40 nations, providing a real-time snapshot of how the sector fared in the previous month.
+
+IHS Markit said that Europe continued to drive the improvement in global manufacturing conditions last month, managing to offset a stuttering performance from Asia.
+
+"Growth was again mainly led by European nations, while Asia continued to struggle in comparison," it said.
+
+"Eight of the 10 best-performing countries were located in Europe, with Canada and Australia the only other nations to break into the highest rankings.
+
+The group said that European manufacturers benefited from strong inflows of new export business, with the fastest increases reported in Germany, the UK, the Netherlands, Austria, Spain and France.
+
+The strong European performance masked continued weakness across large parts of Asia in July.
+
+"Around half of the Asian nations covered by the survey registered a contraction in July, including India, South Korea, Indonesia, Malaysia, Thailand and Myanmar," the group said.
+
+"Growth gathered pace in China, but slowed in Japan, Vietnam and the Philippines."
+
+Despite its index hitting a four-month high in July, the United States also lagged Europe, recording the 14th fastest expansion of all nation's surveyed.
+
+This table from IHS Makit looks at the individual subindices that make up the headline PMI reading. Again, a figure above 50 indicates an improvement while a reading below this level points to a deterioration.
+
+All components improved from a month earlier, with faster increases recorded in new orders, along with input and output prices.
+
+Elsewhere global output levels moderated, improving at the slowest pace in 10 months, while employment increased at a slightly slower pace, although staffing levels have now increased in each of the past 11 months.
+
+Markets will get information on the performance of non-manufacturing sectors when IHS Markit releases its global services PMI report on Thursday.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Myanmar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Austria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vietnam</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Thailand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IHS Makit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>JP Morgan-IHS Markit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malaysia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>4</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Purchasing Manager Indices</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

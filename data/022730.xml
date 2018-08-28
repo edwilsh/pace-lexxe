@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442722507069184</docid>
+  <date>07/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/act-policing-target-cocaine-and-mdma-use-in-canberra-20170807-gxqtxm.html</url>
+  <title>Canberra drug busts net cocaine and MDMA</title>
+  <content>
+ACT police made 19 drug seizures over the weekend in an operation targeting street dealers in Canberra's city centre.
+Operation Ghar involved plain-clothes officers from ACT Policing's Drugs and Organised Crime unit as well as the Regional Targeting team.Photo: Fairfax Media
+Detective Sergeant Mark Steel said the sting had resulted in nine seizures of party drug MDMA and 10 seizures of cocaine.
+"We want everyone to enjoy themselves without putting themselves at risk with illicit drugs," he said.
+"Not only is it illegal, but also unsafe. You never know what you are ingesting, and how those chemicals will affect you."
+Sergeant Steel warned that police would continue targeting illicit drug use in the city, and encouraged anyone with information to come forward.
+A number of individuals were arrested following the drug busts and will appear in court at a later date on charges including possession and sale and supply.
+Anyone with information should contact Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sergeant Steel</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Detective Sergeant Mark Steel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Organised Crime</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MDMA</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>ACT Policing's Drugs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Regional Targeting</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

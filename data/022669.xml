@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443194953478592</docid>
+  <date>07/08/2017</date>
+  <time>06:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/business/breaking-news/nz-shares-up-on-possible-jacinda-effect/news-story/c5f6a5c3db96b43bbe2a4cb4860f59d2</url>
+  <title>NZ shares up on possible 'Jacinda Effect'</title>
+  <content>
+New Zealand shares rallied on Monday, with more volume through politically-driven sectors as the September election draws closer.
+A2 Milk rallied to another record, while Xero gave back some gains.
+The S&P/NZX50 Index rose 25.45 points, or 0.3 per cent, to 7771.57. Within the index, 27 stocks rose, 14 fell and nine were unchanged. Turnover was $160 million.
+Jacinda Ardern became leader of the Labour Party on Tuesday, taking over from Andrew Little, and the positive reaction to her ascent has been dubbed the 'Jacinda Effect''
+"Everyone's just positioning themselves for the results, you've seen reasonable volumes in the leaders again - perhaps I'm drawing a long bow, but it could be the 'Jacinda Effect'," Rickey Ward, at JBWere said.
+"Markets are potentially looking at some sectors - carbon, construction, electricity. A week or so ago, people were dismissing a potential change in government, and perhaps that's changed with Jacinda.
+"Fletcher Building is recovering from Friday's sell-off, that's infrastructure spend, and there's good volume going through the electricity sector - all those sorts of things which seem to be big on the agenda for the left," Mr Ward said.
+Fletcher Building gained 0.9 per cent to $7.95, while Metro Performance Glass gained 0.7 per cent to $1.44.
+A2 Milk was the best performer, up 3 per cent to $4.80, its second consecutive record.
+"It just keeps breaking new highs, a lot of analysts upgraded their numbers over the last month. It's a stand-out story, no doubt about it," Mr Ward said.
+"Most analysts have come out believing they can extend their Chinese success to other parts of the world, there's a lot of support for it."
+Xero was the worst performer, down 1.2 per cent to $27.02.
+The stock has gained 56 per cent this year amidst positive earnings, but has fallen back over the past two sessions.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labour Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro Performance Glass</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Little</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Rickey Ward</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P/NZX 50 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ward</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jacinda Ardern</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Xero</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fletcher Building</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacinda Effect</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>JBWere</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacinda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

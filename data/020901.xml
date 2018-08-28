@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440622268035376</docid>
+  <date>06/08/2017</date>
+  <time>20:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/06/00/man-treated-in-sydney-for-gunshot-wound</url>
+  <title>Man treated in Sydney for gunshot wound</title>
+  <content>
+An investigation is underway after a man turned up at a Sydney hospital with a gunshot wound to the leg.
+The 20-year-old man arrived at Campbelltown Hospital about 11.30pm on Sunday and was treated for his injury, which wasn't life threatening.
+NSW Police were told the shooting occurred in Mary Wade Reserve at Woodbine, but no evidence has been found and they are appealing for anyone with information to come forward.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Woodbine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mary Wade Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Campbelltown Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

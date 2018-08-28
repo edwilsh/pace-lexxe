@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443023154784096</docid>
+  <date>07/08/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/appeal-to-find-missing-victorian-woman/news-story/2c9583f0135a52bc74654d57f707311e</url>
+  <title>Appeal to find missing Victorian woman</title>
+  <content>
+A backpack belonging to a missing Victorian woman has been found on a Gold Coast beach.
+Police are appealing for information about Gail Elizabeth Oliver after her bag was found by a member of the public on Kurrawa Beach at Broadbeach about 6.15am on Monday.
+A search of the beach and water failed to locate the 40-year-old, who was reported missing in her home state.
+Officers have since been told a woman matching Ms Oliver's description was seen walking from the area on Sunday night.
+Concerns are held for her welfare and anyone with information is urged to contact police.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Oliver</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Broadbeach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gail Elizabeth Oliver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kurrawa Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

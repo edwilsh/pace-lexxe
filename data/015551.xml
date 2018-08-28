@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424773838533057</docid>
+  <date>04/08/2017</date>
+  <time>06:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/australian-energy-market-operator-says-it-wasnt-warned-about-sa-governments-new-power-plan/news-story/c269b8baca37cf963d829ba05a5d2f1b</url>
+  <title>Regulators weren't warned about SA power plan</title>
+  <content>
+OFFICIALS who run the national electricity grid say they were not consulted about Premier Jay Weatherill's power plan before it went public, but say it will help cut the risk of summer blackouts.
+The Australian Energy Market Operator yesterday gave evidence to a State Parliament committee, and warned that extreme heat posed the biggest risk for keeping the lights on this summer.
+The State Government is bringing in emergency diesel generators with a capacity of 276MW for the summer, which will only be able to produce 205MW of output on days of 40C and over.
+David Swift, who advises AEMO chief executive Audrey Zibelman, said there had been no consultation with his agency prior to Mr Weatherill announcing plans to overhaul the state energy market.
+However, he said elements in the plan would help deliver a more reliable system.
+
+Jay Weatherill details how the market power and the lack of competition causes energy prices to be so high in South Australia and not a lack of resources. Courtesy: Sky
+
+Jay Weatherill on SA's $500million power plan
+"Emergency generation is definitely something that AEMO welcomes," Mr Swift said.
+"Our concern is that you can get events in summer, extreme weather or failure of plant, and we really feel that the reserves available across Victoria and SA are on a very narrow margin.
+"The availability of those extra resources is, in our view, a good thing."
+Mr Swift said it was possible the emergency generators wouldn't be needed at all if the state had a mild summer. However, he said it was likely they would be needed for at least a few hours.
+Liberal MP David Ridgway said the lack of discussion between the market operator and State Government in developing Labor's power plan showed it was a purely political document.
+"Nobody in their right mind would announce a $550 million plan without consulting the market operator prior to it," he said.
+"Nothing seems to be working in the way that's been promised."
+Greens MP Mark Parnell said AEMO had not done enough before the statewide blackout last September to check and test the settings on wind farms, which failed in a storm and triggered the total outage.
+"The wind farms dropped out when they shouldn't have," Mr Parnell said. "The regulator is saying that they are now fixed, but the question is whether they did their job properly. I'm not sure."
+Mr Parnell said the Government should consider charging for the energy produced by the emergency diesel generators, which could be fed into the market at times of very high prices.
+"If they are needed, it will be at a time when the price of electricity is through the roof," he said.
+
+Premier Jay Weatherill speaks to reporters about yesterday's announcement that tech billionaire Elon Musk's company Tesla will partner with a French energy company to build the world's biggest lithium ion wind power storage battery in South Australia. Video: Miles Kemp
+
+World's biggest battery to be built in SA
+"There is an opportunity for taxpayers to get back some of the money that's been spent."
+The Government has said it is possible it will charge for the energy produced by the emergency generators to help fund their operation, but it would depend on conditions at the time.
+Mineral Resources and Energy Minister Tom Koutsantonis said he was confident the Government had the measures in place to prevent forced blackouts in summer when demand soars.
+"Importantly, our advice is that the minimum backup capacity required to help prevent against load-shedding is about 200MW - less than the minimum output of SA's new power plant," he said.
+"Even on days of extreme heat, this power plant, coupled with the Tesla-Neoen battery, will provide the capacity required to help protect SA households and businesses from unnecessary load-shedding.
+"There are also other circumstances when the state-owned power plant may be called on to provide emergency back-up to the grid, like on March 3 when there was an explosion at a power plant which took out two multiple generating units."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Weatherill</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>March 3</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MW</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Liberal MP David Ridgway</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Swift</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Miles Kemp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Parliament</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Audrey Zibelman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SA's $500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energy Minister Tom Koutsantonis</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>David Swift</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Energy Market Operator</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Parnell</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greens' MP Mark Parnell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Premier Jay Weatherill</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jay Weatherill</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mineral Resource</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tesla-Neoen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEMO</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

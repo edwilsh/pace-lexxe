@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432367340817486</docid>
+  <date>05/08/2017</date>
+  <time>12:08</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/saturday-lotto-three-winning-tickets-sold-in-perth/news-story/ada4c24a1ab6c4753fb100ee7fa19aa8</url>
+  <title>Lotto luck strikes Perth three times</title>
+  <content>
+SIX winning Saturday Lotto tickets have been sold across the country - and three lucky West Australians are sharing in the spoils.
+The share of the jackpot being divided among six winners around Australia is $719,408.
+After no winning tickets were sold in Perth last week, lotto players have made up for it with three tickets having the correct numbers.
+The Lucky Charm lived up to its name - twice. Winning tickets were sold at its Atwell and East Victoria Park outlets.
+The other lucky ticket was sold at the Kwinana Hub L/C & News outlet in Kwinana.
+Saturday's winning numbers were: 21, 7, 20, 1, 11, 32 and the supps: 26, 22.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kwinana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Atwell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lotto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lucky Charms</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday's Lotto</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Kwinana Hub L/C</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>East Victoria Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404282549184390</docid>
+  <date>31/07/2017</date>
+  <time>23:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/fire-breaks-out-in-bedroom-of-home/news-story/369b2b1bf7d93392563b242561797305</url>
+  <title>Fire breaks out in bedroom of home</title>
+  <content>
+BREAKING: A fire has broken out in a residence in Charters Towers and emergency crews have rushed to the scene.
+Fire crews first received reports of a fire in a bedroom at Hodgekinson Street, Charters Towers City about 7.30am today.
+A spokeswoman for the Queensland Fire and Emergency Services said crews were on scene and the fire had been contained in the room.
+The residents are believed to have evacuated safely.
+Fire crews are conducting atmospheric ventilation in the home.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charters Towers City</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hodgekinson Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Charters Towers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

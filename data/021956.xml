@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442383204648652</docid>
+  <date>07/08/2017</date>
+  <time>03:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/12/53/feds-must-move-on-from-gay-marriage-guy</url>
+  <title>Feds must 'move on' from gay marriage: Guy</title>
+  <content>
+Victorian Liberal leader Matthew Guy says his federal counterparts need to get their "house in order" on marriage equality.
+The state opposition leader supports same-sex marriage and acknowledges his view might be different to many of his federal colleagues, but added that Canberra's constant infighting is distracting from important government business.
+"Get your house in order, get the issues solved and moved on to the issues that the country wants debated; the economy, jobs, border security, issues that this government is strong on and need to be talked about," Mr Guy told reporters in Melbourne.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Guy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Guy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Liberal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

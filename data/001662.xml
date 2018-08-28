@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399905977427613</docid>
+  <date>31/07/2017</date>
+  <time>06:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4822034/budget-cuts-hurt-unanderras-chances-mp/?cs=300</url>
+  <title>Budget cuts hurt Unanderra's chances - MP</title>
+  <content>
+A budget cut of almost 30 per cent is one of the reasons the Unanderra station lifts have been delayed, said Wollongong MP Paul Scully.
+
+Upgrades to train stations are funded through the state government's Transport Access Program (TAP).
+
+In the latest budget, it was allocated $200.1 million.
+
+That's a 28 per cent fall compared to the 2016-17 funding level of $280.3 million.
+
+"We have now discovered another reason why the government has put funding the installation of the lifts at Unanderra station on the backburner," Mr Scully said.
+"Over the last six months, as I've delved deeper and deeper into the mystery of why this government won't fund the Unanderra station lifts, this is perhaps the most damning discovery of all."
+A Transport for NSW spokesman said changes in the TAP budgets were not unusual.
+"The budget for the TAP has always varied from year-to-year based on the status of different projects," the spokesman said.
+
+"Customers at Unanderra Station can be assured the provision of an accessibility upgrade will continue to be considered as part of the TAP."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MP</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Access Program</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong MP Paul Scully</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Unanderra Station</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Scully</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Unanderra</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

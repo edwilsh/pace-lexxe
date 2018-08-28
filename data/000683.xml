@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398699091601020</docid>
+  <date>31/07/2017</date>
+  <time>01:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/energy/origin-energy-doubles-fullyear-oil-and-gas-revenue-20170731-gxm1ts.html</url>
+  <title>Origin Energy doubles full-year oil and gas revenue </title>
+  <content>
+Origin Energy's full-year oil and gas production has lifted by 40 per cent and its revenue more than doubled.
+Production in the year to June 30 rose to 323 petajoules, helped by the ramp-up of operations at its Australia Pacific liquefied natural gas project in Queensland, while revenue lifted to $2.2 billion on increased production and higher prices.Photo: Louie Douvis
+June-quarter production was up 12 per cent on the March quarter, to 89.2 petajoules, while oil & gas sales revenue was up nearly 20 per cent from the previous three months, at $673.4 million.
+AAP 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louie Douvis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia-Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June Quarter</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Origin Energy</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

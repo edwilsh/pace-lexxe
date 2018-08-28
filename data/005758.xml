@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407383515625337</docid>
+  <date>01/08/2017</date>
+  <time>11:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bitcoin-price-fork-announcement-2017-8</url>
+  <title>Bitcoin swings ahead of an announcement that will determine its future</title>
+  <content>
+Bitcoin is trading down 2.58% at $US2,807 a coin as traders remain on edge ahead of the long-awaited ruling on whether or not bitcoin will be split in two.
+
+A  has been brewing between core developers, who want to keep the blocks that make up bitcoin's network limited in their size to protect it from hacks, and miners, who want to make the blocks bigger to improve the network's speed.
+
+Two years of disagreement will come to a head at 8:20 a.m. ET, when the announcement will be made. The likely outcome is , or what bitcoin exchange  as a "change to the software of the digital currency that creates two separate versions of the blockchain with a shared history." What will emerge is a bitcoin rival called .
+
+"Bitcoin cash basically came out of nowhere," Charlie Morris, the chief investment officer of NextBlock Global, an investment firm with digital assets, told Business Insider."A group of miners who didn't like SegWit2x are going to opt for this new software that will increase the size of blocks from the current 1 megabyte to 8."
+
+If a split takes place, most bitcoin holders will see their holdings double, but that doesn't mean the value will double. The decline in bitcoin will most likely be equal to the price of bitcoin cash, according to Morris.
+
+Bitcoin is up 190% so far this year.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>SegWit2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charlie Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,807</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NextBlock Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

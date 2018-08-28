@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410510251880357</docid>
+  <date>01/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/osprey-medical-in-halt-as-bells-canaccord-ready-raising-20170801-gxnhpk</url>
+  <title>Osprey Medical in halt as Bells, Canaccord ready raising</title>
+  <content>
+﻿ASX-listed health technology company Osprey Medical is seeking a $32.5 million equity injection via Bell Potter Securities and Canaccord Genuty. 
+According to terms sent to potential investors on Wednesday morning, the company is looking to raise $22.2 million via the placement of new CDIs and another $10.3 million in a non-renounceable rights issue. 
+The new CDIs were being sold for 40¢ each, which was an 8 per cent discount to the last close and a 12.9 per cent discount to the 30 day volume weighted average price. 
+Funds raised were to expand the company's US sales force and initiate a pilot European sales program in Germany, according to the terms. 
+
+The brokers were calling for bis into the placement by 10am on Thursday. 
+
+The entitlement offer was scheduled to open on August 14 and close on August 25. 
+Osprey Medical would have a $147.5 million market capitalisation following the raising. 
+The company's ASX-listed securities went into a trading halt on Wednesday morning. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Canaccord</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bell Potter Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canaccord Genuty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CDIs</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Osprey Medical</name>
+    <count>3</count>
+    <score>0.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

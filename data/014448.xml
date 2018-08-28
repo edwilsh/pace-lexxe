@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422321412166413</docid>
+  <date>03/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/wannacry-hero-arrested-for-creating-banking-malware-470090</url>
+  <title>WannaCry hero arrested for creating banking malware</title>
+  <content>
+Marcus Hutchins, the security researcher credited for blunting the effect of the WannaCry ransomware attack in May this year, has been arrested in the United States.
+
+Briton Hutchins - who goes under the name  - and an unnamed individiual were arrested in Las Vegas ahead of this week's Black Hat and DefCon security conferences.
+
+A US grand jury  published by Motherboard states the pair face six charges related to creating, distributing and demonstrating the  malware in 2014.
+
+Hutchins is said to have written Kronos, while the unnamed defendant sold the malware on the Alphabay dark web market and Russian internet forums for an asking price of US$2000 to US$3000.
+
+Kronos is a credentials-stealing malware that attempts to exfiltrate victims' bank account details to the attackers that control it.
+
+The unnamed defendant is said to have demonstrated Kronos in a YouTube  as part of his marketing effort for the malware. It was available until recently but has now been taken down by YouTube.
+
+Another YouTube  purporting to show how to set up Kronos for a banking botnet remains available.
+
+Hutchins rose to fame in May after he registered a domain that deactivated dissemination of WannaCry.
+
+He was widely lauded for his quick thinking, and received a  for his efforts.
+
+WannaCry ransom money on the move
+
+Separately, the ransom collected by the WannaCry attackers has been moved out of the Bitcoin digital wallets it was being stored in.
+
+The Actual Ransom twitter bot tweeted that three wallets had been emptied of a total of US$140,000 (A$176,200) in Bitcoin.
+
+It's not clear at this stage what the final destination for the WannaCry ransom is, or who it is trying to cash out the payments.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Briton Hutchins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Actual Ransom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$140,000</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$3000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBay</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426835422874570</docid>
+  <date>04/08/2017</date>
+  <time>14:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/midges-to-bite-on-a-full-moon/news-story/9659aebc4d6b02edd3f00afadcfa782e</url>
+  <title>Midges to bite on a full moon</title>
+  <content>
+BASTARD midge numbers are expected to explode around next week's full moon, prompting health warnings.
+Midge numbers are predicted to peak three days before and after each full and new moon until December.
+Medical Entomology director Nina Kurucz said Top End residents and visitors should cover up, using insect repellents and avoiding mangrove areas where biting midges breed, especially around sunrise and sunset.
+"Cover up with long-sleeved shirts, long trousers, socks and shoes and apply DEET or Picaridin-based repellents," she said.
+"Insecticide coils, mosquito lanterns and insecticide barrier applications are also helpful."
+She said scratching midge bites could easily break the skin, introducing bacterial infection that can lead to unsightly sores.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Picaridin-based</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Top End</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Midges</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DEET</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Nina Kurucz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432199837091464</docid>
+  <date>05/08/2017</date>
+  <time>11:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/21/17/man-found-dead-on-melbourne-street</url>
+  <title>Man found dead on Melbourne street</title>
+  <content>
+A man has died in suspicious circumstances on a Melbourne street despite emergency services trying to save his life.
+Paramedics worked on the patient in Ashley Street in West Footscray on Saturday night but he died at the scene, police say.
+The exact circumstances surrounding the death are unknown, however, homicide detectives are investigating.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ashley Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>West Footscray</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

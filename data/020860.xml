@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440360275027988</docid>
+  <date>06/08/2017</date>
+  <time>19:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/therapy-dog-geezer-provides-pawfect-therapy-for-patients-at-logan-hospital/news-story/83719609d15ca01e4c2f52c09c6d72b9</url>
+  <title>Paw-fect therapy for patients</title>
+  <content>
+PATIENTS enduring long stays in hospital and missing their beloved pets at home are those most enjoying visits from Logan Hospital's new Delta Therapy Dog, Geezer.
+Handler Suzanne Page said she and Geezer, a five-year-old German Shepherd, spent time with patients in the hospital's Rehabilitation Unit once a fortnight.
+"The patients are able to have a cuddle with Geezer and we have a chat as we go from room to room," she said. "Geezer has been a Delta dog since he was 15 months old and has a very gentle temperament; he loves it and loves getting all the attention. Many of the patients also enjoy talking about their pets at home."
+Patient Margaret O'Shea said she enjoyed her visits from Geezer when she spent time in the rehab unit after falling and breaking her hip.
+"I love dogs," she said. "I used to own labradors but I don't have a dog anymore so this is very nice."
+Delta Therapy Dogs brighten the lives of about 20,000 patients in hospitals and care facilities every week.
+The world-class program is the largest of its kind in Australia with more than 1000 volunteers and their special dogs making regular visits to health care facilities to provide the benefits of pet therapy.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Paw-fect</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Delta Therapy Dog</name>
+    <count>2</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Rehabilitation Unit</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Delta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>German Shepherd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Handler Suzanne Page</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret O'Shea</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Geezer</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Logan Hospital</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  </sindexList>
+</snippet>

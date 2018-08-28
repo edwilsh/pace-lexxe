@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412666325496865</docid>
+  <date>02/08/2017</date>
+  <time>07:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/briefly-bitcoin-split-amd-rx-vega-microsoft-surface-pro-review/</url>
+  <title>Briefly: Bitcoin Split, AMD RX Vega, Microsoft Surface Pro Review</title>
+  <content>
+Brief news items of note for Lifehacker readers, including: Bitcoin splits in two, AMD unveils new Radeon RX Vega graphics cards, NASA is hiring a "planetary protection officer".
+
+More official figures suggest cost of living pressures in Australia are not as bad as many people believe. []
+
+Here's how Blizzard saved the video game Diablo 3 from disaster. []
+
+NASA has a job opening for someone to defend Earth from aliens - and it pays a six-figure salary. []
+
+Bitcoin power brokers were unable to come behind a single solution that would have preserved a unified cryptocurrency by Tuesday morning's deadline. As such, the digital currency has split in two: bitcoin and bitcoin cash.[]
+
+AMD has unveiled three new graphics cards: the Radeon RX Vega 56 (an air cooled GPU available for $US399) as well as air cooled and water cooled iterations of the Radeon RX Vega 64. []
+
+Microsoft's new Surface Pro is now available in Australia. Here's the Gizmodo review. []
+</content>
+  <sindexList>
+  <sindex>
+    <name>Radeon RX Vega 64</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Radeon RX Vega 56</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft Surface Pro Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lifehacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Diablo 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Radeon RX Vega</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BITCOIN SPLIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AMD RX Vega</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPU</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AMD</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US399</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surface Pro</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

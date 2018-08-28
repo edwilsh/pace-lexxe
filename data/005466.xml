@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406726385616229</docid>
+  <date>01/08/2017</date>
+  <time>08:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/telecommunications/5g-will-be-underpinned-by-fixed-networks-and-is-complimentary-to-nbn-telstra-20170801-gxmtsa</url>
+  <title>5G will be underpinned by fixed networks and is complimentary to NBN: Telstra</title>
+  <content>
+Top Telstra executives have ruled out 5G mobile competing directly with the national broadband network, saying a crucial part of increasingly mobile internet speeds is a fixed fibre network.
+New , who also sits on the board of Elon Musk's Tesla, and the telco's top engineer, group managing director of networks Mike Wright, said fixed networks would provide the backbone to .
+"You need to have a robust mobile network, you also need to have a robust broadband network. The two are complimentary," Ms Denholm said. 
+"The cost per bit of traffic which goes over a fixed network versus a mobile network is quite different and will be different for a long period of time. But also the capability and capacity you can get over a fixed network is different."
+
+Expectations and hype around 5G mobile is growing and the technology is expected to be significantly faster than 4G.
+
+Mr Wright noted Telstra was able to achieve speeds of 10 gigabits per second in trials it did in Melbourne last year and Australia's largest telco had long-term trials earmarked for next year on the Gold Coast.
+Undercutting the business model
+
+"We need to see what 5G brings, but we're talking tens of gigabits per second, depending on the use case. In some cases, it will be simply to support more users at lower speed and other cases there will be some very high demand use cases where that makes a lot of sense and the application really needs those high bandwidths," Mr Wright said.
+Many critics of the NBN point to 5G undercutting the government entity's business model, but Mr Wright, an industry veteran, explained it would not.
+
+"I've been around fixed and wireless for a long time. In that heavy lifting of very large amounts of data, you need a fixed network, and indeed a 5G network doing that type of lifting is going to be backhauled by fibre anyway. The roles of each of them are complimentary."
+It comes as Telstra announced the first stage of its , with $1.5 billion allocated to its Networks of the Future program.
+Telstra spends, on average, $3.5 billion to $4 billion on its networks each year. The additional capital means Telstra will spend up to $15 billion on its networks in the next three years.
+In the past six months, Telstra added 4G capability to 800 of its mobile towers, extending its 4G footprint to more than 1.4 million square kilometres.
+
+Wholesale domestic roaming
+
+Telstra noted it had begun to pick up its regional investment after the .
+"We've been increasing the number of towers and mobile signals we've been putting up in terms of the overall 4G network. Last year, we added a tower every other day. That's both blackspots and our ongoing upgrade program. In June alone we added 40 new sites to the network overall."
+Telstra also announced the first stage of a significant upgrade to its transmission network, beginning with the connection to Tasmania via Bass Strait.
+
+Ms Denholm said the upgrade was an terabit increase in capacity and a 30 per cent increase in speed that is enabled on the network.
+"With the new technology, we're actually able to re-engineer the way the transport layer works so we've got more resiliency and redundancy built in, which is a very important pillar in what we're trying to deliver on an ongoing basis."
+"You could stream 200,000 HD videos simultaneously across these two links and that's the increase in capacity we're generating."
+NSW, Victoria and South Australia are the next states earmarked for Telstra to upgrade.
+
+Debate on the NBN
+
+The executives would not be drawn in on the debate on the NBN, it's business model and the price it is charging retail service providers to access the network, .
+"We don't comment on NBN's economics or what they're doing from their business model. From our perspective, we want to give the best possible customer experience," Ms Denholm said. 
+"There obviously was a lot of confusion and probably still is a lot of confusion in the market with consumers in terms of what tier of broadband to order when they're moving over."
+Ms Denholm said Telstra was proactively working with its customers to meet their expectations of speed and price. She said in some cases the telco had reduced a customer's speed tier because they did not need what they were paying for.
+"When you're rolling out a set of technologies as big and as pervasive as the NBN, there is definitely some consumer education that needs to be made," she said. 
+"From our perspective, we want to make sure we have the best experience for any customer joining the NBN with us, so we make sure we have the right amount of CVC at any point in time - we're actually very proactive in making sure we have the right capacity in the networks - and then it's a matter of educating consumers in terms of being on the right plan."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>HD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mike Wright</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk's Tesla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>7</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Ms Denholm</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bass Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>11</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Networks of the Future</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>10</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Wright</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

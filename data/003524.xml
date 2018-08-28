@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404458642847084</docid>
+  <date>31/07/2017</date>
+  <time>23:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/09/38/sa-to-make-another-energy-announcement</url>
+  <title>SA to make another energy announcement</title>
+  <content>
+South Australian Premier Jay Weatherill is set to reveal details of another key part of his government's $550 million energy plan.
+Mr Weatherill and Energy Minister Tom Koutsantonis will make the announcement on Tuesday morning.
+The government recently announced tech billionaire Elon Musk would build the world's largest battery for storing renewable energy in SA's mid-north, with the energy plan to also include more gas-fuelled generation.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Weatherill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Energy Minister Tom Koutsantonis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Premier Jay Weatherill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

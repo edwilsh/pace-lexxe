@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399347631671665</docid>
+  <date>31/07/2017</date>
+  <time>04:00</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/cryptocurrency-community-readies-for-bitcoin-cash-fork-469732</url>
+  <title>Cryptocurrency community readies for Bitcoin Cash fork</title>
+  <content>
+A new version of the Bitcoin cryptocurrency will be launched this Wednesday, in an effort to rectify the network capacity issues that have plagued the digital currency in recent months.
+
+Led by former Facebook developer Amaury Sechet,  is a user-activated hard fork, or software upgrade, for the underlying blockchain distributed ledger database.
+
+It will do away with the segregated witness (SegWit) feature introduced in 2016 that sought to improve network scalability and reduce transaction fees, but which never reached the 95 percent of miners it needed to use the feature before it could be activated.
+
+Bitcoin Cash will also increase the block size for the distributed ledger to eight megabytes.
+
+Blocks are the database records in the blockchain that keep track of transactions. The current block size is one megabyte.
+
+This size limit - designed as a security measure to protect against denial of service attacks - has adversely impacted the network's ability to process large amounts of transactions.
+
+Currently, a 1MB block can handle three to seven Bitcoin transactions per second. But Bitcoin's user base is growing rapidly, and the network is groaning under the scale - resulting in instability as well as higher fees set to process transactions faster.
+
+The capacity issue has seen users leave Bitcoin for other currencies, with concern growing that the high fees and long transaction wait times are making Bitcoin look increasingly like a traditional financial institution.
+
+Sechet is hoping the larger blocksize will fix these problems.
+
+For Bitcoin Cash to succeed, it needs to get the majority of the proof-of-work capacity from miners. Should that happen, it will become the new de facto Bitcoin. 
+
+Concerns over the hard fork have seen Bitcoin's value seesaw throughout July. It hit a low of US$1848 on July 16, but has rallied since then and now trades at around US$2740.
+
+When Bitcoin Cash launches, anyone who already holds Bitcoin will automatically receive the same amount they already have in the new cryptocurrency. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SegWit</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$2740</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sechet</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1848</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amaury Sechet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

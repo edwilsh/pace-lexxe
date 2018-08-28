@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402783605571853</docid>
+  <date>31/07/2017</date>
+  <time>17:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/gdp-growth-state-map-q1-2017-2017-7</url>
+  <title>Here's how each state's economy did in the first three months of this year</title>
+  <content>
+The Bureau of Economic Analysis recently released its  in each of the 50 states and DC.
+
+While , individual state economies were a mixed bag. Several states in the heartland saw their economies shrink in the first three months of the year, with Nebraska coming in with a 4.0% loss in GDP at an annualized, seasonally-adjusted rate.
+
+Meanwhile, most states saw at least some GDP growth, with Texas leading the pack at a solid 3.9% annualized growth rate.
+
+Here's the change in real GDP for each state:
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>DC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nebraska</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Economic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

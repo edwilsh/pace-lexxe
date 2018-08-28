@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432457535131766</docid>
+  <date>05/08/2017</date>
+  <time>12:29</time>
+  <isTopNews>true</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/national-affairs/defence/search-for-us-marines-off-queensland/news-story/e1f1ecb95fb0cfbfe1ee8cc47c1c5f3c</url>
+  <title>Search for US marines off Qld</title>
+  <content>
+A US Marine Corps MV-22 helicopter's crew members are reported missing off central Queensland.
+A military statement says there was an accident on Saturday afternoon.
+The US Marine Corps Public Affairs Office said tonight it "confirms there is an active search and rescue mission ongoing for service members involved in an MV-22 mishap off the east coast of Australia".
+"Ships, small boats and aircraft from the 31st Marine Expeditionary Unit and Bonhomme Richard expeditionary strike group are conducting the search and rescue operations,'' it said.
+The helicopter was in Queensland for the Talisman Sabre multi-nation defence exercises near Rockhampton.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corps Public Affairs Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Talisman Saber</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marine Expeditionary Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corps MV-22</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bonhomme Richard</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

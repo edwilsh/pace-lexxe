@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418026444784864</docid>
+  <date>03/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/14/19/man-denies-role-in-car-explosion-kill-plot</url>
+  <title>Man denies role in car-explosion kill plot</title>
+  <content>
+A man accused of taking part in a plot to kill his wife's friend's husband claims police have the wrong man.
+Fady Houda, 24, appeared in the NSW District Court on Thursday for a bail hearing claiming he was not the man in CCTV footage linked to the crime.
+Houda, his wife Monique Hayes, 25, and prison officer Sharon Yarnton, 50, have denied trying to kill Yarnton's husband, Dean, in a planned car fire or explosion at Picnic Point in Sydney's southwest in February 2015.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sharon Yarnton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Houda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 2015</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Picnic Point</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yarnton</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Fady Houda, 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Deans</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monique Hayes, 25</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NSW District Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

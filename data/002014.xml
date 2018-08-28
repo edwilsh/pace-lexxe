@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400374128870740</docid>
+  <date>31/07/2017</date>
+  <time>07:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/explosion-rocks-iraqi-embassy-in-kabul/news-story/e25271d6f149d41fa0d1aec28b2dcb54</url>
+  <title>Explosion rocks Iraqi embassy in Kabul</title>
+  <content>
+A car bomb has struck outside the Iraqi embassy in central Kabul, police say.
+"I heard a blast and at the moment continued gunfire is ongoing near the embassy of Iraq in Shar-e Naw," a police source, who wanted to remain anonymous, told DPA.
+There were no immediate reports of casualties.
+No one has taken responsibility for the attack, though both the Taliban and an Islamic State affiliate have previously carried out such attacks in Kabul.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Shar-e Naw</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraqis</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KABUL</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DPA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

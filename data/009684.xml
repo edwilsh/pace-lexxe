@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414203923820785</docid>
+  <date>02/08/2017</date>
+  <time>13:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/australias-office-market-filling-up-again-with-supply-at-historic-lows-20170801-gxnd8i</url>
+  <title>Australia's office market filling up again with supply at historic lows  </title>
+  <content>
+Office towers around Australia are filling up as future supply slips to about half its historical average and businesses continue to hold onto or in some cases expand their accommodation requirements.
+Across the country's 5300 office buildings the official vacancy rate improved to 10.5 per cent from 10.9 per cent, with the largest markets of Sydney and Melbourne tightening further while the resource-related cities of Brisbane and Perth showed minor changes and continue to carry the weight of double-digit vacancy.
+Sublease space - the offices offered to the market from existing tenants who don't need them anymore - more than halved over the last six months according to the official Property Council of Australia data, providing an early indicator of improving health in the markets.
+Property Council of Australia chief executive Ken Morrison said there had been positive demand for office space in every CBD except Brisbane.
+
+"Positive tenant demand for office space has been the big driver of office markets around the country over the last six months, and this will continue with limited new supply on the horizon."
+
+﻿Chris Hynes, head of office and industrial leasing for listed landlord Dexus, said the supply and demand metrics in Sydney were the best they have been in six years.
+"Barangaroo essentially put a halt to development in the CBD, which has led to a shortage of stock, with the next cycle of supply not due until 2020-2021," Mr Hynes said.
+"The lead indicators of demand for Sydney office are now at a six-year high, driven primarily by white-collar jobs growth."
+"We're seeing corporates moving back into the CBD and there is a continual stream of new entrants in the market. In our own portfolio, Roche Pharmaceuticals has moved from Sydney's northern beaches to 30 The Bond, upgrading their premises."
+
+Chloe Paul
+
+﻿
+The PCA data, which covers some 25 million square metres of office space nationwide, shows that almost three quarters of the new CBD office supply over the next two and a half years will be built in Sydney and Melbourne but that those cities are best placed to handle it.
+Investa's group executive for real estate services, Sally Franklin, said many developers had taken a cautious approach, preferring to gauge the impact of the addition of 300,000 sq m of space in Barangaroo.
+"With these factors now built into the numbers, the supply cycle looks like returning to a more normalised position," Ms Franklin said, "However, there will be a period of 'lag' in both major markets."
+
+Among the tenants searching there has been considerable growth in the co-working space phenomenon, with businesses such as WeWork and Flexispace aggregating new demand in the CBD.
+JLL's national head of office leasing, Tim O'Connor, said rental growth would no longer be solely a Sydney and Melbourne story with a recovery in effective rents projected for Brisbane and Canberra.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ken Morrison</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tim O'Connor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Property Council of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hynes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Hynes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JLL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chloe Paul</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Investa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PCA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sally Franklin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barangaroo</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Roche Pharmaceuticals</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dexus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flexispace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Council of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Franklin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WeWork</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  </sindexList>
+</snippet>

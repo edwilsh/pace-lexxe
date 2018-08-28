@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406348428486461</docid>
+  <date>01/08/2017</date>
+  <time>07:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bitcoin-is-rallying-to-near-a-record-high-ahead-of-its-deadline-for-a-new-trading-platform-2017-8</url>
+  <title>Bitcoin is rallying to near-record highs ahead of its deadline for a new trading platform</title>
+  <content>
+Bitcoin is above $US2,900 this afternoon for the first time mid-June, ahead of a likely split in the currency due within hours (10.30pm eastern Australian time/1.30pm GMT).
+
+A short time ago, Bitcoin was trading at $US2,912, not far off its all-time high of $US2,980, reached on 12 June this year.
+
+The deadline for the implementation of the revised SegWit2 operating platform  and analysts are forecasting that it won't go ahead.
+
+Instead, a group of Bitcoin developers is likely to adopt a separate version of the currency called Bitcoin Cash, which will allow higher processing speeds for Bitcoin transactions.
+
+It follows a long-running disagreement in the Bitcoin developer community about how best to run the platform.  provides a useful guide to the Bitcoin "civil war".
+
+Not to be outdone, the world's second biggest cryptocurrency, Ethereum, is also having a solid session, up by more than 10% to be back over $US200 after falling to $US180 last week.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$180</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SegWit2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2,900</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,912</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2,980</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ethereum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GMT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

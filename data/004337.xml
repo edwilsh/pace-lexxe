@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405437895405669</docid>
+  <date>01/08/2017</date>
+  <time>03:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/shares/oils-aint-oils-when-it-comes-to-the-stock-market-20170727-gxk93u</url>
+  <title>Oils ain't oils when it comes to the stock market</title>
+  <content>
+by
+Giselle Roux
+
+When it comes to investing, it is worth remembering that not all companies and sectors will be tarred by a single brush.
+Take interest rate movements. In a simplistic sense companies deemed to be vulnerable to rate rises are those that have little flexibility in their income stream such as real estate investment trusts, utilities and low-growth, high-dividend paying companies. In theory, a movement in bond yields should be directly reflected in the valuations of companies in these sectors. But in practice, it does not apply to all companies in the same way. 
+Utility and infrastructure companies can have unregulated income streams. There may be a user-pays link to inflation (assuming rates rise in line with inflation) and for some the underlying growth in demand for the asset's services can outweigh the sensitivity to rates. Examples of these include airports, roads or communication towers. Their value lies in a tendency towards monopoly positions and structural trends in transport and data, rather than simply interest rate movements.
+Even so, the share prices of most infrastructure companies will ebb and flow depending on the outlook for interest rates.
+
+ As a result, an investor's view of infrastructure needs to take into account the economic outlook. 
+
+If you think global economic growth is about to accelerate, triggering higher inflation and interest rates, the stock selection should be focused on companies or assets that benefit from growth and can pass on higher prices. 
+Conversely, if growth remains sluggish and inflation subdued, yet rates rise, infrastructure operators will not benefit from higher demand or inflation-linked pricing. Meanwhile, investors will reduce the value of cash flows. It pays to be well aware of this mechanism where higher interest rates result in lower valuations or require a higher rate of earnings.
+The ideal economic path is respectable growth with little movement in interest rates and inflation. Under this scenario, investor appetite for stable income will support such equities .
+Also bear in mind that there are regional differences. Today, emerging economies are leaning towards rate cuts rather than rate rises, which makes stock selection in those countries a much better prospect than much of the developed world.
+
+Simplistic view
+
+Another sector prone to a simplistic view is technology - and technological disruption. 
+The prospect of technology disruption has been the driver of the S&P 500 since the beginning of the year, given the performance of the FAANG stocks (Facebook, Apple, Amazon, Netflix, Google - now Alphabet). 
+They clearly tick the box on many fronts - dominant market shares, advertising flows, growth potential and other credible merits. The risk is that there is too much expected in the long term to support valuations, not necessarily of this group which is well entrenched, but the large number of stocks that are hanging on to their coat tails. Take dedicated social media companies and operating divisions of others that are expecting to increase profits from lifting their advertising share. 
+
+One has an uncomfortable feeling that there is simply not enough in marketing budgets to go around, notwithstanding the legacy still sitting in old media, to justify every valuation.
+Technology companies sit at the opposite end to companies with large asset bases. They should be at little risk from interest rate changes and at this stage, growth is likely to be untroubled by global economic momentum. 
+But the premise is the same. A portfolio should not be built on a one-size-fits-all theme. It's only a matter of time before professional investors distinguish clearly between winners and losers. 
+They could also move onto the next big thing. Robotics, artificial intelligence and cybersecurity are said to be the new focus. Even FAANG stocks may get pushed aside if other less well known stocks in these sectors become the new market dynamos.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Giselle Roux</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FAANG</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

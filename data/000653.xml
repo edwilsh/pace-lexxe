@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398660436894908</docid>
+  <date>31/07/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/blogs/andrew-bolt/how-weve-created-another-instant-arab-ghetto/news-story/SPP-2799722</url>
+  <title>HOW WE'VE CREATED ANOTHER INSTANT ARAB GHETTO</title>
+  <content>
+We have taken in more than 21,000 refugees from Syria and Iraq in just two years, and had 30 per cent of them settle in just one Sydney suburb - Fairfield. The ABC describes a ghetto where unemployment is high, Arabic is the common language, English skills low and complaints against the government and employers long. What have we done?
+
+Like this:
+
+Like Loading...
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Arabic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CREATED ANOTHER INSTANT ARAB GHETTO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

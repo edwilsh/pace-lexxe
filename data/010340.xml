@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415836011426480</docid>
+  <date>02/08/2017</date>
+  <time>19:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/05/30/duterte-warns-maniac-kim-threatens-all-of-asia</url>
+  <title>'Maniac' Kim threatens nuclear war, warns Duterte</title>
+  <content>
+North Korean leader Kim Jong-Un is a "maniac" who could destroy Asia by triggering a nuclear war, Philippine President Rodrigo Duterte said yesterday, ahead of a regional summit to be attended by the regime's foreign minister.
+Using characteristically crude language, Duterte teed off against Kim ahead of a regional security meeting in Manila where the hermit state's ballistic missile tests will be a hot agenda item.
+"He is playing with dangerous toys and this crazy man, do not be fooled by his face, that chubby face that looks nice," Duterte, 72, said of Kim in a nationally televised speech.
+"That son-of-a-whore maniac, if he makes a mistake then the Far East will become an arid land. It must be stopped, this nuclear war, because (if) a limited confrontation blows up here, I tell you the fallout, the soil, the resources. I don't know what will happen to us. We won't be able to plant anything productive."
+Under Kim's leadership, Pyongyang has accelerated its nuclear ambitions, in defiance of international condemnation and multiple sets of United Nations sanctions.
+North Korea last week conducted its second intercontinental ballistic missile test, which led Kim to boast he could strike any target in the United States.
+US Secretary of State Rex Tillerson and Chinese Foreign Minister Wang Yi will also be in Manila for the security forum, which is hosted by the 10-member Association of Southeast Asian Nations (ASEAN).
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Duterte</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippine President Rodrigo Duterte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Association of Southeast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian Nations</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kim</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>United Nations</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kim Jong-un</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Duterte, 72</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MANILA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Far East</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese Foreign Minister Wang Yi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

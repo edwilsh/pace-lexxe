@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400034826448404</docid>
+  <date>31/07/2017</date>
+  <time>06:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4823802/police-confirm-bodys-identity/?cs=305</url>
+  <title>Police confirm body's identity</title>
+  <content>
+SCENE: Police close Nobbys breakwall on Sunday after the discovery of a man's body. The body was identified on Monday. Picture: Marina Neil
+
+A BODY found on the rocks at Nobbys breakwall at the weekend has been identified.
+Detectives identified the man on Monday and will seek to contact the 56-year-old's next of kin.
+
+Police confirmed they are not treating the death as suspicious at this stage, but a post-mortem on Tuesday will reveal more.
+The man's body was discovered on Sunday. Authorities quickly closed the breakwall as a crime scene was established.
+
+Meanwhile, there were no suspicious circumstances deemed after another grisly discovery in Carrington on Monday, with police finding a body in a car at the boat ramp on Tully Street shortly before 9am.
+
+A report will be prepared for the coroner.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tully Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina Neil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carrington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nobbys</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

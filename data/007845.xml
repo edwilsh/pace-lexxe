@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410553201554089</docid>
+  <date>01/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/asx-wall-st-aud-share-market-wrap/8765162</url>
+  <title>ASX to open weaker, Wall St sets new record, high expectations for Rio Tinto profits</title>
+  <content>
+Despite a strong lead from Wall Street, the local share market is headed for a slightly weaker open.
+ASX futures are flat, or slightly lower, and the Australian dollar has fallen to around US79.7c - which is still near two-year highs.
+
+Market snapshot at 8:40am (AEST):
+
+ASX SPI 200 futures flat at 5,711, ASX 200 (Tuesday close) +0.9pc at 5,772
+AUD: 79.68 US cents, 60.30 British pence, 67.46 euro cents, 87.95 Japanese yen, NZ$1.07
+US: Dow Jones +0.33pc at 21,964, S&P 500 +0.24pc at 2,476, Nasdaq +0.23pc at 6,363
+Europe: FTSE +0.7pc at 7,424,  DAX +1.1pc at 12,251, Eurostoxx50 +0.8pc at 3,477
+Commodities: Brent crude -2.37pc at $US51.47/barrel, spot gold flat at $US1,269/ounce, iron ore -0.2pc at $US73.56/tonne
+
+Australian market today
+
+This is the first week of earnings season and investors will be paying close attention to the results of Rio Tinto.
+Rio, one of the world's largest mining companies, will announce its first-half earnings about 4.30pm today (AEST).
+The company's shareholders are expecting underlying profit to triple, as well as a big jump in dividends.
+UBS analyst Glyn Lawcock's estimate is that Rio will report $US4.2 billion ($5.3 billion) in underlying earnings - which is slightly higher than market expectations.
+"All business units are forecast to be profit making ... with the exception of [its] copper and diamonds [business]", which he is forecasting will break even.
+In addition, he expects Rio's revenue to get a boost from its iron ore earnings (an estimated 89 per cent boost to US$3.3 billion, compared to last year), and the .
+Seven West Media will also release its full-year results, and it is likely to see a drop in profit given the media industry is seeing tough times.
+In economic news, the Bureau of Statistics will release its latest building approvals figures - which are a gauge of future construction.
+Economists polled by Reuters are expecting approvals in June to have lifted by 1.5 per cent, an improvement over May's 5.6 per cent drop.
+What happened on Wall St?
+
+Once again, the Dow Jones hit a fresh record - close to striking the 22,000 points mark, but not quite there yet.
+The S&P 500 and Nasdaq also put in solid performances.
+It was a day where almost every sector did well, except for health care. The sectors which drove most of the US stock market's gains were financials (particularly the big banks) and utilities.
+This week is a busy one for US earnings season - about three-quarters of the companies which have reported so far have exceeded market expectations.
+Apple shares surged by 6.1 per cent after the close of trade (at 8.25am AEST).
+The tech giant had forecast current-quarter revenue that was largely higher than Wall Street's estimates.
+Its revenue was US$45.4 billion in the current quarter, and it was lifted by strong iPad sales (US$1 billion higher than expected).
+Apple's service business (including sales from its App Store) also got a 21.6 per cent boost.
+However, its revenue from the Greater China region fell 9.5 per cent to US$8 billion in the latest quarter - due to Chinese consumers switching to newer domestic offerings.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US73.56</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones +0.33</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$45.4</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX SPI 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq +0.23</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US4.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Media</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>DAX +1.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Glyn Lawcock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AUD: 79.68 US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brent</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>May's 5.6</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greater China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ$1.07</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eurostoxx50 +0.8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US79.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500 +0.24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Statistics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US51.47</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FTSE +0.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$3.3</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1,269</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

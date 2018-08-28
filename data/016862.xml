@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427131775623688</docid>
+  <date>04/08/2017</date>
+  <time>15:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/technology/turnbull-government-reportedly-developing-single-logon-scheme-for-range-of-government-consumer-activities/news-story/c77658048a02a087883d4177f39bc489</url>
+  <title>Aussies set for 'super logon'</title>
+  <content>
+AUSTRALIANS could soon be able to shop online, register their car and update Medicare details under a new "super logon" scheme being developed by the Turnbull government.
+Speaking exclusively to the , Digital Transformation Assistant Minister Angus Taylor, said the government is working on creating one username and password per person to do a range of activities.
+It could mean a person is able to update their address, buy groceries and stream their favourite shows under a single account.
+"Right now, you might have 10, 20, or 30 different logons across different websites, (like) the Department of Human services, banks, telecommunications and the state government,'' Mr Taylor told the .
+"I think I counted about 60 or 70 different ones."
+The opt-in plan would likely involve a twostep verification process with a code being sent to a mobile phone.
+He said it could help people switch between companies more easily and reduce the risk of identity fraud by ensuring people do not have to remember as many passwords and logon details.
+
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Digital Transformation Assistant Minister Angus Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Department of Human</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Medicare</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

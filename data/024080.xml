@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446549322997214</docid>
+  <date>07/08/2017</date>
+  <time>19:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/lifestyle/trinity-bay-state-high-installs-indigenous-flags-for-naidoc-week/news-story/d2aaa136303053c05a08e5a17bde80d7</url>
+  <title>Trinity Bay State High flying flag for community pride</title>
+  <content>
+FOR the first time in Trinity Bay State High School's 57-year history the Australian, Aboriginal and Torres Strait Islands flags were raised together at the school's gates.
+Trinity Bay's community education counsellor Damon Leftwich said the start of the school's NAIDOC week celebrations yesterday were the perfect time to debut the flags.
+He said a Year 7 maths class were solving a geometry problem using the flagpole and wondered aloud why only the Australian flag was flown.
+"There was a lot of pride among the students and the staff when the flags were raised," he said.
+"It's not just Aboriginal and Torres Strait Islander and non-indigenous students at the school, we have many from all over the world who come to study here."
+Malakai Oui was one of the Year 7 students behind the new flags and said they made him feel happy.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Year 7</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malakai Oui</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Torres Strait Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trinity Bay State High</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Torres Strait Islander</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trinity Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Damon Leftwich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAIDOC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438899986133064</docid>
+  <date>06/08/2017</date>
+  <time>13:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/world/eiffel-tower-evacuated-over-attempted-attack-by-knifewielding-man-police-say/news-story/0c7c423119f758f27c5a9195247f3ba6</url>
+  <title>Man with knife arrested at Eiffel Tower</title>
+  <content>
+A man arrested at the Eiffel Tower brandishing a knife has told investigators he wanted to attack a soldier, a source close to the case told AFP Sunday.
+The man, aged around 19 and with a history of psychological problems, also said he had been in contact with someone from the Islamic State terror group who had encouraged him, the source added, on condition of anonymity.
+The incident happened late on Saturday night.
+More to come
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Eiffel Towers</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AFP Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

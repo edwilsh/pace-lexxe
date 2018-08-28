@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411283346006234</docid>
+  <date>02/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/woman-mauled-to-death-by-dog-in-southern-river/news-story/8994c2c57352a281636e95bc217c8273</url>
+  <title>Woman mauled to death by dog</title>
+  <content>
+A WOMAN has died after being mauled by a dog in Southern River.
+WA Police have confirmed a woman in her 50s received life threatening injuries from a dog at a canine boarding kennel about 1.30pm yesterday.
+She was declared dead by St John Ambulance officers and the dog was seized by the City of Gosnells rangers.
+Her death is not being treated as suspicious and a report is being prepared for the Coroner.
+</content>
+  <sindexList>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>WA Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

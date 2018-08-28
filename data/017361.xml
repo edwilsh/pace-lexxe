@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428166862759410</docid>
+  <date>04/08/2017</date>
+  <time>19:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/babinda-and-district-amateur-fishng-club-gearing-up-for-annual-competition/news-story/83a90434b735d2249db63dca7f4a78f8</url>
+  <title>Babinda fishing club casts net wide</title>
+  <content>
+A SMALL fishing club south of Cairns is ramping up efforts to expand its membership ahead of its open fishing and spearing competition this month.
+The Babinda and District Amateur Fishing Club president Clayton Stewart said the region had many fine areas for anglers in waterways beyond Gordonvale.
+The club's fishing competition is on August 25-27 and takes in a zone from the Barron River to Mourilyan Harbour and all off shore adjacent.
+Entry forms are available from most tackle stores from Clifton Beach to Tully. For more details contact Clayton Stewart on 0431 446 158.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Babinda</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barron River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mourilyan Harbour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clifton Beach</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Tully</name>
+    <count>1</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Clayton Stewart</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gordonvale</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>District Amateur Fishing Club</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

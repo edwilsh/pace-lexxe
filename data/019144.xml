@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435511256907458</docid>
+  <date>06/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/trump-eyes-top-aide-for-comm-director/news-story/29de9b78ec6bcb5e1d06fb2aa0b9b7a7</url>
+  <title>Trump eyes top aide for comm director</title>
+  <content>
+The White House may appoint a senior policy adviser with hardline views on immigration, who recently sparred with reporters in a televised briefing, as its new communications director.
+Stephen Miller, a top aide and speechwriter for President Donald Trump, is a candidate to lead the White House's communications team after a series of personnel changes in the more than six months that Trump has been president.
+The official did not say how many people were on the short list but the Axios news site reported on Saturday that Miller is not the top contender.
+Last week, Trump ousted White House communications chief Anthony Scaramucci over an obscene tirade to a New Yorker magazine writer only 10 days after he was appointed, leaving the position vacant.
+Retired Marine Corps General John Kelly, the new chief of staff who sources said was seeking to impose order on a White House riven with factions and backbiting, is said to have recommended the move.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Miller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Axios</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Corps General John Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Yorker</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Miller</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Scaramucci</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

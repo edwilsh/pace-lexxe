@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422540455503610</docid>
+  <date>03/08/2017</date>
+  <time>22:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/vic-magazinereading-home-invader-arrested/news-story/a0e9c6b7a2decc007710b0dc410a1a49</url>
+  <title>Vic magazine-reading home invader arrested</title>
+  <content>
+A police officer has been injured while arresting an alleged burglar who was found flicking through magazines in a home in Melbourne.
+A Frankston woman called police when she discovered an unknown man in her home during the early hours of Friday morning, and when police arrived the magazine-reading home invader resisted arrest, injuring an officer.
+The 27-year old Frankston man was taken to hospital under police guard for facial injuries suffered during the arrest and is expected to be interviewed on Friday morning.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Frankston</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

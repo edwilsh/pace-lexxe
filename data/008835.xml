@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411407900059830</docid>
+  <date>02/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>true</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/woman-dies-after-being-mauled-by-dog-in-perth/news-story/e2a3f310573ef6777c5b0c03341ee01d</url>
+  <title>Woman dies after dog attack</title>
+  <content>
+A woman has died after being mauled by a dog in Perth
+The woman, in her 50s, was attacked by the dog at a boarding kennel in the suburb of Southern River yesterday.
+She was declared dead by St John Ambulance officers and the dog was seized by City of Gosnells rangers.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>St John Ambulance</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

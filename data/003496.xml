@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404325498858312</docid>
+  <date>31/07/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/09/07/sa-police-search-for-armed-men</url>
+  <title>SA police search for armed men</title>
+  <content>
+Three armed men are on the run after a man was bashed in Adelaide's northern suburbs.
+Two men armed with a crowbar and baseball bat broke into a home on Bendle Street, Elizabeth Park, just after 7pm on Monday and bashed a man, then fled with a third man in a Hyundai sedan, police say.
+The injured man was taken to the Lyell McEwin Hospital with injuries to his arm and cuts to his head.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lyell McEwin Hospital</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hyundai</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bendle Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

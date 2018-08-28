@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405356291026020</docid>
+  <date>01/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/13/09/tas-uni-begins-review-after-assault-survey</url>
+  <title>Tas uni begins review after assault survey</title>
+  <content>
+More than half the students at the University of Tasmania were sexually harassed in 2016, a rate slightly higher than the national level.
+A survey by the Australian Human Rights Commission found 51 per cent of students across the country said they were sexually harassed in 2016.
+The figure for UTAS students is 54 per cent during the same period, and Professor Margaret Otlowski was on Tuesday appointed culture and wellbeing chancellor to lead a university review of the issue.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Human Rights Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tas</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>University of Tasmania</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>UTAS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Margaret Otlowski</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

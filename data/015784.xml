@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424090938722109</docid>
+  <date>04/08/2017</date>
+  <time>04:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-04/giant-blow-star-forward-jon-patton-ruled-out</url>
+  <title>Giant blow: Another gun forward ruled out</title>
+  <content>
+Jonathon Patton has been ruled out
+
+GREATER Western Sydney has suffered a big blow ahead of Saturday's clash against Melbourne with star forward Jonathon Patton ruled out.
+
+Patton will miss with hamstring tightness with the Giants also without fellow forwards Jeremy Cameron (hamstring) and Toby Greene (suspended) for the match in Canberra.
+
+Harry Himmelberg comes into the 22 fresh after signing a new deal, while Daniel Lloyd has been added to the emergency list.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Harry Himmelberg</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Toby Greene</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Western Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Lloyd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jeremy Cameron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jonathon Patton</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

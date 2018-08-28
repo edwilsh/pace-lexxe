@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398106386106151</docid>
+  <date>30/07/2017</date>
+  <time>23:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/07/does-your-streaming-service-have-the-programming-you-want/</url>
+  <title>Does Your Streaming Service Have All The Shows You Want?</title>
+  <content>
+In the year 2017, we are pretty spoiled for choice when it comes to streaming services (especially if you count smaller players like Crackle and Quickflix.) Unfortunately, not every show you watch is available on one single platform. So what do you do?
+
+Streaming platforms are great. They give you the option to binge-watch shows at a time of your choosing and not have to deal with cliffhangers week after week. With that said, there are also drawbacks compared to the free-to-air TV model of old.
+
+For example, Foxtel Now is pretty bereft of original programming, while Netflix lacks Foxtel's HBO goodies, including Game Of Thrones. Whether you subscribe to Stan, Foxtel Now, Netflix, Amazon Prime Video or one of the telco offerings, there are bound to be one or two popular programmes that you simply do not have access to.
+
+We're curious to hear what you do to overcome this problem. Do you pirate the shows that aren't available on your platform of choice? Do you subscribe to multiple services? Do you purchase the shows you can't get on Blu-ray? Or do you just make do with what's available on the one platform? Let us know in the comments!
+
+WATCH MORE: Entertainment News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Entertainment News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Does Your Streaming Service Have All</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blu-ray</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shows You Want</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Prime Video</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Foxtel Now</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Quickflix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Foxtel's HBO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

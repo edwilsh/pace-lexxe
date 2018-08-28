@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414182448983885</docid>
+  <date>02/08/2017</date>
+  <time>13:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/news/policy/tax/experts-split-over-shortens-impede-growth-claim-20170802-gxnrsa</url>
+  <title>Will business tax cuts drive growth or impede it? Depends who you talk to</title>
+  <content>
+Experts agree Australians will pay more income tax and shoulder increased debt to fund company tax cuts but are divided over whether this will stunt growth, as Labor Leader Bill Shorten has claimed.
+Mr Shorten earlier this week characterised business tax cuts as a handout that would "accelerate national debt" and "impede growth".
+He argued that if companies paid less tax, the government would have less money to service the debt it had accumulated to pay for the cuts in the first place.
+The comments prompted Business Council of Australia chief executive Jennifer Westacott to  because he previously argued in favour of cutting company tax rates to increase investment and therefore job creation.
+
+Miranda Stewart, the director of the Tax and Transfer Policy Institute at the Australian National University, said dropping the rate to 25 per cent for all companies should boost investment and growth.
+
+"But it will have a fiscal cost in the short term and, even if investment increases, in the longer term, so [Mr Shorten's] point about financing the company tax cut is important," she said.
+"The government, at present, is implicitly financing the company tax cut with personal income tax and bracket creep.
+"In the present situation, it would also be funded by more government debt. A tax reform package that broadens the tax base, to fund the rate cut, would be better for both revenues and growth."
+Companies with turnover of up to $10 million are on a 27.5 per cent rate while bigger enterprises pay 30 per cent.
+
+Under the government's Enterprise Tax Plan, more and more companies will gradually move on to the lower rate, although the government has not managed to pass laws for companies with turnover of more than $50 million.
+The Coalition's aim is to have all companies on a 25 per cent rate in a decade.
+Independent Economics' Chris Murphy, who worked with Treasury to model the Enterprise Tax plan, has argued there are .
+But Janine Dixon from Victoria University has .
+
+"When Mr Shorten says a tax cut 'impedes growth', he is referring to growth in domestic income, which is the most suitable measure of material welfare, and the measure with which governments ought to be concerned," she told The Australian Financial Review on Wednesday.
+"If the BCA is supporting tax cuts on the grounds of increasing the returns to its shareholders, that is a different matter."
+There is no consensus among academics or tax practitioners.
+"It's well accepted by economists, and shown in Treasury's modelling, that company tax cuts will drive economic growth and additional foreign capital," PwC partner Paul Abbey said.
+
+"The question in dispute is whether real wages will be improved."
+University of Melbourne economist John Freebairn said the jury was still out.
+While lower rates would stimulate investment, with some flow through to higher labour incomes and a larger GDP, there would be a reduction in net taxation revenue and, all else being constant, a larger deficit, he said.
+In the meantime, a great threat to economic growth was the two-tier tax rate, which has caused .
+
+Professor Freebairn said just as companies manipulated their employee numbers to slide under thresholds for state-based payroll tax, so too would people try to "game" the two-tier system corporate tax system.
+"We know quite clearly in terms of payroll tax that a lot of businesses reorganise themselves or don't grow so they keep under the tax-free threshold," he said.
+"We're going to get exactly the same games, so having two rates might end up being a greater inhibitor to growth than a headline rate that is high in global terms."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>John Freebairn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Business Council of Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jennifer Westacott</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Shorten</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Economics' Chris Murphy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Miranda Stewart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Abbey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PwC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian National University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enterprise Tax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enterprise Tax Plan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Freebairn</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Janine Dixon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transfer Policy Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LABOR Leader Bill Shorten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

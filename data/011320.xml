@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417296300333537</docid>
+  <date>03/08/2017</date>
+  <time>01:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/web/security/heres-whats-on-the-dark-web-child-snuff-videos-wmd-recipes-and-your-details-20170802-gxo7el</url>
+  <title>Here's what's on the dark web: Abuse, drugs and your details</title>
+  <content>
+by
+Tim Johnson
+
+​An internet realm known as the  was once promoted as a safe haven for political dissidents and libertarians worldwide, and financed partly by the State Department. But it has turned into a criminal cesspool.
+Rogue hackers sell stolen credit card information there, and gun runners peddle every variety of weapon. Paedophiles and malware merchants lurk in its confines alongside opioid dealers and human traffickers.
+What happens on the dark web is so ugly that cybersecurity firms that comb its data routinely share the information with the FBI and other law enforcement agencies.
+"All us work in partnership with law enforcement, when possible and necessary, to combat this," said Danny Rogers, chief executive of , a Baltimore, Maryland, company that specializes in automated combing of the dark web.
+
+A handful of US cybersecurity companies focus on the dark web, primarily working for retailers, banks and other firms concerned that cybercriminal gangs are trafficking there in consumer data that they've obtained through breaches.
+
+A small and secretive corner of the internet, the dark web cannot be accessed by traditional search engines, such as Google, Bing or Yahoo. Those visiting the dark web must employ special web software, like The Onion Router (Tor) or I2P, both of which encrypt and give anonymity to the user and hide the location of everything visited. It is a challenge to configure the software and find where one wants to browse.
+That difficulty is what makes the dark web a hub for the most foul types of crime.
+"When I was CEO of Tor ... law enforcement came to me my first year and said, 'Look, there's child abuse on your sites. Your technology is enabling child abusers to be far more bold,'" said , now vice president of , a Denver company.
+In subsequent years, the complaints from the Feds grew more vigorous, saying child sex rings had been set up and were offering live streaming. Lewman, a longtime advocate and volunteer for the Tor Project who was hired full time as executive director in 2009, demurred over details but said one of the worst was "a sexual child abuse snuff film."
+
+Now, Lewman serves on the Interpol Crimes Against Children Committee, and openly helps the FBI, Homeland Security and other agencies battle crimes on the dark net.
+"When we crawl, we see all the amount of horrible stuff on the dark nets and the fact is that it's the majority usage. It's criminal," he said.
+Not all on the dark web is sinister. Advocates say it was designed as a refuge for dissidents and outcasts who reside in oppressive countries, like Syria and China. Over the years, the State Department offered , largely from its Democracy and Human Rights branch but sometimes through third parties. The Tor Project was seen as a vehicle to promote freedom of speech, allow access to blocked news and research sensitive topics. More than a million people access Facebook through the dark web, where the social media site has a presence, among the 5,000 to 7,000 sites that are available through Tor.
+'The largest criminal marketplace'
+
+"Over half of those sites themselves are benign, people's personal blogs, conspiracy websites, pictures of cats," Rogers said.
+The other half is where nasty stuff happens.
+Two weeks ago, the FBI and law enforcement agents from six other countries , AlphaBay, which it called "the largest criminal marketplace on the internet."
+Joining the FBI in the global takedown were law enforcement authorities in Thailand, the Netherlands, Lithuania, Canada, Britain and France.
+
+Prior to the action, Thai authorities arrested a Canadian, Alexandre Cazes, 26, on a U.S. petition. On July 12, Cazes, the founder of AlphaBay, was found dead in his cell, and news reports said he . Prosecutors in California July 19 filed a civil forfeiture complaint against Cazes' estate seeking control of a 
+Other criminal platforms are ready to take AlphaBay's place.
+"As soon as you turn off the light, those cockroaches come back, don't they?" said , chief information security officer at ., a Scottsdale, Arizona, cybersecurity firm that analyzes the dark web.
+$US10 billion a year in credit card losses
+
+Those who scour the dark web often come away stunned.
+"The sheer amount of drugs is astounding," said Dan Palumbo, research director of the Digital Citizens Alliance, a Washington-based coalition of consumers, internet businesses and experts seeking to make the internet safer.
+Palumbo said he has seen sites offering black tar heroin, cocaine and synthetic drugs like fentanyl, a powerful addictive opioid driving a sweeping U.S. drug epidemic.
+Vendors sell varieties of ransomware and malicious hacking tools on dark web storefronts, as well as military-grade weapons, and what Rogers called "recipes for making WMD" - weapons of mass destruction.
+"It's varying degrees of shocking," he said.
+The dark web, sometimes also called the dark net, is a hive for cybercriminals involved in buying and selling stolen personal information.
+"Your identity, Social Security number, Visa numbers, phone, address, email, passwords, all that, is already on the dark net," said Lewman of Owl Cybersecurity.
+"The market for stolen data is very robust," said Rogers, of Terbium Labs. "If the data is monetisable, this is where it will end up."
+
+When hackers steal credit card data or other personal data, they advertise it on digital underground storefronts. Fraudsters buy the data and make phony purchases, launder money or commit other acts.
+Hundreds of millions of stolen records and credit card numbers are believed to have passed through the dark net, and criminal gangs routinely finance activities through card theft. While growing as a menace, the $US10 billion a year in credit card losses have yet to alarm banks.
+"Compared to the $US4 trillion a year or more that's spent on credit cards in the US, what's $US10 billion? It's small peanuts," Rogers said.
+Former federal agents say it is a huge task to suppress dark web criminal activity.
+"Thanks to the Russian-speaking underground, they've created this crime-as-a-service model that is very robust," said Eduardo Cabrera, chief cybersecurity officer at Trend Micro, and a former cyber official at the US Secret Service.
+Increasingly, though, the private cybersecurity firms that sift through the dark web - either with automated "crawl" systems or using human analysts - collaborate with the FBI.
+"We simply cooperate with them," Lees said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tim Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arizona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Homeland Security</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Danny Rogers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lewman of Owl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Citizens Alliance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yahoo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>U.S</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rogers</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Scottsdale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Interpol Crimes Against Children Committee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TOR</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Human Rights</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WMD</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lithuania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eduardo Cabrera</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trend Micro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palumbo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maryland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Social Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thailand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lewman</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cazes</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Rogers, of Terbium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Tor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baltimore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Department</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AlphaBay</name>
+    <count>3</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Denver</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tor Project</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russian-speaking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dan Palumbo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California July 19</name>
+    <count>1</count>
+    <score>-2.7</score>
+  </sindex>
+  <sindex>
+    <name>Alexandre Cazes, 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Onion Router</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Secret Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

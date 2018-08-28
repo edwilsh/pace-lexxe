@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417433739289048</docid>
+  <date>03/08/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/one-critical-after-melbourne-plane-crash/news-story/57fac278abe2a683a6254e1a56d295af</url>
+  <title>One critical after Melbourne plane crash</title>
+  <content>
+One person is fighting for life after a flying-school plane crashed southeast of Melbourne, with another person trapped.
+Ambulance Victoria says the aircraft crashed at Clyde North at about 10.40am on Thursday, with one person in a critical condition.
+A man believed to be in his 30s is trapped in the plane with neck, chest and back injuries but is in a stable condition.
+Two air ambulances have been dispatched.
+The Australian Maritime Safety Authority spokesman said it was a "flying school plane" from Moorabbin.
+Police and firefighters are also at the crash site.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Maritime Safety Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

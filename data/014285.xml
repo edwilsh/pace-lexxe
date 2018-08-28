@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423420923814237</docid>
+  <date>04/08/2017</date>
+  <time>01:25</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/scientists-legit-studied-the-brains-of-people-watching-sherlock-and-discovered-something-super-cool/</url>
+  <title>Scientists Legit Studied The Brains Of People Watching 'Sherlock' And Discovered Something Super Cool</title>
+  <content>
+Image: Supplied
+Turns out when you're watching Sherlock, your brain processes and stores the plot in short bursts.
+
+A new, actual, real-life study from US scientists looked at the brain activity of people either watching an episode or listening to a description - and found the participants' brains had stable activity with some quick jumps.
+
+The researchers say this suggests those brain regions were processing what was going on, rather than just absorbing it. The regions shape our inner monologues and daydreams, but these results show those parts of the brain also process what's going on in the outside world, the authors explain.
+
+Why Sherlock? It's one of the research team's favourite shows.
+
+"Chunking" has been a concept in cognitive psychology since the mid-1950s. It is the means by which individual items or words are grouped together into larger units so that they can be processed or stored as single ideas. But until recently, there was no way to observe this phenomenon in the neural activity of the brain. Now they have a way to use fMRI to investigate how the brain segments experiences during perception and how these experiences become long-term memories.
+
+"We're interested in examining how we take the kind of continuous environment that we all live in and break it into pieces that we can understand and remember," says Chris Baldassano, a postdoctoral research associate in the Princeton Neuroscience Institute.
+
+"The main finding of this paper is that we can actually observe what's going on in the brain during this chunking behavior and see that it's happening on a lot of different temporal scales, from seconds up to minutes."
+
+The study made use of two different fMRI datasets, both of which were collected for other research. In the first experiment, participants watched part of the first episode of the BBC show Sherlock while being scanned with fMRI. A second group of participants listened to an audio description of the same episode while being scanned.
+
+The research team, led by Uri Hasson and Kenneth Norman, professors in the Department of Psychology at Princeton, frequently makes use of movies and television shows to study brain activity; Sherlock is a particular favorite of the lab members.
+
+Using their new method, the researchers found that brain activity in both cases looked like a sequence of stable activity states punctuated by quick jumps. In some brain regions, these chunks of stable activity lasted for minutes at a time, and the same sequence of activity patterns occurred whether people were watching the show or listening to the audio description.
+
+"That suggests these regions are representing something more than just the visual and auditory inputs that are coming in, but a kind of higher-level processing," Baldassano says.
+
+The primary set of regions representing these high-level chunks is called the default mode network. It was originally identified about two decades ago as a collection of brain regions that's active "by default" - when people are not doing anything that's focused on a particular external goal. It lights up during thought activities that are completely internal, like remembering the past or thinking about the future, as well as during daydreaming and mind-wandering.
+
+"This paper, as well as other recent studies from Hasson's group, challenges the idea that this region of the brain is only about internal activity," Baldassano says. "We're arguing that these regions also represent what's going on in the outside world but on a longer time scale. They are building up representations of what's happening in the world around you."
+
+In the first dataset, some of the participants listening to the audio description of the "Sherlock" episode had previously watched it, and some had not. The researchers tracked the brain activity of the two groups and found that it was different in the people who had seen the show and could anticipate what was going to happen next.
+
+"They tend to start these chunks a little sooner than people who haven't seen it," Baldassano explains.
+
+In the second dataset, participants watched the same episode of Sherlock and were then asked to retell the story from memory. The researchers found that chunks in high-level areas reappeared during recall in the same order they had appeared during perception, replaying the same sequence of activity patterns.
+
+The hippocampus - a key structure involved in memory - activated at the end of high-level chunks during movie viewing, and the strength of this hippocampal activity during perception predicted how strongly that chunk was later retrieved.
+
+These findings suggest that the hippocampus takes "snapshots" of chunks right before they disappear in a manner that supports long-term memory for those chunks.
+
+Baldassano believes that these findings provide vital clues about how these chunks relate to long-term memory.
+
+"Almost all the research that's been done in the field of memory uses a paradigm where people memorize lists of words or photos. This work provides a bridge to be able to understand how we break a continuous, ongoing experience into chunks that can be stored and remembered," he concludes.
+
+[]
+
+WATCH MORE: Science & Health News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BBC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sherlock</name>
+    <count>7</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Department of Psychology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kenneth Norman</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chris Baldassano</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hasson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baldassano</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Brains Of People</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Princeton Neuroscience Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Discovered Something Super Cool</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Legit Studied</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>fMRI</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Uri Hasson</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Princeton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423481053357498</docid>
+  <date>04/08/2017</date>
+  <time>01:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/crime-and-justice/gateway-motorway-death-jury-retires-to-consider-manslaughter-verdict/news-story/41fb95d4de2a704d2865fde0efea9c6d</url>
+  <title>Jury retires in motorway death case</title>
+  <content>
+A JURY has started deliberating the fate of a man accused of a fatal one-punch attack along the Gateway Motorway.
+Tamate Heke, 38, pleaded not guilty to the manslaughter of Shane Merrigan, as well as an alternative charge of unlawful striking causing death, when his trial began in the Brisbane Supreme Court on Monday.
+Heke is accused of punching 50-year-old Shane Merrigan in the head, causing him to fall onto the Gateway Motorway and underneath the wheels of a garbage truck, at Eight Mile Plains in December 2015.
+The jury retired shortly after 11am on Friday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heke</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gateway Motorway</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Shane Merrigan</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Eight Mile Plains</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tamate Heke, 38</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>December 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

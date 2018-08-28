@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440575023394678</docid>
+  <date>06/08/2017</date>
+  <time>19:59</time>
+  <isTopNews>true</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/entertainment/taylor-swift-expected-to-testify-in-groping-case-20170806-gxqj7b.html</url>
+  <title>Taylor Swift expected to testify in groping case</title>
+  <content>
+Denver: Pop star Taylor Swift is expected to testify about her claim that a Colorado radio host groped her.
+A jury trial in the civil case is set to start on Monday and last nearly two weeks. Court documents say it is unlikely either side will settle.Photo: AP
+Swift says David Mueller grabbed her in June 2013 during a visit backstage at the Pepsi Center in Denver.
+Swift says she and her support team didn't call police immediately. Instead they called his boss.
+
+The radio station interviewed Mueller and fired him two days later.
+Mueller denies inappropriately touching Swift on her buttocks and is suing the singer-songwriter for $US3 million ($A3.8 million) in damages for losing his job at country radio station KYGO.
+, seeking $US1 and a ruling that holds him responsible.
+AP 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Colorado</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Mueller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mueller</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Pepsi Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KYGO</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US$ 3</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swift</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June 2013</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Taylor Swift</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Denver</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

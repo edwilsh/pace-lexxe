@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399347631671632</docid>
+  <date>31/07/2017</date>
+  <time>04:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/13/56/missing-victorian-man-s-kayak-found</url>
+  <title>Missing Victorian man's kayak found</title>
+  <content>
+A distinct yellow kayak belonging to a missing Victorian fisherman has been found, but the search for its owner continues.
+Torquay resident Junichi Yoshimura, 41, has been missing for more than four days and after a widespread search his kayak was found on Monday, 16km west of Edithvale in Port Phillip Bay.
+The discovery was made more than 60km east of the Altona boat ramp where Mr Yoshimura's car was parked.
+It is believed the Japanese man left home about 5am on Thursday to go fishing but did not take a wetsuit or life jacket.
+Authorities say Mr Yoshimura often went fishing but it is unclear which direction he had headed.
+The search continues.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Phillip Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Junichi Yoshimura, 41</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Yoshimura</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Torquay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Edithvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

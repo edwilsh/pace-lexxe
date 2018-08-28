@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408160904723340</docid>
+  <date>01/08/2017</date>
+  <time>14:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/bitcoin-price-fork-happens-2017-8</url>
+  <title>Bitcoin splits in 2</title>
+  <content>
+power brokers were unable to come behind a single solution that would have preserved a unified cryptocurrency by Tuesday morning's deadline.
+
+As such, the digital currency has split in two: bitcoin and bitcoin cash.
+
+"There seems to be some technical issues that might be slowing it down, but yes, the fork has happened," Peter Borovykh of Blockchain Global, a blockchain technology company, told Business Insider.
+
+"Bitcoin cash is here."
+
+Eric Voorhees, CEO of ShapeShift, a digital trading company, took to  at around 9:30 a.m. ET to announce the fork this morning.
+
+"Fork has happened," he wrote."Now awaiting first block from bitcoin cash. Regardless of opinions, this is very exciting/fascinating day in cryptoland."
+
+Supporters of the newly formed bitcoin cash (BCC) believe the currency will " the nearly ten-year-old bitcoin by addressing some of the issues that have underpinned the bitcoin (BTC) as of late, such as slow transaction speeds.
+
+To recap, bitcoin power brokers have been squabbling over the rules that should guide the cryptocurrency's blockchain network.
+
+On one side of this civil war, there are the so-called core-developers who are in favour of smaller bitcoin blocks, which make up the network, to protect it against hacks. On the other side, are the miners who want to increase the size of blocks to make the network faster and more scalable.
+
+Until last week, the solution known as Segwit2x, which would increase the size of bitcoin blocks to two megabytes, was slated to become the standard.
+
+Then, bitcoin cash came along. The solution is a fork of the bitcoin system: it's a new software that has all the history of the old platform but bitcoin cash blocks will be eight megabytes.
+
+Bitcoin cash came out of left field, according to Charlie Morris, the chief investment officer of NextBlock Global, an investment firm with digital assets.
+
+"A group of miners who didn't like SegWit2x are opting for this new software that will increase the size of blocks from the current one megabyte to eight," Morris told Business Insider.
+
+Only a minority of bitcoin miners, the folks who unlock bitcoin from bitcoin blocks, support the new currency. Furthermore,  have said they won't back bitcoin cash.
+
+But that doesn't necessarily mean it will be a dud or that it couldn't potentially usurp the original bitcoin. Miners might rally behind bitcoin cash if it turns out to be the better digital currency.
+
+"Bitcoin cash has a chance to become the dominant cryptocurrency contingent upon its ability to gain trust and support from both current and new players as well as security of its network," Borovykh said."Due to, at least temporary, solution of the scalability issues, bitcoin cash could attract more new capital to the entire crypto space, thus helping increase overall market cap."
+
+Arthur Hayes, CEO of BitMex, a bitcoin derivative exchange, told Business Insider he thinks a fork will benefit the cryptocurrency in the long run, despite short term volatility and confusion.
+
+"There are people with billions of dollars of skin in the game and they will ultimately go with the superior bitcoin network and the market will follow," Hayes said.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BCC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SegWit2</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hayes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charlie Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Furthermore</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CEO of BitMex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Borovykh of Blockchain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of ShapeShift</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NextBlock Global</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arthur Hayes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Borovykh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eric Voorhees</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

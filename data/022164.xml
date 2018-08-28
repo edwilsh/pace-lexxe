@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443023154784157</docid>
+  <date>07/08/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4839095/scam-targets-university-landlords/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Scam targets University landlords</title>
+  <content>
+LANDLORDS offering space to University of Newcastle students through proper channels have been warned of potential scam artists operating through the system. 
+Registered providers on Monday received an email from the University of Newcastle warning about two people "that have unfortunately made their way into [the] database."
+The University of Newcastle said emails under the names Paul and Janet Castillo and sending scripted emails posing as father and daughter seeking a room. 
+
+ Ms Castillo's email comes first, the University told landlords, expressing interest in the room and seeking details for her parent to get in touch. 
+The person identifying as Mr Castillo then follows up, saying a US-based financier will take care of his daughter's "payment and some other expenses". 
+"I will instruct him to send a Pay Cheque for Two weeks rent before her arrival so as to secure the room," the email, including in the university's warning, states.
+
+"I will send you her flight details immediately she's through with her assignments in Philippine."
+To accommodate the alleged payment he requests a name, address, city, postcode, email address, phone numbers and rent amount. 
+"I'm very proud of her and i can assure you that you will have nothing to lose by holding your accommodation for her," the emails in Paul Castillo's name state. 
+The University's Off Campus Accommodation section sent the full text to providers to keep them alert to the threat, which they are attempting to remove. 
+"We cannot seem to locate either name in our system and they may have a number of different alias' they use," the University told landlords. 
+
+"Please if you have any doubts on authenticity of potential students/tenants do not proceed and email your communication to offcampusaccommodation@newcastle.edu.au this way we can investigate and let others know too."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Castillo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pay Cheque</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Castillo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philippines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janet Castillo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Castillo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Newcastle</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>University's Off Campus Accommodation</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US-based</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

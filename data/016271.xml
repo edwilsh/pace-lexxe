@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425585587366471</docid>
+  <date>04/08/2017</date>
+  <time>09:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/police-ram-erratic-driver-at-huntingdale-service-station/news-story/2368a16621e937a26f27ee1a30ff2fbe</url>
+  <title>Police ram car in bloodied servo arrest</title>
+  <content>
+A MAN has been arrested and three police officers injured following a bizarre car surveillance operation through southeast Melbourne on Friday afternoon.
+The man, believed to be in his 40s and of no fixed address, was said to be driving erratically before an unmarked police car rammed his vehicle at a petrol station on the Surrey Crescent and Princes Highway junction in Huntingdale about 4pm.
+The man, possibly driving a stolen vehicle, had allegedly attempted to steal petrol from a service station when he was cornered by police, who reportedly phoned and warned the United store in advance.
+His face was bloodied in the dramatic arrest that a United staff attendant described as a "great catch".
+Police had "monitored" the car from Bungower Rd, Mornington after responding to reports of an erratic driver around 3.30pm.
+It's been reported that the man allegedly reached speeds of up to 150km/h as he navigated school traffic.
+"A man has been arrested after he was allegedly driving erratically on Bungower Rd, Mornington area this afternoon. He was the only occupant of the vehicle and has been taken to hospital for treatment for a minor injury," a Victoria Police spokeswoman said.
+An Ambulance Victoria spokesman said paramedics assessed four people all for minor injuries at the scene.
+"Ambulance crews were called to Dandenong Rd just after 4.15pm. Three of those treated were taken by ambulance to Monash Medical Centre in a stable condition," he said.
+As of 7pm on Friday, the man had been arrested but not interviewed or charged.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monash Medical Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surrey Crescent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dandenong Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huntingdale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Princes Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bungower Rd</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mornington</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444526393363308</docid>
+  <date>07/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/pedestrian-goes-through-car-windscreen/news-story/17160ce394b9885a59aeafe5a6c67b2d</url>
+  <title>Pedestrian goes through car windscreen</title>
+  <content>
+BREAKING: A pedestrian has been hit by a vehicle in Bowen.
+Emergency services are rushing to the scene.
+The pedestrian is believed to have gone through the windscreen of the car.
+The crash was reported about 9pm at the intersection of Poole Street and Leichhardt Street.
+The Queensland Police Service and Queensland Ambulance Service are en route to the crash site.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Poole Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bowen</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Police Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leichhardt Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Ambulance Services</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

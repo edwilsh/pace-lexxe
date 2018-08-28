@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437615790899620</docid>
+  <date>06/08/2017</date>
+  <time>08:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/markets/buffetts-insurers-slump-dragging-down-berkshires-earnings-20170806-gxqfuo.html</url>
+  <title>Buffett's insurers slump, dragging down Berkshire's earnings</title>
+  <content>
+Warren Buffett's Berkshire Hathaway Inc is finding it hard to grind out higher profits this year, in large part because of slumping results at its insurance businesses.
+Gains at the conglomerate's railroad and energy units weren't enough to overcome an underwriting loss during the second quarter, the company said Friday in a statement. Operating profit slid for the third straight period.Photo: Nati Harnik
+Buffett, 86, is still sitting on a mountain of cash. At the end of the quarter, his company had almost $US100 billion ($126.1 billion). The record balance prompted the billionaire to say this year that he hadn't put his "foot to the floor" on an acquisition for a long time. It also fuelled speculation that he might buy something that's big even by his standards.
+Mortgages, energy
+
+In the meantime, Buffett has been finding other places to invest. Berkshire bought a stake in a real estate investment trust and agreed in June to prop up Home Capital Group Inc., an embattled Canadian mortgage lender.
+In early July, the energy arm of his conglomerate announced a $9 billion deal to buy the parent company of the largest electric-transmission operator in Texas, though the agreement is being challenged by Paul Singer's Elliott Management Corp. Berkshire has also held talks with Sprint Corp chairman Masayoshi Son about making an investment, according to a person familiar with the matter.
+While those deals could soak up a lot of excess cash at Berkshire, its dozens of businesses continue to generate more. All together, they produced $US4.12 billion of operating profit in the second quarter, an 11 per cent decline from a year earlier. Per share, the figure was $2505, missing the $2791 average estimate of four analysts surveyed by Bloomberg.
+
+The biggest unit, railroad BNSF, reported profit rose 24 per cent to $US958 million. The business has benefited from a surge in coal and other freight shipments this year as it continues to take market share from Union Pacific Corp, its main competitor in the western US.
+Insurance, currencies
+
+The insurance segment posted an underwriting loss of $US22 million, compared with a gain of $337 million a year earlier. Some of the decline was at auto insurer Geico, which incurred more claims costs than a year earlier. Buffett has said the business is willing to endure higher expenses as it adds new customers, because results will improve in the longer term.
+Berkshire's namesake reinsurer swung to an underwriting loss because of costs tied to natural disasters in earlier periods and accounting charges. The business backstops insurers like American International Group Inc. on policies that were sold in prior years. A feature of those deals is that Buffett is often required to record underwriting losses, even though Berkshire is paid upfront and can invest the funds over many years. A weaker dollar also hurt the unit's results.
+Berkshire's other insurance businesses - General Re and its collection of primary carriers - reported higher underwriting income in the quarter. Berkshire's investment income from all the insurance units fell 1 percent to $965 million.
+Profit at the utility unit, Berkshire Hathaway Energy, rose to $US516 million from $US482 million a year earlier. The business operates electric grids in the UK, natural gas pipelines that stretch from the Great Lakes to Texas and power companies in states including Iowa and Nevada.
+Stock sales
+
+The manufacturing, service and retail segment added $US1.66 billion to earnings, compared with $US1.49 billion a year earlier. The division includes Dairy Queen, NetJets, Fruit of the Loom and Precision Castparts, a supplier to the aerospace industry that Buffett bought early last year in one of his biggest acquisitions.
+In all, Buffett and his deputy investment managers, Todd Combs and Ted Weschler, spent about $US3.04 billion on equities in the quarter while selling $US4.36 billion in stock. For fixed-income securities, there were $US23.2 billion of purchases, compared with a combined $US20.3 billion of sales, redemptions and maturities. Berkshire's stock portfolio was valued at more than $US137 billion at the end of June.
+Net income slumped 15 per cent to $US4.26 billion. The figure was hurt by a drop in investment gains and a loss on derivatives. In last year's second quarter, Berkshire recorded a one-time gain of more than $US600 million from the redemption of a preferred stake in Kraft Heinz Co.
+Book value, a measure of assets minus liabilities that's closely tracked by investors, rose 2.7 per cent in the quarter to $182,816 per share. The company's Class A shares have climbed 11 per cent this year to a record $270,000 as of 4pm in New York, matching the gain in the S&P 500 Index. Results were released after the close of trading.
+Bloomberg
+</content>
+  <sindexList>
+  <sindex>
+    <name>US137</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US$100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berkshire</name>
+    <count>10</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>American International Group Inc</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GEICO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$ 600</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Class A</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US516</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Masayoshi Son</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US482</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Great Lakes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fruit of the Loom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3.04</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Singer's Elliott Management Corp</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Buffett</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Union Pacific Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US23.2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US20.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Precision Castparts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sprint Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nevada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NetJets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dairy Queen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Re</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Berkshire Hathaway Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US958</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warren Buffett's Berkshire Hathaway Inc</name>
+    <count>1</count>
+    <score>-0.4</score>
+  </sindex>
+  <sindex>
+    <name>US1.66</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.49</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BNSF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US4.36</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US4.26</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US4.12</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Todd Combs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ted Weschler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Nati Harnik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Buffett, 86</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iowa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kraft Heinz Co</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Home Capital Group Inc</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US$22</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

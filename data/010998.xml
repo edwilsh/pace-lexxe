@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417253350659836</docid>
+  <date>03/08/2017</date>
+  <time>01:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-03/push-for-plastic-bag-&-bottle-ban-in-vanuatu-needs/8770354</url>
+  <title>Push for plastic bag & bottle ban in Vanuatu needs care</title>
+  <content>
+A growing number of Pacific Island countries are moving towards a ban on plastic bags, but Vanuatu is set to go one step further, following Prime Minister Charlot Salwai's Independence Day announcement that he also wants to ban plastic bottles.
+The question now though is whether the Prime Minister's strategy will work.
+The Editor of the Vanuatu Independent, Tony Wilson, says there is plenty of upside to the plan, but if it's to succeed it can't be rushed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vanuatu</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Charlot Salwai's Independence Day</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Wilson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Island</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Editor of the Vanuatu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

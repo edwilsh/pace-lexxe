@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397977537085686</docid>
+  <date>30/07/2017</date>
+  <time>22:41</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/highway-open-after-motorbike-truck-crash/3206827/</url>
+  <title>Highway open after motorbike, truck crash</title>
+  <content>
+THE Cunningham Hwy at Purga has reopened following a traffic crash involving a truck and a motorcyclist early this morning.
+
+The crash happened shortly after 6.30am and closed the highway between Yamanto and Middle Rd.
+
+The male motorcyclist was taken to Ipswich Hospital in a stable condition with leg and chest injuries.
+
+The highway was closed for less than half an hour but it has since opened to traffic.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ipswich Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Yamanto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Purga</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Middle Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cunningham Hwy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

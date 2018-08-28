@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445299487491589</docid>
+  <date>07/08/2017</date>
+  <time>14:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/yancoal-australia-bosses-brokers-try-and-turn-around-the-sceptics-20170806-gxql0p</url>
+  <title>Yancoal Australia bosses, brokers try and turn around the sceptics</title>
+  <content>
+Yancoal Australia has kicked off its hunt for brave listed equities investors with a three-to-five year view and willing to back its Hunter Valley coal expansion story. 
+It's understood Yancoal and its brokers met fund managers in Singapore on Monday, on day one of an investor roadshow seeking to find
+The pitch is all about creating Australia's third largest coal owner and largest pure-play coal producer, with three thermal coal mines in Australia and a sustainable capital structure to support future growth.
+Once it swallows Rio Tinto's Coal & Allied, Yancoal would be running at about 46 million tonnes a year which would make it the third coal producer in the country behind Glencore and BHP. 
+
+It's a tough sell - as Yancoal has been since it was created in 2012 - however management is hopeful that the company changing Coal & Allied acquisition and associated equity raising may tempt fundies to take a second look.
+
+Yancoal told potential investors that its could would be targeted at high efficiency, low emission coal-fired power plants with plenty of new plants under construction in China, South Korea, Japan, India and other countries in the region. EBITDA is pegged at close to $1 billion a year. 
+Yancoal management is expected to spread the word in Asia this week, before returning home to front Australian fund managers next week. It's understood Morgan Stanley and JPMorgan's equities desk were booking investors on Monday. 
+The marketing comes ahead of a shortfall bookbuild scheduled for August 25. With Yancoal's major shareholder Yanzhou only committing to half of its rights, there's expected to be plenty of stock to go around to interested buyers. [There are also steep doubts about its second largest shareholder, Noble Group's, ability and/or willingness to chip into the offer]. 
+The $US2.5 billion raising is backstopped by Yanzhou, fellow Chinese investors Cinda and Lucion Group and Glencore. However, funds have been told that management and the existing owners would like to see some institutional equity managers on the register. 
+
+There are plenty of sceptics, particularly among local resources investors and on equities desks in Sydney and Melbourne, who have watched Yancoal unravel as an equity story in the past five years. It seems more likely to attract longer-minded investors offshore, however the company's brokers will be trying to get a bit of both. 
+Yancoal shares have dropped from 39¢ to 13.5¢ since the deal was announced. The rights issue is at US10¢ a share. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>BHP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal</name>
+    <count>8</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Valley</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Noble Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lucion Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cinda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto's Coal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glencore</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yanzhou</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>August 25</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal Australia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

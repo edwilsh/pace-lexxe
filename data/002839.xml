@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402178015170715</docid>
+  <date>31/07/2017</date>
+  <time>14:59</time>
+  <isTopNews>true</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/europe/wikileaks-release-cache-of-20000-emails-hacked-from-emmanuel-macrons-presidential-campaign/news-story/c5701a4aaca23cdce13e457c2a0dcff4</url>
+  <title>WikiLeaks release cache of 20,000 emails hacked from Emmanuel Macron's presidential campaign</title>
+  <content>
+France's President Emmanuel Macron's presidential campaign's emails were hacked by an unknown actor. Picture: Thibault Camus/AP
+
+Staff writers and agenciesNews Corp Australia Network
+
+Share
+
+ROUGHLY 20,000 emails allegedly stolen from French President Emmanuel Macron's campaign have been digitally verified and published to WikiLeaks, the group said on Monday.
+The emails caused a stir when they were initially published just two days before France's May 7 presidential run-off, which pitted Mr Macron against French far-right leader Marine Le Pen.
+But unlike the leaks that rattled the 2016 American presidential race, the French email leak had little if any impact and .
+
+Around 20,000 emails stolen from Mr Macron's campaign have been published to WikiLeaks. Picture: Michel Euler/AFPSource:AFP
+The messages have since been picked over by the French press, although WikiLeaks' move may draw new attention to them. WikiLeaks said it verified its batch of emails using DomainKeys Identified Mail - or DKIM - signatures, a cryptographic protocol that acts like a digital shipping manifest and has become an increasingly popular way for researchers and tech-savvy journalists to prove that emails are authentic.
+
+The emails caused a stir when they were published just two days before France's presidential run-off between Macron and far-right leader Marine Le Pen, pictured. Picture: AFPSource:AFP
+WikiLeaks said the rest of the emails - about 50,000 of them - were being included "for context." The mystery of who was behind the initial leak of the Macron campaign emails remains unresolved.
+The head of France's cybersecurity agency ANSSI said in June there was no evidence tying the hacking of the Macron campaign emails to any particular actor, saying it "really could be anyone."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WikiLeaks</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thibault Camus/AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Macron</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>France</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macron</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marine Le Pen</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AFPSource</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michel Euler/AFPSource</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>French President Emmanuel Macron</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DKIM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>agenciesNews Corp Australia Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France's President Emmanuel Macron</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>France's May 7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emmanuel Macron</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANSSI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DomainKeys Identified Mail</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

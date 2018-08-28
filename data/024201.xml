@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445776228870877</docid>
+  <date>07/08/2017</date>
+  <time>16:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4837358/what-drives-safest-results/?cs=4200</url>
+  <title>What drives safest results</title>
+  <content>
+Much has been said about the 80/20 rule and how it applies to various events and natural phenomena.
+
+SAFETY: Does environment influence effectiveness?
+Even safety professionals use the Pareto principle to emphasise the importance of hazard prioritisation by assuming 20 per cent of hazards account for 80 per cent of injuries.
+It has been said that environment influences results. I've wondered if this principle applies in developing an effective safety management system. 
+The requirements for establishing an effective safety management system is consistent strategic leadership in which leadership demonstrates an uncompromised commitment to safety, as the process needs to be driven with ongoing support and resources. The program fosters a systems approach, which focuses on the conditions and quality management strategies that includes training and worker involvement. 
+Does this create an environment that influences safety outcomes? 
+Faith Eeson, safety consultant, FOCCALE Safety Management
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>FOCCALE Safety Management</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pareto</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Eeson</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Does</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

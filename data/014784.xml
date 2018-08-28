@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423227650283020</docid>
+  <date>04/08/2017</date>
+  <time>00:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/southwest/free-staff-parking-at-west-end-could-backfire-on-businesses/news-story/e8971b4bff64d3faad759055afbc498e</url>
+  <title>Free staff parking near shops could backfire</title>
+  <content>
+RETAIL workers say it is "ridiculously wrong'' to make them pay for scarce carparking in this busy shopping precinct, but a community group says free staff parking could drive away customers.
+Bianca Wallace said it was "ridiculously wrong'' for staff working at Boundary St, West End to have to pay for scarce carparking.
+Ms Wallace, who has petitioned Brisbane City Council for either free parking for staff or permits, said she received a $50 parking fine after finishing work 30 minutes late.
+West End Community Association president Erin Evans warned a petition to Brisbane City Council calling for free parking for workers in the Boundary St area could force others out of the fast-growing precinct.
+She said staff parking concerns were valid, but was part of a broader issue affecting the suburb.
+"A lot of West End has become a car park," Dr Evans said.
+She said it was "crunch time" for the council, which now faced an urgent need to devise transport solutions.
+"I don't feel like a systemic approach has been taken towards the development of the area."
+She said increasing population projections for West End which, according to the Australian Bureau of Statistics, was expected to grow from 8531 people in 2011 to more than 20,000 by 2031 - were not matched by infrastructure developments.
+She claimed the council had received ample community submissions on the need for West End to keep up with development, but had failed to implement anything of substance. "If we are to be a liveable city ... they are all things the council needs to be listening to.
+"People's voices shouldn't be ... getting worn down."
+A Brisbane City Council spokesman said while there had been 31 complaints about Boundary St parking this year, it would consider implementing changes to parking restrictions only if there was "overwhelming support to do so".
+"Council is committed to finding the balance between the needs of all road users and residents and understands that kerbside space is in high demand ..." the spokesman said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane City Council</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Boundary St</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>West End</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bianca Wallace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West End Community Association</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dr Evans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Wallace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Erin Evans</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

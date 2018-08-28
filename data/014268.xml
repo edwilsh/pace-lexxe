@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423403743944708</docid>
+  <date>04/08/2017</date>
+  <time>01:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/business/breaking-news/webjet-completes-1st-stage-of-cap-raising/news-story/1fe648693627dcb8dbcab64f496824bd</url>
+  <title>Webjet completes 1st stage of cap raising</title>
+  <content>
+Online travel agency Webjet has raised about $93 million from the institutional stage of its capital raising.
+The company says there has been a 98 per cent take-up rate for the first phase of its entitlement offer, at $10 per new share, with the retail element set to open on August 10.
+Webjet, which will resume trading on Friday after a two-day trading halt, plans to raise about $164 million in total to support its acquisition of European travel business JacTravel Group.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>JacTravel Group</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

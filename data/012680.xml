@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418881143291600</docid>
+  <date>03/08/2017</date>
+  <time>07:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/17/39/perth-landlords-warned-on-tenants</url>
+  <title>Perth landlords warned on tenants</title>
+  <content>
+Consumer Protection is warning Perth landlords to closely vet tenants after a fire was sparked by a cannabis farm at a rental property.
+Police found hydroponic and lighting equipment for growing cannabis in three rooms at an Orelia home when tenants set a roof space alight trying to bypass the power metre to steal electricity last month.
+South-East Asian crime gangs were behind a scheme where private landlords were tricked by couples with children into renting their properties, then caused thousands of dollars in damages converting them to grow cannabis, acting commissioner David Hillyard told AAP.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>South-East Asian</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>David Hillyard</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Orelia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

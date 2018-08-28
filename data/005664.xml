@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407246076669242</docid>
+  <date>01/08/2017</date>
+  <time>10:39</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/producers-bar-facing-fines-after-hosting-pembroke-school-formal-afterparty/news-story/6731030a63d4dab5a3b0d49bb6e40cc7</url>
+  <title>Pub hosts underage private school party</title>
+  <content>
+A POPULAR Adelaide pub is facing tens of thousands of dollars in fines after hundreds of underage students from a prominent school descended on the bar for an after-party.
+The Producers bar hosted about 400 teenagers on Saturday at what the students said was an 18th birthday party but was actually the Pembroke formal after-party.
+Pub management shut the party down once they realised the age of the patrons.
+Pembroke principal Luke Thompson said he was disappointed by the after-party but distanced the prestigious private school from the actions of its students.
+"The school has very clear policies and guidelines for all members of the school community regarding parties ... we do not condone underage alcohol consumption," Mr Thompson said.
+"Such events are organised independently of the school and we actively and strongly discourage after parties."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pembroke</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Thompson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Luke Thompson</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>POPULAR Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

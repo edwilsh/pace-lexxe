@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412142339477825</docid>
+  <date>02/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/15/28/tram-crash-melbourne-collide-southern-cross-station</url>
+  <title>At least 15 injured after two trams collide in Melbourne's CBD</title>
+  <content>
+Two trams have collided in Melbourne's CBD, causing minor injuries at least 15 commuters.
+Authorities were called to Bourke and Spencer Streets around 2:30pm today after one tram collided with another from behind near Southern Cross Station.
+It is believed 15 people, including six children, have suffered minor injuries and are being assessed by paramedics.
+Yarra Trams said the 86 and 96 routes, which both travel on Bourke Street, are being diverted.
+They are diverting via La Trobe Street between Spencer Street and Melbourne Museum.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bourke Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Trams</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>La Trobe Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bourke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Museum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern Cross Station</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Spencer Street</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

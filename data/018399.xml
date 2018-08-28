@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431641491338125</docid>
+  <date>05/08/2017</date>
+  <time>09:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-05/afl-players-will-always-gravitate-back-to-victoria/8778142</url>
+  <title>Why AFL players will always gravitate back towards Victoria</title>
+  <content>
+The secret is out: as much as the AFL tries to deny it, player movement inevitably works to the advantage of the Victorian clubs.
+It is simply a numbers game.
+Despite the existence of the draft and a salary cap to spread players around the 18 clubs, the home factor keeps coming up.
+Speaking on ABC Grandstand's Saturday Agenda, leading player manager Craig Kelly proclaimed players were not just chasing money when they moved clubs, using Adelaide to demonstrate his point.
+"One of the pressures they have is losing players back to Victoria, because that's where most of the draft still comes from," Kelly said.
+He used the example of utility player Andy Otten, 28, who was drafted in 2007 and played 96 games with the Crows before being dropped this week - despite playing 17 of a possible 18 games this season.
+"He wants to stay at the Crows but you're not going to get the opportunity if all those players are fit and healthy should he come back to Victoria where he's from," Kelly said.
+"Is he being disloyal? No, he just wants to extend his career for as long as possible because he loves doing his trade."
+And if he wants to continue playing at another club, then heading back across the border makes sense given there are 10 Victorian clubs to choose from.
+
+"One of the reasons why I think GWS and Gold Coast are going to be under the pump - especially GWS and the way it was set up - was they grabbed a heap of guys from Victoria," Kelly said.
+"A lot of those guys are going to - unless they keep that winning environment and that elite environment and environment that they love up there - a lot of them will come back to Victoria."
+Of course, they might also be interested in the lucrative money from those Victorian clubs as well.
+In any case, Kelly was asked if it was necessary to do something about the Victorian advantage.
+"I think we've got enough rules," he said.
+"I'm a great believer in a free market and we haven't got a free market.
+"It's a draft, it's salary cap. There's enough rules. If you're a good club, you're well run, you've got great facilities, you've got the right players around, you've got the right coaches, you'll be able to keep those players."
+Unless, of course, they want to go home to Victoria.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>CROWS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>ABC Grandstand's Saturday Agenda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andy Otten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Craig Kelly</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>4</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>GWS</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kelly</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

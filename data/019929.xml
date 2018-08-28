@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436503394360513</docid>
+  <date>06/08/2017</date>
+  <time>04:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/knight-heros-broken-back/3209281/</url>
+  <title>Knight hero's broken back</title>
+  <content>
+NEWCASTLE fullback Nathan Ross has been diagnosed with a fractured back following the Knight's NRL win over the Warriors on Saturday.
+The Knights' first back-to-back victory in almost two years came at a heavy cost with the fan favourite (pictured) going down with what appears to be a serious injury.
+Ross was hospitalised and taken for scans after copping an accidental knee from Blake Ayshford with the club giving no timeline for his recovery.
+"He was taken to hospital for scans, which confirmed a fracture of the L1 transverse process," the club said in a statement.
+"Ross' injury will not require surgery."
+Ross has been one of the club's best performers this year and his absence will leave the Knights with a gaping hole to fill with four games remaining.
+Peter Mata'utia filled in at fullback during the second half against the Warriors, while Dane Gagai has also played on occasions in the No.1 jumper over the last three seasons.
+</content>
+  <sindexList>
+  <sindex>
+    <name>L-1</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Blake Ayshford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Knight's NRL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dane Gagai</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ross</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Knight</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nathan Ross</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Peter Mata</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

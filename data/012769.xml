@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419542568268160</docid>
+  <date>03/08/2017</date>
+  <time>10:22</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/india-kashmir-rebel-ambushes-kill-four/news-story/f64fcfe9123e20d690b853dd4773e49e</url>
+  <title>India, Kashmir rebel ambushes kill four</title>
+  <content>
+Ambushes by Indian government forces and Kashmiri rebels have killed two soldiers and two militants in the disputed Himalayan region.
+Militants ambushed soldiers in southern Shopian area on Thursday as troops raided a village, police director-general SP Vaid said.
+He said two Kashmiri rebels were killed separately as they walked into an ambush laid by government forces in southern Kulgam area.
+Both rebels belonged to the largest Kashmiri rebel group, Hizbul Mujahideen.
+Thousands of Kashmiris tuned up at the funeral of one of the slain rebels, chanting slogans in favour of Pakistan and rebels and demanding an end of Indian rule over the region.
+Meanwhile, hundreds of villagers threw rocks at a raiding party of police and soldiers in Shopian area on Wednesday night and helped at least two rebels to escape the security dragnet, police and witnesses say.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kashmiri</name>
+    <count>4</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Kashmir</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indian</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Pakistan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Himalayan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hizbul Mujahideen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shopian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SP Vaid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kulgam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707599932</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/09/22/tanker-fire-causes-brisbane-traffic-chaos</url>
+  <title>Tanker fire causes Brisbane traffic chaos</title>
+  <content>
+A gas tanker has caught fire on southeast Queensland's M1 motorway, sending thick black smoke billowing across the nearby area.
+A spokesman for Queensland Fire Service said the medium-sized tanker is well alight and four fire crews are rushing to the scene.
+A scientific officer has been sent to assess the risk posed by the chemical incident.
+Queensland Police are diverting traffic off at the Bryan Road Exit and are clearing nearby businesses as an added precaution.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Queensland Police</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bryan Road Exit</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland's M1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

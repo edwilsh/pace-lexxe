@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440669512676133</docid>
+  <date>06/08/2017</date>
+  <time>20:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-07/explainer-what-is-artificial-intelligence/8771632</url>
+  <title>Explainer: What is artificial intelligence?</title>
+  <content>
+Related Story:
+
+Artificial intelligence has jumped from sci-fi movie plots into mainstream news headlines in just a couple of years.
+And the headlines are often contradictory. AI is either a technological leap into greater prosperity or mass unemployment; it will either be our most valuable servant or terrifying master.
+But what is AI, how does it work, and what are the benefits and the concerns?
+What is artificial intelligence?
+
+AI is a computer system that can do tasks that humans need intelligence to do.
+"An intelligent computer system could be as simple as a program that plays chess or as complex as a driverless car," Mary-Anne Williams, professor of social robotics at the University of Technology, Sydney, said.
+A driverless car, for example, relies on multiple sensors to understand where it is and what's around it. These include speed, location, direction and 360-degree vision. Based on those inputs, among others, the "intelligent" computer system controls the car by deciding, like a human would, when to turn the steering and when to accelerate or brake.
+Then there's machine learning, a subset of AI, which involves teaching computer programs to learn by finding patterns in data. The more data, the more the computer system improves.
+"Whether it's recognizing objects, identifying people in photos, reading lung scans or transcribing spoken mandarin, if we pick a narrow task like that [and] we give it enough data, the computer learns to do it as well as, if not better, than us," University of New South Wales professor of artificial intelligence Toby Walsh said.
+AI doesn't have to sleep or make the same mistake twice. It can also access vast troves of digital data in seconds. Our brains cannot.
+Do I already use AI?
+
+Yes, probably every day.
+AI is in your smart phone; it's there every time you ask a question of iPhone's Siri or Amazon's Alexa. It's in your satellite navigation system and instant translation apps.
+AI algorithms recognise your speech, provide search results, help sort your emails and recommend what you should buy, watch or read.
+"AI is the new electricity," according to Andrew Ng, former chief scientist at Baidu, one of the leading Chinese web services companies. AI will increasingly be all around you from your phone to your TV, car and home appliances.
+
+Why are we talking about it now?
+
+Four factors have now converged to push AI beyond games and into our everyday lives and workplaces:
+
+Computer processing power is doubling every two years (known as Moore's Law)
+The amount of data being generated is doubling every year (AI algorithms are hungry for data)
+Recently, the amount of AI funding has also been doubling every two years
+There is now 50 years of established AI research, giving us better and better algorithms
+The term artificial intelligence was first coined in 1956 by US computer scientist John McCarthy. Until recently, the public mostly heard about AI in Hollywood movies like The Terminator or whenever it defeated a human in a competition.
+In 1997, IBM's Deep Blue computer beat Russian chess master Garry Kasparov. In 2011, IBM's supercomputer Watson beat human players on the US game show Jeopardy. Last year, .
+"We now have the compute power, the data, the algorithms and a lot of people working on the problems," Professor Walsh said.
+Can AI help us?
+
+AI promises spectacular benefits for humanity, including better and more precise medical diagnosis and treatment; relieving the drudgery and danger of repetitive and dehumanising jobs; and super-charging decision making and problem solving.
+"Driverless cars could save many, many lives because 95 per cent of accidents are due to human error," Professor Walsh said.
+"Many of the problems that are stressing our planet today will be tackled through having better decision making with computers" that access and analyse vast troves of data, he said.
+
+External Link:
+
+Nao, a robot developed by French robotics company Aldebaran
+But can it also hurt us?
+
+There are a range of concerns:
+
+That the AI and robotics revolution might create mass unemployment inside a generation
+That AI will further undermine privacy and democracy through greater mass surveillance by governments and companies
+That we will be more easily manipulated by personalised algorithms creating fake news
+That algorithms will be biased but will be used to decide important issues in our lives such as insurance claims, job applications, loan applications and even judicial sentencing
+That all sounds bad. So, will it overtake humanity?
+
+Experts are famously split on this.
+
+Prominent tech entrepreneurs and scientists such as Elon Musk and Stephen Hawking, among others, warn that AI could reach and quickly surpass humans, transforming into super-intelligence that would render us the second most intelligent species on the planet.
+Musk has compared it to "summoning the demon". Scientists call it singularity, "where machines improve themselves almost without end," Professor Walsh said.
+Facebook's Mark Zuckerberg accuses Musk of being alarmist. Professor Walsh says we don't yet even fully understand all the facets of human intelligence and there may be limits to how far AI can develop.
+He's surveyed 300 of his AI colleagues around the world and most believe if AI can reach human level intelligence, it is at least 50 to 100 years away.
+If it happens, humanity will likely have already solved most of the problems about whether the machines' values are aligned with ours. "I'm not so worried about that," he says.
+And who controls it?
+
+The recent push into AI came from big US tech companies such as Google, Facebook, Amazon, Microsoft and Apple. And the US military. What could go wrong?
+There's growing concern that these companies are too big and control too much data, which trains the AI algorithms.
+China has now also joined the race with plans to dominate the world in AI development by 2030.
+There's presently very little national or international regulation around how AI is developed. The Big Tech companies have begun discussing the need for guiding principles to ensure AI is only used for public good.
+"One of those is what is the point of AI? It has to be to augment people, to support people, not replace them," Microsoft Australia national technology officer James Kavanagh says.
+"Secondly, it has to be democratised. It can't be in the hands of a small number of technology companies.
+"Thirdly, it has to be built on foundations of trust. We need to be able to understand any biases in algorithms and how they make decisions."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone's Siri</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Watson</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AI</name>
+    <count>29</count>
+    <score>16</score>
+  </sindex>
+  <sindex>
+    <name>Nao</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Ng</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>IBM</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Toby Walsh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Terminator</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon's Alexa</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Wales</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>James Kavanagh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mary-Anne Williams</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Walsh</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Garry Kasparov</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook's Mark Zuckerberg</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of New</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Aldebaran</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Big Tech</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Musk</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>IBM's Deep Blue</name>
+    <count>1</count>
+    <score>2.7</score>
+  </sindex>
+  <sindex>
+    <name>Moore's Law</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John McCarthy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Hawking</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hollywood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baidu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

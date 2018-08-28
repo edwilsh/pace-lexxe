@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398707681535853</docid>
+  <date>31/07/2017</date>
+  <time>01:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/manitou-acquires-stake-aussie-lifting-company/</url>
+  <title>Manitou acquires stake in Aussie lifting company - Australian Mining</title>
+  <content>
+Latest News
+
+French rough terrain materials handling equipment supplier Manitou has acquired a 55 per cent stake in Australian lifting company LiftRite.
+An additional purchase option also allows Manitou to reach a 96 per cent interest in the company over the next three years.
+Founded in 1983, Western Australian-based LiftRite distributes Manitou, Kobelco, Gel and Kalmer products for the mining and construction industries. LiftRite generated 12 million in sales revenue ($19.8 million) in 2016, of which around 65 per cent came from Manitou products.
+Manitou managing director Michel Denis welcomed the acquisition and praised LiftRite's expertise.
+"Thanks to the acquisition in Australia, we are strengthening our presence in the mining sector while continuing to develop the company's brands, markets and current portfolio of activities in this area," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LiftRite</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Western Australian-based LiftRite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kalmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Manitou</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kobelco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michel Denis</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

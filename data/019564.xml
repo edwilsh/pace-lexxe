@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436623653445633</docid>
+  <date>06/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/boy-injured-after-falling-on-rocks-avon-descent-white-water-race/8779260</url>
+  <title>Boy injured after falling onto rocks at Avon Descent white water race</title>
+  <content>
+A teenage boy has been injured after falling from a bridge onto rocks at Bells Rapids while watching the Avon Descent, a white water race held annually east of Perth.
+The accident happened about 11:15am as competitors continued to race through the rapids.
+It took emergency services about 20 minutes to stretcher the boy off the rocks, with fast moving water making the rescue difficult.
+He was being assessed at the scene.
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Avon Descent</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bells Rapids</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

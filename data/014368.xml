@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423489643292232</docid>
+  <date>04/08/2017</date>
+  <time>01:41</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/china-says-indian-troops-massing-on-border/news-story/f1221ae5bfd391f3ee538ef6e7a33aa3</url>
+  <title>China says Indian troops massing on border</title>
+  <content>
+China's Foreign Ministry says India has been building up troops and repairing roads along its side of the border amid an increasingly tense stand-off in a remote frontier region beside the Himalayan kingdom of Bhutan.
+The stand-off on a plateau next to the mountainous Indian state of Sikkim, which borders China, has ratcheted up tension between the neighbours, who share a 3500km frontier, large parts of which are disputed.
+"It has already been more than a month since the incident, and India is still not only illegally remaining on Chinese territory, it is also repairing roads in the rear, stocking up supplies, massing a large number of armed personnel," the foreign ministry said in a statement.
+"This is certainly not for peace."
+Early in June, according to the Chinese interpretation of events, Indian guards crossed into China's Donglang region and obstructed work on a road on the plateau.
+The two sides' troops then confronted each other close to a valley controlled by China that separates India from its close ally, Bhutan, and gives China access to the so-called Chicken's Neck, a thin strip of land connecting India and its remote northeastern regions.
+India has said it warned China that construction of the road near their common border would have serious security implications.
+</content>
+  <sindexList>
+  <sindex>
+    <name>China's Foreign Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's Donglang</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bhutan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indian</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Himalayan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sikkim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chicken's Neck</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

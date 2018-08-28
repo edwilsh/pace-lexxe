@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412550361377761</docid>
+  <date>02/08/2017</date>
+  <time>07:14</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/these-scientists-are-debating-how-we-decide-what-results-count/</url>
+  <title>These Scientists Are Debating How We Decide What Results Count</title>
+  <content>
+"Science" might mean something crazy to you, like groundbreaking new treatments, wild new animals, explosions in space, or crazy chemistry. But at its core, science is nothing more than ruling out hypotheses based on evidence. A new debate is flaring about one of science's important concepts: How we decide what constitutes a positive result.
+
+Image: /Flickr
+
+At the centre of the debate is the concept of "statistical significance". Much of science involves testing a control versus an experiment, like a die versus a weighted die. The "null hypothesis" means that the experimental outcome was exactly the same as the control. "Statistically significant", on the other hand, means that after collecting all of the data, the experiment and control were different enough and the sample was large enough that the null hypothesis can reasonably be ruled out. In other words, the experimental treatment had a real, measurable effect.
+
+Currently, scientists gauge statistical significance using a number called the p-value: If the p-value is less than .05, that means there's a five per cent chance the control alone would have produced the results that the experiment produced. But a growing number of researchers aren't comfortable with that .05 value, and one team is now proposing redefining statistical significance to a p-value of .005 - only a .5 per cent chance of the control producing the results observed in the experiment. In short, these researchers are calling for scientists to adopt much higher standards for what they deem to be "real" results.
+
+This could have implications for experiments in many fields such as biology and medicine, and could require scientists to work much harder to prove their hypotheses.
+
+"The lack of reproducibility of scientific studies has caused growing concern over the credibility of claims of new discoveries based on 'statistically significant' findings," a group of 72 scientists writes in  that will be published in the journal Nature Human Behaviour. "...We believe that a leading cause of non-reproducibility has not yet been adequately addressed: Statistical standards of evidence for claiming new discoveries in many fields of science are simply too low. Associating 'statistically significant' findings with P < 0.05 results in a high rate of false positives."
+
+The researchers admit that defining statistical significance as .005 is about as arbitrary as using .05 - it's just a threshold used to reduce the likelihood of false positives in an experiment. But just think, particle physics uses a p-value of p=0.0000003,  a Scientific American blog post. This means that, in a particle physics experiment, when scientists compare their control (the laws of physics without new particle) to the experiment (the laws of physics including the new particle), there's only a 0.00003 per cent chance the laws of physics without the new particle would produce the results they see. Particle physics does not let new particles in easily.
+
+The researchers call out the fact adopting a stricter p-value as the standard for statistical significance would put a lot more work onto scientist's plates - they'd need to take 70 per cent more data, according to the new paper, since taking more data is a way to make the experiment better stand out from the control. Nor would the changing the threshold for statistical significance combat "p-hacking", a controversial practice where a scientist tests multiple hypotheses at the same time with the hope that one of them just ends up with a p-value less than .05 based on luck alone, or other biases. They also point out that papers with p-values higher than .05 and less than .05 should be labelled "suggestive evidence".
+
+Obviously, there is a lot to discuss. Microbiologist Jonathan Eisen from the University of California, Davis said he wasn't "100% certain" as to whether he supported the revised p-value in a  After all, taking more data costs more money and takes more time. Some have worried about how this might affect the  as Science reports, or that it is the "least of our problems" in science at our current era in history, as psychologist Timothy Bates from the University of Edinburgh  in a blog post.
+
+At this point, we know there's a reproducibility crisis in science. Those trying to get the same results as past cancer and psychology studies are coming up without the . So for now, just know that there's conversation brewing to address this, and folks want to see change.
+
+[ via ]
+
+WATCH MORE: Science & Health News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flickr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Davis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scientists Are Debating How We Decide What Results Count</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scientific American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nature Human Behaviour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P < 0.05</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Edinburgh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Eisen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Timothy Bates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

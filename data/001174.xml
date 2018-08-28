@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398870890295088</docid>
+  <date>31/07/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/11/50/afp-confident-in-local-airport-security</url>
+  <title>AFP confident in local airport security</title>
+  <content>
+The head of the Australian Federal Police says travellers should be "very confident" in the security level at Australian airports.
+Commissioner Andrew Colvin says state and federal officers have increased their presence in the wake of a foiled terror attack and the security level will continue to be reviewed.
+"We have very good security at airports now," he said on Monday. "What we are doing, what you're seeing at the moment is making sure there is extra vigilance, to make sure we aren't cutting any corners in our security."
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Commissioner Andrew Colvin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

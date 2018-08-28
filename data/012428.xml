@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418026444784897</docid>
+  <date>03/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4831540/dramatic-arrest-on-industrial-drive/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Dramatic arrest on Industrial Drive</title>
+  <content>
+A POLICE chase that began in Port Stephens has ended with a dramatic arrest in front of scores of motorists on Industrial Drive.
+A wanted man, 19, was pulled over in Medowie about 9.15am in a Holden sedan.
+However, police said as they approached the car, the Holden started to reverse, "striking one officer and causing minor injuries".
+A police officer attempted to stop the car, but was unsuccessful, with the driver accelerating away, a statement said.
+
+A pursuit ensued but was terminated by police in Williamtown due to safety concerns.
+A short time later, police located the Holden in Mayfield, but the car broke down on Industrial Drive.
+
+With the driver's luck running out, it is alleged he made a dash on foot and attempted to enter the cab of a truck. Police allege he assaulted the truck driver.
+Police said the 19-year-old was pulled from the vehicle and arrested.
+The driver's passengers, a 20-year-old woman and a 17-year-old boy, were earlier arrested.
+The woman and the boy were released without charge.
+The 19-year-old was taken to hospital with minor injuries.
+
+He is expected to be charged with a number of outstanding warrants and other offences.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Medowie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Industrial Drive</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Williamtown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Stephens</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

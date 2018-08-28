@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404458642847076</docid>
+  <date>31/07/2017</date>
+  <time>23:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/technology/searches-about-suicide-and-suicidal-methods-jump-following-release-of-13-reasons-why/news-story/4bebf10e45eb5bc8309bff4b8afb15f6</url>
+  <title>Suicide searches surge after Netflix show</title>
+  <content>
+ONLINE searches about suicide and suicidal methods soared in the weeks following the release of controversial Netflix drama 13 Reasons Why, about a teenage girl who killed herself, US researchers say.
+While the report in the Journal of the American Medical Association (JAMA) Internal Medicine did not examine whether the number of actual suicides rose following the popular drama's release, researchers said the spike in internet searches is cause for concern.
+Overall, suicide-related queries were 19 per cent higher than expected following the show, said the research letter in JAMA.
+"There were between 900,000 and 1,500,000 more suicide-related searches than expected during the 19 days following the series' release," said study co-author Mark Dredze, a professor of computer science at Johns Hopkins University.
+Phrases like "how to commit suicide" rose 26 per cent, "commit suicide" was up 18 per cent and "how to kill yourself" increased nine per cent.
+On the flip side, searches for phrases like "suicide hotline" were up 12 per cent, and "suicide prevention" rose 23 per cent.
+"While it's heartening that the series' release concurred with increased awareness of suicide and suicide prevention, like those searching for "suicide prevention," our results back up the worst fears of the show's critics," said lead author John Ayers, research professor at San Diego State University Graduate School of Public Health.
+"The show may have inspired many to act on their suicidal thoughts by seeking out information on how to commit suicide."
+Supporters have praised the drama - in which a friend listens to a series of audiocassette journals left behind by the deceased girl - for its frank portrayal of adolescent struggles.
+Critics say the show did not provide enough referrals to suicide prevention resources for people who may be at risk, and depicted a suicide in graphic detail during the final episode.
+Researchers analysed Google trends for searches originating inside the United States between March 31, 2017 - the day the series was released - and April 18.
+They stopped their analysis then because former National Football League player Aaron Hernandez's suicide on April 19 might have influenced the trends.
+For comparison, researchers used the period between January to March, prior to the show's release, to determine the typically expected volumes for these words and phrases.
+Previous research has shown that "suicide search trends are correlated with actual suicides," and that "media coverage of suicides concur with increased suicide attempts," said the letter in JAMA.
+Researchers urged the series' creators to add suicide prevention hotline numbers to old episodes, which are still available online.
+They should also follow the World Health Organisation's media guidelines for preventing suicide, "such as removing scenes showing suicide."
+If you or someone you love is in crisis or needs support right now, please call  on 13 11 14 or Suicide Call Back Service 1300 659 467.
+Young people aged 5 to 25 years can call  on 1800 55 1800
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Suicide Call Back Service 1300 659 467</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>World Health Organisation</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Journal of the American</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internal Medicine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Football League</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Medical Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Dredze</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Diego State University Graduate School of Public</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 19</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reasons Why</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aaron Hernandez</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Ayers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jama</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Johns Hopkins University</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

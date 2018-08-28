@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412056440130760</docid>
+  <date>02/08/2017</date>
+  <time>05:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/15/08/man-wanted-over-gold-coast-woman-s-bashing</url>
+  <title>Man wanted over Gold Coast woman's bashing</title>
+  <content>
+A Gold Coast woman has been severely bashed and had her luxury car stolen after challenging a man she saw trying to break into an apartment building.
+After the 54-year-old was punched repeatedly in the face her attacker stole her silver Mercedes, which was found at Coolangatta in the early hours of Wednesday.
+"She saw a man attempting to gain entry to a locked stairwell leading to a unit," police said.
+A man in the car has been arrested, but officers also want to question another man, Dylan Slingsby, over the incident.
+"Anyone who sees Slingsby should not to approach him but call police immediately," police said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dylan Slingsby</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mercedes</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Coolangatta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Slingsby</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411240396332352</docid>
+  <date>02/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/03/32/vic-bikies-to-face-court-for-alleged-arson</url>
+  <title>Vic bikies' arson charges reach court</title>
+  <content>
+A group of bikies charged with burning down two tattoo parlours in Melbourne have had their matters mentioned in court for the first time.
+Rocco Princi, Nathan Rosendale, Sean Streicher, Brayden Lee and Lee Gordon, whom police say have links to the outlaw Finks bikie gang, each face charges of arson and burglary which were listed in the Melbourne Magistrates Court on Wednesday.
+They were part of a larger group of nine men, aged between 23 and 52, allegedly responsible for causing $250,000 worth of damage and destroying two shops at Seville and Lilydale in May.
+The five men are due back in court on October 17 while their co-accused are expected to appear on Thursday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rocco Princi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lilydale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seville</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brayden Lee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sean Streicher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Lee Gordon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fink</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 17</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nathan Rosendale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

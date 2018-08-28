@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433015880885979</docid>
+  <date>05/08/2017</date>
+  <time>14:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/trump-counters-criticism-of-his-national-security-adviser/8778228</url>
+  <title>Donald Trump defends national security adviser amid criticism from conservatives</title>
+  <content>
+US President Donald Trump has issued a defence of his national security adviser General HR McMaster, against criticism that he is not supportive enough of Israel and is stifling conservative viewpoints.
+General McMaster, an Army lieutenant general, came under attack after the recent firing of White House intelligence adviser Ezra Cohen-Watnick, a protege of .
+Critics have accused General McMaster of trying to remove conservative voices from the President's national security team.
+He was also the subject of a widely circulated Facebook post by a Jerusalem Post columnist that called him "deeply hostile to Israel."
+Mr Trump came out with a public endorsement late on Friday (local time).
+"General McMaster and I are working very well together," he said in a statement.
+"He is a good man and very pro-Israel. I am grateful for the work he continues to do serving our country."
+Mr Trump's statement of support comes after .
+New White House chief of staff John Kelly, a retired four-star Marine general, is now seeking to impose order on a chaotic West Wing.
+Mr Cohen-Watnick's departure came as part of a string of shake-ups at the White House and national security council.
+General McMaster had sought to remove him in March when CIA leaders raised concerns about him, but Mr Cohen-Watnick appealed to Mr Trump's top advisers, Steve Bannon and Jared Kushner.
+On Friday, Mr Kushner also offered support for General McMaster.
+Speaking to The New York Times, he called General McMaster "a true public servant and a tremendous asset".
+Mr Trump had recently pondered a different role for General McMaster.
+In a recent Situation Room meeting, the President - who is frustrated by his options in Afghanistan - raised the idea of firing the top US commander in Afghanistan and replacing him with General McMaster, according to officials with knowledge of the discussion.
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Israel</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Kushner</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>General HR McMaster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Situation Room</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Wing</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ezra Cohen-Watnick</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Steve Bannon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Cohen-Watnick</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jared Kushner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jerusalem Post</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>General McMaster</name>
+    <count>8</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CIA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

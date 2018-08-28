@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443066104457772</docid>
+  <date>07/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/15/29/qld-man-charged-over-dodgy-caravan-sales</url>
+  <title>Qld man charged over dodgy caravan sales</title>
+  <content>
+A Brisbane man who allegedly sold written-off caravans will face court later this month charged with 81 separate offences.
+The 65-year-old from Manly West is accused of buying caravans from NSW that had been irreparably damaged by hail, flood and impact, transporting them to Queensland and on selling them.
+Drug and Serious Crime Group Detective Inspector Lance Vercoe said customers who bought one of the vehicles could apply for compensation through the Office of Fair Trading.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Serious Crime Group Detective Inspector Lance Vercoe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Office of Fair</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manly West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

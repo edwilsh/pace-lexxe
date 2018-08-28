@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441227858431003</docid>
+  <date>06/08/2017</date>
+  <time>22:31</time>
+  <isTopNews>true</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4836954/olympic-champion-betty-cuthbert-dead-at-79/?cs=298</url>
+  <title>Olympic champion Betty Cuthbert dead at 79</title>
+  <content>
+Betty Cuthbert. Picture: Michael Rayner. Right: Betty in 1955. Picture: Ern McQuillan
+Olympic champion Betty Cuthbert has died at the age of 79.
+The one-time world record holder died after a long battle with multiple sclerosis.
+Cuthbert was a four-time Olympic gold medallist, winning three at the 1956 Melbourne games in the 100m, 200m and 4x100m relay events.
+Cuthbert, who also won gold in the 400m eight years later at the Tokyo Olympics, was a torch bearer at the opening ceremony for the Sydney Olympic Games.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cuthbert</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Betty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Betty Cuthbert</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Ern McQuillan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Olympics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Michael Rayner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

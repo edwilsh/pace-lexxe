@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422536160536188</docid>
+  <date>03/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/north-korea-the-focus-of-weapons-talks/news-story/f46f0ade040e1431f0d98c739c76cfb0</url>
+  <title>North Korea the focus of weapons talks</title>
+  <content>
+The North Korea nuclear threat has been a focus of talks in Canberra between the US and Australian officials on weapons of mass destruction.
+The talks had a special focus on both countries' efforts to promote the effective third country implementation of United Nations Security Council resolutions on North Korea.
+A US Department of State spokesperson said the sixth counter-proliferation dialogue had also considered trade controls and an upcoming military exercise in September to be held in Cairns.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US Department of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Security Council</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

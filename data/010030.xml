@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414843873962428</docid>
+  <date>02/08/2017</date>
+  <time>16:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/03/02/05/trump-signs-flawed-russia-sanctions-bill</url>
+  <title>Trump signs 'flawed' Russia sanctions bill</title>
+  <content>
+US President Donald Trump says a bill imposing sanctions on Russia, North Korea and Iran is "seriously flawed" because it hinders his ability to negotiate.
+In a statement Wednesday, Trump said he signed the bill, which imposes tough measures to "punish and deter bad behaviour by the rogue regimes in Tehran and Pyongyang" and enhance existing sanctions on Moscow.
+But Trump says "the bill remains seriously flawed - particularly because it encroaches on the executive branch's authority to negotiate."
+Trump adds that "by limiting the Executive's flexibility, this bill makes it harder for the United States to strike good deals for the American people, and will drive China, Russia, and North Korea much closer together. "
+But he says, he is signing the bill "for the sake of national unity."
+House Democratic leader Nancy Pelosi said Trump's statement 'raises serious questions about whether his administration intends to follow the law'.
+(C)  AP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tehran</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nancy Pelosi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>House Democratic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

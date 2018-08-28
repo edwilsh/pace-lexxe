@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416218263523568</docid>
+  <date>02/08/2017</date>
+  <time>21:28</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/kiwi-held-down-as-employment-shrinks/news-story/03d2ce3568402374581acd13356be6aa</url>
+  <title>Kiwi held down as employment shrinks</title>
+  <content>
+The New Zealand dollar has remained under pressure after weaker than expected employment data added to the view that the Reserve Bank has plenty of scope to keep interest rates on hold for a protracted period.
+The kiwi traded near a week-low at US74.33 cents as at 8am on Thursday in Wellington from US74.28c on Wednesday. The trade-weighted index was at 78.10 from 78.16.
+Government figures on Wednesday showed employment shrank 0.2 per cent in the June quarter, surprising economists who had been anticipating a seventh straight quarter of expansion.
+While other details, including the headline unemployment rate at 4.8 per cent, continued to show a robust labour market, the weaker employment reading prompted ASB Bank to push out its predicted timing for a rate hike until early 2019, bringing it in line with the central bank's own forecasts.
+"The labour market reports weren't actually that bad, with other measures of employment and hours-worked showing solid gains, the unemployment rate falling to 4.8 per cent, its lowest level since 2008, and wage growth showing hints of bottoming out in nominal terms," BNZ currency strategist Jason Wong said.
+"But with record long speculative positioning, the NZD is priced for perfection and there was nothing in the report to suggest that the RBNZ would move anytime soon from its neutral policy stance."
+On Thursday morning, the kiwi traded at 93.27 Australian cents from A93.33c and was little changed at 4.9950 Chinese yuan from 4.9957 yuan.
+The local currency traded at 56.19 British pence from 56.23p, edged down to 62.70 euro cents from 62.80c and traded at 82.26 yen from 82.34 yen.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BNZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZD</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>ASB Bank</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RBNZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jason Wong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US74.28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US74.33</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wellington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kiwi</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

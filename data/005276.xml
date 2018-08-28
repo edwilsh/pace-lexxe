@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406395673128080</docid>
+  <date>01/08/2017</date>
+  <time>07:21</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/afghan-forces-lose-2531-troops-this-year/news-story/c6510e0c2163c0953517292efc19ca61</url>
+  <title>Afghan forces lose 2531 troops this year</title>
+  <content>
+Reuters
+
+Share
+
+A total of 2531 Afghan security forces have been killed and 4238 wounded in the first four months of the year.
+The figures released on Tuesday in a report compiled by the US Congress Special Inspector General for Afghanistan are consistent with those from the same period last year.
+SIGAR said in February at least 6785 Afghan soldiers and police were killed in the first 10 months of 2016.
+The figures, showing about 20 soldiers and police being killed every day, underline the challenge for the NATO-led training and advisory mission trying to build up Afghan security forces.
+The United States is expected to send about 4000 troops to boost the mission but is yet to announce its long-awaited new strategy for the region.
+US officials have warned repeatedly that Afghan forces have been suffering unsustainably high casualties against the Taliban partly because of tactics that include a heavy reliance on vulnerable checkpoints.
+Last week 30 Afghan soldiers were killed in the southern province of Kandahar when their checkpoint was overrun by Taliban fighters.
+US officers say troops defending checkpoints suffer as much as 10 times the level of casualties as they do during offensive operations.
+However they have struggled to persuade Afghan commanders to cut their use, partly because local politicians say the checkpoints are needed as a visible sign of government presence in isolated areas.
+
+The SIGAR report also quoted US commanders who assess the fighting between government and insurgent forces as a "stalemate", with government forces in control of 59.7 per cent of the country's 407 districts.
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghan</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kandahar</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Taliban</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US Congress Special Inspector General</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NATO-led</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SIGAR</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

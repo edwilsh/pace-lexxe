@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403191627471957</docid>
+  <date>31/07/2017</date>
+  <time>18:55</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/united-airlines-jet-missed-drone-landing-newark-airport-2017-7</url>
+  <title>A United Airlines jet narrowly missed a drone just before landing at Newark Liberty International Airport</title>
+  <content>
+On Sunday, a drone got dangerously close to a United Airlines jet that was attempting to land at Newark Liberty International Airport.
+
+Flight 135, a Boeing 767-400, was notified of a drone in its vicinity by air traffic control.
+
+Fortunately, the United pilots were able to monitor the drone's position and aircraft landed without incident.
+
+"Upon descent into Newark, air traffic control alerted the flight deck aboard United flight 135 of a drone in the vicinity of the runway," United said in a statement to Business Insider. "Our crew monitored the drone and landed the aircraft safely."
+
+According to the Federal Aviation Administration, the flight crew report seeing the drone two miles southwest of the airport around 11:55 am on Sunday.
+
+"Preliminary information shows that United Flight 135, a Boeing 767, reported a near mid-air collision with a white unmanned aircraft approximately two miles southwest of Newark," a FAA spokesman told Business Insider in an email. "The FAA notified the New Jersey State Police."
+
+According to the same spokesman, the FAA has launched an investigation into the incident.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>United</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>United Flight 135</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing 767</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey State Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newark</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FAA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Aviation Administration</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newark Liberty International Airport</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United Airlines</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

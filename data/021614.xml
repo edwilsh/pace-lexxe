@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442048197195172</docid>
+  <date>07/08/2017</date>
+  <time>01:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/how-to-hide-your-browser-history/</url>
+  <title>How To Hide Your Browser History</title>
+  <content>
+It turns out your browser's privacy features aren't as anonymous as you think. Although Ingonito mode on Chrome, InPrivate with Edge and Private browsing with Safari make it harder for someone to view your browser history on your device, they don't hide your browser habits completely.
+
+Whenever your computer visits a website, . So, what can you do to be totally private on the web?
+
+A  that was presented at the decent DefCon conference highlighted how easy it was to access someone's browser history. Although the data was supposedly anonymised, the researchers showed it was trivially easy to reconstruct the identity of someone accessing specific content.
+
+There are plenty of reasons someone might want to obscure their history. Aside from the obvious desire to hide one's access to questionable sites, journalists, whistleblowers, dissidents and activists may want to ensure they protect sources and communication channels.
+
+For example, a few years ago I was researching the government's proposal to introduce a mandatory web filter. Part of that research led me down some pretty dark tunnels. There was content that might have been considered a red flag had law enforcement decided to investigate me.
+
+In other words, covering your browser tracks is not all about porn and bomb recipes.
+
+Watch the links
+
+One of the tactics used by the researchers was looking at your Twitter analytics page. Links there are only accessible to you so traffic from that site can be easily traced back to you. Similarly, many mass mailings use customised URLs so who accessed each link can be identified.
+
+The simple solution to this is to not click links in email messages, social media posts and other mass communications.
+
+If you need to open a link and remain anonymous, visit the website directly and find the page you're looking for.
+
+VPN
+
+VPNs are important. As well as encrypting all your traffic, they can anonymise your movements.
+
+Choose a VPN provider that does not retain your browsing history. For example, we looked at a number of  a while ago. One, Wangle, specifically made mention that they retained your browser history because they believe they are subject to Australia's mandatory data retention laws.
+
+While it's laudable that they are upfront about retaining that history, it's why I prefer to use NordVPN. As well as being multi-platform, NordVPN's policy specifically states they do not retain any browser history.
+
+In other words, if someone can access your computer, all they should get is that your traffic is being routed to a VPN provider. From there, the trail will go cold.
+
+Private browsing
+
+Although the researchers did say private browsing was not perfect, it is still useful.
+
+As most security professionals will tell you, once someone has physical access to your gear, pretty much all security bets are off. With time, most local security can be beaten. We saw that last year when the FBI allegedly  to circumvent the security on the iPhone 5c used by the San Bernardino terrorists.
+
+It's hard to access a piece of data that was never stored on your device.
+
+However, it's not perfect. It's possible some other device on your network, particularly if your on a corporate LAN, is recording all of your network traffic. So while that history might not be on your computer or mobile device, it could be stored elsewhere.
+
+Tor
+
+Tor's raison d'etre is to protect the privacy of web users so they can't be traced or tracked in any way. It's also gained a reputation as the network of choice for people wanting to engage in all sorts of shady activities.
+
+As traffic passes through each relay, as you use the network to browse to a site, it is encrypted so that only the next relay can decrypt and move the request along.
+
+It's not perfect - users have been traced across Tor and prosecuted for criminal activities (which is a good thing!). A recent interview with  discussed how two child-porn networks were brought down and many people were prosecuted despite using Tor to obscure their criminal activities.
+
+It's becoming increasingly difficult to be truly private online. And despite the government's constant rhetoric about the need to catch terrorists, shut down child-porn networks and break up international criminal syndicates, there is a strong case for us to retain personal privacy when online.
+
+Our browsing habits can be hidden, or at least made very hard to trace. That's not about protecting ourselves from government plots. It's about ensuring our data doesn't land in the hands of those who might use it nefaruiously.
+
+We saw the consequences of the Ashley Madison data leak apparently leading to the suicides of some men who didn't want to face the consequences of their infidelity. The impacts of our browser histories being used inappropriately are myriad.
+
+You might not want to hide all your online activity but there are steps you can take to make some of it harder to find.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hide Your Browser History</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ingonito</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashley Madison</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>InPrivate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TOR</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VPN</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>URLs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NordVPN</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Safari</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>San Bernardino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VPNs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

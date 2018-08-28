@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425289234617812</docid>
+  <date>04/08/2017</date>
+  <time>08:40</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/pakistan-reshuffle-aimed-at-2018-poll/news-story/629a3e7a480f2ed65f0ad40a79fe073f</url>
+  <title>Pakistan reshuffle aimed at 2018 poll</title>
+  <content>
+Reuters
+
+Share
+
+Pakistan's new Prime Minister Shahid Khaqan Abbasi has formed a cabinet filled with allies of toppled leader Nawaz Sharif, in a reshuffle that appears aimed at bolstering support before general elections due in mid-2018.
+Ishaq Dar, a powerful finance minister, returns in the same role despite a criminal investigation ordered against him by the Supreme Court.
+Another staunch Sharif ally, Khawaja Asif, will be foreign minister after having simultaneously run the ministries of defence and power.
+The cabinet has almost doubled in size to 47 members, sworn in during a televised ceremony on Friday after a reading from the Koran holy book in the mainly Muslim nation of 190 million people.
+"It's a massive cabinet," Pakistani writer and analyst Zahid Hussain said.
+"It shows that it's all about the next election."
+But no decision appears to have yet been made by the ruling Pakistan Muslim League-Nawaz party (PML-N) over whether Abbasi will stay as premier or step down after a brief period to make way for Sharif's brother Shahbaz, as outlined previously.
+Nawaz Sharif resigned last week after the Supreme Court disqualified him for not declaring a source of income he denies receiving.
+However, he retains control of PML-N and put forward Abbasi as temporary prime minister until Shahbaz becomes eligible to take over by winning a by-election.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Prime Minister Shahid Khaqan Abbasi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shahbaz</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sharif</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PML-N</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nawaz Sharif</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Ishaq Dar</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Pakistan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Koran</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Abbasi</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Muslim</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zahid Hussain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pakistani</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Khawaja Asif</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pakistan Muslim League-Nawaz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424172543102232</docid>
+  <date>04/08/2017</date>
+  <time>04:20</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/a-review-of-this-weeks-economic-data/news-story/6d2fba9d5f850918be86e81561e230ee</url>
+  <title>A review of this week's economic data</title>
+  <content>
+Australian Associated Press
+
+Share
+
+CORELOGIC CAPITAL CITY HOUSE PRICES
+Home prices fell in most Australian major capital cities in the week ending July 30, while auction clearance rates improved slightly, auction data from property analytics firm CoreLogic showed. Adelaide's home prices rose 0.3 per cent, while prices fell 0.3 per cent in Sydney, 0.1 per cent in Melbourne, 0.7 per cent in Brisbane and 0.2 per cent in Perth.
+*******************
+CONSUMER ANZ
+The ANZ-Roy Morgan Consumer Confidence Index rose 2.9 per cent to 118.4 points in the week to July 30. Consumer confidence has hit its highest point since February, on the back of strong full-time jobs growth and a fall in the unemployment rate.
+*******************
+RESERVE BANK OF AUSTRALIA BOARD MEETING, RATE DECISION
+The Reserve Bank of Australia left the cash rate at 1.5 per cent, where it has now been for 12 months. The central bank, however, has warned that a rising Aussie dollar could slow the pace of economic growth and job creation.
+******************
+
+ABS BUILDING APPROVALS
+Approvals for the construction of new homes rose 10.9 per cent in June, beating market expectations of a one per cent increase. Approvals for private sector houses rose 3.4 per cent in the month, and the 'other dwellings' category, which includes apartment blocks and townhouses, was up 20 per cent.
+********************
+ABS BALANCE OF TRADE
+Australia's trade surplus narrowed to $856 million in June, from a $2.02 billion surplus in May. Exports fell one per cent in the month, while imports were up two per cent, Australian Bureau of Statistics data showed.
+********************
+ABS RETAIL SALES
+Retail sales rose in June for a third straight month with increases in spending on household goods, clothing and eating out. Spending rose 0.3 per cent to $26.15 billion, seasonally adjusted retail trade data from the Australian Bureau of Statistics showed, surpassing market expectations of a 0.2 per cent lift.
+********************
+</content>
+  <sindexList>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 30</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CORELOGIC CAPITAL CITY HOUSE PRICES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS BUILDING APPROVALS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS BALANCE OF TRADE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ABS RETAIL SALES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ-Roy Morgan Consumer Confidence Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BOARD MEETING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

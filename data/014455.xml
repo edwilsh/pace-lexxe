@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422755203872496</docid>
+  <date>03/08/2017</date>
+  <time>22:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-04/farmers-keen-to-cash-in-on-taro-ban,-but-buyers/8773706</url>
+  <title>Farmers keen to cash in on taro ban, but buyers are sceptical</title>
+  <content>
+Nearly two months after American Samoa introduced a ban on taro imported from neighbouring Samoa, there's a push from some local farmers to make the temporary ban permanent.
+The American Samoan government is still waiting for news from Apia on the outcome of tests, after samples from the infected crop on Upolu were sent to Germany, but those results are yet to come back.
+In the mean time, Monica Miller in Pago Pago says local farmers are trying to persuade buyers that they can plug the gap, while the government in Apia argues that the ongoing ban is over the top.
+</content>
+  <sindexList>
+  <sindex>
+    <name>American Samoan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pago Pago</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Apia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Monica Miller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Samoa</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Upolu</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>American Samoa</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

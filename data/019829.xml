@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436237106385953</docid>
+  <date>06/08/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/isp-aussie-broadband-blames-own-industry-for-nbn-woes-20170804-gxpjnp</url>
+  <title>ISP blames own industry for NBN woes</title>
+  <content>
+An internet service provider has broken ranks to blame its own industry for the  being suffered by many customers of the National Broadband Network, as the Government calls in its watchdog to get to the bottom of a  about the service.
+"I suspect we'll be one of the few ISPs to agree with Bill Morrow," said Aussie Broadband managing director Phil Britt, referring to the NBN chief executive's  blaming a "land grab" by retailers for the unsuitable service many customers had ended up with.
+"It is entirely possible to provide decent speeds to customers at the current wholesale prices that the NBN charges."
+After NBN Co  among newly connected users, a government fearing electoral backlash this week  the Australian Communications & Media Authority to interview NBN customers about their experience.
+
+Michele Mossop
+
+The probe will also compel data on, among other things, fault handling from 21 players in the NBN ecosystem. Despite that specific number, nobody would specify to The Australian Financial Review who the 21 will be - however Mr Britt indicated Optus would be worth grilling.
+
+He has previously  the number two telco for what he alleges was poor management of network congestion when Aussie Broadband used Optus's "backhaul" - the network that internet retailers plug in to NBN's fibre - at 110 of the 121 NBN "points of interconnect" (POIs) around Australia.
+The small ISP has since invested heavily in leasing its own dedicated backhaul on Telstra's network, with 118 POIs now active. Mr Britt said Aussie Broadband could now control how much bandwidth it provisioned and pursue its niche of a mid-priced, high-reliability offering.
+He said a hallmark of the "land grab" outlined by Mr Morrow was the "unlimited data" plans now flooding the NBN retail market, offered by Optus among others.
+"It takes careful and flexible network management, and policies like no unlimited plans, to ensure that we manage the network to avoid congestion," he said.
+
+Adam Turner
+
+'We have made a number of improvements'
+
+Optus said it was "disappointed that Aussie Broadband did not have an optimal experience. We have made a number of improvements to our NBN service and capacity."
+The availability of lower NBN access charges for accounts with lower speeds was a flaw that the major ISPs were exploiting, according to Nicholas Demos, the local boss of MyRepublic, a Singaporean ISP that launched here last November and now has 35,000 customers.
+"It's in their interests to just flick people to the low speed plans as the lower access charge makes it higher-margin for them," he said, noting that .
+
+Glenn Hunt
+
+The major ISPs would lift their game if they could regain some of the sense of ownership they previously had in the wholesale broadband market, according to Ian Martin of New Street Research, in an opinion piece published in today's Financial Review.
+"When you have your own capital at risk you're driven to do things better and faster to generate a return," he writes.
+"When carriers invest in network capacity they are driven to quickly increase utilisation and monetise their traffic."
+Mr Martin noted that on competing owner-operated mobile wireless broadband networks, unlimited data plans were  while "ISPs are still finding ways to constrain data usage on the NBN".
+
+Glenn Hunt
+
+He proposes multi-year, discounted capacity leases as a replacement for the month-by-month purchase of bandwidth and separate access charges currently forced upon the ISPs. He argues this would encourage the ISPs to manage the network more efficiently, and would help head off the  by delivering a swathe of cash upfront.
+NBN Co spokesperson Tony Brown said the government-backed utility was open to all new ideas, but pointed out some ISPs were already proactively increasing their sense of ownership in the network.
+There have been four "area switches" under NBN's "technology choice" program to date, he revealed, where an ISP had doorknocked a particular area and offered to subsidise the cost of a switch from fibre-to-the-node to superior fibre-to-the-premises connections, in return for all residents signing two-year contracts.
+It is unclear where these four "area switches" have occurred, as Mr Brown was unable to reveal them.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Martin</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Ian Martin of New</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adam Turner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Street Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>12</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>ISP</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Financial Review</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>7</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Singaporean ISP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie Broadband</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nicholas Demos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Brown</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MyRepublic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Britt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phil Britt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Brown</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MICHELE MOSSOP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenn Hunt</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

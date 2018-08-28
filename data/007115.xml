@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410553201554156</docid>
+  <date>01/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/business/markets-live/markets-live-asx-stuck-below-5800-20170801-gxni19.html</url>
+  <title>Markets Live: ASX stuck below 5800</title>
+  <content>
+The Dow Jones racked up a fifth straight record high overnight and neared the 22,000 mark, powered by Goldman Sachs, JPMorgan Chase and other banks.
+
+The Dow has risen 11 per cent in 2017, even as Wall Street loses confidence that President Donald Trump and a Republican-controlled Congress this year will cut taxes and increase spending on infrastructure.
+
+"The market takes the good and immediately discounts the bad," said Jake Dollarhide, chief executive of Longbow Asset Management. "It's an accomplishment, given that all of this has happened with the backdrop of no progress in Washington on anything."
+
+With two-thirds of S&P 500 companies having reported their second-quarter earnings, 72 per cent have beaten Wall Street's expectations. In a typical quarter, 64 percent of companies beat expectations.
+
+Those results may reassure investors worried about high valuations. The S&P 500 is trading at about 18 times earnings estimates for the next 12 months, above its 10-year average of 14 times.
+
+The Dow rose 0.33 per cent to a record-high close of 21,963.92. It pierced through the 20,000 milestone in January and the 21,000 mark barely one and a half months later. The S&P 500 gained 0.24 per cent to 2,476.35 and the Nasdaq Composite added 0.23 per cent to 6,362.94.
+
+But the upbeat mood isn't limited to Wall Street. A gauge of world stocks scored its longest monthly winning streak in over a decade on signs of an improving global economy and solid corporate earnings.
+
+Tepid US inflation along with political turmoil in Washington has dented expectations of another Federal Reserve interest rate hike in coming months. Improving data in other major economies around the world has also served to push the greenback down nearly 11 per cent from January peaks.
+
+Preliminary estimates released by the European Union's statistics agency showed eurozone growth remained robust in the second quarter after a strong reading in the first three months of the year.
+
+A measure of US factory activity fell from a near three-year high in July amid a drop in new orders, while consumer spending barely rose in the prior month, setting the economy on a moderate growth path in the third quarter.
+
+"It's all about negative dollar momentum," said Vassili Serebriakov, FX strategist at Credit Agricole in New York. "If you're short the dollar, the move has been playing out in your favour and there is little reason to change the view."
+
+The US dollar's decline, low inflation and robust global growth has stoked appetite for stocks, however, with the MSCI ACWI index extending its run after the index in July logged its longest streak of monthly gains since 2003-04.
+
+MSCI's gauge of stocks across the globe gained 0.38 per cent and the pan-European FTSEurofirst 300 index rose 0.62 per cent.
+Good morning and welcome to the Markets Live blog for Wednesday.
+
+Your editor today is are Jens Meyer - please send any feedback, suggestions, constructive criticism about this blog to jmeyer@fairfaxmedia.com.au
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>FX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldman Sachs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>European FTSEurofirst 300</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jake Dollarhide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Longbow Asset Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI ACWI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vassili Serebriakov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Republican-controlled Congress</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MSCI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Credit Agricole</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan Chase</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

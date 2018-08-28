@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440884261043059</docid>
+  <date>06/08/2017</date>
+  <time>21:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/this-is-the-best-ios-app-for-simple-expense-tracking/</url>
+  <title>This Is The Best IOS App For Simple Expense Tracking</title>
+  <content>
+Image credit: Carl Franzen/Lifehacker
+
+iOS: I have never been great at managing my money. But now that I'm about to become a dad, I've suddenly found it imperative to know where it's all going. Yes, there are plenty of well-regarded budgeting and expense tracking apps out there, such as  and . My wife and I use the former for our household budget, and it's great at what it does - allowing us to see our running spending by category, set up automatic bill payments, keep track of our incomes, and plan for savings.
+
+The thing is, I also want something simpler: something that does not connect to my bank accounts and credit cards, and does not automatically update with every transaction I make. Why? Because for me, these automated apps remove a sense of responsibility for tracking my own spending. I want something that requires me to manually enter all my expenses, forcing me to confront my spending as it's happening. Enter the aptly-named , an intuitive, beautifully designed, free expense-tracking app for Apple mobile devices running iOS 8 and up.
+
+How It Works
+
+The reason I love Expense so much is because of how simple it is. Open it and you're presented with the main screen: a dotted line on top represents the level of spending on the days of the current month, with numerals for every other day. You can tap each of these dots to go back and forth between the dates, adding expenses that you may have forgotten.
+
+Below this line is a white ruled ledger for entering the expenses themselves.
+
+A simple ruled ledger.
+
+Tapping the blue "+" button lets you add a new expense, and pulls up a list of 18 categories to choose from, including many of the basics you'd want: "food," "transport," "shopping," etc. Enter the amount of the expense at the top using the numeric keypad, tap the appropriate category, and then press "Save" in the upper right hand corner - or the green check button in the keypad below - to record an expense.
+
+Select your category.
+
+The expense now appears as an item on the ledger, and you'll note that the dotted line above also changes to visually indicate your relative spending.
+
+Your relative spending updates.
+
+You can tap the plus button again to add more expenses on any given day. To edit an expense, tap it. To delete, swipe left.
+
+To delete, swipe left.
+
+Pro Tip: when recording an expense, you can also use the numeric keypad as a calculator to combine several expenses in the same category at once (using the arithmetic buttons on the left side).
+
+You can use the keyboard as a calculator.
+
+You can also add new categories, or change the old ones to better fit your needs. From the main screen with the ledger on it, tap the gear in the upper-left hand corner to access the Settings menu, tap "Customise Categories," then "Add," and you'll get a grid of icons to choose from, and a keyboard to enter your new category's name.
+
+Add new categories.
+
+You can edit any of the 18 pre-existing categories by tapping it and assigning a new icon or name. If you decide you don't want a category, you can swipe left and tap "delete."
+
+There you have it! A simple and reliable way for manually tracking your expenses - now it's just up to you to remember to do it.
+
+WATCH MORE: Tech & Finance News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Pro-tip</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carl Franzen/Lifehacker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Customise Categories</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Finance News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Best IOS App For Simple Expense Tracking</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428381611127684</docid>
+  <date>04/08/2017</date>
+  <time>20:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/us-pharma-boss-shkreli-guilty-of-fraud/news-story/81f5b46365b45c1fc29d955009f23a89</url>
+  <title>US pharma boss Shkreli guilty of fraud</title>
+  <content>
+Martin Shkreli, the eccentric former pharmaceutical CEO notorious for a price-gouging scandal and for his snide "Pharma Bro" persona on social media, has been convicted on federal charges he deceived investors in a pair of failed hedge funds.
+A New York jury deliberated for five days before finding Shkreli guilty on three of eight counts. He had been charged with securities fraud, conspiracy to commit securities fraud and conspiracy to commit wire fraud.
+Prosecutors had accused Shkreli of repeatedly misleading investors about what he was doing with their money. Mostly, he was blowing it with horrible stock picks, forcing him to cook up a scheme to recover millions in losses, they said.
+Shkreli, 34, told "lies upon lies", including claiming he had $US40 million in one of his funds at a time when it only had about $US300 in the bank, Assistant US Attorney Alixandra Smith said in closing arguments.
+The trial "has exposed Martin Shkreli for who he really is - a con man who stole millions", added another prosecutor.
+But the case was tricky for the government because investors, some wealthy financiers from Texas, conceded at the trial that Shkreli's scheme actually succeeded in making them richer, in some cases doubling or even tripling their money on his company's stock when it went public.
+The defence portrayed them as spoiled "rich people" who were the ones doing the manipulating.
+"Who lost anything? Nobody," defence lawyer Ben Brafman said in his closing argument.
+For the boyish-looking Shkreli, one of the biggest problems was not part of the case - he purchased in 2014 the rights to a life-saving drug before promptly raising the price from $US13.50 to $US750 per pill.
+He also came into the trial with a reputation for trolling his critics on social media to a degree that got him kicked off Twitter and for live-streaming himself giving maths lessons or doing nothing more than petting his cat, named Trashy.
+Among his other antics: boasting about buying a one-of-a-kind Wu-Tang Clan album for $US2 million.
+Shkreli, who comes from an Albanian family in Brooklyn, was arrested in 2015 on charges he looted another drug company he founded, Retrophin, of $US11 million in stock and cash to pay back the hedge fund investors. Investors took the witness stand to accuse Shkreli of keeping them in the dark as his scheme unfolded.
+Shkreli didn't testify. But rather than lay low like his lawyers wanted, he got into the act by using Facebook to bash prosecutors and news organisations covering his case.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Retrophin, of $US</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shkreli, 34</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US$750</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BROOKLYN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shkreli</name>
+    <count>8</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Texas</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US13.50</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ben Brafman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pharma Bro</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wu-Tang Clan</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Albanians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin Shkreli</name>
+    <count>2</count>
+    <score>-3.5</score>
+  </sindex>
+  <sindex>
+    <name>Assistant US Attorney Alixandra Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$300</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>US$40</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

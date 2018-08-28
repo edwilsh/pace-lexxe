@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400674776586792</docid>
+  <date>31/07/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/suspected-tornado-hits-perths-north/news-story/6bfd497ddf14f66b136607007583bd41</url>
+  <title>Suspected tornado hits Perth's north</title>
+  <content>
+A suspected tornado has ripped through Perth's north, with wind gusts of more than 110 km/h damaging buildings and trees, and knocking out power to thousands of homes.
+The Bureau of Meteorology said it lasted about 10 minutes and moved through the suburbs of Sorrento, Duncraig, Warwick, Hamersley and Balga about 11.10am on Monday.
+At 4.30pm, more than 3600 homes in the metropolitan area were without power.
+The heaviest downpours were in Karnet and Bickley, where rainfall of around 25mm was recorded between 9am and 4.40pm.
+Tornadoes can occur two to three times each winter in the metropolitan area, the BoM says.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hamersley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sorrento</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Warwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bickley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Duncraig</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balga</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karnet</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406838054767901</docid>
+  <date>01/08/2017</date>
+  <time>09:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/every-voting-machine-at-this-hacking-conference-got-totally-pwned/</url>
+  <title>Every Voting Machine At This Hacking Conference Got Totally Pwned</title>
+  <content>
+A noisy cheer went up from the crowd of hackers clustered around the voting machine tucked into the back corner of a casino conference room - they'd just managed to load Rick Astley's "Never Gonna Give You Up" onto the WinVote, effectively rickrolling democracy.
+
+Photo: Gizmodo
+
+The hack was easy to execute. Two of the hackers working on the touchscreen voting machine (who identified only by their first names, Nick and Josh) had managed to install Windows Media Player on the machine and use it to play Astley's classic-turned-trolling-track.
+
+The rickroll stunt was just one hack at the security conference DEF CON, which ran a three-day  to test the security of various machines and networks used in US elections. By the end of the weekend, every one of the roughly 30 machines at the village, including those used to tabulate votes and to check voters in when they go to the polls, had been hacked. Even though several of the exploits ended up , they aren't jokes - they also present a serious lesson about the security vulnerabilities in voting machines that leave them open to tampering and manipulation. And the more vulnerable our voting infrastructure is shown to be, the less confidence voters may feel.
+
+"The real takeaway is that you can install any software on this," Nick told Gizmodo. "There's no control." Nick had simply connected a keyboard to an exposed USB port at the back of the WinVote, which was used in US elections as recently as 2014, and was able to install whatever software he wanted from there.
+
+The voting village is the brainchild of a who's-who list of security experts: DEF CON founder Jeff Moss, cryptographer Matt Blaze, computer programmer Harri Hursti (whose hack of Diebold voting machines in 2005 bears the name "the "), and others. Researchers have been uncovering problems with voting systems for more than a decade, but the 2016 US presidential election catapulted their work into the national spotlight. Now the entire US, and maybe the world, is paying attention. But poll workers and former campaign officials say that their primary security concerns still aren't with voting machines themselves but with protecting voter registration systems and defending against basic phishing attacks such as the ones used to gain entry to the Democratic National Committee's network.
+
+Meet the machines
+
+"This is the great Satan," said Joseph Lorenzo Hall, the chief technologist at the Center for Democracy & Technology, gesturing dismissively at the WinVote.
+
+The machine contains a cellular modem chip that allows its software to be updated remotely. "Unfortunately, it also means that you can log into the damn thing from across the street if you know the right credentials," Hall explained. "What's hundreds of miles between networked friends?"
+
+The WinVote was the first machine to fall, with a hacker achieving remote code execution on the machine within the first hours of the village. WinVotes were  by Virginia's election board in 2015 because of their security vulnerabilities.
+
+American voting systems are largely cobbled together with antiquated technology. Voting machines can vary by state and county, and have to be certified by the Election Assistance Commission. But other devices, such as the electronic poll books used in some jurisdictions to check in voters at their polling stations, aren't subject to the certification process. Add in the voter registration databases themselves - which were  last year - and you have a convoluted and vulnerable system ripe for attack.
+
+The machines are mostly new to the hackers at DEF CON. "They're not very much fun, they're like very boring ATMs," Hall joked. It's obvious that election systems aren't very secure, but it's important to understand why the security problems exist in the first place, and why they're so hard to fix.
+
+The security industry encourages regular software updates to patch bugs and keep machines as impenetrable as possible. But updating the machines used in voting systems isn't as easy as installing a patch because the machines are subject to strict certification rules.
+
+Any major software update would require the state to redo its certification process. "It costs over $1 million [$AU1.3 million] to get certified," Joshua Franklin, a security specialist with the National Institute of Standards and Technology's cybersecurity and privacy application unit, explained to attendees. Franklin said that even though the Election Assistance Commission's most recent election security standards were released in 2015, most state's machines are only compliant with standards from 2002 because of the prohibitive costs of updates.
+
+The cost breaks down to about $US30-$US40 ($38-$50) per voter, estimates Tom Stanionis, an IT manager for a county election agency in California who attended the village in his personal capacity. Most states just don't have the money.
+
+"The reality is, we've known about issues with voting machines for a long time," Stanionis told Gizmodo. Since purchasing brand new systems is out of the question, Stanionis said most states do their best to protect the systems they have, walling them off from the internet and storing them securely when they're not being used.
+
+The rat king of decentralised state vendors and machines might actually be a good defence during a general election - it would force hackers to successfully target many disparate systems. "It would be really hard in most jurisdictions to do anything to affect the voting machines," Stanionis said.
+
+Difficult doesn't mean impossible, though, and that's what DEF CON's hackers have set out to prove. If a hacker tucked away in a corner of a Las Vegas casino can alter a vote count, then surely a nation-state attacker can too.
+
+"The thing you have to ask about any new technology is, compared with the technology that proceeded it, does this make that threat easier or harder? Does it make us better off or worse off?" Blaze told attendees. "Does whatever the technology we're using make this threat an easier threat or a tougher threat? That's the question we haven't really been sharply asking for very long."
+
+Email security and beyond
+
+Robby Mook, the former manager of Hillary Clinton's presidential campaign, is at DEF CON for the first time, and you can kind of tell - he looks a bit too clean cut for a conference often filled with hoodie-wearing hackers. But he has experience being targeted by nation-state hackers that few other attendees can claim.
+
+Although hackers were hard at work down the hall figuring out how to alter vote tallies, Mook said he was still mostly worried about getting campaign workers to secure their email accounts with  and stop retaining data for longer than necessary.
+
+"It's much more a matter of culture and education than it is of spending enormous resources," Mook told Gizmodo. "People in the security community know a lot of things instinctually that a campaign professional has never had exposure to, ever."
+
+Mook, along with former Mitt Romney campaign manager Matt Rhoades and former Assistant Secretary of Defence Eric Rosenbach, launched an initiative at Harvard University earlier this winter focused on providing security resources to campaigns and election officials. The Defending Digital Democracy project received a founding investment from Facebook, and executives from the social network as well as Google and CrowdStrike are helping establish an information sharing organisation that will give political committees and campaigns quick access to threat intelligence.
+
+"If you pull aside any campaign manager and say, 'Do you want to get hacked?' they'd say no," Mook told DEF CON attendees. "If you asked them, 'Have you done everything you can?' they'd say, 'No, but I don't really know.'"
+
+Campaigns, along with voter registration databases, are softer targets for hackers - the events of the last year demonstrate that. And as exciting as it is to tear a voting machine apart, the goal of securing elections might be reached faster through educating election officials about cybersecurity best practices.
+
+"The voter registration databases are becoming a more obvious target," Stanionis said. Altering the voter roll to show an incorrect polling location for just a few voters could drastically slow down the voting process for many, he explained. If a voter isn't believed to be in their correct polling station, she'll be asked to fill out a provisional ballot, slowing down the line for everyone. Some might get sick of waiting and leave.
+
+"That's hacking the election but doesn't look illegal from the outside," he said.
+
+These kinds of softer attacks strike at public trust in election systems. There's an amount of error that's to be expected in any election - a voter might circle the name of a candidate on their ballot instead of checking the box next to it, or a machine might malfunction on its own - but without voter confidence, all errors start to look nefarious.
+
+"Perception and reality are linked here. Public confidence in elections is what gives government legitimacy," Blaze said.
+
+Without fixing simple problems like two-factor implementation and more complex ones like vulnerabilities in vote-tallying machines, that legitimacy is at risk of being lost for good.
+
+"The Voting Hacking Village was just the start. This is one conversation that needs to leave Vegas," said Jake Braun, the CEO of Cambridge Global Advisors and one of the organisers of the event. "There are ways to secure our democracy, but we need an organised advocacy campaign. We need to take these lessons back to DC, to state capitals, and to local election boards around the country to invoke change."
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US40 ($38-$50</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>DC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eric Rosenbach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WinVote</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mooks</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Joshua Franklin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Windows Media Player</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Josh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Rhoades</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Institute of Standards</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Cambridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stanionis</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Voting Hacking Village</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Assistant Secretary of Defence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Blaze</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Virginia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robby Mook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rick Astley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harvard University</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Satan</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mitt Romney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CrowdStrike</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Franklin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Astley</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AU1.3</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jake Braun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Election Assistance Commission</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tom Stanionis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Global Advisors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Voting Machine At This Hacking Conference Got Totally Pwned</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democratic National Committee</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jeff Moss</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Does</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Harri Hursti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Diebold</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Defending Digital Democracy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joseph Lorenzo Hall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gonna Give You Up</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US30</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

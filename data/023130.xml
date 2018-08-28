@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443448356553350</docid>
+  <date>07/08/2017</date>
+  <time>07:08</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/oopsambulance-tasmania-forgets-to-pay-rego-leaving-vehicle-fleet-unregistered-for-six-days-earlier-this-year/news-story/c96a8221e45b8eaefaaffb5de2105dd6</url>
+  <title>Ambos unregistered for a week</title>
+  <content>
+Tasmania's entire ambulance fleet went unregistered for a week after an administrative bungle.
+Right to information documents show 133 Ambulance Tasmania vehicles were not registered for six days earlier this year.
+During that time 14 speeding fines were issued to the unregistered vehicles.
+Ambulance Tasmania Chief Executive Neil Kirby today said new administrative procedures had been introduced following the debacle.
+Mr Kirby said registration was paid six days late following an administrative error.
+"It is obviously a very regrettable situation. It was rectified as soon as the error was discovered, and fortunately there was no impact on either patients or staff," he said.
+"We have implemented improved procedures to ensure this situation does not happen again."
+The fleet is made up of about 100 stretcher ambulances, three box trailers, a special interest vehicle and administrative cars.
+Labor leader Rebecca White said it was another sign of a health system in crisis.
+"The Liberals cuts to the health system have put staff under enormous pressure," she said.
+"Positions are not being replaced when people are off work, Ambulance Tasmania is under-resourced, mistakes are made by stressed staff and Tasmanians have the longest wait times in the country for an ambulance.
+"Now it's been revealed that basic but important tasks such as registering the ambulance fleet isn't happening because stressed staff are doing so much work off the side of their desks."
+None of the unregistered vehicles were involved in crashes during the six days.
+"However, if an accident had occurred during this non-registration period resulting in injury, MAIB would have paid the scheduled benefits for a resident of Tasmania while the Crown would have covered an interstate resident," Mr Kirby said.
+The RTI information was requested by the Opposition.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Crown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MAIB</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kirby</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rebecca White</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RTI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Tasmania</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Tasmania Chief Executive Neil Kirby</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

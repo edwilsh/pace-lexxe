@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424554795197404</docid>
+  <date>04/08/2017</date>
+  <time>05:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/15/41/assault-ruined-sydney-girl-s-memories</url>
+  <title>Assault ruined Sydney girl's memories</title>
+  <content>
+A little girl hopes a window cleaner who molested her at her family's home on Sydney's north shore never gets to hurt another girl, a court has heard.
+In her victim impact statement read out to the NSW District Court on Friday by her mother, the girl said she was angry at Gregory John Vagg because the memory of what he had done to her when she was seven would ''never go away'' and she didn't want him to ruin other girls' memories.
+Vagg, who was found guilty by a jury of two charges of sexual intercourse with a person under the age of 10 involving digital penetration, will be sentenced next month.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Vagg</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gregory John Vagg</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW District Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

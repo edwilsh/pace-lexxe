@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419658532387688</docid>
+  <date>03/08/2017</date>
+  <time>10:49</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/alqaeda-releases-kidnapped-safrican-man/news-story/15a9a721d19a6be05f50b559f650bd0a</url>
+  <title>Al-Qaeda releases kidnapped S.African man</title>
+  <content>
+South African man Stephen McGowan, who was kidnapped by al-Qaeda from the Mali tourist town of Timbuktu in 2011, has been released and is back home, Foreign Minister Maite Nkoana-Mashabane says.
+McGowan, who had been touring Mali on motorbikes with a German, a Swede and a Dutch national, was undergoing medical tests but had no major injuries, Nkoana-Mashabane told a news conference on Thursday.
+No ransom was paid, she said.
+"We would like to warmly welcome him back home and wish him good health, good fortune in his life as a free man. It is with sadness though, that his dear mother... passed on in May 2017 without seeing her son back home," she said.
+Swede Johan Gustafsson, who was kidnapped alongside McGowan from a Timbuktu restaurant, was freed in June.
+The kidnappers had demanded $US5 million ($A6.3 million) for his release but the government rejected it, Swedish radio reported.
+Their German friend was killed in the initial kidnapping, while Sjaak Rijke of the Netherlands was freed in 2015 in a raid by French special forces.
+Al-Qaeda in the Islamic Maghreb have been responsible for dozens of kidnappings of Westerners and scores of attacks on security forces across West Africa.
+</content>
+  <sindexList>
+  <sindex>
+    <name>McGowan</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mali</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>S African</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Stephen McGowan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Africa</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Foreign Minister Maite Nkoana-Mashabane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sjaak Rijke of the Netherlands</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US$5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nkoana-Mashabane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swedish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Al-Qaeda</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Swede Johan Gustafsson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Swede</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Timbuktu</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic Maghreb</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dutch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westerners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qaeda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

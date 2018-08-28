@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418026444784850</docid>
+  <date>03/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/david-napier-accused-of-killing-richard-andrews-over-100/news-story/6072570328e6f2a97e6a6d0fafa0cd54</url>
+  <title>Gambler killed friend over $100</title>
+  <content>
+A GAMBLING addict murdered one of his best friends after being refused $100, then cut up his body and disposed of his remains in Perth, to solve his financial problems, a court has heard.
+David Napier, 54, killed 70-year-old Richard Andrews at the victim's Calista home by bludgeoning him with a hammer then dismembered his body in August last year.
+The Supreme Court of WA heard Napier was shown "nothing but kindness" by Mr Andrews whose bank accounts he plundered after the murder.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NAPIER</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Calista</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Napier, 54</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court of WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Andrews</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Andrews</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

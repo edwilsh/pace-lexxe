@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397706954143028</docid>
+  <date>30/07/2017</date>
+  <time>21:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/07/25/end-political-donations-labor-senator</url>
+  <title>End political donations: Labor senator</title>
+  <content>
+A prominent Labor senator who allowed a state-linked Chinese company to pay part of his travel bill is now calling for a total ban on political donations.
+Sam Dastyari candidly admits he was one of the "weapon suppliers in this arms race" during his time as secretary of Labor's NSW branch.
+"It needs to come to an end, and the time for that is now," he told ABC-TV's Australian Story on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>ABC-TV's Australian Story</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labor's NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sam Dastyari</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

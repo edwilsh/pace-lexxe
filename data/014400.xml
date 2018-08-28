@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423450988585830</docid>
+  <date>04/08/2017</date>
+  <time>01:32</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/north-adelaide-electricity-blackout-caused-by-gas-workers-digging-around-power-pipes/news-story/cb1c0a8e1203892aa09be56a86366e7e</url>
+  <title>Gas pipe dig blamed for North Adelaide blackout</title>
+  <content>
+WORKMAN digging for gas accidentally caused a blackout to North Adelaide, leaving homes, businesses and the Women's and Children's hospital without power.
+Almost 300 properties were affected after a power line was believed to have been ruptured by gas workers digging around pipes along King William St at 5am on Friday.
+The outage, which lasted for almost four hours before the last customer had their power restored, hit the main roads from the northern suburbs into the city.
+It also caused chaos for some businesses along the usually busy O'Connell Street, causing some to lose thousands of dollars in sales.
+The WCH's back-up generators "immediately kicked in" and did not affect services, a spokeswoman said. "It was business as usual," she added.
+Traffic lights were hit along Main North Rd, Prospect Rd, O'Connell and Tynte streets as well as Barton, Fitzroy and Pennington terraces.
+Bakery On O'Connell assistant manager James Kent, 28, said the business had lost several thousand dollars in produce, which was either thrown out or given away.
+Bakers were told to come into work later while planning for this weekend's Showdown was hit.
+"It has been frustrating," he said.
+Crews managed to restore power to the majority of customers, and traffic lights, just after 7am while most electricity returned by 8.20am. The last customer's power was restored at 8.50am.
+An SA Power Networks spokesman, Paul Roberts, said 280 customers were affected.
+Initial investigations suggested that gas workers accidentally hit a power cable, during overnight works near the WCH.
+Workers had, however, taken the appropriate precautions and checked with authorities about what power cables were located around their worksite.
+"They did the right thing but unfortunately it appears they struck a cable," said Mr Roberts.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Roberts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Baker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bakery On O'Connell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Power Networks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Kent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Workman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O'Connell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Main North Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Roberts</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>WCH</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>King William St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>O'Connell Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tynte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Adelaide</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Barton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fitzroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pennington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

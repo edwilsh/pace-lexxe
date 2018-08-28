@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429962159111530</docid>
+  <date>05/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/man-in-critical-condition-after-falling-from-roof-of-taxi-in-north-queensland-20170805-gxpzao.html</url>
+  <title>Man falls from roof of moving taxi</title>
+  <content>
+A man has fallen from a moving taxi, after jumping onto the car bonnet and climbing onto the roof in north Queensland on Friday night.
+Police said a 36-year-old man ran out in front of a taxi along Waterson Way in Cannonvale, near Airlie Beach, before climbing on top of the car and starting to damage it.Photo: Supplied
+The taxi began moving again, causing the man to fall off. 
+The taxi driver continued driving towards the local police station after the man fell, with police later finding the victim on the road with serious head injuries.
+Officers administered first aid before the victim was taken to Proserpine Hospital, and later transferred to Townsville Hospital, where he remains in a critical but stable condition.
+The Forensic Crash Unit was investigating.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Airlie Beach</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Waterson Way</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Forensic Crash Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cannonvale</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Townsville Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Proserpine Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

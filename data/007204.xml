@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410772244890184</docid>
+  <date>02/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/trump-close-to-decision-on-chinese-trade/news-story/9c16ca53b8d500b9b4b61c1575928f11</url>
+  <title>Trump 'close to decision' on Chinese trade</title>
+  <content>
+US President Donald Trump is close to a decision on how to respond to what he considers China's unfair trade practices, a senior Trump administration official says.
+Trump is considering encouraging US Trade Representative Robert Lighthizer to initiate an investigation of Chinese trade practices under the 1974 Trade Act's section 301, the official said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trade Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US Trade Representative Robert Lighthizer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

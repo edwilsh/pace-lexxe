@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417983495111249</docid>
+  <date>03/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/airport-terror-threat-contained-delays-should-disappear-malcolm-turnbull-20170803-gxoibd</url>
+  <title>Airport terror threat contained, delays should disappear, says Turnbull</title>
+  <content>
+Relief is in sight for air travellers after Malcolm Turnbull announced the latest terrorist threat had been contained and stricter security checks at airports would soon be lifted.
+Speaking to reporters in Perth, Mr Turnbull said the arrests in Sydney over the weekend in relation to an alleged plot to blow up a plane had uncovered evidence and charges would be laid.
+"Investigations have proceeded very well in terms of uncovering evidence. And they've got very strong evidence. And I should expect charges to be laid in due course," he said.
+Mr Turnbull said airlines would start advising passengers within 24 hours that they no longer needed to be at the airport
+
+"You should expect that requirement will be moving back to the, you know, the arrangements that were in place a week ago by the airlines," he said.
+
+He said based on advice from intelligence agencies, "the threat to aviation from the plot that was uncovered to bring down a plane has been disrupted and contained".
+"Consequent on that, the Director-General of ASIO has advised the threat to aviation will be restored to the level it was a week ago."
+Mr Turnbull said other heightened security measures would continue, and be enhanced, many of which travellers would not notice and which should not result in delays to travellers.
+"We will be always vigilant in protecting the safety of Australians. There is no place for set-and-forget," he said.
+
+"We have all of the measures of security at our airports and right through our nation constantly under review.
+"We have very strong security measures at our airports,  both in terms of airport staff and, of course, in terms of checking baggage, both baggage that goes on to the hold and baggage that is carry-on baggage."
+"And they will continue to be enhanced. But we are very focused too on ensuring that we...respect the convenience of the travelling public".
+The Daily Telegraph reported that the terror plot involved turning a family member into a suicide bomber by having them unknowingly carry a bomb onto an international flight.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Daily Telegraph</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Director-General of ASIO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

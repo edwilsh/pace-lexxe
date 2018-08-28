@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401744223464366</docid>
+  <date>31/07/2017</date>
+  <time>13:18</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/firefighters-battle-moorabbin-factory-fire/news-story/1d6c854093f4d47c294ee619e08b82e1</url>
+  <title>Firefighters battle Moorabbin factory fire</title>
+  <content>
+ALMOST 30 firefighters are "aggressively attacking" an out-of-control factory fire in Melbourne's southeast
+MFB spokesman Bruce Weaver said firefighters rushed to the Nelson St factory after receiving a number of 000 calls just after 9.30pm.
+Mr Weaver said fire crews arrived and, after finding the factory well alight, requested extra fire trucks.
+"Firefighters are aggressively attacking the fire with a combination of hand lines and an aerial appliance to ensure that the fire does not spread to the adjoining factory," Mr Weaver said.
+A smoke warning has been issued for the west side of Chesterville Rd and residents have been told to avoid the area as the MFB will be at the scene for a number of hours.
+
+Nelson St is closed.
+Police and ambulance also attended the scene, with no injuries reported.
+The cause is yet to be identified.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MFB</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nelson St</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chesterville Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Weaver</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Weaver</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

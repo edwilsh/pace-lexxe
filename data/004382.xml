@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405137247690657</docid>
+  <date>01/08/2017</date>
+  <time>02:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/energy/electricity/us-giant-apr-energy-wins-south-australia-power-plant-bid-20170801-gxmrzu</url>
+  <title>US giant APR Energy wins South Australia power plant bid</title>
+  <content>
+US firm APR Energy has won the contract to supply South Australia with a new fast-start power plant to shore up its fragile electricity grid, with the Holden car-making factory one of two sites chosen as an initial location for the new turbines.
+South Australian Premier Jay Weatherill announced on Tuesday that the state government would buy nine new GE TM2500 aero-derivative turbines through APR Energy to deliver up to 276 megawatts of generation to the grid if extra power is required.
+The hybrid turbine power plant, which will initially be installed at two sites - one in the northern suburbs of Adelaide at the Holden car plant which is scheduled to close on October 20 - will run on diesel fuel for the first two summers. It will then shift to a separate permanent location when it will run on gas.
+The announcement comes three weeks after and French wind farm developer Neoen had won a landmark tender to supply a 100-megawatt battery to strengthen South Australia's fragile electricity grid. The battery project is the largest of its type in the world and will be constructed near Jamestown, in South Australia's mid-north.
+
+Both the fast-start power plant and the large storage battery are important planks of the South Australian government's controversial announced in March following a string of blackouts, power shortages and sharp jumps in electricity prices after South Australia aggressively pursued wind and solar energy projects faster than any other state.
+
+Mr Weatherill said on Tuesday the 276MW of new generation should remove one of the major risks to the electricity system before this summer and prevent the likelihood of power blackouts.
+"This should remove one of the key risks which is reserve shortfalls," Mr Weatherill told reporters.
+He said the power plant will be tested monthly, but extra electricity will only be fed into the power grid if there is a shortfall in supply.
+APR Energy specialises in providing large-scale power generation in short timeframes and has delivered plants to bolster electricity systems across Africa, Asia and Central America, as well as in its home market of the United States.
+
+Mr Weatherill said APR Energy won a competitive tendering process which had been run by SA Power Networks, and the power plant would have a lifespan of 25 years.
+As well as the General Motors Holden site at Elizabeth in Adelaide's north, the hybrid turbine power plant will also be installed at a desalination plant at Lonsdale in Adelaide's southern suburbs.
+The South Australian government had been investigating using temporary diesel-powered back-up generators for this summer but Mr Weatherill said it had emerged during the process that many of the bidders for a permanent fast-start power station were the same as those who were able to offer a temporary solution.
+He said the advantage of using the two sites first up was that the extra power would be in place quickly, without the need for transmission and gas connections into the grid.
+
+"It can be done quickly," Mr Weatherill said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Weatherill</name>
+    <count>5</count>
+    <score>3.5</score>
+  </sindex>
+  <sindex>
+    <name>MW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Neoen</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>SA Power Networks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APR Energy</name>
+    <count>5</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>5</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Holden</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GE TM2500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jamestown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lonsdale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Africa</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Elizabeth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Premier Jay Weatherill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Motors Holden</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444058241920000</docid>
+  <date>07/08/2017</date>
+  <time>09:30</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/wreckage-of-us-osprey-found/news-story/4c6de1ee23ca9ec6623c4432084acc21</url>
+  <title>Wreckage of US Osprey found</title>
+  <content>
+Australian Associated Press
+
+Share
+
+The Australian Navy has located a missing US military aircraft that crashed in waters off the Queensland coast, killing three Marines.
+The HMAS Melville arrived in Shoalwater Bay, near Rockhampton, overnight to join a recovery operation after the tilt-rotor MV-22 Osprey plunged into the sea during a scheduled military exercise on Saturday.
+"Shortly after commencing survey operations in the area, the submerged aircraft was located," Defence Minister Marise Payne said on Monday evening.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Navy</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoalwater Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Osprey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defence Minister Marise Payne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HMAS Melville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marine</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

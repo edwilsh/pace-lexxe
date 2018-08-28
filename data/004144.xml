@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404325498858260</docid>
+  <date>31/07/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/09/15/labor-is-qld-poll-underdog-palaszczuk</url>
+  <title>Labor is Qld poll underdog: Palaszczuk</title>
+  <content>
+Queensland Premier Annastacia Palaszczuk says she will go to the next election as the underdog despite her government having done a "very good job".
+She says Labor will be up against the combined muscle of the Liberal National Party and One Nation, despite LNP leader Tim Nicholls saying there will be no statewide preselection swap between the parties.
+"He has not categorically ruled out any deals with One Nation. He has said they will look at them on a seat-by-seat basis and what we could see is Tim Nicholls become the premier because of a deal that he will strike with One Nation after the next election," she told ABC radio on Tuesday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>LNP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>One Nation</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tim Nicholls</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liberal National Party</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

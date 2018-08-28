@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411279051038781</docid>
+  <date>02/08/2017</date>
+  <time>02:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/apartment-approvals-jump-20pc-in-june-fail-to-halt-longerrun-housing-slowdown-20170802-gxnlim</url>
+  <title>Apartment approvals jump 20pc in June: fail to halt longer-run housing slowdown</title>
+  <content>
+New dwelling approvals rose more than expected in June, as volatile monthly figure for apartments jumped 20 per cent in seasonally adjusted terms, official figures showed on Wednesday.
+While the rise in apartments, townhouses and semi-detached homes, along with a 4 per cent monthly increase in detached houses, pushed total new approvals up 10.9 per cent from May, the figures failed to stem a longer-run decline in new housing approvals as the country's  comes off its peak. 
+In the year to June, 219,219 new dwellings were approved. This was 8.1 per cent below the 238,431 level reached a year earlier and marked the tenth straight month of decline in the rolling 12-monthly total. 
+The year-on-year decline in apartment approvals was greater, with the total 104,562 attached dwellings in the year to June almost 12 per cent below its level in June last year, when it was 118,705. 
+
+Approvals of standalone houses, which were overtaken by units in October 2015, have since retaken their historical position as the largest single dwelling type and are proving more resilient as the heat comes out of the house-building sector.
+
+In the year to June, house approvals totalled 114,658, which was just 4.2 per cent down on their level of a year earlier. 
+The median forecast of economists surveyed by Bloomberg expected a 1 per cent monthly rise in total new approvals after decline that was initially reported at 5.6 per cent and revised to 5.4 per cent in Wednesday's figures.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2015</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

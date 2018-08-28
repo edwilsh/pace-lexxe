@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424726593891917</docid>
+  <date>04/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/qantas-flights-dallas-johannesburg-a380-747-return-to-sydney/8775694</url>
+  <title>Qantas flights QF7 to Dallas and QF63 to Johannesburg return to Sydney due to mechanical issues</title>
+  <content>
+Two Qantas flights have had mid-air issues after leaving Sydney this afternoon with both returning to the airport.
+Flight QF7 to Dallas was returning after experiencing a mechanical issue, Qantas said.
+The flaps on the Airbus A380 were unable to retract, which meant the plane could not fly efficiently, a statement from the airline said.
+As the Dallas route is the longest in the Qantas network, the captain made the decision to turn around and return to Sydney.
+The aircraft is expected to land in Sydney soon and undergo inspections by engineers.
+Another flight, QF63 to Johannesburg, returned to Sydney this afternoon after experiencing an engineering issue.
+The aircraft, a Boeing 747-400, landed safely and Qantas said its issue was unrelated to the issue onboard QF7.
+Qantas said it was working to accommodate affected passengers or offer them transport home before replacement services were organised.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Airbus A380</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

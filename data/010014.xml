@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415105866973201</docid>
+  <date>02/08/2017</date>
+  <time>17:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/technology-companies/apple/wall-st-still-loves-apple-though-scepticism-on-the-rise-too-20170802-gxo6dk</url>
+  <title>Wall St still loves Apple though scepticism on the rise too</title>
+  <content>
+by
+Julie Verhage
+
+Apple soared to a record after giving  ahead of the launch of its new models and the growing significance of the company's supporting businesses.
+Shares leapt toward $US160 in early trading after projected revenue in the current quarter topped estimates, signalling strong sales of new iPhones scheduled for release later this year. At midday in New York, the shares were up 4.9 per cent to $US1557.38 - they earlier peaked at $US159.75.
+Apple has 36 buys, 10 holds and no sell ratings with an average 12-month price target of $US169.80, according to data compiled by Bloomberg.
+But while the stock market and most of Wall Street are celebrating, some analysts are voicing scepticism. Here's a roundup.
+
+Drexel Hamilton LLC, Brian White
+
+"With the June quarter out of the way, we believe investors will quickly turn their focus to the iPhone 8 this fall, along with the company's capital distribution initiative, depressed valuation and new innovations showcased at WWDC. We still believe Apple remains among the most under-appreciated stocks in the world."
+Credit Suisse Group AG, Kulbinder Garcha
+"Apple announced a solid set of results, showing growth in all product lines and all regions ex-China, with revenues of $US45.4 billion and earnings per share of $US1.67 versus consensus of $US1.57. With the iPhone showing sustained growth, and Services again showing robust growth, we still look forward to an iPhone 8 super cycle."
+Barclays PLC, Mark Moskowitz
+
+"The September outlook came in better than expected, which could fuel the bull's exuberance that the next iPhone launch could rival the iPhone 6 mega-growth cycle. We are somewhat skeptical though, as June quarter results reveal other drivers beyond the iPhone for the incremental goodness. IPhone ASP trends are hardly improving despite what the company referred to as strong iPhone 7 Plus mix. Further, the broader market push to the midrange in smartphones and increasing competitive intensity in China could become bigger long-term headwinds."
+Macquarie Group Ltd, Benjamin Schachter
+"We thought Apple's third quarter call was one of its most bullish in recent memory. Despite a coming big refresh, iPhone posted better than expected growth, and virtually all products in almost all geographies posted solid growth. Our focus remains on Services, and while Apple didn't provide App Store growth, it is clear that Services will remain the key number-two driver behind iPhone for the foreseeable future."
+Piper Jaffray Cos., Michael Olson
+
+"The outlook implies that fears of an iPhone X launch delay, and/or limited availability of the device, may have been overblown. We recommend owning Apple due to growing anticipation around iPhone X and a favourable trajectory for services revenue. Maintain our overweight rating and raise price target to $US190 from $US158."
+Deutsche Bank AG, Sherri Scribner
+"Apple delivered upside to results and guidance in a quarter that most investors weren't particularly focused on. The big upside surprise came from iPad sales, while Services also saw improving trends. The focus for investors, however, is the next iPhone launch, with management's guidance implying a relatively normal sequential increase, which may suggest speculation about iPhone delays are unfounded. We felt management delivered a good quarter, but we continue to believe the market is overly optimistic on future iPhone sales. Given a saturated smartphone market, elongating refresh cycles, increased competition in China, and a growing secondary market, we think Apple will have a hard time delivering on street expectations."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US190</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US$160</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US158</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 6</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>iPhone X</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kulbinder Garcha</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barclays PLC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US169.80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US45.4</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 7 Plus</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPhone ASP</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sherri Scribner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Piper Jaffray Cos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Julie Verhage</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Drexel Hamilton LLC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Suisse Group AG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank AG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>9</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>WWDC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brian White</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1557.38</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Benjamin Schachter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Moskowitz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Olson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.67</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US1.57</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Group Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>10</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US159.75</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

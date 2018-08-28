@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406863824572301</docid>
+  <date>01/08/2017</date>
+  <time>09:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/home-secretary-amber-rudd-real-people-dont-need-end-to-end-encryption-terrorists-2017-8</url>
+  <title>UK home secretary Amber Rudd says 'real people' don't need end-to-end encryption</title>
+  <content>
+LONDON - UK home secretary Amber Rudd has called on messaging apps like WhatsApp to ditch end-to-end encryption, arguing that it aids terrorists.
+
+, the Conservative minister said that "real people" don't need the feature and that tech companies should do more to help the authorities deal with security threats.
+
+But activists have reacted with concern to her remarks, blasting them as "dangerous and misleading."
+
+Strong end-to-end encryption involves encoding messages or data so it cannot be read by anyone other than the intended recipient - including the company whose tech encrypts it, or law enforcement with a warrant.
+
+WhatsApp, which is owned by Facebook, end-to-end encrypts all its messages by default. Messenger, another messaging app from Facebook, offers the security feature as an option (though it's not switched on automatically), as does Allo, a messaging app from Google, among numerous other apps.
+
+Amber Rudd: Encryption is "severely limiting our agencies' ability to stop terrorist attacks"
+
+In both the UK and around the world, end-to-end encryption is a contentious subject. Some in law enforcement argue it impedes security services' capability to detect and respond to threats. Privacy activists and technologists respond that the tech is necessary to protect users' data, and any "back door" or weakening of security would be open to abuse.
+
+In the wake of multiple terror attack in Britain in 2017, Rudd claims that the tech is making it more difficult for authorities to fight terrorism: "The inability to gain access to encrypted data in specific and targeted instances ... is right now severely limiting our agencies' ability to stop terrorist attacks and bring criminals to justice."
+
+The politician says the British government does not intend to ban end-to-end encryption - but would like companies to voluntarily move away from it, arguing it isn't necessary for "real people."
+
+She wrote: "Real people often prefer ease of use and a multitude of features to perfect, unbreakable security ... Who uses WhatsApp because it is end-to-end encrypted, rather than because it is an incredibly user-friendly and cheap way of staying in touch with friends and family? Companies are constantly making trade-offs between security and "usability", and it is here where our experts believe opportunities may lie."
+
+"The suggestion that real people do not care about the security of their communications is dangerous and misleading"
+
+Some critics have slammed Rudd's remarks, arguing that if WhatsApp (and other similar apps) did make such a change, extremists and terrorists would simply switch to another end-to-end encrypted messaging app that doesn't cooperate with the UK government. Meanwhile, ordinary users would be left less safe, they said.
+
+Jim Killock, executive director of UK digital liberties group Open Rights Group, said in a statement: "The suggestion that real people do not care about the security of their communications is dangerous and misleading. Some people want privacy from corporations, abusive partners or employers. Others may be worried about confidential information, or be working in countries with a record of human rights abuses. It is not the Home Secretary's place to tell the public that they do not need end-to-end encryption."
+
+Paul Bernal, a senior lecturer at UEA Law School, told Business Insider via email: "Amber Rudd's comments are depressingly unsurprising - this is part of a bigger trend against encryption that we've been seeing for some time - and are based on a fundamental misunderstanding of both the technology and of privacy itself. From a technological perspective, it misses that creating an opening for law enforcement or the intelligence services creates an opening for all kinds of others - from criminals (and indeed terrorists themselves) to foreign powers, to malicious individuals."
+
+He added: "Serious and competent criminals and terrorists can apply their own encryption - and incompetent ones can be caught any number ways. It's only ordinary people - in Amber Rudd's hideous terms, 'real people' that will suffer from her plans."
+
+Facebook and WhatsApp did not immediately respond to Business Insider's request for comment.
+
+Here's the key section of Amber Rudd's op-ed (emphasis ours):
+
+To be very clear - the Government supports strong encryption and has no intention of banning end-to-end encryption. But the inability to gain access to encrypted data in specific and targeted instances - even with a warrant signed by a Secretary of State and a senior judge - is right now severely limiting our agencies' ability to stop terrorist attacks and bring criminals to justice.
+I know some will argue that it's impossible to have both - that if a system is end-to-end encrypted then it's impossible ever to access the communication.
+That might be true in theory. But the reality is different. Real people often prefer ease of use and a multitude of features to perfect, unbreakable security. So this is not about asking the companies to break encryption or create so called "back doors". Who uses WhatsApp because it is end-to-end encrypted, rather than because it is an incredibly user-friendly and cheap way of staying in touch with friends and family? Companies are constantly making trade-offs between security and "usability", and it is here where our experts believe opportunities may lie.
+So, there are options. But they rely on mature conversations between the tech companies and the Government - and they must be confidential. The key point is that this is not about compromising wider security. It is about working together so we can find a way for our intelligence services, in very specific circumstances, to get more information on what serious criminals and terrorists are doing online.
+
+2/7 If you take technical steps to make the internet unsafe for terrorists and criminals, you make it unsafe for the rest of us.
+- Graham Smith (@cyberleagle)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Open Rights Group</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Graham Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Bernal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secretary of State</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Amber Rudd</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Home Secretary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UEA Law School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jim Killock</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rudd</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Messengers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

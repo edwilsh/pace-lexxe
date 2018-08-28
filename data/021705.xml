@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441476966537396</docid>
+  <date>06/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/qld-police-hunt-missing-injured-man/news-story/1754fd92d04ee6fa93ac48e15af2e454</url>
+  <title>Qld police hunt missing, injured man</title>
+  <content>
+A missing man is believed to be seriously injured after police found blood at a property following a disturbance in north Queensland.
+Residents in Townsville's Railway Estate called police about 10.30pm on Sunday after hearing yelling coming from an apartment.
+Three men are being interviewed and police are urging a fourth man with possible severe injuries to come forward to get medical help.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Townsville's Railway Estate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

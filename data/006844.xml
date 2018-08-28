@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410252553837684</docid>
+  <date>01/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/08/00/flights-suspended-melbourne-fog</url>
+  <title>Flights suspended as thick fog blankets Melbourne</title>
+  <content>
+All inbound flights and some outbound flights out of Melbourne have been suspended due to a thick fog that has blanketed the city this morning.
+The Bureau of Meteorology has issued a road weather alert for all Melbourne suburbs with drivers being told to expect delays moving into the city.
+The State Emergency Service has advised people to reduce speed and maintain a greater distance between them and the vehicle in front of them.    
+
+oeˆ️ Fog  this morning may cause delays. Passengers are advised to check with their airline for details
+
+A state-wide frost warning also remains in place for most areas of Victoria, with tops of 15 degrees expected once the fog lifts.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

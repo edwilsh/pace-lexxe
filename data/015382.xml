@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424567680099485</docid>
+  <date>04/08/2017</date>
+  <time>05:52</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/04/two-qantas-flights-return-sydney-airport-after-take</url>
+  <title>Two Qantas flights return to Sydney airport after take-off</title>
+  <content>
+Two Qantas flights are circling just off the coast of Sydney, dumping fuel and preparing to return to the airport, flight radars say.
+
+20 MINS AGO  UPDATED 1 MIN AGO
+
+Two Qantas flights have dumped fuel and are returning to Sydney airport after circling just off the coast.
+
+Airbus A380 QF7 took off from Kingsford Smith Airport just before 2pm, bound for Dallas Fort Worth in the United States but flight radars detected the plane circling and dumping fuel following a "technical issue".
+
+QF63 Sydney to Johannesburg was a few hours into its flight when an issue was discovered, a Qantas spokeswoman told AAP. It will also return to the airport.
+
+AAP understands both planes are returning to Sydney to be inspected.
+
+MORE TO COME
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UPDATED 1 MIN AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Airbus A380 QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63 Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingsford Smith Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-Fort Worth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

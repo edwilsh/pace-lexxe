@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416909753271229</docid>
+  <date>03/08/2017</date>
+  <time>00:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/insurance/suncorp-profit-up-4pc-as-insurance-business-shows-strength-20170802-gxo7g1</url>
+  <title>Insurance arm boosts Suncorp profit by 4 per cent</title>
+  <content>
+Suncorp Group has reported a nearly 4 per cent increase in annual profit and plans to funnel $100 million into its renewed digital strategy.
+For the full year ended June 30, 2016 Suncorp reported a 3.6 per cent rise in group net profit after tax to $1.08 billion from $1.04 billion in the previous financial year.
+Revenue for the 12 months to June 30 rose 12.3 per cent to $17.39 billion compared to a year ago.
+The result was driven by gains in the Australian insurance business which helped offset lower margins in banking and a fall in its New Zealand unit's profit.
+
+According to chairman Ziggy Switkowski, the institution's renewed "marketplace" strategy, which involves cross-selling products across its brands, AAMI, GIO, APIA, Shannons, and Suncorp's banking and wealth products, and a hardening insurance market also contributed.
+
+The group said an additional investment of up to $100 million after-tax in the full year 2018 was needed to "deliver the key components of the Marketplace." Payout ratios increased to eliminate the impact to dividends.
+Suncorp declared a final dividend of 40¢ a share, taking its full-year distribution to 73¢, which is up 5¢ on last year.
+The group's Australian insurance business, which includes life insurance, is the group's largest division and reported net profit after tax of $723 million up 30 per cent from $558 million in the 2016 financial year.
+Australian General Insurance gross written premium (GWP) was up 3.9 per cent to $8.1 million compared to last year's result of $7.8 million.
+
+Life insurance planned margins and underlying profits remained stable said Suncorp.
+Australian Life Insurance underlying profit of $53 million wa unchanged from last year.
+Suncorp's banking and wealth business reported a drop in annual net profit after tax from $418 million to $400 million.
+Banking lending grew 1.9 per cent, while wealth funds under management and administration increased 0.8 per cent to $7.5 million
+
+The New Zealand unit reported its net profit after tax dropped to $82 million from $183 million for the same period last year. This result was driven by the Kaikoura earthquake and additional claims from the 2010-11 Canterbury earthquake.
+The group said that it had almost 400,000 new customers for the full year 2017,which chief executive Michael Cameron said showed the markeplace strategy was "gaining momentum".
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Canterbury</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Life Insurance</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ziggy Switkowski</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Shannon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Cameron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suncorp Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian General Insurance</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GWP</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kaikoura</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

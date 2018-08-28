@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410308388413637</docid>
+  <date>01/08/2017</date>
+  <time>22:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Broker</source>
+  <url>http://www.brokernews.com.au/news/breaking-news/settlement-times-halved-as-digital-deadline-passes-239423.aspx</url>
+  <title>Settlement times halved as digital deadline passes</title>
+  <content>
+Brokers in New South Wales and Victoria can expect more streamlined loan processing thanks to the mandatory paperless refinancing now applicable.
+With the deadline for the first compliance date passing yesterday (1 August), lenders are now required to lodge refinance transactions digitally with land registries in those two states.
+Marielle Yeoh, chief financial services officer from Property Exchange Australia (PEXA), talked with Australian Broker about what these changes meant for the broking industry.
+"The refinance process should be even more seamless now for the customer and obviously the broker under the electronic way of processing refi transactions. The other option is, should a broker or bank - both parties to a transaction - want to do a refi urgently, say for end of tax year or some other purpose, there is now no reason why this can't go through in a matter of moments."
+Settlement times through PEXA have almost halved, Yeoh said, dropping on average from 40 days to 20 days thanks to the digital platform.
+"In the best case, we saw a refi happen in 18 minutes. This was two of our very early banks. It was an urgent settlement that had to take place and both parties were ready."
+Through this digital transformation, PEXA has also managed to eliminate pain points in the settlement booking process for the broker and should provide added visibility depending on the lender, Yeoh said.
+"For the broker, there's not that last minute running around reporting customers with finding documentation, giving them advice around going to collect bank cheques, and all that sort of stuff. A lot of that is eliminated because that work has to be done electronically ahead of a PEXA settlement."
+For brokers, it should be "business as usual" with a lot of lenders having already built these changes into their backend processes, she added.
+"It really is up to the lender to determine how and when it will go through PEXA. What will happen is the broker will generate a deal, it will go through the normal fulfilment process, the bank will say whether it is PEXA eligible and then it will go down the PEXA path."
+Brokers will not notice any changes upfront for how the deal is processed, she said. However, what they should see is greater certainty around the settlement.
+One key pain point eliminated by this digital process is related to the discharge authority, Kate Camilleri, general manager of financial industry reform at PEXA, told Australian Broker.
+"What the PEXA platform migration of these platforms does is it provides opportunities to address those pain points through digital processing."
+This will be achieved in stages, she said, with the first stage allowing lenders to upload their discharge authorities into the PEXA platform and marry them with the actual transaction.
+"This is further downstream from the mortgage brokers at this stage but it's the first improvement to address this particular industry pain point.
+"The lenders will be looking for opportunities to reach further upstream and see how they can use digital mechanisms to improve the overall discharge authority completion, sending, receiving and processing."
+Other broker pain points which could potentially be dealt with through PEXA are standardising the forms themselves as well as how to send them off, Camilleri said.
+Yeoh added that more than 120 lenders that transact at volume are now well and truly capable of processing refinance applications through the PEXA platform. Banks have gradually come on board with this, with the majors refinancing at volume in late 2014.
+While lenders can technically integrate with PEXA, some have chosen to connect instead to a web-based interface with the lender's operational teams using this to process transactions.
+As of writing, NSW and Victoria are the only states to mandate this digital only refinancing process. Western Australia will come on board in December this year while South Australia is tentatively scheduled to join in the first quarter next year.
+Related stories:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Yeoh</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Property Exchange Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marielle Yeoh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kate Camilleri</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PEXA</name>
+    <count>13</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Australian Broker</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Camilleri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

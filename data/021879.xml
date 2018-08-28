@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442159866345821</docid>
+  <date>07/08/2017</date>
+  <time>02:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-07/ethics-and-privacy-surrounding-digital-healthcare-records/8780614</url>
+  <title>Healthcare records outlive us. It's time to decide what happens to the data once we're gone</title>
+  <content>
+Death is inevitable. The creation of healthcare records about every complaint and ailment we seek treatment for is also a near-certainty.
+Data about patients is a vital cog in the provision of efficient health services.
+Our study explores what happens to those healthcare records after you die. We focus on New Zealand's legal situation and practices, but the issue is truly a global one.
+Previously, healthcare records were held in paper form and stored in an archive. Next came the advent of digital storage in on-site databases.
+When you died, your records were either shredded or erased, depending on the technology.
+But it is now increasingly common for healthcare records to be digitised and held in a central repository. They can potentially be held for an indefinite period after someone dies, depending on the jurisdiction.
+Should we be worried?
+A question of value
+
+Large, population-based healthcare datasets have immense value.
+This is particularly true of records that include genomic information alongside other healthcare data - a phenomenon that will only increase as information about a person's genes is more widely used in clinical treatment.
+These posthumous healthcare datasets, which will grow in size and detail over the coming decades, could tell us a great deal about diseases and heritability.
+Datasets from generations of families and communities may well be available for research, and able to be analysed.
+Information on this scale is worth a lot, especially for data storage companies and those with a financial interest in these data sets, such as pharmaceutical companies.
+
+Imagine, for instance, if a company could quickly analyse millions of genomes to isolate a disease that could be cured by an engineered pharmaceutical, and the commercial value this would create.
+So how will this affect the individual whose data is held and their surviving family? Many people would be willing to donate medical records if the downstream result was beneficial for their community and country.
+Yet the lines become easily blurred.
+Would it be acceptable if datasets were sent to foreign companies? What if they provided a cure free of charge to the families of citizens whose data they used?
+How about if the cure was half price, or full price, but the other option was having no cure at all? Would it be all right for companies to make millions of dollars out of this information? There is no easy answer.
+What's the legal situation?
+
+It's impossible to talk about the long-term fate of healthcare data without considering privacy and consent.
+As part of medical research, for example, participants are required to provide informed consent and often the gathered data are anonymised.
+Access to posthumous medical records, on the other hand, is not highly regulated or protected in most countries, and the laws surrounding access are incredibly unclear.
+In New Zealand, a deceased person has no privacy rights under the Privacy Act. And while healthcare data has to be held for a minimum of 10 years after death, the regulatory body which is then custodian of that data may decide - broadly - what purposes it may be used for.
+Given that the custodian can be anyone from a health board or local doctor to a commercial institution that stores health records, the situation is exceedingly vague.
+It is often argued that use of anonymous datasets does not require consent from an individual - in our case, a deceased person cannot provide this anyway. However the lines of true "anonymity" are becoming more blurred, particularly thanks to genomics.
+Your own genome is partly that of your family and relatives. They may also have an emotional stake, and possibly a legal stake, in any action or research where the genome of a deceased family member is involved.
+The medical profession has not always dealt well with consent and ethics issues. In one infamous case, the cancer cells of Henrietta Lacks - a 31-year-old American woman who died of cervical cancer in 1951 - have been used thousands of times in research projects.
+
+She unwittingly made an invaluable contribution to global health, yet she never consented and her family was not consulted.
+Then there is the fact that if large databases are readily available, the possibility of data linkage increases - matching datasets that may belong to the same person - potentially undermining the ability to maintain true anonymity for the individual and their family.
+What happens now?
+
+The New Zealand and Australian governments have signalled healthcare data is a widely underused resource. Commercialisation of such data is a possibility.
+At some point, large posthumous healthcare datasets from these countries could potentially be accessed by researchers and private institutions around the world.
+It is time for the public to decide what they think is reasonable. If the use of posthumous healthcare data is not aligned with the wishes of society, especially its desire for anonymity, the trust between our healthcare providers and patients may become compromised.
+Healthcare datasets have immense value, but the public must be consulted about their use. Only then can the potential of posthumous healthcare datasets be properly realised.
+Jon Cornwall is a senior lecturer in the Faculty of Health at the Victoria University of Wellington.
+This article was originally published on .
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Henrietta Lack</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria University of Wellington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Faculty of Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Privacy Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jon Cornwall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

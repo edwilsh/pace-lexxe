@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404368448532070</docid>
+  <date>31/07/2017</date>
+  <time>23:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/subiaco-unit-fire-started-by-smoking/news-story/140ffbec570f89b8066031e053bc7fa7</url>
+  <title>Subiaco unit fire started by smoking</title>
+  <content>
+A RESIDENT smoking in bed has sparked a blaze inside a Perth unit on Monday night.
+According to the Department of Fire and Emergency Services, the blaze inside the Subiaco unit started accidentally around 7pm.
+Fire crews found smoke coming from the Subiaco Road unit on arrival, with one person suffering smoke inhalation at the scene.
+That person was treated by paramedics and sustained only minor injuries.
+Firefighters were able to extinguish the blaze shortly after, with the Department of Housing called in to assess the extent of the damage to their property.
+DFES has estimated the damage bill at $80,000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Subiaco Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Subiaco</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Department of Housing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DFES</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Department of Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

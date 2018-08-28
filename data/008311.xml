@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412056440130713</docid>
+  <date>02/08/2017</date>
+  <time>05:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4828239/taking-a-stand-on-overcrowded-south-coast-trains/?cs=300</url>
+  <title>Taking a stand on overcrowded South Coast trains</title>
+  <content>
+A seat is all Illawarra rail commuters want, according to Keira MP Ryan Park.
+
+Mr Park spoke in parliament this week about overcrowding on South Coast trains, particularly the four-carriage 3.24pm service.
+"The users of this train service spend at least one-and-a-half hours for a 90-kilometre trip," Mr Park said.
+
+"It is a difficult journey that they do early in the morning and repeat in the afternoon to return home.
+
+"These passengers often are unable to get a seat even if they arrive at Central Station half an hour before the train leaves."
+
+After receiving complaints about this train service, Mr Park chose to catch it himself.
+
+"Young women told me that they must sit in the train vestibule and on the carriage stairs," Mr Park said.
+
+"It is ridiculous in this day and age that we cannot provide additional services to one of the largest commuter populations in this state."
+
+What was needed was not a "luxury service", Mr Park said, and not even a service every 10 or 15 minutes like "what our friends in northern Sydney get".
+
+"We are simply asking that when people get on a peak-hour train to travel for approximately 90 kilometres for an hour and a half they can get a seat and that they are not crammed into train vestibules," he said.
+
+A Transport for NSW spokesman effectively said the 3.24pm was too early to get extra carriages.
+"Eight-carriage services operate mostly during the peak periods and are prioritised for our busiest services," the spokesman said.
+"During the 4pm and 7pm peak, there are six trains that operate as eight-carriages and only one train that operates as four-carriage."
+
+He said Transport for NSW would continue to monitor the network for further improvements.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Keira MP Ryan Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Illawarra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Coast</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Park</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

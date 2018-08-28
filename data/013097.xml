@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418803833878721</docid>
+  <date>03/08/2017</date>
+  <time>07:30</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/cba-accused-of-aiding-fraud-with-intelligent-deposit-machines-470058</url>
+  <title>CBA accused of aiding fraud with intelligent deposit machines</title>
+  <content>
+The Commonwealth Bank has been accused of deploying a fleet of intelligent deposit machines without effective fraud controls, enabling $77 million of suspicious transactions to be made using the machines over a three year period.
+
+Financial regulator AUSTRAC has filed civil proceedings against the bank in the Federal Court, alleging over 53,700 contraventions of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act).
+
+AUSTRAC said CBA had deployed intelligent deposit machines (IDMs) - a type of ATM that accepts cash and cheque deposits and credits them "instantly" to the recipient's account - in 2012.
+
+"The funds are then available for immediate transfer to other accounts both domestically and internationally," the authority said in a .
+
+AUSTRAC alleged there was no limit on the number of deposits a customer could make in a single day. Last year, more than $1 billion was deposited via the machines over two consecutive months.
+
+It has accused CBA of not assessing the risk of the machines being used for money laundering or counter-terrorism financing.
+
+It claimed action was not taken prior to rolling out the machines nor once they were in use - even allegedly when law enforcement raised "significant instances of money laundering" occurring through the IDMs.
+
+"About $8.91 billion in cash was deposited through CommBank IDMs before it conducted any assessment of the ML/TF risks associated with the IDM channel," AUSTRAC alleged.
+
+AUSTRAC claimed it was then notified late about 53,506 transactions of $10,000 or more that were processed through IDMs.
+
+Some of the late reported transactions involved money laundering or accounts believed to pose "a potential risk of ... terrorism financing", the authority alleged.
+
+Five different syndicates are alleged to have exploited the IDMs for a variety of money laundering activities.
+
+AUSTRAC is scathing of the alleged effect that CBA's behaviour had on serious crime investigations.
+
+"Non-reporting and late reporting [of suspicious transactions] both delays and hinders law enforcement efforts," it said.
+
+"Delays in this case have resulted in lost intelligence and evidence (including CCTV footage), further money laundering and lost proceeds of crime.
+
+"It is essential to the integrity of the Australian financial system that a major bank such as CommBank has compliant and appropriate risk-based systems and controls in place to deter money laundering and terrorism financing.
+
+"The effect of CommBank's conduct in this matter has exposed the Australian community to serious and ongoing financial crime."
+
+AUSTRAC said it was seeking a court order for "declaratory relief", pecuniary penalties and its costs.
+
+CBA said it was "reviewing the nature of the proceedings and will have more to say on the specific claims in due course".
+
+"We have been in discussions with AUSTRAC for an extended period and have cooperated fully with their requests," the bank said in a statement.
+
+"Over the same period we have worked to continuously improve our compliance and have kept AUSTRAC abreast of those efforts, which will continue."
+
+CBA said it took its regulatory obligations "extremely seriously" and that it had invested "more than $230 million in our anti-money laundering compliance and reporting processes and systems".
+
+"Money laundering undermines the integrity of our financial system and impacts the Australian community's safety and wellbeing," the bank said.
+
+"We will always work alongside law enforcement, intelligence agencies and government authorities to identify, disrupt and prevent this type of activity."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act 2006</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IDM</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ML/TF</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>9</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iDMS</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CommBank's IDMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CommBank</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

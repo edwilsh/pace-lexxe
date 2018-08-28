@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398492933168241</docid>
+  <date>31/07/2017</date>
+  <time>00:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/07/samsung-knocks-intel-from-top-of-chip-tree/</url>
+  <title>Samsung Knocks Intel From Top Of Chip Tree</title>
+  <content>
+Intel has been the world's leading chip maker for a long time. But they are no longer number one. Samsung has surpassed Intel and the numbers make for some interesting reading.
+
+According to a  report that refers to a report from , Samsung reported second-quarter sales of $15.7 billion and operating profit of $7.1 billion. For the same period, Intel reported quarterly revenue of $14.8 billion and operating profit of $3.8 billion.
+
+While the revenue numbers are relatively close, the margin Samsung is garnering far outstrip those Intel is receiving.
+
+While Intel dominates server and personal computer processors, Samsung dominates when it comes to smaller chips used in mobile and IoT devices. While Intel hasn't seen their revenues slide, the market has expanded with Samsung taking advantage.
+
+There's an interesting lesson in all this. Walter Gretzky, the father of ice hockey legend Wayne, once told his son to "Skate to where the puck is going, not where it has been".
+
+Like many large companies, Intel kept backing its strength in tradtitional computing and largely missed the mobile puck. Microsoft, under Steve Ballmer did the same thing and it's been the leadership of Satya Nadella that has shifted the company to the cloud and away from its traditional boxed software businesses.
+
+Can Intel do the same and transform its business into one that can make a big push into mobile and small device markets? Or is it so tied to its history that it can't change and will simply become a commodity hardware company supporting the shrinking PC market as smaller devices become more prolific?
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wayne</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Satya Nadella</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Knocks Intel From Top Of Chip</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Walter Gretzky</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Ballmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Intel</name>
+    <count>8</count>
+    <score>9</score>
+  </sindex>
+  </sindexList>
+</snippet>

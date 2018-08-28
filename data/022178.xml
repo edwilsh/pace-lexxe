@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443027449751528</docid>
+  <date>07/08/2017</date>
+  <time>05:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/man-accused-of-filming-children-in-gold-coast-shopping-centre-bathrooms-20170807-gxqwae.html</url>
+  <title>Man accused of filming children in Gold Coast shopping centre bathrooms</title>
+  <content>
+A man has been charged after allegedly taking pictures and video of children in Gold Coast shopping centre bathrooms during the past two weeks.
+It will be alleged a man who worked at a business in a Biggera Waters shopping centre followed a 15-year-old boy into the bathroom and photographed him without consent on Sunday.Photo: Chris Hyde
+Police said the boy noticed the phone and told his father, who detained the man allegedly responsible until officers arrived.
+It will be further alleged detectives from the Gold Coast Child Protection Investigation Unit found videos of two other children on the man's phone, filmed in a Southport shopping centre bathroom on June 26.
+A 27-year-old Southport man was charged with indecent treatment of a child under 16, possessing child exploitation material, making child exploitation material and observations or recordings in breach of privacy. 
+He was due to appear in Southport Magistrates Court on Monday, while investigations were continuing.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday.Photo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Southport</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Chris Hyde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast Child Protection Investigation Unit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southport Magistrate Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Biggera Waters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

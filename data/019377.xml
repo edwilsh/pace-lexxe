@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435163364552816</docid>
+  <date>05/08/2017</date>
+  <time>22:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/08/45/homicide-probe-unidentified-man-s-death</url>
+  <title>Homicide probe unidentified man's death</title>
+  <content>
+A man who died near a Melbourne train station after he was found with critical injuries is yet to be identified as homicide squad detectives launch an investigation.
+The man was found near a train station in West Footscray on Saturday night. Paramedics worked to revive him but he died at the scene, police say.
+The exact circumstances surrounding the death are yet to be determined.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Footscray</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436799747106620</docid>
+  <date>06/08/2017</date>
+  <time>05:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/china-appeals-for-new-north-korea-talks/news-story/5b09feb4920d9188b3310cf0c46b2dad</url>
+  <title>Chinese, NKorean foreign ministers meet</title>
+  <content>
+The foreign ministers of China and North Korea have begun bilateral talks in Manila, ahead of a regional security meeting, a day after the United Nations Security Council agreed tough sanctions on Pyongyang over its missile tests.
+The meeting of the two ministers appeared to be in good spirits, and was a rare international get-together that included North Korea as a participant.
+North Korean Foreign Minister Ri Yong Ho smiled continuously as he shook the hand of Chinese counterpart Wang Yi, who put his hand on Ri's shoulder as he accompanied him into the meeting room. The meeting was closed to the media.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean Foreign Minister Ri Yong-ho</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wang Yi</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MANILA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NKorean</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Security Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

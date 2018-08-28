@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421677167060624</docid>
+  <date>03/08/2017</date>
+  <time>18:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/1693947/laneways-paved-with-historical-macabre/?cs=4173</url>
+  <title>Laneways paved with historical macabre</title>
+  <content>
+MAITLAND'S laneways have long held a certain appeal, particularly those with a link to the macabre.
+
+While many were simply functional access routes to the rear of shops or houses, the history of others paint a picture of the city's early trades.
+Author Mick O'Donnell, who lived at the Imperial Hotel in Maitland as a child, loaned the lanes a sense of menace with his novel The Spectre of Stillsbury Lane.
+Set in the 1930s, the book is based on the death of a Japanese official in the laneway beside the hotel.
+The macabre theme also appears to continue with Coffin Lane, running off Bourke Street, but the lane is more a testament to craftsmanship.
+In her book Bourke Street West Maitland, Cynthia Hunter describes the laneway as a spot behind cabinet makers and joiners' High Street workshops during the city's early years.
+It was often lined with freshly varnished coffins.
+''Although local deaths may not have been of such numbers as the vision of a lane lined with drying coffins might conjure up, it must be remembered that coffins were 'exported' to northern and western NSW and, in 1849, 5000 coffins were sent to California following the gold rush there,'' Ms Hunter wrote.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lane</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bourke Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cynthia Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bourke Street West Maitland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mick O'Donnell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Maitland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>High Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffin Lane</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Imperial Hotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spectre of Stillsbury</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

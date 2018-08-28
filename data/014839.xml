@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707600032</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/petrol-tanker-fire-closes-m1-in-both-directions-as-emergency-crews-douse-area-with-foam/news-story/079c1f2a005281fccef7b75e4099b696</url>
+  <title>Fire closes M1 in both directions</title>
+  <content>
+FIRE services, police and ambulances are on the scene of a petrol tanker on fire southbound on the M1.
+Both sides of the M1 have been closed.
+The incident happened at around 8.40am near the Logan Hyperdome, around the Beenleigh-Redland Bay Rd exit.
+The Queensland Fire and Emergency Services confirmed the driver of the tanker was out of the vehicle.
+A spokesman for the service said three crews were attending the blaze, flooding the area with foam.
+</content>
+  <sindexList>
+  <sindex>
+    <name>M1</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Logan Hyperdome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beenleigh-Redland Bay Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

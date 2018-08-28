@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409951906120465</docid>
+  <date>01/08/2017</date>
+  <time>21:09</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/apple-google-remove-hundreds-of-fraudulent-trading-apps-469892</url>
+  <title>Apple, Google remove hundreds of fraudulent trading apps</title>
+  <content>
+Hundreds of mobile apps offering binary options trading have been removed from Google and Apple stores following an investigation by the Australian Securities and Investment Commission (ASIC).
+
+ASIC  more than 330 apps offered to Australians and found many published misleading statements about the profitability of trading and the amounts that could be made.
+
+Binary options trading has been likened to gambling, and involves the trader getting the value of the commodity at a given time exactly right, or losing all the money invested.
+
+ASIC found that 80 percent of the apps contained no warning about the risks of losing money, and many collected information for high-pressure cold calling of customers.
+
+They also offered associated activities such as casino, lottery, forex and other dubious services, ASIC found. Elderly investors in particular were being targeted.
+
+"This is a timely reminder for investors to remain vigilant and not fall for flashy advertising or hard selling. Investors also need to make sure any financial service provider, regardless of the way that financial service is being provided, is adequately licensed and authorised to provide those services," ASIC commissioner Cathie Armour said in a statement.
+
+"In an age where technology can hide who is offering and controlling a product, buyer beware has never been so important. If something appears too good to be true, it probably is."
+
+After pulling the apps from their stores, both Google and Apple have now changed their guidelines so as not to allow similar trading programs again.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cathie Armour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415668507699116</docid>
+  <date>02/08/2017</date>
+  <time>19:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/05/15/sydney-school-damaged-by-suspicious-fire</url>
+  <title>Sydney school damaged by suspicious fire</title>
+  <content>
+A Sydney school has been damaged by fire in what police say is suspicious circumstances.
+Emergency services extinguished the blaze after being called to the school on Winbourne Street at West Ryde just after 1am on Thursday, but it caused significant damage to a building.
+A crime scene has been established and forensic crews will examine the site later on Thursday, while police are appealing for witnesses to come forward.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Winbourne Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>West Ryde</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>8</score>
+  </sindex>
+  </sindexList>
+</snippet>

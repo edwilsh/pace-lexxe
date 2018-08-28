@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441227858431153</docid>
+  <date>06/08/2017</date>
+  <time>22:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Broker</source>
+  <url>http://www.brokernews.com.au/news/breaking-news/nonbank-alters-loans-for-metro-borrowers-239571.aspx</url>
+  <title>Non-bank alters loans for metro borrowers</title>
+  <content>
+Non-bank lender Bluebay Home Loans has announced a series of changes to its Altitude Home Loan range, coming into effect on 31 July.
+The following changes affect new borrowers in the Sydney and Melbourne metro areas on all Altitude Home Loans (Prime):
+
+Increasing the maximum exposure to a borrower or guarantor from $2m to $2.5m on the lender's Altitude Home Loans
+
+Increasing the maximum loan amount on the Altitude Home Loan Full Doc for LVRs of less than 80% from $1m to $1.5m
+
+Bluebay has also increased the required LVR threshold for non-genuine savings from 80% to 90% (inclusive of fees) on all Altitude Full Doc Home Loans.
+Finally, the lender has announced that interest only repayments and/or investment purpose loans will be available on its Altitude Near Prime PLUS product only.
+Bluebay Home Loans provides self-branded mortgages financed by Adelaide Bank.
+Related stories:
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Altitude Home Loan</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LVR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluebay Home Loans</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altitude Home Loan Full Doc</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BlueBay</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Altitude Near Prime PLUS</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LVRs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Altitude Full Doc Home Loans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

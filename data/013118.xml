@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419229035649098</docid>
+  <date>03/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/st-pauls-cathedral-hitrun-in-melbourne-cbd/news-story/4b5caef75f5778fcb7142a91c2032670</url>
+  <title>Two hurt in Melbourne CBD hit-run</title>
+  <content>
+TWO people have been hit by a car near St Paul's Cathedral.
+Police are searching for the driver, who hit two pedestrians at the intersection of Flinders and Swanston streets, before fleeing the scene at 6.30pm.
+The two victims have suffered non life-threatening injuries.
+Emergency services remain at the scene.
+Victoria Police spokeswoman Hannah Rowlands said police were investigating.
+"The driver of the vehicle did not stop at the scene and is yet to be located," she said.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Swanston</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Paul's Cathedral</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hannah Rowlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

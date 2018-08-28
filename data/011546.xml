@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417773041710920</docid>
+  <date>03/08/2017</date>
+  <time>03:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/nurse-tammy-davischarles-jailed-in-cambodia-on-surrogacy-charges/news-story/9f5cc00281d9cc0b75e3eb91ee02f13a</url>
+  <title>Aussie nurse jailed in Cambodia</title>
+  <content>
+An Australian nurse has been jailed in Cambodia for providing commercial surrogacy services.
+Tammy Davis-Charles was today convicted in a Cambodian court after being found guilty of acting as an intermediary between a pregnant woman and an adoptive parent. She was sentenced to one and a half years in prison and a $1,200 fine.
+She has already spent nine months in jail.
+Cambodia banned commercial surrogacy last year after becoming a popular destination for would-be parents seeking women to give birth to their children.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tammy Davis-Charles</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Cambodia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cambodian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

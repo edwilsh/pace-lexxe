@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401284661954160</docid>
+  <date>31/07/2017</date>
+  <time>11:31</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/eurozone-unemployment-lowest-since-2009/news-story/7b34d7ce3086320259c8a7c7b341fd97</url>
+  <title>Eurozone unemployment lowest since 2009</title>
+  <content>
+Unemployment in the eurozone continued to fall in June to 9.1 per cent, the lowest rate recorded since February 2009, Eurostat, the EU's statistics agency, says.
+The number of unemployed people in the eurozone fell to 14.7 million in June, a decrease of 183,000 from May, when the seasonally adjusted unemployment rate stood at 9.2 per cent.
+Greece continued to have the highest unemployment rate in the 19-country eurozone and European Union as a whole with 21.7 per cent in June, which is down from 22.5 per cent in May.
+The lowest rates of unemployment were recorded in the Czech Republic at 2.9 per cent, Germany 3.8 per cent and Malta 4.1 per cent.
+The rate in the 28 EU member states as a whole remained stable at 7.7 per cent, the lowest figure recorded since December 2008.
+</content>
+  <sindexList>
+  <sindex>
+    <name>EU</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Czech Republic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>February 2009</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greece</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>December 2008</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany (3.8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malta (4.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eurostat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

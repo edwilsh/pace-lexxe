@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406271119073996</docid>
+  <date>01/08/2017</date>
+  <time>06:52</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/16/41/mum-testifies-at-murdered-teen-s-trial</url>
+  <title>Mum testifies at murdered teen's trial</title>
+  <content>
+The last words Maha Dunia said to her 16-year-son as he left their Sydney home early for his job were: "God bless you."
+Just over 24 hours later, after she and other relatives had spent the night searching for him, Mahmoud Hrouk's battered body was found in a nearly vacant home in Fairfield East.
+His mother wept at times on Tuesday when giving evidence at the NSW Supreme Court trial of Aymen Terkmani, 24, who has pleaded not guilty to the murder and aggravated sexual assault of her teenage son on the evening of May 16, 2015.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Maha Dunia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mahmoud Hrouk</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fairfield East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aymen Terkmani</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>May 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

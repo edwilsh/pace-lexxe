@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443796248910224</docid>
+  <date>07/08/2017</date>
+  <time>08:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/07/18/21/aust-us-urge-world-to-pressure-n-korea</url>
+  <title>Aust, US urge world to pressure N Korea</title>
+  <content>
+The United States, Australia and Japan has urged the international community to pressure North Korea to abandon its "threatening and provocative path" and apply additional diplomatic and economic measures on Pyongyang over its missile tests.
+In a joint statement at the end of a meeting of their foreign ministers on the sidelines of a regional security meeting in Manila, the three countries said new sanctions on North Korea should be strictly implemented.
+They said they were committed to sanctions and to providing help in implementing them, including export controls.
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MANILA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>N. Korea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

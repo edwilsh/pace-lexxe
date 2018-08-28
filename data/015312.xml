@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424434536111516</docid>
+  <date>04/08/2017</date>
+  <time>05:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/15/06/wa-surf-event-stays-on-championship-tour</url>
+  <title>WA surf event stays on championship tour</title>
+  <content>
+The Margaret River Pro will remain part of the championship tour following a campaign by Surfing WA, professional surfers and the state government.
+There was speculation the event would be dropped from the tour after its five-year contract ended this year, but the World Surf League has agreed to at least a two-year extension.
+The competition attracts the world's best surfers including Kelly Slater, Mick Fanning and Stephanie Gilmore, and injects $5.4 million to the South West region every year.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Surf League</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>South West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Margaret River Pro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mick Fanning</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kelly Slater</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Surfing WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephanie Gilmore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

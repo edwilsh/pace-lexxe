@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428935661916940</docid>
+  <date>04/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/men-armed-with-speargun-rob-mackay-couple-20170804-gxpxlv.html</url>
+  <title>Men armed with speargun rob Mackay couple</title>
+  <content>
+Three men armed with a speargun have robbed a middle-aged couple during a Mackay home invasion.
+The trio stole a number of items from the home, including a car.
+A 51-year old man tried to stop the thieves by throwing himself on the bonnet of the vehicle.
+He fell from the moving car and was taken to Mackay Base Hospital with non-life threatening injuries.
+Two of the thieves fled in the vehicle, while the third left on foot.
+AAP 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mackay</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mackay Base Hospital</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

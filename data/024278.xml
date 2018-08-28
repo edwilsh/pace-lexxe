@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446201430641272</docid>
+  <date>07/08/2017</date>
+  <time>17:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/03/34/collapsed-crane-keeps-sydney-residents-out</url>
+  <title>Collapsed crane keeps Sydney residents out</title>
+  <content>
+Residents of a high-rise unit block in Sydney's south face are waking up with no idea of when they can return home after a crane collapsed on to the side of their building.
+Authorities have begun investigating what caused the Sunday morning incident at Wolli Creek as engineers assess how to safely dismantle the crane, which smashed into a top-floor penthouse apartment of the at least 10-storey building, crushing the balcony.
+It comes as a construction union calls for a halt to the use of Cantilever cranes until independent engineers' reports can prove they have been put together correctly.
+All 160 residents of the apartment complex on Brodie Spark Drive were evacuated when the crane, which firefighters estimate is about 30 metres tall, toppled on Sunday.
+They could be forced to remain in temporary accommodation until at least Wednesday, with contractor Probuild estimating it could take another two to three days to safely dismantle the crane.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Probuild</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brodie Spark Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wolli Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

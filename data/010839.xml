@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416999947585868</docid>
+  <date>03/08/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/police-powers-keeping-dv-victims-safe-mp/news-story/3275bf30e4209a213cb8840d7cbe4d2d</url>
+  <title>Police powers keeping DV victims safe: MP</title>
+  <content>
+Queensland police-issued protection orders for domestic violence victims have almost tripled since officers were granted the power to issue them on-the-spot.
+The Queensland government says legislation which came into effect in May 2017 allowing police to provide immediate legal protection to victims has proven to be a useful tool for officers.
+Domestic and Family Violence Prevention Minister Shannon Fentiman said 1970 police protection notices were issued in the last financial year, with 1185 of those issued in the first month of the new legislation taking effect.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>DV</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2017</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Family Violence Prevention Minister Shannon Fentiman</name>
+    <count>1</count>
+    <score>0.75</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

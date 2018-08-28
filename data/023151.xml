@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444053946952489</docid>
+  <date>07/08/2017</date>
+  <time>09:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4839937/wreckage-of-us-marines-corp-heli-plane-found-off-queensland/?cs=7</url>
+  <title>Wreckage of US Marines Corp heli-plane found off Queensland</title>
+  <content>
+The wreckage of a US Marines heli-plane that crashed during a training exercise north of Rockhampton on Saturday has been found.
+Australian Defence Minister Marise Payne confirmed an Australian Navy ship had found the missing MV-22 Osprey overnight on Sunday, submerged in waters off Queensland.
+"The Australian Defence Force has commenced its support to US-led recovery operations following the MV-22 Osprey incident in Shoalwater Bay on Saturday," the statement said.
+
+/**/
+
+"Royal Australian Navy survey ship HMAS Melville arrived to Shoalwater Bay overnight. Shortly after commencing survey operations in the area, the submerged aircraft was located."
+Navy divers are now working with the crew of HMAS Melville at the wreckage site, using remotely operated underwater vehicles.
+The government would offer further support as required, the statement said.
+More to come
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Defence Force</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Australian Navy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Navy</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US Marine Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoalwater Bay</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US-led</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US Marines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Defense Minister Marise Payne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>HMAS Melville</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MV-22 Osprey</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Navy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

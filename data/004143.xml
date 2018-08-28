@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404291139119211</docid>
+  <date>31/07/2017</date>
+  <time>23:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/the-internet-dilemma/3207286/</url>
+  <title>The internet dilemma</title>
+  <content>
+AFTER a recent article on the problems residents are facing with their internet connection, more people have come forward and raised their frustrations with the NBN in their area.
+Business owner in Bellingen, Jason Erry told the Advocate he is experiencing problems in his area with different types of connections to different parts of town resulting in some having fast internet and others experiencing regular drop outs.
+"Myself and the remainder of the businesses in the Sunset Ridge Estate in Bellingen bought when the whole town centre was suppose to be on a wired connection.
+"About 60% of the lots on Sunset do not have line of site to the tower and do or will struggle to get a stable connection.
+"If innovation was the primary goal of NBN, they would have found a way to roll out FTTP within the budget, not fall back on some hotch-potch technology that was never designed to work," Jason said.
+"If you had FTTN and happen to live beyond a few hundred metres from the node, you lose.
+"If you live in a rural town and you have been cut to FW, while the remainder of the town have FTTC, you lose.
+"To get the speed of the winners will cost the user between $25,000 and $50,000 to correct.
+"As a business, if I have to spend $50,000 on internet while my competitors do not, it will impede my business.
+"We are asking the Nationals to stand up for us and demand an equitable roll out that improves the competitiveness of the bush.
+A Facebook page has been created where people in the Bellingen Shire have come together to voice their concerns and stand up for a fair and equitable internet.
+NBN have recently announced a new campaign to answer the community's top questions as the roll out continues on the Coffs Coast.
+The educational content is designed to help assist Coffs Harbour residents make the switch to NBN by explaining the basics of what consumers need to know.
+"The rollout of the NBN network means for the first time the majority of consumers will also need to make decisions about internet speeds, so it's important that consumers do their research before speaking with a retialer and choosing a plan," said NBN's state corporate affairs advisor, NSW, Marcela Balart.
+</content>
+  <sindexList>
+  <sindex>
+    <name>FW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bellingen</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jason Erry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FTTP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunset Ridge Estate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcela Balart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bellingen Shire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jason</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

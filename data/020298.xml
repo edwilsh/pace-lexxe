@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438049582600565</docid>
+  <date>06/08/2017</date>
+  <time>10:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/stock-market-correction-indicators-lamensdorf-2017-8</url>
+  <title>A bunch of indicators are warning of 'a break in the stock market'</title>
+  <content>
+Alarms are going off even with the stock market at an all-time high.
+
+The obvious ones include a degree of complacency illustrated through low  and the overall valuation of the stock market.
+
+But there are more reasons to be concerned below the surface. Brad Lamensdorf, the portfolio manager of the short-only Ranger Equity Bear ETF, laid out some of the more hidden warning signs that may be worth looking into.
+
+"As the indexes continue to produce a series of higher highs, subsurface conditions are painting an entirely different picture," Lamensdorf said in his July market timing .
+
+"The market capitalised indexes are dominated by names such as Amazon, Microsoft and Johnson and Johnson. The good performance of these large companies is masking the fact that many stocks, including REITS and those in the retail sector, have already entered bear market territory."
+
+Lamensdorf  as early as March that the market was due for a correction, generally defined as a 10% drop in stocks. The benchmark S&P 500 has gained nearly 11% this year.
+
+As uneasy as  make investors, they're  of bull-market runs. And one right now wouldn't necessarily mark the end of the current eight-year-old bull run.
+
+Lamensdorf points to the advancing/declining volume of equities on the New York Stock Exchange and the Nasdaq as evidence that the rally is due for a break. It's an indicator of how much pressure traders are placing to either buy or sell a stock, and signals bullish or bearish sentiment. When advancing volume exceeds declining volume on net, that's bullish.
+
+The 21-day cumulative excess of advancing share volume over declining share volume has hit four record highs since 2016. This happened while the S&P 500 hit all-time highs.
+
+But every new peak has been lower than the previous one, and it shows that institutional buying has not been following the indexes, Lamensdorf said.
+
+In addition to this, "an alarming percentage" of NYSE and Nasdaq stocks are hitting 52-week lows even though the S&P 500 has marked several new highs.
+
+"Recently there were more than 340 securities that sank to 52-week lows, the second highest level going back as far as 1965," Lamensdorf said. "Similar spikes occurred in 1973 and 1999, both directly preceding significant corrections."
+
+He also points to Investors Intelligence's weekly report on buy and sell climaxes. A buy climax occurs when a stock makes a 12-month high, but closes the week with a loss. Buying climaxes over the last 18 months have remained elevated, Lamensdorf said, and it shows that buyer interest is topping out.
+
+Lamensdorf's ETF is 50% short equities in anticipation of a correction.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lamensdorf</name>
+    <count>6</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brad Lamensdorf</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>REIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Stock Exchange</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lamensdorf's ETF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Johnson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NYSE</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Investors Intelligence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ranger Equity Bear ETF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406382788225736</docid>
+  <date>01/08/2017</date>
+  <time>07:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/vic-recycling-plant-handed-back-after-fire/news-story/5f37759374e94cfc68eea4be57c5f735</url>
+  <title>Vic recycling plant handed back after fire</title>
+  <content>
+More than a fortnight after a Melbourne recycling plant was engulfed by fire, emergency crews have handed the site back to operators.
+Metropolitan Fire Brigade crews left the suburban Coolaroo plant on Tuesday morning and passed control back to managers SKM Recycing.
+Four people were hospitalised and more than 100 homes evacuated after the plant caught fire on July 13 and continued to smoulder for days.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>July 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SKM Recycing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Coolaroo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

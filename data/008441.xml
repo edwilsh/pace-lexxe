@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411287640973548</docid>
+  <date>02/08/2017</date>
+  <time>02:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/technology/uber-drivers-secretly-colluding-to-cause-price-surges-wringing-more-from-customers/news-story/5831ee5ee7f1d8c2ce2fa284f2ba78b2</url>
+  <title>How Uber drivers are 'duping passengers'</title>
+  <content>
+UBER drivers are gaming the system to spark price surges that allow them to charge customers more, damning new research claims.
+According to  academics who interviewed employees from the ride-sharing company in London and New York and analysed 1,012 posts discovered drivers were gathering in secret to play the company's algorithms.
+Drivers in the same area co-ordinated to log out of the transport app to that their cars dropped off the list of available rides, The Times reported.
+This causes an increase in surge pricing with fares potentially rising to several times the normal rate.
+A team from Warwick Business School and New York University cited one conversation on an online forum where a London driver reportedly said: "Guys, stay logged off until surge." A second driver replied: "Why?" "Less supply high demand = surge," the original poster said.
+Another driver said: "Uber will find out if people are manipulating the system." The original driver added: "They already know cos it happens every week."
+Researchers told The Times drivers' behaviour was understandable as a response to Uber's "management by algorithm", where drivers rarely interact
+with company bosses.
+Uber told The Times the research was based on comments by drivers that were in many cases untrue.
+Uber Australia has also been contacted for comment.UBER BOSS QUITS
+In June, Uber boss Travis Kalanick resigned as chief executive amid shareholder concern over the company's "toxic culture".
+Mr Kalanic stepped down in response to pressure from shareholders, but will remain on the board of the firm, according to reports.
+
+His resignation comes after a review of practices at the firm, which exposed scandals including complaints of sexual harassment and bullying.
+The 13-page report criticised how the company's "hustlin'" culture had encouraged "poor behaviour", with illicit drugs and alcohol were being used at work events, and a lack of clear policies to combat inappropriate behaviour.
+"I love Uber more than anything in the world and, at this difficult moment in my personal life, I have accepted the investors request to step aside so that Uber can go back to building rather than be distracted with another fight," Mr Kalanic said in a statement.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Uber Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kalanic</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Warwick Business School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBER BOSS QUITS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Travis Kalanick</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Uber</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

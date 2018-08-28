@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437306553251876</docid>
+  <date>06/08/2017</date>
+  <time>07:18</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/plane-bomb-plot-accused-charged/news-story/e00a09b31e3d316b168124f78169e4cf</url>
+  <title>Plane bomb plot accused charged</title>
+  <content>
+Australian Associated Press
+
+Share
+
+A fourth Sydney man accused of involvement in a plot to bomb a plane destined for the Middle East has been charged with a non-terror related offence.
+The 39-year-old was arrested last Saturday alongside three other men, two of whom were later charged with preparing for or planning a terrorist act while the other was released without charge.
+The fourth man was on Sunday bailed to appear in Downing Centre Local Court on August 24 charged with possessing a prohibited weapon.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Middle East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 24</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Downing Centre Local Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

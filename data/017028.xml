@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427617106937380</docid>
+  <date>04/08/2017</date>
+  <time>17:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/03/32/stand-off-over-sydney-homeless-tent-city</url>
+  <title>Stand-off over Sydney homeless tent city</title>
+  <content>
+Sydney City Council and the NSW government are at loggerheads over a tent city in Martin Place while the state's top cop wants the matter settled by Monday.
+Police Commissioner Mick Fuller and Social Housing Minister Pru Goward urged Lord Mayor Clover Moore to resolve the issue after a meeting at Sydney Town Hall on Friday.
+The council has the power to remove the property of those sleeping in the thoroughfare but Ms Moore says they won't be moved on until she's assured there's a long-term housing solution and a list of demands are met.
+They include the government re-opening Sydney's most famous social housing project - the Sirius building
+Ms Moore also wants a 24/7 safe space in the CBD to provide food and services to the homeless, funding for social housing units and approval to extend Sydney's affordable housing levy.
+Until then she says police and the government are welcome to use their own powers to move the tent city.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Moore</name>
+    <count>2</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Sirius</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Lord Mayor Clover Moore</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commissioner Mick Fuller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin Place</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Social Housing Minister Pru Goward</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Town Hall</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney City Council</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

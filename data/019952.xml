@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436838401812613</docid>
+  <date>06/08/2017</date>
+  <time>05:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836422/woolworths-defends-controversial-kookas-decision/?cs=2452</url>
+  <title>Woolworths defends controversial Kooka's decision</title>
+  <content>
+Supermarket giant Woolworths has voiced its support for Australian-made goods, despite a decision to pull products from a regional Victorian manufacturer off some if its shelves.
+
+The chain came under fire yesterday after  outside of Victoria and Tasmania.  
+
+Social media followers of the food manufacturer said the decision showed a lack of support for Australian-made goods from the supermarket giant.
+
+Asked why Kooka's products would no longer appear on shelves Australia-wide, a Woolworths spokesperson said: "We work hard to ensure we are responding to our customers' buying habits and that the products on our shelves reflect what our customers want to see."
+The spokesman also refuted accusations the company did not support local suppliers. 
+"We have a strong history in supporting local Australian suppliers whenever we can," he said. 
+
+"Our commitment includes using local sourcing managers in each state to regularly identify niche and small opportunity Australian suppliers for supply direct into store.
+"We're proud to support the growth of great local Australian suppliers and this commitment is important to us and our customers."
+
+A post on the Kooka's Facebook page said the company was disappointed in the Woolworth's decision. 
+"As you know, Kooka's is a small Australian-owned and operated business employing up to 28 staff in the rural township of Donald," the post read. 
+
+"The Kooka's team is proud of their products and it is with disappointment that we find we cannot supply to Woolworths customers throughout Australia."
+
+Coles, Officeworks and independent supermarkets countrywide continue to stock the biscuit brand, which began with a team of just five staff in 1994. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Officeworks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kooka's Facebook</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Donald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian-made</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Coles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia-wide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kooka</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian-owned</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443968047605013</docid>
+  <date>07/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/18/35/customers-furious-after-glitch-sees-woolies-double-dip-on-grocery-bills</url>
+  <title>Customers furious after glitch sees Woolies double-dip on grocery bills</title>
+  <content>
+A billing bungle has seen some Woolworths customers out of pocket by hundreds of dollars after they were charged twice for their purchases.
+People who shopped at Woolworths, or other businesses in the Woolworths group such as BWS and Big W, during March, have been urged to check their bank accounts.
+It is possible they have been charged a second time for their purchases.
+Customers across Australia have been affected, taking to social media to slam the retail giant for the error.
+Mum of five Karen Jones lost more than $150 and said it was enough to make her do her shopping elsewhere.
+"$150 for them is nothing but for me that's dinner on the table for a week," she said.
+The problem is being attributed to Woolworths' payment processor Cuscal, which has confirmed it has been experiencing errors within its data centre.
+
+Related Articles
+
+The glitch affects online and in-store purchases made with a credit or debit card.
+Australian Retailers Association executive director Russell Zimmerman said Woolworths would want to rectify the error "as quickly as possible".
+"They've got a name to protect," he told A Current Affair.
+Cuscal issued a statement apologising for the "stress and inconvenience".
+"We are working urgently to correct the errors and anticipate all transactions will be corrected by tomorrow," the statement read.
+"No customers will be out of pocket due to incorrect charges or transactions arising directly from this incident - we will work with our clients to make sure this happens.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>BIG W</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BWS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russell Zimmerman</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cuscal</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>5</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Retailers Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Current Affair</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karen Jones</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

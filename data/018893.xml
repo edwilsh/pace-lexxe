@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433793269974256</docid>
+  <date>05/08/2017</date>
+  <time>17:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/03/31/dodgy-fuel-promos-banned-from-next-year</url>
+  <title>Dodgy fuel promos banned from next year</title>
+  <content>
+Queensland service stations will from next year have to display full prices for fuel, not deceptively-promoted discounts only available to some customers.
+Misleading fuel prices offered as part of promotions, which are not available to all drivers, cannot be displayed after January 31, Queensland Treasurer Curtis Pitt announced on Saturday.
+"These strict regulations mean fuel retailers will still be able to promote discount fuel price schemes, but only the full price available to all motorists can be displayed on the price boards," Mr Pitt said.
+The reform has been welcomed by the RACQ.
+"We need to know exactly what we're going to be charged before we pull up at the bowser, or worse yet, get to the counter," spokeswoman Renee Smith said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>January 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Renee Smith</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Pitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RACQ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Treasurer Curtis Pitt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

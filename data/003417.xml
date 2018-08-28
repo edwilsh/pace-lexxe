@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404205239771881</docid>
+  <date>31/07/2017</date>
+  <time>22:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/tight-at-top-of-wrc-standings/3207269/</url>
+  <title>Tight at top of WRC standings</title>
+  <content>
+WITH four rallies remaining in the World Rally Championship season, it's tied at the top in the drivers' championship.
+Thierry Neuville's sixth place at Rally Finland over the weekend dislodged Sebastien Ogier from the championship lead. They are level on points, but the Belgian leads on a tie-break after Ogier crashed out.
+Esapekka Lappi secured a shock maiden WRC victory in his home country.
+Novice Lappi, driving for only the fourth time at the WRC's top level, won by 36 seconds in a Toyota Yaris.
+The 26-year-old overcame a late scare after breaking a wheel in the penultimate speed test to claim an emotional victory.
+The series returns to asphalt next month for the first time since April at ADAC Rallye Deutschland.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Esapekka Lappi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rally Finland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ADAC Rallye Deutschland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WRC</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Ogier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Yaris</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>World Rally Championship</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lappi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Belgian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sebastien Ogier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thierry Neuville</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

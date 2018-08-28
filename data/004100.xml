@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404974038930636</docid>
+  <date>01/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north-west/essendon-small-business-owners-set-for-overdue-holiday-after-300000-tattslotto-win/news-story/a563fa937655c6fb35b39c447184d692</url>
+  <title>Essendon woman celebrates lotto win</title>
+  <content>
+A HARDWORKING woman from Essendon is planning a trip of a lifetime to Europe after winning more than $300,000 from Tattslotto.
+The woman, who purchased her ticket from the Moonee Ponds Central Newsagency, plans to use her $329,266.60 winnings to pay off her house, and jet off to Europe in style.
+She was unaware of her division one win, as she had not registered her entry to a Tatts Card, and was pleasantly surprised to hear of her win from a Tatts official.
+"I only found out that I had won something when I checked my ticket when I put my entry in for the weekend's superdraw, but didn't know how much," the winner said.
+"Then I went home and checked the numbers and I said to my husband - 'Oh my God, it's six numbers'.
+"I was really surprised."
+The holiday will be long overdue for the woman and her husband as they have spent the last four years starting and working hard at their own business.
+"We are self-employed and have started our own business, and we haven't had any holidays for about five years now so we are definitely looking forward to that," she said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tattslotto</name>
+    <count>1</count>
+    <score>12</score>
+  </sindex>
+  <sindex>
+    <name>Moonee Ponds Central Newsagency</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Essendon</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tatt</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tatts Card</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416531796141897</docid>
+  <date>02/08/2017</date>
+  <time>22:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/how-ransomware-turns-some-aussie-businesses-into-massive-cowards/</url>
+  <title>How Ransomware Turns Some Aussie Businesses Into Massive Cowards</title>
+  <content>
+Hot fact #1: an excellent anagram of RANSOMWARE is WARM SENORA. Hot fact #2: amongst Australian businesses affected by ransomware, 45 per cent have chosen to pay up to criminals to get their files back.
+
+Ransomware is that particularly nasty form of malware that encrypts all the files on your machine, and then displays a message demanding payment (usually in bitcoin) in order to unlock them. To add insult to injury, the ransom notes are often filled with grammatical errors and garishly designed.
+
+It's also a major problem. According to the "Second Annual State of Ransomware Report" from security software developer Malwarebytes, 31% of Australian SMEs have suffered from a ransomware attack in the last year. That's a lot of locked-up files and questionable security practices.
+
+While paying up cash to access your own files is annoying, it's not actually the biggest issue. "The main problem is that it stops business," said Jim Cook, ANZ regional director for Malwarebytes, at a launch event for the Australian report. "The downtime is the real concern here."
+
+That last time can be significant: for 24% of the businesses surveyed, they were out of action for more than 24 hours. Hassle over downtime is particularly pronounced for the unlucky 1% who suffered repeated attacks during the year, most probably because they failed to actually remove the ransomware after paying the ransom.
+
+The sums being demanded aren't huge. Amongst the businesses that suffered a ransomware attack, 45% were hit for under $500, and another 36% with demands between $500 and $1000. Given the "spray and pray" nature of ransomware attacks, that makes sense: asking for $50,000 would reduce the odds of someone paying up. That might help explain why 45% of businesses gave in to ransomware demands. To be clear: don't do that, it only encourages the ransomware developers.
+
+So how can companies stay safe? One big challenge with ransomware is working out how it entered the organisation. 31% of those surveyed had no idea, 22% blamed it on clicking a link in an email, and 18% on an email attachment.
+
+It's also not helpful to simply assume that people should be "smart enough" to be able to identify a phishing email. "Some of these messages are so well-designed, anyone would click on it," Cook noted. "You don't have to be stupid."
+
+Part of the solution is to implement a multi-pronged security solution, that can detect malware-like behaviour and block well-known attacks. But it's also vital to have a robust backup solution in place, so if there is an issue you can restore and carry on. Otherwise, there's a real risk of losing files. Amongst businesses who were infected with ransomware but didn't pay up, 40% lost data as a result.
+
+Angus Kidman is editor-in-chief for comparison site , a former editor for Lifehacker Australia and a dedicated anagram enthusiast. </content>
+  <sindexList>
+  <sindex>
+    <name>Cook</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Jim Cook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WARM SENORA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Ransomware Turns Some Aussie Businesses Into Massive Cowards</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian SMEs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Angus Kidman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malwarebytes</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lifehacker Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Second Annual State of Ransomware</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

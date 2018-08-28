@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651433243514154748</docid>
+  <date>05/08/2017</date>
+  <time>15:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/australian-team-wins-amazon-robotics-challenge-in-japan-20170804-gxpmcg.html</url>
+  <title>Could robots one day take over our jobs?</title>
+  <content>
+An Australian team of engineers has been crowned champions at a prestigious robotics competition in Japan, held by retail giant Amazon.
+The team of 15 from the Australian Centre for Robotic Vision - made up of students from ANU, QUT and the University of Adelaide - came out as victors over 15 other teams from 10 countries in the Amazon Robotics Challenge in Nagoya.Photo: Supplied
+As part of the challenge, teams had to build their own robot able to pick and stow various warehouse goods, with teams judged on how many items their robot could find in a set amount of time.
+ANU PhD student Zheyu Zhuang was one of the engineers who has been working on the team's robot, which they have dubbed Cartman, for the past five months.Photo: Supplied
+After competing at the same competition last year, Mr Zhuang and his team underwent a radical redesign, with Cartman taking on a design similar to crane-machine claws.
+"However, instead of the claw that disappoints many people at arcades, our [design] has one suction cap and a two-fingered parallel gripper on either side of a rotating mechanism," he said.
+
+"This design offers the flexibility of grasping an object at the right pose with the appropriate tool."
+
+You will now receive updates from
+
+AM & PM Update Newsletter
+
+AM & PM Update Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+Amazon has been running the competition since 2015 as a way to "promote open and shared solutions" to automating its tasks at its warehouses. 
+While robots are used by Amazon to move goods, humans are still used to pick which items need to be packed and shipped.
+Mr Zhuang said after the first two rounds he did not expect his team to win the competition.
+"Although we did not place in either of the rounds, our results were good enough - fifth overall - to make it into the finals," he said.
+For the final round, the robots had to pack and stow items they had never seen, with Amazon giving the teams just 30 minutes to program the robots to recognise them.
+"We only needed seven images of each unseen item for us to be able to correctly identify the item during the competition," Mr Zhuang said.
+"We were the third team to compete in the finals and top-scored with 272 points, but then had to wait to see how the remaining teams performed before knowing if we would win."
+The centre's team pulled to win the more than $100,000 prize, beating teams from prestigious universities such as MIT and Princeton.
+Mr Zhuang said the team's success was in the complete redesign of their robot from the 2016 competition. 
+"We learnt from our experience last year and decided to use the custom built Cartesian robot for this year's challenge," he said.
+The PhD student said the technology on display at the competition was only going to improve in years to come.
+"These robots at the competition showcase the capability of robots and what engineers and scientists are trying to do now," he said.
+"These robots could potentially replace human labour in a similar context in the near future."
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Nagoya.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zheyu Zhuang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robotic Vision</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Zhuang</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>QUT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PhD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartesian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>PM Update Newsletter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ANU PhD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cartman</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Robotics Challenge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Princeton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

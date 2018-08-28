@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439286533193504</docid>
+  <date>06/08/2017</date>
+  <time>14:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/world/multiple-dead-as-gunman-opens-fire-in-a-nigerian-church/news-story/c08955944ad03f18f7603fd19536d8e0</url>
+  <title>Multiple dead in church shooting</title>
+  <content>
+AT least 12 people have been killed when an armed man attacked a church in southeastern Nigeria, police say.
+Eighteen other people were wounded during the attack on Sunday on the hundreds of worshippers gathered at St. Philips church in Ozubulu in Anambra state, police commissioner Garba Umar told the News Agency of Nigeria.
+"So far, 12 persons have been confirmed dead and deposited in the mortuary here while several persons are receiving medical attention," a staff worker at Nnamdi Azikiwe University Teaching Hospital in Nnewi, where the victims were admitted, told AFP.
+Witnesses said several gunmen shot a man inside the church at first, and then opened fire randomly on the rest of worshippers.
+Umar, however, said the attack was "carried out by a lone wolf gunman".
+"From our findings, it is very clear that the person who carried the attack must be an indigene of the area," he added.
+"The man after shooting at his targeted victims still went on a shooting spree, killing and wounding other worshippers.'' Anambra is located in the southeastern part of Nigeria, where Islamist terrorist group Boko Haram is not usually active.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>St Philips</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ozubulu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anambra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Umar</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nigeria</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nnamdi Azikiwe University Teaching Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nnewi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boko Haram</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Garba Umar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamist</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>News Agency of Nigeria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

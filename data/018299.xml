@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430095303098688</docid>
+  <date>05/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/13/06/full-body-mri-scans-offer-hope-in-cancer-detection</url>
+  <title>Top-to-toe MRI scans offer hope in detecting cancer in high-risk patients</title>
+  <content>
+Natalie Coutts' life has been filled with tragedy after losing several family members, including her nephew, uncle and sister, to cancer.
+"We did get some advice from a doctor at one of the hospitals in Melbourne and he said it did look like there could be a genetic problem," the 41-year-old told 9NEWS.
+A full body MRI scan later found Ms Coutts had a hereditary condition called Li-Fraumeni syndrome, caused by a genetic mutation that affects up to one in 2500 Australians and leaves its sufferers more susceptible to cancers.
+"The cancer risks are extremely high so by the age of 30, there is a 50 percent risk that these people will develop a cancer. By the age of 70, it is almost 100 percent for females," Dr Mandy Ballinger from the Garvan Institute of Medical Research said.
+Dr Ballinger led a ground-breaking global study which found the use of full body MRI scans were effective in catching many types of primary tumours, particularly those at high genetic risk.
+"In roughly one in 14 patients, we were able to pick up cancers that were asymptomatic and we were able to do something about it," Dr Ballinger said, saying the detection rate for children was even higher.
+Relieved that her six-year-son does not carry the genetic mutation, Ms Coutts continues to have screening each year.
+
+Related Articles
+
+"If I didn't have the full body MRI, I would probably be incredibly anxious most of the time," she said.
+Full body MRIs cost $1200 and are currently not covered by Medicare, with the latest results helping to mount a case for funding.
+As researchers learn more about a person's genetic risk, whole body MRI scans and other screening measures could be used more widely in future. 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>MRI</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Garvan Institute of Medical</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Coutts</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MRIs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Mandy Ballinger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Li-Fraumeni</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dr Ballinger</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Medicare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Natalie Coutts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

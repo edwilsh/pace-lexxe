@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403689843687453</docid>
+  <date>31/07/2017</date>
+  <time>20:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/chart-shows-young-americans-are-turning-their-backs-on-traditional-tv-2017-7</url>
+  <title>This chart show how drastically young Americans are cutting traditional TV from their lives</title>
+  <content>
+It's no secret that cable companies are struggling as Americans cut the cord and make the jump from TV subscriptions to online streaming services like Netflix and Hulu. As this chart from  shows, Americans between 18 and 24 years old are among the biggest cord cutters. The group has cut their TV usage by 12 hours per week since 2011 according to data from Nielsen's .
+
+Traditional TV networks are feeling the pain and trying to find ways to stay in the game. AT&T bought Time Warner as it chases audiences moving their TV watching onto mobile devices, and Discovery Communications  Network as an attempt to increase its share of the market and remain attractive to distributors.
+
+Meanwhile, Netflix original shows like "Orange is the New Black" and "Stranger Things" dominate conversations. And subscribers at Netflix and Amazon Prime, which offers original video programming through its streaming service, .
+
+As young Americans begin to start their own homes, they are likely to bring their TV watching habits with them, and traditional TV companies will have to continue to fight to stay relevant.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Discovery Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stranger Things</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hulu</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nielsen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Time Warner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Prime</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

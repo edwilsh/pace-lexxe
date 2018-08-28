@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419787381409643</docid>
+  <date>03/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/currencies/aussie-dollar-strength-a-phantom-menace-for-overseas-earners-20170803-gxok40</url>
+  <title>Aussie dollar strength a 'phantom menace' for overseas earners</title>
+  <content>
+The recent surge in the Australian dollar has led to a sell-off in stocks of companies exposed to US dollar earnings, but Macquarie reckons the falls have been overdone.
+Buoyed by  will be a rate hike as well as a weakening greenback, the Aussie jumped to a two-year high of US80.66¢ late last month, rising 4 per cent in July and 11 per cent since the start of the year.
+The ascent immediately impacted shares of companies with sizeable US dollar earnings as the Aussie's strength erodes some of the value when the profits are converted into local dollar.
+While the ASX 200 closed the month flat, a fairly heterogenous basket of "global earners" lost 4.5 per cent, according to Morgan Stanley.
+
+Aussie dollar strength in play for RBA
+
+Healthcare giants CSL and Cochlear both underperformed heavily during the month, as did Aristocrat Leisure, Amcor, Brambles and James Hardie. Conversely, the big miners, which also sell a large chunk of their products overseas, were among the winners thanks to rising commodity prices, giving an indication that a rise in the currency alone isn't enough of a reason to avoid certain stocks.
+
+Still, the trend is clear - US dollar earners have fallen on average 14 per cent from year-to-date highs, Macquarie has calculated, adding that some of the stocks face further "tactical selling" following strong rallies earlier in the year. 
+But while the rising currency is a hurdle, it's not a game changer for US dollar earners, as their growth story remains intact, particularly versus domestic industrials, Macquarie analysts write in a note titled "The Phantom Menace".
+"A depreciating Australian dollar has been a reasonable tailwind for offshore industrials," the analysts say. "However, its contribution has been a minor benefit versus a combination of exposure to faster-growing markets, share gains and M&A opportunities, which are the real drivers of earnings outperformance since the Australian dollar peaked in 2011." 
+Stronger earnings growth has raised the relative attractiveness of offshore earners, which has driven outsized price performance and relative price-earnings expansion, the analysts say, adding relatively weak domestic growth had also contributed to their appeal.
+
+Bloomberg
+
+The analysts concede that the rise in the Aussie, which is currently around 10 per cent above the rate used for consensus earnings forecasts, will spark minor mark-to-market downgrades if the currency holds at current levels, which they don't expect.
+But overall that would be in the range of 4 per cent to 5 per cent on 10 per cent of the earnings growth: "This represents a small downgrade on a relatively small contribution to overall earnings growth."
+In other words, the actual hit to earnings, based on the current exchange rate, would be far smaller than the share price movement suggests.
+Additionally, the analysts note that the Aussie's rise was in large part due to weakness in the greenback, which has crumbled as an inflation slowdown in the US raises doubts about the Federal Reserve's rate rise timetable.
+
+But the second-highest geographic exposure for Australian corporates comes from Europe, where the Aussie dollar has in fact depreciated since the start of the year, the analysts say.
+"Based off 2016 revenue exposure, we estimate that around 9 per cent of revenue is generated from the US versus 5 per cent that is generated in Europe," they say. "In totality, it represents a small drag on the offshore earnings contributions, but not nearly as large as when viewed in US dollar space only."
+Companies that derived more than 50 per cent of their 2016 revenue in North America are James Hardie, Iron Mountain, Westfield, Sirtex and Computershare, making their share prices more sensitive to falls in the US dollar. But even some of these stocks may have been punished too hard, Macquarie says.
+"We think Aristocrat Leisure, Brambles, Incitec Pivot, James Hardie and QBE are oversold on Australian dollar concerns and are buyers on recent weakness. Qantas is a net beneficiary of a stronger A$ and continues to look mispriced relative to fundamentals." 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brambles</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iron Mountain</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sirtex</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>North America</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Aristocrat Leisure</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amcor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phantom Menace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>QBE</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>James Hardie</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Incitec Pivot</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>7</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80.66</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westfield</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Computershare</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Cochlear</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

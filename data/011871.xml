@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417940545437664</docid>
+  <date>03/08/2017</date>
+  <time>04:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/13/53/rape-accused-perrottet-a-complete-mess</url>
+  <title>Rape-accused Perrottet a 'complete mess'</title>
+  <content>
+The morning after Jean Claude Perrottet allegedly raped a woman at a university party he admitted he had been drunken "mess", a NSW jury has heard.
+Perrottet, 20, is on trial at the Downing Centre District Court after pleading not guilty to three counts of sexual intercourse without consent after a University of Sydney end-of-year formal in October 2015.
+"OK, so as I remember more of last night I'm really sorry for being a complete mess," Perrottet said in a message to a friend read out in court on Thursday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perrottet</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perrottet, 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Downing Centre District Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jean Claude Perrottet</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413052872561137</docid>
+  <date>02/08/2017</date>
+  <time>09:11</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/02/melbourne-tram-crash-four-hospitalised</url>
+  <title>Melbourne tram crash, four hospitalised</title>
+  <content>
+An investigation is under way to determine how one tram managed to rear-end another in Melbourne's CBD, injuring passengers.
+
+1 MIN AGO 
+
+Two trams collided in Melbourne's CBD, sending passengers flying onto the floor, with a number left bruised and bleeding.
+
+Four people were taken to hospital and 15 people were assessed by paramedics after one tram rear ended another on busy Bourke Street on Wednesday afternoon.
+
+The front tram had pulled into the stop and was about to let passengers off when it was hit and passengers about to alight were thrown across the carriage.
+
+A number of passengers were left bleeding, including a pregnant woman, and elderly passenger Ann Ensten was thrown to ground.
+
+"There was an enormous thump and I was flat on my face," Ms Ensten told the Nine Network.
+
+"I'm shaken. I've bruised my face and I've already got a sore knee and that's hurting."
+
+A pre-school aged child was taken to the Royal Children's Hospital in a stable condition and three adults suffered minor injuries and were taken to The Alfred and Royal Melbourne hospitals, also in a stable condition.
+
+Yarra Trams is investigating how the crash occurred, including whether the driver of the rear tram braked before the collision.
+
+The scene was cleared by about 4.30pm.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bourke Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Trams</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ann Ensten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Children's Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Alfred</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MIN AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ms Ensten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

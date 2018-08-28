@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417081551965597</docid>
+  <date>03/08/2017</date>
+  <time>00:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/credit-card-fraud-on-the-rise/8769944</url>
+  <title>Online credit card fraud on the rise as cyber criminals become more sophisticated</title>
+  <content>
+Related Story:
+
+Cyber criminals are becoming increasingly sophisticated about credit card fraud as more consumer payments move online, according to a new report.
+
+Key points:
+
+Credit card fraud cost $534m in 2016, up from about $469m in 2015
+For every $1,000 spent online, 74.7 cents was lost to fraud
+"Treat your cards as if they were cash": Australian Payments Network
+
+The Australian Payments Network - the industry's self-regulatory body - has revealed a significant increase in card fraud, with stolen card details accounting for 78 per cent of fraudulent card transactions.
+In its annual fraud data report, the network found "card not present" fraud increased in 2016, netting criminals $417.6 million as fraudsters keep pace with consumers moving online.
+"Card not present" fraud occurs when a customer's valid card details are stolen and then used to make purchases without the physical card, typically online.
+'Ghost terminals'
+
+Criminals are also continuing to target unwitting consumers with "ghost terminals" where fake terminals, which are not connected to a payments network, "skim" card details.
+The report found a 13 per cent increase in card skimming through ghost terminals, and that banks and retailers are constantly exposed to new criminal techniques.
+The network's chief executive Leila Fourie told the ABC's AM program that businesses and consumers need to be vigilant, given that online spending is growing faster than traditional "bricks and mortar" retail spending.
+"These ghost terminals are a function of globally syndicated fraud units and they're highly sophisticated and able to interact across the internet and online," Ms Fourie said.
+"Unfortunately, it's very difficult by the natural eye to detect ghost terminals.
+"While the terminal they're using looks authentic, it is very difficult to tell the difference."
+Trends in Australian card fraud
+
+The threat from cyber criminals follows a study by the Reserve Bank released last week .
+Ms Fourie said, while Australia is less exposed because of the adoption of chip and pin technology, banks are in a constant race to counter the criminal use of tools such as algorithms to rip off consumers.
+"Banks and retailers are certainly keeping up with the criminals," she said.
+But, unfortunately, crime and fraud is as old as bank robbery and it will always be with us.
+"It's now about pre-empting and identifying new areas of vulnerability in new technologies."
+The report found that in 2016, Australians used cards to spend a record $714.5 billion online, with fraud accounting for $534 million or 0.74 percent of card transactions.
+It found that for every $1,000 spent online with cards fraud swallowed 74.7 cents (up from 66.9 cents in 2015).
+The network concluded that Australia is well advanced in fraud detection, with major investment by the industry in chip, token and customer authentication tools.
+Ms Fourie said consumers and businesses need to be on alert and more protective about their personal card details.
+"I think it does come down to common sense, she said.
+"And the golden rule is to always treat your cards as if they were cash."
+Ms Fourie said the network will soon be launching an education program to help consumers and businesses protect their card details and online identities.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leila Fourie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Payments Network</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Fourie</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ABC's AM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

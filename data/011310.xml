@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416871098564773</docid>
+  <date>03/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/slippery-conditions-across-the-island-state-as-winter-bites/news-story/80734106c1b3944f8aeafaf1524dddaa</url>
+  <title>Slippery conditions across the state</title>
+  <content>
+ICE is making driving tricky on roads across Tasmania after very cold temperatures overnight.
+There have been reports of ice on the road on the Lyell Highway between Queenstown and Derwent Bridge and on the Murchison Highway, particularly around Tullah and Mt Black.
+The Bureau of Meterorology issued a road weather alert for many parts of the state from the North-West Coast through to the Central Plateau, upper Derwent Valley and the East Coast.
+The temperature plunged down to an eye-watering -9.1C at 7am this morning in Liawenee in Tasmania's Central Highlands.
+
+It was also very chilly in Cressy, with a morning temperature of -3.7C, and in Ross, with -2.3C.
+It was positively balmy atop Mt Wellington by comparison, with a morning low of -0.3C.
+Conditions will continue to be cold across the state, with snow forecast for Tasmania's interior from Saturday through to Tuesday after rain tomorrow.
+
+It will snow at Cradle Mountain on Sunday and Monday and Mt Field is expecting a good dusting from Saturday through to Wednesday next week.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meterorology</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Queenstown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cressy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Liawenee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cradle Mountain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Field</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Derwent Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Lyell Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Wellington</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Murchison Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ross</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Central Plateau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North-West Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>East Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tullah</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Derwent Bridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania's Central Highlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

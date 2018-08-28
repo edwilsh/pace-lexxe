@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411072892605380</docid>
+  <date>02/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/venezuela-jails-opposition-leaders/news-story/99ee68976505f3638892171d1ab8b129</url>
+  <title>Venezuela jails opposition leaders</title>
+  <content>
+Venezuela has jailed two leading critics of President Nicolas Maduro in a fresh blow to the opposition after the election of a new political body with sweeping powers to strengthen the hand of the leftist government.
+The US imposed sanctions on Maduro on Monday, calling him a "dictator" for Sunday's election of a constituent assembly that the opposition boycotted and denounced as an affront to democracy.
+In a statement announcing the jailing of opposition leader Leopoldo Lopez and veteran politician Antonio Ledezma, the pro-government Supreme Court said they were planning to flee the country and had violated terms of their house arrest by making political statements and speaking to media.
+But government opponents called the abrupt removal of the men from their homes by security forces in night raids a sign of Maduro's determination to silence rivals and stamp out political unrest.
+About 120 people have been killed in more than four months of anti-government street protests, including at least 10 during Sunday's vote.
+Maduro says the constituent assembly was designed to restore peace to Venezuela. Lopez and Ledezma had called for protests against Sunday's vote. In addition to rewriting the constitution, the legislative superbody will have the power to dissolve the opposition-led congress, eliminating any institutional check on Maduro's powers.
+Lopez had been held more than three years in a military jail until last month, when he was unexpectedly released in what was seen as a potential breakthrough in the country's political standoff.
+Attempts to get the opposition and the government to reach a negotiated deal subsequently floundered, however, and allies said Lopez, 46, may have been jailed again because he rejected government proposals.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lopez, 46</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>President Nicolas Maduro</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Antonio Ledezma</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuela</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ledezma</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Maduro</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lopez</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Leopoldo Lopez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

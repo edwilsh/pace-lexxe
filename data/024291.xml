@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446639517311969</docid>
+  <date>07/08/2017</date>
+  <time>19:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/buttons-are-dashed-in-tesla-model-3/3208800/</url>
+  <title>Buttons are dashed in Tesla Model 3</title>
+  <content>
+TESLA'S electric cars have long been revolutionising everything we expect from vehicles and its latest model is no exception.
+The Model 3 is billed as an electric rival to the BMW 3 Series on size, travels 350km on a single charge and will be priced about $44,000.
+The first look at the Tesla Model 3's interior demonstrates just how advanced Elon Musk's vehicles have become.
+In a world first, the Model 3 has stripped the traditional dashboard of all the gauges and hardware features to which drivers have become accustomed.
+The Model 3 has taken the speedometer and other gauges traditionally located behind the steering wheel and moved them to a 15-inch touchscreen display located in the centre of the dash.
+Tesla's Model 3.
+Providing all necessary information like speed, audio and the car's battery life, the display is easily controlled by the touchpad itself or by using two buttons on either side of the steering wheel.
+While it might seem like a drastic change, Tesla chief executive Elon Musk has previously told customers they "won't care" there is no traditional dashboard.
+One of the more impressive features of the stripped-down dash was the company's efforts to make the air vents invisible.
+The car has also removed the need for physical keys, with the Model 3 syncing to a phone through a bluetooth connection, which will automatically unlock the vehicle when the driver is near.
+Tesla's Model 3 has stripped the traditional dashboard of all the gauges and hardware features which drivers have become accustomed.Tesla
+Two "keycards" using NFC are also supplied so the car can be unlocked and started without a mobile phone.
+While replacing the traditional dashboard with a tablet might seem like a dangerous concept, Elon Musk views it as a concerted push to autonomous vehicles.
+"You won't really need to look at an instrument panel all that often," he was reported in The Verge as saying.
+"(Eventually you will be able to) watch a movie, talk to friends, go to sleep in Tesla's cars."
+But the cars are unlikely to arrive in Australia before 2019, by which time Mercedes- Benz and Volkswagen (which incorporates Audi) plan to have electric vehicles on sale.
+Tesla's Model 3 has stripped the traditional dashboard of all the gauges and hardware features which drivers have become accustomed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tesla</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NFC</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mercedes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Audi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Volkswagen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Model 3</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Benz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BMW 3 Series</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tesla Model 3</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

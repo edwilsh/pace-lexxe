@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407894616744741</docid>
+  <date>01/08/2017</date>
+  <time>13:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/battery-suppliers-battle-overkill-on-installation-rules-20170731-gxmp4b</url>
+  <title>Battery suppliers battle 'overkill' on installation rules</title>
+  <content>
+Draconian standards being considered in Australia for the installation of home batteries would kill off the burgeoning market in its infancy and do nothing to address any real cause of fire risk in solar homes, according to some battery suppliers.
+Households would be forced to incarcerate lithium-ion batteries in concrete bunkers separate from the home, accessible only to "authorised" persons, under the draft rules issued by Standards Australia.
+Described as "overkill" by some in the industry, the requirements would add thousands of dollars on to the cost of installing power storage systems, wiping out the economic gains solar households can make from batteries over their lives as electricity bills soar, suppliers argue.
+Standards Australia acknowledges the controversy over the issue but says the proposed rules are needed to minimise the hazard of "self-sustaining" fires, particularly in the absence of product standards for batteries.
+
+But describes the regulator's approach to effectively brand all lithium-based batteries as dangerous as "a ridiculous over-reaction". Sonnen, like Tesla, produces a battery that is sleekly designed to sit in a basement or garage, or in living areas in the company's home market of Germany.
+
+"It will be an enormous discouragement in terms of additional cost, effort and lack of access at a time of sharply rising energy costs for households looking to save around 80 per cent of their bills by installing battery systems," said Sonnen's technical manager in Australia and New Zealand, James Sturch.
+Well-publicised cases
+
+He said Sonnen has installed 30,000 systems holding 100,000 battery modules worldwide without a fire in any of them. Its systems use lithium iron phosphate chemistry, rated by Canada's  as "very safe" even if fully charged, and different to some other lithium-ion technologies used in mobile phones and hoverboards, for example, which in some well-publicised cases have caught fire.
+The debate around the draft standard has been bubbling away for months but is coming to a head as the consultation period nears its August 15 end date.
+
+If the proposal is implemented as currently drafted, it would call a halt to the tremendous growth in the Australian battery market, where sales are on track to triple this year, said Warwick Johnston, managing director of solar and battery analyst Sunwiz.
+"It seems to be a fair amount of overkill and would have a significant impact," Mr Johnston said.
+"It does have the potential to seriously impact sales, and the business case for particular manufacturers as well.
+"If all you can show your neighbour or friend is something buried down the back of the yard then it's not so appealing for yourself or the neighbour to invest in."
+
+Mr Johnston said Australia seemed to be "putting the cart before the horse" by imposing strict installation rules before suitable product standards are developed that would preclude some of the requirements.
+He suggested Australia should first adopt recently released international product standards for batteries and then design an installation standard for a product that can be assumed to be reasonably safe.
+That's also the view of Nathan Dunn, Australian managing director of Enphase Energy, another lithium-ion battery provider, who said the costs of implementing the "aggressive" requirements would cancel out potential gains for customers from installing storage to combat rising power prices.
+Marked impact
+
+"It would have a marked impact on consumers' perception of the safety of what energy storage could do for them, as it relates to energy autonomy," Mr Dunn said.
+He said that while safety is paramount for the industry, it didn't make sense to ban lithium-ion batteries from being installed, for example, in garages, when much more volatile compounds such as petrol and paint thinners were typically found.
+Sonnen's Mr Sturch, meanwhile, noted that the biggest known cause of fires in solar homes in Australia has been electrical issues, with batteries barely registering in data. He called for Standards Australia to focus instead on training standards for installers of solar/battery systems.
+"To stymie an industry like that by applying a standard that is essentially - from the perspective of most in the industry - ludicrous doesn't make sense," Mr Dunn said.
+
+Mr Johnston said he was "not particularly optimistic" that the draft rules would be relaxed given Standards Australia was already well aware of the industry's arguments.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunwiz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tesla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sonnen</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Standards Australia</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Johnston</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nathan Dunn</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enphase Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Dunn</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Sturch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warwick Johnston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sonnen's Mr Sturch</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

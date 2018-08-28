@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409054257939900</docid>
+  <date>01/08/2017</date>
+  <time>17:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/02/03/37/trump-team-too-dysfunctional-to-collude</url>
+  <title>Trump team 'too dysfunctional to collude'</title>
+  <content>
+President Donald Trump's son-in-law says the Trump campaign couldn't have colluded with Russia because the team was too dysfunctional and disorganised to coordinate with a foreign government.
+Jared Kushner, a senior adviser to the president, made the comment on Monday during a closed-door session with congressional interns.
+A Democratic congressional aide said Kushner was responding to a question about Special Counsel Robert Mueller's investigation into whether the Trump campaign colluded with Moscow.
+ForeignPolicy.com first reported Kushner's remarks. The aide was knowledgeable of the meeting and confirmed the accuracy of the comments.
+Last week, Kushner met privately at the Capitol with members of the Senate and House intelligence committees.
+He acknowledged four meetings with Russians during and after Trump's victorious White House bid and insisted that he had "nothing to hide".
+(C)  AP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Senate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Special Counsel Robert Mueller</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Capitol</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jared Kushner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ForeignPolicy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kushner</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

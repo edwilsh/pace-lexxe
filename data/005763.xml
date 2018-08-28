@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406644781236009</docid>
+  <date>01/08/2017</date>
+  <time>08:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/bell-potter-raids-canaccords-corporate-finance-unit-20170731-gxmouh</url>
+  <title>Bell Potter raids Canaccord's corporate finance unit</title>
+  <content>
+Bell Potter has swooped on three members of Canaccord's corporate finance team. 
+Bell's staff were told of the hires on Tuesday. They have picked up Canaccord's executive director investment banking Matt Storey and ECM execution and advisory staff Leon Dowman and William Hughes. 
+The trio will start at Bell after a period of gardening leave. 
+A memo to Bell staff, obtained by Street Talk, said: "It's exciting for the Bell Potter business and no doubt will add significantly to our overall origination and broader corporate capability. 
+
+"It is also in keeping with Colin Bell and Alastair Provan's philosophy that Bell Potter is a growth business and we are always open to the idea of adding quality people throughout the organisation when the opportunity presents."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Canaccord</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Matt Storey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>William Hughes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leon Dowman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bell</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colin Bell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Street Talk</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ECM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alastair Provan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bell Potter</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

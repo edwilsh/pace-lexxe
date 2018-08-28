@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443495601194389</docid>
+  <date>07/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/energy/electricity/energyaustralia-profit-slides-155pc-on-very-challenging-market-20170806-gxqkxb</url>
+  <title>EnergyAustralia profit slides 15.5pc on 'very challenging' market</title>
+  <content>
+Still, it said EnergyAustralia's retail business, which sits behind Origin Energy's and AGL Energy's in size, had "performed well", supported by higher sales of electricity and gas. 
+The business increased gross margins as a result of higher prices and usage, but the impact was outweighed by higher gas supply costs and increased purchasing of power on the wholesale spot market at "high" prices.
+"Although the market remained competitive, our retention of existing customers continued to be favourable to overall market churn, and we have increased the total number of customer accounts," CLP said of EnergyAustralia.
+CLP said it expects wholesale electricity prices to "remain volatile and at high levels" compared to the past, providing a brighter outlook for its generation business. It said it would continue to seek ways to support vulnerable customers, and "will continue to look for fresh ways to remove cost and complexity" from its business.
+</content>
+  <sindexList>
+  <sindex>
+    <name>AGL Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EnergyAustralia</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Origin Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CLP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

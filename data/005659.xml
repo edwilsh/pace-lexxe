@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407246076669222</docid>
+  <date>01/08/2017</date>
+  <time>10:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/luke-wyllies-injuries-shocked-us-all-says-wife/news-story/9bd1e5e38f97c3490cdb8d4f1db67e06</url>
+  <title>'Lukie's injuries shocked us all'</title>
+  <content>
+THE wife of high-profile Perth property developer Luke Wyllie has spoken of her relief after her husband escaped permanent injury during a surfing trip in the North West.
+Samantha Wyllie said Mr Wyllie's injuries could have been "so much worse" after his head hit the reef at a notorious spot known as Gnaraloo, north of Carnarvon.
+"I've never really been too concerned about Lukie, he's a bit of a cat he's got nine lives and he always bounces back," she said.
+"This is the first time it's shocked us all and its really worried everyone."
+Mr Wyllie, the son of socialite and philanthropist Rhonda Wyllie, had to be flown to Perth for emergency medical treatment after the accident on Sunday.
+He remains in Royal Perth Hospital in a serious but stable condition. Mrs Wyllie said she panicked when she found out about her husband's injury.
+She said if it wasn't for the quick thinking and actions of Mr Wyllie's friends and family members to have him stabilised and evacuated to Carnarvon, he may have been left disabled.
+As it was, she said, Mr Wyllie faced at least three months in a neck and back brace as well as a period of rehabilitation.
+Doctors have told the family Mr Wyllie should make a full recovery.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mrs Wyllie</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gnaraloo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Carnarvon</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Perth Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lukie</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Luke Wyllie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Wyllie</name>
+    <count>5</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Samantha Wyllie</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>North West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rhonda Wyllie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

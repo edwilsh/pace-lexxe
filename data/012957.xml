@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418846783552565</docid>
+  <date>03/08/2017</date>
+  <time>07:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-03/get-on-the-grass-mcg-smokers-forced-off-concourse</url>
+  <title>Get on the grass: New rules for MCG smokers</title>
+  <content>
+MCC bans smoking on MCG concourse
+
+FOR AFL fans who still like to go out for a cigarette at breaks in play, the journey will be a little further at the MCG from this weekend.
+
+Changes to Victoria's Tobacco Act, which came into effect on Tuesday, ban smoking within 10 metres of a food stall or food vendor at organized outdoor events.
+
+Because the MCG is surrounded by food trucks, smoking restrictions which have applied inside the venue for years, have now been extended to the edge of the concourse.
+
+Smokers now must walk to the grassed area or pathways within Yarra Park or the bridges over the train tracks.
+
+"The MCC is committed to providing the safest possible working environment for the thousands of people that make up the MCG workforce on any given day," MCC chief executive Stuart Fox said. 
+
+"We are also mindful of the discomfort that many patrons experience when confronted with smokers located near the stadium entrances, and this change will help alleviate that issue. 
+
+"We ask patrons to be mindful of the new smoke-free zone and to co-operate with requests from staff to smoke only in those areas, as we seek to ensure a safe and pleasant MCG experience for all visitors."
+
+The smoke-free zone applies 24/7, not just when the MCG is hosting an event.
+
+New signage is being installed, no smoking lines are being painted and cigarette bins are being relocated.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MCC</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>MCG</name>
+    <count>7</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria's Tobacco Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stuart Fox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

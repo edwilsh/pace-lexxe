@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423974974603765</docid>
+  <date>04/08/2017</date>
+  <time>03:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/how-to-read-a-silicon-valley-diversity-report-so-you-dont-get-hoodwinked/</url>
+  <title>How To Read A Silicon Valley Diversity Report So You Don't Get Hoodwinked</title>
+  <content>
+Photo: AP
+
+On Tuesday, Facebook released its annual diversity report with a mighty claim. For the first time in three years, the company said it actually increased its proportion of black employees, from two per cent to three per cent. But here's the thing: Facebook hasn't released the hard numbers that would actually prove that. By omitting this crucial data, Facebook's cheerful, easy-to-read diversity report fails to truly increase transparency or company accountability - and obscures information that could provide real insights into how minorities fare in the tech world.
+
+Since public diversity reports became standard at tech giants like , , and , all have included a diversity splash page. These are glossy, manicured data visualisations that include race and gender breakdowns of each company's employees, complete with beautiful, smiling brown people and links to outreach initiatives.
+
+These pages don't matter.
+
+Usually hidden way down at the very bottom of these pages is a link to the real numbers, each company's   form (or EEO-1). In Facebook's most recent report, it's on the footer of the fifth page. The EEO-1 is the numerical spreadsheet that companies send to the federal government to prove they aren't violating the Civil Rights Act by discriminating against minority applicants.
+
+Looking at , the first thing to notice a mismatch between what's in the flashy report and what's in the data. The bar graphs in Facebook's report are based on June 2017 employee data. The EEO-1 it links to is from 2016. In fact,  literally ends in "2017/08/eeo-1-report-2017," even though it's 2016 data. ( does this as well.) This mismatch makes it very difficult to scrutinize Facebook's claim (offered in 29-point letters) that it increased black employees by 1 per cent. Their explanation:
+
+So here's what we know. In 2015, Facebook employed 145 black people. In 2016, Facebook reported having 259 black employees - over 100 new black hires. Great! But how many people did Facebook hire overall? Between 2015 and 2016, Facebook hired a whopping 2,795 new employees. That means out of almost 2,800 new hires, only 114 were black. Simply put, in 2016 Facebook hired black people at a ghastly rate of only 4 per cent. If Facebook actually did increase black representation, it would need about 150 new black hires in 2017, assuming the company grew at the same rate.
+
+With that in mind, let's look at two potential headlines.
+
+Both are completely true, but which one paints a rosier picture of Facebook's diversity efforts? That's the difference between reading a "diversity report" versus looking at the EEO-1 data. Here's another headline:
+
+In 2016, 14 per cent of  were black. At best, Facebook's hiring rate for black applicants this year was only 8 per cent - double what they did in 2016, but still far below the 14 per cent of the US population that identifies as black. How much should we applaud Facebook for raising their own pitifully low bar?
+
+The EEO-1 also includes a gender breakdown, which is helpful because women of all races face gender-specific barriers to hiring and employment. In 2016, Facebook reports hiring 58 black men and 56 black women. This is actually great news, because even when companies prioritise recruiting more people of colour, they ignore gender parity and hire more men.
+
+But this good news emphasises another serious problem with these data visualisations. There are graphs and charts denoting race or denoting gender, but none denoting both race and gender. Simply put, diversity reports are effectively designed to hide data on non-white women, probably because they're the least hired in tech. That truth is stark for black women. Though  awarded to black students in 2014, black men earned an  to black students that same year. Rather than illuminating how this impacts employment, Silicon Valley covers it up by not including intersectional (and thus unflattering) data visualisations. So when we talk about how "hard" it is to increase diversity, we should also discuss how hard it is to get companies to address the problem in earnest.
+
+Diversity reports are a small part of a much larger sociological problem. No one expects Silicon Valley to solve this country's racial and gender equity issues all by itself, but the tech community's current approach is off. Ultimately, diversity is about people. And recruiting and nurturing people deserves more than a cosmetic approach.
+
+We reached out to Facebook for a more specific explanation of their dated numbers and will update this story if we hear back.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Read A Silicon Valley Diversity Report</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>17</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Civil Rights Act</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Get Hoodwinked</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>EEO-1</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

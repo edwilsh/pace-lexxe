@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397621054796121</docid>
+  <date>30/07/2017</date>
+  <time>21:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/07/00/brisbane-shrouded-in-thick-fog</url>
+  <title>Brisbane shrouded in thick fog</title>
+  <content>
+The Brisbane CBD has been obscured by a thick blanket of fog this morning, which could cause peak-hour traffic woes.
+Video shows the city shrouded in fog, with many buildings obscured by the cover.
+Brisbane is expected to reach a top of 26C today, so the fog will likely burn off.
+The fog could also affect airports already under stress from new security arrangements, with travellers advised to check for any disruptions. 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane CBD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410295503511412</docid>
+  <date>01/08/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/08/24/sa-shop-damaged-in-suspicious-fire</url>
+  <title>SA shop damaged in suspicious fire</title>
+  <content>
+A shop in Adelaide's eastern suburbs has been damaged in a suspicious fire.
+Firefighters were called to the vacant shop in College Park on Tuesday morning after being alerted by a neighbour.
+The fire caused an estimated $15,000 worth of damage.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>College Park</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

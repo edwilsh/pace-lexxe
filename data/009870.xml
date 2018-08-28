@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414332772842496</docid>
+  <date>02/08/2017</date>
+  <time>14:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/00/02/don-t-get-hyped-about-big-data-govt-told</url>
+  <title>Don't get hyped about big data, govt told</title>
+  <content>
+The federal government is being warned not to get carried away with the hype and potential benefits of using "big data" to fight crime or terrorism.
+A new report by the Australian Strategic Policy Institute says emerging new technologies are offering agencies improved capabilities when it comes to collecting, collating and analysing large amounts of information.
+The advantages are obvious - unstructured data could be sorted automatically and made searchable, patterns and links could be made more easily, and algorithms could be used to predict possible threats and risks.
+But it's just one of many tools, the think-tank's head of border security John Coyne said - and an expensive one to implement.
+"Big data itself is not a magic red button to solve the terror problem or national security challenges," he told AAP.
+"It's not going to automatically mean that if you put every single name through and every single database through into the one area, it'll all be searched and we'll find 42 terrorists - that's not going to happen."
+In addition to the legislative and privacy issues that need to be considered, the report identified several risks.
+
+Related Articles
+
+Firstly, big data is complex.
+It can become too difficult to understand and fact-check, making proper oversight near impossible.
+Just this week, researchers shut down two Facebook artificial intelligence robots after they started communicating with each other in their own language.
+Without proper governance, it could also impinge on people's rights and privacy.
+On top of that, it could mistakenly classify innocent people as suspicious and make false links, harming national security functions and the reputation of agencies.
+"There are a number of risks with it," Dr Coyne said.
+The report said existing laws around data collection and surveillance "lack clarity", noting the environment had changed since the legislation was written.
+It recommends the national security community develop clearer public definitions of data and what types of data agencies have the power to collect.
+It also suggests the Inspector-General of Intelligence and Security appoint a chief data officer to oversee data governance across all agencies.
+It has also recommended:
+* The national security committee treat data as a strategic asset and co-ordinate the use of big data across Australia's national security community
+* The country's national security community support the development of methods for estimating the potential value of data
+* The national intelligence committee work with the Privacy Commissioner to develop analytical methods for quantifying privacy harm from big data analytics
+* The consideration of an audit and review process to mitigate adversarial attacks and data defects
+* The development of an ability to explain the process, gauge outcomes and redress harms where data-based decision systems produce a harmful outcome
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Coyne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Inspector-General of Intelligence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Privacy Commissioner</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dr Coyne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Strategic Policy Institute</name>
+    <count>1</count>
+    <score>0.75</score>
+  </sindex>
+  </sindexList>
+</snippet>

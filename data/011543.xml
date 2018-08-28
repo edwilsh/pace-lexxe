@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417773041710858</docid>
+  <date>03/08/2017</date>
+  <time>03:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/technology/technology-news/government-nbn-review-may-ignore-catch22-leaving-australians-in-broadband-limbo-20170803-gxocdi.html</url>
+  <title>Government NBN review may ignore catch-22 leaving Australians in broadband limbo</title>
+  <content>
+An NBN fault left Melbourne man Scott Moffat with no home phone or broadband for four months, but the upcoming NBN complaints review may ignore the bureaucratic red tape which has left him and other Australians in broadband limbo.
+With growing pressure for NBN and retail service providers to end the blame game and resolve customer frustrations, this week the Australian Communications and Media Authority announced a wide-ranging review of the "NBN customer experience" to address ongoing complaints regarding connection delays and service quality.
+
+Up Next
+
+Dramatic siege ends in Melbourne's east
+
+01:29
+
+More National News Videos
+
+Previous slide
+Next slide
+
+$49 billion NBN downgrades Sydney residents' internet
+
+For the residents of one of Sydney's tallest buildings, the arrival of the national broadband network has spelt the end of fast and affordable high-speed internet.
+
+The ACMA is set to survey around 1800 homes and 750 businesses regarding their satisfaction with the NBN. It will also call on retail service providers for details of customer complaints.
+Mr Moffat's drawn out battle to reconnect his Malvern East home was only resolved in July after . Previously he had spent four months pleading his case to Optus, NBN, the Telecommunications Industry Ombudsman, the Australian Competition and Consumer Commission, and the office of communications minister Mitch Fifield.
+
+During this time Mr Moffat's home could not be connected to the NBN because of a fault, but was not reconnected to the Optus cable service in his street due to the Cease Sale regulations in the NBN migration agreement. These regulations forbid internet retailers from reconnecting customers to legacy services once an area is declared NBN "Ready for Service".
+As part of Fairfax Media's ongoing investigation of the Cease Sale deadlock, the  that NBN and internet retailers are permitted to bypass these regulations and reconnect legacy services for homes and business which "did not successfully migrate to the NBN". Even so, the ACCC has no power to force them to act.
+
+Meanwhile cases like Moffat's continue to surface, often linked to HFC cable  which leave homes unable to connect to the NBN. In limbo, the occupants are left to wait for repairs.
+
+You will now receive updates from
+
+Technology Daily Newsletter
+
+Technology Daily Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+Despite Cease Sale's ongoing role in leaving Australian homes and businesses in the dark, the ACMA insists these regulations fall outside its jurisdiction and thus it can't guarantee the Cease Sale deadlock will be addressed as part of the NBN review.Photo: Robert Peet
+"The ACMA, in coordination with the Department of Communications and the Arts and the Australian Competition and Consumer Commission is seeking information from both consumers and industry participants involved in providing services using the NBN about a range of issues including connections and appointments," according to an ACMA spokesperson.
+"The ACMA and the ACCC continue to work closely together regarding this information gathering exercise. However the ACCC has responsibility for the migration plan including Cease Sale provisions. Specific questions about Cease Sale arrangements should be directed to the ACCC."Photo: Supplied
+Meanwhile an ACCC spokesperson reiterated that it does not have the power to force the reconnection of individual services. Customers caught in the Cease Sale deadlock should instead direct their queries to their retail service provider.
+"Where the ACCC becomes aware of systemic issues that are affecting consumers, we work with NBN Co, Telstra and the relevant RSPs to identify and find a solution to the underlying cause," the spokesperson says.
+"We have requested that NBN Co and RSPs develop new migration processes to assist in the migration of services to NBN Co's FTTB/N and HFC networks."
+Mr Moffat is dismayed that a review of NBN complaints could fail to address the inability to cut through red tape which left him completely cut off for months.
+"I find it very disappointing that any review into NBN customer service would not include every aspect of the customer's connection experience, as waiting four months without any home phone or broadband to be connected to the NBN was one of the poorest customer service experiences of my life," he says.
+"What was most frustrating was everyone else in my street had working broadband but I was left in limbo due the Cease Sale agreement, surely that deserves further investigation."
+As the ACMA prepares to launch its review, NBN Co says that progress has been made on resolving the Cease Sale deadlock which the ACCC has failed to break.
+"NBN is currently formalising with Telstra and Optus the processes to reconnect premises that shouldn't have been disconnected," says an NBN Co spokesperson.
+"We're also working to clarify with retail service providers that Cease Sale only applies to new connections, and not when an old service is being reconnected."
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACMA</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ACCC</name>
+    <count>7</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott Moffat</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>20</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malvern East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moffat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ROBERT PEET</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Communications</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Daily Newsletter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Competition</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National News Videos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cease Sale</name>
+    <count>10</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co's FTTB/N</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Consumer Commission</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Moffat</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mitch Fifield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>RSPs</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Telecommunications Industry Ombudsman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

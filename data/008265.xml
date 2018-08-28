@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411407900059797</docid>
+  <date>02/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north/dangling-sign-on-high-st-preston-a-hazard/news-story/a4f73110867bca025d939a9ec70c6200</url>
+  <title>Dangling sign a High St hazard</title>
+  <content>
+THIS sign has seen better days.
+The Leader snapped these pictures of a dangling sign outside an abandoned shop front in High St, Preston today.
+Pedestrians should steer clear of the sign, which hangs on a busy stretch of High St on the corner of Bell St, near a bus stop and several cafes.
+Darebin Council has been tipped off to the potential hazard.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Preston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>High St</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Bell St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darebin Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

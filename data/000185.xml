@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398076321334577</docid>
+  <date>30/07/2017</date>
+  <time>23:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/07/yeah-maybe-dont-use-this-app-that-supposedly-identifies-poison-mushrooms/</url>
+  <title>Yeah, Maybe Don't Use This App That Supposedly Identifies Poison Mushrooms</title>
+  <content>
+Photo: AP
+
+While Elon Musk and Mark Zuckerberg are busy debating whether a malevolent, future AI could dispatch machine-gun toting drones , a current-day "revolutionary AI" could get you killed right now.
+
+Truffle, previously Mushroom, is an app that claim it can "identify any mushroom instantly with just a pic." Mushrooms are famously hard to identify, even by trained mycologists (scientists who study fungi), so an automated app seems like a risky venture. You know, because many mushrooms are poisonous, and if you eat the wrong ones your organs will shut down and you will freaking die.
+
+Honestly, people.
+
+This past week, both the  and  tried out the iOS-only app and discovered it was unable to reliably identify common shrooms like button, chestnut or shiitaki mushrooms. The creator, Nicholas Sheriff, admitted to Motherboard it was still in beta and intended only as a reference tool.
+
+Microbiology PhD and mushroom forager Colin Davidson told the Verge his area is populated with the yellow stainer, a mushroom which can make people who consume it violently ill and is indistinguishable from another edible variety without touching or smelling it. Other kinds are much more deadly, like the death cap, which looks and tastes great until it .
+
+"One-eighth of a death cap can kill you," Davidson said. "But the worst part is, you'll feel sick for a while, then you might feel better and get on with your day, but then your organs will start failing. It's really horrible."
+
+"I'm absolutely enthralled by the idea of it," Davidson added. "... But I would want quite a lot of convincing that it would be able to work." 
+
+Since the bad coverage, the name of the app has  and the claims in its description have been downplayed. Where it previously said "our revolutionary AI will instantly identify mushrooms, flowers, and even birds," it now says "White Truffles retail for over $US7,000 ($8,761) a pound! Simply point your phone at a black or white truffle mushroom and take a pic, our tech will try and determine if it is, in fact, a truffle or not."
+
+In a change log, the app said "We will be the #1 platform for all things Truffles."
+
+Just to be clear, so-called false truffles can , and other kinds of highly poisonous mushrooms can be  at various parts of their life stage. Truffle hunting  than just going out into the woods and pointing your phone at random fungi, and being wrong could cost you a lot more than $US7,000 ($8,761) a pound.
+
+[ via ]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS-only</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White Truffles</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colin Davidson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Davidson</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Use This App That Supposedly Identifies Poison Mushrooms</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maybe Do</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microbiology PhD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US7,000 ($8,761</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nicholas Sheriff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Zuckerberg</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

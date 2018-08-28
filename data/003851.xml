@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404845189909730</docid>
+  <date>01/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>true</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/in-depth/us-politics/donald-trump-dictated-sons-misleading-statement-on-russia-meeting/news-story/271a6bbb0ed5a34c7be498b8c7e9e0de</url>
+  <title>Trump 'dictated son's Russia claim'</title>
+  <content>
+The US President reportedly personally dictated a misleading statement downplaying a meeting between his son Donald Trump Jr and a Russian lawyer during the 2016 presidential campaign, despite advice to the contrary.
+Mr Trump was at the G20 summit in Germany when his son's controversial meeting with the Kremlin linked lawyer was revealed by the New York Times.
+The president's advisers agreed Don Jr should release a statement to get ahead of the story and insisted it should be truthful so it could not be repudiated at a later date.
+However, the Washington Post reports, once on-board Air Force One, Mr Trump changed tactic, dictating a statement that claimed, incorrectly, the meeting was primarily about an adoption program of Russian children. The statement sent to The New York Times emphasised the subject of the meeting was "not a campaign issue at the time."
+Within three days however, Mr Trump Jr was forced to admit that he had agreed to the meeting after receiving an email from an intermediary promising dirt on Hillary Clinton as part of a Russian government effort to help his father's presidential campaign.
+Emails from Mr Trump Jr show he responded to the offer enthusiastically, saying: "I love it."
+The president's advisers admitted that his intervention may make him vulnerable to allegations of a cover-up and will draw scrutiny from Robert Mueller, who has oversight of the FBI probe on links between Moscow and the White House.
+One White House adviser told the Post: "This was ... unnecessary. Now someone can claim he's the one who attempted to mislead. Somebody can argue the president is saying he doesn't want you to say the whole truth."
+Mr Trump is already under scrutiny after former FBI director James Comey revealed the president had asked him to intervene to get the agency to drop its probe into ousted national security adviser Michael Flynn.
+He has also been heavily criticised for his public humiliation of Attorney-General Jeff Sessions after the attorney-general recused himself from the Russian investigation. There is speculation Mr Trump wants to get rid of Mr Sessions so he can go on to fire Mr Mueller.
+The Washington Post reports that White House advisers had begun strategising how to deal with the Russian lawyer meeting weeks before it was reported in the media. Lawyers for Jared Kushner, Mr Trump's son-in-law who, along with former campaign manager Paul Manafort was also at the meeting, urged transparency. At one point they even discussed sharing everything, including the contents of the emails, with a mainstream news organisation.
+When the New York Times broke the story, toward the end of the G20, Mr Kushner and his team continued to support disclosure, believing the full story would emerge eventually.
+However as Air Force One flew back to the US, Mr Trump shut himself in a cabin to work on the statement, which he dictated to Hope Hicks, White House director of strategic communications and one of his most trusted aides.
+By the time Mr Trump had landed in the US, his statement was with the New York Times.
+But the Washington Post says: "Trump's family members and advisers ... knew the problem they had once hoped to contain would soon grow bigger."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>5</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Paul Manafort</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Kushner</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Michael Flynn</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>G20</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mueller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Don Jr</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US President</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Robert Mueller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hope Hicks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Comey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Sessions</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump Jr</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jared Kushner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Attorney General Jeff Sessions</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Air Force One</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

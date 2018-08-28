@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398669026829585</docid>
+  <date>31/07/2017</date>
+  <time>01:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/07/internet-speeds-plummet-after-nbn-installation/</url>
+  <title>Internet Speeds Plummet After NBN Installation</title>
+  <content>
+Image: iStock
+Residents of Elan Tower in Sydney's Kings Cross have gotten used to 100Mbps download speeds thanks to the hybrid fibre coaxial cable they paid Telstra to install six years ago.
+
+Now the building is being forced onto NBN's copper-based fibre-to-the-building network. The copper telephone wire in the building, travelling up 40 floors, is 20 years old.
+
+, around 69 households are using the HFC connection, NBN plans to shut it down for good in February next year.
+
+Residents are reporting a drop in download speeds once switching to FTTB from 110 to 30Mbps - prompting some to refuse to switch, threatening ombudsmen action.
+
+Legally, NBN can force Telstra to decommission the HFC network, leaving residents of Elan Tower with no choice.
+
+Are you in a similar situation? Has your internet speed dropped since NBN came to your home or business? Let us know in the comments.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iStock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Elan Tower</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FTTB</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney's Kings Cross</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet Speeds Plummet After NBN Installation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

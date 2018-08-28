@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429408108325272</docid>
+  <date>05/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/crime-court/motorcyclist-badly-hurt-in-mystery-crash/news-story/449edeadcae47c6e098957a9c5259248</url>
+  <title>Motorcyclist badly hurt in mystery crash</title>
+  <content>
+A MOTORCYCLIST remains in a serious condition at Royal Darwin Hospital as police call for witnesses to the crash to come forward.
+Police were called to the crash on Bagot Rd at the Nightcliff Rd intersection at 11.20pm on Thursday.
+Detective Senior Sergeant Brendan Lindner said early indications suggested speed may have been a factor.
+"The rider remains in a serious condition in hospital," he said.
+Anyone who saw the crash or the motorcycle leading to the crash, call police on 131 444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bagot Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Darwin Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Detective Senior Sergeant Brendan Lindner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nightcliff Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404583196900688</docid>
+  <date>01/08/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/national/gold-coast-woman-in-hospital-after-kangaroo-attack/news-story/2d3d06dcecc3c003e41703883fded6ee</url>
+  <title>Woman in hospital after Kangaroo attack</title>
+  <content>
+A KANGAROO attack at Hope Island has left a woman in hospital this morning.
+It is believed the Aussie animal attacked the woman in her 50s at a recreational facility just after 8am.
+Emergency services were called to the scene where the woman had been left with lacerations to the head.
+She was transported to hospital in a stable condition.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hope Island</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

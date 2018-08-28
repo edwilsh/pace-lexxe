@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399218782651336</docid>
+  <date>31/07/2017</date>
+  <time>03:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/new-home-sales-slide-in-june/news-story/5d8ff767cb395c0d9d09327db03b1cbd</url>
+  <title>New home sales slide in June</title>
+  <content>
+New home sales have fallen in June to their lowest level since October 2013, according to the latest Housing Industry Association report.
+Overall sales declined 6.9 per cent from May's figures - and 11.9 per cent lower than the same period last year - with sales of detached houses down 5.8 per cent and multi-unit sales 10.7 per cent lower.
+NSW, Queensland and South Australia recorded sharp falls in sales, but home sales rose in both Victoria and Western Australia, the figures show.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Housing Industry Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>October 2013</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425074486249332</docid>
+  <date>04/08/2017</date>
+  <time>07:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/afl/afl-news/frankston-back-in-vfl-for-2018-season-20170804-gxprmo.html</url>
+  <title>Frankston back in the VFL </title>
+  <content>
+Frankston are back in the VFL. AFL Victoria confirmed on Friday that the club had been re-admitted for the 2018 season after its application - put before the AFL Victoria board last month - had been approved.
+Having struggled for much of the past decade, the standalone Dolphins lost their place in the VFL at the end of last season, but a group led by Hawthorn great Gary Buckenara had rallied support for the club's return.Photo: Ken Irwin KEN
+"AFL Victoria was always committed to continuing to work with key stakeholders in the region - including Frankston FC - to ensure there would be a state-league presence there into the future," AFL Victoria chief Steven Reaper said.
+"The Frankston FC and all involved have shown their commitment to regain their licence in the VFL, establishing a strong strategic plan focused on governance, community engagement, sponsorship and membership that will assist the club and the region into the future."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Frankston</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Frankston FC</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gary Buckenara</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>VFL</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawthorn</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Steven Reaper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFL Victoria</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ken Irwin KEN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

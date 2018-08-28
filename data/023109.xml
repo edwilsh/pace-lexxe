@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443847788518756</docid>
+  <date>07/08/2017</date>
+  <time>08:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/third-dubai-fire-in-days-hits-hotel-tower/news-story/21a0a395218f213d3edd7bf57efbb898</url>
+  <title>Third Dubai fire in days hits hotel tower</title>
+  <content>
+A small fire has broken out a Dubai hotel forcing guests and staff to leave, in the third such blaze in the United Arab Emirates tourism and trade hub in less than a week.
+Several fire engines and an ambulance were deployed at the Movenpick hotel on Monday near the Marina district as scores of people gathered outside.
+A video of the hotel posted on social media showed thin clouds of smoke wafting around a lower floor.
+The hotel said on its official Twitter account that the fire was "swiftly brought under control and guests and staff were safely evacuated."
+Civil defence workers gave the all-clear for people to return inside and there were no reports of injuries.
+A blaze shot up the side of a nearby residential tower on Friday, and local media reported that a smaller fire was quickly put out at a neighbouring building on Sunday. No injuries were reported in either of those fires.
+The series of fires in tall buildings in the UAE has revived questions about the safety of cladding materials used in the Gulf region and beyond.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Arab Emirates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UAE</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Movenpick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gulf</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410381402859056</docid>
+  <date>01/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/video/video-entertainment/video-entertainment-news/hbo-hacked-programming-stolen-20170801-4wpom.html</url>
+  <title>HBO hacked, programming stolen</title>
+  <content>
+Trailer:
+The Big Sick
+
+02:24
+
+HBO hacked, programming stolen
+
+The script for an unaired episode of Game of Thrones has been stolen by hackers according to Entertainment Weekly. HBO has confirmed the hack but not the content taken.
+
+Previous slide
+Next slide
+
+Previous slide
+Next slide
+
+Previous slide
+Next slide
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Big Sick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>3</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Entertainment Weekly</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

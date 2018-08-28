@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405828737434953</docid>
+  <date>01/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/morrison-gst-talk-disappoints-wa-treasurer/news-story/ce4022519935af29bee5902ea0d2761e</url>
+  <title>Canberra won't act on WA's $2b GST shortfall</title>
+  <content>
+WA Treasurer Ben Wyatt says he was disappointed after a meeting with federal counterpart Scott Morrison.
+According to the latest ABS census figures, 60,000 fewer people are living in the state, which the WA Treasury estimates will lead to a $1.9 billion drop in GST share.
+Mr Wyatt was seeking a one-year deferral in calculating the impact, but Mr Morrison said he legally could not intervene.
+The federal treasurer said WA had endured several years with "a very unfair" GST allocation, but refused to go beyond "band aid" top-up payments for infrastructure projects.
+
+Mr Morrison said he was focused on a long-term solution to GST distribution and would not move before receiving a Productivity Commission report next year.
+"We're just going to keep working that issue," he told reporters in Perth.
+"He (Mr Wyatt) needs to work on his Labor colleagues in the other states ... to convince them of his arguments, as do I need to work nationally on these same issues."
+Mr Wyatt warned West Australians will turn on the Liberals at the next federal election.
+"The treasurer, the prime minister can listen all they like, but Western Australians, I've got to say, have probably had a gutful of articulating the case and are now wanting to see some action," he said.
+"I was hopeful to get at least some positive response around deferring the impact of the ABS data until it's finalised in June next year.
+"The federal treasurer says he can't do that and I'm disappointed."
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Western Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Treasurer Ben Wyatt</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WA's $2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Productivity Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scott Morrison</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WA Treasury</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrison</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Wyatt</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GST</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABS</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Australian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

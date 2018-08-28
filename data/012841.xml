@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419229035649185</docid>
+  <date>03/08/2017</date>
+  <time>09:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/world/fire-breaks-out-on-the-outside-of-the-famous-tsukiji-fish-market-in-japan/news-story/2beee04ca5382482ba65c2e08e3c5c71</url>
+  <title>Huge blaze near famous fish market</title>
+  <content>
+A MASSIVE fire has broken out outside Japan's famous Tsukiji fish market, which attracts thousands of tourists daily.
+Store owners and tourists have been forced to evacuate as the incident continues.
+The Tokyo Fire Department reported that the building was burning at "Tsukiji fish market" in Tokyo from 3pm Thursday local time, NHK reports.
+According to the Tokyo Fire Department and other media outlets, the fire started in a three-storey building. But local reports suggest there are three buildings now on fire since the main blaze broke out, making it a total of four fires.
+A total of 25 fire trucks are on the scene near the Tsukiji fish market where many tourists visit all year round.
+No reports of injuries or fatalities have emerged yet as plumes of smoke continue to emerge from the area.
+Pictures from the scene have emerged on social media.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NHK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tsukiji</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Fire Department</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

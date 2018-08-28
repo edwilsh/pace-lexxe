@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408233919169312</docid>
+  <date>01/08/2017</date>
+  <time>14:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/00/25/woman-dies-in-south-australian-crash</url>
+  <title>Woman dies in South Australian crash</title>
+  <content>
+One woman is dead and another is recovering in hospital following a three-car crash in South Australia.
+Just after 7pm on Tuesday three cars collided on the Port River expressway, with the 77-year-old driver of one of the cars later dying in hospital.
+Her 79-year-old passenger was take to hospital with non-life-threatening, but serious, injuries, while the drivers of the two other cars were uninjured.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port River</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

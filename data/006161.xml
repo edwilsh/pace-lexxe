@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408281163810612</docid>
+  <date>01/08/2017</date>
+  <time>14:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/credit-union-sa-cracks-1bn-in-assets/news-story/d73ccf7389e200c63e37692112518a09</url>
+  <title>Credit Union SA cracks $1bn in assets</title>
+  <content>
+CREDIT Union SA has broken the $1 billion asset mark, thanks in part to a growing member base and array of services according to its chief executive.
+Grant Strawbridge said the milestone showed the appeal of the customer-owned approach to banking and the culmination of initiatives to grow member numbers and position the local financial services provider as an attractive banking option for South Australians.
+The organisation is owned by its almost 50,000 members.
+"As an employer of more than 150 South Australians, Credit Union SA continues to be a significant contributor to the local economy and we are proud of our standing within the SA business community - and to reach more than $1 billion in assets reflects our role and responsibility in the development of our state," Mr Strawbridge said.
+"We are extremely proud that becoming a billion-dollar organisation allows us to demonstrate the value of our organisation for our members but also our important role supporting the prosperity of the broader SA economy."
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Union SA</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Strawbridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grant Strawbridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

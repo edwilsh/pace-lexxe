@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416007810121746</docid>
+  <date>02/08/2017</date>
+  <time>20:39</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/south-australia/thursday-pulse-road-closed-house-hit-as-gusher-sends-water-flying-at-torrens-park/news-story/5e990aa77472fda19d6106fed94f66b3</url>
+  <title>Torrens Park house hit by gusher</title>
+  <content>
+A TORRENS Park road remains closed this morning after an overnight gusher sent water and debris flying through the air.
+The burst main, on Pamela Rd, was reported just before 2am.
+The water stream hit powerlines and a nearby house before SA Water crews arrived to turn off the supply.
+Traffic restrictions remain in place as the clean-up continues.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pamela Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Torrens Park</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA Water</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

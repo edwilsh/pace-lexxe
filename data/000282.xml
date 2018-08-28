@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398269594865977</docid>
+  <date>30/07/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4821778/huge-queues-at-sydney-airport/?cs=305</url>
+  <title>Huge queues at Sydney Airport</title>
+  <content>
+Huge queues of people snaked out Sydney Airport's domestic terminal T2 on Monday morning as passengers experienced lengthy delays to check in to their flights.
+Crowds also gathered in the baggage claim area with the wait attributed to extra security after an alleged plot to bring down a flightwas uncovered.
+Passenger Sally Rugg tweeted that the check-in process would take at least an hour, with staff handing out water bottles to travellers.
+Sydney Airport is understood to have put on extra staff to manage the increase in security measures. Security was beefed up late last week after authorities became aware of an alleged plot to blow up a flight bound from Sydney to the Middle East.
+Four men were taken into custody in a series of arrests across Sydney on Saturday.
+Air travellers have been warned they will need to be patient and limit both carry-on and checked-in luggage due to extra screening measures. 
+Some passengers could see the lighter side of the situation, urging entrepreneurial cafe owners to deliver orders to the people queuing up.
+Most flights were leaving on time despite the length of time it was taking to check passengers in.
+Sydney Airport has been contacted for comment.
+Sydney Morning Herald
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Middle East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>T2</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Morning Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sally Rugg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

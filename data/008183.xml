@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411841691762677</docid>
+  <date>02/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/wouldbe-robber-flees-angry-kensington-junction-pub-manager/news-story/7784e5aba9589c6f9252bbc984ed1284</url>
+  <title>Manager: Let me show you to the exit</title>
+  <content>
+A GUTSY pub manager has thwarted an early morning robbery attempt by chasing the thief out of a south Brisbane venue.
+Video footage shows the offender walking into the Kensington Junction pub in Crestmead at about 4am.
+Using an orange high vis vest to shield his face from security cameras, the man approaches the duty manager and makes demands for money.
+Police said the 52-year-old duty manager then yells and chases the thief out of the venue.
+The offender, described as caucasian and approximately 182cm tall, was last seen running towards Crescendo Place.
+No money was obtained nor any weapon sighted.
+No one was physically injured during the incident.
+The Kensington Junction declined to comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kensington Junction</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Crestmead</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crescendo Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411549633982715</docid>
+  <date>02/08/2017</date>
+  <time>03:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/02/junk-mail-plebiscite-no-fix-for-liberals-marriage-equality-purgatory/</url>
+  <title>Marriage equality is drowning out everything else the government wants to do</title>
+  <content>
+You'd have to have a heart of stone not to feel sympathy for the Prime Minister yesterday. In Perth, holding a media conference with the local head of the Australian Hotels Association to spruik the government's wage cut scheme PaTH program, what did journalists want to talk about? Not jobs, but marriage equality. "Do we [sic] some questions on the PaTH program and employment issues?" the PMO's perhaps-flawed transcript has the PM imploring the assembled hacks. The only path they were interested in was to a vote on removing discrimination in marriage law and the ramifications for Turnbull's leadership. And so they peppered him with questions about that. The prime ministerial shits were duly, and rightly, cracked.
+</content>
+  <sindexList>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PMO</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Hotels Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

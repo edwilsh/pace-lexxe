@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416789494184457</docid>
+  <date>02/08/2017</date>
+  <time>23:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/sales-from-apples-service-business-is-second-only-to-the-iphone-2017-8</url>
+  <title>One chart shows Apple's service business quietly rising to the top</title>
+  <content>
+Apple is synonymous with sleek hardware, from laptops to phones.
+
+As this chart from  shows however, Apple's non-hardware offerings are now an incredibly important piece of the business. Revenues from Apple's service business have been steadily rising over the past five years, and with $US7.3 billion in revenue this past quarter, services delivered more revenue than every other Apple business group other than the iPhone.
+
+With more than one billion Apple devices in use by customers, the company has a ready market for all of its service offerings, which include the App Store, Apple Pay, iTunes, and iCloud.
+
+Apple doesn't specify which of its service products are pulling in the most revenue, and some of them have faced challenges over the past year. Apple Music is largely seen as coming in second to Spotify, which recently announced it had reached 60 million subscribers. Its movie rental business on iTunes has also been declining as pressure from players like Comcast and Amazon increases. But as Apple investors wait for the company to dream up the next hit gadget, they can rely on a steady stream of business from the company's services.
+
+Learn more:
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US7.3</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Spotify</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Pay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Music</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Comcast</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iCloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iTunes</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>8</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422927002567372</docid>
+  <date>03/08/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/business/markets-live/markets-live-asx-stuck-while-wall-st-parties-20170803-gxp3al.html</url>
+  <title>Markets Live: ASX stuck while Wall St parties</title>
+  <content>
+The Dow Jones edged up to a seventh straight record high overnight, while the S&P 500 and the Nasdaq fell, weighed down by Amazon, Apple and other top-shelf technology stocks.
+
+Stocks lost a little ground late in the session after the  impaneled a grand jury in Washington to investigate allegations of Russia's interference in the 2016 US presidential election.
+
+"It's more distraction for the White House and less stability," said Chris Zaccarelli, chief investment officer at Cornerstone Financial Partners. "It definitely was market moving."
+
+The S&P 500 information technology index, which has led other sectors in 2017, dipped 0.35 per cent. Apple lost 1.0 per cent after hitting a record high the day before. It and Amazon down 0.9 per cent, weighed more than any other stocks on the S&P 500.
+
+Silicon Valley electric carmaker Tesla jumped 6.50 per cent after reporting quarterly results above Wall Street's expectations.
+
+Analysts, on average, expect S&P 500 earnings to have grown 11.8 per cent and they project earnings up 9.2 per cent for the September quarter.
+
+The S&P 500 has risen 11 per cent in 2017 and is trading at 18 times expected earnings, pricey compared to its 10-year average of 14.
+
+"Earnings are supporting this market and consumers are supporting it from a macroeconomic standpoint," said Phil Blancato, CEO of Ladenburg Thalmann Asset Management. "This is a Goldilocks economy, good enough to push the market higher, no bubbles in sight."
+
+The Dow Jones Industrial Average edged up 0.04 per cent, or 9.86 points, to end at 22,026.1, an all-time high.
+
+"When you hit these major milestones it's not unusual to trade sideways for a few days," Blancato said.
+
+The S&P 500 lost 0.22 per cent to 2,472.16 and the Nasdaq Composite dropped 0.35 per cent to 6,340.34.
+
+Wall Street has shrugged off a recent failure by a Republican-controlled Congress to overhaul healthcare legislation as well as doubts about how easily President Donald Trump will be able to fulfill promises to cut taxes and increase infrastructure spending.
+
+Investors are watching economic data for clues on the health of the economy ahead of the keenly awaited monthly payrolls data on Friday.
+Good morning and welcome to the Markets Live blog for Friday.
+
+Your editors today are Jens Meyer and Patrick Commins.
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tesla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thalmann Asset Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phil Blancato</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Ladenburg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Blancato</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cornerstone Financial Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wall St</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Commins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chris Zaccarelli</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goldilocks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Republican-controlled Congress</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Nasdaq Composite</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

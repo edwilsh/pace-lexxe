@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435378112919960</docid>
+  <date>05/08/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/09/43/newcastle-unit-block-damaged-in-blaze</url>
+  <title>Newcastle unit block damaged in blaze</title>
+  <content>
+A man has been arrested after a fire caused extensive damage to a unit block in Newcastle.
+Several units were evacuated before firefighters extinguished the blaze at Hamilton around 7.30pm on Saturday. Police say no one was injured.
+A 41-year-old man was later arrested before being transferred to hospital for unrelated injuries. He was being interviewed by police.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hamilton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

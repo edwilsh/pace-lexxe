@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435704530437121</docid>
+  <date>06/08/2017</date>
+  <time>01:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>http://www.lifehacker.com.au/2017/08/build-a-raspberry-pi-happiness-tracker-to-log-morale/</url>
+  <title>Build A Raspberry Pi Happiness Tracker To Log Morale</title>
+  <content>
+If you're still using the office's water cooler to judge your office's morale, you might need an upgrade. Sometimes keeping track of how you feel can be as simple as pressing a button. That's what SEO specialist and programmer Katja Budnikov accomplished after constructing an office happiness tracker during her company's hackathon.
+
+Image credit:
+
+With a Raspberry Pi, LEDs and four buttons, the happiness tracker records four emotional states ranging from "super good" to "bad". The button push is recorded and appears in Grafana, a database visualisation tool. There's a five-second delay after every button push to mitigate falsified results.
+
+Katja placed the happiness tracker near her office entrance to track the moods of employees coming into work or leaving at the day's end.
+
+Brushing your teeth only takes a couple minutes, and so does increasing your happiness. Here's a super easy way to train yourself to look on the bright side.
+
+, or emotions in general, can help you identify patterns in your behaviour that affect your emotional state. If you're always , having a record of your grumpy state recorded for a period of time can help you figure out the culprit, make changes that will boost your mood or help you appreciate the mornings.
+
+And if you're managing a team of people, tracking morale can give you valuable information about your team's state of mind and positive changes that you may want to implement.
+
+[Hackaday]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Raspberry Pi</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Katja</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>LEDs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Grafana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hackaday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Katja Budnikov</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Raspberry Pi Happiness Tracker To Log Morale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423365089238489</docid>
+  <date>04/08/2017</date>
+  <time>01:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/financial-services/big-banks-distance-themselves-from-cba-money-laundering-claims-20170803-gxp2wy</url>
+  <title>Big banks throw CBA under the bus on money laundering claims</title>
+  <content>
+"We cooperated with Austrac's review of ATMs and Intelligent Deposit Machines, which found ANZ is compliant with all relevant Anti-Money Laundering and Counter-Terrorism Financing laws," the spokesperson said.
+
+Westpac, which is Australia's second largest bank, is believed to have removed any non-compliant machines some time ago. A spokesman for the bank declined to provide specific details around the types of machines that were removed but said the bank was working closely with Austrac.
+"Westpac constructively engages with Austrac and takes its obligations around these issues very seriously. While we don't comment on reviews that regulators conduct across the industry, we will continue to work closely with Austrac to ensure that Westpac meets its regulatory obligations," the spokesman said.
+A spokeswoman at NAB said automatic teller machines at the bank accept less than $5000 in a single deposit. The intelligent deposit machines at the heart of the Austrac allegations accepted up to 200 notes or $20,000 at a time which Commonwealth Bank processed and automatically credited to the accounts of its customers, some of which were registered under fake names.
+"NAB takes its AML/CTF obligations, and its role in protecting our customers from money laundering and terrorist financing, extremely seriously. The development of sound systems and controls are our priority, and we work closely with the regulator on intelligence and regulatory development" the NAB spokeswoman said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Intelligent Deposit Machines</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AML/CTF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>5</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>ATMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436061012725530</docid>
+  <date>06/08/2017</date>
+  <time>02:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melbourne-weather-winter-storm-to-hit-city/news-story/e74908dc9bb3b2603a289cafa4b3bc79</url>
+  <title>Winter storm set to lash city</title>
+  <content>
+THUNDER and hail could hit Melbourne later today, with a blizzard and a dumping of snow forecast for alpine areas.
+Showers are expected throughout the day in Melbourne, with the city reaching a top of 13C. There will be fresh northerly winds and a risk of hail and thunder.
+The freezing conditions are expected to dump half a metre of snow by tonight.
+"Moderate to heavy falls of snow are forecast and blizzard conditions are likely at times today," a read BOM weather warning.
+Damaging winds with peak gusts of up to 100km/h are also predicted, which may affect Mt Buller, Mt Hotham and Falls Creek.
+Mr Stewart said warmer weather is on its way.
+"There will be improvement in the middle part of the week with 15C on Tuesday and mostly dry. It'll be as high as 18C on Thursdays, with winds possibly returning," he said.
+Emergency crews were kept busy last night as they responded to dozens of call-outs as wild weather blew down trees and damaged buildings.
+Bureau of Meteorology senior forecaster Dean Stewart said Melbourne was lashed with damaging winds overnight, with gusts of up to 82km/h recorded off the coast of Brighton.
+State Emergency Services spokesman Simon Kinninburgh said crews responded to 49 requests for assistance in the past 12 hours.
+"Overnight between 11pm and 3am was the busiest time with the winds," he said.
+"Most of the requests have been for trees down causing traffic hazards and minimum building damage."
+Mr Kinninburgh said Hastings, Emerald and Sorrento were hardest hit.
+"The wind has died down significantly. We only have three active jobs at the moment," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>C. There</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Simon Kinninburgh</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sorrento</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Emerald</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Hastings</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mt Buller</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kinninburgh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brighton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Falls Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thunder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

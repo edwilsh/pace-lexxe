@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443972342572384</docid>
+  <date>07/08/2017</date>
+  <time>09:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/entertainment/confidential/fantastic-four-actor-ioan-gruffudd-plays-tourist-at-qagoma-marvel-exhibition/news-story/5d3a8ae4689b1b1f4adf8a3348c98a7c</url>
+  <title>Fantastic actor spotted at QAGOMA</title>
+  <content>
+A FANTASTIC Four actor has been spotted playing tourist at the Queensland Gallery of Modern Art's Marvel exhibition.
+Ioan Gruffudd, a camera hanging around his neck, was snapped at QAGOMA over the weekend, while browsing the Marvel: Creating the Cinematic Universe exhibit.
+The Welsh actor will star in new ABC crime drama series Harrow in Brisbane this month. Rehearsals are under way.
+It is believed Gruffudd flew into Brisbane about three weeks ago and has been in full tourist mode around the city, including dining at restaurants in Fortitude Valley and Woolloongabba.
+Gruffudd was last in Queensland to film San Andreas in 2014.
+Harrow is the latest project from Brisbane production company Hoodlum Entertainment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hoodlum Entertainment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Gallery of Modern</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ioan Gruffudd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>QAGOMA</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Welsh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Harrow</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cinematic Universe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fantastic Four</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fortitude Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gruffudd</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Andreas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolloongabba</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Marvel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Art's Marvel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

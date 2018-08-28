@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408105070147029</docid>
+  <date>01/08/2017</date>
+  <time>13:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/rspca-and-police-seize-21-cats-in-property-raid-in-victorias-northeast/news-story/b1943346b7483ac9fa1fb22cb5ddbbb3</url>
+  <title>RSPCA seize 21 cats in property raid</title>
+  <content>
+TWENTY-ONE cats were seized by the RSPCA on Tuesday after inspectors raided a home in Victoria's northeast.
+The cats, of varying age and sex, were found to be living in squalid conditions "detrimental" to their health.
+They were transported to an RSPCA facility in Melbourne's southeast and treated for cat flu and fleas.
+RSPCA inspectorate team leader Guy Gorman said the warrant was obtained following an earlier inspection of the Murrindindi property.
+"Following our inspection, we concluded that the living conditions were detrimental to the cats' welfare," Mr Gorman said.
+"Therefore, we sought and obtained court permission to enter the dwelling and seize animals determined to be at immediate risk with their welfare seriously compromised."
+He said the cats were in immediate risk and their welfare was "seriously compromised".
+Three RSPCA Victoria inspectors executed the warrant with help from Victoria Police and Murrindindi Council
+</content>
+  <sindexList>
+  <sindex>
+    <name>Guy Gorman</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Murrindindi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>RSPCA Victoria</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Twenty-one</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Murrindindi Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSPCA</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Gorman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410553201554113</docid>
+  <date>01/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/webjet-closes-in-on-acquisition-prepares-raising-20170801-gxni4k</url>
+  <title>Webjet closes in on acquisition, prepares raising</title>
+  <content>
+Fund managers are bracing for an equity raising at Webjet, with the company expected to announce an offer to help fund its latest acquisition. 
+Sources said Webjet was seeking to buy Jac Travel, a business to business travel agent based in the UK. 
+A deal is expected as early as Wednesday. 
+The acquisition is expected to be worth about $200 million. 
+
+Webjet shares went into a trading halt on Wednesday morning. 
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Webjet</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jac Travel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

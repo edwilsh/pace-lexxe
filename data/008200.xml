@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411884641436149</docid>
+  <date>02/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/real-estate/apartment-approvals-jump-20pc-in-june-fail-to-halt-longerrun-housing-slowdown-20170802-gxnlim</url>
+  <title>Apartment approvals jump 20pc in June: fail to halt longer-run housing slowdown</title>
+  <content>
+New dwelling approvals rose more than expected in June, as volatile monthly figure for apartments jumped 20 per cent in seasonally adjusted terms, official figures showed on Wednesday.
+While the rise in apartments, townhouses and semi-detached homes, along with a 4 per cent monthly increase in detached houses, pushed total new approvals up 10.9 per cent from May, the figures failed to stem a longer-run decline in new housing approvals as the country's  comes off its peak. 
+"Looking through the monthly volatility, there are signs of a clear moderation in the building approvals data, with total volumes now 15 per cent below the mid-2016 peak," JP Morgan economist Tom Kennedy said. "Despite today's upside surprise, approval volumes still declined 1.2 per cent quarter on quarter in the June quarter and provide further confirmation of a softening outlook for residential construction."
+The median forecast of economists surveyed by Bloomberg was for a 1 per cent monthly rise in total new approvals.
+
+In the year to June, 219,219 new dwellings were approved. This was 8.1 per cent below the 238,431 level reached a year earlier and marked the tenth straight month of decline in the rolling 12-monthly total. 
+
+The year-on-year decline in apartment approvals was greater, with the total 104,562 attached dwellings in the year to June almost 12 per cent below its level in June last year, when it was 118,705. 
+Approvals of standalone houses, which were overtaken by units in October 2015, have since retaken their historical position as the largest single dwelling type and are proving more resilient as the heat comes out of the house-building sector.
+In the year to June, house approvals totalled 114,658, just 4.2 per cent down on their level of a year earlier. 
+Even with the slowdown underway in approvals of new dwellings, current levels of construction remained strong and would only start to fall next year, Mr Kennedy said. 
+
+"There remains an unprecedented number of dwellings currently under construction, so we expect  will continue to add to real GDP growth in coming quarters," he said. "However...the decline in building approvals means that the impulse is set to fade through [the second half of this calendar year] and our base case is for residential investment to be a drag in 2018".
+WA led the uptick in apartment approvals, with a 73 per cent leap in to 621 in June - the biggest monthly total since March last year - from 360 in May. However, NSW accounted for the vast bulk of the national improvement, with a 43 per cent monthly jump that lifted the state's total to 3,568. Victoria posted a more modest monthly gain of 14 per cent to 2,388.
+In Queensland, apartment approvals fell nearly 13 per cent to 1,185 and in SA the monthly total of attached dwellings approved fell 43 per cent to 338. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Kennedy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kennedy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2015</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JP Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>8</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

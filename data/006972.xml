@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410471597173814</docid>
+  <date>01/08/2017</date>
+  <time>23:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/reading-spelling-numeracy-better-in-vic/news-story/b0b9548c35692740238b5b03134b7204</url>
+  <title>Reading, spelling, numeracy better in Vic</title>
+  <content>
+Victoria is claiming victory after some preliminary NAPLAN results showed improvement in reading, spelling and numeracy for some grades.
+But other NAPLAN figures don't paint such a rosy picture, with the state going backwards in writing while NSW got better.
+"The number of kids doing better in numeracy and reading is increasing, and we'll keep investing to ensure results continue to improve," Education Minister James Merlino said on Wednesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NAPLAN</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Education Minister James Merlino</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424511845523848</docid>
+  <date>04/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/police-call-for-help-to-find-woman-missing-from-fnq-town/news-story/87b772c56b5dbca6ece17e307b1df0ba</url>
+  <title>Woman missing from Cooktown</title>
+  <content>
+POLICE are calling for public help to locate a woman missing from the Cooktown area.
+Donna Steele, 42, was last seen at a caravan park in Wujal Wujal, south of Cooktown, around midday on August 2.
+Police and family hold concerns for her welfare as she suffers from a medical condition.
+Donna is described as caucasian in appearance, around 170cm tall with a proportionate build, blonde hair and blue eyes.
+Anyone who may have seen Donna or know her whereabouts is urged to contact Policelink on 131 444 or Crime Stoppers.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cooktown</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Policelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donna</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wujal Wujal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donna Steele, 42</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

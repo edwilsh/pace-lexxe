@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423360794271075</docid>
+  <date>04/08/2017</date>
+  <time>01:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Energy Business News</source>
+  <url>http://www.energybusinessnews.com.au/business/infrastructure-news/hyrdos-big-plans-tassie/</url>
+  <title>Hyrdo's big plans for Tassie</title>
+  <content>
+Woolnorth wind farm in Tasmania...the state could add another 3000MW of wind
+Tasmania could double its power generation from 10,000MW per year to around 20,000 MW and drive down electricity prices in the island state.
+Hydro's chief executive Steve Davy told the Tasmanian Mineral and Energy Council's annual conference in Hobart this week that the government-owned organisation was "ready to assist in helping Tasmania become the battery of the nation."
+"If you think about what Tasmania would be like in 20 years time or 30 years time, once all that development has taken place, that would mean that we'd have been through a period of a couple of decades of enormous investment in Tasmania," Davy said.
+"We'd also be in a situation where, because we are a net exporter of electrcity, our prices and our reliability would be the best in the country."
+Davy said that for this to happen, there would need to be "a lot of transmission augmentation, a lot of new interconnetion, about 3000 MW of wind installed in Tasmania."
+He said that while investors other than Hydro would drive these projects, Hydro woujld focus on pumped hydro initiatives.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Energy Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MW</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolnorth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Davy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian Mineral</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hydro</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Davy</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tassie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

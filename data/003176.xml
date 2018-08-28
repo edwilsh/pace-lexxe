@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403651188981009</docid>
+  <date>31/07/2017</date>
+  <time>20:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/someone-hacked-into-hbo-and-is-now-releasing-game-of-thrones-info/</url>
+  <title>Someone Hacked Into HBO And Is Now Releasing Game Of Thrones Info</title>
+  <content>
+It's cyber deja vu time in Hollywood. HBO just confirmed that hackers broke into their servers and stole an unknown quantity of data. Now, unreleased episodes of Ballers and Room 104 have appeared online as well a script that looks an awful lot like next week's Game of Thrones episode. This is not a drill.
+
+Image: HBO
+
+"HBO recently experienced a cyber incident, which resulted in the compromise of proprietary information," the company said in a statement, Entertainment Weekly. "We immediately began investigating the incident and are working with law enforcement and outside cybersecurity firms. Data protection is a top priority at HBO, and we take seriously our responsibility to protect the data we hold."
+
+This doesn't look good for HBO. The hackers in question claim to have stolen 1.5 terabytes of data from the company, a staggering quantity that could include not only unreleased episodes and scripts but also employee data and financial information. It's unclear if this is the case, but the hackers appear to be leaking the data online slowly. And, according to an email they sent to reporters yesterday, the hackers do want to play up the Game of Thrones angle:
+
+Surely, HBO is not happy about the idea that information about new Game of Thrones might be floating around on the internet, since the network is notoriously secretive about plot points. But leaked episodes are small potatoes compared the harm that could be caused if internal emails or employees' personal information gets leaked. One need look no further than the damage caused by the massive Sony hack in 2014. If the hackers are telling the truth, this new HBO hack is even more massive. The Sony hack was a little under 26 gigabytes, and again, the HBO hackers are claiming to have stolen 1.5 terabytes.
+
+As more and more details from the Sony Pictures hack seep out into the internet, it's been easy - and to be honest a little fun - to take the voyeur's view. Dumb corporate powerpoints! Passwords in a folder literally called Password! Paul Blart 2 anything! But then you actually look at the full scope of what's out there and holy shit.
+
+There's still a lot that we don't know, as this is a developing story. We reached out to HBO to learn more about the incident but had not heard back at time of writing.
+
+[]
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Room 104</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hacked Into HBO And Is Now Releasing Game Of Thrones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>9</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>DATA</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Entertainment Weekly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sony</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Blart 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sony Pictures</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Hollywood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418047919621909</docid>
+  <date>03/08/2017</date>
+  <time>04:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/magnetic-tape-data-storage-breakthrough-will-make-your-hard-drive-seem-tiny/</url>
+  <title>Magnetic Tape Data Storage Breakthrough Will Make Your Hard Drive Seem Tiny</title>
+  <content>
+The amount of data you can squeeze onto a hard drive continues to grow by leaps and bounds, with Seagate announcing a 60TB SSD late last year. But thanks to IBM and Sony, tape might still reign supreme when you need to archive massive amounts of data, as the companies have jointly developed a new kind of tape that can reportedly hold 201-gigabits, or roughly 25GB, per 645mm2.
+
+Photo: IBM Research
+
+Photo: IBM Research
+
+That might not seem impressive given you can buy tiny microSD cards that are capable of holding 256GB of movies, photos and music. But when you fill a cartridge with over a kilometre of this new tape, you can store 330TB of data in less space than a hard drive takes up. Accessing that data is nowhere near as instantaneous as it is with SSDs or even hard drives, but for companies that need to hold onto years worth of data "just in case", tape cartridges can be a more affordable long-term solution.
+
+Unlike the platters in computer hard drives that feature ultra-thin layers of various metals to store tiny magnetic charges, tape needs to be able to flex, bend, and be wound onto a spool. As a result, it's usually covered in a thin layer of iron oxide or chromium particles which are magnetised or de-magnetised by a machine to create individual bits of data - AKA the ones and zeroes that make digital communications possible.
+
+So how did the researchers manage to squeeze even more data onto a piece of tape that looks similar to what you'd find in an old VHS cassette tape? As a paper recently published in IEEE Transactions on Magnetics reveals, the team at Sony developed a new type of magnetic layer that's applied to the tape using a technique called sputter deposition, which uses a vapour instead of a liquid to lay down tiny magnetic particles that are just a few nanometres in size. Older techniques of creating magnetic tape produced particles that could be hundreds of nanometres in size, but the smaller you can make those particles, the more of them can be squeezed into a given space, allowing you to store more data.
+
+Sony also developed a new lubricant layer which ensures the tape runs through the machinery used to read and write data as smoothly as possible, reducing friction and wear and tear, and extending the life of the storage medium. Having a tape jam on your cassette player can result in a few seconds of garbled music, but when you're storing data a mechanical mishap like that can be catastrophic.
+
+At the same time, IBM's researchers developed a new read head just 48-nanometres in size that was capable of accurately reading the minuscule magnetic particles on Sony's new tape, as well as new servo technology allowing for precise control of the tape as it flows through the machine. Accuracy and precision have to be improved as the magnetic particles holding the data get smaller and smaller.
+
+Existing hardware won't be compatible with the new tape cartridges, so don't throw out your current backup solutions just yet. This new technology still only exists in the R&D laboratories of IBM and Sony, and it will likely be a few years before it becomes commercially available. But once it goes into production, it should extend the usefulness and value of tape cartridges for at least another decade.
+
+[ via ]
+
+WATCH MORE: Science & Health News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>GB</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TB SSD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IBM</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IBM Research</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sony</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>VHS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SSDs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tape Data Storage Breakthrough Will Make Your Hard Drive Seem Tiny</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>microSD</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Seagate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IEEE Transactions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

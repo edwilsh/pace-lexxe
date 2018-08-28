@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401246007247676</docid>
+  <date>31/07/2017</date>
+  <time>11:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/rare-sight-dugongs-spotted-on-the-mid-north-coast/3207190/</url>
+  <title>Rare sight: Dugongs spotted on the Mid North Coast</title>
+  <content>
+SPECIALIST marine mammal teams are monitoring the health of a Dugong on the Mid North Coast after another was found dead.
+The pair of dugongs were found on Saturday at Stuarts Point, south of Nambucca Heads, much further south than the warmer shallow waters they are usually found in up from the Queensland border.
+Crews from Dolphin Marine Magic, Organisation for the Rescue and Research of Cetaceans in Australia, Sea Life Sydney Aquarium and National Parks and Wildlife are at the scene.
+If you have any further information, phone ORRCA on 9415 3333.
+</content>
+  <sindexList>
+  <sindex>
+    <name>ORRCA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sea Life Sydney Aquarium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nambucca Heads</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mid North Coast</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Research of Cetaceans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stuarts Point</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nationals Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dolphin Marine Magic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

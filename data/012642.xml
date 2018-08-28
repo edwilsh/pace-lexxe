@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419143136301532</docid>
+  <date>03/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/paul-pisasale-faces-fresh-charges-after-ccc-probe-20170803-gxoxq2.html</url>
+  <title>Paul Pisasale faces fresh charges after CCC probe</title>
+  <content>
+The Crime and Corruption Commission has charged former Ipswich mayor Paul Pisasale with two counts of attempting to pervert justice.
+Fairfax Media understands the charges relate to calls Mr Pisasale made this week to his former driver, Steve Potts, in which he offered to help him find a job in exchange for Mr Potts recanting allegations the former mayor had misused his official car.Photo: Tammy Law
+On Sunday, Fairfax Media revealed claims by Mr Potts that Mr Pisasale had used his mayoral car and driver for chauffeur-driven trips to brothels and frequent visits to massage parlours.
+The CCC late on Thursday announced it had issued a 65-year-old Ipswich man with a notice to appear in court to face to counts of attempting to pervert justice contrary to section 140 of the Queensland Criminal Code.
+Mr Pisasale is due to appear in the Brisbane Magistrates Court on August 8 to face the charges.
+The CCC said it was unable to comment further as its investigation remained ongoing.
+Mr Pisasale is already on police bail on a charge of extortion and two charges of assault.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Steve Potts</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Tammy Law</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Potts</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Pisasale</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Criminal Code</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Corruption Commission</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Pisasale</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 8</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCC</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

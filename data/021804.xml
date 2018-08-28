@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441262218169841</docid>
+  <date>06/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4836956/australian-olympic-legend-betty-cuthbert-has-died/?cs=2452</url>
+  <title>Australian Olympic legend Betty Cuthbert has died</title>
+  <content>
+Betty Cuthbert has died aged 79. Photo: Anita Jones
+
+Olympic champion Betty Cuthbert has died at the age of 79.
+
+Betty Cuthbert competes at the 1956 Melbourne Olympics. Photo: Supplied
+The one-time world record holder died after a long battle with multiple sclerosis.
+Cuthbert was a four-time Olympic gold medallist, winning three at the 1956 Melbourne games in the 100m, 200m and 4x100m relay events.
+Cuthbert, who also won gold in the 400m eight years later at the Tokyo Olympics, was a torch bearer at the opening ceremony for the Sydney Olympic Games.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cuthbert</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Anita Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Olympics</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Olympic Games</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Betty Cuthbert</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Olympics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Olympic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

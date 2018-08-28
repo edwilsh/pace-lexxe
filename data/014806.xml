@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422707959231464</docid>
+  <date>03/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/08/34/final-victorian-jail-escapee-caught</url>
+  <title>Final Victorian jail escapee caught</title>
+  <content>
+The third and final escapee from the Beechworth minimum security prison in regional Victoria has been recaptured.
+Thomas Smith, 27, was arrested at 7.30am on Friday in Ballarat after spending nine days on the run, police say.
+Smith was one of three men, alongside Billy Sperling, 25, and Geoffrey Pennell, 34, to escape from a window at the minimum-security facility on July 26.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ballarat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Billy Sperling, 25</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Beechworth</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Smith, 27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geoffrey Pennell, 34</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412318433139584</docid>
+  <date>02/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/four-pygmy-marmoset-monkeys-arrive-at-launcestons-tasmania-zoo/news-story/af9b2bf0637c0395879b867a5679b5c5</url>
+  <title>Hey, hey it's the monkeys!</title>
+  <content>
+THEY are the world's smallest monkey but they are proving a big hit at Tasmania Zoo.
+Four impossibly cute pygmy Marmoset monkeys arrived at the Launceston wildlife park from Mogo Zoo in New South Wales this week.
+The little primates, all females, weight just 100g and are already eating out of the hands of zoo staff and entertaining visitors with their high-energy antics.
+The monkeys are native to South America but have adapted to their new heated Tasmanian home with ease.
+"They have settled in really well. They are very friendly and eating well," head keeper Emma Morgan said today.
+Their favourite foods include sap from acacia trees, beetles, crickets and millworms.
+The little monkeys' biggest threats in the wild are habitat destruction and the black market.
+"They are sold as finger monkeys and the black market trade is particularly strong in Colombia," Ms Morgan said.
+In the jungle their main predators are birds of prey, snakes and larger primates.
+Tasmania Zoo hopes to import some male pygmy Marmosets and breed the petite primates in captivity.
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Zoo</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Launceston</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Emma Morgan</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colombia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mogo Zoo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

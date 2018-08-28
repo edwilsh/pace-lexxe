@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409565359057166</docid>
+  <date>01/08/2017</date>
+  <time>19:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/bob-katter-says-party-poised-for-three-far-north-seats-at-federal-election-despite-cairns-office-snub/news-story/84d0d036af1e5f95c6c67b79e51e0021</url>
+  <title>Katter confident of three FNQ seats</title>
+  <content>
+KATTER'S Australian Party officials say their confidence at winning three seats in the Far North at the upcoming state election has prompted a decision to open a head office in Townsville over Cairns.
+The party is shutting down its Brisbane head office and with plans to open a new home base in the next few weeks.
+KAP leader Kennedy MP Bob Katter said the party needed to focus on securing electorates around Townsville, with Dalrymple MP Shane Knuth set to stand for Hill after boundary redistributions split his seat into three.
+Mr Katter pointed out that Edmonton was one of his strongest booths at the 2016 federal election, noting he already had an office in Innisfail and Mr Knuth was based at Atherton.
+"So we're very pleased to see we're very strong in the Cairns region, and should take three seats unless something goes horribly wrong," Mr Katter said.
+"But the reason KAP has moved to Townsville first is because there's opportunity to make up a lot of ground there."
+Party president Shane Paulger said the decision was a tough one to make.
+"But the reality is that North Queensland has been badly neglected and we are the only party today who has made the decision to be based outside of Brisbane," he said.
+"There are a number of seats we think we can win in North Queensland and it's the place we need to be, and Townsville is not very far from Cairns."
+The party aims to win eight seats to take the balance of power at the Queensland election.
+The situation is up in the air on a federal level with new draft boundaries due to be released for consultation within the next two months.
+Both Mr Katter and Leichhardt MP Warren Entsch have rejected a proposal for Kennedy to take over Cape York and the Torres Strait despite calls from the Liberal Party.
+Mr Katter wants Cape York to become its own seat despite falling well short of the population threshold.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dalrymple MP Shane Knuth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Queensland</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Shane Paulger</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Atherton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Innisfail</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Edmonton</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cape York</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>KAP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leichhardt MP Warren Entsch</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kennedy MP Bob Katter</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hill</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>KATTER'S Australian Party</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Kennedy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Katter</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Katter</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Far North</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Liberal Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FNQ</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Torres Strait</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Knuth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

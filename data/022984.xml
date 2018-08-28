@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442769751710027</docid>
+  <date>07/08/2017</date>
+  <time>04:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/bus-passengers-travel-free-as-drivers-refuse-to-collect-fares/news-story/4dc2494e34d7b65cd722afb2811003dc</url>
+  <title>More fare-free days on the buses</title>
+  <content>
+UNION bus drivers plan to refuse to collect fares over two days this week as part of ongoing industrial action against Brisbane City Council.
+The Rail Tram and Bus Union gave notice to the council that bus drivers planned to refuse to collect fares on Tuesday and Wednesday this week as part of the protected industrial action.
+It will be the fourth time the union has closed the money tins, in a move the council estimates will cost about $2 million in lost revenue to TransLink.
+A caucus of 11 unions, which have jointly renegotiating enterprise bargaining agreements, has a scheduled meeting with the council tomorrow to continue discussing work and pay conditions.
+RTBU spokesman Tom Brown said the talks would likely be across a range of issues, after some headway had been made on bus driver security.
+The council was forced to bolster bus drivers' security after the State Government dragged the chain in finishing its bus driver safety review.
+The council has been contacted for comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brisbane City Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rail Tram</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TransLink</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bus Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Brown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RTBU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

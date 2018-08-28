@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400932474629364</docid>
+  <date>31/07/2017</date>
+  <time>10:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/20/05/possible-breakthrough-in-sa-cold-case</url>
+  <title>Possible breakthrough in SA cold case</title>
+  <content>
+The unsolved disappearance of South Australian mother Gail King 20 years ago could be on the verge of a breakthrough, police say.
+Ms King was reported missing in July 1997 after her partner, who is a suspect, said she left the duo's Yorke Peninsula property for Adelaide.
+But police say they have recently been in contact with someone who has provided "a different taint" to the investigation, which is part of a wider review of cold cases.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yorke Peninsula</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gail King 20</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms King</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 1997</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

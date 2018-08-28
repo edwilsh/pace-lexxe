@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399777128406964</docid>
+  <date>31/07/2017</date>
+  <time>05:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/new-home-sales-slide-in-june/news-story/5d8ff767cb395c0d9d09327db03b1cbd</url>
+  <title>New home sales slide in June</title>
+  <content>
+New home sales have resumed their downward momentum after two months of gains, falling in June to their lowest level since October 2013.
+A survey of Australia's largest home builders by the Housing Industry Association shows new home sales declined 6.9 per cent in June, following a 0.8 per cent and 1.1 per cent increase in April and May respectively.
+Sales of detached houses were down 5.8 per cent and multi-unit sales 10.7 per cent lower, contributing to the overall decline in June.
+Queensland recorded the worst decline in detached home sales, sliding by 29 per cent, followed by a 24 per cent fall in South Australia and nearly 10 per cent in NSW.
+However, home sales rose 21 per cent in Western Australia and four per cent in Victoria.
+The reduction in overall sales underscored the trend underway since sales peaked in early 2015, HIA Senior Economist Shane Garrett said.
+"The fall in sales needs to be considered against the backdrop of residential building coming off a record peak of activity in 2016," he said.
+"These results support HIA's latest set of forecasts that new dwelling commencements are set to continue easing until late 2018."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HIA Senior Economist Shane Garrett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Housing Industry Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HIA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2013</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

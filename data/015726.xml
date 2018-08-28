@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423747341334385</docid>
+  <date>04/08/2017</date>
+  <time>02:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/using-the-synology-ds1517-nas-to-run-your-own-cloud-service/</url>
+  <title>Using The Synology DS1517+ NAS To Run Your Own Cloud Service</title>
+  <content>
+While there's a lot to be said for the convenience of Google Docs or Office 365, there are times when you might prefer to DIY. That might be so you can be assured that you know precisely where your data is, or because you just prefer doing things yourself. A number of Synology NAS devices, like the  I looked at a few weeks ago, let you do just that. You can run a mail server, productivity applications and other web services from a box that fits on a book case in your office. I decided to take Synology's productivity apps out for a run to see how they stack up.
+
+The first step in being able to use the DS1517+ as an office application server is to install a couple of packages on the NAS. Using Package Center, I installed the Cloud Station Server and Note Station. When I first set the NAS up, I enabled the QuickConnect feature.
+
+QuickConnect is a redirection service. Using a simple ID for my server, I can remotely connect to the server and use the applications it offers quickly and easily.
+
+For testing the applications, I worked with two platforms; iOS on an iPad Air 2 running the latest public beta of iOS 11 and a Mac using Safari and Chrome. Where the user experience differs across platforms I'll be specific but otherwise, what I've found applies across all the different test systems I used.
+
+Working with DS Note
+
+DS Note feels like an amped up version of Evernote in many ways. One of the things I hate about Evernote is its poor text formatting options. DS Note is much more like a true word process with the ability to use heading styles, drawing tools, superscripts and subscripts and other useful text formatting tools.
+
+It also includes a checkbox tool so you can create To-Do lists using the app.
+
+One thing I did find annoying was that renaming a note, on iOS, was way more complicated that it needed to be. Rather than just tapping on the note title to edit it, I needed to open the note's Info screen and tap on the title to bring up a dialog for editing the title. It's a bit of a pain but taught me to remember to name a note when I first start typing.
+
+Synology Office
+
+Synology Office delivers word processing and spreadsheet applications,. There's no presentation software yet.
+
+Access is via a web browser - there's no iOS app so you can forget working offline with these programs.
+
+The word processor bares a more than passing resemblance to Google Docs. It works well and boasts the same sorts of collaboration features you'd expect with multi-user editing, being able to walk back through a document's editing history and the ability to encrypt a file.
+
+Similarly, the Spreadsheet application works as you'd expect. Its important to note that it isn't a direct alternative to Microsoft Excel. It covers most of the basic formulae I expected but it's not nearly as extensive as Excel. There's a list of .
+
+If your needs are simple, then the two apps offered by Synology will do the job.
+
+File management
+
+Underpinning all of Synology's apps is their file-sync service, DS File.
+
+It works a lot like Dropbox, Drive and OneDrive. DS File offers Mac, Windows, iOS and Android clients so you can access files remotely and sync content to the device you're working from.
+
+I created a Home folder for each user I established on the NAS and was able to sync files created on my iPad back to my Mac and open them on all the devices that were syncing.
+
+With iOS 11 coming with the new Files app, DS Cloud  and DS File are supported locations so I can access files from all my sync services from a single application.
+
+Is it worth the hassle?
+
+Setting up file syncing and the applications I tested - there's also a chat app but that's harder to test on your own - was reasonably straightforward. All up, once the NAS was up and running, it only took about 15 minutes to install there various packages on the NAS and configure the required permissions. I probably spent more time downloading the iOS applications.
+
+The productivity apps are solid but limited - particularly Spreadsheets. The limited formula support will be an immediate issue for real power users. And the word processing application covers all the bases when it comes to managing text and creating documents but lacks high-end features such as mail merging.
+
+Interesting, of the three main apps in Synology's productivity suite, DS Note is the most impressive in that matches the features of competing products particularly well.
+
+So, the hassle of setting this up is minor. And if you can live with the limited functionality of the word processing apps, which aren't a big deal for most people, and spreadsheets then knowing exactly where your data is makes this an interesting option for SMBs who are wary of using cloud services.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Synology Office</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dropbox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cloud Station Server</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft Excel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mac</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>DS Note</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>NAS</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Google Docs</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Note Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OneDrive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Evernote</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Office 365</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DS Cloud</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Package Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Synology NAS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Synology DS1517</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SMBs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Synology</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QuickConnect</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPad Air 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Safari</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DS File</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DS1517</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAS To Run Your Own Cloud Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DIY</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chrome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS 11</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

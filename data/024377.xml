@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446557912931928</docid>
+  <date>07/08/2017</date>
+  <time>19:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/interpol-hunt-clive-palmers-nephew-over-qni-collap/3209836/</url>
+  <title>Interpol hunt for Clive Palmer's nephew over QNI collapse</title>
+  <content>
+INTERPOL is now hunting for fugitive ex-Queensland Nickel director Clive Mensink.
+
+Documents lodged in the Brisbane Supreme Court reveal the Australian Federal Police have sought assistance from the international crime fighting -organisation, which advised Mr Mensink's last known whereabouts to be Hong Kong,
+
+Liquidators are trying to serve Mr Mensink with a lawsuit, which if successful, could see him forced to pay up to $110 million in compensation for allegedly trading while -insolvent and breaching his -duties as a director.
+
+In an application to argue the lawsuit could be served on his uncle Clive Palmer in his -absence, a letter was tendered from the Sheriff of the Federal Court outlining recent efforts to execute two arrest warrants on the businessman for failing to appear at an examination into QN's collapse.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>QN</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mensink</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane's Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Nickel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Palmer</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QNI</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Interpol</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clive Mensink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sheriff of the Federal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

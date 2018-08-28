@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406387083193140</docid>
+  <date>01/08/2017</date>
+  <time>07:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/drugs-dried-up-for-slain-vic-dealer-court/news-story/e56fd43d7f4caf4de1c0cfe5e383b672</url>
+  <title>Drugs dried up for slain Vic dealer: court</title>
+  <content>
+A Melbourne cannabis dealer found stabbed to death in 2008 had been scoring from a couple known as "auntie and uncle" before a drug drought hit the scene, a court has been told.
+Christopher Lavery, 31, is standing trial for the murder of 24-year-old James Russouw, a dealer whose supply had seemingly dried up, the Supreme Court of Victoria was told on Tuesday.
+School mate and fellow former dealer Thomas Perkins told the court that on the night of his death, Mr Russouw had received a phone call to the effect he would have drugs to sell that night "depending on quality".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Russouw</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Russouw</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thomas Perkins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christopher Lavery, 31</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court of Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

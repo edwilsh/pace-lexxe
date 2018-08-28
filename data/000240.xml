@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398140745845044</docid>
+  <date>30/07/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-07-31/png-election:-final-day-for-counting-as-rival/8758918</url>
+  <title>PNG Election: Final day for counting as rival parties look to form new government</title>
+  <content>
+The national election in Papua New Guinea is mired in more controversy, after the Electoral Commissioner, Patilias Gamato, went to Government House to return just 80 of the 111 election writs.
+With the count in the remaining 31 seats still to be completed, the country's corruption watchdog went to court and succeeded in obtaining an order to extend the deadline which is now 2pm this afternoon.
+And as newly elected and re-elected members decide where their allegiances lie, Paul Barker, Executive Director of the Institute of National Affairs says the dramas in the national election may not be over yet.
+</content>
+  <sindexList>
+  <sindex>
+    <name>National Affairs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Government House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commissioner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Executive Director of the Institute</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>PNG Election</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Patilias Gamato</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Barker</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

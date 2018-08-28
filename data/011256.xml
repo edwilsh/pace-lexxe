@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417180336214917</docid>
+  <date>03/08/2017</date>
+  <time>01:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/messi-shows-his-love-for-departing-neymar/3208261/</url>
+  <title>Messi shows his love for departing Neymar</title>
+  <content>
+FOOTBALL: Lionel Messi bid farewell to Neymar on Instagram after the Brazilian striker told him and other Barcelona teammates he was leaving, saying it was a "huge pleasure" to have played with him.
+The Catalan club confirmed that Neymar wanted to leave after weeks of intense speculation, taking the 25-year-old closer to a potential $329m world record move to Paris Saint-Germain.
+The total value of the deal is worth nearly $AUD747m, which includes wages, bonuses and a buyout clause of $329m Neymar has been offered a basic salary of $45m after tax, around $857,000 a week.
+"It was a huge pleasure having shared all those years with you, my friend @neymarjr," Messi wrote on Instagram next to a montage of pictures of both football stars high-fiving, embracing or laughing.
+"I wish you lots of luck in this new stage in your life. See you soon tkm," he added.
+"Tkm" stands for "te quiero mucho" (I love you loads).
+"Thanks brother. I will miss you man," Neymar replied on Instagram.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Messi</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>TKM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUD747</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Paris Saint-Germain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brazilian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lionel Messi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Instagram</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Neymar</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Catalans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barcelona</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

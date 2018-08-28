@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400374128870764</docid>
+  <date>31/07/2017</date>
+  <time>07:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/burglary-gets-sticky-for-victorian-thief/news-story/94410e6436620879948c69b8c19aaf76</url>
+  <title>Burglary gets sticky for Victorian thief</title>
+  <content>
+A would-be burglar found himself trapped between two buildings in Melbourne when his criminal intentions went awry.
+The man had to be freed from his makeshift prison by emergency services at suburban Deer Park on Monday afternoon after an alleged burglary on Sunday.
+The man has since been arrested but not charged.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Deer Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

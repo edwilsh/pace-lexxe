@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434304371086716</docid>
+  <date>05/08/2017</date>
+  <time>19:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/05/29/families-stymied-by-high-childcare-costs</url>
+  <title>Families stymied by high childcare costs</title>
+  <content>
+Child care has become one of the biggest, if not the biggest, drain on the family purse.
+The high cost of child care is eating substantially into the average pay packet and putting many families under financial stress.
+According to a survey by News Corp Australia, 40 per cent of families are paying as much as or more than their mortgage.
+Almost a third are paying double their grocery spend for child care, after the government rebate, while a fifth are paying triple their weekly grocery spend, the survey shows.
+For those on lower incomes, this means they are taking home next to no money, making it extremely difficult for many women with children to return to work.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>News Corp Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398402738853720</docid>
+  <date>31/07/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/health/2017/07/31/10/05/vic-ambo-response-times-best-june-quarter</url>
+  <title>Vic ambo response times best June quarter</title>
+  <content>
+Victoria's paramedics got to more serious cases within time limits in the June quarter than ever before, as the state government says the "crisis" in the ambulance service is over.
+Slow response times for ambulances was a major election issue in 2014 but new statistics from the service show Code One response times were at 81 per cent in the June 2017 quarter - up six per cent on the same period last year.
+"We said we would end the ambulance crisis, and with more patients now getting the life-saving care they need in record time that's exactly what we've done," Premier Daniel Andrews said on Monday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Code One</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Premier Daniel Andrews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

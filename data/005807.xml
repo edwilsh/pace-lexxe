@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407074277973655</docid>
+  <date>01/08/2017</date>
+  <time>09:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/fire-rips-through-golden-bay-house/news-story/76d906b38044ea09eb30c5bb81e58a91</url>
+  <title>Fire rips through Golden Bay house</title>
+  <content>
+FIRE has damaged  two-storey house at Golden Bay, near Mandurah, this afternoon.
+A Department of Fire and Emergency Services spokesperson said the blaze started inside the garage just before 4.30pm.
+Fire crews from Rockingham, Mandurah, Singleton and Secret Harbour tried to save the second storey of the Yanrey Street home as flames quickly spread through the roof.
+
+The fire was brought under control by 5.10pm with firefighters then entering the house to salvage what they could.
+It's believed the cause of the fire is accidental.
+A DFES spokesperson said no one was home at the time.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Golden Bay</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Secret Harbour</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Emergency Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandurah</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Yanrey Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>DFES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Fire</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockingham</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Singleton</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

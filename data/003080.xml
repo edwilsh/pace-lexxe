@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403427850677396</docid>
+  <date>31/07/2017</date>
+  <time>19:50</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/08/01/donald-trump-removes-anthony-scaramucci/</url>
+  <title>Donald Trump dumps communications boss Anthony Scaramucci</title>
+  <content>
+President Donald Trump has removed White House communications director Anthony Scaramucci just 10 days after appointing him.
+Mr Scaramucci is the latest in a string of high-profile departures from the White House.
+Chief of Staff Reince Priebus resigned late last week after a public falling out with Mr Scaramucci and was replaced by John Kelly, whose first day is Monday.
+US media have quoted White House sources as saying Mr Scaramucci was removed at the request of Mr Kelly.
+"Mr Scaramucci will be leaving his role as White House Communications Director," spokeswoman Sarah Sanders said in a statement Tuesday morning (AEST).
+"Mr Scaramucci felt it was best to give Chief of Staff John Kelly a clean slate and the ability to build his own team. We wish him all the best."
+Mr Scaramucci made a profanity-filled tirade against Mr Priebus last week, accusing him of leaking to the media.
+It was unclear whether Mr Scaramucci had been fired from the White House or simply removed from the communications position.
+Mr Scaramucci made his presence feld during his brief tenure at the White House, last week unleashing a profanity-filled tirade against his colleagues for leaking information to the media.
+Mr Scaramucci vowed to fire every White House communications staffer, after a The New Yorker reporter refused to reveal his source for a tweet that revealed Mr Scaramucci, Mr Trump and Fox News figures were having dinner at the White House last Thursday.
+"What I'm going to do is, I will eliminate everyone in the comms team and we'll start over," Mr Scaramucci told The New Yorker reporter.
+"I'm going to fire every one of them, and then you haven't protected anybody, so the entire place will be fired over the next two weeks.
+"I'll get to the person who leaked that to you ... I want to f-ing kill all the leakers and I want to get the President's agenda on track so we can succeed for the American people."
+Mr Scaramucci insisted current then-chief of staff Mr Priebus was behind the leak, labelling him as a "paranoid schizophrenic".
+"Reince Priebus - if you want to leak something - he'll be asked to resign very shortly," he said.
+"Reince is a f-ing paranoid schizophrenic, a paranoiac."
+The enraged communications director then targeted chief strategist Steve Bannon, saying unlike other Trump administration officials, he had no interest in media attention.
+"I'm not Steve Bannon, I'm not trying to suck my own --," Mr Scaramucci said, according to The New Yorker.
+"I'm not trying to build my own brand off the f-ing strength of the President. I'm here to serve the country."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Kelly</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>New Yorker</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fox News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>7</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Priebus</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>White House Communications Director</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Scaramucci</name>
+    <count>13</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Kelly</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chief of Staff</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Steve Bannon</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reince Priebus</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reince</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Scaramucci</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

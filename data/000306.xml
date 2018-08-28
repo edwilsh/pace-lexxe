@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398334019376169</docid>
+  <date>31/07/2017</date>
+  <time>00:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/07/a-hackers-guide-to-protecting-your-privacy-while-dating/</url>
+  <title>A Hacker's Guide To Protecting Your Privacy While Dating </title>
+  <content>
+Photo: Getty
+
+Love makes people do dumb stuff. But there are practical, easy steps we can take to maintain our privacy during romantic relationships, and changing one simple behaviour now could keep us safe later on if the relationship ends badly.
+
+While plenty of the tens of thousands of hackers who descend on Las Vegas every year for the security conference DEF CON are there to break shit, lots of them are there to play defence, too. Lauren Rucker, a risk analyst who has consulted for NASA, coached attendees on maintaining their privacy rights during relationships.
+
+"If you're living with someone or in a relationship or a marriage with someone, you are giving up a lot of your privacy rights because you're sharing a lot with that person anyway," Rucker said.
+
+Rucker recommends several basic steps for cyber hygiene while dating:
+
+1. Don't share your passwords or devices.
+
+Staying safe in relationships requires setting new norms of behaviour before the relationship turns sour, Rucker says. Many people share their Netflix or Amazon passwords with their partners, but doing so can cause legal entanglements later.
+
+Courts have sometimes viewed all passwords as equal, faulting a victim whose partner hacked her Facebook because she had shared an Amazon password with him. The court questioned whether one password could be considered private, given that she had shared other accounts, Rucker explained. "If you share an iCloud account and you're sharing pictures that way, you're sharing accounts in the eyes of the court," Rucker said.
+
+Sharing devices can also weaken your privacy rights if you end up in court. "You don't necessarily know how things will end and how they might go bad," Rucker said. Password-protect your laptop and encrypt your hard drive to make sure your data is safe. If you want to allow your partner to use your laptop, set up a separate account for them rather than letting them log into yours.
+
+2. Set up a Google Voice number to use for first dates.
+
+Most of us have gone on dates with strangers from the internet at some point. But even if you met your date IRL, it's a good idea to give them a Google Voice number when you start chatting, Rucker says. Google Voice lets users generate phone numbers for free and use them to set up other secure chat services like WhatsApp or Signal. A user can easily turn off her Google Voice number and get a new one if her date turns out to be a creep - and she won't have to go to the trouble of changing her real number and redistributing it to all her friends.
+
+3. Use a VPN on shared Wi-Fi networks, including your home network.
+
+Abusive spouses have been known to surveil their partners' online activity. While  - malware that sneakily harvests geolocation, texts, calls, and other information - is an issue, Rucker notes that abusive partners might also track what their significant other is doing on a shared home Wi-Fi network. Using a  at home can help keep browsing data private.
+
+4. If you're going to make a sex tape, do it consensually and privately.
+
+We've all heard stories of bitter exes  to get revenge on a partner. But that won't necessarily discourage people from taking nudes. Still, couples can make decisions that will help them preserve their privacy rights down the road, Rucker explained.
+
+She cites the example of a , in which a woman secretly filmed her husband in their home office. A New Jersey court found that the man did not have a reasonable expectation of privacy in the home office because the space was shared with the family. However, other courts have said that couples have a reasonable expectation of privacy in the bedroom and protected women who have been non-consensually filmed there by their partners. Picking the proper venue can protect you, Rucker explains. "If the area is visited by multiple parties, it's probably not a private place; it's not going to hold up in court," she said.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IRL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rucker</name>
+    <count>10</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VPN</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Lauren Rucker</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DEF CON</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iCloud</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Voice</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hacker's Guide To Protecting Your Privacy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Getty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

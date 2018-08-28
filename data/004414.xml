@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405613989067127</docid>
+  <date>01/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/crime-and-justice/drug-bust-at-rockhampton-mcdonalds-drivethru/news-story/9a92bd5ebd86e41b9f6e3e2d52155414</url>
+  <title>Drug bust at McDonald's drive-thru</title>
+  <content>
+TWO men have been busted with 5kg of ice at a McDonald's drive-thru in the central Queensland city of Rockhampton.
+Police nabbed the two men at the drive-through at 2.30am on Tuesday.
+The men has driven a Toyota Kluger through the drive-thru, on George St, where they were intercepted by police.
+A male driver and passenger were arrested at the scene.
+A 35-year-old Doolandella man and 37-year-old Eight Mile Plains man have been charged with drug related offences including possession of dangerous drugs, possess tainted property and contravene an order.
+The men have been charged and will appear in Rockhampton Magistrates Court on Wednesday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>McDonald</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Doolandella</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eight Mile Plains</name>
+    <count>1</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>George St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toyota Kluger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

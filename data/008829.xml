@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411240396332312</docid>
+  <date>02/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/police-allege-man-repeatedly-returned-to-car-after-being-caught-drug-driving-20170801-gxne67.html</url>
+  <title>Man 'caught drug driving three times in six hours': police</title>
+  <content>
+A man has been caught allegedly drug driving three times in less than six hours, after repeatedly returning to his car and trying to drive off, according to police.
+It would be alleged that the man was pulled over about 6.20pm on Saturday on the Logan Motorway at Carole Park in Ipswich, where he allegedly tested positive for drugs and was issued with a 24-hour driving suspension.Photo: Marina Neil
+Police said the man caught a taxi home, before catching another back to his vehicle, which was still sitting on the motorway.
+He was allegedly pulled over again by officers on Old Logan Road at Camira about 7pm, where he allegedly returned a second positive drug test and was issued with an immediate licence suspension at Yamanto Police Station.
+It would further be alleged that officers were staking out the man's car when he came walking along on Old Logan Road just before midnight and once again got into his car and started to drive away.
+Police said he was intercepted for a third time and returned a third positive drug test.
+A 46-year-old Redbank Plains man has been charged with three counts of driving with a relevant drug in his system, and one count each of driving whilst under a 24-hour suspension and driving under an immediate suspension of licence.
+He was due to appear in Ipswich Magistrates Court on September 19.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Carole Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Yamanto Police Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Camira</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina Neil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Logan Motorway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Old Logan Road</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Redbank Plains</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406348428486418</docid>
+  <date>01/08/2017</date>
+  <time>07:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/nsw-police-arrest-canberra-hospital-escapee-in-boorowa-20170801-gxn6vy.html</url>
+  <title>Canberra Hospital escapee arrested across the border</title>
+  <content>
+Police have arrested a 23-year-old man who escaped from  on Saturday night.
+Jonathon Hogan was in custody for charges related to property offences and resisting police.Photo: Supplied
+He had been taken to hospital after a court appearance and was last seen about 8.30pm on Saturday.
+He was arrested by NSW Police in the farming town of Boorowa on Tuesday afternoon, about 110 kilometres north of Canberra. 
+ACT Policing thanked NSW Police for their assistance as well as members of the public who reported sightings of Hogan.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jonathon Hogan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Policing</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Boorowa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hogan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

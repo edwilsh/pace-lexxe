@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403934656827696</docid>
+  <date>31/07/2017</date>
+  <time>21:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/07/44/lib-mp-slams-colleagues-pushing-gay-vote</url>
+  <title>Lib MP slams colleagues pushing gay vote</title>
+  <content>
+Turnbull government minister Zed Seselja has lashed calls for a parliamentary vote on gay marriage, insisting it's Labor policy.
+"I haven't heard why we should be, one year after the election which we won, adopting Labor's policy," the conservative frontbencher told ABC radio on Tuesday.
+Senator Seselja denied Prime Minister Malcolm Turnbull's leadership was under threat from a push by Liberal MPs pressing for a conscience vote to resolve the issue after the government's proposal for a plebiscite failed.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Prime Minister Malcolm Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Zed Seselja</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liberal MPs</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lib MP</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Senator Seselja</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

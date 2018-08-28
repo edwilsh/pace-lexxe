@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417553998375692</docid>
+  <date>03/08/2017</date>
+  <time>02:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/one-critical-after-melbourne-plane-crash/news-story/57fac278abe2a683a6254e1a56d295af</url>
+  <title>Man freed after Melbourne plane crash</title>
+  <content>
+A trainee pilot and instructor have been seriously injured when their light plane ditched into a paddock southeast of Melbourne.
+Ambulance Victoria says the aircraft crashed at Clyde North about 10.40am on Thursday, with one person flown to Royal Melbourne Hospital in a critical condition.
+A man believed to be in his 20s was freed from the two-seater training plane and taken to The Alfred Hospital with facial, chest and spinal injuries in a serious but stable condition.
+Civil Aviation Safety Authority spokesman Peter Gibson says the ultralight, two-seater plane was on a training flight when it crashed.
+"It was on a dual training flight with an instructor and a student on board," Mr Gibson said.
+The plane broadcast a mayday message before crashing into a paddock on Hardys Road, the CASA spokesman said.
+The aircraft was registered to the Learn to Fly Melbourne school based at Moorabbin Airport.
+Police and firefighters remain at the crash site.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Peter Gibson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clyde North</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Gibson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hardys Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fly Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Civil Aviation Safety Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CASA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ambulance Victoria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Royal Melbourne Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alfred Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

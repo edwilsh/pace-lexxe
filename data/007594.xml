@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411158791952613</docid>
+  <date>02/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/health/resmed-pushes-through-us2b-in-2017-sales-20170801-gxmyjk</url>
+  <title>ResMed pushes through $US2b in 2017 sales</title>
+  <content>
+ResMed pushed through the $US2 billion mark for sales in 2017, with the result fuelled by sales of its devices, masks, and software as a service revenue from its health IT Brightree business which it purchased last year.
+The dual-listed $13.7 billion San Diego-based company develops, manufactures, and markets medical equipment for the treatment of sleep disordered breathing, such as sleep apnoea.
+It is changing from a medial device maker to a "software as a service" company, which means patients are not only using ResMed products but also tapping into its software. It has more than three million patients remotely monitored every day through its cloud-based application.
+Such "connected care" allows patients to better monitor their health and along with smartphone apps like ResMed's MyAir has helped to improve adherence to treatment schedules from 60 per cent to 80 per cent in the past three to four years.
+
+Revenue for the fiscal year increased 12 per cent over the prior year to $US2.066 billion, or a 13 per cent increase on a constant currency basis. Revenue for the full year was tipped to be just over $US2 billion.
+
+Fourth quarter revenue was $US556.7 million, a 7 per cent increase compared to the same period of the prior year.
+Excluding the contribution from the  revenue was $US520.5 million, a 6 per cent increase. Consensus net revenue was $US554 million for the period.
+Non-GAAP net income was $US109.6 million, a 5 per cent increase compared to the prior year. (Non-GAAP measures adjust for amortisation of acquired intangibles, the one-time deferred revenue fair value adjustment, the SERVE-HF accrual release and acquisition related expenses.)
+Chief executive Mick Farrell said during the quarter the group made two acquisitions to augment the Brightree solutions.
+
+"We presented and published results from clinical studies in sleep and COPD, and we launched two new products: AirTouch - the softest CPAP mask from ResMed and AirMini - the world's smallest CPAP," he said.
+Since its launch in mid-May, Mr Farrell said the travel AirMini has gained traction as a secondary use product.
+A quarterly dividend was increased by 6 per cent to 35¢ per share and payable September 21. ResMed said it would restart its suspended share buyback program in the second quarter.
+Yarra Capital portfolio manager Katie Hudson said while mask growth was disappointing in the last quarter of the year, that issue appears to be fixed.
+
+"Mask sales growth was a little disappointing compared to expectations due to supply constraints and manufacturing issues. "What's important now is those constraints appear to have been worked through" she said.
+Ms Hudson added ResMed will be facing an uphill battle given the currency upswing over the past month but mask sales will help offset the stronger local dollar.
+"Mask sales are materially higher gross margin than flow generators, as mask growth rates improve into FY2018 that should be supportive of gross margins. The offset to that will be the headwinds from the current move by the dollar," she said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ms Hudson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brightree</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>COPD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CPAP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US554</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Katie Hudson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AirMini</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US109.6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>US2.066</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FY 2018</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>GAAP</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AirTouch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San-Diego-based</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ResMed's MyAir</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>SERVE-HF</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US520.5</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SEPTEMBER 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US556.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Resmed</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Capital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Farrell</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mick Farrell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

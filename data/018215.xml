@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430224152118478</docid>
+  <date>05/08/2017</date>
+  <time>03:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/police-appealing-for-public-help-after-gold-coast-classrooms-damaged-by-fire-20170805-gxq000.html</url>
+  <title>Gold Coast primary schools damaged by arson attacks</title>
+  <content>
+Two separate fires at Gold Coast primary schools this week have been declared as suspicious by police.
+Initial investigations suggest that in both cases, flammable material was pushed under classroom doors and set alight.Photo: Morten Boe
+The first suspected arson attack happened on Wednesday at Miami State School on Oceanic Drive at Mermaid Waters.
+Emergency services were called about 7.20pm and extinguished a small fire in one of the classrooms, which caused only minor damage.
+On Friday, a second fire broke out at St Vincent's Primary School on Fairway Drive at Clear Island Waters.
+Emergency services responded about 9.15pm and once again found a small fire inside one of the classrooms, which was quickly extinguished and did not cause any structural damage.
+However, both fires did cause some smoke damage to the classrooms.
+Anyone with information about the incidents or who may have witnessed anything suspicious is asked to contact police.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Vincent's Primary School</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Miami State School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairway Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clear Island Waters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Mermaid Waters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oceanic Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morten Boe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

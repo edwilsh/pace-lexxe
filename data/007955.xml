@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411373540320824</docid>
+  <date>02/08/2017</date>
+  <time>02:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/six-arrested-after-melbourne-siege/news-story/b58f8a97b45d7a6b0b14af8a429e3b28</url>
+  <title>Six arrested after Melbourne siege</title>
+  <content>
+Six people have been arrested after a five-hour standoff with police in Melbourne.
+Specialist police were called to a unit in Boronia at 5am on Wednesday after an alleged assault, and they remained on the scene until 10am, when five men and a woman were arrested without incident.
+A two-year-old boy and four-year-old girl, as well as a gun, were found inside the property, police say.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boronia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

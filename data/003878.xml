@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404020556175164</docid>
+  <date>31/07/2017</date>
+  <time>22:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/boost-payment-rush-pushes-up-new-home-sales/news-story/a06849a16a5ffb54fb7d7a165104219f</url>
+  <title>New home sales get big boost</title>
+  <content>
+A LATE scramble to get the $5000 first home buyer boost grant before it expired last month helped increase new home sales by more than a 20 per cent,  new statistics show.
+The Housing Industry Association said there was a 21.1 per cent increase in the people agreeing to build new homes in WA in June.
+HIA senior economist Shane Garrett said the uptick was part of a bigger trend - with sales up 2.1 per cent on 12 months earlier - but he attributed some of the increase to the rush to take advantage of the boost payment.
+The $5000 boost was available to eligible first home buyers who entered into a contract between January 1 and June 30 this year to purchase or construct a new home, and those who started laying foundations of their home in that time.
+It has now dropped back to $10,000.
+Prominent builder Dale Alcock said the market had returned to normal in July after the June rush, which saw his building group sign about 20 per cent more contracts.
+Mr Alcock called on the government to maintain the grant for new homes, claiming the sector helped buoy jobs whereas established properties did not support employment.
+Impressions sale manager Rhys Watters said sales with his group had dropped as much as 80 per cent in the first home buyer market in July, after a 20 - 25 per cent jump in June.
+Mr Watters said some buyers made decisions over 48 hours in a bid to get the boost grant, well below the traditional three week decision period.
+The rush had put pressure on the firm to create contracts within days - instead of weeks.
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Housing Industry Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HIA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dale Alcock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Watters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shane Garrett</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Alcock</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Rhys Watters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

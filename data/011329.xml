@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417171746280152</docid>
+  <date>03/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/10/57/man-critically-after-bathurst-assault</url>
+  <title>Man critical after Bathurst assault</title>
+  <content>
+A man has suffered head, abdomen and leg injuries in a vicious assault at a home in central west NSW.
+Police found the 48-year-old when they arrived on the scene in Bathurst on Wednesday night.
+He was initially taken to Bathurst Hospital, but later airlifted to a hospital in Sydney in a critical condition.
+Police are investigating what happened to the man, and believe the incident occurred sometime between 3pm and 5pm.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bathurst</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bathurst Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

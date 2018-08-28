@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417949135372433</docid>
+  <date>03/08/2017</date>
+  <time>04:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/keep-your-ageing-mac-mini-alive-with-a-few-clever-upgrades/</url>
+  <title>Keep Your Ageing Mac Mini Alive With A Few Clever Upgrades</title>
+  <content>
+The Mac mini's latest release was over 1000 days ago. That's over two years since the incredibly small and lovable machine got some love, and aeons in the PC industry when it comes to updates. If you have your own Mac mini you adore and want to keep alive, a little know-how, some extra components and a few dongles are all you need to keep it up and running until the next Mac mini debuts... whenever it damn well pleases, really.
+
+Image credit: Yuya Tamai/
+
+Get Your Tools First
+
+Since Apple itself doesn't perform after-market upgrades on hardware older than five years, you may have to either do the work yourself, or take your device to an authorised Apple Authorised Service Provider.
+
+Opening up your Mac mini to make some repairs requires specialised equipment. You'll need Hex screwdrivers, two different Torx screwdrivers, and some other ancillary tools required to separate components adhered to one another. Different era Mac minis require different screws, so before you buy your components, check out what tools you'll need.  list you'll need to take apart whatever model of Mac mini you have.
+
+Hard Drive
+
+with a solid-state drive (SSD) is like going from a petrol-powered automobile to an electric car. Spinning disks take longer to do basically everything, including boot up, search for files, and transfer data.
+
+SSDs are more expensive than hard disk drives, but prices have fallen dramatically since your Mac mini debuted. And replacing your Mac mini's hard disk with an SSD can , and greatly improve performance in apps such as Photoshop. If you're looking to make an upgrade for performance's sake, an SSD provides the most bang for your buck. Apple Authorised Service Providers can take care of upgrades like this, so if you're nervous just find a repair centre in your area.
+
+RAM
+
+The amount of RAM you have is the difference between bouncing around your web browser's dozens of tabs easily or having to waste precious time pinwheeling in between each tab.  is always a good idea, and will keep your machine moving fast while you're working on multiple projects.
+
+You should add the maximum amount of RAM you can to your Mac mini, which is 16GB if you're doing it yourself. You can purchase RAM from dedicated Mac component suppliers, and depending on your Mac mini's age, you'll need to buy a particular type of "SO-DIMM" RAM that is compatible with your machine. You can find out which RAM to purchase from sites such as  or .
+
+Connectivity
+
+Your old Mac mini probably can't take advantage of the advances in wireless tech as of late. Dual-band connections, the faster 802.11ac format, and advanced Bluetooth connectivity aren't in the older models, after all. But adding some USB adapters can help ease the transition and unlock new features while you wait to upgrade.
+
+You can add Wi-Fi capabilities via a , like the ones often found wireless mice. As for Bluetooth, certain features such as Continuity and AirDrop require Bluetooth 4.0 LE (Low Energy), a hardware feature not found in older Mac mini desktops. But with a USB Bluetooth 4.0 LE adaptor, and , you can add newer features to your older Mac without too much frustration.
+
+Some Upgrade Issues
+
+Apple's devices are more and more difficult to repair yourself. Some parts of the latest Mac mini are essentially upgrade-proof. The 2014 edition, for example, has its RAM soldered directly on the logic board, meaning you're stuck with the same amount of RAM from the jump. Whenever you can, you should upgrade non-removable components to ensure you'll have as much power and performance you need, especially when the work you do will eventually demand more.
+
+WATCH MORE: Tech News & Life Hacks
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mac</name>
+    <count>15</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>GB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Authorised Service Provider</name>
+    <count>2</count>
+    <score>2.8</score>
+  </sindex>
+  <sindex>
+    <name>Upgrade Issues</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tools First</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yuya Tamai</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Torx</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HEX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluetooth 4.0 LE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>USB Bluetooth 4.0 LE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SSD</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SSDs</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rams</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bluetooth</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>DIMM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ageing Mac Mini Alive With A Few Clever Upgrades</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Low Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Life Hacks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photoshop</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

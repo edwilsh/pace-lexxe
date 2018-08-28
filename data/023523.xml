@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443538550868009</docid>
+  <date>07/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4838263/uni-says-35-million-in-cuts-just-the-start/?cs=305</url>
+  <title>Uni says $35 million in cuts just the start</title>
+  <content>
+'REALLY, REALLY TOUGH ON UNIVERSITIES': University of Newcastle Vice-Chancellor Caroline McMillen supports calls to scrap a proposed efficiency dividend on universities. Picture: Wayne Taylor
+
+THE University of Newcastle faces a $35 million funding cut in the next four years under the Turnbull government's higher education reforms, and says it stands to lose three times that amount over a decade.
+A new "efficiency dividend" will cause the university to miss out on at least $100 million between 2019 and 2029 if the government's reforms pass Parliament, the university told a Senate inquiry.
+
+And as an early wound from the cuts, Newcastle would lose $35.5 million in base funding between 2018 and 2021, with only the universities of Western Sydney, Sydney and NSW faring worse in the state.
+"This is really, really tough on universities," University of Newcastle Vice-Chancellor Caroline McMillen said.
+"We've already contributed to the fiscal efficiencies of the government. You can't continue on that basis."
+The government's higher education package, announced in May alongside the "Gonski 2.0" school funding changes, would impose the efficiency dividend on universities, increase student fees by 7.5 per cent and squeeze the HECS repayment threshold from $55,874 to $42,000.
+
+In selling the proposals to the electorate, federal Education Minister Simon Birmingham has argued that taxpayer funding for universities "has been a river of gold", growing at twice the rate of the economy for almost a decade.
+In its submission to the Senate inquiry, the University of Newcastle called for the efficiency dividend to be scrapped and the student fee increase withheld, pending further consultation with the universities and taking into account their "different missions and demographic profiles". 
+Newcastle caters to the sixth-most low socio-economic students of any Australian university per capita, it said in its Senate submission, and half of those are the first member of their family to attend university.
+Indigenous students make up 3.6 per cent of Newcastle enrolments, with the "milestone" of 1000 Indigenous students reached for the first time last year.
+"UoN is disappointed that the government has chosen to place this record of performance at risk by proceeding with further cuts to university funding," the university's submission says.
+
+"This will force UoN to consider whether it can continue to offer a comprehensive mix of academic programs with the same level of engagement and support." 
+
+The university has a 5.2 per cent operating surplus. In May, Professor McMillen defended a decision to shed 30 jobs over two years from non-academic areas such as human resources and finance.
+</content>
+  <sindexList>
+  <sindex>
+    <name>HECS</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Professor McMillen</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UON</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Senate</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vice-Chancellor Caroline McMillen</name>
+    <count>2</count>
+    <score>-0.75</score>
+  </sindex>
+  <sindex>
+    <name>Western Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>REALLY TOUGH ON UNIVERSITIES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gonski 2.0</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wayne Taylor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>University of Newcastle</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indigenous</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Education Minister Simon Birmingham</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

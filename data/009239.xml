@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413387880016544</docid>
+  <date>02/08/2017</date>
+  <time>10:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/waterspout-forces-family-car-off-road/news-story/147db8c737f1ce8623c17a379405eb2a</url>
+  <title>"It was straight out of the movie Twister'</title>
+  <content>
+A KARRINYUP family has described the moment a freak water spout lifted their car in the middle of a Perth highway.
+The Jonasson family was driving on West Coast Highway when the spout hit.
+"We just saw this stuff flying through the air, and then the tree, and just a tube flying through the air," Louise Jonasson said.
+"We thought 'what are we going to go, where are we going to go?'
+Mrs Jonasson said the ordeal was like something straight out of the movie Twister.
+"My husband braced and I grabbed him and I screamed," she said.
+"It seemed like it went on for minutes but it was over in 30 seconds."
+The force of the water spout pushed the family's two-tonne car into the median strip.
+"It was pretty scary not knowing whether something was going to come in the window or whether it would be so strong it could lift the car."
+Luckily for the couple and their 11-year-old son, they came through the winter ordeal unscathed.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Jonasson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Coast Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karrinyup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mrs Jonasson</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Louise Jonasson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

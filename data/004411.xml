@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405223147037914</docid>
+  <date>01/08/2017</date>
+  <time>02:48</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/wa-police-create-street-disco-for-children-in-wyndham/news-story/e625765c220418673fd0a5cb10e32171</url>
+  <title>Tripping the Wyndham light fantastic</title>
+  <content>
+POLICE have created a street dance party for children in Wyndham - and one boy has made the stage his own, becoming a social media sensation.
+As 'Strip that Down' by Liam Payne blared out of the speakers, officers turned their emergency lights on, turning a Wyndham street into a disco dance floor.
+Several children took the chance to pull out their best dance moves but one oozed cool with his moves - and his sunglasses.
+WA Police captioned the post on : "The moment Wyndham Police use the emergency lights to create a street dance party for the local kids.  "
+Check out his dance moves in the video above.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wyndham</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wyndham Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Liam Payne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

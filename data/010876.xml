@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417047192226752</docid>
+  <date>03/08/2017</date>
+  <time>00:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/killer-has-appeal-dismissed/news-story/4c35cc55a166d13b44103d435b3bfcd3</url>
+  <title>Killer has appeal dismissed</title>
+  <content>
+A man who killed a Sydney sex worker by slitting her throat and bashing her with her own stiletto has lost a bid to have his conviction overturned.
+Chungaung Piao was found guilty of murdering Tina Fang, whose body was left in a room at Adelaide's Grand Chancellor Hotel on New Year's Day, 2015.
+The South Australian Court of Criminal appeal unanimously rejected his bid to overturn the conviction on Thursday ordering Piao continue to serve his minimum 25-year jail sentence.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tina Fang</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Chungaung Piao</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide's Grand Chancellor Hotel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Piao</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New Year's Day</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Court of Criminal</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

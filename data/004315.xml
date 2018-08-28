@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405360585993424</docid>
+  <date>01/08/2017</date>
+  <time>03:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/13/11/nsw-sushi-operator-underpaid-workers-fwo</url>
+  <title>NSW sushi operator underpaid workers: FWO</title>
+  <content>
+Three Tokyo Sushi outlets allegedly underpaid 31 vulnerable workers more than $70,000 in the Newcastle and Central Coast regions of NSW.
+The Fair Work Ombudsman has commenced legal action against Kiyoshi Hasegawa who operates the sushi outlets, as well as two companies of which Ms Hasegaway and her husband are the sole directors.
+Eight of the workers who were allegedly underpaid in 2016 are juniors.
+"Young workers and workers from migrant backgrounds can be more vulnerable to exploitation as they are often reluctant to complain or are less aware of their rights," Fair Work Ombudsman Natalie James said in a statement on Tuesday.
+"My agency is committed to sending a message to all business operators that anyone who attempts to capitalise on these vulnerabilities can expect to face serious enforcement action."
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tokyo Sushi</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Central Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Work Ombudsman Natalie James</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Hasegaway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fair Work Ombudsman</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kiyoshi Hasegawa</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FWO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

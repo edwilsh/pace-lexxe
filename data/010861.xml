@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417038602292008</docid>
+  <date>03/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/10/36/hobart-man-charged-over-cannabis-raids</url>
+  <title>Hobart man charged over cannabis raids</title>
+  <content>
+A Hobart man has been charged with drug trafficking after police uncovered two "sophisticated" hydroponic cannabis set ups.
+Officers raided a pair of Glenorchy houses owned by the 41-year-old on Wednesday, and allegedly found 72 cannabis plants and eight kilograms of the drug worth $520,000.
+He is due to face court on September 11.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hobart</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenorchy</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

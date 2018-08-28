@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415449464363453</docid>
+  <date>02/08/2017</date>
+  <time>18:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/leadership/entrepreneur/postit-notes-get-reinvented-by-uts-hatchery-startup-wallsync-20170801-gxmsly</url>
+  <title>Post-it note reinvented by Sydney start-up</title>
+  <content>
+The momentum produced by a brainstorming session with Post-it notes can be lost just as quickly in the chore of transcribing them into a project management program - but a Sydney start-up claims it has the solution.
+WallSync, a , has produced a software-as-a-service product that uses augmented reality to maintain a link between a physical wall of Post-it notes, and the images of them taken by users' smartphone cameras.
+Those photographs have the handwriting in them recognised and converted into a text note in the project management program being used by the team.
+"Once that link is established, the physical note and the digital note are kept together," said Geoff Bullen, who co-founded WallSync with brother Alex.
+
+Daniel Munoz
+
+"If you move the paper note on the wall, you just need to take another photograph and the note gets reassigned in the project management system too".
+
+The Bullen brothers previously ran an IT consultancy and often found themselves or one of their senior staff typing up and organising the post-it notes created by a strategy session.
+"At $1000 a day it wasn't a very efficient use of our time," he said.
+Augmented reality is used to add perspective to the Post-it notes captured inside WallSync, Mr Bullen claimed. For instance a note appears to be on fire if the deadline for the action it describes is looming, while changes in assignee can also be overlaid.
+"And if someone else needs the wall that the paper notes were on, a record of them remains that can be searched and re-categorised as the project continues," Mr Bullen said.
+
+More integrations on the way
+
+Atlassian's flagship, JIRA, is the only project management program that WallSync integrates with to date, but Mr Bullen said integrations with Trello, now , and Asana were on the way.
+The Bullen brothers were previously heavy users of JIRA at their IT consultancy Centrum, which they  to ASX-listed managed services provider RXP for $4.15 million in October 2014.
+WallSync is  to digitise Post-it notes but Mr Bullen hoped its augmented reality features would prove a differentiator.
+
+He admitted the problem WallSync solved was "niche", but important all the same.
+"Nothing beats the collaboration benefits of a group of people sitting together, communicating with each other and getting ideas down with pen on paper," Mr Bullen said.
+"Computer interfaces are designed for one person interacting with a monitor, so as soon as you introduce that to a group situation, people stop paying attention to each other. We're trying to combine the best of both worlds."
+Learning while working
+
+Mr Bullen is completing an , and said running a start-up at the same time had helped him get the most out of the course.
+"I've found the mentors helpful, they'll come in occasionally and ask the most pertinent question - like why don't you have a customer yet?" he said.
+Mr Bullen said 80 teams had applied to beta-test WallSync, which will be officially launched at Atlassian's user summit in San Jose on September 12.
+Meanwhile discussions with potential investors had been sparked by WallSync's victory at Hatchery's demo day last month, which included a $5000 prize, Mr Bullen said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Trello</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Post-it</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Atlassian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SAN JOSE</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bullen</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WallSync</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>JIRA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 2014</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Munoz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Centra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RXP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Bullen</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Geoff Bullen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 12</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

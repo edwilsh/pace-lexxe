@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399515135398272</docid>
+  <date>31/07/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/higher-education/skill-sets-mask-training-decline/news-story/ccc306d3e72fe8747f6161f806959052</url>
+  <title>Skill sets mask training decline</title>
+  <content>
+A shift to short courses in the nation's biggest state has masked the decline of training across Australia, and inflated signs of a TAFE revival.
+A new has found that vocational education student numbers grew by 2.4 per cent in the first quarter of 2017, defying a trend of plunging numbers on the back of subterranean government funding.
+The report, by the National Centre for Vocational Education Research, says student numbers were up by more than 15,000 compared to the first three months of 2016. This helped give TAFE a 61.9 per cent share of government-funded students - a market leadership position unfamiliar in recent times - with TAFE student numbers rising 7.5 per cent, while private colleges suffered a 5.7 per cent fall.
+However, the increase largely evaporates if students of "skill sets" - components of courses that do not lead to qualifications in their own right - are removed from the picture.
+The report tallies 27,500 skill set students in the first quarter of 2017, a 10 per cent increase over the equivalent period of 2016 and a 143 per cent jump on 2015 figures.
+Almost all of this training was in NSW, where TAFE boss Jon Black has promoted skill sets as a means of meeting employers' desires for narrowly focused skills. NSW had about 19 times as many skill set students as the other states and territories combined.
+The report found that NSW had a 34.9 per cent share of government-funded students around the country, on the back of a 12.3 per cent surge this year. However, the proportion drops to 32.2 per cent if skill sets are disregarded.
+Outside NSW, student numbers fell 2.2 per cent this year and 3.4 per cent compared to 2015. The biggest falls this year were declines of 7000 in South Australia - an 18.7 per cent plunge - and 3400 in Victoria. However, Queensland student numbers rose by more than 6000 for the second year running.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jon Black</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vocational Education Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TAFE</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

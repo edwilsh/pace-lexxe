@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406773630257177</docid>
+  <date>01/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/mining/coal/baseload-coal-to-become-liability-expert-20170801-gxn5zy</url>
+  <title>Baseload coal to become 'liability': expert </title>
+  <content>
+Baseload coal power will gradually become a liability in Australia as further dramatic declines in renewable energy costs drive demand for more flexible power supply, according to Kobad Bhavnagri at Bloomberg New Energy Finance.
+Mr Bhavnagri said coal faces "an inevitable decline" in Australia's power system, as it got undercut by solar and as rising costs due to the need for more flexible supply chased coal plants out of the market.
+Speaking at a briefing in Sydney, he took issue with assumptions in the Finkel report on energy security about the longevity of coal power, saying
+Those cost declines mean it will "soon" be cheaper to build new renewables than it is to refurbish an existing coal plant even if that existing plant is fully depreciated, he said.
+
+It will be "cheaper to build a new solar farm than it is to shovel coal into a boiler of an existing power station, and that's a remarkable conclusion and one that is going to have a profound impact," Mr Bhavnagri told the briefing in Sydney on the local implications of
+
+coal still accounts for 57 per cent of the country's generation mix by 2030, and 19 per cent by 2050.
+But BNEF anticipates a much faster dwindling of coal power even without any policy changes. It estimates that only three of Australia's 21 coal-fired power stations will have their lives partially extended while the other 18 will shut down.
+That means only 2 gigawatts of coal power would continue past their existing technical life, a reduction in the 5GW forecast in BNEF's 2016 outlook.
+Those remaining stations would be enough to cover the minimum power load, with flexible technologies such as gas and pumped hydro providing the "glue" to meet demand at other times, along with newer technologies such as battery storage and demand response.
+
+"The lesson from looking at how dispatch looks in the future is that baseload is actually a liability: It is not the great virtue that some would have you believe," Mr Bhavnagri said, dismissing arguments made by some Coalition politicians for more coal power.
+"The idea of baseload is an idea of the past."
+Extra technical demands
+
+BNEF says the inflexibility of coal power - where plants need to operate at more than 50 per cent of output and don't like ramping up or down - will be its downfall.
+
+While that inflexibility isn't so much of an issue at present it will increasingly become so, putting extra technical demands on coal generators and so increasing costs and causing them to exit.
+"We still find that although there's a whole bunch of coal plants that are physically suited to go on, the economics just don't support it," Mr Bhavnagri said, while acknowledging that government subsidies to refurbish plants or prolong their life could alter that picture.
+Meanwhile, he rubbished the idea that ultra-supercritical coal power, held up by the government and the  as a source for future energy supply, could compete on costs.
+"Only in an imaginary world ... is coal cheap," he said.
+
+"You have to make fairly outrageous assumptions that are just divorced from reality if you talk to a banker or if you talk to an investor ... to say that you can achieve the sort of costs that coal historically used to."
+In reality, financing a new coal plant is expensive because of regulatory, reputational and return risks, while even ultra-supercritical coal is still "not clean". he said.
+BNEF expects 76 per cent of the $US88 billion ($110 billion) of investment expected in Australia's power generation infrastructure by 2040 will go on renewables, with much smaller amounts on gas power and extending the life of coal power.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australia's 21</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kobad Bhavnagri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Finkel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>BNEF's 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Bhavnagri</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg New Energy Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BNEF</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US88</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

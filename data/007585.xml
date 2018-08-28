@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411154496985261</docid>
+  <date>02/08/2017</date>
+  <time>01:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4828483/newcastle-council-fined-over-landfill-fire/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Newcastle Council fined over landfill fire</title>
+  <content>
+FINE: A fire at the Summerhill Waste Management Centre has cost Newcastle City Council $8000. PICTURE: Ryan Osland
+
+THE state's environment watchdog has fined Newcastle City Council for a delay in reporting a landfill fire at Wallsend earlier this year.
+
+The Environment Protection Authority fined the council $8000 for waiting about 14 hours before notifying it when mattresses caught fire on the landfill cell at the Summerhill Waste Management Centre in Wallsend.
+The EPA said the fire in the mattress stockpile was discovered at about 7.30pm on January 16 but that it was not notified until 10am the following day.
+
+The fire was believed to have started through self-combustion. Fire and Rescue NSW brought the blaze under control, but hot and windy conditions - up to 37 degrees Celsius and 44 kilometre per hour winds - meant the fire re-ignited on January 18.
+
+Nine firefighting units and two firefighting aircraft were required to extinguish the blaze.
+EPA Acting Waste Compliance Manager Steven James said the council's failure to notify it about the fire "could have put the local environment and community at risk". 
+"Council should have notified the EPA of the incident immediately," he said.
+
+"The delay in notifying the EPA on this occasion meant there was a breakdown in assessing the environmental impacts and informing local residents and businesses.
+"Not only was there damage to the facility, including burnt trees, pipes and the mattress shredder, but the significant amount of smoke and firewater runoff could have put the local environment and community at risk.
+"The EPA should be alerted to these incidents immediately so we can take appropriate action to make sure these risks are minimised and potential impacts are communicated."
+
+Newcastle City Council has been contacted for comment. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newcastle City Council</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 18</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle City Council $8000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan Osland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPA Acting Waste Compliance Manager Steven James</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Council</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Wallsend</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Environment Protection Authority</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rescue NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Summerhill Waste Management Centre</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>EPA</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Celsius</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424782428467828</docid>
+  <date>04/08/2017</date>
+  <time>06:42</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/melbourne-tram-stabber-still-on-the-loose/news-story/28cf41ba68beea98ed1f4fccaa6c7117</url>
+  <title>Melbourne tram stabber still on the loose</title>
+  <content>
+Investigators are still searching for a man who stabbed two Melbourne tram passengers.
+The pair in their 20s needed hospital treatment after last Friday's stabbing on a Footscray tram and detectives are seeking a man of African appearance who at the time wore a dark overcoat, beanie and scarf.
+Three days after the incident officers arrested a 56-year-old man in connection with the stabbing but he has since been released without charge.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Footscray</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

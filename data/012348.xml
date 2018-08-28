@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417433739289128</docid>
+  <date>03/08/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/12/04/dog-that-killed-perth-woman-to-be-put-down</url>
+  <title>Dog that killed Perth woman to be put down</title>
+  <content>
+A dog that attacked and killed its owner Perth woman Sue Lopicich will be put down on Thursday, police said.
+The bull mastiff cross, registered to boarding kennel owner Ms Lopicich, was seized by rangers after the 58-year-old was found dead at her Southern River home on Tuesday afternoon.
+Police say the death is not being treated as suspicious and they are preparing a report for the coroner.
+Ms Lopicich was walking several dogs on her property, which doubled as Barko's Boarding Kennels, when the attack occurred.
+City of Gosnells rangers were called to help contain the dog after police were unable to reach the woman's body.
+Council spokesman Grant Bradbrook said the rangers had been provided counselling.
+"It wasn't a nice job to have to attend, so they're being supported," he said.
+
+Related Articles
+
+Rangers seized two adult male dogs, a bull mastiff and Staffordshire bull terrier, which are microchipped and registered to Ms Lopicich.
+The city says there had not been any complaints about the dogs.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Barko's Boarding Kennel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Staffordshire</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-13</score>
+  </sindex>
+  <sindex>
+    <name>Grant Bradbrook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sue Lopicich</name>
+    <count>1</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Ms Lopicich</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

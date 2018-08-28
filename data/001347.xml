@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399562380039064</docid>
+  <date>31/07/2017</date>
+  <time>04:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north-west/renewed-call-to-fix-tullamarine-intersection-death-trap/news-story/1c9317f7e67d9081330b4c7e11961250</url>
+  <title>Renewed call to fix intersection 'death trap'</title>
+  <content>
+A  CAR ploughing through his front yard within metres of his home was the last straw for Greg Failla.
+Mr Failla says the corner of Broadmeadows and Sharps roads in Tullamarine is a death trap and must be urgently fixed.
+He said he was "sick and tired" of cars speeding along Sharps Rd and drivers screeching their tyres after turning left into the street from Broadmeadows Rd to perform a U-turn. There is no right-hand turn option on Broadmeadows Rd at the intersection.
+Residents have been calling for change since being featured in the Leader last year.
+In the latest incident a vehicle knocked over Mr Failla's brick letterbox.
+He said residents wanted the speed limit on Sharps Rd lowered from 70km/h to 50km/h, speed cameras and a right-hand turning lane on Broadmeadows Rd at the intersection of Sharps Rd.
+Hume sustainable infrastructure and services director Peter Waite said the council had consulted with the community and police and its traffic engineers found that motorists could safely perform a U-turn at the traffic lights just 140m east of the intersection.
+VicRoads metro north west regional director Vince Punaro said the current speed limit on Sharps Rd was appropriate.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sharps Rd</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Failla</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>U-turn</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Waite</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tullamarine</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Vince Punaro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Failla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hume</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>VicRoads</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Broadmeadows</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Broadmeadows Rd</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399601034745113</docid>
+  <date>31/07/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4823682/two-car-crash-at-neath/?cs=305</url>
+  <title>Two-car crash at Neath</title>
+  <content>
+A TWO-CAR crash has closed Cessnock Road at Neath.
+Emergency services were called to the scene on Cessnock Road, near Fisher Street, shortly before 2.15pm.
+Two patients were treated by paramedics, but there were no major injuries.
+The Transport Management Centre said there were local diversions in place.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Fisher Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Transport Management Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TWO-CAR</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cessnock Road</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

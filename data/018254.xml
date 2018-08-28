@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429798950352573</docid>
+  <date>05/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/major-rise-online-child-exploitation-rates-alarmin/3209152/</url>
+  <title>Major rise in online child exploitation rates alarming</title>
+  <content>
+AUSTRALIAN police are experiencing a "tsunami" of reports of online child sex exploitation, including hundreds of thousands of images and videos of children, as young as babies, being sexually abused and tortured.
+
+But jail terms for those involved in the depraved behaviour are not keeping pace with the crimes they are committing,
+
+The startling figures, from the Australian Federal Police, come as research reveals that on average, online paedophiles convicted under Commonwealth laws get only two to three years in jail. This is despite the maximum available sentence being 15 years.
+
+As of yesterday, the AFP had received 5700 reports of child exploitation so far this year. In the whole of 2016 there were 8000 reports and this years figures are up from 3500 reports in 2013 and 4500 in 2014.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

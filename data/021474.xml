@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441227858431169</docid>
+  <date>06/08/2017</date>
+  <time>22:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Broker</source>
+  <url>http://www.brokernews.com.au/news/breaking-news/total-building-approvals-up-in-june-239572.aspx</url>
+  <title>Total building approvals up in June</title>
+  <content>
+The uneven results in monthly building approvals data continues, with total dwelling approvals up by 10.9% in June, according to Master Builders Australia.
+However, the longer term trend shows sustained weakness, with total approvals down by 2.3% over the year to June, particularly for apartments, according to , national manager of economics and housing for Master Builders Australia.
+"Given the boom in apartment construction in the past couple of years, it is to be expected that the fall in approvals is predominantly coming from this segment of the market," he said.
+Approvals for apartments and townhouses declined by 6.6% over the year to June, while approvals for detached housing increased by 1.4%.
+"[This result is] in line with Master Builders forecast outlook for a fall in apartment commencements over the next four years," Pollock said. "But there remains a housing shortage in Australia of around 100,000 dwellings and it would be concerning if the current weakness in approvals turns into low housing commencements leading to supply constraints that can push up house prices," he added.
+Due to population growth and other factors, the nation needs to build at least 180,000 new homes each year for the next five years to ensure that supply meets demand, Pollock said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Master Builders Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Master Builder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pollock</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

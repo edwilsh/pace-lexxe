@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399124293369592</docid>
+  <date>31/07/2017</date>
+  <time>03:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/13/07/free-healthcare-for-asylum-seekers-in-qld</url>
+  <title>Free healthcare for asylum seekers in Qld</title>
+  <content>
+The Queensland government has reintroduced a policy to provide free health care to asylum seekers who are ineligible for Medicare.
+Health Minister Cameron Dick has reinstated a 2006 policy that was discontinued under the Newman government's hospital and health services reforms.
+"Estimates put it at a few hundred people, so the costs of providing them with access to care are quite modest compared with the health, social and community benefits to be gained," Mr Dick said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Health Minister Cameron Dick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medicare</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Newman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Dick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

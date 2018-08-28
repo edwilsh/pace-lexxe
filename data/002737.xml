@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401963266800993</docid>
+  <date>31/07/2017</date>
+  <time>14:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/new-credit-card-payment-app-tap2app-to-challenge-banks-and-square-in-australia-20170726-gxjkq0</url>
+  <title>New hardware free credit card payment app Tap2App to challenge banks and Square in Australia</title>
+  <content>
+A new payments app is set to launch in Australia that will offer businesses a way to take credit card payments on a phone, without any extra hardware, unlike traditional Eftpos terminals or even the Square reader.
+The Tap2App app, from US start-up xPressTap, turns any near field communication (NFC) enabled smartphone or tablet into a virtual card reader, which it claims can reduce merchant fees by as much as 25 per cent.
+Founded by US fintech veteran Joe Lynam, who sold one of his previous companies, VRS Billing Systems, to major US telco AT&T, the app connects regular users with a merchant account at one of the major banks and enables them to take tap-and-go payments from credit cards or mobile phone through Samsung and Apple Pay.
+Mr Lynam said Australia was the first launch market for the app because of its widespread adoption of tap-and-go technology.
+
+Supplied
+
+"The rate of contactless cards in Australia is very high. The cards have the chips, but also the NFC payments. Those aren't yet pervasive in the US," he said.
+
+"Unfortunately, the experience in the US is not yet contactless. You have to bend down onto one knee to figure out where to insert your cards and then wait for 10-20 seconds for the terminal to decide if it's OK."
+Mobile point-of-sale transactions are expected to account for about 20 per cent of all global retail transactions by 2021, and the total value of goods transacted through mPOS devices will exceed $US2.3 trillion, according to Juniper Research.
+XPressTap has two patents and three international PCT patents pending for its hardware-less technology and the app is compatible with all major contactless payment card brands, including American Express Expresspay, China UnionPay QuickPass, Discover Zip, MasterCard PayPass and Visa payWave.
+The company has also secured a partnership with one of Australia's big four banks, but it was unable to disclose which bank at the time of publication.
+
+Hot competition in small-business market
+
+Mr Lynam said the technology was suited to everyone from micro businesses to enterprise clients and it has already secured a range of larger retail merchants.
+"In a year's time we should be broadly deployed in at least four major markets and in 18 to 24 months we think the US will be ready for us and we have some early development going on there," he said.
+"We'll have a lot of learning on the front end of that, but if we can get to even a 2 per cent share of mPos activity it will be a massive amount of growth."
+
+. This was double the company's internal estimates for its first year of operation, after it launched locally in 2016.
+But with the launch of xPressTap's app, Square will have a new challenger in its primary market of small business and micro sellers.
+XPressTap has already raised seed capital from a range of investors including Brent Jones of Northgate Capital and Dion Bregman, a partner at law firm Morgan Lewis. It is also almost ready to close a pre-Series A round of just under $US2 million ($2.5 million).
+"By eliminating the hardware element, we have a real value proposition to both the seller and the buyer in the equation," Mr Lynam said.
+
+"Small businesses are the backbone of every economy, yet too many despise the cost and hassle of the payments process and the cumbersome hardware."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>OK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NFC</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dion Bregman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Juniper Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Series A</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Apple Pay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VRS Billing Systems</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Visa payWave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>mPOS</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Discover Zip</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brent Jones of Northgate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Joe Lynam</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>China UnionPay QuickPass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tap2App</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eftpos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>American Express Expresspay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MasterCard PayPass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lynam</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Lewis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.3</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>xPressTap</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

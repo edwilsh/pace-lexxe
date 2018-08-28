@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414422967158078</docid>
+  <date>02/08/2017</date>
+  <time>14:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/lifestyle/darwin-residents-among-the-horniest-in-australia/news-story/0731129609285ba7c819985cfacdd933</url>
+  <title>Darwin residents among Oz's horniest</title>
+  <content>
+DARWIN residents are among some of the friskiest in Australia.
+New research by Lazeeva placed Darwin in the top five horniest cities in Australia, sitting just behind fellow tourist party towns Cairns and the Gold Coast, while Sydney and Melbourne took out the top two spots. Lazeeva chief executive Nico Hribernik said the research was undertaken to understand regional differences in terms of libido.
+"It is interesting to see how something as natural and essential as our libido can be affected by where we live," he said. "Further studies should be made to better understand what the common denominators are that are affecting the sexual life of Australians - as it is crucial for a well-balanced society."
+The cities were ranked after residents were asked to judge their sex drive on a scale of one to five - five being the horniest. Retail assistant Erin Richardson, 34, said the research was not surprising given Darwin's demographic.
+"We have so many people coming from all over the world visiting Darwin and that opens the doors for backpackers teaching our locals," she said.
+"If you look at the general age of everyone up here, it's a much younger generation so there's more open-mindedness to play the field than what there might be where there are older people. Everyone gives something a go once."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nico Hribernik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Lazeeva</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Erin Richardson, 34</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

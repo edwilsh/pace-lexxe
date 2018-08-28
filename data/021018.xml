@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440622268035400</docid>
+  <date>06/08/2017</date>
+  <time>20:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/05/59/lauren-huxley-attacker-to-appeal-report</url>
+  <title>Lauren Huxley attacker to appeal-report</title>
+  <content>
+The man found guilty of bashing and dousing Sydney woman Lauren Huxley in petrol in 2005 has told supporters he will appeal his 24.5 year sentence, more than 12 years after the attack.
+Ms Huxley was 18 when 39-year-old Robert Farmer entered her home in Northmead, assaulted and bashed her, doused her in petrol and set the house alight.
+He was convicted by jury in 2008 and sentenced to 24.5 years but now News Corp reports a series of letters written last year from Wellington Correctional Centre reveal he is preparing to mount an appeal his sentence through Queensland's Griffith University Innocence Project.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lauren Huxley</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Huxley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Farmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northmead</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wellington Correctional Centre</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland's Griffith University Innocence Project</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

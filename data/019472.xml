@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435979408346000</docid>
+  <date>06/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/12/01/govt-issues-takata-airbag-safety-warning</url>
+  <title>Govt issues Takata airbag safety warning</title>
+  <content>
+The federal government has issued an official safety warning about the possible dangers of driving cars, trucks and motorbikes fitted with Takata airbags.
+Small Business Minister Michael McCormack said on Sunday the notice ensured swift action would be taken to replace the products in affected vehicles.
+The decision comes after the government last week demanded answers from car manufacturers about progress being made to recall faulty airbags.
+There are an estimated 1.5 million vehicles fitted with the recalled airbags on Australian roads.
+Fifteen manufacturers have announced 75 recalls in Australia, affecting a large number of car makes and models, plus a small number of bikes and trucks.
+The consumer product safety regulator, the ACCC, has launched a safety investigation into the matter.
+"The ACCC will investigate the risks involved in the use of vehicles with Takata airbags, including the actions of manufacturers to inform consumers about the risks, as well as the adequacy and speed of their airbag replacement programs," Mr McCormack said in a statement.
+
+Related Articles
+
+The taskforce will report to the government on possible further actions in the coming weeks, including the possibility of issuing a mandatory recall.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr McCormack</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Takata</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Minister Michael McCormack</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

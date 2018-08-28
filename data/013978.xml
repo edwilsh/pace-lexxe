@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422841103219744</docid>
+  <date>03/08/2017</date>
+  <time>23:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/08/49/blackout-causes-troubles-for-drivers-in-adelaide</url>
+  <title>Blackout causes traffic chaos in north Adelaide</title>
+  <content>
+Adelaide was hit by yet another blackout this morning, causing traffic chaos.
+
+From around 5am until 7am half of O'Connell Street in north Adelaide went dark.
+
+Drivers heading into the city faced a dangerous challenge navigating busy intersections with no traffic lights operational.
+
+James Kent, a manager at Bakery O'Connell, said the business had to give away about $2000 in food due to equipment not working.
+
+He said the popular 24-hour bakery is now trying to catch up with the morning rush.
+"It's frustrating," he said, adding he wants answers from the government as to the cause of the outage, which is not yet known.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bakery O'Connell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>James Kent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O'Connell Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

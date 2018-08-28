@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406004831097025</docid>
+  <date>01/08/2017</date>
+  <time>05:50</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/why-the-ato-is-hardening-its-api-environment-469847</url>
+  <title>Why the ATO is hardening its API environment</title>
+  <content>
+An "exponential" growth rate in the number and take-up of the Australian Taxation Office's application programming interfaces (APIs) has prompted a hard rethink of how this environment is secured.
+
+The number of APIs in production for third-party providers has boomed from 70 in July 2014 to 237 at current count, according to ATO chief digital officer John Dardo.
+
+And the number of developers taking advantage of this ecosystem has jumped from 17 service providers three years ago to 346 today.
+
+Adoption of the ATO's standard business reporting (SBR2) APIs - an environment that has been criticised as not particularly easy to traverse - is nonetheless skyrocketing: from handling ten million transactions last year, to an expected one billion in 2017, and a predicted 10 billion next year, according to Dardo.
+
+"If you look at the demand in terms of transactions per second, last year we were at 0.2, this year we're at 8, by September we'll be 37, and by July next year we'll be at 121 transactions per second on our growth curve," Dardo told the Technology in Government summit in Canberra.
+
+"One of the important things for us to start to think about now is how do we make this system that is very connected more bulletproof than it's ever been before."
+
+The ATO is engaging with software and digital service providers over the next six to 18 months to work out how to "harden the environments so we are confident that end-to-end our transactions have integrity".
+
+"Once upon a time you'd buy software from Harvey Norman, you'd put it on your desktop, your desktop talks straight to the ATO, and that was it. User, desktop, ATO - nothing in between, [apart from] internet," Dardo said.
+
+"Now you're more likely to use software that either does or doesn't go through cloud, or does or doesn't go through a third-party provider as well as your cloud.
+
+"It may come through a gateway provider, it may go through multiple iterations of those before it gets to the ATO.
+
+"So in that world, how do we ensure that we can actually see the multiple steps of that transaction? How do we secure it from beginning to end? How do we know who the end user is? How do we know what's acceptable from a transmission perspective or authorisation or authentication perspective?"
+
+Thus far the agency has been approaching its API environment on a risk basis: a  API is less risky than one that has authenticated, high-risk data going through it, as an example.
+
+But increasingly under consideration will be the trust rating of the software developer - are they someone working on a server from their garage ("probably higher risk"), are they IRAP [Information Security Registered Assessors Program] assessed - as well as the ATO's monitoring capability for the different services utilising its APIs.
+
+"These are the big questions that need to be resolved," Dardo said.
+
+"Do we whitelist developers? How do we whitelist them? How much assurance do we need, how much do we request on an ongoing basis, do we need to audit or sample on a risk basis?"
+
+The API environment review will look at issues like service providers' onshore and offshore arrangements, adoption of multi-factor authentication, exposure of third-party services to other developers and levels of access, and importantly, how encryption is deployed and assured.
+
+"Do you accept that a developer at the beginning may send an encrypted file which is then decrypted, turned into a CSV and transmitted back and forth five times, then re-encrypted and comes to us?" Dardo said.
+
+"They're the sorts of issues we need to work our way through."
+
+Building for resiliency
+
+Security and stability of the ATO's systems is even more pertinent now that its IT environment has become significantly more visible, the CDO said.
+
+The agency has already committed to  following the damaging outages to its HPE 3PAR storage area network (SAN) this year.
+
+"Four years ago if we had an outage event or a slight decline in service, nobody noticed, because you'd download e-tax, do something with it, upload it, and if you had trouble uploading it you'd come back and try again later. Now you're live all the way through," Dardo said.
+
+The challenge for the ATO - especially in light of its  - is building systems that cater for this significant growth in usage, by service provider partners as well as end users.
+
+"How do you move from old legacy-type standards to where we need to be: gold standards, or non-stop standards. That's currently what we're working through: what's the architecture, the investment we need to make us get there," Dardo said.
+
+That architectural rewrite will likely involve the identification of "patterns" that systems will be built to cater to.
+
+Dardo gave the example of reverting to the "old batch-type world" for non-time critical services that developers can hold traffic for, or employing an abstraction layer "that syncs every 15 minutes" and allows the data within to be accessible if the core is unavailable.
+
+"Another channel might be that some parts of the core might have to be gold plated or fully available," he said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>John Dardo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dardo</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Information Security Registered Assessors Program</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>HPE 3PAR</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>IRAP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>APIs</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>SAN</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Taxation Office</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SBR2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Harvey Norman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2014</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATO</name>
+    <count>10</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CSV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CDO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

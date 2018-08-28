@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424086643754760</docid>
+  <date>04/08/2017</date>
+  <time>04:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/breaking-news/standoff-over-sydney-homeless-tent-city/news-story/1569ac1742e9fa6d9dcb9c179ae14835</url>
+  <title>Standoff over Sydney homeless tent city</title>
+  <content>
+Sydney Lord Mayor Clover Moore is refusing to blink over a tent city in Martin Place, telling the government the homeless people won't be moved until she's assured there's a long-term housing solution.
+Police Commissioner Mick Fuller and Social Housing Minister Pru Goward on Friday called on Ms Moore to "step up" and resolve the issue following a meeting at Sydney Town Hall.
+But Ms Moore told reporters she had given a list of demands to the state government and wouldn't even consider taking action until they were met.
+"The situation is they don't want to do it, they all want me to do it and I will only consider doing it if I know that accommodation for those in Martin Place and long-term solutions to homelessness and affordable housing (are in place)," the lord mayor said.
+Ms Goward is surprised and disappointed by the standoff.
+The minister said if the state government was to act it would first have to go to court.
+"We would have to then issue warrants on vulnerable, homeless people to get them to move, I don't think anybody wants that," she told reporters.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ms Moore</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Lord Mayor Clover Moore</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Commissioner Mick Fuller</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Martin Place</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Social Housing Minister Pru Goward</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Town Hall</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Goward</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

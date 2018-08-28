@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418116639099608</docid>
+  <date>03/08/2017</date>
+  <time>04:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/14/30/commonwealth-bank-hit-with-53000-fraud-claims</url>
+  <title>Commonwealth Bank hit with more than 53,000 fraud claims</title>
+  <content>
+The Commonwealth Bank of Australia (CBA) has been accused of failing to comply with anti-money laundering and counter terrorism financing laws.
+The federal government's financial intelligence unit, AUSTRAC, today launched civil penalty proceedings against the CBA in the Federal Court.
+It accuses the lender of over 53,700 contraventions of law, with the contravention carries a maximum penalty of $18 million.
+Among AUSTRAC's allegations are claims CBA failed to assess the money laundering and terrorism financing risk of intelligent deposit machines.
+It is also alleged the bank failed to meet its requirements related to monitoring transactions.
+With AAP 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

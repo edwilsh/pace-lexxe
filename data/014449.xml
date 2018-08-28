@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423274894924039</docid>
+  <date>04/08/2017</date>
+  <time>00:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/cba-shares-are-getting-crushed-2017-8</url>
+  <title>CBA shares are getting crushed</title>
+  <content>
+Shares in the Commonwealth Bank fell hard in early trade following court action against Australia's biggest company over breaches of money laundering laws.
+
+A short time ago, the shares were down 2.7% to $81.71. The bank is currently the biggest drag on the local market with the ASX200 down 0.2% to 5,723.70 points.
+
+follow following an investigation by Australia's financial intelligence and regulatory agency, AUSTRAC, into the use of Commonwealth's intelligent deposit machines which, it is claimed, became the outlet of choice for criminal syndicates to shift cash offshore.
+
+for each of the 53,700 alleged contraventions of the Anti-Money Laundering and Counter-Terrorism Financing Act is $18 million.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

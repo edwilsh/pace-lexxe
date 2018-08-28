@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425156090629373</docid>
+  <date>04/08/2017</date>
+  <time>08:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4835210/kmart-prepares-staff-for-closure/?cs=305</url>
+  <title>Kmart prepares staff for closure</title>
+  <content>
+CHANGES: Kmart will close its Westfield Kotara store. Picture: Kitty Hill
+
+ONE of the major long-term tenants of Westfield Kotara is preparing to move out, with Kmart awaiting approval from its parent company to close and relocate its Kotara store.
+
+Management this week spoke to employees about the store's imminent closure and, the Newcastle Herald understands, presented an option of taking leave and waiting for new positions to emerge within Kmart.
+"Right now Kmart is awaiting confirmation from Wesfarmers for approval to close and relocate as part of Scentre Group's redevelopment of Kotara shopping centre," a Kmart spokeswoman confirmed. 
+
+"However to ensure transparency Kmart has spoken to its 139 [employee] team to begin the process of looking at redeployment opportunities for team members and managers to either another Kmart store or another Wesfarmers business once the date of closure is confirmed."
+Westfield Kotara's $88 million redevelopment has been described as a "third shopping mall". 
+</content>
+  <sindexList>
+  <sindex>
+    <name>KOTARA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Westfield Kotara</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Westfield Kotara's $88</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Kmart</name>
+    <count>8</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Kitty Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wesfarmers</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Scentre Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Herald</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

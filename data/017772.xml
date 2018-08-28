@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429236309631389</docid>
+  <date>04/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4835457/women-suffer-broken-legs-in-crash-near-nowra/?cs=12</url>
+  <title>Nowra police call for witnesses to Pyree head-on</title>
+  <content>
+Thursday morning's crash scene on Greenwell Point Road at Pyree.
+Two women airlifted to Sydney after a head-on motor vehicle accident at Pyree, east of Nowra on Thursday are reported to be in a stable condition.
+Police said the 21-year-old woman from Nowra and a 29-year-old woman both suffered broken legs in the accident which happened around 10.40am, 200 metres east of the intersection of Greenwell Point Road and Jindy Andy Lane.
+Police said a Mazda 3 being driven east by the 21-year-old and a Holden Commodore being driven west by a 41-year-old Greenwell Point man, collided head-on near the Jindyandy Mill.
+A pregnant woman in the man's car was trapped in the wreckage.
+The NSW Ambulance Toll Rescue Helicopter landed in a nearby paddock and both females, after being stabilised at the scene by ambulance paramedics, were airlifted to St George Hospital.
+Police continue to investigate the cause accident and would like to hear from any witnesses.
+Witnesses can contact Nowra Police on 4421 9699 or Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>St George's Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Ambulance Toll Rescue Helicopter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jindyandy Mill</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nowra</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jindy Andy Lane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mazda3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greenwell Point Road</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nowra Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden Commodore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Greenwell Point</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pyree</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

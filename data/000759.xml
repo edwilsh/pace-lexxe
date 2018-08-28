@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397792853489789</docid>
+  <date>30/07/2017</date>
+  <time>21:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/netwealth-fronts-fundies-on-path-to-listing-20170730-gxlxto</url>
+  <title>Netwealth fronts fundies on path to listing</title>
+  <content>
+﻿Investment services and superannuation advice company Netwealth has booked fund managers for meetings in Sydney, Melbourne, Hong Kong and Auckland this week, as it ramps up plans for an initial public offering. 
+It's understood Netwealth management will present to fundies starting on Monday, in meetings arranged by sponsor brokers Credit Suisse and UBS. 
+The company is expected to pitch the high growth it has seen in its investment platform, with $14.3 billion in funds under advice and more than 2000 advisers on board. 
+The non-deal roadshow comes as Netwealth's shareholders push for an ASX-listing later this year. It's understood to be eyeing about a $150 million to $200 million raising as part of the listing. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Netwealth</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Credit Suisse</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Auckland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

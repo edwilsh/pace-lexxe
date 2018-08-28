@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405274686646224</docid>
+  <date>01/08/2017</date>
+  <time>03:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/12/47/queensland-has-hottest-july-on-record</url>
+  <title>Queensland has hottest July on record</title>
+  <content>
+Queensland has recorded its hottest July on record and above-average temperatures are set to continue for the rest of winter.
+The mean temperature across the state was 2.65C above the long-term average of 15.94 per cent, with Mackay and St George measuring their highest maximum July temperatures on record.
+The weather bureau's David Crock says the three-month outlook predicts continued high temperatures for the Sunshine State but it's too early to tell if Queensland is in for a scorching summer.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mackay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St George</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Crock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

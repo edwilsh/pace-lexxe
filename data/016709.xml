@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426487530516384</docid>
+  <date>04/08/2017</date>
+  <time>13:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/rugby-union/union-news/rebels-in-change-of-rugby-ownership-aru-20170804-gxpwin.html</url>
+  <title>Rebels in change of rugby ownership: ARU</title>
+  <content>
+Businessman Andrew Cox is believed to have relinquished control of the Melbourne Rebels Super Rugby franchise.
+Although the Australian Rugby Union (ARU) has yet to be notified of a change in ownership, the governing body says it has received confirmation of a sale via a third party.Photo: AAP
+In a statement issued on Friday night, the ARU said it understood the ownership has been transferred from Cox's Imperium Group to the Victorian Rugby Union.
+"The Melbourne Rebels have an obligation under their Participation Deed to inform ARU of any change of ownership," the statement said.
+"To date, ARU has received no such communication from the Melbourne Rebels despite recent attempts to confirm their position.
+"ARU is urgently seeking to confirm the terms on which this transfer occurred."
+The Rebels' future in Super Rugby is under threat after a decision to cull an Australian team.
+The Rebels or Perth-based Western Force will be cut, in accordance with a promise made to SANZAAR to streamline the 2018 competition.
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Super Rugby</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Rugby Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Cox</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Victorian Rugby Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Rebels Super Rugby</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Rebels</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Participation Deed</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Cox's Imperium Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ARU</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sanzaar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth-based Western Force</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

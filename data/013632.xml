@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421462418691848</docid>
+  <date>03/08/2017</date>
+  <time>17:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/air-france-flight-to-tokyo-in-nearmiss-with-north-korean-missile-test-20170803-gxp184.html</url>
+  <title>Air France flight to Tokyo in near-miss with North Korean missile test</title>
+  <content>
+Paris: Air France-KLM has expanded its no-fly zone over North Korea after one of its jets flew past the location where an intercontinental ballistic missile (ICBM) splashed down 10 minutes later, an airline spokesman said on Thursday.
+Air France's flight 293, a Boeing 777 carrying 323 people from Tokyo to Paris, missed North Korea's latest ICBM as it fell to Earth on July 28 by about 100 kilometres - or approximately 10 minutes' flight time, the spokesman said, citing flight data provided by Japan.Photo: AP
+Air France-KLM flies direct to Tokyo and Osaka and the expansion of the no-fly zone could make the flights 10 minutes to 30 minutes longer, depending on the direction, the spokesman said.
+North Korea said on Saturday its  proved its ability to strike America's mainland.
+
+The missile was launched from North Korea's northern Jangang province at 11.41pm on Friday night. It flew for about 45 minutes before landing in the waters of Japan's exclusive economic zone.
+Japanese broadcaster NHK, citing a military official, said the missile reached an altitude of more than 3,000 kilometres.
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Air France-KLM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NHK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing 777</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Japan.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air France</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jangang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ICBM</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>OSAKA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

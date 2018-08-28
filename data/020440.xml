@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438302985673425</docid>
+  <date>06/08/2017</date>
+  <time>11:10</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/queensland/sunshine-coast-cops-hail-as-rare-august-storm-sweeps-through-central-and-southern-queensland/news-story/ec9ebffc1b9c1974ab960024540139ad</url>
+  <title>Sunshine Coast cops hail as rare August storm sweeps through central and southern Queensland</title>
+  <content>
+Parts of the Sunshine Coast have been peppered with hail as storms sweep through today. FILE PICTURE
+
+Madura McCormackThe Courier-Mail
+
+Share
+
+PARTS of the Sunshine Coast have been pelted by hail this afternoon as a rare August storm swept through central and southeast Queensland.
+A severe storm warning was issued about 4.30pm, warning of damaging winds and large hail stones, to areas just north of Brisbane.
+The warning has since been cancelled.
+Meteorologist David Grant said wild weather could not be ruled out further afield later tonight.
+The Sunshine Coast has felt the most impact, with small hail reported and rains of between 15mm to 25mm, and isolated heavy falls of up to 75mm in the Wide Bay region.
+"It's not very common to have thunderstorm activity as widespread as this in August," Mr Grant said.
+"August is quite noted for its dry westerly winds."
+The upper trough and Coral Sea moisture combo will move off the east coast tomorrow and be replaced by a dry westerly stream, better known as the Ekka westerlies.
+There is slight chance of shower in Brisbane tomorrow morning with a top forecasted temperature of 25C.
+
+The minimum temperature will drop through the week, hitting a low of 6C on Wednesday in the city.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Wide Bay</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>David Grant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coral Sea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ekka</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Madura McCormackThe Courier-Mail</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Grant</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

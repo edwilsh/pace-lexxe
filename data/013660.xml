@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421943455037488</docid>
+  <date>03/08/2017</date>
+  <time>19:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/05/34/driver-arrested-over-melbourne-hit-and-run</url>
+  <title>Driver arrested over Melbourne hit and run</title>
+  <content>
+A woman is being questioned by police and is expected to be charged after a pedestrian and a cyclist were run down in an alleged hit and run incident near Melbourne's Flinders Street Station.
+The pair, both believed to be men, were struck at about 6.30pm on Thursday at the intersection of Flinders and Swanston streets with one needing to go to hospital for treatment.
+The driver sped away but the Nine Network reports a 32-year-old female driver was arrested hours after the incident and is expected to be charged over the incident.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nine Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's Flinders Street Station</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Swanston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

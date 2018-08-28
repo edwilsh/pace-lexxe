@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411579698754189</docid>
+  <date>02/08/2017</date>
+  <time>03:28</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/facebook-said-to-be-working-on-video-chat-device-in-hardware-push-20170802-gxnot3</url>
+  <title>Facebook said to be working on video chat device in hardware push</title>
+  <content>
+by
+Mark Gurman and Sarah Frier
+
+Facebook is working on a video chat device for the home in what would be the first major hardware product from its experimental Building 8 laboratory.
+Featuring a laptop-sized touch screen, the device represents a new product category and could be announced as soon as next spring's F8 developer conference, according to people familiar with the matter. They say the large screen and smart camera technology could help far-flung people feel like they're in the same room, which aligns with chief executive Mark Zuckerberg's mission of bringing Facebook users closer together.
+The social media giant is working on at least one other product: a standalone smart speaker that would compete with the Amazon Echo and Google Home, said the people, who asked not be named. Both devices would run a Facebook-built voice assistant service, they said.
+The new devices represent a new phase in Facebook's hardware ambitions. Though the company sells the Oculus virtual reality headset, it acquired its maker and didn't create the original product. Last year, the Building 8 lab was set up to help Facebook develop its own hardware and keep consumers locked into its ecosystem - the news feed, Facebook live, video calling and more.
+
+Building 8 is staffed with hardware veterans and led by former Google executive Regina Dugan. Speaking at the most recent F8 conference in April, Dugan said the goal was to "create and ship new, category-defining consumer products that are social first". She spoke about how technology had made it easier to connect, but also had confined people to their phones so that they don't interact with the physical world as much.
+
+"I'm optimistic that technology can help, that new hardware platforms can chip away at false choices," Dugan said, explaining how her relationship with her mother was improved through daily phone calls on her way to a coffee shop. "If we fail it's gonna suck."
+The video chat device will feature a wide-angle camera lens, microphones, and speakers for video conferencing that are all powered by artificial intelligence to boost performance, the people said. A version of the device in testing includes a thin, vertical stand that holds a large touch screen measuring between 33 and 38 centimetres diagonally, the people said. Facebook has considered running a version of the Android operating system on its device instead of building its own core operating system, according to the people.
+Facebook is testing a feature that would allow the camera to automatically scan for people in its range and lock onto them, one of the people said. For example, the camera could zoom onto a painting that a child brought home from school to show to a parent away on a business trip. Facebook has also been developing a 360-degree camera for the device, but people familiar with the matter say it's unlikely to be ready in time for the initial launch.
+Early plans call for the standalone speaker to sell in the low $US100 range, undercutting the competition, while the technologically more complex video chat device would cost a few hundred dollars, one of the people said.
+
+Because the speaker concept has already been popularised, two of the people said, Facebook could abandon it and prioritise the video chat device instead.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Echo</name>
+    <count>1</count>
+    <score>-2.5</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>10</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Oculus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dugan</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Building 8</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook-built</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Zuckerberg</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Gurman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>F8</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Frier</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Regina Dugan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

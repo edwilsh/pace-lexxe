@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422536160536212</docid>
+  <date>03/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/world/breaking-news/man-smothers-girl-11-during-rape-bid/news-story/b2ad46004197b012467797e53f9f2213</url>
+  <title>Man smothers girl, 11, during rape bid</title>
+  <content>
+Associated Press
+
+Share
+
+A New York man smothered an 11-year-old girl while trying to rape her at his rural home, police say.
+A felony complaint filed in Chenango County Court accuses 36-year-old James Brower of intentionally killing Jacelyn O'Connor early on Sunday.
+Brower was arraigned on a first-degree murder charge on Thursday and sent to the county jail without bail. He asked for a public defender to represent him.
+He's due back in court on Tuesday.
+District Attorney Joseph McBride said Jacelyn was the half sister of Brower's two sons. She lived in Morris, in neighbouring Otsego County.
+State police troopers found the child dead on Sunday in Brower's home in Norwich. Brower was arrested on Tuesday.
+Morris Central School is holding a vigil for Jacelyn on Monday evening.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Brower</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Otsego County</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brower</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chenango County Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morris Central School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jacelyn</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-9</score>
+  </sindex>
+  <sindex>
+    <name>District Attorney Joseph McBride</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Jacelyn O'Connor</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Norwich</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Morris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

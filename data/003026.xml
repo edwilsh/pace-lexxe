@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403256051982630</docid>
+  <date>31/07/2017</date>
+  <time>19:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/bob-mannings-light-rail-plan-misses-250000-funding-for-study/news-story/79c3162e520d7f7bd80f5ac4c940948b</url>
+  <title>Funding snub no barrier to tram</title>
+  <content>
+A FAILURE to secure a $250,000 grant for a feasibility study into light rail for Cairns has not troubled Mayor Bob Manning, who says the work will go ahead regardless.
+The State Government knocked back Cairns Regional Council's request through the Maturing the Infrastructure Pipeline program for "scoping funds" to push forward with the Cairns Transit Network.
+Cr Manning announced his billion-dollar vision for a passenger tram network as an election policy in 2016, saying he was confident it would attract state and federal government funding.
+He stood by that position yesterday despite the State Government rejecting the council's $250,000 request investigate its viability.
+He said the council would fund the review itself if necessary.
+"Governments like to be associated with success. Every government wants to take credit," Cr Manning said.
+"We just need to get out there and continue to be progressive and successful.
+"Governments will jump on board."
+The rhetoric framing the transit network proposal has changed since the election, with fewer references to light rail and more talk of electric buses.
+Cr Manning said the tramline was definitely on the table.
+"Personally, I think it's going to be a combination of the two," he said.
+"We just call it the 'green train' and we're still trying to get a better understanding of how this will work."
+A meeting between councillors and consultants who have worked on similar projects around Australia is scheduled for the week after next.
+"We're also looking at overall smart city options," Cr Manning said.
+"Not getting a bit of funding isn't going to slow us down.
+"But we would like to see the State Government being more responsive when regional centres like us are trying to get ahead of the game."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cairns Regional Council</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Infrastructure Pipeline</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>3</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Cr Manning</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayor Bob Manning</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Transit Network</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

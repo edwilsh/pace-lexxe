@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405661233708000</docid>
+  <date>01/08/2017</date>
+  <time>04:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/technology/national-broadband-network-frustrations-under-review-but-nbn-blames-internet-service-providers/news-story/8e75a5f35efe1427c825fbbdc70419cc</url>
+  <title>NBN customer anger forces review</title>
+  <content>
+FRUSTRATION with the National Broadband Network is so widespread the Federal Government today ordered an official review into poor customer experience with the maligned $49 billion project.
+The investigation comes as chief executive Bill Morrow acknowledged more Australians were experiencing "speed and performance issues" and installation headaches on the network, though he blamed "overheated, over-competitive" internet service providers.
+said he ordered the review into "NBN customer experience" today to identify the biggest hurdles for users and attempt to reduce customer complaints passed between NBN Co and internet service providers.
+
+Complaints about the NBN to the Telecommunications Industry Ombudsman more than doubled in the last six months of 2016, and complaints about NBN connection speeds soared by 141 per cent.
+The  will administer the review, commissioning research into NBN users' experiences before, during, and after installation, as well as collecting information on faults, connection deadlines, and appointment-keeping from 21 telecommunications firms, including internet service providers.
+executive director Laurie Patton welcomed the review, saying the Network was regularly caught falling short of consumer expectations.
+"This is something we've been calling for and Senator Fifield is to be commended for acknowledging that this project has serious problems," he said.
+Mr Morrow also acknowledged growing NBN user complaints in a Senate Joint Standing Committee today, though he blamed an "overheated, over-competitive market" in which internet service providers focused more on price than service.
+
+NBN installation, speed and performance issues were among the most common complaints, Mr Morrow said, and many stemmed from retailers competing fiercely on price, meaning "less time is spent with end users".
+"The vast majority of people using the NBN are satisfied with their services," he said. "That's not to say that there aren't problems that need to be fixed."
+Mr Morrow said NBN Co was committed to "working with the industry to rectify this" and establishing better practices.
+The National Broadband Network is due to be completed in 2020.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senator Fifield</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Laurie Patton</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Morrow</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senate Joint Standing Committee</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Telecommunications Industry Ombudsman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

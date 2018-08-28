@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408964063625036</docid>
+  <date>01/08/2017</date>
+  <time>17:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/03/08/four-car-pile-up-in-sydney-no-deaths</url>
+  <title>Four-car pile up in Sydney, no deaths</title>
+  <content>
+A four-car crash in Sydney's west has left a man and a woman in hospital.
+Police and emergency services were called Mount Vernon just before 9pm on Tuesday after a Mazda 3 and a Mitusbishi Lancer collided head-on, while another two cars were also involved in the crash.
+The 23-year-old female driver of the Mazda is in a stable condition in hospital with cuts to her heads and chest, while the 21-year-old man driving the Mitsubishi Lancer suffered fractured legs and hips and is also in hospital.
+Both drivers of the other two cars, aged 24 and 25, suffered shock and minor injuries.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mazda</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mount Vernon</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mazda3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitsubishi Lancer</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mitusbishi Lancer</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429622856692123</docid>
+  <date>05/08/2017</date>
+  <time>01:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-05/bear-mauls-zookeeper-to-death-at-swedish-predator-park/8777514</url>
+  <title>Bear mauls zookeeper to death at Orsa Rovdjurspark in Sweden</title>
+  <content>
+A zookeeper has died after being mauled by a bear at a Swedish wildlife centre billed as "Europe's largest predator park".
+The 19-year-old man was cleaning an enclosure at the Orsa Rovdjurspark in northern Sweden when a brown bear that had dug its way under a fence mauled him.
+The employee, who was not identified, was rushed to hospital by helicopter but later died.
+The attack was witnessed by four visitors who were unharmed.
+They were inside the enclosure to see what it was like to work as an animal keeper by getting close to the animals and helping to feed them, park spokesman Sven Brunberg said.
+The visitors fled the enclosure when the attack started, police spokesman Alexander Marik said.
+
+The two-year-old bear was euthanased after the attack, which is being investigated as a workplace accident.
+Orsa Rovdjurspark, located 330 kilometres north of Stockholm, has predators that include different species of bears, leopards, lynxes and wolves.
+The park was forced to close for the rest of Friday but said on its Facebook page that it would reopen today.
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sweden</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Alexander Marik</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sven Brunberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockholm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swedish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Orsa Rovdjurspark</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

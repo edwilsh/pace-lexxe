@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423734456432320</docid>
+  <date>04/08/2017</date>
+  <time>02:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/12/29/wa-disability-justice-centre-to-get-review</url>
+  <title>WA disability justice centre to get review</title>
+  <content>
+A disability justice centre in Perth will be reviewed following community criticism over the escape of two detainees in 2015.
+The Bennett Brook Disability Justice Centre has been operating since August 2015 as an alternative to prison for people with an intellectual disability or cognitive impairment who are unfit to stand trial.
+The review will examine the extent to which the centre is fulfilling its purpose, the appropriateness of its location and options for the future of the facility.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bennett Brook Disability Justice Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 2015</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

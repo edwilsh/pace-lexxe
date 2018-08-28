@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399128588336965</docid>
+  <date>31/07/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/07/31/hinchs-senate-diary-i-went-to-the-syrian-border-in-lebanon/</url>
+  <title>Hinch's Senate Diary: I went to the Syrian border and it will haunt me for years</title>
+  <content>
+Five days ago, I was five miles from the Syrian border. We had an armed escort, even though after five days of fierce fighting, Hezbollah had just forced the surrender of militants (formerly aligned with al-Qaeda) near the town in Lebanon we were visiting with Save the Children (STC).
+</content>
+  <sindexList>
+  <sindex>
+    <name>Syrian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lebanon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>STC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hezbollah</name>
+    <count>1</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>Hinch's Senate Diary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qaeda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

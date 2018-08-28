@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422493210862428</docid>
+  <date>03/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/04/07/42/air-france-expands-north-korea-no-fly-zone</url>
+  <title>Air France expands North Korea no-fly zone</title>
+  <content>
+Air France-KLM has expanded its no-fly zone over North Korea after one of its jets flew past the location where an intercontinental ballistic missile (ICBM) splashed down 10 minutes later.
+Air France's flight 293, a Boeing 777 carrying 323 people from Tokyo to Paris, missed North Korea's latest ICBM as it fell to earth on July 28 by about 100km, a spokesman said, citing flight data provided by Japan.
+Air France-KLM flies direct to Tokyo and Osaka and the expansion of the no-fly zone could make the flights 10 minutes to 30 minutes longer, depending on the direction, the spokesman said.
+North Korea said on Saturday its latest ICBM test proved its ability to strike America's mainland, drawing a sharp warning from U.S. President Donald Trump and a rebuke from China.
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air France-KLM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing 777</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air France</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ICBM</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>U.S. President Donald Trump</name>
+    <count>1</count>
+    <score>-0.6</score>
+  </sindex>
+  <sindex>
+    <name>OSAKA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

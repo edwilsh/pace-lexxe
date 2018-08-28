@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414096549635765</docid>
+  <date>02/08/2017</date>
+  <time>13:14</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/apple-stock-price-record-high-after-crushing-earnings-2017-8</url>
+  <title>Apple hits a record high after crushing earnings</title>
+  <content>
+Apple's third-quarter earnings results have shares trading at a record high ahead of Wednesday's opening bell, up 6.42% to about $US159.69.
+
+Apple . The company earned $US1.67 a share on revenue of $US45.4 billion. Those numbers are ahead of the $US1.57 and $US44.95 billion that Wall Street was expecting.
+
+An increase in revenue came mostly because of stronger than expected iPad and Mac sales. Apple sold 14% more iPads than the same time last year, breaking a 13-quarter streak of declining sales. Apple sold 4.29 million Macs.
+
+Investors were looking to see if Apple would offer any hints at the release date of its new iPhone, and according to the company's fourth quarter revenue guidance, it would .
+
+The  because of complications around putting a fingerprint reader behind a new bezel-less OLED screen, but the company is hinting that the delays have been overcome.
+
+The Dow Jones Industrial Average  on Wednesday thanks to the jump in Apple's stock.
+
+Apple has risen 37.22% this year, including the post-earnings bump.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OLED</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US45.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPad</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.67</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.57</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US44.95</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>8</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US159.69</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

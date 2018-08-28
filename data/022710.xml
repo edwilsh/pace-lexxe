@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442507758701772</docid>
+  <date>07/08/2017</date>
+  <time>03:29</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/finance-news/2017/08/07/cba-blames-software-glitch/</url>
+  <title>CBA blames software glitch to fight $963b fine</title>
+  <content>
+As the hours count down to its annual profit result, Australia's biggest bank is trying to avert a financial catastrophe by blaming a software glitch for most of its alleged money-laundering breaches.
+A federal watchdog alleges the Commonwealth Bank failed to report 53,506 instances of suspiciously large amounts of cash deposited through its ATM deposit machines. The maximum fine nears $1 trillion.
+In response, CBA issued two statements on Monday, both provided to The New Daily, that characterised all 53,506 of these allegations as the result of a single faulty software update in late 2012.
+"This error became apparent in 2015 and within a month of discovering it, we notified AUSTRAC, delivered the missing [reports of suspicious transactions] and fixed the coding issue," the bank said.
+The CEO and chair will face intense public scrutiny when they hand down the bank's annual report on Wednesday, as it is expected to contain a billion-dollar profit and millions in executive pay.
+The argument CBA has adopted will be crucial as the bank faces an $18 million penalty for each of the 'failure to report' allegations, totalling a maximum of $963 billion.
+If CBA can successfully argue those breaches were the result of a single error, it could reduce its total liability for them to $18 million at most.
+The bank said as much on Monday: "These alleged contraventions could be considered to arise from a single course of conduct to the extent that they emanated from the same systems error."
+However, this defence would not fully extinguish the bank's liability, as it faces approximately 200 other allegations.
+The bank admitted this, saying: "There are other serious allegations in the claim."
+It offered no public defence to these remaining claims, saying instead that "mistakes can be made".
+Crucially, CBA did not address allegations that it ignored warnings from the federal police in 2015 that its accounts were being used by crime gangs to launder dirty money.
+Last week, AUSTRAC, the anti-money laundering agency, alleged that: "Even after CBA became aware of suspected money laundering or structuring on CBA accounts, it did not monitor its customers to mitigate and manage [money laundering and terrorism financing] risk, including the ongoing [money laundering and terrorism financing] risks of doing business with those customers."
+Eleven criminals from at least four organised crime gangs have been convicted of using the bank to launder illicit cash.
+AUSTRAC also alleged the bank did not assess the ATM deposit machines used by criminals to launder money for potential risks until three years after they were installed.
+CBA also failed to monitor transactions on 778,370 accounts, and failed to report $77 million worth of suspicious transactions on time or at all, the regulator alleged.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>3</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

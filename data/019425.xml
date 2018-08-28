@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435635810959965</docid>
+  <date>06/08/2017</date>
+  <time>00:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/10/31/two-injured-as-crane-crashes-into-sydney-apartment-block</url>
+  <title>Two injured as crane crashes into Sydney apartment block</title>
+  <content>
+Two people have been injured after a crane crashed into an apartment block in southern Sydney today.
+Footage shows the crane leaning against the damaged building on Brodie Spark Drive at Wolli Creek, after it fell about 9.30am today. 
+Paramedics treated two patients at the scene, one for a leg injury, who were then taken to St George Hospital.
+Resident Simon Murphy told 9news.com.au he awoke to the noise of the crane smashing into the building, a day after he and his wife expressed concern about the machine's safety.
+"There's some fairly significant damage to the side of the building, a lot of shattered glass on the floor," he said. 
+Mr Murphy said he and his wife had been worried about the crane's stability.
+"By mid-afternoon [yesterday], I said I can't believe that they've built that crane on that platform, and my wife and I discussed what would happen if it were to fall," he said.
+
+Related Articles
+
+The condition of the victims is not known, a NSW Ambulance spokesman said.
+Police evacuated two buildings at the scene and have also established an exclusion zone, with road closures in place, a spokeswoman said. 
+No one was in the crane at the time of the collapse, the spokeswoman confirmed. 
+ 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>St George's Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Murphy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brodie Spark Drive</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Wolli Creek</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simon Murphy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

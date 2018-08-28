@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397925997477604</docid>
+  <date>30/07/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/queensland-roads-one-dead-one-critical-in-separate-crashes/news-story/3fbcfa11e17fa5cd5182cd54daefdf08</url>
+  <title>One dead, one critical in separate crashes</title>
+  <content>
+THE Forensic Crash Unit is investigating a fatal crash on the Sunshine Coast.
+
+Just before 10am yesterday a motorcycle was travelling east on Peachester Road,  reports.
+
+A four wheel drive travelling in the opposite direction was turning right onto Storrs Road when the two vehicles collided, killing the 61-year-old male motorcyclist.
+
+The driver of the four wheel drive was not physically injured during the crash.
+
+Police are now appealing for any witnesses or people who may have seen the red bike travelling on Peachester Rd prior to this incident to contact them.
+
+Further north, a man is in a critical condition after a serious crash at Emu Park, south of Yeppoon.
+
+Emergency services were called to the incident on Pattison St about 6.20am after a vehicle collided with a tree.
+
+Paramedics have confirmed one man was in a critical condition, but was yet to be taken to hospital.
+
+A woman was also inside the vehicle at the time of the crash.
+
+The Forensic Crash Unit is expected to investigate the crash.
+
+Like this:
+
+Like Loading...
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pattison St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Forensic Crash Unit</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Storrs Road</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Emu Park</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Peachester Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yeppoon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peachester Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

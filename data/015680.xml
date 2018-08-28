@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424649284479424</docid>
+  <date>04/08/2017</date>
+  <time>06:11</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/qantas-flights-return-to-sydney/news-story/ee9e4ef60482d27f28472001319acfe1</url>
+  <title>Qantas flights return to Sydney</title>
+  <content>
+Two Qantas jets have suffered technical issues which forced them to abandon their flights and return to Sydney.
+Airbus A380 QF7 took off from Kingsford Smith Airport just before 2pm, bound for Dallas Fort Worth in the United States but flight radars detected the plane circling and dumping fuel.
+"The flaps on the aircraft (attached to the wing) are unable to retract which means the aircraft can't fly efficiently," Qantas said in a statement on Friday afternoon.
+"As the Dallas flight is our longest on the network, the captain made the decision to return to Sydney."
+The plane is expected to land on Friday afternoon and will be inspected by engineers.
+A second flight, Qantas QF63 from Johannesburg to Sydney, also needed to return to Sydney due to a cracked pane of glass on the aircraft windscreen.
+"An aircraft windscreen is made up of three layers of glass, the outer pane had cracked but did not compromise the integrity of the aircraft," Qantas said.
+The aircraft was safe to continue to Johannesburg, Qantas said, but the captain made the decision to return and have the windscreen replaced in Sydney.
+QF63 has already landed safely at the airport.
+Operational teams are working to accommodate passengers or offer them transport home before replacement services are organised.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Airbus A380 QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kingsford Smith Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Qantas QF63</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-Fort Worth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

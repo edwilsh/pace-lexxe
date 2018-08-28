@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431993678659561</docid>
+  <date>05/08/2017</date>
+  <time>10:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-05/big-ben-concussed-after-crunching-tackle</url>
+  <title>Big Ben concussed after crunching tackle</title>
+  <content>
+Ben Brown has left the field on a stretcher
+
+NORTH Melbourne forward Ben Brown has left the field on a stretcher with concussion after being on the end of a crunching tackle from Collingwood's Brodie Grundy.
+
+Grundy's second-quarter tackle was rewarded by the umpire as holding the ball before play was held up as Brown left the field on the motorised stretcher.
+
+More to come
+
+Ben Brown is being taken off on the stretcher following this tackle from Brodie Grundy.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ben</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Grundy</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>North Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Collingwood's Brodie Grundy</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brodie Grundy</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Brown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ben Brown</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

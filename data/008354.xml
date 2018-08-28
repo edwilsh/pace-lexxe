@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411498094374385</docid>
+  <date>02/08/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4828246/pictons-big-bridge-is-opened/?cs=300</url>
+  <title>Picton's big bridge is opened</title>
+  <content>
+The 40-metre pedestrian bridge at Picton is the longest in the Wollondilly shire.
+The longest pedestrian bridge in the Wollondilly shire has been opened at Picton.
+The 40-metre bridge llinks the existing walkway in the botanical garden with Picton sportsground.
+A suspension-style bridge, it uses the same engineering principles as Sydney's ANZAC Bridge.
+"This bridge has been something that the Picton community have asked for through the years," said Wollondilly Mayor Judith Hannan.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Picton</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollondilly</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollondilly Mayor Judith Hannan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney's ANZAC Bridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

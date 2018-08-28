@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424898392586586</docid>
+  <date>04/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/platypus-a-surprise-visitor-to-the-hobart-cbd/news-story/e6c32f4b6972d0cbc2902249cb8954c9</url>
+  <title>Platypus takes a swim into Hobart CBD</title>
+  <content>
+HOW often would anyone see a platypus swimming up the Hobart Rivulet? Not very often, it's safe to say.
+But workers at the Royal Hobart Hospital redevelopment spotted this little monotreme frolicking in the close quarters of the rivulet on Collins St yesterday.
+A John Holland Fairbrother Joint Venture spokesman said it was an unusual sighting near the redevelopment.
+"Onlookers were fascinated to watch this little fellow outside our construction offices in the Hobart Rivulet, going about its business in water," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Royal Hobart Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Holland Fairbrother Joint Venture</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hobart Rivulet</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hobart CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Collins St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

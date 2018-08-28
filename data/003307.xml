@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403981901468693</docid>
+  <date>31/07/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/07/47/moorabbin-melbourne-factory-fire-destroyed-blaze</url>
+  <title>Flames tear 'through the roof' at Melbourne factory</title>
+  <content>
+A cabinet-making business in Moorabbin in Melbourne's south-east has been engulfed by flames overnight.
+About 30 firefighters smashed their way into the Nelson Street factory just after 9.30pm after a number of calls from the public to 000.
+"The fire was quickly growing at the front, it was through the roof at the stage [when firefighters arrived]," Metropolitan Fire Brigade Commander Ron Young told the TODAY Show.
+"It took about 45 minutes to bring under control."
+The exact cause of the ferocious blaze is still under investigation and is unclear whether it is suspicious.
+No injuries were reported.
+A community smoke warning was issued for the area to the west of Chesterville Road, with residents told to avoid the area. Nelson Street was also closed off overnight.
+
+Related Articles
+
+The owners of the business are still yet to be tracked down.
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chesterville Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Today Show</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nelson Street</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Fire Brigade Commander Ron Young</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

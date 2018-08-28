@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405356291026016</docid>
+  <date>01/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/technology/gadgets-on-the-go/vodafone-uses-nbnfail-to-sell-mobile-fallback-to-homes-trapped-in-broadband-limbo-20170801-gxmvn6.html</url>
+  <title>Vodafone uses NBNfail to sell mobile fallback to homes trapped in broadband limbo</title>
+  <content>
+In another blow to NBN's reputation, Vodafone is using NBN installation disasters as a marketing tool to promote its upcoming home broadband service with 4G LTE failover.
+While , the national rollout continues to leave homes with no home phone or fixed-line broadband for months at a time. With all parties refusing to accept responsibility for breaking this deadlock, Vodafone has stepped in to offer a mobile insurance policy for homes trapped in .Photo: Adam Turner
+Set to sell NBN services later this year, Vodafone has unveiled its Wi-Fi Hub home broadband modem which has a built-in 4G SIM card - allowing homes to connect to Vodafone's mobile broadband network "in-between sign-up and service installation and where repairs need to be carried out by NBN".
+Vodafone's mobile fallback service will be available for up to 30 days at a time, offering maximum download speeds of 12 Mbps and 1 Mbps uploads - assuming customers have decent Vodafone coverage at their home. Many Fairfax readers cite the lack of decent mobile coverage at home as their main reason for .
+The mobile fallback will offer a lifeline to homes which have signed up for the NBN but are left with no service as NBN resolves installation and activation issues. Often these customers are denied the option to return to their previous fixed-line service, even though the  telcos to do this when the NBN has left homes in the lurch.
+Vodafone customers will not be charged for the mobile data used while waiting for an NBN installation, and the telco is prepared to extend this service beyond 30 days depending on individual circumstances.
+
+It remains to be seen exactly how Vodafone will determine which homes are entitled to an extension on the 30-day deadline, although both Vodafone and NBN should expect another backlash if Vodafone starts cutting off homes while NBN still has them in the too-hard basket. There can be long delays between NBN installations and successful activations. 
+The announcement comes after Telstra unveiled its home  earlier this year, which also offers 4G failover but isn't specifically marketed as catering to victims of NBN installation delays. Telstra limits speeds to 6 Mbps but has not placed a time limit on how long customers can use the mobile network while their fixed-line broadband is down.
+
+You will now receive updates from
+
+Technology Newsletter
+
+Technology Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+While Telstra's 4G fallback is designed to automatically kick in, even during a brief fixed-line outage, Vodafone's 4G fallback is intended to "resolve a fault affecting an individual customer's fixed service" and ends "when your NBN service is activated or re-activated". After this it doesn't kick in automatically, Vodafone has confirmed that if there is a fixed-line dropout you need to call Vodafone so it can troubleshoot the problem before it considers re-activating the mobile service.
+Has the NBN rollout gone to plan in your neighbourhood? What's your Plan B?
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adam Turner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>14</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone's 4G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra's 4G</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mbps</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi Hub</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NBNfail</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>13</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>G LTE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G SIM</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Plan B</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

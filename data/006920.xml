@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410381402859028</docid>
+  <date>01/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/08/39/flight-road-warnings-amid-heavy-melb-fog</url>
+  <title>Flight, road warnings amid heavy Melb fog</title>
+  <content>
+Delays are expected at Melbourne airport as a thick fog blankets the city.
+The weather on Wednesday morning forced one plane, a Qantas international flight, to divert to Sydney.
+The fog has VicRoads warning drivers to take care on roads, slow down and use their low-beam lights or fog lights if visibility is poor.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melb</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>VicRoads</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

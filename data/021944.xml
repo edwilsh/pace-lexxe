@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442378909681176</docid>
+  <date>07/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/the-economy/anz-says-job-ads-climb-for-fifth-month-in-july-20170807-gxqqpm.html</url>
+  <title>ANZ says job ads climb for fifth month in July</title>
+  <content>
+Job advertisements rose for a fifth straight month in July, suggesting a strong pick-up in employment seen in recent months could run for a while yet.
+A monthly survey by Australia and New Zealand Banking Group released on Monday showed total job advertisements increased 1.5 per cent in July, from June when they rose 2.7 per cent.Photo: Virginia Star
+Ads of 177,879 were up 12.8 per cent on July last year and at their highest since 2011.
+After sharp increases in employment from March to June, the government measure has finally caught up with the strength seen in ads and nudged the .
+
+"Recent data has shown a clear improvement in labour market conditions consistent with elevated business conditions, profitability and capacity utilisation," said David Plank, ANZ's head of Australian economics.
+He estimated that leading indicators, including job ads, pointed to jobs growth of 15,000 to 20,000 a month in the near term.
+However, Mr Plank also saw hurdles ahead for the labour market.
+Underutilisation rates were high, with people working less hours than they wanted, wage growth was sluggish and the main drivers of economic growth were less labour-intensive than in the past, said Mr Plank.
+Reuters
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand Banking Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Plank</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>David Plank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Virginia Star</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405966176390788</docid>
+  <date>01/08/2017</date>
+  <time>05:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/vic-bikies-charged-over-tattoo-shop-fires/news-story/3d4b6fbe79ef2b8140627787c90f217e</url>
+  <title>Vic bikies charged over tattoo shop fires</title>
+  <content>
+Nine bikies have been charged after two Melbourne tattoo parlours were destroyed by fire.
+The men, who police have linked to the outlaw Finks gang, allegedly caused $250,000 damage to the two shops at Seville and Lilydale, which were set on fire in May.
+They have each been charged with arson and burglary and six will face Melbourne Magistrates' Court on Wednesday, with the remainder scheduled for Thursday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lilydale</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Seville</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fink</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

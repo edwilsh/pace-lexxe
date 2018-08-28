@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407336270984104</docid>
+  <date>01/08/2017</date>
+  <time>11:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/business/breaking-news/factories-power-into-july-across-globe/news-story/80103e48249ef46a87b2ebfef4c45d94</url>
+  <title>Factories power into July across globe</title>
+  <content>
+Factories across the world have powered into July, providing evidence that economic momentum has carried into the second half despite central banks in the West preparing to scale back years of massive stimulus.
+Growth in the euro zone remained buoyant, British manufacturing recovered in July from a seven-month low and Chinese factory activity has unexpectedly expanded.
+A survey due later from the United States is expected to suggest factories chugged along at a slightly more modest but still solid pace.
+"The world economy was doing quite well in the second quarter and nothing has changed in July. The overall picture is pretty healthy," said Andrew Kenningham at Capital Economics on Tuesday.
+"There is nothing immediately on the horizon to cause the global economy generally to slow. Central banks are moving very slowly to remove stimulus - but it is very slow and cautious."
+China and the euro zone are key to the second-half outlook and are expected to drive more of the global recovery because political turmoil in Washington imperils Donald Trump's plans to pass stimulus plans.
+Last week, the International Monetary Fund upgraded its growth projections for China and Europe, while keeping its global forecast at 3.5 per cent.
+Full-year growth in China is widely expected to meet the government's target of 6.5 per cent handily but most analysts predict the broader economy will begin to cool eventually.
+In the second quarter, the euro zone economy expanded 0.6 per cent, matching a median forecast in a Reuters poll and confirming the bloc's robust recovery.
+It will give the European Central Bank more grounds for tweaking its monetary policy.
+In September, the ECB is expected to announce a shift away from its ultra-easy policy, according to a Reuters poll.
+While the US Federal Reserve and ECB are expected to slowly normalise policy after years of cheap money, many Asian central bankers are likely to be more cautious about tapping the brakes.
+Australia's central bank kept its cash rate unchanged at a record low 1.5 per cent on Tuesday, despite saying the domestic and global economy continue to improve.
+Still, signs British factories had a good month should hearten Bank of England policymakers ahead of Thursday's interest rate announcement.
+But more focus will be on Thursday's PMI for the services industry, which drives the bulk of the Britain's economic output.
+IHS Markit's final manufacturing Purchasing Managers' Index for the euro zone dipped to 56.6 from June's six-year high of 57.4, slightly down from a flash estimate of 56.8. Any reading above 50 indicates growth.
+Pointing to momentum continuing, new orders remained firm, backlogs of work built up and hiring was strong. The expansion came despite factories increasing prices for the tenth month.
+Tuesday's Markit/CIPS UK Manufacturing PMI rose to 55.1 from a downwardly revised 54.2 in June.
+China's Caixin/Markit Manufacturing Purchasing Managers' Index (PMI) rose to a four-month high of 51.1, well ahead of June's 50.4, as export orders flooded in.
+The findings were more upbeat than official data on Monday, which suggested a slight loss of momentum. But taken together they pointed to continued resilience in the world's second-largest economy.
+Threats of growing US protectionism continues to hang over Asia's trade-reliant economies.
+Though Trump did not follow through on many of his protectionism threats made during the campaign, there are signs the US administration is growing frustrated at a lack of concessions from its major trading partners.
+So the picture was mixed for Asia, with factory activity shrinking in Indonesia and Malaysia.
+India, one of the world's fastest growing economies, saw its manufacturing sector slam into reverse, as a new Goods and Services Tax sowed confusion among producers.
+In Japan, there were signs sluggish domestic demand is picking up, though stubbornly low inflation likely mean its central bank will not pare back its radical stimulus until long after the Fed and ECB.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Kenningham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Services Tax</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday's Markit/CIPS UK Manufacturing PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>West</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>International Monetary Fund</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China's Caixin/Markit Manufacturing Purchasing Managers' Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday's PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>European Central Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ECB</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malaysia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June's 50.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Purchasing Manager Indices</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Capital Economics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

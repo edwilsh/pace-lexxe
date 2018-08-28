@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444358889635924</docid>
+  <date>07/08/2017</date>
+  <time>10:40</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/politics/greens-call-for-removal-of-the-lords-prayer-from-parliamentary-proceedings/news-story/7bde96ef3b0cf7da2cf253fda5530075</url>
+  <title>Greens call for Lord's Prayer change</title>
+  <content>
+THE Greens will argue to have the Lord's Prayer scrapped from the start of daily proceedings in State Parliament.
+Instead, they favour a daily non-denominational affirmation and a recognition of Aboriginal Tasmanians.
+Greens leader Cassy O'Connor said her party would use an upcoming debate on the House of Assembly Standing Orders to argue for the change.
+Ms O'Connor said it was no longer relevant in a modern Parliament. "In a contemporary Parliament, where we have the separation of church and state, the daily recital of the Christian Lord's Prayer is an anachronism of another time and no longer relevant to the work of Parliament," she said.
+"The Greens recognise that the Parliament currently pays lip service to Tasmania's 40,000-plus years of Aboriginal history, and we believe a daily recognition of the first people is respectful and more appropriate than the current arrangement."
+Premier Will Hodgman said the State Government had no plans to change the practice of opening each day of Parliament with the Lord's Prayer.
+Opposition Leader Rebecca White said she would support recognition of Aboriginal Tasmanians being included in the opening of each sitting day.
+</content>
+  <sindexList>
+  <sindex>
+    <name>State Parliament</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms O'Connor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cassy O'Connor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leader Rebecca White</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>House of Assembly</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Aboriginal Tasmanians</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Christian Lord's Prayer</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Standing Orders</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Premier Will Hodgman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lord's Prayer</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

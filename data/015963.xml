@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423614197345860</docid>
+  <date>04/08/2017</date>
+  <time>02:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/outer-east/no-immediate-plans-for-petrol-station-at-costcos-ringwood-store/news-story/b221520d525dcad0c27e526d94e846c5</url>
+  <title>Costco fuels petrol possibility in outer east</title>
+  <content>
+GROCERY giant Costco says it has its "eyes open" for future opportunities to open a petrol station near the Ringwood store.
+The warehouse giant aims to establish fuel stations at all of its outlets, and plans to open one at its new warehouse in Epping next year.
+
+Costco's store at Moorabbin Airport already has a fuel station.
+But Costco Wholesale Australia managing director and country manager Patrick Noone said there were "a number of reasons" that it wasn't always possible to open a petrol station at its warehouses.
+"In the case of the Ringwood warehouse, we do not currently have anything to confirm about gaining a fuel station in the area," Mr Noone said.
+"We always have our eyes open for future opportunities, though."
+The Ringwood store opened in Bond St in 2013.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ringwood</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Noone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Costco</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Noone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Epping</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Costco Wholesale Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moorabbin Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bond St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

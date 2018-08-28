@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445046084415981</docid>
+  <date>07/08/2017</date>
+  <time>13:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/financial-services/fund-mangers-refuse-to-be-silenced-by-the-banks-over-bear-20170807-gxqrn2</url>
+  <title>Fundies refuse to be silenced by banks over BEAR</title>
+  <content>
+Retail superannuation funds, fund managers and insurers have stood up to significant pressure from the major banks' wealth arms, which wanted them to stay silent rather than object to the banks' call for new rules over executive behaviour to be extended to the most of the financial services sector.
+The Australian Bankers' Association argued in a submission sent to Treasury last week that the Banking Executive Accountability Regime (BEAR), a key measure introduced in the May budget to improve bank culture, should  because banks should compete on a level regulatory playing field.
+Currently, the government has said BEAR - which will include provisions deferring some executive bonuses and requiring executives to be licensed by the prudential regulator - will apply to "authorised deposit taking institutions" (ADIs), including their insurance and wealth divisions.
+But a submission from the Financial Services Council says the majority of its members want BEAR to only apply to banks, in part because the vertically integrated industry structure justifies the additional regulation. The current scope of BEAR "is an effective solution in the context of the complex network of corporate structures that exist in the financial services system," the FSC said.
+
+"To the extent that additional regulatory oversight is required to prevent misconduct, the FSC submits that this oversight should be restricted to responding to public concerns identified in the Coleman Report from the direct connection to ADIs," the FSC said in a reference to the parliamentary committee hearings chaired by Liberal MP  given the banks' failures to discipline senior executives for a string of conduct scandals.
+
+Not silenced
+
+It is understood the wealth divisions of the big banks, which are all members of the FSC, exerted pressure on the other members of the FSC to adopt the banks' position that the scope of BEAR be extended, or at the very least not publicly oppose that position.
+The wealth arms are BT Financial Group, CBA Wealth, NAB Wealth and MLC Life, and ANZ Wealth in Australia.
+But the other members of the FSC, which include all of the big asset managers, refused to be silenced and resolved to file the submission, which says the FSC "supports measures to make the financial services industry more transparent and accountable to consumers" and does not want the current scope changed.
+
+Yet the FSC also highlighted "serious concerns about its design" - which are understood to reflect the views of most of the membership.
+These include new and potentially confusing terminology, an issue also raised by the ABA submission. Instead of using a new concept of "accountable person", the FSC suggested it would be simpler to adopt APRA's existing idea of "responsible person" in its Prudential Standard CPS 520.
+In a separate submission, Herbert Smith called for greater clarity, noting the proposed new obligations were uncertain. The law firm argued that the expectation for bankers to act with "integrity" should be replaced with a duty to act "honestly", which has an existing meaning in law. It also called on the government to elaborate on what will be required by "open and cooperative", noting these are "highly uncertain obligations that in Australia, may cut across existing self-reporting obligations".
+The FSC wants non-executive directors to be exempted from BEAR, noting they are already subject to well-established legal duties, and their inclusion "risks driving a conversion between their roles and responsibilities and those of management".
+
+Potential confusion
+
+The FSC also points to the potential confusion over the delineation of powers between APRA and ASIC, an issue called out by shadow treasurer Chris Bowen, who said last month the extra powers given to APRA by the government in the budget had  between APRA and ASIC.
+Obligations in BEAR for bankers to act with integrity, due skill, care and diligence mirror the existing statutory and common law duties of directors and officers, and "it does not seem helpful to replicate these again in another statute", the FSC said. It also said because ASIC has the responsibility of enforcing existing duties, "it will be quite confusing if directors and officers are accountable to two regulators with potentially different interpretations and views on the meaning and content of these duties".
+Herbert Smith said it would be preferable for BEAR to change the proposal that bankers take reasonable steps to maintain "a culture that supports the spirit of the [prudential] standards", saying this should be reframed to refers to the objects of the prudential standards.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Coleman Report</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MLC Life</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prudential Standard CPS 520</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Financial Services Council</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banking Executive Accountability Regime</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Liberal MP</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Herbert Smith</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>ASIC</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bankers' Association</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>BT Financial Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chris Bowen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB Wealth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ADIs</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>FSC</name>
+    <count>12</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aba</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ANZ Wealth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA Wealth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

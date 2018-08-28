@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446502078356284</docid>
+  <date>07/08/2017</date>
+  <time>18:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/04/48/father-son-found-stabbed-in-sydney-suburb</url>
+  <title>Father, son found stabbed in Sydney suburb</title>
+  <content>
+A father and and his adult son have been found with multiple stab wounds outside a house in a western Sydney suburb.
+Emergency services were called to the house on Horsley Drive, near Curringa Road, in Carramar just before 3am on Tuesday with reports two people had been stabbed.
+The men were taken to Westmead Hospital where they are in serious but stable condition.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Westmead Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Curringa Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Horsley Drive</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carramar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

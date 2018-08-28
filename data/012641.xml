@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419143136301522</docid>
+  <date>03/08/2017</date>
+  <time>08:49</time>
+  <isTopNews>true</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/victoria/white-car-in-double-hitrun-outside-st-pauls-cathedral-20170803-gxoxcq.html</url>
+  <title>White car in double hit-run outside St Paul's Cathedral</title>
+  <content>
+A white car has hit a cyclist and a pedestrian outside St Paul's Cathedral with one man believed to be dead and another taken to hospital with serious injuries.
+The car, which did not have a number plate, stopped briefly before driving off.Photo: Paul Harris
+A witness said the car had run a red light before hitting the two men.
+An ambulance is at the scene and preparing to take one of the victims to hospital.
+A large number of police have closed at least one lane near the corner of Swanston and Flinders streets. 
+Trams along Flinders Street are also being impacted.
+
+R70/75 operating between the suburbs & Flinders/Russell St with no trams between Docklands & Flinders St Station due to traffic incident.
+
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flinders St Station</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders/Russell St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Harris</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swanston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>R70/75</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Paul's Cathedral</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

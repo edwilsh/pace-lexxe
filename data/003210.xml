@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403513750024718</docid>
+  <date>31/07/2017</date>
+  <time>20:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/factfinding-mission-brings-opposition-to-far-north/news-story/a61ebc4aed934ed839ea881576a2e9f6</url>
+  <title>Shorten's NAIF pledge sparks Clare visit</title>
+  <content>
+LABOR Leader Bill Shorten's pledge to quarantine $1 billion from the Northern Australia Infrastructure Facility for tourism projects has prompted a quick fact-finding mission to Cairns from shadow minister Jason Clare.
+The Opposition spokesman for Northern Australia visited members of Tourism Tropical North Queensland and Advance Cairns to gauge what kind of Far North tourism operations could use the NAIF loans.
+"Some (tourism operators) have approached NAIF and have decided not to submit bids," he said.
+"But there's not one tourism project currently being considered by NAIF.
+"What rules need to change to make it easier for investment in the sort of infrastructure here in Cairns?"
+The Cairns Airport has not made any bid for NAIF funding following the cancellation of its former plan for a $1 billion expansion program over two decades.
+"The bigger and better the airport is, the more tourists we can attract," Mr Clare said. "Last time I was here we talked about getting the superyacht industry here in town.
+"But that's just the start. Business usually has the best ideas.
+"We want to make sure we hear from them over the next 12 months."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tourism Tropical North Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Clare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northern Australia Infrastructure Facility</name>
+    <count>1</count>
+    <score>-0.67</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shorten's NAIF</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Far North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Clare</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jason Clare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LABOR Leader Bill Shorten</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Advance Cairns</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

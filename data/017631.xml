@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651428892712243576</docid>
+  <date>04/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/08/30/man-dies-in-western-sydney-crash</url>
+  <title>Man dies in western Sydney crash</title>
+  <content>
+A man has died following a two-car crash in western Sydney.
+The accident occurred on the Great Western Highway in Minchinbury at about 8.20pm Friday.
+The 54-year-old male driver of one car was was treated by paramedics but died at the scene.
+The other driver, a 58-year-old man, was also treated by paramedics and taken to Mt Druitt Hospital for mandatory testing.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Great Western Highway</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Minchinbury</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Druitt Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424267032384388</docid>
+  <date>04/08/2017</date>
+  <time>04:42</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/computershare-sells-indian-venture/news-story/da8083717499f19e13178b0b69bd9fb0</url>
+  <title>Computershare sells Indian venture</title>
+  <content>
+Computershare has sold its 50% interest in its Indian venture, Karvy Computershare to General Atlantic.
+Computershare expects to realise post tax proceeds of US$90 million (A$113m) upon completion of the sale.
+Karvy Computershare's contribution to the Computershare Group's post tax earnings has been around 1.5% in recent periods.
+Computershare expects to book a post-tax accounting gain on sale of US$120 million subject to future changes in net assets and foreign exchange rates.
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$120</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Computershare Group</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Indian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>General Atlantic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Karvy Computershare</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Computershare</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US90</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416480256533396</docid>
+  <date>02/08/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/crime-and-justice/bomb-hoax-two-charged-after-threats-allegedly-made-to-rockhampton-shopping-centre/news-story/d939178613dad00310dda0b4b35335b3</url>
+  <title>Two charged after shopping centre bomb hoax</title>
+  <content>
+POLICE have charged two men after a Rockhampton shopping centre was allegedly threatened with a bomb.
+The shopping centre on Yamba Rd was evacuated yesterday morning when a threatening call was allegedly made to staff at a business in the centre.
+Another call was also allegedly made to staff at a service station in Allenstown,
+Police were able to determine that threats were unsubstantiated.
+Two Gracemere men, aged 24 and 26, have since been charged with two counts each of bomb hoax and are expected to front Rockhampton Magistrates court today.
+Those convicted of making a bomb threat could face up to five years jail time.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gracemere</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Yamba Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton Magistrates</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Allenstown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

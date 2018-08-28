@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422544750471116</docid>
+  <date>03/08/2017</date>
+  <time>22:01</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/dukes-of-hazzard-star-on-assault-charges/news-story/8201d4b28fa46212afec788b3c4991fc</url>
+  <title>Dukes of Hazzard star on assault charges</title>
+  <content>
+The actor who played Luke on the 1980s television show The Dukes of Hazzard has been charged in Massachusetts with groping a female member of the cast of a musical he was supposed to appear in.
+Tom Wopat pleaded not guilty on Thursday to indecent assault and battery and drug charges.
+He was released on $US1000 ($A1250) bail and told to stay away from the woman. He refused to comment outside court.
+Waltham police arrested the 65-year-old Wopat about 11pm on Wednesday. Police say during a search of his vehicle they found a white powder believed to be cocaine.
+Wopat was supposed to play Julian Marsh in 42nd Street at the Waltham-based Reagle Music Theatre of Greater Boston, but the theatre announced on Thursday that a different actor would play the role.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tom Wopat</name>
+    <count>1</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>US1000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dukes of Hazzard</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wopat</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Waltham-based Reagle Music Theatre of Greater</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Luke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Julian Marsh</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Waltham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Massachusetts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

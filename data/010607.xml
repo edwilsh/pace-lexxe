@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416699299869395</docid>
+  <date>02/08/2017</date>
+  <time>23:20</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/national/melbourne-train-delays-due-to-massive-electrical-spark/news-story/1513dc6870dac0f6a8525370eadc60b4</url>
+  <title>Explosion sparks peak hour train delays</title>
+  <content>
+A MASSIVE electrical spark has ground Melbourne trains to a halt this morning near Flinders St Station.
+Passengers on board the affected train were forced to jump off and walk along Batman Ave to the nearby station.
+Herald Sun digital editor Nathaniel Bane was on the train directly behind. As his service was about to arrive at Flinders St the lights went out suddenly as the train lost power.
+"We were in darkness for a moment then the emergency lights came on," he said.
+"The driver came on pretty quick and said there was an issue with the train ahead, it was stuck under the Batman Bridge because of an electrical fault, and we were going nowhere."
+A fire engine was seen heading past minutes later before the driver told passengers they had to get off the train on to the tracks.
+"Passengers were getting a little grumpy being late for work but the driver kept us up to date," he said.
+"We all shuffled to the back driver's compartment and jumped off on to the tracks.
+"Because our track was closest to a road we just walked through a gate then up the road into the city."
+Metro spokeswoman Sammie Black confirmed an overhead power issue between Richmond and Flinders St station caused the delays.
+Delays of up to 25 minutes continue to affect trains between Richmond and Flinders St Station on the Sandringham line.
+MFB crews were called to Flinders St station at 7.24am but confirmed it was a "false alarm" and there was no fire.
+Crews left the scene a short time later.
+Electricians are on site and Metro said they are hoping to restore power shortly.
+Commuters are urged to check the Metro website for information about delayed services.
+Motorists are also facing major delays this morning as five crashes within a one kilometre stretch of the Western Ring road caused traffic chaos about 7am.
+All collisions have now been moved into the emergency lane and speed limits are down to 40km/h in the area and delays continue back to the Tullamarine Freeway.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Flinders St Station</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MFB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metro</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Western Ring</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sammie Black</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Batman Ave</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nathaniel Bane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders St</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tullamarine Freeway</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Batman Bridge</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Herald Sun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandringham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

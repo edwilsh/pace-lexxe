@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424133888395928</docid>
+  <date>04/08/2017</date>
+  <time>04:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/perth-postal-worker-stomped-on-ground/news-story/b881d921ac39f4eecc9aa66bc074b308</url>
+  <title>Perth postal worker stomped on ground</title>
+  <content>
+A 71-year-old postal worker in Perth has been knocked off her motorbike by a man and repeatedly kicked as she lay on the ground.
+Police say she was delivering mail on Templeman Place in Midland about 1.30pm on Thursday when the man attacked her.
+The woman suffered minor injuries and was discharged from St John of God Midland Hospital on Thursday.
+Police are still looking for the man, who is described as being aged in his 20s, unshaven with tanned skin and wearing a black hoodie.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIDLAND</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Templeman Place</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Midland Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St John of God</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

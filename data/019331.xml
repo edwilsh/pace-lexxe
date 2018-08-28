@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435292213573157</docid>
+  <date>05/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-06/big-data-devices-get-more-free-energy-from-sun/8774584</url>
+  <title>Solar panels innovation gives round-the-clock power without pricey battery storage</title>
+  <content>
+Imagine if energy from your solar panels could give you hot water around the clock without the need to buy an expensive battery storage unit.
+That concept is already a reality, with cost-cutting energy devices which leverage the power of "big data" helping households get more out of their solar panels by effectively using their hot water system as a battery.
+One of the biggest gripes for solar panel owners is that they typically only use around half of the energy they produce before it is exported back to the electricity grid.
+
+Households are paid a tariff for the power they export to the grid - but that fee has been dramatically scaled back in recent years, providing further incentive for householders to want to use as much of the power they generate themselves as possible.
+Expensive battery systems were touted as the only option to secure more power, but high-tech monitoring devices can provide households with a cheaper option.
+The devices utilise "big data", which is the collection of extremely large data sets that are computer-analysed to reveal patterns and trends.
+It is what allows people to do things like stream music, look up GPS directions and post pictures online. But it is also helping consumers cut their power bills.
+"Big data allows households to optimise their energy use and allows people to have more control of what electricity they use from the solar panels," Curtin University sustainability expert Dev Tayal said.
+"As electricity prices rise and as some of the more generous rebates and feed-in tariffs wind back, we're only going to see an increased uptake of smart intelligent devices."
+
+External Link:
+
+Power prices datawrapper
+Family's bills cut $180
+
+The Jukes family were early adopters and are learning how big data works in the real world at their house in central Queensland.
+The household of six are trialling a new device called Paladin, designed to make sure 95 per cent of their solar power is used in their home and not sent to the grid.
+"I have quite a large family, I have four children and and my husband so our power bills were quite large," Leticia Jukes said.
+"Since we've had the Paladin put in it has further reduced our bill by another $180 per quarter, so big savings for a big family."
+
+The device gathers huge amounts of data by monitoring the electricity network, the hot water temperature and their home's energy demands 3,600 times a second.
+It then diverts excess solar power to the hot water system, which is one of the most power-hungry appliances for households, accounting for up to 40 per cent of usage and usually run by expensive grid power at night.
+Any surplus energy is then fed back into the grid.
+"The idea is to keep the hot water topped up to the max during the day so there will be enough hot water to see you through the night, and then as soon as first sunlight comes up, Paladin will go to work and start reheating your hot water," Paladin Solar Australia director Mark Robinson said.
+
+The system has been successfully trialled in New Zealand, but Paladin Solar saw potential in Australia with rising power prices and falling feed-in tariffs.
+"It can divert - in a 50th of a second - power back to the hot water system watt for watt, it does not need to wait for the solar to match the size of the hot water element," he said.
+"Other products were doing a similar thing but weren't turning the hot water element off so then all of a sudden power was being drawn from the grid, and that's just defeating the whole exercise, whereas Paladin is monitoring both ways," he said.
+The device also diverts energy to charge an electric car or heat a pool.
+Customer demands predicted
+
+Energy utilities have started leveraging its power to better predict customer demands, breaking away from the traditional method of using a rule of thumb or average to estimate needs.
+"That average was always conservative because the last thing they (utilities) want to do is supply a customer and then not be able to meet their demand, so quite often networks have been overbuilt and customers overcharged," energy consultant David Martin said.
+
+"But now with a greater reliance on more specific and more accurate data, the network connection can be made to fit."
+Western Power has worked hard to keep pace with rapid technology advances, installing smart monitoring devices to gather large data sets on consumer demands.
+"In the past you got a read of a meter once a month, now you've got a read a day, you've got a read at intervals during the day," Western Power CEO Guy Chalkley said.
+That information has helped the utility create its own software, cutting costs for businesses by as much as to 90 per cent.
+"It is the first time we've been able to use this sort of data to this extent for this amount of accuracy," Mr Chalkley said.
+"We've certainly got connections that would have cost $50,000 that could be as low as $5,000 now, so it's a massive boost from an economy perspective.
+
+Sweetlips fish and chip restaurant owner Michael Waldock welcomed the innovation, having spent many thousands of dollars connecting and upgrading grid connections at his three stores.
+"It could be tens of thousands of dollars depending on where your location is and what infrastructure you need," he said.
+"If they can gauge that more accurately and only have to build what we have to build, that would be fantastic."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sweetlips</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Power</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paladin Solar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Power CEO Guy Chalkley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MARK ROBINSON</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paladin</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>David Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Michael Waldock</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>GPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Chalkley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paladin Solar Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leticia Jukes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dev Tayal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jukes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Curtin University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

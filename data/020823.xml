@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651439587180906929</docid>
+  <date>06/08/2017</date>
+  <time>16:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/everybody-lies-wikipedia-success-study-2017-8</url>
+  <title>A former Google data scientist studied thousands of people on Wikipedia and uncovered key insights about what makes people successful</title>
+  <content>
+Unless you're famous for doing something terrible, having your own Wikipedia page is probably a point of pride.
+
+The question on Seth Stephens-Davidowitz's mind is: What does it take to actually attain that level of prominence?
+
+The short answer, according to his analysis of thousands of Wikipedia pages: Grow up near a big college town that is diverse and somewhat urban.
+
+Stephens-Davidowitz is a former Google data scientist and Harvard-trained economist. He's also the author of the new book
+
+The book presents research on how Internet searches can get at people's innermost thoughts and desires. Instead of calling people into a lab, Stephens-Davidowitz prefers to look at what the masses are confessing to Google at 8:36 p.m. on a Wednesday.
+
+This data can also be harnessed to learn a few things about what makes people successful. To do that, Stephens-Davidowitz downloaded all of Wikipedia - something one can do, apparently - and plucked more than 150,000 editor-approved entries about individuals to comprise his initial dataset. His metric for success was simply that the included individuals had their own Wikipedia page. (Stephens-Davidowitz acknowledged the metric for notability wasn't perfect, but he said he was able to remove illegitimate data points without affecting results too much.)
+
+That dataset included each person's county of birth, date of birth, occupation, and gender. He limited the sample to baby boomers, "because they have had nearly a full lifetime to become notable," he wrote.
+
+His analysis showed roughly 30% of people found success through arts and entertainment, 29% through sports, 9% through politics, and 3% through science or academia. That breakdown was interesting on its own, but as Stephens-Davidowitz explained, the reasons for people's success stood out the most.
+
+For one, geography played an enormous role in producing a Wikipedia success story. Out of the total boomer population born in California, for example, one in 1,209 had a Wikipedia page. Meanwhile, only one in 4,496 West Virginia-natives did. If you zoom in to the county level, he said, "the results become more telling." Boston's Suffolk County showed one in 748 boomers becoming successful; in other counties, the success rate was 20 times lower.
+
+Looking deeper, geography seemed to matter most when people grew up near large, semi-urban college towns. For example, the counties containing Madison, Wisconsin; Berkeley, California; Chapel Hill, North Carolina, and Ithaca, New York were all in the top 3% of page frequency. Those towns are home to the University of Madison, Wisconsin; University of California, Berkeley; UNC Chapel Hill; and Cornell.
+
+Diversity also seemed to play an outsized role in shaping success stories.
+
+"The greater the percentage of foreign-born residents in an area, the higher the proportion of children born there who go on to notable success," Stephens-Davidowitz wrote. The effect was so great, among two equal college towns, both of a decent size, "the one with more immigrants will produce more prominent Americans."
+
+The picture that emerges from these factors is one where immigrant-rich college towns become hubs for creativity, curiosity, and determination. Kids born in proximity to universities gain access to resources that other kids don't, both in tangible terms, such as access to the arts and sciences, and in the thoughts and attitudes they develop.
+
+"Perhaps this effort to zoom in on the places where hundreds of thousands of the most famous Americans were born can give us some initial strategies," Stephens-Davidowitz concluded of the research, "encouraging immigration, subsidizing universities, and supporting the arts, among them."
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cornell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Berkeley</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Seth Stephens-Davidowitz</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Madison</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephens-Davidowitz</name>
+    <count>7</count>
+    <score>5.5</score>
+  </sindex>
+  <sindex>
+    <name>Wikipedia</name>
+    <count>7</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Chapel Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Madison</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Virginia-natives</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UNC-Chapel Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ithaca</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wisconsin</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston's Suffolk County</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Harvard-trained</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Carolina</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

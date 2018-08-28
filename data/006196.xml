@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407808717396964</docid>
+  <date>01/08/2017</date>
+  <time>12:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/technology/threat-of-a-split-from-bitcoins-civil-war-avoided-for-now/news-story/287555c7e6a67d7367fe6e4dca7d4875</url>
+  <title>The billion dollar battle over Bitcoin</title>
+  <content>
+ON THE eve of a major change in bitcoin, a threat of a split in the digital currency has been avoided - for now.
+A move by users to force a change in the computer code by Tuesday (AEST) has worked. A majority of "miners" - the core bitcoin users who verify bitcoin transactions around the world - has signalled support.
+Though the change is designed to improve capacity on the increasingly clogged network, some miners had objected because it could reduce transaction fees they collect.
+The show of support has helped reverse a slide in the value of bitcoin from around $US1,900 two weeks ago to roughly $US2,800 overnight.
+However, some uncertainty still remains. A May agreement between large bitcoin companies effectively pushes the threat of a split off until November. And one proposal to launch an alternative currency, Bitcoin Cash, is sowing confusion and fears of scam trades.
+Here's a look at the current dispute.
+WHAT IS BITCOIN, AGAIN?
+Bitcoin is a digital currency that's not tied to any bank or government. Like cash, it lets users spend or receive money anonymously, or mostly so; like other online payment services, it also lets them do so over the internet.
+The coins are created by miners, who operate computer farms that verify other users' transactions by solving complex mathematical puzzles. These miners receive bitcoin in exchange. It's also possible to exchange bitcoin for US dollars and other currencies.
+Bitcoin has been touted as a currency of the future, but so far it hasn't proven very popular as a way to pay for goods or services.
+WHAT'S BEHIND THE FUSS?
+In a word, speed.
+The bitcoin network is limited in how quickly it can shuffle around digital money. As bitcoin has grown, payment delays have become more common and worrisome.
+Some software developers came up with a way to speed things up by re-engineering bitcoin's universal ledger, a file called the blockchain. Supporters of the new method include Microsoft, the bitcoin exchange Coinbase and a variety of other bitcoin proponents who would like to see the currency used more widely in commerce.
+Reformers had threatened to stop recognising transactions confirmed by miners who hadn't adopted the upgrade.
+WHAT WOULD A SPLIT MEAN?
+Generally speaking, chaos - though mostly limited to those who use or squirrel away bitcoin. People who use bitcoin couldn't be sure which version they held, or what might happen if they spent it or accepted bitcoin as payment. Taking bitcoin, for instance, could leave you with currency you couldn't spend freely - and that might disappear entirely if it ended up being the "wrong" kind.
+That's one reason the community-supported website Bitcoin.org had warned users not to accept any bitcoin up to two days prior to Monday's deadline and to wait for confirmation the situation had been resolved before trading again. But the change now has the support needed to proceed, so a disruption isn't likely this week.
+WHAT ARE THE REMAINING ISSUES?
+A separate group of developers sought to solve the speed issue by proposing a new currency called Bitcoin Cash. It effectively rewards every owner of bitcoin with an equal amount of the new currency using a system that can handle much higher volumes of trades.
+But some digital currency exchange operators- including Coinbase and Bitstamp - have said they won't support Bitcoin Cash. And Cornell computer science professor Emin Gun Sirer says savvy traders can game the system to create free money for themselves.
+Bitcoin Cash was slated to launch Wednesday (AEST). As of Tuesday (AEST) the price of Bitcoin Cash futures was about one-tenth of bitcoin itself.
+Tone Vays, a bitcoin analyst and consultant, says he thinks Bitcoin Cash is destined to become one of many alternative digital currencies known as "alt- coins." He says the concept is similar to Clams, digital coins that were also awarded to bitcoin holders in 2014 but now trade at about one-thousandth of bitcoin's price.
+Once Bitcoin Cash goes live this week, people "will immediately sell it for bitcoin," he said.
+Meanwhile, major companies that came together on the May agreement committed to a second change by November that could still result in a split of bitcoin into two incompatible currencies if a significant number of miners don't agree. "The big drama has thus been postponed," Sirer said.
+
+Blockchain is a decentralised digital ledger that records transactions in real time, and stores them in an online network, but how does it work?
+
+What is Blockchain?
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cornell</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>SPLIT MEAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sirer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vays</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1,900</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2,800</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>S BEHIND</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitcoin Cash</name>
+    <count>7</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bitstamp</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Coinbase</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>REMAINING ISSUES</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Emin Gun Sirer</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

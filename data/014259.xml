@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423399448977337</docid>
+  <date>04/08/2017</date>
+  <time>01:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4832847/heaviest-rain-in-two-months-soaks-wollongong-after-record-dry-july/?cs=12</url>
+  <title>Heaviest rain in two months soaks Wollongong after record dry July</title>
+  <content>
+File image. A wet Keira Street in Wollongong during rain in March. Picture: Georgia Matts
+
+The heaviest rain in almost two months softened parched ground across Wollongong on Thursday - a welcome soaking after the city's driest July on record.
+The rainfall, recorded in just a few hours on Thursday, was up to eight times the amount that fell during the entire month of July in parts of the city.
+
+Wollongong's two weather stations - Albion Park and Bellambi -had just three per cent of their usual July rainfall. 
+
+A measly 2.4mm for the month was recorded at Bellambi - delivering the suburb its driest July in 21 years of records - while only 1.4mm was recorded at Albion Park.
+A Mercury analysis of Bureau of Meteorology (BOM) rainfall data shows Albion Park also experienced its driest July on record, although it wasn't included in the bureau's monthly climate summary.
+Some rainfall reprieve came on July 31. However, because the BOM's records its data in the 24 hours to 9am, the falls were registered as the August 1 total.
+The bureau has also experienced problems with its automatic weather station (AWS) at Bellambi in recent weeks - it didn't record a drop of the July 31 rainfall, despite nearby Balgownie getting 10mm.
+Thursday's rainfall delivered upwards of 10mm across Wollongong, with the 16mm at Bellambi its wettest day since June 11. 
+The 12mm at Albion Park in the 24 hours to 9am on Friday was that suburb's wettest since June 8 and followed a 10.6mm fall to 9am on August 1. 
+On the temperature front, two July records were broken at Bellambi.
+The coastal weather station registered its highest July temperature on record on July 30 when the mercury soared to 26.8 degrees, breaking the previous monthly high of 25.3 (recorded in 2016).
+
+The July average is 16.9 degrees - a figure also surpassed last month.
+Bellambi's average daily minimum for July 2017 was 18.5 degrees, beating the previous record of 18.1 set in 2005. 
+Looking ahead, the bureau said the August-to-October outlook in Wollongong was for below average rainfall in August, before improving slightly.
+Daytime and nighttime temperatures are expected to be warmer than average across the three-month period.
+WHERE THURSDAY'S RAIN FELL
+
+Cringila - 14mm
+Balgownie - 14mm
+Wongawilli - 10mm
+Albion Park (Wollongong AWS) - 12mm
+Bellambi - 16mm
+Port Kembla - 18mm
+Kiama - 21mm
+Nowra - 22mm
+
+*rainfall totals in the 24 hours to 9am on Friday.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOM</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cringila - 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Albion Park</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bellambi</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wongawilli - 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Georgia Matts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August-to-October</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 31</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balgownie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balgownie - 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bellambi - 16</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Keira Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>THURSDAY'S RAIN FELL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nowra - 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Kembla - 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>June 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AWS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>9</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong AWS) - 12</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kiama - 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

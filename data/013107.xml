@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419533978333360</docid>
+  <date>03/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/two-hurt-in-melbourne-cbd-hit-and-run/news-story/58649e057d441ced631ff806ca817756</url>
+  <title>Two hurt in Melbourne CBD hit and run</title>
+  <content>
+Two people have been run down by a car near Melbourne's Flinders Street Station with police hunting for the driver.
+The pedestrian and cyclist, both believed to be men, were hit about 6.30pm on Thursday at the intersection of Flinders and Swanston streets.
+The driver sped away and is yet to be found.
+One person was treated at the scene and the other taken to The Alfred hospital in a stable condition with non-life threatening injuries, an ambulance spokeswoman said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Melbourne's Flinders Street Station</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Swanston</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's CBD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alfred</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Flinders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

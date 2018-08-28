@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416063644697717</docid>
+  <date>02/08/2017</date>
+  <time>20:52</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/03/human-embryos-edited-stop-disease-gene-scientific-first</url>
+  <title>Human embryos 'edited' to stop disease gene, in scientific first</title>
+  <content>
+Scientists in the United States have repaired a disease-causing mutation in the DNA of early-stage human embryos, they said on Wednesday, taking a step closer to engineering babies free of inherited disorders.
+
+Source:
+
+AFP, SBS News
+
+7 MINS AGO  UPDATED 6 MINS AGO
+
+The team's successful use of the CRISPR "gene editing" tool in viable embryos was hailed as a technical feat by outside experts, who called at the same time for deeper debate on the ethics of altering human DNA.
+
+The lab-created, edited embryos were not allowed to develop beyond a few days, when they comprised a handful of cells.
+
+Just over 72 per cent of the embryos - 42 out of 58 - ended up being free of a heart disease-causing mutation carried in the DNA of the sperm used to create them, a team reported in the journal Nature.
+
+This was an improvement on the 50 per cent odds for embryos that result naturally from a couple in which one partner carries the coding error.
+
+With further improvement, said study co-author Paula Amato of the Oregon Health and Science University, the method can "potentially be used to prevent transmission of genetic disease to future generations".
+
+The alteration itself is heritable, meaning that the children and grandchildren of a person born with edited DNA will be safe from the same genetic disease.
+
+Further research is needed to determine the technique's safety, and to boost its accuracy to as close to 100 per cent as possible, before it can be used to create embryos meant to develop into healthy babies.
+
+"I am quite sure that there are tools that we could use to improve [...] this repair so that we could achieve, say, 90 to maybe 100 per cent efficiency. Then I would say we would be ready to move to clinical trials," said Amato's colleague Shoukhrat Mitalipov.
+
+Gene editing is controversial because it evokes a future in which humans can order 'designer' babies with specific features - blonde hair, athleticism, perhaps even intelligence.
+
+But there is also the prospect of avoiding heritable, genetic diseases that can handicap or kill.
+
+Amato, Shoukhrat and a team studied a gene mutation which causes hypertrophic cardiomyopathy, a hereditary disease of the heart muscle which can translate into sudden heart failure and death, notably in athletes.
+
+No longer fantasy
+
+It is a type of disorder, like Huntington's Disease, that requires an abnormal gene from just one parent.
+
+The researchers used sperm from a donor carrying the mutation, and eggs from healthy women.
+
+They injected the CRISPR-Cas9 editing tool into the eggs at the same time as the sperm - a major departure from what other teams have done.
+
+The researchers found that 72.4 per cent of the embryos, not 50 per cent as would have been expected, were free of the errant gene.
+
+Nor were there unintended mutations in other parts of the genome.
+
+In previous CRISPR studies in China, the gene-editing tool was added only after fertilisation.
+
+Those teams had problems with 'mosaicism', which occurs when some cells in an embryo are corrected, and some not.
+
+In the new study, just one embryo turned out a mosaic.
+
+"We definitely want to replicate this study with other mutations and other donors," said Amato.
+
+CRISPR is a revolutionary gene-editing technique which allows scientists to insert, remove and correct DNA within a cell with pinpoint precision.
+
+For Peter Braude, a reproductive health expert from King's College London, the study showed that "germline genome editing has moved from future fantasy to the world of possibility".
+
+The debate about using it in practice, he added, "needs to run to catch up".
+
+"Perhaps the biggest question, and probably the one that will be debated the most, is whether we should be physically altering the genes of an IVF (lab-created) embryo at all," added Darren Griffin of the University of Kent, in Britain.
+
+"Equally, the debate on how morally acceptable it is not to act when we have the technology to prevent these life-threatening diseases must also come into play."
+
+Modifying the human race
+
+Currently, the only way to avoid heritable disease in assisted reproduction is to fertilise eggs in the lab, analyse the DNA of the resulting embryos, and eliminate those containing errors.
+
+The new CRISPR technique could be used to increase the number of viable embryos for implantation, said the team, thus reducing the number of eggs that have to be invasively harvested.
+
+In 2015, a UN bioethics committee called for a stop to human embryo gene editing for fears it could be used to modify the human race.
+
+Last year, Britain granted scientists permission to edit embryo DNA in research on the causes of infertility and miscarriages.
+
+And in February this year, a US science advisory committee said such modification should be allowed in future to eliminate disease.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 6 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoukhrat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huntington's Disease</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Darren Griffin of the University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IVF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paula Amato of the Oregon</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kings College London</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amato</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CRISPR</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Science University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shoukhrat Mitalipov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DNA</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CRISPR/Cas9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Braude</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SBS News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

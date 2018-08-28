@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442421859354753</docid>
+  <date>07/08/2017</date>
+  <time>03:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4838290/south-coast-line-airport-trains-back-to-normal/?cs=12</url>
+  <title>South Coast line, Airport trains back to normal</title>
+  <content>
+Rail services are back to normal after the Airport Line was shut down after a crane toppled into an apartment complex at Wolli Creek on Sunday. Picture: Michele Mossop
+
+Evening peak services on the South Coast line and trips to Sydney Airport will not be affected by Sunday's crane collapse at Wolli Creek.
+On Sunday morning a large crane collapsed into an apartment complex at Wolli Creek.
+The complex was evacuated, with up to 200 residents having to find temporary accommodation.
+Trains on a section of the Airport Line were cancelled and Sydney Trains was concerned about possible delays on Monday.
+
+"There may not be rail services to both the international and domestic airports [on Monday] morning,""CEO Howard Collins said.
+However the crane was secured late on Sunday night and the airport line reopened.
+A TrainLink NSW spokesman said the South Coast line commuters were not affected on Monday.
+"There are no impacts on South Coast Line services today from the crane incident at Wolli Creek yesterday," the spokesman said.
+
+"Trains are running as normal on the T2 Airport Line for our South Coast customers who plan to travel to Sydney Airport."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Airport</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>T2 Airport Line</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Airport Line</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wolli Creek</name>
+    <count>4</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>South Coast</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>TrainLink NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO Howard Collins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Coast Line</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MICHELE MOSSOP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Trains</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

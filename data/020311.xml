@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437693100311673</docid>
+  <date>06/08/2017</date>
+  <time>08:48</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/north-america/not-taking-a-vacation-on-twitter-trump-offers-thoughts-on-sessions-and-the-un-20170806-gxq935</url>
+  <title>Not taking a vacation on Twitter, Trump offers thoughts on Sessions and the UN</title>
+  <content>
+by
+John Wagner
+
+President Donald Trump might be on a "working vacation," but he made it clear over the weekend that he's not taking a break from Twitter.
+A flurry of tweets and retweets on varied topics included one disputing the notion that he is actually on vacation at all. Aides have described the president's planned 17-day stretch at his secluded golf club here as a "working vacation," suggesting that he won't be seen much in public but will be talking a good deal to lawmakers and staff.
+"Working in Bedminster, N.J., as long planned construction is being done at the White House," Trump said on Twitter. "This is not a vacation - meetings and calls!"
+He was referring to an overhaul of the heating and air-conditioning systems and other renovations in the West Wing.
+
+Other Trump tweets Saturday night offered praise for Attorney General Jeff Sessions, who Trump only recently referred to as "beleaguered," and for the United Nations Security Council.
+
+Sessions said Friday that the Justice Department has more than tripled the number of leak investigations compared with the number that were ongoing at the end of the last administration, highlighting the department's efforts to crack down on unauthorised disclosures of sensitive information, some of which have resulted in negative media stories about Trump.
+The announcement seemed designed in part to reassure Trump, who recently criticised Sessions as being "weak" on leak investigations.
+"After many years of LEAKS going on in Washington, it is great to see the A.G. taking action! For National Security, the tougher the better!" Trump wrote Saturday night.
+Trump also made clear that he was pleased with the unanimous U.N. Security Council vote Saturday to impose new sanctions on North Korea. The sanctions ban exports that supply up to a third of the country's annual $3 billion in earnings.
+
+The U.S.-sponsored resolution was in response to North Korea's launch of two intercontinental ballistic missiles last month, activities prohibited under existing U.N. resolutions.
+"The United Nations Security Council just voted 15-0 to sanction North Korea. China and Russia voted with us. Very big financial impact!" Trump wrote.
+Earlier, he amplified the assessment of a Fox News personality who weighed in on the case of a former Democratic staffer who is facing bank fraud charges.
+The former staffer, Imran Awan, who worked for Rep. Debbie Wasserman Schultz, D-Fla., among others, last week pleaded not guilty in response to allegations that he and his wife engaged in a scheme to defraud the Congressional Federal Credit Union based on misrepresentations made to obtain a loan.
+
+Awan's attorney has connections to former president Bill Clinton and his wife, former secretary of state Hillary Clinton.
+Jesse Watters noted that on the air last week, which was highlighted in a tweet by "Rightly News," a handle that as of Saturday night had fewer than 6,000 followers.
+Trump retweeted its video snippet of Watters asking: "What's a high-priced Clinton attorney doing representing a low-level IT staffer for the Democrats?"
+Trump also referenced a Washington Post article that quoted an administration official's assessment of progress being made against the Islamic State terrorist group under Trump's watch.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>UN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jesse Watters</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>N.J</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Imran Awan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Watters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>U.S</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>U.N</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democrats</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Debbie Wasserman-Schultz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Congressional Federal Credit Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fox News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>U.N. Security Council</name>
+    <count>1</count>
+    <score>3.2</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Awan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Wagner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rep</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>12</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>West Wing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>D-Fla</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Attorney General Jeff Sessions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bedminster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Security</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United Nations Security Council</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

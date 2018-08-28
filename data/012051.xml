@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418541840868844</docid>
+  <date>03/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/crime-court/police-suspect-three-armed-robberies-were-linked-allegedly-committed-by-gavin-rankin-50/news-story/44da4bd7f0b6c24e4db7b1c8ab478961</url>
+  <title>Armed robberies linked: Police</title>
+  <content>
+INVESTIGATORS believe a string of robberies by a man armed with a knife were committed by the same suspect.
+Police believe Gavin Rankin, 50, was behind three armed robberies in the past week,
+Rankin was captured on CCTV at a Darwin massage parlour and two service stations in the space of five days.
+Detective Acting Senior Sergeant Karl Day said Rankin allegedly held up the BP Palms service station.
+"The most recent incident involved a male entering the BP Palms service station just after 11pm yesterday and treating a staff member with a knife," he said.
+"The male fled the area with a quantity of cash, food and cigarettes."
+Sen-Sgt Day said police believed Rankin was still in the Darwin area, but could travel interstate.
+"We are asking all members of the public, including service stations and licensed premises to be on the lookout for Gavin."
+Rankin is described as caucasian, 170cm tall and of medium build with short dark hair and possible facial hair.
+Sen-Sgt Day urged the public not to approach Rankin.
+Any sightings to police on 131 444 or Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Rankin</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Detective Acting Senior Sergeant Karl Day</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Darwin</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gavin Rankin, 50</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>BP Palms</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sen-Sgt Day</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gavin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

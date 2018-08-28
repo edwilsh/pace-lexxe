@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442211405954214</docid>
+  <date>07/08/2017</date>
+  <time>02:20</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/firies-to-man-the-tower-for-motor-neurone/3209557/</url>
+  <title>Firies to man the tower for Motor Neurone</title>
+  <content>
+A CREW of 11 firefighters from the 257 Coffs Harbour Fire Station are to tackle the Sydney Tower Climb for Motor Neurone Disease.
+
+This year as a team the local firies will join with their fellow firefighting comrades to tackle the 98 storeys, or 1504 stairs of Sydney Tower Eye wearing full structural firefighting ensemble and air sets with a combined weight of over 20-kilograms.
+
+"We are a crew of firefighters with very diverse backgrounds who come together as a team to serve and protect our community," spokesman David Laarhoven said.  
+
+"At a vertical rise of 820 feet, the climb to the observation deck is a gruelling challenge.
+
+"Each floor of the stairwell is dedicated to patients of Motor Neurone Diseas both past and present.
+
+"It's a harrowing journey supporting those living with the horrific disease."
+
+Motor Neurone Disease is a progressive, terminal neurological disease of which there is no known treatment or cure.
+
+Each day, in Australia, two or more people die from MND and more than two people are diagnosed with MND.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MND</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Tower Climb</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Motor Neurone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Firies</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour Fire Station</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney Tower Eye</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Motor Neurone Diseas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Laarhoven</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Motor-Neurone Disease</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

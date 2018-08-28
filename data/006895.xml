@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410080755142216</docid>
+  <date>01/08/2017</date>
+  <time>21:39</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/vic/2017/08/02/wanted-indian-driver-calls-australia-racist/</url>
+  <title>Indian driver wanted over teen's death calls Australia "racist'</title>
+  <content>
+A man who fled to India after killing a teenager while drink driving in Melbourne is reportedly fighting his extradition, again claiming Australia is racist.
+Puneet Puneet was on bail charged over the death of Dean Hofstee, but fled Australia using a fellow Indian's passport in 2009. He was arrested four years later in India.
+Puneet has made another plea in a New Delhi court not to return to Australia, putting up a witness who claimed to have been racially abused and mistreated while working in Australia, News Corp reported.
+"Australians are biased towards Indians so I request Indian authorities to take care of its nationals," chef Jayant Dagore told the court.
+The matter has been put over till September 5.
+Puneet was a 19-year-old learner driver when he hit and killed Mr Hofstee, 19, and seriously injured Clancy Coker, 20, at Melbourne's Southbank on October 1, 2008.
+Police estimated Puneet was driving at 148km/h - more than double the legal limit in the area. He also tested positive for alcohol.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dean Hofstee</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>October 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hofstee, 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Puneet Puneet</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's Southbank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indian</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>5</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>India</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Jayant Dagore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Delhi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clancy Coker</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

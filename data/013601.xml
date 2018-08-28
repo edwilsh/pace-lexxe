@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421423763985197</docid>
+  <date>03/08/2017</date>
+  <time>17:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/six-figure-salary-not-top-1-percent-2017-8</url>
+  <title>A $100,000 salary doesn't put you in the top 1% of income at any age</title>
+  <content>
+A lot of people are overjoyed to cross the $US100,000 threshold in annual income. And they should be - a six-figure salary is nothing to sneeze at.
+
+But as income inequality in the US , a $US100,000 salary creeps ever-closer to being an upper-middle-class income, not a sure sign of wealth.
+
+In fact, according to a Business Insider analysis of US Census data, the $US100,000 distinction isn't enough to put anyone, at any age for which there is reliable data, in the top 1% of personal incomes.
+
+Here is the full breakdown.
+
+Business Insider analysed data from the
+, an annual survey by the US Census Bureau that talks to 1% of all US households about various economic, social, and housing demographics.
+
+Specifically, we used individual-level data from the , a project of the Minnesota Population Center at the University of Minnesota, which allowed us to estimate the cutoffs for being in the top 1% of earners among  for each age in 2015.
+
+Ultimately, the data showed $US116,000 at age 25 was the smallest six-figure salary you could have in order to be in the top 1% relative to your peers. But that number quickly jumps to $US200,000 by the time you reach your 30s and $US300,000 by the time you pass 35.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US Census Bureau</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$100,000</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>University of Minnesota</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Census</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US116,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US200,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minnesota Population Center</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$300,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

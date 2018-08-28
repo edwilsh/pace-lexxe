@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419533978333365</docid>
+  <date>03/08/2017</date>
+  <time>10:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/wannacry-hackers-moving-cash-bitcoin-wallets-2017-8</url>
+  <title>The hackers behind the devastating WannaCry cyberattack are moving their money</title>
+  <content>
+The hackers behind the devastating WannCry ransomware attack that wrecked havoc in dozens of countries are moving their cash.
+
+In May, the malware began spreading, causing chaos at hospitals, logistics firms, and businesses . It encrypted victims' data and demanded a bounty paid in digital currency Bitcoin to unlock them, and was halted when a British researcher accidentally activated its "kill switch."
+
+The British NHS (National Health Service), Spanish telecoms firm Telefonica, Nissan, and FedEx were among the organisations affected. , "Lazarus Group," which was also linked to the 2014 hack of Sony Pictures.
+
+The hackers made $US140,000 (£105,000) from the attack in bounties - but for more than two months, they didn't touch it. (Bitcoin records all transactions on a public ledger, meaning anyone can see how much is in a given "wallet" or whether it has been spent if you know the correct "address.")
+
+Late on Wednesday/early on Thursday, however, the ill-gotten funds finally began to be transferred. The moves .
+
+In seven payments spaced across 15 minutes, the money was withdrawn. It's not clear where it is being sent, or how it will be used.
+
+???? 7.34128314 BTC ($20,055.52 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+???? 8.73261636 BTC ($23,856.48 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+???? 9.67641378 BTC ($26,434.83 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+???? 7.06939288 BTC ($19,318.06 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+???? 10.06868926 BTC ($27,514.04 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+???? 9.03851401 BTC ($24,698.95 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+???? 9.67641378 BTC ($26,508.37 USD) has just been withdrawn from a bitcoin wallet tied to  ransomware.
+- actual ransom (@actual_ransom)
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Telefonica</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US140,000 (£105,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($26,434.83 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Health Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lazarus Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>British NHS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannCry</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nissan</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sony Pictures</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($19,318.06 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($23,856.48 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($26,508.37 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($27,514.04 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($20,055.52 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spanish</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>BTC ($24,698.95 USD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FedEx</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

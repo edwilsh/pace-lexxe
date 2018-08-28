@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422922707600004</docid>
+  <date>03/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/09/26/qld-premier-short-sighted-nz-minister</url>
+  <title>Qld premier 'short-sighted': NZ minister</title>
+  <content>
+New Zealand's trade minister has accused Queensland Premier Annastacia Palaszczuk of being "short-sighted" over her new buy local policy and decision to turn her back on a long-standing agreement between the two countries.
+Todd McClay told ABC Radio on Friday he didn't think it was legally possible to ignore the free-trade agreement but also said it would lead to a downturn in the Queensland and New Zealand economies.
+"One, it's disappointing and two, it's just not how trade works, it's a little bit crazy," he said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Todd McClay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Premier Annastacia Palaszczuk</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

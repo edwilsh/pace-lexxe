@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413817376754976</docid>
+  <date>02/08/2017</date>
+  <time>12:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/02/20/58/chinese-man-pays-10-000-for-whisky-shot-at-swiss-bar</url>
+  <title>Chinese man pays $10,000 for whisky shot at Swiss bar</title>
+  <content>
+Have you heard the one about the guy who walked into a bar and ordered a $10,000 shot of whisky?
+A young Chinese man paid 9,999 Swiss francs ($US10,000, $AU12,500) last week at a Swiss hotel for a glass of whisky made in 1878 by the revered Scotch maker Macallan, the 20Minuten website said.
+The report was confirmed by an employee of the luxury Waldhaus Hotel in St. Moritz, northeast Switzerland.
+The hotel's Devil's Place Whisky Bar has been honoured for its 2,500 bottle collection, including by the Guinness Book of World Records.
+But proprietor Sandro Bernasconi told 20Minuten he never expected to open this particular treasure.
+After entering the bar with a group of people, the client expressed particular interest in the Macallans -- the hotel has 47 options, ranging from seven Swiss francs to ten grand.
+"I told the customer that the most expensive Macallan was not for sale", Bernasconi was quoted as saying by the website.
+
+Related Articles
+
+The client persisted, so Bernasconi called his father, who had run the hotel for 20 years and never had a client order the 1878. The elder Bernasconi told his son to go for it, even if the customer was not going to pay in advance.
+"I was nervous," Bernasconi was quoted as saying, explaining that he was concerned the ancient cork would disintegrate.
+But everything went down smoothly, including the 20mL measure, Bernasconi said.
+Now that the bottle is open, the hotel hopes to sell the remaining shots and may consider dropping the price, 20Minuten said.
+Before it was uncorked, the bottle had been valued at 50,000 Swiss francs, a relatively modest price compared to recent record sets by whisky bottles at auction.
+The identity of the young -- but presumably well-heeled -- connoisseur was not immediately available.
+A special collector's blend of Macallan's sold at auction in Hong Kong for nearly $630,000 in 2014.
+(C) AFP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>ML</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Guinness Book of World</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macallan</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AFP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Devil's Place Whisky Bar</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Switzerland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US$10,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandro Bernasconi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minuten</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scotch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bernasconi</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Waldhaus Hotel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AU12,500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Moritz</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651415071507234153</docid>
+  <date>02/08/2017</date>
+  <time>17:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/bitcoin-price-data-trading-winklevoss-cboe-gemini-partnership-2017-8</url>
+  <title>One of the biggest exchange groups in the world has partnered with the Winklevoss twins' bitcoin startup</title>
+  <content>
+As more and more investors seek exposure to digital assets, exchanges are racing to catch up.
+
+CBOE Holdings announced Wednesday a partnership to use trading data from Gemini Trust, the virtual-currency exchange founded by Cameron and Tyler Winklevoss, to power bitcoin derivatives and indices.
+
+CBOE has 14 trading venues, including the largest options exchange in the US and the largest stock exchange in Europe. It's also the second-largest stock exchange operator in the US, and is home to the CBOE Volatility Index (VIX Index), known as the stock market fear index.
+
+Under the agreement - which still has to be approved by the CFTC - CBOE would use Gemini price data on bitcoin, ethereum and other digital assets to create new indices for traders as soon as next year.
+
+If approved, it could bring more regulation and stability to the largely unregulated cryptocurrency ecosystem. The SEC previously  a bitcoin ETF proposed by the Winklevoss twins in March.
+
+"We very much look forward to responding to the growing interest in cryptocurrencies through the creation of bitcoin futures traded on a regulated derivatives exchange with the many expected benefits that this brings, including transparency, price discovery, deep liquidity and centralised clearing," said CBOE Holdings Chairman and CEO Ed Tilly said in a .
+
+Interest in cryptocurrencies has risen in-step with bitcoin's skyrocketing value, which is up almost six-fold in the last year, and CBOE is not the only exchange that's interested.
+
+LedgerX, backed by Miami International Holdings, won approval from the CFTC last week for a bitcoin options exchange. CME group also launched a bitcoin index last year, and is currently waiting for patent approval for virtual currency derivatives.
+
+"Gemini's key concerns in the cryptocurrency ecosystem have always been security, compliance, and regulatory oversight," said Tyler Winklevoss, CEO of Gemini, in a statement. "By working with the team at CBOE, we are helping to make bitcoin and other cryptocurrencies increasingly accessible to both retail and institutional investors."
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cameron</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Miami International Holdings</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBOE Holdings Chairman</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>LedgerX</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Winklevoss</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SEC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CEO Ed Tilly</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBOE</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gemini Trust</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBOE Volatility Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CFTC</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CEO of Gemini</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ETF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tyler Winklevoss</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>GEMINI</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CBOE Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vix Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CME</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

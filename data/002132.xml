@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400631826913084</docid>
+  <date>31/07/2017</date>
+  <time>08:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/it-pro/government-it/robot-to-greet-visitors-to-queensland-government-office-20170731-gxmd80.html</url>
+  <title>Robot to greet visitors to Queensland government office</title>
+  <content>
+Visitors to two Queensland government offices in 1 William Street will be greeted by a robot, as part of a new trial.
+The Department of Science, Information Technology and Innovation has partnered with cloud technology company Axalon to develop and trial a Google Home speaker called Eve to greet visitors at the reception it shares with the Department of Communities, Child Safety and Disability Services.Photo: Supplied
+Innovation Minister Leeanne Enoch said the government saw an opportunity in Axalon's platform to use the Google Home artificial intelligence system to help visitors in 1 William Street.
+Department of Science, Information Technology and Innovation director-general Jamie Merrick said Eve was a voice-enabled speaker, configured to have conversations with visitors.Photo: Tammy Law
+Eve can direct visitors to meeting rooms and notify staff via their desk phone or text message when guests arrive at reception.
+Mr Merrick said there had been a problem with having a reception area separate to the main office that was constantly staffed but had irregular visitor arrivals.
+
+There have not been job losses as a result of the new robot.
+"We are always looking for ways to streamline our work and operate as efficiently as we can, and we saw this as a way of freeing up two people to do more complex and valuable tasks," Mr Merrick said.
+The project cost $13,775.
+Axalon co-founder Tracey Kay said DSITI was an early adopter, with the Google Home technology only released in Australia recently.
+"We use machine learning to understand what users are saying and engage them in simple, smart conversational interactions," she said.
+Global technology firm Gartner has predicted that by 2020, 30 per cent of web browsing sessions would be done without a screen, as "voice first" interactions increase with technology such as Google Home and Amazon's Echo.
+Ms Enoch said the initiative came about after Axalon worked with the government as part of the "testing within government program", which invited businesses to offer solutions to specific government problems.
+During the World Science Festival, Axalon operated an interactive water buoy that relayed water quality data from the Brisbane River.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Tammy Law</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Echo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Science</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Disability Services.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Axalon</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister Leeanne Enoch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Williams Street</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jamie Merrick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tracey Kay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Science Festival</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Information Technology</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gartner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Communities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Enoch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Merrick</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DSITI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

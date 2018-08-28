@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432028038398132</docid>
+  <date>05/08/2017</date>
+  <time>10:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/05/20/38/dirt-biker-impaled-in-nsw-bush-race</url>
+  <title>Dirt biker impaled in NSW bush race</title>
+  <content>
+A dirt biker's leg has become impaled on a branch while racing down a remote bush track near Newcastle.
+A CareFlight helicopter was dispatched to the accident scene at Olney, on the edge of the Watagan National Park, just after 4pm on Saturday.
+The rider, 35, had crashed and was speared along the length of his thigh by a small branch.
+NSW Ambulance crews were also on the scene and provided initial treatment before transferring the man to the chopper.
+A specialist doctor and critical care paramedic provided further treatment and he was then flown to Royal North Shore Hospital in Sydney in a stable condition.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Watagan National Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CareFlight</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Ambulance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal North Shore Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

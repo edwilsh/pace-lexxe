@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410596151228070</docid>
+  <date>01/08/2017</date>
+  <time>23:39</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/scales-of-justice/southern-midlands-mayor-tony-bisdees-driving-rap-raising-significant-concerns-says-deputy/news-story/3239054c49b2fb0aed9dbf23b94da3e6</url>
+  <title>Mayor's driving rap raising concerns</title>
+  <content>
+SOUTHERN Midlands Deputy Mayor Alex Green said he would find it very difficult to continue in position of mayor if he were Tony Bisdee.
+Councillor Bisdee yesterday pleaded guilty to three counts of driving while his licence was suspended.
+
+He also pleaded guilty to one count of exceeding the speed limit, three counts of driving an unregistered vehicle and one count of using a vehicle with no premium cover.
+Cr Green told ABC radio he had been responding to significant concerns from the Southern Midlands community over the Cr Bisdee's actions
+More to come ...
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cr Bisdee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cr Green</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Bisdee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SOUTHERN Midlands Deputy Mayor Alex Green</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Councillor Bisdee</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Southern Midlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

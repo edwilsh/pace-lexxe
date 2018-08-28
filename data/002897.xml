@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401486525421180</docid>
+  <date>31/07/2017</date>
+  <time>12:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/queensland-government/queensland-opposition-wants-more-funding-for-domestic-violence-victims/news-story/af08a1beb10f309065af969c42c9a31a</url>
+  <title>Calls for fast track to DV reforms</title>
+  <content>
+THE Queensland Opposition has called for greater domestic violence funding as the issue reaches epidemic levels.
+MP Ros Bates, the Opposition's spokeswoman for the prevention of family violence, said breaches of DV orders had soared 25 per cent in the past year, while funding in southeast Queensland had increased by less than 3 per cent.
+"This is a slap in the face to victims and those groups on the Gold Coast who support them," she told a media conference outside Southport Courthouse yesterday.
+Her calls for more funding came as a domestic violence victim from the Gold Coast begged the State Government to fast-track reforms, including the fitting of tracking bracelets for offenders, as her former partner prepares to be released from jail.
+The woman, who cannot be named, said she feared for her life and wanted Government assurances that her former partner would be fitted with a tracking device ahead of his release in the coming weeks.
+</content>
+  <sindexList>
+  <sindex>
+    <name>DV</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Southport Courthouse</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>MP Ros Bates</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Opposition</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

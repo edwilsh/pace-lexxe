@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419314934996797</docid>
+  <date>03/08/2017</date>
+  <time>09:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/wladimir-klitschko-retires-from-boxing/8772484</url>
+  <title>Wladimir Klitschko retires from boxing, ruling out Anthony Joshua rematch</title>
+  <content>
+Former heavyweight world champion Wladimir Klitschko has announced his retirement from boxing, ruling out a rematch with Briton Anthony Joshua.
+at Wembley Stadium in April.
+Klitschko announced his retirement on his website, and posted a video on his official Twitter account after his website's server broke down.
+"Twenty-seven years ago I started my journey," he said in the video. "And it was the best choice of profession I could have ever made.
+"At some point in our lives we need to, or just want to, switch our careers and get ourselves ready for the next chapter and chart a course towards fresh challenges. Obviously I am not an exception to this and now is my turn.
+"I'm doing this with ... tremendous excitement, dedication, passion; expecting and hoping that my next career, which I've already been planning and working on for some years, will be at least as successful as my previous one, if not more successful."
+Klitschko retires with a record of 64 wins, including 53 knockouts, and five defeats.
+
+Reuters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Klitschko</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wladimir Klitschko</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Briton Anthony Joshua</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Joshua</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Twenty-seven</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wembley Stadium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

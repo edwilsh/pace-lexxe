@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651397797148457114</docid>
+  <date>30/07/2017</date>
+  <time>21:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4821600/police-search-cataract-bushland-for-missing-schoolgirl/?cs=298</url>
+  <title>Police search Cataract for schoolgirl Quanne Diec's body</title>
+  <content>
+Quanne Diec went missing in 1998. Picture: Supplied
+Police will search an area of bushland at Cataract in the ongoing quest to find the body of 12-year-old schoolgirl Quanne Diec, allegedly murdered almost two decades ago.
+The three-day search of dense bushland off Appin Road starts on Monday, following an earlier investigation in .
+A 49-year-old man was .
+Officers from Rosehill Local Area Command and the Forensic Services Group will conduct the search into the possible location of Quanne's body.
+The student went missing on July 27, 1998 after leaving her Granville home to catch the train to Strathfield Girls' High School.
+
+Police combed an address in Granville in the search for Quanne's remains in 2016 before continuing their search at Bulli Tops, east of Cataract.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Quanne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Quanne Diec</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 27</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Appin Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Granville</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bulli Tops</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rosehill Local Area Command</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Forensic Services Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Strathfield Girls' High School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

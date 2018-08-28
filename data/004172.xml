@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405055643310462</docid>
+  <date>01/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/fortyfive-per-cent-of-survey-respondents-from-charles-darwin-university-report-being-sexually-harassed/news-story/170add722aab757fa892e46b05caa847</url>
+  <title>Uni sexual assault survey reveals disturbing findings</title>
+  <content>
+Startling results indicate 45 per cent of Charles Darwin University students who responded to a national sexual assault survey were sexually harassed last year.
+Nationwide, a total of 30,930 people responded to the survey, of which 362 people, 161 being males, were affiliated with Charles Darwin University.
+The nationwide report undertaken by the Australian Human Rights Commission involved all 39 universities.
+The report indicated females were the victims of 51 per cent of sexual harassment cases at CDU.
+Harassment for both males and females at CDU was most likely to occur at a teaching space such as a lab, tutorial room, lectures theatre or computer lab.
+Of the people sexually harassed 51 per cent did not know the perpetrator while 33 per cent knew the perpetrator.
+Out of those sexually harassed in 2015 and 2016 only two per cent sought help from university services.
+Reasons for those not reporting an incident included not thinking it was serious enough, 57 per cent, not needing help at 35 per cent and not wanting to hurt the offenders or get them into trouble at 19 per cent.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Human Rights Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Charles Darwin University</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CDU</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

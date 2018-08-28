@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442164161313259</docid>
+  <date>07/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/ekka-2017-get-your-ekka-guide-in-wednesdays-the-couriermail/news-story/f3099e49a511ef4ea7fb65919f65804b</url>
+  <title>Your guide to this year's Ekka</title>
+  <content>
+DISCOVER the best of the Ekka with The Courier-Mail's exclusive Ekka Guide on Wednesday August 9.
+Plan your day at the 140th Show with 10 daily diaries detailing each day's events - whether you're into competitions and displays or entertainment, fashion and food.
+And navigate your way around the grounds with a full page colour map of attractions.
+Find out what's new at the Ekka and save big with two full pages of Ekka discount coupons.
+Celebrate 140 years of the Show with the Ekka's top ten milestone moments and, of course, choose the best of showbag of all using your complete guide.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ekka</name>
+    <count>5</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday August 9</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Courier-Mail</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Ekka Guide</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

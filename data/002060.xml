@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400464323185640</docid>
+  <date>31/07/2017</date>
+  <time>08:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/glenvale-woman-charged-over-rangeville-attempted-m/3207150/</url>
+  <title>Glenvale woman charged over Rangeville attempted murder</title>
+  <content>
+BREAKING: A woman has been charged with attempted murder more than a week after a man was shot twice outside a Rangeville home.
+
+Toowoomba detectives today charged a Glenvale woman, 26, with attempted murder after an alleged shooting incident outside a Curzon St home on July 19.
+
+Police will allege just after 1am that day, a 20-year-old man was speaking with two men outside the home when he was shot in the knee and abdomen.
+
+The Glenvale woman is the second to be charged in relation to the incident and will appear in Toowoomba Magistrates Court tomorrow.
+
+It follows charges against a Scarborough man, 23, who was earlier this month charged with attempted murder, possessing a firearm and ammunition, driving offences and stealing.
+
+He was remanded in custody to appear in the Toowoomba Magistrates Court on September 14.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Toowoomba Magistrates Court</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scarborough</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 19</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rangeville</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Glenvale</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>September 14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toowoomba</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Curzon St</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

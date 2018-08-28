@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411459439668180</docid>
+  <date>02/08/2017</date>
+  <time>03:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/woman-dies-in-dog-attack-at-perth-kennel/news-story/75f99e39829436e06a5581da87cbf2de</url>
+  <title>Woman dies in dog attack at Perth kennel</title>
+  <content>
+A woman has died after being attacked by a dog at a boarding kennel in Perth's south.
+The woman, aged in her 50s, was pronounced dead by paramedics after police were called to a Southern River property about 1.30pm on Tuesday.
+City of Gosnells rangers have seized the dog while a report is being prepared for the coroner.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>City of Gosnells</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

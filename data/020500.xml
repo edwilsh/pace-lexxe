@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438341640379596</docid>
+  <date>06/08/2017</date>
+  <time>11:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/man-trapped-killed-in-regional-nsw-crash/news-story/4088e10f0d3e26986a7ebbde82035435</url>
+  <title>Two men die in separate NSW crashes</title>
+  <content>
+Two men have been killed in separate car crashes at opposite ends of NSW.
+The first man died after his ute veered off the road and hit a tree near Albury in the state's south at about midday on Sunday.
+The 77-year-old, who police say was the sole occupant of the ute, was treated by members of the public but died at the scene.
+A second man was killed in a suspected head-on collision in the NSW Hunter region.
+Police say the man was trapped in his car and died after the collision in Howes Valley just before 2pm.
+A woman was treated by paramedics and taken to John Hunter Hospital.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Albury</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Howes Valley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

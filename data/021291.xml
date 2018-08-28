@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441704599806917</docid>
+  <date>07/08/2017</date>
+  <time>00:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-07/carlton-fined-25k-over-rules-breach</url>
+  <title>Carlton fined $2.5K over rules breach</title>
+  <content>
+Carlton has been fined over a rules breach
+
+CARLTON has been hit with a $2500 fine for failing to update the AFL on the whereabouts of a player.
+
+The Blues didn't tell the League an unwell player would miss a recent training session, which is a requirement under AFL rules.
+
+No drug tests were missed as a result of the unexpected absence of the player, but the club has still been penalised for not disclosing he wouldn't be available.
+
+An AFL statement said the Blues were officially sanctioned for "the failure to provide complete up-to-date whereabouts information at all times for testing purposes".
+
+The Blues have been approached for comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>K</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Carlton</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

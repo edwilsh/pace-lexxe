@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440660922741442</docid>
+  <date>06/08/2017</date>
+  <time>20:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/law-order/man-charged-over-death-of-sunshine-west-man/news-story/dbdffde900b3f478a0f75061126828fa</url>
+  <title>Murder charge over Sunshine death</title>
+  <content>
+A MAN has been charged following the death of a man in Sunshine West on Saturday.
+A 44-year-old Sunshine West man died at a house on McGregor Court just after 8.30pm.
+Laura Chan, 42, who was also present was taken to hospital with non-life threatening injuries.
+The 45-year-old Sunshine West man has been charged with one count of murder.
+He faced an out of session's court hearing and was remanded to appear at the Melbourne Magistrates' Court later today.
+</content>
+  <sindexList>
+  <sindex>
+    <name>McGregor Court</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Laura Chan, 42</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine West</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

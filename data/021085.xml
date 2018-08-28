@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440149821628565</docid>
+  <date>06/08/2017</date>
+  <time>18:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/2977297/communications-restored-to-paxton-after-optic-fibre-cable-repaired/?cs=4173</url>
+  <title>Communications restored to Paxton after optic fibre cable repaired</title>
+  <content>
+AN optic fibre cable that was cut in the Paxton area, disrupting phone and  ADSL service in and around Wollombi, Paxton, Laguna and Millfield, was  repaired early Sunday evening. 
+
+The cable was cut by an excavator. The outage impacted approximately 2000 phone services and 800 ADSL services in addition to mobile towers in the area.
+Telstra sent repair crews to the site to splice the cable, and services were restored by 7.30pm.
+
+Telstra said it was important to dial 1100 dial before digging or excavating. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Wollombi</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Laguna</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Paxton</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ADSL</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Millfield</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

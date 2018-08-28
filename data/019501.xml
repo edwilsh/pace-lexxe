@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436194156712676</docid>
+  <date>06/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/12/41/bouncers-bashed-with-bollards-in-bendigo</url>
+  <title>Bouncers bashed with bollards in Bendigo</title>
+  <content>
+A teenager has serious head injuries after he and two bouncers were bashed with metal bollards outside a nightclub in the regional Victorian town of Bendigo.
+Two men who were thrown out of the club at 1am on Sunday used crowd control bollards to attack the bouncers and the 19-year-old man who was hit in the face and knocked unconscious, police say.
+The teen was taken to hospital with serious head injuries and police are looking for the two men who they believe were part of a larger group at the club.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bendigo</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

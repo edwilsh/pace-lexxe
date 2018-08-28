@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398961084610188</docid>
+  <date>31/07/2017</date>
+  <time>02:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/investigation-of-radicalised-teen-haider/news-story/6be19fc325b74768be646187b90a2032</url>
+  <title>Investigation of radicalised teen Haider</title>
+  <content>
+HOW NUMAN HAIDER CAME TO POLICE ATTENTION
+2003 - Seven-year-old Haider emigrates to Australia from Afghanistan with his family, who settle in Melbourne's southeast suburb of Narre Warren.
+2014
+MAY - Haider comes to the attention of ASIO which noticed a high volume of contact with a particular phone number. The teen had also visited the Al-Furqan mosque where extreme forms of Islam were sometimes discussed.
+JULY - Haider's behaviour begins to escalate.
+JULY 31 - An ASIO officer goes to Haider's home to interview him.
+AUGUST - Haider conducts internet searches on the movements of then prime minister Tony Abbott, an AFL game, and a military base.
+SEPTEMBER 18 - Haider confronts police at the Dandenong Plaza with the black and white Shahada flag, often used by IS militants.
+The teens posts a photo of himself on Facebook wearing camouflage gear and a balaclava while holding the Shahada flag. Below the photo are derogatory comments about AFP and ASIO.
+The photo was posted on the same day NSW Police conducted Australia's largest counter-terrorism operation, with more than 800 officers involved in pre-dawn raids in Sydney.
+SEPTEMBER 20 - Islamic State calls on its supporters to kill soldiers and civilians in Australia, the US, and Europe.
+SEPTEMBER 23 - Haider, 18, tells a public servant he thinks his application for a passport had been rejected for "bullshit" reasons.
+The teen is shot dead outside Endeavours Hills police station after stabbing two counter-terrorism officers who had arranged to meet him at 7.30pm.
+OCTOBER 3 - A coronial investigation into Haider's death begins.
+2015
+Statements from 155 witnesses are collected as part of a 3000-page brief of evidence to be used at the inquest, which is set down for 12 days.
+2016
+MARCH 7 - The inquest into Haider's death begins before Coroner John Olle.
+2017
+JULY 31 - Coroner Olle finds police had no choice but to shoot Haider as there was no opportunity "for the officers to use a lower force to prevent further injuries".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MARCH 7</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Shahada</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>OCTOBER 3</name>
+    <count>1</count>
+    <score>-1.5</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dandenong Plaza</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Afghanistan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coroner John Olle</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NUMAN HAIDER CAME TO POLICE ATTENTION</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 31</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Haider, 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Al-Furqan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Endeavour Hills</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASIO</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Haider</name>
+    <count>10</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Narre Warren</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tony Abbott</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coroner Olle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SEPTEMBER 18</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>September 23</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SEPTEMBER 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islam</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AFP</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AFL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Police</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

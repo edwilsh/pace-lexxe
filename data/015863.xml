@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424791018402556</docid>
+  <date>04/08/2017</date>
+  <time>06:44</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/orotongroup-closes-gap-franchise/news-story/48b8376a9860d1e9ff3ef3c0ce73f8fd</url>
+  <title>OrotonGroup closes Gap franchise</title>
+  <content>
+OrotonGroup will discontinue the Gap franchise business in Australia, with store closures targeted for completion by January 31, 2018.
+As OrotonGroup is currently working through the details of the closure plan, it is too early to quantify the financial impact. However, this decision will end the group's future investment in the franchise, limiting related future losses.
+The amendment of the Westpac facility and today's agreement with Gap will enable the group to focus resources on the strategy for the core Oroton brand in the future.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oroton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 31</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>OrotonGroup</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

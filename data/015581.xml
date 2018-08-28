@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424786723435224</docid>
+  <date>04/08/2017</date>
+  <time>06:43</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/kairos-management-changes/news-story/00ac68c4c71fa2e976e6bc1ea55f65b2</url>
+  <title>Kairos management changes</title>
+  <content>
+Kairos Minerals MD Joshua Wellisch has resigned in order to pursue other business interests.
+He will assist the company during a management transition period over the next few months.
+Terry Topping, who joined Kairos as an executive director in March, will assume the role of executive chairman and CEO.
+Mining executive Bruno Seneque has also been appointed to the board as a non-executive director.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Terry Topping</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kairos</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruno Seneque</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kairos Minerals MD Joshua Wellisch</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CEO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403771448067265</docid>
+  <date>31/07/2017</date>
+  <time>21:10</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/hbo-hacked-game-of-thrones-script-stolen-469781</url>
+  <title>HBO hacked, 'Game of Thrones' script stolen</title>
+  <content>
+US cable channel HBO said hackers had stolen upcoming programming including unbroadcast episodes of popular series such as the global hit show "Game of Thrones".
+
+While Time Warner-owned HBO declined to provide specifics of the programming taken, Entertainment Weekly  that the theft included a script for an unaired episode of the hit fantasy show.
+
+"As most of you have probably heard by now, there has been a cyber incident directed at the company which has resulted in some stolen proprietary information, including some of our programming," HBO chairman Richard Plepler wrote in a message to employees.
+
+Plepler called the hack "obviously disruptive, unsettling, and disturbing for all of us".
+
+HBO's technology team and outside experts are working on assessing the extent of the hack and securing systems.
+
+The company refused to comment on reports that unbroadcast episodes and scripts were among the data hacked, citing an "ongoing investigation" by unspecified law enforcement officials.
+
+Entertainment Weekly reported that hackers stole 1.5 terabytes of data and had already posted online unbroadcast episodes of "Ballers" and "Room 104," along with "a script or treatment" for next week's episode of "Game of Thrones."
+
+Reuters and other American media received an email over the weekend from a person claiming to have stolen HBO data, including "Game of Thrones." The show is now in its seventh season and due to wrap up next year.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Room 104</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Plepler</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>5</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Entertainment Weekly</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Time Warner-owned HBO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Richard Plepler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

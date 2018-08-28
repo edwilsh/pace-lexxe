@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411798742089128</docid>
+  <date>02/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/14/10/andrew-denton-diagnosed-with-heart-disease</url>
+  <title>Andrew Denton diagnosed with heart disease</title>
+  <content>
+TV personality and euthanasia advocate Andrew Denton has been diagnosed with heart disease and will undergo bypass surgery.
+Denton is the director of Go Gentle Australia, an organisation campaigning to legalise euthanasia, and previously hosted ABC TV interview program, Enough Rope.
+"He has recently been diagnosed with fairly advanced heart disease and will be undergoing bypass surgery shortly, " Gina McColl, Go Gentle Australia spokesperson told AAP.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Gina McColl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andrew Denton</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Go Gentle Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Denton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

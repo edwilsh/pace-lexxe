@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424078053819956</docid>
+  <date>04/08/2017</date>
+  <time>03:58</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/melb-freezes-on-coldest-day-in-19-years/news-story/a6bc6869197134812fb433cc94b9c038</url>
+  <title>Melb freezes on coldest day in 19 years</title>
+  <content>
+Benita KolovosAustralian Associated Press
+
+Share
+
+Victoria has recorded its coldest day in 19 years and there is more wild weather on the way.
+Thursday was the coldest day for almost two decades, and most chilly August day since 1970, reaching a maximum of just 9C, the Bureau of Meteorology reported.
+Extreme weather has been forecast for the weekend, with strong wind warnings issued for some coastal areas and blizzard-like conditions in alpine regions.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melb</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Benita KolovosAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

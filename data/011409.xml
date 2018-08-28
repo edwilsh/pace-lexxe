@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417433739289032</docid>
+  <date>03/08/2017</date>
+  <time>02:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/58/unions-fined-over-2011-queensland-strikes</url>
+  <title>Unions fined over 2011 Queensland strikes</title>
+  <content>
+Two unions whose officers encouraged hundreds of workers to unlawfully strike for three days on major Queensland government construction projects have been fined a total of $430,000.
+The CFMEU was fined $300,000 and the CEPU was ordered to pay a pecuniary penalty of $130,000 over the May 2011 strikes at worksites including the $800 million Lady Cilento Children's Hospital and the Brisbane Convention and Exhibition Centre extension.
+The unions had rallied workers to strike against as part of their campaign against sham contracting, but had admitted before Thursday's decision that the actions were unlawful.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>CFMEU</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Convention</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Exhibition Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 2011</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CEPU</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Lady Cilento Children's Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

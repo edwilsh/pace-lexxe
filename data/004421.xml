@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405635463903929</docid>
+  <date>01/08/2017</date>
+  <time>04:24</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/telstra-doubles-tasmanias-undersea-internet-cable-speeds/</url>
+  <title>Telstra Doubles Tasmania's Undersea Internet Cable Speeds</title>
+  <content>
+Image: iStock
+Telstra has completed what it says is the first stage of a national upgrade to its backhaul transmission network, and Tasmania reaps the spoils - its two Bass Strait undersea cables have been doubled in capacity to 1 terabit per second. Telstra says that the new tech can handle 200,000 HD videos being streamed simultaneously. Who wants to get out their phone and have a go?
+
+The upgrade is the first in a nationwide upgrade for Telstra, it says; Victoria, NSW and South Australia are next in line in a few weeks for the telco's upgrade to what it calls "next generation optical transport technology". Hopefully this means a little bit more redundancy in Tasmania's internet infrastructure - we don't want to have  on our hands.
+
+Remember that?
+
+The major Basslink undersea power and communications cable that connects Tasmania to the Australian mainland will be cut until mid-March, while the company investigates and fixes a failure in its electricity transmission capacity. That'll leave Tasmanians with severely reduced connectivity to the internet for nearly six weeks, although contingencies are in place.
+
+With Tasmania's internet still operating at much-reduced capacity, all eyes have been on Basslink to find the fault in the main undersea cable connecting the island to the Australian mainland. That problem has now been found, but full repairs are almost three months away from completion.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iStock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bass Strait</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra Doubles Tasmania's Undersea Internet Cable Speeds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Basslink</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

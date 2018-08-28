@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419448078985448</docid>
+  <date>03/08/2017</date>
+  <time>10:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/two-men-charged-with-terrorism-offences-following-sydney-raids/news-story/d374f4cb344f830a0d025d5f66c8d916</url>
+  <title>Two charged with terror offences</title>
+  <content>
+TWO men have been charged with terrorism offences following an alleged plot to bring down a commercial flight.
+The NSW Joint Counter Terrorism Team has charged a 49-year-old Lakemba man and a 32-year-old Punchbowl man with two counts each of acts in preparation for a terrorist act.
+The maximum penalty for this offence is life imprisonment.
+Both men are scheduled to appear at Parramatta Court tomorrow morning.
+It comes after four men were arrested on Saturday. A 50-year-old man was released from police custody on Tuesday, 1 August, without charge. One man remains in custody.
+Police have searched six addresses across Sydney this week.
+Members of the community are advised to report suspicious activity to the National Security Hotline on 1800 123 400.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Punchbowl</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Joint Counter Terrorism Team</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lakemba</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>National Security Hotline</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

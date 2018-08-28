@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443925097931354</docid>
+  <date>07/08/2017</date>
+  <time>08:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/wet-weather-closes-roads-across-act-as-motorists-urged-to-take-caution-20170807-gxr07x.html</url>
+  <title>Wet weather closes roads across ACT as motorists urged to take caution</title>
+  <content>
+Weather conditions have closed several roads to motorists throughout the ACT as authorities urged caution.
+Corin Road was closed to motorists near Gibraltar Pines at Square Rock car park on Monday. While those using four-wheel-drive vehicles could reach Corin Forest, from 5pm all traffic was barred from the road pending a reassessment at 6am on Tuesday. 
+Weather also closed Mount Franklin Road at Bendora Arboretum. Access was barred to the unsealed section of Boboyan Road, except for 4WD vehicles.
+The ACT Government urged motorists and other road users to take care across the territory, particularly on rural roads, unsealed roads and stream crossings, as snowy and icy weather continued.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Corin Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Square Rock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Franklin Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boboyan Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Corin Forest</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bendora Arboretum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gibraltar Pines</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

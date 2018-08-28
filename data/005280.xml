@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406425737899710</docid>
+  <date>01/08/2017</date>
+  <time>07:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/man-charged-over-pub-assault/news-story/9d5730d9172583e6761ae0346e93476f</url>
+  <title>Man charged over Hillarys pub assault</title>
+  <content>
+A 28-YEAR-OLD man remains in hospital fighting for life more than a week after he was allegedly attacked outside a pub in Perth's north.
+Police were called to the Northshore Tavern in Hillarys in the early hours of Saturday, July 22 after reports of a fight outside the venue.
+"When they arrived, they found a man who had been severely injured during a physical altercation," a police spokesperson said.
+That man, a 28-year-old from Tapping, remains in Royal Perth Hospital with severe head injuries.
+On Monday, police charged a 33-year-old Balcatta man over the alleged assault.
+The man was released on bail to appear in court on August 9.
+Detectives are appealing for anyone who saw the fight to come forward.
+Anyone in the area around 12.15am on July 22 or with information should contact Crime Stoppers.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>July 22</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>YEAR-OLD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Perth Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balcatta</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Northshore Tavern</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

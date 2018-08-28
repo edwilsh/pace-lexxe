@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424988586901879</docid>
+  <date>04/08/2017</date>
+  <time>07:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Football League</source>
+  <url>http://www.afl.com.au/news/2017-08-04/sunday-teams-revealed</url>
+  <title>Eagles name another 'travelling emergency'</title>
+  <content>
+Matt Priddis is the 'travelling emergency' for the Eagles
+
+WEST Coast champion Matt Priddis has been overlooked for Sunday's crunch clash with St Kilda as his retirement draws near.
+
+The Brownlow medallist has been named as an emergency after flying to Melbourne earlier on Friday for the Etihad Stadium game.
+
+Forgotten midfielder Chris Masten is the only inclusion for the Eagles, replacing key defender Tom Barrass (groin). 
+
+The Western Bulldogs named skipper Bob Murphy on Thursday as a travelling emergency for their clash with the Brisbane Lions.
+
+More to come
+
+Sunday, August 6
+
+St Kilda v West Coast at Etihad Stadium, 1.10pm AEST
+
+ST KILDA
+In: N.Riewoldt, K.Stevens
+Out: J.Lonie, D.McKenzie
+
+WEST COAST
+In: C.Masten
+Out: T.Barrass (groin)
+
+Richmond v Hawthorn at the MCG, 3.20pm AEST
+
+RICHMOND
+In: D.Prestia
+Out: S.Bolton
+
+HAWTHORN
+In: T.Miles 
+Out: L.Hodge (suspension)
+
+Adelaide v Port Adelaide at Adelaide Oval, 4.10pm ACST
+
+ADELAIDE
+In: E.Betts, B.Crouch, J.Lever 
+Out: A.Otten, P.Seedsman, W.Milera
+
+PORT ADELAIDE
+In: A.Johnson, A.Monfries
+Out: M.Broadbent (ankle), M.White
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MCG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>J.Lonie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Port Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brownlow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Chris Masten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>T.Barrass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Oval</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eagles</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>E.Betts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Kilda</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>M.White</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monfries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>B.Crouch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matt Priddis</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>K.Stevens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Barrass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>M.Broadbent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bob Murphy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>D.McKenzie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>J.Lever</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Bulldogs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Etihad Stadium</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>T.Miles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>S.Bolton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Coast</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Johnson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>C.Masten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>W.Milera</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P.Seedsman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Otten</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richmond</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>L.Hodge</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>August 6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawthorn</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>N.Riewoldt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane Lions</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>D.Prestia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

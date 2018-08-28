@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417128796606534</docid>
+  <date>03/08/2017</date>
+  <time>01:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/wattle-health-set-to-raise-124m/news-story/93ec688840a8195cac60e3c98804982d</url>
+  <title>Wattle Health set to raise $12.4m</title>
+  <content>
+Infant formula supplier Wattle Health has received commitments from institutional and sophisticated investors to take up new shares in a $12.4 million capital raising.
+Wattle Health, which listed on the Australian share market in March, says the share placement was significantly oversubscribed, with the total bids received in excess of $20 million.
+The proceeds will be used to fund Wattle Health's previously announced acquisition of an interest in Australian infant formula maker Blend & Pack and a joint-venture with Organic Dairy Farmers of Australia.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wattle Health</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Organic Dairy Farmers of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

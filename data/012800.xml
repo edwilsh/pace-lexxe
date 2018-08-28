@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419529683365976</docid>
+  <date>03/08/2017</date>
+  <time>10:19</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/nsw/2017/08/03/two-men-charged-sydney-terror-plot/</url>
+  <title>NSW counter-terrorism police charge two men over alleged jet plot</title>
+  <content>
+New South Wales counter-terrorism police have charged two men alleged to have been involved in a plot to bring down a passenger plane, arrested in raids last weekend across Sydney.
+A 49-year-old man from Lakemba and a 32-year-old Punchbowl man have each been charged with two counts of preparing for, or planning, a terrorist attack.
+Both men are due to face court in Parramatta on Friday morning.
+Another man - arrested at Surry Hills - remains in police custody.
+A 50-year-old man was released from police custody on Tuesday without charge.
+The men were arrested on Saturday in raids across Sydney, with authorities alleging they were involved in a plot to bring down a passenger plane using an improvised device.
+Police conducted searches across Sydney earlier this week, including in the suburbs of Lakemba, Punchbowl, Surry Hills, Wiley Park and Bankstown.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Bankstown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Punchbowl</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Wiley Park</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lakemba</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surry Hills</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

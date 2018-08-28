@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402010511442432</docid>
+  <date>31/07/2017</date>
+  <time>14:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/security-the-foundation-for-commerce-innovation/news-story/40c634241d4186acff0e4c3375e8376e</url>
+  <title>Trust, intelligence, IoT to drive payments</title>
+  <content>
+As the world of commerce continues to evolve at a phenomenal pace, payment experiences are enhancing at equal speed, becoming increasingly invisible and taking on new and unexpected forms. But as innovation accelerates, we must never lose sight of the role of security at the foundation of any innovation.
+Technologies such as artificial intelligence and the Internet of Things are enabling a new type of connected, intelligent and personalised commerce, with the payment moment being so seamless that merchants and customers need only focus on the interaction. As these technologies become commonplace, we'll experience a profound change in commerce and consumer experience. This has immensely positive implications for Australian businesses.
+To give you a sense of the scale of this change, we predict the three billion Visa cards in the world today will expand into 30 billion different ways of paying across an explosion of physical and digital acceptance points. In essence, the card has become an account, which can be embedded into many connected devices such as watches and fridges, or held on file at a merchant to enable payments everywhere.
+While this exponential growth represents an exciting opportunity for Australian businesses, there are substantial pitfalls associated if security doesn't move at the speed of innovation. One technology that addresses both consumer experience and security needs in this future commerce environment is biometric authentication. Biometrics allow for a consumer's unique features such as eyes, fingers, voice and face to be used to ensure someone is who they say they are when paying electronically.
+By 2020, Deloitte has forecast that each "user" may have as many as 200 online accounts, each with the need to authenticate the person to gain access. Biometrics remove the need for PINs and passwords, paving the way for consumers to transact with as little friction as possible. While there is no single solution for security, biometrics will become a central element by using a person's unique attributes to authenticate them in ways only previously imagined.
+And Australians are ready for this shift. YouGov research commissioned by Visa found more than half of Australian respondents (56 per cent) were comfortable using their thumbprint, voice or retina for payment. The appeal of biometrics lies in its more secure nature (45 per cent) and that it removes the need to remember a PIN or password (40 per cent). So Australians are seeing that biometric authentication presents a more secure and more convenient way to pay.
+Passwords and PINs make shopping somewhat clunkier than it needs to be, directly affecting Australian merchants. For example, when customers give up on a purchase because they can't remember their password, it not only presents a lost sale then, but also potentially in the future.
+Biometric authentication forms can be used in combination, in a seamless manner for added layers of security. For instance, voice recognition combined with your fingerprint. The ability to layer security forms is crucial to our security approach and the reason why we've been able to keep fraud rates low, despite significant growth in electronic payment volumes.
+It is consistency in security approaches and standards that build consumer trust and engagement. The same YouGov research found only 39 per cent of respondents are willing to share their personal information in exchange for convenience when they pay. This illustrates a larger shift towards a more security conscious consumer, who expects that once personal details are shared, they are kept secure.
+It's crucial we continue to invest in responsible innovation, ensuring security is built in from the start and no new technology or capability compromises the integrity of the payments ecosystem. It is our collective responsibility to balance security with the need to reduce friction in the payment experience; we can't have one and not the other. We are working with the industry to co-create biometric authentication frameworks that will provide new standards and clarity for industry. This is our combined responsibility and how we will maintain consumer trust.
+Whether it's biometrics, or other security standards, we must continue to build layers of security that mean the latest payment experiences are just as secure as they are innovative. Ultimately, no product or service can succeed at scale without trust.
+Stephen Karpin is group country manager for Visa in Australia, New Zealand & South Pacific.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Deloitte</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Karpin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YouGov</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

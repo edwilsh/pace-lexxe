@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398097796171352</docid>
+  <date>30/07/2017</date>
+  <time>23:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/markets-live/markets-live-investors-gird-their-loins-20170730-gxly8v.html</url>
+  <title>Markets Live: Investors gird their loins</title>
+  <content>
+A fresh record close for the Dow, rising overall global earnings optimism and further gains in oil have set the ASX up for a higher open.
+
+ASX futures advanced 24 points or 0.4 per cent to 5658. The Australian dollar edged 0.2 per cent higher, remaining within striking distance of the US80¢ mark despite rising bearish calls - Goldman has even called for investors to place bets that the $A will drop.
+
+The local reporting season begins in earnest this week on high expectations - have profits reached a peak as many brokers expect? UBS sees headline earnings growth of about 18 per cent for fiscal 2017; Deutsche Bank targets a little below 15 per cent. Both reflect a rebound after two tough fiscal years for the resources sector.
+
+Excluding resources, UBS sees more modest profit growth of 5.7 per cent, and that's forecast to slow to as little as 2 per cent in fiscal 2018 as resources become a drag. 
+
+"The market has had a decent bounce off its early July lows as banks and resources return to favour though constrained earnings growth (and expensive valuations where there is growth) still suggests to us that the Australian market will be something of a laggard," UBS strategists David Cassidy and Dean Dusanic said in a July 26 note.
+
+Rio Tinto reports on Wednesday and Tabcorp on Friday, among others. The two most hectic weeks will be August 14-18 and August 21-25. 
+
+Locally the focus this week, for a second consecutive week, is on the Reserve Bank. Tuesday brings a policy meeting, a no-change rate decision is expected. Words will be parsed as usual for any bias tweak. 
+
+"In the space of a few months, markets have moved from pricing in a small chance of a rate cut to a chance of a hike over the next 12 months," said Janu Chan, senior economist at St George Bank. "It partly reflects an improvement in domestic economic conditions. 
+
+Investors also will be keying on the Statement of Monetary Policy and renewed economic forecasts on Friday.
+Good morning and welcome to the Markets Live blog for Monday.
+
+Your editors today are Jens Meyer and Patrick Commins.
+
+This blog is not intended as investment advice.
+
+Fairfax Media with wires.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Markets Live</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>3</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Goldman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tabcorp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dean Dusanic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Commins</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Statement of Monetary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Janu Chan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jens Meyer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St George Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Cassidy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

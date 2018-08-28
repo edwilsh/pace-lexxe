@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424254147482112</docid>
+  <date>04/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/decmil-to-supply-modular-cells-for-nz/news-story/eefe7443cb2d08571ee4e4724015a439</url>
+  <title>Decmil to supply modular cells for NZ</title>
+  <content>
+Newsbites Finance
+
+Share
+
+Perth-based engineering and construction group Decmil has won a contract for the supply of rapidly deployable modular prison cells at two prisons in New Zealand.
+The NZ Zealand Department of Correction has appointed Decmil (ASX: DCG) as its preferred contractor for the NZ$60 million project (A$56m), which will cover the design, procurement and on-site installation of the cells.
+The contract represents a further expansion of Decmil's business in New Zealand, where it is now active in a number of sectors including education, corrections, defence and commercial building.
+Contract negotiations between Decmil and NZ Corrections are expected to be completed by the end of this month.
+Decmil has identified correctional services as a key target market, building on the company's recent projects in defence and immigration. The company also has a long-established track record of building FIFO villages for some of Western Australia's largest resources projects.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ Zealand Department of Correction</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Decmil</name>
+    <count>6</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Perth-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ Corrections</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>FIFO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DCG</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ$60</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

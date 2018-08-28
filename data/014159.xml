@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422544750471032</docid>
+  <date>03/08/2017</date>
+  <time>22:01</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/truce-begins-in-another-syria-safe-zone/news-story/e16d6f2ab63c9c8919b9d5993f23ead7</url>
+  <title>Truce begins in another Syria 'safe zone'</title>
+  <content>
+Russia's defence ministry has announced a ceasefire for a third safe zone in war-torn Syria, paving the way for the delivery of sorely needed humanitarian relief to rebel-held areas north of the city of Homs.
+In central Syria meanwhile a swap between Lebanon's militant Hezbollah group and Syria's al-Qaeda affiliate ended with more than 7000 fighters and civilians crossing into rebel-held parts of northern Syria in return for the release of five Lebanese militants who arrived in government-held parts of the country.
+Military spokesman Major General Igor Konashenkov said Russia would deploy military police in the area on Friday and set up two checkpoints and three observation points around its borders.
+It is the third of four planned ceasefires reached in recent months under an agreement brokered by Russia, Iran, and Turkey in May that aims to "de-escalate" the violent and prolonged Syrian civil war.
+Russia and Iran are providing military support to President Bashar al-Assad, while Turkey sponsors some of the opposition forces arrayed against him.
+Pro-government forces have besieged the enclave north of Homs for years, but have been unable to capture it from the opposition even as it recovered territory elsewhere.
+Shelling and air strikes against the enclave have eased since the May agreement was signed, said Khaled. Residents will now be expecting further relief.
+The agreement, according to notes leaked by the British-based Syrian Observatory for Human Rights monitoring group, follows the model of another ceasefire zone for the suburbs of Damascus.
+Both truces were negotiated in Cairo between Russia and what the ministry of defence described as the "moderate opposition".
+The agreement also prescribes the release of political prisoners, long a demand of the opposition.
+The government's air force has cut back its attacks on the four "de-escalation zones" designated in the May agreement.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Syrian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Turkey</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pro-government</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Homs</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Lebanon</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Human Rights</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>President Bashar</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Khaled</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Major General Igor Konashenkov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>British-based Syrian Observatory</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Damascus</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lebanese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>5</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Hezbollah</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cairo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Assad</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Qaeda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

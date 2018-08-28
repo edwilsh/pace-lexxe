@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424602039838284</docid>
+  <date>04/08/2017</date>
+  <time>06:00</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/nz-dollar-heads-for-11pc-weekly-decline/news-story/e653e85cbd6f12c37e66048d04fea243</url>
+  <title>NZ dollar heads for 1.1pc weekly decline</title>
+  <content>
+The New Zealand dollar is headed for a 1.1 per cent weekly decline as investors increasingly expect the central bank to dial back its forecasts and keep interest rates on hold for even longer at next week's policy review.
+The kiwi was trading at US74.28c at 5pm versus US74.39c at 8am and from 73.99c Thursday. It reached 75.23c in New York trading a week ago.
+"Ahead of the RBNZ next week, it is going to be a little bit defensive. There are some commentators saying the RBNZ could adopt a stronger dovish tone that it had previously," said Tim Kelleher, head of institutional foreign exchange sales at ASB Bank.
+All 11 economists polled by Bloomberg expect the central bank to keep rates at a record low 1.75 per cent at next Thursday's review.
+In its May monetary policy statement, the central bank's forecasts indicated that rates would remain on hold until September 2019.
+Since then inflation and growth have been lower than the RBNZ expected and the New Zealand dollar is around 3 per cent higher on a trade weighted index basis.
+An unexpected dip in employment data this week only strengthened the view that rates might stay on hold for even longer.
+ASB Bank chief economist Nick Tuffley said he now expects the central bank's forecast to show rates lifting in early 2020.
+The kiwi was trading at A93.28c from 93.23c.
+The kiwi rose to 56.52 British pence from 55.96 pence after the Bank of England kept its benchmark interest rate unchanged and lowered its forecasts for economic growth, inflation and wages.
+It was at 4.9914 yuan from 4.9780 yuan. It rose to 62.54 euro cents from 62.46 cents and traded at 81.78 yen from 81.90 yen.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASB Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Tuffley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBNZ</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>September 2019</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US74.28</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US74.39</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Kelleher</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

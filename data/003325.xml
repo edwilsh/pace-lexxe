@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404024851142488</docid>
+  <date>31/07/2017</date>
+  <time>22:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/01/08/04/shot-fired-into-front-window-of-nsw-home</url>
+  <title>Shot fired into front window of NSW home</title>
+  <content>
+A man has escaped injury after a shot was fired into his home on the NSW south coast.
+It's alleged the man was arguing with two men who knocked on the front door of his Warilla home about 12.30am on Tuesday before the shot was fired through the front window.
+The visitors were seen getting into a white sedan as they fled the scene.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Warilla</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

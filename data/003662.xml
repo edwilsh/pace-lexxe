@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404029146109986</docid>
+  <date>31/07/2017</date>
+  <time>22:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/woman-hospitalised-after-driving-parked-car/3207244/</url>
+  <title>Woman hospitalised after driving into parked car</title>
+  <content>
+A WOMAN has been taken to hospital after she crashed her car into a parked vehicle at Leichhardt this morning.
+
+The crash happened on Samford Rd just before 7am.
+
+The driver, aged in her 60's, was taken to Ipswich Hospital in a stable condition.
+
+The road is not closed.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ipswich Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Samford Rd</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Leichhardt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

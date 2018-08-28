@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418408696880640</docid>
+  <date>03/08/2017</date>
+  <time>05:58</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-03/police-and-army-units-sent-to-deal-with-post/8771598</url>
+  <title>Police and Army units sent to deal with post-election unrest in Enga Province</title>
+  <content>
+Violence has broken out in Enga province after the seat of Kandep was declared for the PNC candidate Alfred Manase.
+After the election result was announced, supporters of the losing candidate, Opposition Leader Don Polye reportedly became violent.
+Enga Provincial Police Commander George Kakas tells Bruce Hill he is sending police and army units into the area, and is hoping the situation doesn't escalate.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Leader Don Polye</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Enga Provincial Police Commander George Kakas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enga</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alfred Manase</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kandep</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enga Province</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

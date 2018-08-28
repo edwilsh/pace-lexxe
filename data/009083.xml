@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412915433604940</docid>
+  <date>02/08/2017</date>
+  <time>08:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/tillerson-laments-sour-ties-with-russia/news-story/9eec57023005e166794f9ab076d1dda2</url>
+  <title>Tillerson laments sour ties with Russia</title>
+  <content>
+America's top diplomat has put the onus on Russia to begin repairing relations with the United States, although he concedes congressional sanctions will pose a new obstacle.
+Holding out hope for warmer ties, Secretary of State Rex Tillerson says he will meet with counterpart Sergey Lavrov within days.
+In a wide-ranging assessment of his first six months in office on Tuesday, Tillerson also:
+* Revealed the US is looking at how to entice Venezuelan President Nicolas Maduro to leave power peacefully.
+* Insisted the US doesn't blame China for North Korea's nuclear behaviour despite the American pressure on Beijing. He said the US is open to talks with Pyongyang.
+* Argued Iran's military must leave Syria for the US to co-operate with Russia on ending the Syrian civil war.
+* Named retired General Anthony Zinni as special representative to try to resolve the Persian Gulf diplomatic crisis over Qatar.
+On Russia, Tillerson strained hardest to point to progress.
+He was unable to show the US has fulfilled President Donald Trump's objective of a new, more co-operative relationship between the former Cold War foes, noting only modest efforts in Syria as a sign the nations share some common goals.
+While he said frustrated Americans want the US to get along with the nuclear-armed power, he did not address the deep suspicions at home about the president's intentions.
+US intelligence agencies have formally accused Moscow of meddling in the 2016 presidential election to help Trump.
+"The situation is bad but believe me, it can get worse," Tillerson said, recounting his message to Russian President Vladimir Putin when they met in March. "And it just did."
+Putin this week ordered the US to dramatically cut its diplomatic presence in Russia, solidifying the conclusion a Trump-driven detente with Moscow hasn't come to pass.
+Though ostensibly in retaliation for a similar US move last year under President Barack Obama, the Russian action came just after Congress voted to slap Russia with more economic sanctions and to include new requirements making it far harder for Trump to ease the penalties.
+"Neither the president nor I are very happy about that," Tillerson said of the sanctions bill.
+The diplomat had urged lCongress not to proceed.
+"We were clear that we didn't think that was going to be helpful to our efforts but that's the decision they made."
+Trump plans to sign the bill nevertheless, another potent reminder of the political baggage that has beset his efforts to mend ties to Russia.
+If Trump were to veto the bill, Congress would almost surely override his veto.
+At a time when the FBI and congressional committees are investigating possible Trump campaign collusion with Russia, a veto override would make it look like Congress was rejecting a Trump effort to protect Moscow from US punishment.
+Though the White House said the bill was still being reviewed, press secretary Sarah Huckabee Sanders said Trump will sign it.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>lCongress</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Syrian</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Persian Gulf</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Russian President Vladimir Putin</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Tillerson</name>
+    <count>5</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sergey Lavrov</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Huckabee Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Qatar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>General Anthony Zinni</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cold War</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan President Nicolas Maduro</name>
+    <count>1</count>
+    <score>-0.25</score>
+  </sindex>
+  <sindex>
+    <name>Putin</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Barack Obama</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>8</count>
+    <score>-18</score>
+  </sindex>
+  <sindex>
+    <name>Trump-driven</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FBI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

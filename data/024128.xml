@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446759776397892</docid>
+  <date>07/08/2017</date>
+  <time>19:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/05/46/interpol-searching-for-clive-mensink</url>
+  <title>Interpol searching for Clive Mensink</title>
+  <content>
+Interpol has been asked to help search for former Queensland Nickel director Clive Mensink who is wanted to give evidence over the collapse of the company last year, with the loss of hundreds of jobs.
+News Corp reports Australian Federal Police sought help from the international agency to find Mr Mensink, who it says was last known to be in Hong Kong, after two arrest warrants were issued when he failed to appear at a hearing into QN's collapse.
+Mr Mensink, Clive Palmer's nephew, is not accused of any criminal offences.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>QN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Mensink</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Nickel</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Clive Palmer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Interpol</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Clive Mensink</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

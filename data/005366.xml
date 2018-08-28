@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406601831562149</docid>
+  <date>01/08/2017</date>
+  <time>08:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/opinion/william-tam-new-public-health-waiting-lists-could-see-some-patients-miss-out-on-treatment/news-story/f778a89ba29613a41bfb6522c6b221f1</url>
+  <title>Patients could miss out on treatment</title>
+  <content>
+YOU might think that patients on surgical waiting lists who are not treated within the required timeframe would be highlighted for urgent attention or reassessment.
+Yet under a new plan to reduce the ever-mounting surgical waiting lists at the Royal Adelaide Hospital, patients will simply be re-categorised as less urgent and may lose their place on the list entirely.
+The Advertiser reported on May 22 that administrators were keen to reduce the number of overdue cases on elective surgery waiting lists ahead of the move to the new Royal Adelaide Hospital (nRAH) as the RAH's overdue list had blown out to more than 200 patients.
+Under two recent directives, urgent patients who have not been seen within the recommended one-month timeframe will not be flagged as overdue but will be re-categorised as semi-urgent.
+Overdue semi-urgent cases will be further downgraded as not urgent.
+And, not only are patients put into a less urgent category automatically, under the administrative rules for surgeons which require that patients are treated based on the time on the waiting list, they will fall to the bottom of that category.
+For those dropping from a Category 2 (to be seen within three months) to the bottom of a Category 3 (to be seen within a year), this might mean they are not treated at all, given resource constraints.
+Certainly the directive makes sense to administrators who stand to lose an important tranche of Commonwealth funding if they do not treat at least 80 per cent of patients within the required timeframes.
+But surgeons are concerned about the implications for patients with cancer or a deteriorating condition - doctors who assume care from another doctor may not be aware that the patient has been automatically re-categorised.
+The directive also raises alarm bells around transparency. Surely, if a relative with a cancer diagnosis faced being bumped down the surgical waiting list with the stroke of a pen, you might at least hope for a consultation to re-assess the clinical need?
+It is unacceptable to the AMA(SA) that this re-categorisation process will not be done in consultation with the clinician or the patient.
+We acknowledge that there is sometimes need to re-categorise patients on waiting lists but this must be done openly based on discussion between the patient and the doctor about the clinical indicators and the patient's circumstances.
+We certainly have sympathy with hospital budget concerns but this approach poses unwarranted risks for patients. We need to ensure that urgency is determined by clinical indications, not administrative pressures.
+Associate Professor William Tam is President of the Australian Medical Association (South Australia)
+</content>
+  <sindexList>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Royal Adelaide Hospital</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Category 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Category 2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>nRAH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor William Tam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Medical Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>May 22</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>President of the Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

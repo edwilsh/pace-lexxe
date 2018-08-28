@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444779796438549</docid>
+  <date>07/08/2017</date>
+  <time>12:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/europe/uk-fights-rearguard-action-on-eu-financial-laws-before-brexit-20170807-gxqztw</url>
+  <title>UK fights rearguard action on EU financial laws before Brexit</title>
+  <content>
+by
+Alexander Weber
+
+The UK may be headed for the door, but its lawmakers and civil servants in Brussels still have their work cut out as the European Union overhauls financial-services rules that will affect firms in London even after Brexit.
+Negotiations will resume soon on wide-ranging banking legislation that translates global standards into EU law, as well as a swathe of new rules on everything from pensions to covered bonds and derivatives clearing. All this matters to the UK because it has to enact any laws passed before Brexit and will be expected to have equivalent rules in place after it leaves as part of any deal giving London-based firms continued access to the single market.
+"Many British politicians have claimed that our rules should be deemed equivalent to the EU's because they will have been identical to those of other EU countries before we leave," said Anneliese Dodds, a Labour lawmaker in the British Parliament who was previously a member of the EU legislature. "I don't think it would be sensible for Britain to threaten that perception - and reality - by trying to wriggle out of new prescriptions on the grounds that we are about to leave."
+Yet with so much on the line, the UK has a diminished capacity to bend Brussels to its will. , that job now belongs to a Latvian. Sharon Bowles once led the key European Parliament committee for banking and market rules; now an Italian holds the chair. Jonathan Faull, long one of the most influential figures in the European Commission, has retired.
+
+And with , its 72 lawmakers in the European Parliament and its officials in the Council of the European Union, which represents the interests of national governments in the legislative process, may find it harder to make themselves heard.
+
+For now, they still have sway, according to Molly Scott Cato, a UK Green Party lawmaker who sits on the European Parliament's crucial Economic and Monetary Affairs Committee.
+"Surprisingly, my parliamentary colleagues have continued to involve me fully in debates over financial regulation and most of my UK colleagues continue to be fully engaged," she said. "Whether this is because they recognise the need for equivalence, or because they nurse a hope that the Brexit madness can be reversed, is hard to judge."
+The Bank of England has made clear that it wants to avoid becoming a taker, rather than a maker, of the rules it applies to about 1,700 banks, building societies, credit unions, insurers and major investment firms. Making sure new EU laws reflect UK priorities is the simplest way of ensuring that any future equivalence arrangement won't leave the BOE and the Financial Conduct Authority holding the bag.
+Among the UK's goals is to make sure that the business of clearing euro-denominated derivatives isn't forced to relocate to the EU. Euro clearing emerged as a bone of contention between the UK and the other 27 EU countries ahead of the Brexit talks, with both
+
+The UK wants to kill a proposal with clear Brexit implications that would require non-EU banks to consolidate their operations in the bloc under a single entity. The European Commission said the aim of the rule was to make bank resolution easier by having a company with the capital and loss-absorbing debt needed to fund its own demise.
+In a paper the UK government produced with Luxembourg, it argued that the proposal would boost costs and complicate structures without helping supervision and resolution. So far, little headway on the plan has been made in discussions among EU member states, according to a June 12 progress report.
+The UK has also taken aim at an EU proposal for a five-day moratorium on payments from failed banks in the process of restructuring. The BoE warned of "very serious consequences" if the bill were adopted because it's out of sync with an existing industry agreement that stops banks from winding up derivatives contracts with a struggling firm for two days, according to a working paper seen by Bloomberg News.
+In the European Parliament, British lawmakers have staked out a range of positions in recent months.
+
+Syed Kamall, a member of the Economic and Monetary Affairs Committee, has called for changes to a bill on bank-failure rules to ensure that certain existing liabilities of banks meet the criteria for loss-absorbing debt. Ashley Fox, who's working on changes to EU bank-capital rules, has criticised proposed liquidity rules for straying too far from global standards.
+With the clock ticking toward Brexit, it's inevitable the UK will lose some battles, according to Bowles, the former EU parliamentarian who now sits in the House of Lords.
+"The UK's voice on financial services, despite all the back-fighting, has often carried weight because we were right," Bowles said. "If you said you're leaving, then your voice doesn't carry the weight that it did have."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>BOE</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sharon Bowles</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Monetary Affairs Committee</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EU</name>
+    <count>13</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>13</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>House of Lords</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bowles</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Council of the European</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>British Parliament</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of England</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>London-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Commission</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Luxembourg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brexit</name>
+    <count>7</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Alexander Weber</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BRUSSELS</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syed Kamall</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>European Parliament</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>London</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Molly Scott Cato</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Bloomberg News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Financial Conduct Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ashley Fox</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Faull</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>UK Green Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 12</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Anneliese Dodds</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Latvian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414178154016365</docid>
+  <date>02/08/2017</date>
+  <time>13:33</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/financial-services/banks-told-to-brace-for-mandated-positive-credit-reporting-20170802-gxnna8</url>
+  <title>Banks told to brace for mandated positive credit reporting </title>
+  <content>
+Banks have made no progress reporting "positive"' data under the voluntary comprehensive credit reporting regime over the past three months, and now face the prospect of the scheme being made mandatory.
+Comprehensive credit reporting (CCR) is designed to boost the amount of information in credit files, such as credit limits and loan repayment history. This will allow competitors to the big banks to get a better view of customer risk profiles and potentially offer risk-based pricing that could be cheaper for consumers with good creditor histories.
+The Productivity Commission, in its recent report on data use and availability, called on the government to start drafting legislation to mandate CCR if public reporting had not reached 40 per cent. The government said this level must be hit by the end of the calendar year.
+But the banks are a long way from the target. The Australian Retail Credit Association told its members on Wednesday public reporting was only occurring in "small volumes". It is understood the figure is less than 1 per cent and has fallen over the past three months.
+
+While ARCA said "several credit providers are currently preparing to commence public CCR reporting", it is "highly unlikely" the Productivity Commission's target will be reached and it told the banks to prepare for a mandatory regime.
+
+"Reporting is abysmally small. It is absolutely inevitable this will be made mandatary," said Daniel Foggo, the chief executive of RateSetter Australia, one of only a few companies reporting its data publicly. Fintechs are set to benefit from a mandated regime as it will give them better data to assess loan applications.
+'Hardship flag'
+
+The financial system inquiry in 2014 said better credit data would reduce information imbalances between lenders and borrowers, facilitate switching of accounts, and increase competition among lenders. It also said the regime could reduce the likelihood that loans will default, reduce interest rates and increase the availability of credit.
+ARCA chief executive Mike Laing said the industry is now looking to the government for clarity that any mandated regime will adopt the same scheme the industry has been developing and not create additional requirements.
+
+ARCA said that 30 per cent of accounts, or around 9 million credit files, have some positive data being reported in "pre-production mode", meaning they've been tested by the credit bureaus but the owner of the data has not chosen to switch them into live mode.
+The industry had been concerned about how customers in hardship would be reported but this has been clarified.
+Banks are now wanting to introduce an additional "hardship flag" into the system that would identify when a hardship request has been granted, and therefore identify customers in hardship seeking to shop around. The Productivity Commission asked the Office of the Australian Information Commissioner and Australian Securities and Investments Commission to consult with other regulators, industry groups and consumer advocates to consider whether this is necessary.
+The commission also asked for Treasury to get responsibility for monitoring and publicly reporting on a regular basis on participation in CCR.
+
+If CCR is mandated, customer owned banks have called for a materiality threshold of $200 billion in assets on the basis the costs of participation are likely to outweigh the benefits for smaller credit providers.
+Meanwhile, the Attorney-General's Department told the commission mandating participation in CCR could "raise constitutional issues around the acquisition of property", given credit information could be considered "valuable commercial information"; the commission said this should be investigated by the government.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Daniel Foggo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Investments Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Office of the Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mike Laing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Attorney General's Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Productivity Commission</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ARCA</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RateSetter Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Information Commissioner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Retail Credit Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCR</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

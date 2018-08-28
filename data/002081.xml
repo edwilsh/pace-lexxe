@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400369833903427</docid>
+  <date>31/07/2017</date>
+  <time>07:58</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/markets/equity-markets/asx-records-worst-july-performance-for-six-years-as-wall-street-soars-to-record-20170731-gxm3zk</url>
+  <title>ASX records worst July performance for six years as Wall Street soars to record</title>
+  <content>
+The champagne corks might have been popping on Wall Street during the past month with the Dow Jones, S&P 500 and Nasdaq all closing at fresh record highs, but for local investors it was a case of dry July with nothing much to celebrate.
+Indeed, it was the worst July in six years, according to Bell Potter's Richard Coppleson, and despite the last day of gains the  has now fallen for three months in a row.
+On Monday the index gained 17 points, or 0.3 per cent, but was down 0.2 per cent for the month so it's doubtful if many investors were enjoying the bubbly after such a lacklustre result.
+Instead, they seem to be more worried about the rise  and any potential slowdown in the red hot property markets of Sydney and Melbourne.
+
+July is normally a good month for shares, up about 1.3 per cent since 2000, but not even some hefty gains from BHP Billiton and the four major banks was enough to make an impression over the past month as falls in CSL, Telstra, Aristocrat Leisure, Amcor and Macquarie Group weighed heavy on the index.
+
+For investors this July, and in fact this calendar year, there has been something about the 5700 level that's been hard to break.
+On the first day of trading in 2017, the index burst through the level with great fanfare and hopes were high for a new year rally but by the end of the month the index was back at 5600.
+Despite a run towards 6000 in May, it's been a similar story, with the average close at about 5765 this year, and the index unable to break out of some tight ranges centred around 5700.
+Ready to break with gusto
+
+It's the sort of price action that implies when it finally does break out of the tight range, in either direction, it will do so with some gusto.
+And maybe the upcoming reporting season can help revive the major index and send it back towards 6000.
+Analysts are predicting that earnings of local companies will have increased by about 18 per cent by the time the reporting season is over, but a fair chunk of that comes from a rebound in the resources sector that gets a boost from higher-than-expected commodity prices.
+Take that away and most industrial companies will show earnings growth of somewhere around 5 to 6 per cent.
+
+But it's more than just earnings. The lack of any decent gains in the local sharemarket is at odds with Wall Street.
+And not just for July (although with one session remaining, the Dow Jones and S&P 500 are up about 2 per cent so far in July, while the tech heavy Nasdaq is up almost 4 per cent).
+It's been almost a decade now since Wall Street and the local sharemarket hit their peaks before running into the global financial crisis.
+But unlike the US, the local sharemarket is still about 16 per cent below its record high of 6828.
+
+In contrast, the Dow Jones had regained all its losses from the crisis by March 2013 and since then has gone on to add another 55 per cent .
+It's a similar story for the S&P 500 while the Nasdaq had managed to regain its losses by April 2011 and has gone on to more than double in value.
+Mixed fortunes for investors
+
+If investors use the ASX/S&P 200 Accumulation index there is something to celebrate. It was back to its pre-crisis high by January, 2013 and has increased by another 29 per cent since.
+
+But for investors in the major index it has been a very disappointing time.
+Wall Street continues to grind higher and is now betting that, although growth in the US might not be quite as high as investors thought a few months ago and the latest GDP numbers were slightly disappointing, the Federal Reserve won't be hiking rates anytime soon.
+Coupled with the low outlook for inflation, it means there's a sweet spot for US investors even if
+Long-term bond yields fell in July and that also helped the sharemarket in the US look like a better investment.
+You could argue that for local investors the current bull market really got under way in June 2012, rather than in March 2009, but with so many mining stocks it's been hard to match the gains in the US and it's hard to see what is going to change that anytime soon.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2009</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2013</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Aristocrat Leisure</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bell Potter's Richard Coppleson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Amcor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BHP Billiton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>ASX/S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 2012</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>8</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>April 2011</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>P 200 Accumulation</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

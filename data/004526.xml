@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405785787761268</docid>
+  <date>01/08/2017</date>
+  <time>04:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/rba-holds-interest-rate-at-15/news-story/09368c77c7f73747112438dd9416517d</url>
+  <title>RBA holds interest rate at 1.5%</title>
+  <content>
+Australian Associated Press
+
+Share
+
+The Reserve Bank has held its benchmark interest rate at 1.50 per cent and indicated the Australian dollar's recent rise could slow economic growth.
+RBA governor Philip Lowe said the recent appreciation of the Australian dollar partly reflects a lower US dollar, and added that a rising exchange rate would be expected to result in a slower pick up in economic activity and inflation than currently forecast.
+The Australian dollar rose in the minutes following the RBA's 1430 AEST announcement, to 80.35 US cents.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Lowe</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RBA's 1430 AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412442987193331</docid>
+  <date>02/08/2017</date>
+  <time>06:49</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/mining/rio-tinto-delivers-record-interim-dividend-20170802-gxnumo</url>
+  <title>Rio Tinto delivers record interim dividend</title>
+  <content>
+Rio Tinto has delivered shareholders a record interim dividend, with surging earnings from its iron ore division helping boost underlying earnings for the six months to June 30 by 152 per cent to $US3.9 billion.
+Analysts had expected earnings of $US4.15 billion; in the previous corresponding period the company's posted underlying earning of $US1.56 billion.
+Rio will pay an interim dividend of $US1.10, up from US45¢ for the first half of the 2016 year. It's previous highest interim dividend was US96¢, at the height of the mining boom.
+The company has also launched a $US1 billion share buyback of its British shares.
+
+Australia's biggest iron ore miner saw earnings from its key division climb 87 per cent to $US3.3 billion.
+Rio shares have surged 37 per cent in the last 12 months thanks to stronger commodity prices.
+There were also good results from Rio's coal division, where underlying earnings rose 170 per cent to $US1.4 million, and its aluminium division also posted strong gains, with earnings rising 55 per cent to $1.7 billion.
+The Anglo Australian miner has also made its target to cut $US2 billion worth of costs over the 2016 and 2017 years six months earlier than expected.
+
+Rio's net debt was just $US7.6 billion, down from $US9.6 billion at the same time last year.
+</content>
+  <sindexList>
+  <sindex>
+    <name>US1.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US7.6</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Anglo Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US9.6</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.56</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US4.15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3.9</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US3.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$96</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$45</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

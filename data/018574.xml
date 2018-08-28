@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651432285736438110</docid>
+  <date>05/08/2017</date>
+  <time>11:49</time>
+  <isTopNews>true</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/victoria/police-investigate-mans-suspicious-death-in-west-footscray-20170805-gxq522.html</url>
+  <title>Police investigate man's suspicious death in West Footscray</title>
+  <content>
+Homicide Squad detectives are investigating the death of a man in West Footscray on Saturday night.
+Paramedics were called to the corner of Ashley Street, near the corer of Sunshine Road, after reports of an injured man just before 7pmPhoto: Rohan Thomson
+When they arrived, those already at the scene were trying to resuscitate the man by performing CPR.
+However, he could not be revived.
+The man, believed to be in his 20s, has not yet been identified.
+Police say the exact circumstances surrounding his death are yet to be determined.
+Anyone with information should contact Crime Stoppers on 1800 333 000.
+More to come.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ashley Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Footscray</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rohan Thomson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>pmPhoto</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CPR</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

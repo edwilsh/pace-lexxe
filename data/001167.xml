@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399218782651387</docid>
+  <date>31/07/2017</date>
+  <time>03:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/chook-fowlers-co-accused-admits-armed-robbery/3206976/</url>
+  <title>'Chook' Fowler's co-accused admits armed robbery</title>
+  <content>
+FORMER NRL player Anthony "Chook" Fowler's co-accused has admitted to his role in the armed robbery of a Goodna hotel.
+
+Dylan Mark Stewart, 34, and Fowler were charged after Falvey's Cecil Hotel was robbed on March 19, 2015.
+
+Stewart this morning pleaded guilty to one count each of enter premises with intent to commit an indictable offence, serious assault and robbery in company.
+
+Fowler, 43, on Thursday pleaded guilty to one count each of armed robbery in company, serious assault and enter premises with intent.
+
+Fowler and Stewart will both be sentenced on December 7.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NRL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fowler, 43</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Falvey's Cecil Hotel</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>March 19</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Fowler</name>
+    <count>4</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Anthony</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Goodna</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dylan Mark Stewart, 34</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>DECEMBER 7</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Stewart</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

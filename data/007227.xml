@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410810899596380</docid>
+  <date>02/08/2017</date>
+  <time>00:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/06/39/elderly-woman-killed-adelaide-car-crash</url>
+  <title>Elderly woman dies after 'horrific' three-car pile up in north-west Adelaide</title>
+  <content>
+An elderly woman has died following a three-car crash in Adelaide's north west. 
+Emergency services were called the Port River Expressway at Gillman just after 7pm yesterday after reports a Mazda hatchback, a Nissan utility and a Mazda sedan had crashed. 
+The 77-year-old driver of the hatchback was rushed to the Royal Adelaide Hospital but later died.
+Her passenger, a 79-year-old woman from Glenside, remains in a serious but stable condition in hospital. 
+The two drivers of the other vehicles were not seriously hurt.
+Emergency services have described the crash scene as "horrific" with debris, glass and vehicle fragments strewn across the roadway for more than 100m.
+Police are investigating whether one of the vehicles may have crossed over to the wrong side of the Port River Expressway causing the fatal crash. 
+
+Related Articles
+
+The freeway was closed eastbound for a number of hours while Major Crash investigators examined the scene but it has since been re-opened to traffic. 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Adelaide Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Port River Expressway</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gillman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mazda</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Nissan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Major Crash</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glenside</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

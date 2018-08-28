@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412275483465840</docid>
+  <date>02/08/2017</date>
+  <time>06:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/vic-cops-foil-cannabis-ring-13-charged/news-story/bc952dea4fd4ea44e28c53661d053d78</url>
+  <title>Vic cops foil cannabis ring, 13 charged</title>
+  <content>
+Police say they have dismantled a statewide drug ring in Victoria, charging 13 people, seizing guns and 100kg of cannabis.
+Officers raided houses at Wollert, Lalor, Cairnlea and Bendigo on Tuesday and allegedly found a large amount of cash, the cannabis and two guns.
+All 13 people, including a 16-year-old boy, have been charged with trafficking a commercial quantity of cannabis and appeared at Melbourne Magistrates' Court on Wednesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cairnlea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bendigo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollert</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lalor</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

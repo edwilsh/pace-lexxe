@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416523206207020</docid>
+  <date>02/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/south-aust-subject-to-mock-cyber-attack/news-story/b491b8ce6f9f90f60f97bd2698b10e64</url>
+  <title>South Aust subject to mock cyber attack</title>
+  <content>
+South Australia will be subjected to a mock cyber attack to test the preparedness of companies bidding for defence industry contracts.
+Defence SA and the Defence Teaming Centre will stage the mock attack on Thursday as part of an industry forum at the University of South Australia, with the aim of improving the cyber resilience of companies bidding for defence contracts.
+"Cyber-attacks on large Australian companies and government agencies happen daily, and can have devastating impacts, so it is vital we protect ourselves and our information," SA Minister for Defence Industries Martin Hamilton-Smith said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>University of South</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defence Teaming Centre</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Defence SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Aust</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>South Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defence Industries Martin Hamilton-Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>SA Minister</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

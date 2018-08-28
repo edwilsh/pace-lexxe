@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444998839774641</docid>
+  <date>07/08/2017</date>
+  <time>13:09</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/money/finance-news/2017/08/07/cba-it-glitch-defence-questioned/</url>
+  <title>Commonwealth Bank's 'IT glitch' defence questioned</title>
+  <content>
+Governance experts and former insiders have questioned the Commonwealth Bank's decision to blame thousands of alleged money laundering breaches on a software glitch.
+The bank issued two statements to the stock exchange on Monday arguing that 99 per cent of the 53,700 allegations were the fault of a single software update in 2012 that disabled the bank's ability to report suspicious ATM deposits.
+Jeff Morris, a whistleblower who exposed a financial planning scandal at CBA, said the "inadvertent error" defence had been "overused".
+"It's a very convenient excuse, like all these things with CBA. It's always 'inadvertent errors', 'a few rotten apples', 'not consistent with our culture'. Most people can see through them now," he told The New Daily.
+"This is one scandal too many, and it's an absolute cracker because it appears to be so big and so systemic. It's just a bit hard to blame it on an IT glitch."
+Both the CBA and the Australian Banking Association declined The New Daily's offer to comment specifically on the bank's chosen defence.
+In its official statements, CBA said the faulty software was downloaded in late 2012 and not discovered until 2015. The problem was fixed, and thousands of delayed alerts sent to the regulator, "within a month" of the glitch's discovery.
+The scandal is at least the fifth to rock the nation's biggest and most important bank in recent years. It is being sued in the Federal Court by AUSTRAC, the national anti-laundering agency, for "serious and systemic" breaches of the law.
+Dr Thomas Clarke, an internationally recognised expert on corporate governance, said the allegations were probably "the most serious problem" faced by any Australian bank since the global financial crisis a decade ago.
+"CBA has differentiated itself as being the most software savvy of the big four banks, and that's certainly helped its business performance," he told The New Daily.Photo: AAP
+"It's hard therefore to believe it took them three years to correct a software glitch of such magnitude in its impact if they were really attending to the problem.
+"God knows what went wrong, but obviously something very seriously did for a very significant period of time and the CBA laid the public open to both criminality and potential terrorism.
+"This is a very serious breach. It can't be talked away."
+Likewise, Dr Peter Swan, a corporate governance expert at the University of New South Wales, said it was no surprise the bank chose this defence.
+"It's hard to believe that what's being blamed on a minor technical error was never properly investigated," he told The New Daily.
+"This sort of excuse would go down well with a very weak board because then it's no one's fault - the technical breach did itself. It wasn't the fault of the IT division or the executives or the directors. It just happened.
+"Equally you might say the collapse of the World Trade Centres was due to a minor technical issue. These sorts of excuses are always trotted out."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Peter Swan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dr Thomas Clarke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Daily</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of New</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Trade Center</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New Daily.Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Banking Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ATM</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Jeff Morris</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>6</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Federal Court</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

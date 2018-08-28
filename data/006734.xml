@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409956201088030</docid>
+  <date>01/08/2017</date>
+  <time>21:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/police-appealing-community-find-two-men-after-burg/3207712/</url>
+  <title>Police appealing to community to find two men after burglary</title>
+  <content>
+DO YOU know these men?
+
+ Ipswich District Criminal Investigation Branch police are renewing their appeal in attempting to identify two men who may be able to assist with investigations.
+
+The call-out comes following a break and enter at Flinders View on May 26.
+
+If you have information for police, contact Policelink on 131 444 or provide information using the  24hrs per day.
+You can report information about crime anonymously to Crime Stoppers, a registered charity and community volunteer organisation, by calling 1800 333 000 or via  24hrs per day.
+Police are looking for this man.QPS
+</content>
+  <sindexList>
+  <sindex>
+    <name>Policelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QPS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flinders View</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich District Criminal Investigation Branch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

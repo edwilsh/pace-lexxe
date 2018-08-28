@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418112344132241</docid>
+  <date>03/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/14/27/scotch-college-evacuated-bomb-threat-students-melbourne</url>
+  <title>Students evacuated after possible bomb threat at private Melbourne boys school</title>
+  <content>
+Hundreds of students have been evacuated from Scotch College in Melbourne after a possible bomb threat.
+Authorities were called to the prestigious Hawthorn school on Morrison Street about 1.30pm.
+Students have been evacuated from the college onto the oval.
+9NEWS has contacted authorities for more information on the threat.
+More to come. 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Morrison Street</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hawthorn</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Scotch College</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

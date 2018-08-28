@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418112344132250</docid>
+  <date>03/08/2017</date>
+  <time>04:49</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/scales-of-justice/mystery-of-missing-tassie-man-stuart-gatehouse-officially-solved-after-human-remains-found-in-queensland-dam-identified/news-story/21af48f23472774d2738a6aa0b2966a0</url>
+  <title>Mystery of missing Tassie man solved</title>
+  <content>
+SKELETAL remains found inside a submerged car in Queensland's Wide Bay region have been confirmed as a Tasmanian man who has been missing for 13 years.
+Stuart Gatehouse was 45 when he vanished during a trip from Kenilworth to Gympie in 2004.
+In April, police removed Gatehouse's vehicle, with remains inside, from Borumba Dam near Imbil.
+The death is not being treated as suspicious.
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Imbil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kenilworth</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gympie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland's Wide Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tassie</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Stuart Gatehouse</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Borumba Dam</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

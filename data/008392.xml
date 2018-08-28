@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411236101364924</docid>
+  <date>02/08/2017</date>
+  <time>02:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/costs-weigh-on-resmed-profits/news-story/c140a3bfc79829f74678beea4fbca214</url>
+  <title>Costs weigh on ResMed profits</title>
+  <content>
+Respiratory face mask and machine maker ResMed has lifted its annual revenue and quarterly dividend but annual net profit is lower.
+ResMed on Wednesday booked a 12 per cent lift in annual revenue to $US2.1 billion for the 2016/17 financial year but various factors, including restructuring, litigation and acquisition expenses, pulled annual net income back by three per cent to $US342.3 million.
+ResMed chief executive Mick Farrell said a six per cent lift in the fourth-quarter dividend to 35 US cents reflected the company's confidence in its long-term outlook and strategy, and ResMed is "positioned for another great year ahead".
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>US342.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Resmed</name>
+    <count>5</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Mick Farrell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.1</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

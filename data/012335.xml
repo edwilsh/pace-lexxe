@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417983495111273</docid>
+  <date>03/08/2017</date>
+  <time>04:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/real-estate/queensland/economic-downturn-will-hit-property-investors-hardest-moodys/news-story/106048195c8005f96e7b55b4cd6f7789</url>
+  <title>Economic downturn will hit property investors hardest: Moodys - realestate.com.au</title>
+  <content>
+Emotional Stress Businessman, angry, grumpy investor, generic,
+
+AN economic downturn in Australia will turn the table on housing investors, pushing their default rates higher than owner-occupiers, a new investment report has warned.
+Moody's Investors Service vice president and senior analyst John Paul Truijens said in the event of an economic downturn here, Aussie investment home loans would bear the brunt of losses.
+"Our expectation is in contrast to the current trend in Australia, where default rates for housing investment loans are lower than default rates for owner-occupier mortgages," he said.
+The firm used Western Australia's recent experience as an example of what other investors across the country could expect if there was a downturn nationally.
+It said the mining downturn over four years saw the default rate for housing investment loans increase significantly to sit higher than that of owner-occupier mortgages.
+"Housing investment loans are more exposed to deteriorating economic conditions when compared with owner-occupier mortgages, because housing investors depend on rental income to service their mortgages and rising house prices to generate a return on their investment. And, both the rental market and house prices are sensitive to the health of the economy," the Moodys report said.
+Rising interest rates and dwindling refinancing options made outstanding investment mortgages riskier, it said, and recent regulatory measures meant there was also less choice for refinancing the existing stock of housing investment loans.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>John Paul Truijens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stress Businessman</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Moody</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moody's Investor Service</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417223285888328</docid>
+  <date>03/08/2017</date>
+  <time>01:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/a-police-officer-was-allegedly-bitten-on-the-hand-during-an-arrest-of-two-men-in-the-cairns-cbd/news-story/e89b52acf1a06d7a4c3dd8df34a7a401</url>
+  <title>Officer bitten in CBD arrest</title>
+  <content>
+A CAIRNS man has been charged with serious assault after he allegedly bit a police officer on the hand during the arrest of two men in the Cairns CBD.
+Police were called to a disturbance at the corner of Esplanade and Shields Street in the Cairns CBD yesterday afternoon after it was reported a man was yelling and abusing people in the area.
+Police arrested the man and were forced to restrain him after a struggle.
+The second man was wanted in relation to other matters and allegedly struck out at the officers, biting a male officer and causing an open wound.
+After police restrained the man it was alleged he then spat on the injured officer.
+A 34-year-old Yarrabah man was charged with committing a public nuisance offence and
+obstructing police and is due to appear in the Cairns Magistrates Court on August 30.
+A 42-year-old Cairns man was charged with serious assault of a police officer causing bodily harm. He is due to reappear in the Cairns Magistrates Court on September 20.
+The officer attended the Cairns Hospital for treatment and will also undergo disease
+testing procedures.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cairns Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shields Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns' CBD</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yarrabah</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>SEPTEMBER 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AUGUST 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esplanade</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cairns Magistrates Court</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

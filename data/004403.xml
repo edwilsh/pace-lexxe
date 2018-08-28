@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405579629328241</docid>
+  <date>01/08/2017</date>
+  <time>04:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/telstra-4g-now-covers-99-per-cent-of-australias-population/</url>
+  <title>Telstra 4G Now Covers 99 Per Cent Of Australia's Population</title>
+  <content>
+Image: iStock
+If you live pretty much anywhere where someone else lives in Australia, you'll be covered by Telstra 4G. Over 7000 mobile network towers and base stations around the country are switched on with 4G, and plenty of those are fast and long-range 4GX.
+
+In the next couple of months, you'll be hearing more and more about a new technology that Telstra is switching on around the nation at the start of 2015. 4GX is just a fancy name for the telco's new 700MHz mobile network frequency, but that's not the only thing you need to know about it.
+
+Telstra 4G now covers 1.4 million square kilometres around Australia. That's only 18 per cent of Australia's 7.7 million square kilometres of landmass, but 99.4 per cent of Australia's population lives within those areas. 3G coverage reaches 31 per cent at 2.4 million square kilometres, even further than 4G, and Telstra has plans to cover that with the latest network hardware too.
+
+Telstra also says it'll start planning to extend its 4G footprint to cover its existing 3G network if the ACCC confirms its decision to  areas. Basically, if Vodafone and Optus and other carriers are allowed to roam onto Telstra's network, it's not going to waste its time and its own money building out a network for everyone to use.
+
+Telstra's also switched on Cat M1 compatibility across its entire 4G footprint and soon beyond to around 3 million square kilometres, a coverage area Telstra says is one of the largest in the world. Cat M1 is a 4G standard built for low-power Internet of Things (IoT) devices - usually battery-powered, low-speed and low-data hardware deployed en masse, whether it's for connected car telematics or smart electricity metering. Cat M1, Telstra says, will also be able to extend into buildings and underground where higher-speed connections and standards cannot penetrate. []
+
+The Australian Competition and Consumer Commission has ruled against a wholesale domestic mobile roaming service - which would allow rival telcos to roam using Telstra's network - stating there was "insufficient evidence" a declaration on the service would improve the current state of competition.
+
+Vodafone says Australian mobile phone users "will continue to pay too much and suffer poor coverage in regional areas" as a result of the ACCC's recent decision to restrict competitor networks from using Telstra's infrastructure to provide domestic roaming services.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ACCC</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>MHz</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>GX</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>iStock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia's 7.7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra's 4G</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra 4G. Over 7000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cat M1</name>
+    <count>3</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Competition</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>9</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Telstra 4G Now Covers 99 Per Cent Of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>7</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Consumer Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Optus</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

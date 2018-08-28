@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438221381294028</docid>
+  <date>06/08/2017</date>
+  <time>10:51</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/turkey-working-with-aust-on-bomb-plot/news-story/884e1868bd8ae0d11b35eb5165ffb032</url>
+  <title>Turkey working with Aust on bomb plot</title>
+  <content>
+Turkish police say they are working with Australian authorities to investigate a foiled plot to bomb an Etihad Airways flight using explosives which Canberra said were flown in from Turkey.
+In a statement issued late on Saturday, police said they had contacted Australian authorities as soon as they received news of the foiled plot.
+The two sides have "started working to clarify unclear and unconfirmed matters regarding the possibility that explosive substances were sent from Turkey three months ago", said the statement carried by Turkish media.
+Australian police said on Friday that an Australian man sent his unsuspecting brother to Sydney airport last month to catch an Etihad Airways flight carrying a home-made bomb disguised as a meat grinder.
+High-grade military explosives used to build the bomb were sent by air cargo from Turkey as part of a plot "inspired and directed" by the militant Islamic State group, police Deputy Commissioner National Security Michael Phelan said.
+The plot targeted an Etihad Airways flight on July 15 but the bomb never made it past airport security, he said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Deputy Commissioner National Security Michael Phelan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Turkey</name>
+    <count>4</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>July 15</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Aust</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Turkish</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Etihad Airways</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

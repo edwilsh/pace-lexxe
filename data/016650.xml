@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425890530050044</docid>
+  <date>04/08/2017</date>
+  <time>11:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/opening-bell-august-4-2017-2017-8</url>
+  <title>10 things you need to know before the opening bell</title>
+  <content>
+Here is what you need to know.
+
+. The US economy is expected to have added 180,000 nonfarm jobs in July as the unemployment rate slipped to 4.3%. The report will cross the wires at 8:30 a.m. ET.
+
+. Treasury investors are demanding a higher return on bills that mature around the debt ceiling vote, signalling concerns over the possibility of a government default.
+
+. The Reserve Bank of Australia lowered its growth outlook for this year fto 2.5% from 3%, according to the latest statement on monetary policy.
+
+. About 58% of large-cap fund managers beat their benchmark in July, making for the longest streak on record that the majority of them outperformed, according to Bank of America Merrill Lynch data going back to 2009.
+
+. The two Japanese automakers announced plans to split a $US1.6 billion auto plant that will be home to as many as 4,000 jobs, AP reports.
+
+. Same-shack-sales fell 1.8%, missing the 0.0% print that Wall Street was anticipating. Additionally, the burger chain sees full-year comparable sales of -2% to -3%, versus its prior forecast of flat.
+
+. The wearable camera maker beat on both the top and bottom lines and said it sees third-quarter revenue of between $US290 million and $US310 million, topping the consensus forecast of $US277.8 million.
+
+. Australia's ASX (-0.50%) trailed overnight and Germany's DAX (+0.14%) is out front in Europe. The S&P 500 is set to open little changed near 2,473.
+
+Earnings reports keep coming. AMC Entertainment, CBOE, and Cigna are among the names reporting ahead of the opening bell.
+
+US economic data is light. Aside from the jobs report, the trade balance will cross the wires at 8:30 a.m. ET. The US 10-year yield is up 1 basis point at 2.23%.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US1.6</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ET</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cigna</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japanese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AMC Entertainment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US277.8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia's ASX (-0.50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBOE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Merrill Lynch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>US310</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US$290</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Germany's DAX (+0.14</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

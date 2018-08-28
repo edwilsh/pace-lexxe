@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651431083145584859</docid>
+  <date>05/08/2017</date>
+  <time>07:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/cairns/taxi-driver-arrested-after-crashing-into-traffic-lights-in-cairns-cbd/news-story/cdecfcfc6b336b93c232aebbf209d026</url>
+  <title>Taxi driver arrested</title>
+  <content>
+BREAKING: A TAXI driver has been arrested after crashing into traffic lights in the Cairns CBD.
+The man was taken to the police station after the incident at the corner of Buchan St and Spence St about 4pm today.
+Three juveniles were seated in the back of the vehicle and fled the scene.
+Witness Patrick Roberts said he chased the young kids and brought them back.
+He said the driver was breathalysed and handcuffed.
+"He nailed the traffic light right in the middle and is still sitting on most of it. There are lights and bits everywhere," Mr Roberts said.
+No one was injured.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Roberts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patrick Roberts</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cairns' CBD</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Buchan St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Spence St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

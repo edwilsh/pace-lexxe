@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405270391678816</docid>
+  <date>01/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/china-sets-yuan-at-912-month-high/news-story/f973c09c1544bc073fb7ec6f08dc551f</url>
+  <title>China sets yuan at 9-1/2 month high</title>
+  <content>
+China's central bank has set the yuan midpoint at 6.7148 per US dollar, the strongest level since October 11 2016, reflecting broad weakness in the US currency.
+Tuesday's official guidance was 135 pips or 0.2 per cent firmer than the previous fix at 6.7283 per dollar.
+The dollar weakened in the overseas markets, as uncertainty over the US political outlook heightened after the firing of White House communications director Anthony Scaramucci.
+The global dollar index, a gauge that measures the greenback against a basket of six major currencies, hit its lowest since early May 2016 after the news of Scaramucci's departure.
+</content>
+  <sindexList>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scaramucci</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October 11 2016</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>May 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Scaramucci</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423532592965855</docid>
+  <date>04/08/2017</date>
+  <time>01:51</time>
+  <isTopNews>true</isTopNews>
+  <source>Energy Business News</source>
+  <url>http://www.energybusinessnews.com.au/latest-news/biofuel-machine-turns-seeds-diesel/</url>
+  <title>Biofuel machine turns seeds to diesel</title>
+  <content>
+Victorian trials have used mustard seeds
+A machine which turns seeks into diesel fuel has been unveiled in the South Australian town of Tailem Bend.
+The machine, which has been trialled in Victoria over the last four using mustard seed, can deliver 150 litres of fuel per hour from excess soya beans or canola.
+It has been developed by South Australian Biofuels, which will charge a fee per litre of fuel produced.
+Enginnering manager Morgan Hunter said the idea of the machine was that it would decentralise the fuel cycle for farmers, who could turn excess product into fuel.
+Hunter claims the machine has ten times the power of competing solutions.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enginnering</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tailem Bend</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian Biofuels</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

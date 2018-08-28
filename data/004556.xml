@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405828737434961</docid>
+  <date>01/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4826650/rba-holds-cash-rate-at-record-low-15-per-cent-in-august/?cs=4219</url>
+  <title>RBA holds cash rate at record low 1.5 per cent in August</title>
+  <content>
+Reserve Bank governor Philip Lowe.  Photo: Louie Douvis
+
+The Reserve Bank has kept its cash rate on hold at a record low of 1.5 per cent for the eleventh consecutive month, providing little indication of when it will allow rates to rise.
+The decision at Tuesday's board meeting comes ahead of the release of the bank's Quarterly Statement on Monetary Policy on Friday which is expected to explain more of the board's thinking.
+It came as the Australian dollar climbed back above US80¢, the second time in two weeks it has broken the threshold to trade at a two-year high.
+The statement by Reserve Bank governor Philip Lowe said the bank's forecasts for the Australian economy was largely unchanged.
+
+"Over the next couple of years, the central forecast is for the economy to grow at an annual rate of around 3 per cent. The transition to lower levels of mining investment following the mining investment boom is almost complete, with some large liquefied natural gas projects now close to completion. Business conditions have improved and capacity utilisation has increased. The current high level of residential construction is forecast to be maintained for some time, before gradually easing."
+Governor Lowe said one source of uncertainty for the domestic economy was the outlook for consumption. Retail sales had picked up, but slow growth in real wages and high levels of household debt were likely to constrain growth in spending.
+Employment growth was picking up, but against this, wage growth remained low and was likely to stay low for a while yet.
+The higher exchange rate was expected to contribute to subdued price pressures in the economy. It was also weighing on the outlook for output and employment. An appreciating exchange rate would be expected to result in a slower pick-up in economic activity and inflation than currently forecast.
+
+The bank signalled it was not particularly worried about housing prices, saying they were  rising briskly in some markets, although more slowly. In some other markets, they were declining. 
+"In the eastern capital cities, a considerable additional supply of apartments is scheduled to come on stream over the next couple of years. Rent increases remain low in most cities and investors in residential property are facing higher interest rates. There has also been some tightening of credit conditions following recent supervisory measures to address the risks associated with high and rising levels of household indebtedness. Growth in housing debt has been outpacing the slow growth in household incomes," the statement said.
+In recent months  mortgage rates have been edging higher, particularly for investors and interest-only loans. 
+Tim Lawless, head of research at the property data firm CoreLogic said higher mortgage rates against a backdrop of record high household debt were taking some heat out of the housing market without the Reserve Bank needing to act.
+
+"With headline inflation tracking slightly below the 2 to 3 per cent target range, labour markets tightening and the economy continuing to grow, albeit at a pace below trend, the chances of a rate cut appear to have diminished," he said, adding that rate hikes might be some way off as well.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Lawless</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monetary Policy</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Louie Douvis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Quarterly Statement</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Governor Lowe</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Philip Lowe</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

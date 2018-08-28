@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398789285915558</docid>
+  <date>31/07/2017</date>
+  <time>01:50</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/politics/state-government-releases-digital-walkthrough-inside-royal-hobart-hospital-redevelopment/news-story/f94e2c990b1ad00410a52c1c7b1fd8e0</url>
+  <title>New peek inside RHH redevelopment</title>
+  <content>
+THE State Government has released a digital walk-through to give Tasmanians a sneak peek of what the completed Royal Hobart Hospital will look like.
+Construction is due to begin soon on the new inpatient precinct to be known as K-Block on Campbell St.
+The demolition of B-Block was completed in April with about 15,000 tonnes of rubble removed from the site to make way for K-Block.
+Completion of the redevelopment is slated for the middle of 2019.
+Last August, Mr Ferguson said the managing contractor,  if the project was not completed by the "practical completion date" of late December 2018.
+Penalties were to rise to $35,000 a day after a further 30 days.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Campbell St</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Hobart Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>K-Block</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>B-Block</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RHH</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>December 2018</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr Ferguson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

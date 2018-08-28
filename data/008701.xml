@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411884641436137</docid>
+  <date>02/08/2017</date>
+  <time>04:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/apartment-surge-threatens-oversupply/8767048</url>
+  <title>Apartment surge threatens to spill into oversupply: Citi</title>
+  <content>
+An unexpected surge in approvals for apartment developments could turn an already crowded market into a glut, according to a leading analyst.
+
+Key points:
+
+Tougher APRA restrictions have had little impact on cooling developers in the apartment market
+The surge in permits for apartments in June concentrated in Sydney
+Overall building approvals up 10.9pc, with a solid growth in detached home permits as well
+
+Seasonally adjusted building permit data released by the Australian Bureau of Statistics shows private apartment approvals jumped by 20 per cent in June.
+While apartment approvals are notoriously volatile, Citi economist Paul Brennan said a serious risk of oversupply has re-emerged.
+"The 20 per cent rise in private apartment approvals in June potentially will add to the additional supply of new apartments that will come on stream over the next few years," he warned.
+"Some projects may not proceed to construction given emerging oversupply in some markets."
+Total building approvals rose by 18,453, or 10.9 per cent.
+The surge in approvals was largely concentrated in Sydney, which has to some extent lagged the high-density construction boom in Melbourne and Brisbane.
+Almost 40 per cent of the 8,553 new apartment permits were in New South Wales.
+Little impact from APRA tightening in apartment boom
+
+While apartment permits are down 6.6 per cent from a year ago, the June data has caught the market off-guard.
+"[It] is surprising given the tightening of lending standards and rise in lending rates to investors and interest only owner occupiers that has been engineered by APRA," Mr Brennan said.
+However, APRA's action - which has seen the gap between owner-occupier principal and interest (P&I) loans and interest-only investor loan widen - may be having a positive impact on home building.
+Detached house approvals rose by 3.4 per cent in June, the third successive monthly rise and the trend has now turned up, according to Mr Brennan.
+"This could reflect the still record low level of owner occupier P&I lending rates which haven't increased and in some cases have fallen with larger discounts offered by lenders," he said.
+Housing activity slowing gradually
+
+However, questions remain about the ongoing strength of housing construction given finance and credit data point to a slowdown in approvals in coming months.
+"The resilience in building approvals suggests that housing activity may take longer than expected to become a drag on the economy," Mr Brennan said.
+"Our current forecasts are for dwelling investment to begin to fall by late this year but this could be more of a story for next year."
+CBA senior economist Gareth Aird said there was a lot to like in the data.
+"The outcomes fit very much in line with our view that the decline in residential construction over the next two years will be gradual and protracted.," he said.
+"The massive 10.9 per cent lift in approvals was substantially stronger than market expectations, and it was large enough to put the trend monthly growth rate into positive territory in June after falling for three months."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Brennan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Gareth Aird</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Brennan</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>6</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Bureau of Statistics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Citi</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>6</score>
+  </sindex>
+  </sindexList>
+</snippet>

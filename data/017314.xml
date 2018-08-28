@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427342229025628</docid>
+  <date>04/08/2017</date>
+  <time>16:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/05/02/30/warnings-as-heat-wave-hits-eastern-europe</url>
+  <title>Warnings as heat wave hits eastern Europe</title>
+  <content>
+Swathes of southern and eastern Europe are sweltering in temperatures above 40C in a heat wave that has fanned forest fires, triggered weather warning alerts and damaged crops.
+Italy and the Balkans were worst affected, though areas as far north as southern Poland also basked in abnormally hot temperatures, and European weather hub Meteoalarm issued its highest grade "red" warnings for 10 countries.
+At least two people have died from the heat - one in Romania and one in Poland - and many more have been taken to hospital suffering from sunstroke and other heat-related conditions.
+In Albania, 300 firefighters and soldiers struggled to contain as many as 75 forest fires and the country asked the European Union for emergency help. Firefighters were also busy in Serbia, Bosnia, Macedonia and Croatia.
+With temperatures expected to stay around 40C into next week, authorities advised people to increase their water intake and Red Cross volunteers across Europe visited the homeless and elderly and other people at risk.
+Wine growers in Italy have started gathering the grape harvest weeks earlier than usual because of the extreme heat.
+Carlo Petrini, founder of the Slow Food movement, wrote in La Stampa newspaper that the grape harvest had never started before August 15 in living memory.
+
+Related Articles
+
+Italian authorities have issued weather risk warnings for 26 cities, including tourist hubs Venice and Rome, where many of the fountains have been turned off because of a lengthy drought.
+The world-famous Uffizi art galleries in Florence had to shut temporarily on Friday when the air conditioning system broke down, their director told ANSA news agency.
+In Hungary, keepers at Budapest Zoo provided huge ice blocks to cool down two polar bears, who were also fed ice-cold water melon.
+Bosnian officials said the heat wave and drought had nearly halved agricultural output, which accounts for 10 per cent of the country's economic output.
+Neighbouring Serbia reported a similar situation and experts said drought could slash corn and soybean production by a third.
+In neighbouring Croatia the heat wave and peak tourist season has driven power demand and spot prices to record levels, officials said on Friday.
+Temperatures along parts of Croatia's Adriatic coast, including the major tourist hub of Dubrovnik, already stood at around 32C early on Friday morning and were expected to nudge up to 42C during the day, the weather service said.
+The Red Cross distributed water and hand fans to people suffering from the heat in Croatia, especially tourists visiting outdoor events and motorists stuck in typical summer traffic jams.
+(C)  RAW 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>RAW 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Serbia</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Venice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bosnian</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bosnia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Croatia's Adriatic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Uffizi</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>La Stampa</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Poland</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Romania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Slow Food</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hungary</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carlo Petrini</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Meteoalarm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ansa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balkan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>European Union</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Rome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macedonia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Budapest Zoo</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Italian</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>August 15</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Albania, 300</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Red Cross</name>
+    <count>2</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Croatia</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Florence</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubrovnik</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

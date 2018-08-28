@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417176041247500</docid>
+  <date>03/08/2017</date>
+  <time>01:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/06/mum-busted-speeding-on-icy-tasmanian-road</url>
+  <title>Mum busted speeding on icy Tasmanian road</title>
+  <content>
+A Tasmanian mother driving with her two kids has been busted speeding at 123km/h on an icy highway, prompting a safety reminder from authorities.
+Police in the state's northwest nabbed the woman early on Wednesday morning driving well over the road's 100km/h limit.
+"The apparent lack of driver consideration of all the factors in this incident including weather and road conditions, speed and precious cargo in the vehicle is very concerning," Inspector Adrian Shadbolt said, adding there were weather alerts for black ice in the area at the time.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Inspector Adrian Shadbolt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

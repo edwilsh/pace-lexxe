@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435704530437128</docid>
+  <date>06/08/2017</date>
+  <time>01:05</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>http://www.gizmodo.com.au/2017/08/us-army-to-troops-immediately-stop-using-off-the-shelf-dji-drones-especially-on-the-battlefield/</url>
+  <title>US Army To Troops: Immediately Stop Using Off-the-Shelf DJI Drones, Especially On The Battlefield</title>
+  <content>
+The US Army has ordered all service members to immediately cease using drones manufactured by Chinese tech company DJI, hinting the company's products could be easily compromised by third parties.
+
+Photo: AP
+
+A US Army memo obtained by  noted DJI drones "are the most widely used non-program of record commercial off-the-shelf" unmanned aerial vehicles in the service's use, but cited a classified Army Research Laboratory report from May 2017 which apparently resulted in "increased awareness of cyber vulnerabilities associated with DJI products".
+
+The memo ordered Army staff to immediately "cease all use, uninstall all DJI applications, remove all batteries/storage media from devices, and secure equipment for follow on direction".
+
+The US military uses drones for a wide array of purposes including reconnaissance, engineering support, communications, fire support and of course . Small drones like those manufactured by DJI have already found widespread use in  like Iraq, where their tiny size and ability to transmit high-quality video has made them invaluable scouting tools.
+
+As  noted, the unspecified "operational risks" Army researchers determined DJI products pose in the field may include the harvesting of sensitive data like geolocation information, though the manufacturer claims not to gather any such data without the permission of the customer.
+
+Another possibility is that those vulnerabilities include methods to remotely access DJI drones, gaining access to geolocation or video data, or possibly even hijacking the devices entirely. It could even be as simple as a risk of the drones being remotely detected, which could alert enemy defenders to US raids or advances.
+
+DJI Public Relations Manager Michael Perry told Small UAS News, "We'll be reaching out to the US Army to confirm the memo and to understand what is specifically meant by 'cyber vulnerabilities'".
+
+Using small drones on the battlefield is not unique to US military forces. Terror group ISIS has begun to use unmanned aerial vehicles of both homebrew and industrial design in the past few years, in some cases using them to drop grenades, rockets and mortars on soldiers.
+
+Earlier this year, DJI put vast stretches of Iraq and Syria on its , preventing its drones from being flown there, though the restrictions could be easily bypassed by anyone with even a pinch of technical know-how.
+
+[ via ]
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DJI Public Relations Manager Michael Perry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Army</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>ISIS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Immediately Stop Using Off-the-Shelf DJI Drones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Army Research Laboratory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>May 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Small UAS News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DJI</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Army To Troops</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

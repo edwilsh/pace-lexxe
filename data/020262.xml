@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438427539726269</docid>
+  <date>06/08/2017</date>
+  <time>11:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/brand/rear-window/big-ben-makes-very-lowkey-visit-20170805-gxq577</url>
+  <title>Big Ben makes very low-key visit</title>
+  <content>
+Former fed chairman Ben Bernanke spent some time in Australia last week, speaking to clients of PIMCO on the global bond fund's 20th anniversary in Australia. 
+Not that you're likely to have heard about it. The visit was rather clandestine - though journos got wind of it, PIMCO Australia wasn't able to confirm he'd be present at the anniversary function, and though journalists were welcome to attend, they weren't allowed to report on what was said. Nor could they interview him after or before the events.
+No such restrictions appear to have been communicated to attendees, several of whom tweeted small snippets of what he said or happy snaps with Big Ben. These days, the economist is chairman of PIMCO's global advisory board, alongside others such as former US state department director of policy planning Anne-Marie Slaughter and former British prime minister Gordon Brown.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ben</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gordon Brown</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pimco</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ben Bernanke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PIMCO Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Anne-Marie Slaughter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Ben</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

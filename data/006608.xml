@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409827352066845</docid>
+  <date>01/08/2017</date>
+  <time>20:40</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/domain-opens-up-property-data-for-devs-to-play-with-469862</url>
+  <title>Domain opens up property data for devs to play with</title>
+  <content>
+Domain Group has thrown open the doors to its property datasets to encourage third-party software developers to build new solutions on top of its platform.
+
+Until recently software developers were required to go through a manual and clunky process to get access to Domain's property data.
+
+It generally involved some type of CSV or XML file, filling out forms, and signing contracts and non-disclosure agreements.
+
+Since April, Domain has been testing a  - which offers real-time access to agency and listing data, property information, and the group's content offerings, and also gives developers a free 'innovation' tier to test out their ideas.
+
+The hope is that removing the traditional barriers to Domain's data will create a "vibrant ecosystem" of software developers.
+
+"Typically if you wanted to do something with property data it was a long process and you needed to sign a contract and depart with money before you even knew if it was a viable business venture," API portal project lead Simon Farrugia told iTnews.
+
+"We want to blow that up and make it easy for people to try things."
+
+The innovation tier offers a limited set of Domain's property data for developers to "play around with"; the intention is that developers will engage with Domain and be moved up to paid tiers once they have an established use case.
+
+However this will be decided on an individual basis, chief technology officer Mark Cohen said.
+
+"We have to let people play on the innovation tier and see what they come up with. We will decide individually if we want to charge or not."
+
+In the free tier developers can access basic property data like live listing information, agency and agent databases, auction results, and the property address service.
+
+Things like price estimates - which Domain says requires more work and effort to produce - as well as richer property information like suburb performance and demographic data sit on the paid tiers.
+
+Initial use cases that have sprung up since the April soft launch on the free tier include property search services for niche market segments, such as deposit and affordability for first home buyers, or searches based around where someone might want to send their child to school.
+
+Domain is also seeing interest from developers in incorporating its property data into advertisements.
+
+"Niche search would be the first or second thing we'd expect," Cohen said.
+
+"I'm interested in what someone comes up with as the fourth or fifth [idea]. The fuzziness is exciting."
+
+"Human imagination and creativity are amazing things. There's so much that can be done here that we haven't thought of inside Domain," Farrugia added.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Domain Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iTnews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simon Farrugia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cohen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Cohen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>XML</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>API</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Farrugia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CSV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

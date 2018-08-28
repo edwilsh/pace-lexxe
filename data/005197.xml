@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405974766325528</docid>
+  <date>01/08/2017</date>
+  <time>05:43</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/business/breaking-news/vodafone-lifts-h1-subscribers-and-revenue/news-story/e526b251d43abd766df655a4055d3f3d</url>
+  <title>Vodafone lifts H1 subscribers and revenue</title>
+  <content>
+Vodafone Hutchison Australia added 190,000 new customers to take its subscriber base to 5.7 million, while increasing revenue and earnings in the first half of 2017.
+Australia's third-ranked telco has reported earnings before interest, tax, depreciation (EBITDA) of $477 million in the six months to June 30, up 15.9 per cent from a year ago, while its net loss for the period was $81.5 million - down from $164 million.
+VHA, a 50/50 joint venture between Vodafone Group and Hutchison Whampoa, said average revenue per user (ARPU) had grown two per cent in the six month period to $45.89, however, on a year on year basis ARPU was down 5.7 per cent.
+Shares in ASX-listed Hutchison Telecommunications were up 0.3 cents to 6.4 cents at 1525.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hutchison Whampoa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>H1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone Hutchison Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VHA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EBITDA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ASX-listed Hutchison Telecommunications</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ARPU</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vodafone Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

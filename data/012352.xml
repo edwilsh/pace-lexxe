@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417644192689997</docid>
+  <date>03/08/2017</date>
+  <time>03:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Crikey</source>
+  <url>https://www.crikey.com.au/2017/08/03/is-dan-andrews-hurting-shortens-chances-of-winning-the-next-election/</url>
+  <title>Poll Bludger: is Dan Andrews hurting Shorten's chances of winning the next election?</title>
+  <content>
+There's been no shortage of punditry lately concerning the bleak prospects for Malcolm Turnbull's prime ministership, which have been given another spur this week by suggestions that the Liberal Party's same-sex marriage crisis could usher it into its terminal phase.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Shorten</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dan Andrews</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Liberal Party</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

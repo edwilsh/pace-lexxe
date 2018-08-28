@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412795174518325</docid>
+  <date>02/08/2017</date>
+  <time>08:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/a-genius-intro-to-game-theory/</url>
+  <title>A Genius Intro To Game Theory</title>
+  <content>
+If you ever need to explain game theory to anyone, or you're in need of a quick primer yourself, here's a neat little tale that can help.
+
+The above is part of an interactive little game created by Nicky Case, who runs a Patreon to create games, explainers and other interactives around systems. And one of those creations is a little simulation you can  that's based off The Evolution of Cooperation and The Complexity of Cooperation, two books from Robert Axelrod.
+
+The overarching principle, as some of you might be familiar, is the Prisoner's Dilemma. Pitted against another player, you can either choose to cheat (getting you up to three coins) or cooperate. The latter gets you two coins if the AI chooses to cooperate, but you only get one if they cheat. If you both cheat? Nobody gets any coins.
+
+Case's interactive graphic is actually a discussion about trust between people, why there is so little trust these days, and how game theory can explain all of this. But along the way it provides a useful visual primer into how game theory works, the most common strategies in non-zero-sum games (ones that have some reward for cooperation) and which ones prove to be the most effective, and the value of repeated interactions.
+
+You can play through the whole  There's other interactive animations and playable games on , including a simulator  and a playable story about .
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prisoner's Dilemma</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Evolution of Cooperation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robert Axelrod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nicky Case</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genius Intro To Game Theory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Complexity of Cooperation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Patreon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410643395869127</docid>
+  <date>01/08/2017</date>
+  <time>23:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/mobiles-and-tablets/apple/apple-posts-sales-increase-on-better-than-expected-iphone-shipments-20170801-gxngd6</url>
+  <title>Apple posts sales increase on better than expected iPhone shipments</title>
+  <content>
+Apple forecast current-quarter revenue largely above estimates on Tuesday, helping allay some investor concerns about a possible delay in the launch of the iPhone's 10th-anniversary edition later this year.
+Shares of the world's most valuable technology company, which also reported better-than-expected third-quarter iPhone sales, were .
+The launch of the latest iPhone could potentially move to October or November, instead of September, due to production issues, according to media reports and analysts.
+Apple is widely tipped to adopt higher-resolution OLED displays for the latest iPhone, along with better touchscreen technology and wireless charging - which could come with a $US1000 plus price tag.
+
+for the current quarter, while analysts on average were expecting $US49.21 billion, according to Thomson Reuters I/B/E/S.
+
+Analysts on average expect the company to sell 45.55 million iPhones in the current quarter, according to financial data and analytics firm FactSet StreetAccount. Apple sold 45.51 million iPhones in the year-ago quarter.
+Apple's fourth quarter generally includes first-weekend sales of the company's latest devices.
+The company said iPhone sales rose 1.6 per cent to 41.03 million in the third quarter ended July 1, above analysts' average estimate of 40.7 million units, according to FactSet StreetAccount. Apple sold 40.4 million iPhones a year earlier.
+Many customers wait for Apple to launch its new smartphones before deciding on upgrading or replacing their current devices, which usually results in iPhone demand tapering in the months before a release.
+
+The company's net income rose to $US8.72 billion, or $US1.67 per share, in the three months ended July 1, from $US7.80 billion, or $US1.42 per share, a year earlier.
+Revenue rose to $US45.41 billion from $US42.36 billion in the quarter, typically the company's weakest. Analysts on average had expected $US44.89 billion.
+Apple's revenue from the Greater China region fell 9.5 per cent to $US8 billion in the latest quarter, as consumers switched to newer domestic offerings.
+China sales appear to have stabilised after several quarters of much larger declines, chief financial officer Luca Maestri told Reuters.
+
+A 21.6 per cent jump in the company's services business - which includes the App Store, Apple Pay and iCloud - to $US7.27 billion helped boost revenue. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>OLED</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US8.72</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US45.41</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>App Store</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple Pay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>9</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>iCloud</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US49.21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.67</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.42</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US42.36</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greater China</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FactSet StreetAccount</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US44.89</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Luca Maestri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>8</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>US7.80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US7.27</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

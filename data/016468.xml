@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425418083639020</docid>
+  <date>04/08/2017</date>
+  <time>09:10</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/national/2017/08/04/trump-turnbull-transcript-reduced-asylum-seeker-tears/</url>
+  <title>Trump-Turnbull transcript made Manus refugee sob</title>
+  <content>
+A refugee being held on Manus Island has described the anguish of feeling like "I can be traded for anything" after studying a conversation between Malcolm Turnbull and Donald Trump.
+Imran Mohammad, who has been in offshore detention for almost four years, cried after reading a leaked transcript of the two leaders discussing a people-swap deal, feeling as if he were "just a product".
+"I am just a human being and there is no need to play with my life. All I want is to respect and love others and be loved and respected in return," he said on Friday in a statement released by the Human Rights Law Centre.
+"All I need is a sense of belonging to a safe country so that I can live a life that every human deserves."
+During the January phone call, revealed in full by the Washington Post, the prime minister corralled the new president into endorsing the refugee deal.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Manus Island</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Human Rights Law Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Manus</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Imran Mohammad</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump-Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

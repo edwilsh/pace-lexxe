@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399051278924792</docid>
+  <date>31/07/2017</date>
+  <time>02:51</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/toddler-suddenly-disappeared-nsw-court/news-story/f17916255c4df5522eb6aea01c966e7a</url>
+  <title>Toddler suddenly disappeared: NSW court</title>
+  <content>
+The toddler daughter of a NSW woman who allegedly talked about sacrificing a child to a "wolfman" suddenly disappeared from a block of units where she lived, a court has heard.
+Neighbour Ellen Campbell told the Newcastle Supreme Court on Monday she'd been suspicious about what happened to the toddler.
+The toddler's mother, 44, who cannot be named for legal reasons, has pleaded not guilty to murdering the little girl between Christmas 2000 and Christmas 2001.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Christmas 2000</name>
+    <count>1</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>Christmas 2001</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ellen Campbell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

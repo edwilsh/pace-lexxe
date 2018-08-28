@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412150929412589</docid>
+  <date>02/08/2017</date>
+  <time>05:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/ibm-sets-new-storage-density-record/</url>
+  <title>IBM Sets New Storage Density Record</title>
+  <content>
+As someone who recalls buying a 4MB CF card for a Pocket PC for about $400, the plummeting cost of storage continues to amaze me. This week, IBM revealed that its has shoved 201 gigabits per square inch on prototype sputtered magnetic tape. The company squeezed about 330TB into a package that fits into the palm of your hand.
+
+Although tape drives aren't considered bleeding edge these days, the ability to store so much data in such a small package is very useful. The ability to use tape for cold storage remains popular.
+
+While storage costs have plummetted on a cost per terabyte basis, it's not free. And there are security questions to consider with keeping all our data online. High density, cold storage is important and this development will help reduce storage costs. IBM says the cost of manufacturing sputtered tape is not substantially greater than traditional tape.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>TB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IBM</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Pocket PC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IBM Sets New Storage Density Record</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MB CF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

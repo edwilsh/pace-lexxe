@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398398443886384</docid>
+  <date>31/07/2017</date>
+  <time>00:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/search-for-waterford-teens-body-targets-bush-at-fernvale/news-story/074f0790f162275650670d560a8a1b7b</url>
+  <title>Missing teen search targets bush</title>
+  <content>
+POLICE investigating the disappearance and suspected murder of 16-year-old Tiffany Taylor from Waterford West searched a location of interest in Fernvale on Saturday.
+Following a public appeal on July 13, investigators received information from the public which prompted a search of dense bushland near Banks Creek Rd.
+Logan detectives, search co-ordinators from Rosewood and Lowood and Search and Rescue Officers from the State Emergency Service scoured the bush.
+Police said "no evidence of interest" was located.
+Tiffany was last seen around 10am on Sunday, July 12, 2015, leaving a motel on Loganlea Rd.
+A 60-year-old Annerley man has been charged with her murder, however Tiffany's body has not yet been located.
+Investigations are continuing.
+</content>
+  <sindexList>
+  <sindex>
+    <name>LOGAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Annerley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banks Creek Rd</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Waterford West</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rosewood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tiffany Taylor</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rescue Officers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 12, 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Loganlea Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tiffany</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lowood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fernvale</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

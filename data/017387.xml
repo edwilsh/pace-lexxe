@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651427303574319165</docid>
+  <date>04/08/2017</date>
+  <time>16:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/wannacry-hero-marcus-hutchins-arrested-over-malware-claims-20170804-gxpil6</url>
+  <title>WannaCry 'hero' Marcus Hutchins arrested over malware claims</title>
+  <content>
+by
+Daisuke Wakabayashi
+
+A British security researcher, who became an internet hero after he was credited with stopping a malicious software attack earlier this year, was arrested at the Las Vegas airport and charged in connection with a separate attack.
+Marcus Hutchins, the researcher, was widely praised for identifying a way to disable the WannaCry malicious software, or malware, attack that seized hundreds of thousands of computers earlier this year. Researchers credited Hutchins' discovery of a kill switch in the malware for stopping its spread and preventing the attack from infecting millions more computers.
+According to an indictment filed in federal court in Milwaukee that was unsealed on Thursday, Hutchins, 23, and an unidentified accomplice conspired to create and sell malware intended to steal login information and other financial data from online banking sites.
+Hutchins created the software and his accomplice offered to sell the program, known as the Kronos banking Trojan, for $US3000 on an internet forum, the indictment said. The accomplice sold a version of the Kronos malware for $US2000 in June 2015. The indictment did not include details on how widely that malware was used, or much specific evidence of Hutchins' involvement.
+
+The Justice Department said in a statement that a federal grand jury returned a six-count indictment against Hutchins last month after a two-year investigation. It said that the Kronos malware was built to "harvest and transfer" user names and passwords from banking websites from an infected computer.
+
+When the Kronos malware was first advertised in underground Russian forums in 2014, the asking price of $US7000 indicated that the selling of malware was a lucrative business. Kronos was promoted as a hacking tool that could retrieve data useful in cracking security questions.
+Motherboard reported on Thursday that Hutchins had been detained at the Las Vegas airport after a week of attending the Black Hat and DEFCON security conferences.
+Some in the security community were unconvinced that Hutchins would create such software for an attack. In July 2014, he asked on Twitter if anyone had a Kronos sample - a seemingly odd request if he had created the malware.
+New York Times
+</content>
+  <sindexList>
+  <sindex>
+    <name>Trojans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marcus Hutchins</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Kronos</name>
+    <count>6</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Black Hat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$2000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US7000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daisuke Wakabayashi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Justice Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Defcon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2015</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Las Vegas</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 2014</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$3000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins, 23</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hutchins</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Milwaukee</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

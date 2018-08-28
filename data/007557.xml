@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411115842279154</docid>
+  <date>02/08/2017</date>
+  <time>01:40</time>
+  <isTopNews>true</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/northern-territory/john-stokes-square-among-public-housing-sites-set-for-development-says-housing-minister-gerry-mccarthy/news-story/c6d09e2909ee41452bf38695ff00b41e</url>
+  <title>Nightcliff trouble spot could be redeveloped</title>
+  <content>
+THE public housing complex at the centre of the Nightcliff anti-social behaviour problem could be part of a redevelopment with a private company.
+Residents and business owners believe Nightcliff's anti-social behaviour problem stems from John Stokes Sq, off Progress Dr.
+The suburb continues to be plagued by a seedy subculture of prostitution, drugs and public drunkenness. Housing Minister Gerry McCarthy said the complex was among other sites open for developers to lodge expressions of interest.
+
+"We are in the process of issuing expressions of interests for community housing providers to partner with developers and the NT Government, to build and manage social housing properties on an ongoing basis, for public housing sites such as John Stokes," he said.
+Mr McCarthy said $10 million was allocated in the budget to improve public housing.
+"The previous CLP Government sought expressions of interest to develop John Stokes Sq. However the submissions that were received, returned no financial or social outcomes for the Territory taxpayer."
+Nightcliff MLA Natasha Fyles said the complex was no longer "economically viable".
+Deputy Opposition Leader Lia Finocchiaro said the BDR alone would not solve The anti-social behaviour problem.
+"The BDR is not a silver bullet and more tailored solutions are needed in places with persistent problems, like Nightcliff," she said.
+Territory Real Estate principal Stuart Rodda said he hoped the Banned Drinkers Register, combined with lighting at the John Stokes Sq entrance, would have an impact on the problem. A tradie, who asked not to be named, said he was confronted by a man who outlined his sexual desires in a frightening experience at a Progress Rd service station at 6am two weeks ago.
+He said the caucasian man was aggressive and affected by a substance. He said the incident was scary and he worried for the older women who walked through the area.
+</content>
+  <sindexList>
+  <sindex>
+    <name>BDR</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Nightcliff MLA Natasha Fyles</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Stokes Sq</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Deputy Opposition Leader Lia Finocchiaro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Real Estate</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Nightcliff</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CLP Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minister Gerry McCarthy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Progress Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Progress Dr</name>
+    <count>1</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>John Stokes</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NT Government</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Banned Drinkers Register</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Stuart Rodda</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. McCarthy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

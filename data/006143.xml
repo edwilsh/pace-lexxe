@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651408105070147016</docid>
+  <date>01/08/2017</date>
+  <time>13:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/world/moscow-court-shooting-gangsters-dead/news-story/adac8b99c3fec1e2b5cecb72a2de4848</url>
+  <title>Court shooting leaves 'gangsters dead'</title>
+  <content>
+THREE people being taken to stand trial in a Moscow court have been shot dead after they tried to grab side-arms from court security officers and escape.
+Five defendants were in a lift in the Moscow regional court building on Tuesday when they tried to seize the weapons from the officers escorting them, Tatyana Petrova, a spokeswoman for Moscow region police, told Russian state television.
+She said that three of the defendants were shot as they tried to escape and two others were wounded.
+Three law enforcement officials were wounded, said Petrova and Yevgeny Kubyshkin, a spokesman for the Russian national guard, which had an officer in the court.
+A lawyer for the defendants, citing the chief investigator in their case, said four of the accused had been killed in a gunfight which broke out in the building of the Moscow Regional Court.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Petrova</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yevgeny Kubyshkin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tatyana Petrova</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow Regional Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

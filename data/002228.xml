@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400889524955288</docid>
+  <date>31/07/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/nsl-continues-sales-direct-to-steel-mill/news-story/d05f46e2a0cda183ac3f874bd28680ec</url>
+  <title>NSL continues sales direct to steel mill</title>
+  <content>
+NSL Consolidated's sales and dispatch of product direct to Minera Steel and Power Pvt has commenced.
+Both Minera and the company have implemented a recurring business cycle of regular advance payments deposited by Minera, and continued dispatch of product by the company. Approximately 1,000 tonnes have now been delivered in the week as the process has been established and implemented.
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSL Consolidated</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Power Pvt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minera Steel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

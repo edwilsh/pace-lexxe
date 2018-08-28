@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441734664578397</docid>
+  <date>07/08/2017</date>
+  <time>00:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/news/world/banks-rack-up-us150bn-in-us-fines-since-start-of-the-financial-crisis-20170806-gxqle7</url>
+  <title>Banks rack up $US150bn in US fines since start of the financial crisis</title>
+  <content>
+by
+Kara Scannell
+
+Financial institutions have paid more than $US150bn in fines in the US relating to the credit crisis, passing a significant milestone a decade after it became clear that the country's subprime woes had become a global problem.
+Ten years ago this week, France's BNP Paribas barred investors from accessing money in funds with subprime mortgage exposure, citing a "complete evaporation of liquidity". The date - August 9, 2007 - is pegged by many as the moment the financial crisis began.
+Financial institutions have largely recovered from the Great Recession that followed but the crisis reshaped economies and markets, and the effects on politics and society are still being felt.
+Dealing with banks' alleged misdeeds remains unfinished business. Demands for accountability ushered in an era where the US government was willing to penalise financial institutions severely, yet most crisis-related actions were civil rather than criminal and few bankers went to prison.
+
+A trio of multibillion-dollar settlements with European banks this year have netted $US19bn for the Department of Justice and other regulators, including $US5.5bn from Royal Bank of Scotland last month - taking the total over the landmark figure.
+
+Bank of America has paid more than one-third of all recoveries to US authorities, according to an analysis by the Financial Times. Its $US56bn in settlements covers its mortgage sales and those of two companies it acquired, subprime lender Countrywide and broker Merrill Lynch.
+JPMorgan Chase, which acquired Bear Stearns and Washington Mutual, has paid the second-largest amount, with $US27bn in settlements.
+The FT analysis of fines against banks, rating agencies and other institutions covers conduct ranging from the faulty underwriting of mortgages, improper foreclosure practices and discriminatory lending, to the mismarking of -auction rate securities.
+The bulk of the $US150.1bn total - $US89.1bn - settles allegations that institutions misled buyers of securities backed by mortgages.
+
+New cases related to the crisis are still being filed, suggesting the $US150bn total is likely to grow. Barclays is fighting a DoJ lawsuit alleging it misled buyers of mortgage-backed securities. Prosecutors have demanded guilty pleas from banks for crimes ranging from money laundering to violations of US sanctions law.
+Including those settlements, financial institutions have paid more than $US321bn worldwide between 2007 and 2016 for all misdeeds, according to a report from Boston Consulting Group.
+Some authorities have said the lack of cases against senior executives reflects the difficulty in proving criminal intent. Others suggest the DoJ was unwilling to pursue cases it might not win.
+Christy Goldsmith Romero, the inspector general of Sigtarp, the federal agency overseeing government bailout funds, said: "The DoJ has to be willing to step outside of its comfort zone. They have to be willing to put the evidence in the hands of the jury."
+
+This is the start of a month-long series on ft.com analysing the consequences of the credit crisis in charts.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US150</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Kara Scannell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US5.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boston Consulting Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Royal Bank of Scotland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 9, 2007</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Justice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Mutual</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US89.1</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sigtarp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bear Stearns</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Barclays</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Christy Goldsmith Romero</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bank of America</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DOJ</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>US150.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>France's BNP Paribas</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Merrill Lynch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Great Recession</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Financial Times</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US321</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan Chase</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$ 27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US56</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

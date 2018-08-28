@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416480256533380</docid>
+  <date>02/08/2017</date>
+  <time>22:29</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/national/2017/08/03/one-nation-queensland-electoral-laws-weather/</url>
+  <title>One Nation breaches Queensland electoral laws, blames weather</title>
+  <content>
+One Nation has blamed "cyclonic weather" in Brisbane as the reason for one of its many breaches of Queensland electoral laws.
+According to the Electoral Commission of Queensland (ECQ), the party's Queensland branch failed to disclose some of its spending, lodge returns in time and notify donors of their disclosure requirements.
+Documents obtained by the ABC under Right to Information detail investigations by the ECQ and the party's attempts to explain the breaches.
+In the list of excuses given by One Nation staff to the ECQ, notable examples include computer problems and wild weather.
+One Nation's Brisbane office manager Greg Smith wrote to the ECQ in March asking for an extension of the 2016 donation disclosures because of "computer system upgrades".
+By the end of the week he blamed "cyclonic weather conditions" for still failing to meet the extended deadline, which was during the week of Tropical Cyclone Debbie.
+"This is entirely due to the event of the closure of the office during the cyclonic weather conditions and ongoing disruption to relevant staff," the email reads.
+On another matter, branch staff said they were not able to access receipts for gift disclosure because the former party secretary Rodney Evans left without providing passwords for accounting software.
+The ECQ also wrote to One Nation in May, summarising repeated compliance issues during 2014-15 including:
+
+failure to lodge returns within the prescribed timeframe
+failure to notify donors of their disclosure obligations
+failure to disclose expenditure return
+debts not supported by documents
+return expenditure not supported by documentation.
+While more than 130 pages were released to the ABC, dozens more have been withheld as they relate to ongoing investigations and enquiries.
+The Australian Electoral Commission is also investigating the ownership of a plane used by One Nation.
+Last month it was revealed the Queensland Greens branch had its own compliance issues.
+The ABC has contacted One Nation for comment.
+- ABC
+</content>
+  <sindexList>
+  <sindex>
+    <name>Queensland Greens</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Electoral Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nation's Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>One Nation</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Electoral Commission of Queensland</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tropical Cyclone Debbie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Greg Smith</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rodney Evans</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ECQ</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

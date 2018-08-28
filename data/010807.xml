@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416961292879649</docid>
+  <date>03/08/2017</date>
+  <time>00:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4830466/dangerous-surf-off-the-hunter/?cs=305</url>
+  <title>Dangerous surf off the Hunter</title>
+  <content>
+DANGEROUS surf conditions are forecast to batter the Hunter coast on Thursday and Friday. 
+The Bureau of Meteorology has issued a strong wind warning for the next two days, prompting a Roads and Maritime Services warning to skippers. 
+The conditions are expected to snake around the NSW coast between Byron and the Eden coast. 
+"Boat skippers should consider changing or delaying their voyage before considering crossing a coastal bar or heading offshore," the RMS advises.
+
+"Rock fishers should avoid coastal rock platforms exposed to the ocean and seek a safe location sheltered from the surf."
+
+Vessels in need of maintenance can also become damaged on moorings during strong winds.
+
+Skippers are urged to check weather before and during boating, ensure they are equipped for the conditions, log in and out with a Marine Rescue NSW radio base and consider a safety management plan. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Marine Rescue NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Eden</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Byron</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>RMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>1.5</score>
+  </sindex>
+  <sindex>
+    <name>Maritime Services</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

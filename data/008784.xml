@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412361382813162</docid>
+  <date>02/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/car-crashes-into-tree-in-hope-valley-in-adelaides-north-east/news-story/65cf79e6481cbed856302eaaa63b3205</url>
+  <title>Car crashes into tree in Hope Valley</title>
+  <content>
+EMERGENCY services are at the scene of a serious accident in Hope Valley.
+The crash happened just before 1.30pm on Wednesday on Grand Junction Rd, forcing a section of the road between Hancock Rd and Tolley Rd to be closed.
+Major Crash investigators are currently at th scene .
+MORE TO COME
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hope Valley</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Hancock Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Grand Junction Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tolley Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

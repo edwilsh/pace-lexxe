@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423652852052408</docid>
+  <date>04/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/manhunt-launched-after-pooraka-service-station-robbery/news-story/b408b3b1568fb397c49b10929e9fc78e</url>
+  <title>Manhunt after servo robbery</title>
+  <content>
+A MANHUNT has been launched after a service station robbery in Adelaide's north.
+Police were called to the United station, on Main North Rd, Pooraka, just before midnight on Thursday night after a man threatened staff with a knife and demanded cash.
+The man fled on foot, running west with an undisclosed amount of cash.
+Police patrols and police dog Roy failed to find the suspect despite a widespread search.
+No one was physically injured and a police spokeswoman said investigations were continuing.
+The suspect is described as being 180 to185cm tall, of medium build and dark skin.
+He was wearing a dark jumper with white writing on the front, dark trousers and had his face covered.
+Police are appealing for witnesses to call Crime Stoppers on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>United</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Main North Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Roy</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pooraka</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

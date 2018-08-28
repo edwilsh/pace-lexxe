@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651430872692185672</docid>
+  <date>05/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/rider-injured-in-200kmh-racetrack-crash/news-story/13390cfe7a2363bd5f3e9373c461a084</url>
+  <title>Rider injured in 200km/h racetrack crash</title>
+  <content>
+A motorcyclist suffered serious injuries after crashing into a race track wall at 200 kilometres per hour in Sydney's west.
+CareFlight's rescue helicopter was tasked to Eastern Creek Railway following reports the rider, in his 30s, had struck a wall at high speed.
+The man, initially unconscious, was treated at the scene by track paramedics before the helicopter arrived.
+Specialist doctors and critical care paramedics provided further treatment at the scene for serious head, shoulder and back injuries.
+He was transferred to Westmead Hospital in a stable condition.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Westmead Hospital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CareFlight</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Creek Railway</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

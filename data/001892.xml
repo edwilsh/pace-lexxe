@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398965379577608</docid>
+  <date>31/07/2017</date>
+  <time>02:31</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/business/breaking-news/olivers-slumps-on-downgrade/news-story/176ca4a0e4c5b218ee225750eb10a5c9</url>
+  <title>Oliver's slumps on downgrade</title>
+  <content>
+Shares in healthy fast food chain Oliver's Real Food have slumped after the recently-listed company warned it will not meet its earnings, profit and revenue forecasts for 2016/17.
+Oliver's has announced to the ASX that it expects an earnings loss of $2.552 million for 2016/17, compared to $1.939 forecast in its prospectus, due to lower net sales, delayed store openings, inventory adjustments and unexpected one-off costs.
+The company said its 2017/18 guidance remains unchanged but its shares were down 15.2 per cent to 28 cents at 1156 AEST.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Oliver</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Oliver's Real Food</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

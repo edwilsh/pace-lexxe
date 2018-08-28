@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422317117199084</docid>
+  <date>03/08/2017</date>
+  <time>21:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/ten-cars-turn-up-at-violent-faceoff-in-gold-coast-car-park-20170803-gxp1nt.html</url>
+  <title>Ten cars turn up at violent face-off in Gold Coast car park</title>
+  <content>
+A man and a woman have suffered facial injuries after a violent confrontation in a car park on the Gold Coast.
+A group of people were talking in the car park in Main Beach about 11.10pm on Thursday night when 10 cars arrived, police said. They allege a man from one of the cars approached a 20-year-old man and assaulted him.
+A woman, also 20, went to the victim's aid but was also assaulted by the man, with a group of women who had arrived in the contingent of cars also assaulting the woman.
+The attackers left the car park, taking the woman's car keys and mobile phone. Both the man and the woman were taken to Gold Coast University Hospital with facial injuries and police are investigating.
+AAP
+</content>
+  <sindexList>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast University Hospital</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Main Beach</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

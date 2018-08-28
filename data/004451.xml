@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405532384687217</docid>
+  <date>01/08/2017</date>
+  <time>04:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/01/13/42/facebook-shuts-down-ai-experiment</url>
+  <title>Facebook shuts down AI experiment after bots started communicating in own language</title>
+  <content>
+Facebook has shut down a pair of artificial intelligence robots after they created their own indecipherable language.
+The two computers made changes to English that made it easier for them to communicate, however humans could not figure out what they were saying.
+According to the , the discussions came as Facebook challenged the bots to negotiate with each other over a trade.
+Negotiations appeared to break down when the bots appeared to chant at each other.
+The robots had been instructed to work out how to negotiate between themselves, and improve their bartering as they went along.
+While the conversation - which you can read below - doesn't seem to make much sense to humans, there do appear to be some rules to the speech with the way the bots keep stressing their own name appearing to be part of their negotiations as opposed to a glitch.
+
+The bot's conversation:
+
+Related Articles
+
+Bob: i can i i everything else . . . . . . . . . . . . . .
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+Bob: you i everything else . . . . . . . . . . . . . .
+Alice: balls have a ball to me to me to me to me to me to me to me
+Bob: i i can i i i everything else . . . . . . . . . . . . . .
+Alice: balls have a ball to me to me to me to me to me to me to me
+Bob: i . . . . . . . . . . . . . . . . . . .
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+Bob: you i i i i i everything else . . . . . . . . . . . . . .
+Alice: balls have 0 to me to me to me to me to me to me to me to me to
+Bob: you i i i everything else . . . . . . . . . . . . . .
+Alice: balls have zero to me to me to me to me to me to me to me to me to
+The Independent reports that some of the negotiations even were concluded successful, despite them being carried out entirely in their own language.
+The creation of the bots' own language isn't as crazy as it might seem, with the Facebook Artificial Intelligence Research team allowing AI to diverge from English in an experiment.
+Two experiments were conducted as part of the team's work on a project teaching bots to negotiate - the first made the AI conform to language that imitated human communication while in the second researchers allowed the bots to shift away from English.
+Unfortunately for those who think AI should be able to create their own language, the researchers decided they would prefer the bots to speak in a language they could understand, abandoning the second experiment and sticking with the first one. 
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bob</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AI</name>
+    <count>4</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Alice</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook Artificial Intelligence Research</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422106663797686</docid>
+  <date>03/08/2017</date>
+  <time>20:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/opinion/council-needs-runs-on-the-board/news-story/17d3bafb8539c879c4cbc79ef3ef895d</url>
+  <title>Council needs runs on the board</title>
+  <content>
+EDITORIAL: Hilton's decision to consider building one of its internationally renowned facilities here is a huge vote of confidence for Townsville.
+The marquee brand has chosen the city as a potential location for a 4.5-star, seven-storey luxury hotel that would sit right next to the North Queensland Stadium.
+While some local businesses still lack confidence, Hilton's call is a sign the times are turning.
+It is only in its preliminary planning stage, but this proposal may motivate other investors to look no further than Townsville.
+The 175-bed hotel would not only add a level of luxury to Townsville but it would bring a brand that has a renowned reputation for class around the world.
+The hotel's proximity to the stadium could also help to attract larger events that would establish the city as an even stronger world-class tourism destination.
+The stadium doesn't need to just be home to Cowboys games.
+It could be home to a State of Origin match or host huge international musicians with audiences only having to walk just down the road to sleep.
+However, while glossy concept designs of a hotel have been provided, the Hilton proposal is yet another concept that's being added to the list of potential developments that Townsville could secure.
+It has merely emphasised the relevance of the Pure Projects report which outlined the need for a CBD rejuvenation.
+What the region is longing to see are tangible results that provide a boost to the economy and create much-needed jobs. And as exciting as this announcement is, it does the region no good just sitting in a backlog of paperwork gathering dust.
+The region constantly hears about how beautiful it is and what potential it has but residents are still waiting for the passing of what seems like countless feasibility studies.
+They are looking for sods to be turned and companies to start offering jobs.
+So, the time to act is now.
+The council needs to get a win on the board.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hilton</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Queensland Stadium</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pure Projects</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Townsville</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>CBD</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>State of Origin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

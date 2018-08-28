@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406133680118060</docid>
+  <date>01/08/2017</date>
+  <time>06:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-01/oneil-tipped-as-likely-to-win-png-leadership-on/8764294</url>
+  <title>O'Neil tipped as likely to win PNG leadership on Wednesday</title>
+  <content>
+It appears at this stage that Papua New Guinea Prime Minister Peter O'Neil has the numbers to form the next government when Parliament sits tomorrow.
+This is despite several of the writs not being returned and the final composition of the House not being finalised yet.
+Retired Australian academic Dr Bill Standish, who has observed the last seven PNG elections, tells Bruce Hill that although MPs swapping sides unexpectedly at the last minute have been a feature of previous post election sittings of Parliament, it appears as if Mr O'Neil is ahead of his rivals.
+</content>
+  <sindexList>
+  <sindex>
+    <name>MPs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O'Neil</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Dr Bill Standish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea Prime Minister Peter O'Neil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hill</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr O'Neil</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

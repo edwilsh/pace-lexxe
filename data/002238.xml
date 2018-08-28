@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400889524955372</docid>
+  <date>31/07/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/nextdc-to-acquire-asia-pacific-data/news-story/2fc450bd73fe7d7e52fc1fb0b95916ca</url>
+  <title>NEXTDC to acquire Asia Pacific Data</title>
+  <content>
+Newsbites Finance
+
+Share
+
+NEXTDC will make an unconditional all cash off-market takeover offer to acquire all the securities of Asia Pacific Data Centre Group (APDC).
+The offer price is $1.87 cash per security.
+APDC securityholders will also be entitled to receive the $0.0243 per security distribution announced on June 26, 2017.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Newsbites Finance</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NextDC</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific Data</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>APDC</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific Data Centre Group</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 26</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

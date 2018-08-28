@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436679488021006</docid>
+  <date>06/08/2017</date>
+  <time>04:52</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/venezuelan-oppn-leader-home-from-jail/news-story/1f8c16fd8f3fe6b808ec0f2cafbe34a3</url>
+  <title>Venezuelan oppn leader home from jail</title>
+  <content>
+Venezuelan opposition activist Leopoldo Lopez has been returned home after being taken back to jail nearly a week ago.
+The activist's wife Lilian Tintori said in a message on Twitter that she and her husband remain committed to achieving "peace and freedom for Venezuela".
+Lopez was released from prison on July 8 and placed under house arrest after serving three years of a 13-year sentence on charges of inciting violence at opposition rallies. Many human rights groups considered him a political prisoner.
+But he was taken back into custody in the middle of the night on Tuesday along with former Caracas Mayor Antonio Ledezma in what many believed was a renewed crackdown on the opposition following the election of delegates to the constitutional assembly.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Venezuela</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>July 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lilian Tintori</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caracas Mayor Antonio Ledezma</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lopez</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Venezuelan</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Leopoldo Lopez</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

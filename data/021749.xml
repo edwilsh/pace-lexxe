@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441270808104521</docid>
+  <date>06/08/2017</date>
+  <time>22:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/australian-olympic-gold-girl-betty-cuthbert-dies-7/3209470/</url>
+  <title>Australian Olympic golden girl Betty Cuthbert dies at 79</title>
+  <content>
+BETTY Cuthbert, the original Aussie Golden Girl and who took the 1956 Melbourne Olympics by storm as an 18-year-old, has died aged 79 after a long battle with multiple sclerosis.
+
+Cuthbert was a four-time Olympic gold medallist, winning three at the 1956 Melbourne games in the 100m, 200m and 4x100m relay events.
+
+She also won gold in the 400m eight years later at the Tokyo Olympics.
+
+Cuthbert picked three Commonwealth Games medals including gold in the 4x100m relay in Perth in 1962.
+
+MORE TO FOLLOW
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cuthbert</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Olympics</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Betty Cuthbert</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Aussie Golden Girl</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Olympics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Games</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Olympics</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Olympic</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

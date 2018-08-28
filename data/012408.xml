@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417438034256573</docid>
+  <date>03/08/2017</date>
+  <time>02:12</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/money/costs/how-a-man-paid-3284-for-a-beer/news-story/2396ee534693aa8b86c6c5829734b523</url>
+  <title>How a man paid $3284 for a beer</title>
+  <content>
+The bank said it wasn't at fault.
+
+Tamsyn Parker
+
+Share
+
+A NEW Zealand man complained to his bank about what he believed was a fraud after he bought a beer from a bar in Hong Kong and was charged $3284 ($NZ3521) on his credit card for a drink which he thought cost $3.10 ($NZ3.30).
+But he withdrew the complaint after the Banking Ombudsman pointed out that he had signed the receipt and his bank hadn't breached the terms of its credit contract.
+The complaint is just one of many strange and unusual cases seen by the ombudsman over its 25 years in existence.
+In another case a man stole a house in a mortgagee sale gone wrong.
+A couple were forced to sell a property after they got behind on payments.
+The man offered to buy the property for $18,654 ($NZ20,000) and was given three months to organise the settlement.
+But before he paid the full amount he onsold the house on the property for $27,981 ($NZ30,000) and removed it from the land without telling the bank or his lawyer, and then went off the grid.
+A complaint was made to the police but the house was never sold and the man went bankrupt. No money was ever recovered from him.
+The bank wrote off the debt and discharged the mortgage but years later the original owners were sent a demand for unpaid rates of $2500.
+
+They were unaware they still owned the property and didn't know the house hadn't sold.
+The ombudsman ruled that the bank had not properly communicated their failure to follow through with the sale and as a result the bank compensated the original owners for the loss suffered.
+In a recent case a Bitcoin sale went wrong when a man tried to sell $4664 ($NZ5000) worth of the coins to a fraudulent buyer.
+The buyer paid the money online to the seller's account and he transferred the Bitcoins to the buyer.
+But 10 days later the bank reversed the $NZ5000 credit and froze the account after it found the "buyer" had used a malware infection to hack another customer's account and used their money to make the payment.
+When the customer got in touch with the bank to say he had been hacked the bank reversed the transfer sending the seller's account into overdraft.
+The ombudsman found the bank had the right to do that but could have handled the situation better.
+The Bitcoin seller was told to repay the $NZ5000 to the bank but without any interest, fees or costs.
+But he didn't agree with the ruling.
+NZ Herald
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ30,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ Herald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ3.30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ$20,000</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Banking Ombudsman</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NZ5000</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tamsyn Parker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ3521</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

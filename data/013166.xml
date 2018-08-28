@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419997834811347</docid>
+  <date>03/08/2017</date>
+  <time>12:08</time>
+  <isTopNews>true</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/law-order/man-pulled-from-pool-and-rushed-to-flinders-medical-centre/news-story/2bf15e2805b5b44226605dfc209f85a5</url>
+  <title>Swimmer rushed to hospital in pool drama</title>
+  <content>
+A 50-YEAR-OLD swimmer has been rushed to the Flinders Medical Centre after a "pool-related" incident.
+Emergency services were called to State Swim Seaford on Cascade Dr after reports of a possible drowning about 8pm on Thursday.
+The man, whose name has not been released, was given medical treatment before he was taken to hospital, where his condition was unknown.
+The State Swim Seaford, who operate swim lessons, was unavailable to provide any details on the incident. It was not clear if the man was a student or public customer.
+
+A nine-year-old boy with autism is being hailed as a hero for saving a toddler from drowning in a pool full of other swimmers. CREDIT: 9Raw
+
+Unrelated - autistic boy saves drowning child
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cascade Dr</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>YEAR-OLD</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Flinders Medical Centre</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>State Swim Seaford</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

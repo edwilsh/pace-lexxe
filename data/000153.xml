@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398016191791766</docid>
+  <date>30/07/2017</date>
+  <time>22:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/act-news/eden-waugh-murder-police-search-finds-items-in-karabar-nsw-search-continues-20170730-gxlya0.html</url>
+  <title>Police search uncovers Eden Waugh murder evidence</title>
+  <content>
+A large scale police search has uncovered a number of items homicide detectives believe to be connected to the murder of Eden Waugh.
+ACT Policing said the items found at White Rocks in Karabar would undergo forensic analysis.Photo: Supplied
+The search on Sunday involved the Australian Federal Police officers, police divers, NSW police, ACT emergency services and State Emergency Service volunteers.
+Police said a reward of up to $1000 was available for any information leading to an arrest or solving the crime.
+Anyone with information relating to Mr Waugh's murder was urged to contact Crime Stoppers on 1800 333 000 or via the .
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Waugh</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ACT Policing</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eden Waugh</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White Rocks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Karabar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Federal Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651436752502465720</docid>
+  <date>06/08/2017</date>
+  <time>05:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/world/japan-bracing-for-typhoon-noru-as-deaths-recorded-20170806-gxqbnl.html</url>
+  <title>Japan bracing for Typhoon Noru as deaths recorded</title>
+  <content>
+Typhoon Noru is approaching Japan's main islands, lashing the southern part of the country with heavy rain and strong winds.
+The powerful typhoon already buffeted Japan's southern islands on Saturday, leaving two dead and nine missing, local broadcaster NHK reported.Photo: AP
+The Japan Meteorological Agency on Sunday warned of mudslides, flooding, high waves and swollen rivers on Kyushu and other southern islands.
+About 200 flights have been cancelled in the region as the season's fifth typhoon was approaching Kyushu and the southwestern island of Shikoku.
+As of 10am on Sunday, the eye of the storm was near Tanegashima island, travelling slowly, with maximum sustained winds of 126 kilometres per hour, the agency said.
+Rainfall of up to 600 millimetres was forecast for Kagoshima prefecture, including some southern islands, and up to 400mm for Miyazaki prefecture by Monday morning.
+DPA
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kyushu</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NHK</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Shikoku</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Miyazaki</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan Meteorological Agency</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kagoshima</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tanegashima</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Typhoon Noru</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Japan</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>DPA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398626077156072</docid>
+  <date>31/07/2017</date>
+  <time>01:12</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/sa-wants-murray-darling-judicial-inquiry/news-story/24d201cd58047481c990249650db2125</url>
+  <title>SA wants Murray Darling judicial inquiry</title>
+  <content>
+A who's-who of South Australian state and federal politicians are calling for an independent judicial inquiry into water use in the Murray Darling Basin.
+The state government and a group of federal senators including Penny Wong, Nick Xenophon, Cory Bernardi and Sarah Hanson Young have called on the prime minister to commission the inquiry.
+The demand comes as the Turnbull government announced an independent review by the Murray Darling Basin Authority into water usage following allegations aired by the ABC-TV's Four Corners that billions of litres of water earmarked for the environment had been diverted for cotton irrigation in NSW.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Murray Darling Basin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Hanson Young</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nick Xenophon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC-TV's Four Corners</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Penny Wong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murray Darling</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murray Darling Basin Authority</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cory Bernardi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

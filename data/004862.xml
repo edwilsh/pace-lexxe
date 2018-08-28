@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405098592984481</docid>
+  <date>01/08/2017</date>
+  <time>02:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/chinas-manufacturing-sector-is-strengthening-after-a-stumble-earlier-this-year-2017-8</url>
+  <title>China's manufacturing sector is strengthening after a stumble earlier this year</title>
+  <content>
+Activity levels across China's manufacturing sectors improved modestly in July, according to the latest Caixin-IHS Markit Purchasing Manager's Index (PMI).
+
+The survey's headline PMI rose to 51.1 from 50.4 in June, indicating that activity levels strengthened modestly in July.
+
+It was the highest reading in four months.
+
+The PMI measures changes in activity levels across China's manufacturing sector from one month to the next. Anything above 50 signals that activity levels are improving while a reading below suggests they're deteriorating. The distance away from 50 indicates how quickly activity levels are expanding or contracting.
+
+The Caixin-IHS Markit survey was broadly in line with the government's official manufacturing PMI index for July which came in at
+
+Although both survey's measure activity levels across China's manufacturing sector, the Caixin-IHS Markit is a private survey that tends to focus on small and medium-sized firms.
+
+The fact that it reported an improvement last month came as a welcome surprise given the government said activity levels for
+
+IHS Markit said the improvement in July was driven by improved readings on output, new orders and sales, helping to offset continued weakness in staffing levels.
+
+"Companies indicated that both output and new orders rose at the fastest rates for five months, helped by a solid upturn in new export sales," the group said.
+
+"At the same time, inflationary pressures ticked up, with both input prices and output charges rising at faster rates than in June. However, companies maintained a relatively cautious stance towards employment, with staff numbers falling again in July.
+
+IHS Markit said the reluctance of firms to add to staffing levels may have been due to a deterioration in the 12-month outlook for operating conditions which fell to the lowest levels since August last year.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caixin-IHS Markit Purchasing Manager's Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IHS Markit</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Caixin-IHS Markit</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

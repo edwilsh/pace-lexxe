@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414289823168466</docid>
+  <date>02/08/2017</date>
+  <time>13:59</time>
+  <isTopNews>true</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/tasmania/colin-george-hirt-was-last-seen-in-the-mornington-area-about-6pm-on-wednesday/news-story/46c4e09b4a7513bb6c6902dc3a688498</url>
+  <title>Police seek help to find 75-year-old</title>
+  <content>
+POLICE are looking for a man, 75, who went missing from a nursing home overnight.
+Colin George Hirt was last seen in the Mornington area about 6pm on Wednesday and police are concerned for his welfare.
+Tasmania Police Sergeant Erica Franks said Mr Hirt was described as being about 183cm tall and of average build, with grey hair that is balding.
+"Mr Hirt left Lillian Martin nursing home wearing a fawn coloured polo shirt with stripes, brown slacks and blue slippers," Sergeant Franks said.
+"Mr Hirt is new to Tasmania, he is not familiar with his surroundings and will likely be confused and disoriented."
+Anyone who sees Mr Hirt is asked to contact Tasmania Police on 131 444.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lillian Martin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Police Sergeant Erica Franks</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Hirt</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colin George Hirt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mornington</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sergeant Franks</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

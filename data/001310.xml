@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399485070626845</docid>
+  <date>31/07/2017</date>
+  <time>04:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/07/this-infographic-crams-in-over-30-essential-google-search-tips/</url>
+  <title>30 Tips To Improve Your Google Searches [Infographic]</title>
+  <content>
+Google's ,  tons of different tools. Over on Zapier, they outline tons of different advanced tricks for searching Google as quickly as possible.
+
+Lifehacker alum Melanie Pinola digs into tons of Google search tips here, including some that are easy to forget, like the , instant customer service phone numbers (search for the company named followed by "customer service"), and . Head over to the full post on Zapier for tons of detailed info, or check out the infographic below.
+
+[Via ]
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lifehacker</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Zapier</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Melanie Pinola</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tips To Improve Your Google Searches</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

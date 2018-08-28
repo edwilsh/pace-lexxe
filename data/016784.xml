@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651426466055679341</docid>
+  <date>04/08/2017</date>
+  <time>13:14</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/technology/bad-code-is-no-excuse-someone-is-liable-20170803-gxoxcl</url>
+  <title>Bad code is no excuse, someone is liable</title>
+  <content>
+by
+Paul Rosenzweig
+
+Elon Musk and Mark Zuckerberg's recent  over the dangers of artificial intelligence (AI) may be a bit premature. When designed poorly, all kinds of computer code - beyond those that program AI - pose risks to the public. It's less dramatic than the worst nightmares of AI, but the more immediate and probable threats are things like the loss of personally identifiable information or enlistment into a botnet for a distributed denial of service attack. Fortunately, an effective, if unsexy, solution may be on the horizon: shifting product liability for bad code.
+We live in a world where there is essentially no liability for cybersecurity failures. The standard contract that comes with any software package disclaims liability and shifts responsibility to the end-user; For the most part, courts have upheld those agreements. As long ago as 1986, a federal court held that Apple could not be sued for bugs in its software, having disclaimed liability and made no claim that the code was bug free.
+Dozens of cases since that time have held similarly - including a large consumer class action suit in California against Microsoft for software "riddled" with flaws - despite reasonable, factual claims that the software was buggy.  But where life and death are at issue, responsibility and liability cannot be far behind. We don't know what the disaster that triggers calls for reform will look like. It could be in the medical field (say, a massive failure of heart monitors) or in the automotive field (an autonomous bus crash that kills a dozen children or a ransomware attack that exploits and renders connected cars inert). But whatever happens, one need not be clairvoyant to predict the public uproar. In Washington, cybersecurity risks will finally be viewed as the national security problem they are.​
+There will be inevitable demands for liability systems, and if the industry is not proactive in its approach it may well face increasing regulatory intervention. Indeed, we are already seeing movement in this realm: Since 2013, the Federal Trade Commission has successfully settled with several companies it has accused of failing to take reasonable steps to secure their products. Most recently, the FTC filed a complaint against D-Link Corporation for allegedly preventable vulnerabilities in its routers and internet cameras.
+
+Ryan Stuart
+
+But whatever the ultimate mechanism used to ensure the industry bears some of the costs of insecure code, it is clear that the way for companies to be proactive is to adopt best practices for cybersecurity and standards of software development that involve the process by which code is written and patched. It will also require the development of audit and grading mechanisms to support insurance risk-rating. Let's take each of these in turn.
+
+Liability
+
+There are two potential types of liability to consider: strict liability for any defect in a product and a negligence or reasonable-care standard. Under a strict liability standard, manufacturers of any driverless car might be liable for any defect in the code that is executed to make their system function. The expectation is perfection, and since it is quite literally impossible to write bugless code, strict liability would amount to pervasive, persistent, and absolute liability. The costs to manufacturers would be so high that innovation would grind to a halt.
+Because the costs to innovation would be so severe, the liability standard that will eventually be developed by the courts (or legislators) will probably focus on reasonableness and best efforts. The expectation will be a requirement that the car industry (or any other consumer "internet of things" industry) do its best to make the systems on products secure against cyberintrusions - but there will not be an expectation of perfection.
+Insurance
+
+Tanya Lake
+
+Assuming that we have liability for bad code, we are going to need insurance. Liability, after all, means money - specifically, money paid to those who are injured by the alleged flaw in the code. No company wants to bear that cost by itself. But right now, most general liability or products liability policies - meaning non-cyberspecific policies - have exclusions for "cyberincidents," and there are very few cyberspecific products, let alone policies covering third-party injury.
+In fact, cyberinsurance is so new that the products have not been tested. The premiums that companies are charging and the coverage they offer seem more like guesswork than actuarial science. That may be because they have few other options. With other types of insurance we have decades or even centuries of data to inform decisions. The more data you have, the better your predictive models.
+That is the exact opposite of were we are today for cybersecurity risks. We have very little reliable data on frequency, causality, or potential damages. We don't even have a good public repository for the existence of cyberincidents that have actually occurred - a  that began in 2014 is still in the "" as of May. So we are in a conundrum. Liability means there will be demand for insurance, but insurance for cybersecurity cannot be written if we can't rate the risk. We can also therefore be reasonably confident in predicting that a small industry will soon grow up in rating cybersecurity risks.
+Industry solutions
+
+What does a good system of cybersecurity look like in the end - not from a technical perspective, but from the perspective of lawyers and policymakers that are considering the question from a broader, national perspective? Industry should have a voluntary set of standards and a self-assessment model for the cybersecurity of its products that addresses several questions:
+Can you explain to policymakers and insurers how you design and develop your software products? Do you do adversarial testing on your products and for critical components of your supply chain? If not, why not?
+Are you open to third-party research that finds flaws in your systems? Too often, developers are resistant to outside scrutiny. If you have a good-faith report of a problem, how do you respond to it?
+What are the forensics of your systems? Do they provide tamper-evident, forensically sound logging and evidence capture to facilitate safety investigations?
+
+Are your systems capable of being securely updated in a prompt and agile way?
+Finally, how are your cybersystems incorporated in the physical systems you are building? Is there, for example, a physical and logical isolation that separates critical systems from non-critical systems?
+It is almost impossible to think of any other consumer product in general use for which some type of liability does not exist. From cars, to pharmaceuticals, to the ladder in your garden shed, a flawed product means that the manufacturer will pay. And that in turn leads to product improvements - cars no longer explode. Software is a unique exception whose privileged status cannot be sustained forever - especially as consumers grow more dependent on software for their personal safety and health. Software liability is inevitable - it's only a question of how, when, and why.
+Paul Rosenzweig is the founder of Red Branch Consulting, a homeland security consulting company, and a senior advisor to the Chertoff Group.
+
+(C)Foreign Policy, distributed by The Washington Post.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Chertoff Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elon Musk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Rosenzweig</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>California</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Foreign Policy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Red Branch Consulting</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Trade Commission</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ryan Stuart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Zuckerberg</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>D-Link Corporation</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>FTC</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tanya Lake</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

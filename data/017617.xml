@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651429463942900607</docid>
+  <date>05/08/2017</date>
+  <time>00:52</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/hotel-sale-to-fund-business-expansion-plans/news-story/6b410a23a670fa01e12498d3e8834810</url>
+  <title>Miss Maud quashes retirement rumours</title>
+  <content>
+THE businesswoman known as Miss Maud has revealed an ambitious plan to potentially double her chain of coffee shops and pastry houses.
+Maud Edmiston claimed rumours she was leaving the hospitality industry after putting her flagship city hotel and restaurant on the market this week could not be further from the truth.
+She said she would use the proceeds - expected to be about $10 million - to add up to 17 coffee shops to her chain, though she declined to reveal a time frame for the expansion.
+She will focus on new locations for her cafes and said she would like to establish two more in the city, on top of the existing three, and is looking for suitable locations in areas such as Subiaco and Mt Lawley.
+Ms Edmiston said the 52-room hotel, which has a rooftop garden, had been successful but she needed the proceeds to advance her core business.
+The grandmother of five has no thoughts of pulling back from the business she started with a cafe in City Arcade in 1971. She said she spent most waking moments thinking about the business and had no plans to retire.
+She may win over a younger generation with her new cafe venture, Stockholm, which so far has one outlet, at Karrinyup, and she has plans for a chain of cafes with a young vibe.
+Ms Edmiston said she did not train in hospitality before she entered the industry.
+"I think as a customer, I manage Miss Maud's as a customer," she said. "One of the dangers of going through hospitality school is you end up managing from the back or the top as an executive."
+</content>
+  <sindexList>
+  <sindex>
+    <name>Subiaco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maud</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>City Arcade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maud Edmiston</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Miss Maud</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Karrinyup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Lawley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockholm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Edmiston</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

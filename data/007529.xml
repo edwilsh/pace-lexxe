@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411085777507636</docid>
+  <date>02/08/2017</date>
+  <time>01:33</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/breaking-news/genworth-profit-down-as-delinquencies-rise/news-story/012254d9ba30abdb9340aaa5bae50d7b</url>
+  <title>Genworth profit down as delinquencies rise</title>
+  <content>
+Genworth Mortgage Insurance has suffered a 34.7 per cent slump in half-year profit as adverse portfolio revaluations, higher delinquencies and a slip in premiums.
+The lender's mortgage insurer reported net profit of $88.7 million for the six months to June 30, and revenue of $294.5 million, down 20 per cent, while the interim divend was 12 cents plus a two cent special dividend, fully franked.
+Genworth also announced a $100 million, on-market share buyback and its shares were up five per cent to $3.17 at 1042 AEST.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Genworth Mortgage Insurance</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Genworth</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

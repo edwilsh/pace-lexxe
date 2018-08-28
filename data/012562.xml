@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418799538911301</docid>
+  <date>03/08/2017</date>
+  <time>07:29</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/petya-ransomware-hits-global-corporate-earnings-470031</url>
+  <title>Petya ransomware hits global corporate earnings</title>
+  <content>
+Costly cyber attacks are having a bigger impact on corporate earnings and are becoming a fact of life for companies as Oreo cookie maker Mondelez, drug maker Merck and others said that a destructive attack in the last week of the second quarter disrupted operations.
+
+Mondelez, the world's second-largest confectionary company, reported a 5 percent drop in quarterly sales on Wednesday, blaming shipping and invoicing delays caused by the June 27 attack of the worm, known as Petya.
+
+Other Petya victims include Merck, which last week warned that Petya had halted production of some drugs, saying it has yet to understand the full costs associated with the attack.
+
+The attack also slowed deliveries at FedEx Corp, disrupted port operations of shipping company Maersk and halted production lines at British consumer goods maker Reckitt Benckiser, according to accounts by those companies.
+
+Investors should get used to hearing about cyber attacks during earnings calls, said Ian Winer, equity co-head at Wedbush Securities.
+
+"The trend is accelerating," Winer said. "As hackers get more sophisticated they are taking shots at major companies."
+
+More hackers are becoming adept at developing or finding malware to wipe data on computers, making them inoperable.
+
+One mysterious group known as The Shadow Brokers in April dumped a trove of powerful hacking tools on the Internet, which security experts said were developed by the US National Security Agency.
+
+Code the group released was used for spreading Petya and in the WannaCry attack in May on hospitals, businesses and governments worldwide.
+
+Jake Dollarhide, head of Longbow Asset Management, which manages US$85 million in assets, said he expects cyber attacks to be as common as reports that a storm or oil prices hurt results.
+
+"As stock market investors we have to accept this brand new reality in this new digital age," Dollarhide said.
+
+Petya is a destructive self-propagating "worm" capable of spreading quickly across computer networks, crippling computers by encrypting hard drives so that machines cannot run.
+
+It has taken victims weeks to get factories and other critical systems back online because businesses must individually replace damaged hard drives.
+
+Most businesses are inadequately protected from cyber attacks, said Tom Kellermann, chief executive of investment firm Strategic Cyber Ventures.
+
+"The day of reckoning has come for shareholders," Kellermann said.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Wedbush Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dollarhide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jake Dollarhide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Petya</name>
+    <count>6</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reckitt Benckiser</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Merck</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Longbow Asset Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>FedEx Corp</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kellermann</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maersk</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Winer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ian Winer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shadow Brokers</name>
+    <count>1</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>June 27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Strategic Cyber Ventures</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tom Kellermann</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oreo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US National Security Agency</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mondelez</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US $85</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

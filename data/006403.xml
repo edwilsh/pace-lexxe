@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409393560362242</docid>
+  <date>01/08/2017</date>
+  <time>18:59</time>
+  <isTopNews>true</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/we-are-not-your-enemy-us-tells-n-korea/news-story/883e1a35d1be4cc79ce6fbc4a1775064</url>
+  <title>'We are not your enemy' US tells N. Korea</title>
+  <content>
+The United States is not seeking to topple the government of North Korea and would like to have a dialogue with Pyongyang at some point, Secretary of State Rex Tillerson says.
+"We do not seek a regime change, we do not seek a collapse of the regime, we do not seek an accelerated reunification of the peninsula, we do not seek an excuse to send our military north of the 38th Parallel," Tillerson told reporters at the State Department on Tuesday.
+"We are not your enemy ... but you are presenting an unacceptable threat to us, and we have to respond. And we hope that at some point they will begin to understand that and we would like to sit and have a dialogue with them."
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Secretary of State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>N. Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>State Department</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rex Tillerson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

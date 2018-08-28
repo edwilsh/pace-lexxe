@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418812423813489</docid>
+  <date>03/08/2017</date>
+  <time>07:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4831135/130-jobs-back-under-appin-coal-mine-deal/?cs=12</url>
+  <title>Appin mine Mastermyne deal means 130 more jobs under contract</title>
+  <content>
+Underground jobs: The deal is an expansion for Mastermyne and its workforce.
+
+About 130 mine workers laid off from South32's Appin mine are likely to get work again with contractor Mastermyne, which has signed a new contract to supply underground services there.
+South32 had terminated its labour supply contract with Delta SBD, leaving about 200 people without work according an estimate from the Construction Forestry Mining and Energy Union (CFMEU).
+But the union, and South32, were hopeful most of them would be picked up by another contractor. Under the $20 million deal revealed yesterday to the Australian Securities Exchange (ASX), Mastermyne has emerged as the main contractor to do so.
+Mastermyne said it would provide roadway development services under a contract which is expected to employ 130 people and deliver revenue of [about] $20 million per year. 
+The Mercury asked South32 about the other estimated 70 jobs, but a statement from a spokeswoman avoided the question.
+"We are pleased an agreement has been reached with Mastermyne to supply development labour for our Appin operations as we work towards a return to production," she said.
+"Underground operations at the Appin colliery remain suspended. A review of the operation's systems and operating practices is currently being undertaken to ensure its ongoing safety and reliability."
+The mine is currently subject to a prohibition order from the Resources Regulator after ongoing issues with gas buildup and problems with extraction equipment.
+Mastermyne CEO Tony Caruso said he was pleased to extend the relationship at the Appin colliery.
+
+"We look forward to delivering safe and productive outcomes for South32," he said.
+Mastermyne said its workforce would be boosted to about 280 people, with increases in peak periods.
+
+Delta SBD, a major contractor in southern coalfields, went into administration at the end of May.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australian Securities Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CFMEU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Construction Forestry Mining</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Energy Union</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Delta SBD</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mastermyne CEO Tony Caruso</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mastermyne</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Resources Regulator</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Appin</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South32</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437349502925266</docid>
+  <date>06/08/2017</date>
+  <time>07:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/queensland/queensland-weather-damaging-winds-and-large-hail-likely-for-moreton-bay-20170806-gxqf03.html</url>
+  <title>Severe storm warning for south-east Qld, large hail likely</title>
+  <content>
+A severe storm warning has been issued for south-east Queensland on Sunday evening.
+The Bureau of Meteorology said about 4.30pm the wet weather was moving east Lake Somerset and were were expected to deliver damaging winds and large hailstones to the Moreton Bay region.Photo: Twitter: @Edmund_BartonMP
+Caboolture, Mount Mee, Wamuran, Bribie Island and Beerburrum were forecast to be hit by 5.30pm, before the system was expected to continue moving east offshore.
+Dark clouds from the system spread over Brisbane and were forecast to deliver light rain over the city, with the bureau also not ruling out the possibility of lightning strikes.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bribie Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moreton Bay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mount Mee</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Edmund_BartonMP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lake Somerset</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Qld</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wamuran</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Caboolture</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Beerburrum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434574954028521</docid>
+  <date>05/08/2017</date>
+  <time>20:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/whale-and-vessel-collide/3209192/</url>
+  <title>Whale and vessel collide, four hospitalised</title>
+  <content>
+FOUR people on board an A1 fishing charter vessel have been taken to Proserpine Hospital in serious but stable condition tonight.
+
+The injuries were a result of a whale making full impact with the port side of the boat at 3.45pm this afternoon north-east of Gloucester Island.
+
+The impact caused the vessel to spin and "decomissioned" one of the engines.
+
+VMR Whitsundays and a rescue helicopter were tasked on standby but it was deemed "too dangerous" to get anyone off
+
+A whale impact left a dent on a A1 fishing charter vessel.Contributed
+
+After impact, the 8-person crew returned to the mainland via the Abell Point Marina boat ramp at 6pm, where paramedics were able to apply medical treatment.
+
+A QAS paramedic on the scene stressed that the four people taken to hospital were in varying states but all were in stable condition.
+
+One is suspected to have suffered spinal injuries.
+
+It is unclear what type of whale hit the vessel and how large it was.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Abell Point Marina</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gloucester Island</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QAS</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Proserpine Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>VMR Whitsundays</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

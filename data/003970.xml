@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404896729518312</docid>
+  <date>01/08/2017</date>
+  <time>01:32</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/sa-police-to-investigate-fleeing-of-priest/news-story/cc8cf152973403ec14cd2b89976c88d0</url>
+  <title>SA Police to investigate fleeing of priest</title>
+  <content>
+South Australian police are investigating how a priest who was accused of child sex offences was able to flee the country in 1992.
+Father John Mountford was sacked from St Peter's College after allegations of sexual abuse and was eventually extradited from Thailand in 2004 but charges were later dropped. He died in Libya in 2009.
+"The obligation of the South Australian police is to look at the referral from the royal commission as to whether anybody has perverted the course of justice or aided a person who has committed a serious crime to flee justice," Police Commissioner Grant Stevens told ABC breakfast radio on Tuesday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Libya</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>St Peter's College</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commissioner Grant Stevens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Police</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thailand</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Mountford</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

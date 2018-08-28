@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422617764916628</docid>
+  <date>03/08/2017</date>
+  <time>22:18</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/08/13/man-on-run-after-robbery-in-north-adelaide</url>
+  <title>Man on run after robbery in north Adelaide</title>
+  <content>
+A man is on the run after holding up a service station with a knife in Adelaide's northern suburbs.
+Just before midnight on Thursday the man entered the station on Main North road in Pooraka, then threatened staff and demanded cash.
+He escaped on foot. Police searched the area but could not find him.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Main North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pooraka</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

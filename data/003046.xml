@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403294706689035</docid>
+  <date>31/07/2017</date>
+  <time>19:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/trump-fires-scaramucci-as-communications-director/8762142</url>
+  <title>Donald Trump fires Anthony Scaramucci as communications director</title>
+  <content>
+US President Donald Trump has decided to remove Anthony Scaramucci from his job as communications director after just 11 days, hours after swearing in new chief of staff John Kelly.
+"Mr Scaramucci felt it was best to give chief of staff John Kelly a clean slate and the ability to build his own team," a White House statement said.
+"We wish him all the best."
+General Kelly reportedly requested his dismissal.
+More to come.
+ABC/wires
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>General Kelly</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>John Kelly</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Scaramucci</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Scaramucci</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

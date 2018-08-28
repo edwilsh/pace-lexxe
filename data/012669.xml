@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419233330616531</docid>
+  <date>03/08/2017</date>
+  <time>09:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/opinion/columnists/why-new-zealand-outplayed-australia-on-the-nbn-20170803-gxos77</url>
+  <title>How NZ outplayed Australia on broadband</title>
+  <content>
+In September 2009, the Key government in New Zealand announced it would invest in an all-fibre, ultra-fast broadband network. It would partner with the private sector to ensure 75 per cent of the population had fibre to the premise technology within 10 years.
+That same year, the Rudd Labor government committed to an even higher proportion of Australian households - 93 per cent - getting the same fibre technology with the most remote areas getting high speeds via satellite.
+New Zealand will reach its goal, on budget and on time. The government invested about $NZ1.5 billion and contracted the work to a group of private companies, including the privatised network arm of New Zealand's Telstra equivalent.
+In total, these companies invested a similar amount. FTTP technology ensures most people can get 100 megabits download speeds as a matter of course and increasingly much more, up to a gig. The New Zealand government has since announced coverage will be extended to 84 per cent of the population by 2024.
+
+In Australia, by contrast,  has gone seriously awry in terms of budget, timing and speeds available.
+
+Back of an envelope
+
+So what did New Zealand get right that Australia got so wrong? As usual, the problems have compounding but largely home-grown causes.
+Some started as soon as Labor's then communications minister Stephen Conroy persuaded Kevin Rudd to establish a government national broadband network. The finances were famously figured out on the back of an envelope during an plane trip.
+This followed the collapse of negotiations with Telstra to build the network with the help of a $4.7 billion investment from government.
+
+By the 2010 election, the NBN was under sustained political assault. The Coalition argued the whole model was flawed, that the roll-out was absurdly expensive and inefficient, taking decades and costing tens of billions more than the $43 billion Labor claimed.
+NBN Co would clearly never make the 7.1 per cent return Labor promised. And the roll-out certainly had plenty of obvious problems, including delays and cost over-runs.
+It didn't help that political considerations meant much of the early build was in rural and regional Australia, which made it more difficult and expensive to connect. As a new business, NBN Co was also learning on the job without any of Telstra's extensive network experience.
+A mix of technologies
+
+By the 2013 election, Malcolm Turnbull had come up with a version featuring a mix of technologies. This included making use of older copper lines for the last part of the connection to most houses or businesses. In existing suburbs - as opposed to new housing developments - the fibre would only extend to special cabinets on street corners, known as nodes, servicing a number of premises.
+This model, Turnbull declared, would be tens of billions of dollars cheaper, allow a much faster roll-out and offer speeds more than adequate for most household use. "Faster, cheaper, sooner" was the Coalition promise.
+Even so, this incarnation would still be extremely expensive - $49 billion - and slow going. Negotiations with Telstra about payment for use of its copper and cable dragged on for well over a year, for example. But frustrations applied to both new and old players.
+MyRepublic is a retail service provider that offers unlimited data plans on the fastest speeds available, a very variable concept in Australia. Vaughan Baker is group director of government and corporate relations in the four countries in which it operates, Australia, New Zealand, Singapore and Indonesia.
+
+But he was previously chief executive of the New Zealand regional fibre group, three members of which won contracts to build 30 per cent of the roll-out. He remembers sending engineers to supposedly learn from the experience of the NBN pilot in Tasmania.
+Without the discipline of the private sector
+
+He was amazed, he recalls, at the time and the effort taken by subcontractors without the discipline of the private sector questioning each dollar, meaning the cost base was skewed from the beginning.
+Australian costs have not come down since, especially when NBN must average out connecting expensive rural properties with city dwellings.
+
+FTTP connections cost about $4500 a premise, FTTN about $2200 and the latest modification, fibre to the kerb, $2800. In New Zealand at the time, the FTTP cost was $NZ2700.
+The good news in Australia was supposed to be a roll-out finally getting momentum in capital cities. About 100,000 homes are connected each week and the number of premises passed now is heading towards six million.
+The bad news is the greater the number of NBN households, the greater the number of angry customers, many  at peak times.
+Return on investment
+
+That's largely because big retailers are reluctant to pay expensive NBN bandwidth fees, or connectivity virtual circuit (CVC) charges.
+The NBN is still supposed to make a return on investment, even if a lower one. Under pressure, NBN Co has slightly reduced the CVC charge but it's still too hard for retailers to maintain their margins while keeping prices acceptable to customers.
+Instead, they limit the amount of capacity they buy, which can greatly affect speeds at peak times. This is especially a problem on the lower-priced plans still favoured by most consumers. New Zealand has no such charge.
+NBN Co's chief executive Bill Morrow points out only about 15 per cent of customers are dissatisfied. But even a small minority adds up to an awful lot of voters.
+
+NBN Co insists its technology is not the problem but due to a "landgrab" by retailers, unwilling to compete on speed rather than lower prices.
+The government belatedly appreciates the political risks, especially as most consumers are likely to blame the Coalition decision to ditch an all-fibre network.
+Another review, this time by the Australian Communications and Media Authority, is under way. Sigh.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>NZ</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Communications</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>6</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Bill Morrow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kevin Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vaughan Baker</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Indonesia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Telstra</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>7</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NZ2700</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 2009</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FTTP</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>FTTN</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MyRepublic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rudd Labor</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Media Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand's Telstra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Conroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CVC</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NZ$1.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Zealand</name>
+    <count>8</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

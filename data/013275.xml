@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420573360442133</docid>
+  <date>03/08/2017</date>
+  <time>14:22</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/escrows-strategics-targeted-as-block-party-2017-begins-20170803-gxomeu</url>
+  <title>Escrows, strategics targeted as block party 2017 begins</title>
+  <content>
+Here's the list you'll find up on the wall of every institutional equities desk across town. 
+With reporting season comes block trade season. The results period sees pre-IPO investors unshackled from voluntary lock-ups, clears strategic investors and their directors of trading policy and disclosure issues and, perhaps most importantly, brings liquidity. 
+The focus this year is on recently listed stocks whose longer-term owners are released from escrow periods.
+Top of that list in terms of size is Richard White's almost $1 billion stake in software success story Wisetech Global, followed by Bain Capital's $800 million-odd investment in MYOB, Viva Energy's shares in Viva Energy REIT (worth about $600 million) and TPG's stake in Inghams.
+
+Brokers are expected to hone in on the private equity stakes - MYOB and Inghams in particular, to at least let the vendors know they are thinking about the selldowns and ready to act should they get the call. 
+
+Fund managers expect the more likely blocks to go could be further down the escrow list - such as IFM's shares in Scottish Pacific and Ironbridge's stake in Bravura Solutions. 
+The other watchlist, though, holds the biggest potential blocks. In corporate land, the biggest is Paul Ramsay Foundation's near $5 billion stake which is widely seen an an improbable chance of trading, at best. 
+From there, the gorillas include Shell's $3.3 billion stake in Woodside Petroleum, Hunan Valin's $2.5 billion stake in Fortescue Metals Group, China Investment Group's $1.4 billion holding in Goodman Group and two Oil Search blocks worth about $1 billion each and owned by IPIC and the PNG government. 
+Further down, brokers are watching strategic stakes in Genworth Mortgage Insurance Australia, Scentre Group, Alumina, Pact Group, Sims Metal, Nufarm, Super Retail Group, Whitehaven, BT Investment Management, Regis Health and IRESS, all worth upwards of $400 million. 
+
+While equities teams will be pitching vendors and talking to fast-money funds about their appetite, the selling will also be happening within the corridors of investment banks themselves. 
+Blocks are not for the faint hearted. They're highly competitive and if priced wrong, it's easy to dust millions of dollars. 
+While equities teams see executing a block as a statement to their clients and rivals, they're impossible to execute without the backing of investment banking heads and management offshore.
+The bigwigs' nerves seem heightened this year, given equity market conditions, which makes for some interesting internal debates in coming weeks.
+
+UBS's equities desk sent a timely reminder to fundies on Thursday, saying it was five years since its blocks desk started under George Kanaan and its deal tally was north of $50 billion. 
+Let the games begin. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ingham</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Paul Ramsay Foundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woodside Petroleum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard White</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China Investment Group's $1.4</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fortescue Metals Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IFM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Viva Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whitehaven</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Shell's $3.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPIC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MYOB</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>TPG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pact Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genworth Mortgage Insurance Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oil Search</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>George Kanaan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunan Valin's $2.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ironbridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Viva Energy REIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scentre Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scottish Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sims Metal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bravura Solutions</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Regis Health</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wisetech Global</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Super Retail Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nufarm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bain Capital's $800</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Goodman Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BT Investment Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

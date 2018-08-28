@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423717276562993</docid>
+  <date>04/08/2017</date>
+  <time>02:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/physicists-prove-40-year-old-prediction-with-incredible-neutrino-observation/</url>
+  <title>Physicists Prove 40-Year-Old Prediction With Incredible Neutrino Observation</title>
+  <content>
+SNS (Image: Oak Ridge National Laboratory, US DOE, Genevieve Martin)
+
+Physicists make a lot of statements about stuff they hope will happen, but might not happen in their lifetimes. One physicist, for example, thought that in certain cases, the incredibly common but hard-to-detect neutrino particles would somehow make entire atomic nuclei wiggle. He thought it a silly idea to even propose, given how difficult such a measurement would be to make.
+
+But forty years later, scientists are announcing that they have discovered that very thing.
+
+Specifically, scientists have found an all-new way to measure the "coherent neutrino-nucleus collision." A physicist first predicted the possibility of these neutrino-interactions back in the seventies, and some think the discovery has nearly sci-fi implications for ways to use neutrinos in the future. Others were more measured in their take. But one thing's for certain: Physicists think the results are exciting.
+
+"Wow!!!!!!" Physicist Juan Estrada at Fermilab in Illinois, who is also looking for this effect but wasn't involved with the new study, told Gizmodo in an email.
+
+There are four ways particles can communicate with each other according to our laws of physics: gravity, electromagnetism, the strong nuclear force, and the weak nuclear force. Neutrinos are a special kind of particle that only interact with other particles via the weak nuclear force and gravity, both of which are incredibly difficult to detect with our labs on Earth. Neutrons, one of the two particles in atomic nuclei, can go through a weak force interaction called beta decay, where they spontaneously turn into protons, spitting out a neutrino and an electron.
+
+Today, the way physicists measure neutrinos is with a sort of reverse process. If a neutrino hits a proton, it might set off an inverse beta decay, turning the proton into an electron and a neutron - the electron then creates a flash of light that detectors can detect. But this interaction is rare, and requires huge vats of liquid to capture.
+
+Daniel Freedman, theoretical physicist emeritus from MIT, was the one who predicted a different kind of neutrino interaction back in a  published in the journal Physical Review D. Rather than interacting with protons, he figured neutrinos can interact with entire atomic nuclei. This process would be low energy, since neutrinos could only produce the tiniest knock with their weak force, but it would also be far more common, since atomic nuclei are so much larger than protons. It would make for neutrino detection with a much smaller detector than
+
+Collar with a model of the COHERENT detector (Image: Jean Lachat/UChicago)
+
+But, Freedman wrote: "Our suggestion may be an act of hubris, because the inevitable constraints of interaction rate, resolution, and background pose grave experimental difficulties for elastic neutrino-nucleus scattering." In other words, he thought the interaction would be far too weak and rare to capture.
+
+Forty years later, a team of physicists at Oak Ridge National Laboratory proved that Freedman was in fact right. "Well, it wasn't impossible," Juan Collar, physicist from the Kavli Institute for Cosmological Physics told Gizmodo.
+
+The observation came from a special experiment and good luck. Oak Ridge National Lab has a neutron (not neutrino) experiment called the Spallation Neutron Source (SNS). It pumps bursts of neutrons down a beam line, but creates a ton of neutrinos as a byproduct, which the COHERENT collaboration presenting the new results sought to take advantage of. The neutrons could have clouded the signal, but the collaboration found a spot in a basement behind twenty feet of concrete, enough to shield pretty much anything coming from the SNS except for the neutrinos. "We were really lucky to find this really great location at the SNS," Kate Scholberg, Duke University physicist and spokesperson of the COHERENT collaboration announcing  today in the journal Science, told Gizmodo. "I was worried we'd be killed by neutron background and it turned out not to be true."
+
+The COHERENT experiment is essentially a crystal, and when the neutrino hits the lattice, the interaction via the weak force causes the atomic nuclei to wiggle, releasing a teeny blip of detectable light, said Collar. The neutron beam pulses on and off, creating a visible rise and fall in the detection signal. "We know when the neutrinos should be coming because the beam is only happening 60 times per second on cue," said Collar. "That's golden for us."
+
+You can pretty clearly see the signal in the detector (black dots) increase when the beam is turned on, demonstrating that the team had measured the neutrino-nucleus interaction.
+
+Aside from proving a 40 year old theory, the experiment has already begun to set constraints on some proposed ideas for neutrino behaviour, said Scholberg. Collar thought the most important application was the potential for a whole future of smaller neutrino experiments. "Maybe 50 years from now we're going to have some neutrino technologies out there," available for the public like the once high-tech lasers are today.
+
+Outside experts were all excited - other teams are currently looking for the same signal at other labs. "It is a great success in finding a unique process which everyone believed to exist but has been difficult to discern," said John Gregory Learned, physicist at the University of Hawaii. He specifically tipped his hat to Collar, but did call for a little caution regarding future prospects - for now, he thought the applications would be quite limited.
+
+Freedman, too, was excited.
+
+"Of course," Freedman told Gizmodo, "I am thrilled that the experiment suggested in my paper in 1974 has finally been carried out."
+
+[]
+
+WATCH MORE: Science & Health News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>MIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cosmological Physics</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daniel Freedman</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Illinois</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spallation Neutron Source</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oak Ridge National Laboratory</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Fermilab</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Physical Review D. Rather</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Juan Estrada</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Oak Ridge National Lab</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>John Gregory Learned</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jean Lachat/UChicago</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kavli Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SNS</name>
+    <count>4</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>University of Hawaii</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US DOE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Scholberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kate Scholberg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Genevieve Martin</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Freedman</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Duke University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prove 40-Year-Old Prediction With Incredible Neutrino Observation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Juan Collar</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Health News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410815194563745</docid>
+  <date>02/08/2017</date>
+  <time>00:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4828025/arson-charges-over-coalfields-fires/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Arson charges over Coalfields fires</title>
+  <content>
+INFERNO: Kurri Kurri residents observe the smoke from bushfires on January 18. Picture: Simone De Peak
+
+DETECTIVES have arrested two men - including a retained firefighter - over bushfires in the Coalfields.
+Police revealed the 28-year-old firefighter was arrested on Hall Street, Weston, and charged with four counts of intentionally causing a fire and concealing a serious indictable offence of another person.
+
+The charges relate to fires on January 18 at Chinamans Hollow, Loxford and Kurri Kurri.
+Another man, 27, will front court on Wednesday after he was arrested by police on Tuesday.
+That man was charged with three counts of intentionally causing a fire and was refused bail.
+The arrests come after the establishment of Strike Force Hingerty, which was formed in the wake of the bushfires, which ran over several weeks and threatened property.
+Strike Force detectives are continuing their investigations into the cause of the fires.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Hall Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 18</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Weston</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Kurri Kurri</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Strike Force Hingerty</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Simone De Peak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinamans Hollow</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Loxford</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

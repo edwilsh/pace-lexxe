@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405399240699533</docid>
+  <date>01/08/2017</date>
+  <time>03:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4826097/man-dead-after-pacific-highway-crash/?cs=12&utm_source=latestnews&utm_medium=cpc&utm_campaign=Latest%20news%20traffic</url>
+  <title>Man dead after Pacific Highway crash</title>
+  <content>
+A MAN has died after a car struck a tree in Port Stephens on Tuesday. 
+Authorities were called to the Pacific Highway near Rangers Road about 11am after the car left the road and hit a tree. 
+Police said the driver, aged in his 20s, died at the scene while a female patient was taken to the John Hunter Hospital. 
+
+Her injuries were not considered life-threatening. 
+Port Stephens police have established a crime scene, with crash investigators on site. 
+Motorists are urged to expect delays through the area. 
+
+Anyone who witnessed the incident is urged to call Crime Stoppers on 1800 333 000. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>John Hunter Hospital</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pacific Highway</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Crime Stoppers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Port Stephens</name>
+    <count>2</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Rangers Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399008329251157</docid>
+  <date>31/07/2017</date>
+  <time>02:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/07/data-management-is-at-the-heart-of-good-priviacy-practice/</url>
+  <title>Data Management Is At The Heart Of Good Privacy Practice</title>
+  <content>
+Despite the way political leaders like to work, the internet means commercial border are fluid and permeable. That means businesses need to be aware of privacy and security regulations in other countries as well as at home. I spoke with Dana Simberkoff, from software vendor AvePoint at this year's RSA Conference in Singapore. She is a member of the International Association of Privacy Professionals and strong believer in having robust data management processes in place in order to manage the privacy needs of people in an increasingly globalised world.
+
+One of the main tools Simberkoff advocates is the use of privacy impact assessments. It's critical that people have confidence that their data is not only protected when stored but that it is only used for the intended purpose. This is one of the keys in the upcoming GDPR rules coming into effect next year in the EU.
+
+"A privacy impact assessment is risk assessment of a program, application or product that asks what is the data you're going to be using in this, who are you going to be targeting, where do they live, what kind of data are you collecting and how you are going to protect it. It goes through a number of questions that are regulatory".
+
+Simberkoff says the process of a privacy impact assessment is similar to a security risk assessment but it asks a different set of questions.
+
+For companies trading in multiple jurisdictions the types of questions may vary and even result in conflicting regulations, particularly where there are data sovereignty requirements, said Simberkoff. Adding to that are different cultural norms with the concepts of personal privacy being quite different in Europe and the US she added.
+
+The security world, which is quite some way ahead of the privacy world said Simberkoff, has worked its way through the international differences through the establishment of different security standards. A similar approach, which is in the nascent stages of development, is one way to ensure the privacy rights of citizens across the world are respected.
+
+This will allow interoperability across jurisdictions by defining what needs to be done when it comes to privacy without dictating how. The focus, said Simberkoff would be on notice, choice and consent so people could choose when to hand data over, what data they could share and how it can be used. But she added that this becomes more complex in an IoT world, where devices, and not people, are engaged in the data collection.
+
+So, what are the things you can do when it comes to being a privacy-focussed business?
+
+Metadata is a love note to the future
+
+Simberkoff says using meta-tags is critical.
+
+"If you don't know the data you have you can't possibly protect it," said SImberkoff.
+
+Not knowing what data you have makes it not only hard to know what to protect but, in the event of breach it makes out hard to know what data has been lost. Going further, Simberkoff said one of the reasons some breaches in the US take so long to report is that companies are not even aware data has been exfiltrated from their businesses.
+
+The circle of (data) life
+
+Businesses need to understand how they create, use, share and end-of-life their data. By thinking about data in those terms, businesses can map all the different privacy regulations they might be subject to into those elements of a data lifecycle.
+
+End of life is where privacy can die
+
+Simberkoff says there is a perception that all data needs to be kept forever "because some day you'll figure out what to do with it".
+
+Many of us were taught to collect as much data as we could and store it as granularly as possible "just in case". But today's world requires a different way of thinking.
+
+While it might be the case that some data needs to be retained for extended periods of time, Simberkoff says it doesn't need to be kept in production environments. It can be moved to offline storage where it will be safer.
+
+Part of the challenge to this kind of thinking, said Simberkoff is that many people believe storage is almost free. But that's not the case she argues. As side from the cost of psychical media or cloud services, the management cost of maintaining and looking after that data is not insignificant.
+
+She cited an IDC study suggesting about 80% of corporate data is obsolete or redundant. If you think about all those copies of documents sent by email or stored on personal backups by individual employees "just in case" it's easy to see how that can happen.
+
+Trust your instincts
+
+Most of us know when something "feels" wrong said Simberkoff.
+
+"Really think about what you are going to do with data and what is the consequence of that going to be," she said.
+
+Privacy is about doing the right thing and putting yourself in the customer's or user's shoes. If you wouldn't be happy with your data being handled in a particular way then it's likely that the processes or systems you're considering aren't going to be good for customers.
+
+Anthony Caruana attended RSA Conference in Singapore as a guest of RSA.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anthony Caruana</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heart Of Good</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IDC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simberkoff</name>
+    <count>12</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Data Management Is At</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Privacy Practice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GDPR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>International Association of Privacy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AvePoint</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dana Simberkoff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RSA Conference</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

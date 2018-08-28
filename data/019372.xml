@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435601451221390</docid>
+  <date>06/08/2017</date>
+  <time>00:41</time>
+  <isTopNews>true</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/nsw/buildings-evacuated-after-crane-collapses-20170806-gxq7al.html</url>
+  <title>Home units evacuated in Wolli Creek after crane collapses onto penthouse</title>
+  <content>
+Emergency services have evacuated a number of apartment buildings in Wolli Creek after a crane collapsed into one building on Brodie Spark Drive.
+It is unknown if any people remain trapped inside the building.Photo: Felicia Nguyen
+A nearby building has also been evacuated due to concerns that the crane may shift position.
+It is understood that the crane that toppled was in the process of beng set up before it 
+Paramedics are currently treating the three crane operators. They are all in stable conditions.
+Witnesses say that a nearby crane was able to rescue the three men from the collapsed crane by lifting a cage to the driver carriage.
+Emergency services have closed the roads surrounding the area.
+More to come
+</content>
+  <sindexList>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brodie Spark Drive</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wolli Creek</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Felicia Nguyen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414079369766200</docid>
+  <date>02/08/2017</date>
+  <time>13:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/where-you-can-see-america-rare-solar-eclipse-2017-7</url>
+  <title>NASA's most accurate map of where Americans can witness the rare total solar eclipse this year</title>
+  <content>
+NASA has just released a new video showing the exact path where US residents can see the 2017 solar eclipse this August 21st. Northwesterners to Southeasterns, get ready!
+
+Video courtesy of
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Northwesterners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASA</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>August 21</name>
+    <count>1</count>
+    <score>-0.5</score>
+  </sindex>
+  </sindexList>
+</snippet>

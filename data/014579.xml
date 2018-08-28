@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423266304989261</docid>
+  <date>04/08/2017</date>
+  <time>00:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/southport-spit-casino-rejection-developer-could-challenge/8774132</url>
+  <title>Southport Spit casino rejection could face developer legal challenge</title>
+  <content>
+Related Story:
+
+Chinese consortium ASF is not ruling out a legal challenge to the Queensland Government's decision to reject its proposed $3 billion casino resort development on the Southport Spit.
+ASF had planned a five-tower development on Crown land that included a casino, entertainment venues, theatres, hotels and residential apartments.
+On Tuesday,  after months of community consultation, and that a new master plan would be developed instead.
+This morning, ASF director Louis Chien told ABC Radio Brisbane the consortium was reviewing its next move.
+"Nothing is off the table, including legal action, and we are clearly focused on what just happened and what needs to happen next," he said.
+"Needless to say we're still in shock and deeply disappointed with this government and its snap decision this week."
+Mr Chien said it was too early to say if ASF would resubmit a new development proposal to the State Government.
+
+"We're reviewing all of our plans, so at the present moment we're focused on what just happened and everything else is on the backburner to be assessed," he said.
+"This decision is obviously a devastating blow to investor confidence in Queensland.
+"I think this decision brings in to question why would any sensible investor, who has choices of where to invest - and the world is a small place these days, you have a lot of choices in terms of where you can invest - even fathom coming in to Queensland under such an uncertain climate?
+"No doubt this decision has and will continue to send shock waves throughout the business community, both onshore and offshore with the eyes of the world watching this high profile project.
+"It's going to have a ripple effect, definitely."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Crown</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Chien</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Government</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Government</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Louis Chien</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Radio Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southport Spit</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>ASF</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

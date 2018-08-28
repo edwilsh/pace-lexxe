@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651409698503045428</docid>
+  <date>01/08/2017</date>
+  <time>20:10</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/08/02/donald-trump-helped-write-diecreded-russia-statement/</url>
+  <title>Donald Trump helped son author son's discredited Russia statement</title>
+  <content>
+The White House has confirmed that President Donald Trump helped author a discredited statement his son gave in defence of his talks with a Russian lawyer during the 2016 election campaign.
+In the July statement, Donald Trump Jr said he met with Russian lawyer Natalia Veselnitskaya in June 2016 to discuss the adoption of Russian children.
+Mr Trump Jr later admitted he had agreed to the meeting after being told he could receive damaging material on Mr Trump's election opponent Hillary Clinton.
+The Washington Post claimed in an exclusive report Tuesday that President Trump personally dictated his son's statement while on his way back from the G20 meeting in Hamburg Germany.
+"Flying home from Germany on July 8 aboard Air Force One, Trump personally dictated a statement in which Trump Jr. said that he and the Russian lawyer had 'primarily discussed a program about the adoption of Russian children' when they met in June 2016, according to multiple people with knowledge of the deliberations," the Washington Post  reported Tuesday.
+"The statement, issued to The New York Times as it prepared an article, emphasised that the subject of the meeting was 'not a campaign issue at the time'."
+While denying President Trump dictated his son's initial statement, the White House admitted he "weighed in on its content".
+"He certainly didn't dictate (the statement)," White House press secretary Sarah Huckabee Sanders told a media briefing Wednesday morning (AEST).
+"The President weighed in as any father would, based on the limited information that he had," Ms Sanders said.
+"The statement that was issued was true and there were no inaccuracies in the statement," she said.
+The New York Times initially reported in early July that Mr Trump Jr met with Ms Veselnitskaya along with Jared Kushner, the President's son-in-law, who has a senior role in the White House, and Paul Manafort, who was campaign chair at the time, in Trump Tower in June 2016.
+Trump Jr's initial statement to the NYT claimed the meeting was "primarily" about adoption and its relation to US sanctions on Russia under the Magnitsky Act.
+Shortly after that first report, it was shown the initial statement was misleading when the NYT  an email chain showing an acquaintance, music promoter Rob Goldstone, offered Mr Trump Jr a meeting where he could obtain information as part of a Russian government effort to help his father's campaign.
+Mr Trump Jr then posted the emails online.
+The US Senate, House of Representatives and a special counsel are all investigating alleged Russian interference in the presidential election in the form of attempts to undermine Mrs Clinton.
+President Trump and Moscow have consistently maintained there was not collusion to meddling in the election outcome.
+"The Democrats want to continue to use this as a PR stunt and are doing everything they can to keep this story alive and in the papers every single day," Ms Sanders said Wednesday.
+"The President, the American people, they voted America first, not Russia first, and that's the focus of our administration."
+- With agencies
+</content>
+  <sindexList>
+  <sindex>
+    <name>PR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moscow</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NYT</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>7</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Paul Manafort</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump Tower</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Democrats</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rob Goldstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>G20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms. Veselnitskaya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sarah Huckabee Sanders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>House of Representatives</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Magnitsky Act</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>3</count>
+    <score>2.5</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Trump Jr</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Trump Jr</name>
+    <count>4</count>
+    <score>3.3</score>
+  </sindex>
+  <sindex>
+    <name>Jared Kushner</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Natalia Veselnitskaya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AEST</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hamburg Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mrs. Clinton</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Ms Sanders</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air Force One</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US Senate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

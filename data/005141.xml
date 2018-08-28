@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406137975085598</docid>
+  <date>01/08/2017</date>
+  <time>06:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/western-australia/aerial-images-reveal-extent-of-storm-damage-in-perth/news-story/70b76607446e85cb0583b0f4bf8dccd3</url>
+  <title>Aerial images reveal storm damage</title>
+  <content>
+AERIAL images have revealed the scale of the damage from yesterday's storm.
+A suspected tornado tore through the northern suburbs, tearing the roof from a home in Duncraig.
+Destructive winds and torrential rain lashed the state yesterday, with the Perth suburbs of Sorrento, Duncraig, Warwick, Hamersley and Balga copping some of the worst damage.
+The aerial images show roofing insulation exposed in one home, while the house next door appears unscathed.
+In Rochester Circle in Balga, a tree crashed through a house into a kitchen, tiles blew off roofs, a wheelie bin lid blew off and crashed through a home and a powerline fell.
+It's going to be particularly cold in Perth on Wednesday, dropping down to just 5C with frost likely in the eastern suburbs.
+It was a wet and wild day
+
+The rain returns again on Thursday, with a high chance of showers in the afternoon and evening, and it will linger over weekend and into Monday.
+The cold change will bring morning frost to several areas in the South West as well, with Collie set for an overnight minimum of just 1C.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rochester Circle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Collie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Hamersley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sorrento</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South West</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Warwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Duncraig</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Balga</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

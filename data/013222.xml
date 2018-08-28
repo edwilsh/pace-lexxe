@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651420135273767888</docid>
+  <date>03/08/2017</date>
+  <time>12:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/bats-global-markets-slams-nyse-and-nasdaq-for-being-hypocritical-2017-8</url>
+  <title>America's upstart stock exchange slams NYSE and Nasdaq for being 'hypocritical'</title>
+  <content>
+Bats Global Markets, the stock exchange recently acquired by the Chicago Board Options Exchange, is proposing a new model for trading at the end of the day.
+
+The New York Stock Exchange and Nasdaq have both lobbied against the proposal, saying it will fragment the market.
+
+Bats has now responded, accusing NYSE and Nasdaq of being "distinctly hypocritical."
+
+There's a two-on-two rumble taking place amongst America's stock exchanges to decide how the trading day ends.
+
+Bats Global Markets, which is now a part of CBOE, has proposed Bats Market Close, a new offering that would allow NYSE- and Nasdaq-listed securities to be . The proposal is a direct attack on the NYSE and Nasdaq model, and it comes at a time when more and more trading is conducted at the end of the day.
+
+NYSE and Nasdaq , while IEX, America's newest stock exchange, said it is in favour and is considering a similar proposal of its own.
+
+Bats has now responded to NYSE and Nasdaq's criticisms in a letter to the SEC, in some cases using snark to try and shoot down their arguments. According to Bats' latest letter, those against the proposal generally attack it on four points, arguing it would:
+
+(i) impair the price discovery process performed by the NYSE and Nasdaq closing auction processes;
+
+(ii) fragment the market at the close;
+
+(iii) place an inappropriate burden on competition; and
+
+(iv) increase operational and regulatory risk.
+
+Bats, which has been a thorn in the side of NYSE and Nasdaq for some time, then seeks to dismantle each of those arguments. For example, it says that Nasdaq and NYSE Arca currently conduct closing auctions in securities listed elsewhere, meaning they're already doing the thing they want to stop Bats from doing.
+
+In a conversation with Business Insider, Bryan Harkness, head of US equities and global FX at Bats Global Markets, said NYSE and Nasdaq's arguments are "distinctly hypocritical."
+
+From the letter (emphasis ours):
+
+"The NYSE and Nasdaq, in particular, argue that the Proposal would harm price discovery by potentially pulling market orders from their closing auctions. The Exchange questions the validity of the NYSE's and Nasdaq's concern since both Nasdaq and NYSE Arca, an affiliate of the NYSE, currently conduct closing auctions in securities listed elsewhere on a daily basis. The NYSE and Nasdaq would currently argue that these auctions act as a back-up to primary listing markets and must run every day to ensure that they work properly. This is a newly developed argument, and is akin to turning every light on in your house when you get home each night to ensure the electricity is working. Performing a back-up auction is not what Nasdaq's intent was when it proposed expanding its closing auction process to NYSE listed securities in 2007. Nor did the NYSE express concern at the time that the Nasdaq's proposal would impact the price discovery process performed by their closing auction."
+
+And:
+
+"Nasdaq's claim that it "is aware of no regulator in any jurisdiction in the world that has sanctioned the diversion of orders from the primary market close such as Bats proposes here" suggests that Nasdaq may want to do further legal research. First, the SEC has in fact granted
+approvals to Nasdaq itself, NYSE Arca and the American Stock Exchange to operate competing
+closing auctions."
+
+According to Bats, the non-primary listing market auctions currently carried out by NYSE and Nasdaq produce "bad auction prices," with the competing NYSE Arca and Nasdaq closing auctions printing a different closing price than that of the primary listing market. The Bats proposal, in contrast, would execute at the closing price on the primary listing exchange.
+
+According to its research:
+
+"86% of the competing closing auctions conducted by Nasdaq for NYSE-listed securities in June 2017 resulted in closing prices different from the official closing price published by the NYSE."
+
+"Similarly, 84% of competing closing auctions conducted by NYSE Arca for Nasdaq-listed securities in the same month resulted in closing prices different from the official closing price published by Nasdaq."
+
+"Both Nasdaq and NYSE seem to be comfortable with creating dueling closing auctions themselves but they are unwilling to allow for a non-disruptive closing process when it creates competitive pressures on their revenues."
+
+Bats also takes aim at the argument, made by NYSE, Nasdaq and , that the proposal would fragment trading at the close of the trading day. In its letter, Bats argued that trading is already fragmented at the end of the day. The letter said:
+
+"Commenters, including the NYSE and Nasdaq, expressed concern that the Proposal would fragment trading at the close of regular trading hours. The Proposal would not introduce new fragmentation at the close. The NYSE and Nasdaq ignore the fact that fragmentation at the close exists today through their own competing closing auctions conducted daily on a broad base of non-primary listings. In addition, off-exchange venues siphon order flow at the close from the primary listing markets by offering executions at the official closing price. For example, on June 20, 2017, 430,000 shares of FedEx were matched at the official closing price by off-exchange venues, compared to 380,000 shares that were matched at NYSE, FedEx's listing market."
+
+The reference to FedEx is telling. Mickey Foster, the VP of investor relations at FedEx,  to the SEC that the Bats proposal would divert "flow away from the central auction" at the end of the trading day, "adding another challenge to investors seeking liquidity."
+
+The deadline for submissions to the SEC on Bats Market Close is August 20. This one isn't done yet.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nasdaq-listed</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>VP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IEX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bryan Harkness</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mickey Foster</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New York Stock Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bats Global Markets</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GLOBAL MARKETS</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NYSE Arca</name>
+    <count>5</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Bats Market Close</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NYSE</name>
+    <count>22</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>SEC</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>American Stock Exchange</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>CBOE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NASDAQ</name>
+    <count>27</count>
+    <score>-16</score>
+  </sindex>
+  <sindex>
+    <name>August 20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NYSE-listed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FedEx</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 20, 2017, 430,000</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chicago Board Options Exchange</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

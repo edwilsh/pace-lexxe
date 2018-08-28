@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651400288229523200</docid>
+  <date>31/07/2017</date>
+  <time>07:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/png-could-choose-next-pm-by-this-week/news-story/5155ff83d0704e3fec631a9d23124645</url>
+  <title>PNG could choose next PM by this week</title>
+  <content>
+The parliament of Papua New Guinea (PNG) will elect a prime minister at the end of the week, in an election marred by poor organisation and opposition accusations of electoral roll irregularities.
+With no political party able to clinch enough seats to form a government, analysts said the outcome remained too close to call, stirring voter frustration that could trigger more unrest in the resource-rich South Pacific nation.
+On Saturday, incumbent Prime Minister Peter O'Neill was invited to try to form a coalition government, with his party on track to win the largest number of seats, although fewer than half the 56 needed, forcing him to woo coalition partners.
+"The ruling People's National Congress and the main opposition, the National Alliance party, each believe they have the numbers, it is very close," said Jonathan Pryke, a research fellow at Australian think-tank the Lowy Institute.
+Wednesday's vote to determine PNG's next parliamentary speaker will offer a clue to which party has the necessary support to win the prime ministerial vote, analysts say.
+However, both decisions are unlikely to be made by a full complement of MPs, as vote counting continues after polls had to be extended when a large number of voters were unable to cast ballots.
+PNG voters went to the polls to elect a new 111-member parliament in late June, but use of an electoral roll dating from 2012 meant many voters could not vote, forcing an extension of a two-week window.
+Most of PNG's nearly eight million people live at subsistence level on islands, atolls and in remote mountain villages, despite the country's mineral wealth, evidenced by energy giant Exxon Mobil's $A25 billion LNG plant.
+"It is most unlikely that all seats will have been declared by Friday," said a source close to the main opposition National Alliance Party, who declined to be named as he was not authorised to talk to the media.
+"The numbers won't matter, the prime minister will be determined by the majority present on the day."
+Voter dissatisfaction with the election triggered sporadic violence nationwide, but O'Neill's re-election could stoke more tension, as many are disenchanted by corruption allegations against him that he denies.
+The winner faces a tough economic task, with the 2016 budget deficit of 34 per cent of GDP having doubled from 2012, worsened by a slump in energy prices.
+PNG must also grapple with fallout from plans to close an Australian-run detention centre home to just over 800 refugees.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>National Alliance Party</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MPs</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>PM</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian-run</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jonathan Pryke</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LNG</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>National Alliance</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>People's National Congress</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Exxon Mobil</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Peter O'Neill</name>
+    <count>1</count>
+    <score>2.8</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lowy Institute</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Papua New Guinea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O'Neill</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>GDP</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

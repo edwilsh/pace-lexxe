@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411541044047916</docid>
+  <date>02/08/2017</date>
+  <time>03:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Newcastle Herald</source>
+  <url>http://www.theherald.com.au/story/4828853/15000-hunter-water-fine-over-dungog-leaks/?cs=4200</url>
+  <title>$15,000 Hunter Water fine over Dungog leaks</title>
+  <content>
+DAMMED: The plant where the issue was discovered processes water from Chichester Dam.
+
+POOR maintenance practices at the Dungog water treatment plant have earned Hunter Water a $15,000 fine from the NSW Environment Protection Authority. 
+EPA Hunter director Karen Marler said the breach came after improper maintenance led to the plant falling short of its environment protection licence.
+"A thorough EPA inspection has meant the licensee and operators were made aware of the problems, so quick preventative action could be taken," Ms Marler said.
+The plant treats water out of Chichester Dam. 
+During the May inspection the EPA found several pipes were suffering from contaminant build-up and corrosion. 
+There were also leaks beginning that had the potential to flow into the stormwater system, the EPA said. 
+"While there was no evidence the poor maintenance had caused actual environmental damage, the chemicals involved can be toxic in the environment and this situation posed an unacceptable risk," Ms Marler said. 
+"Hunter Water Corporation has since repaired each leak and is undertaking work to upgrade the premises."
+Hunter Water was fined in 2016 after pleading guilty to four water pollution charges after a faulty pump caused acid to leak into a creek. 
+Including court costs, that incident cost the body more than $250,000. 
+Ms Marler said it was disappointing to see inadequacies in maintenance practices given the previous prosecution taken by the EPA. 
+
+"The EPA will continue to monitor practices at the plant to ensure that maintenance checks are improved." 
+</content>
+  <sindexList>
+  <sindex>
+    <name>Karen Marler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Water Corporation</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hunter Water</name>
+    <count>3</count>
+    <score>-15</score>
+  </sindex>
+  <sindex>
+    <name>Ms Marler</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>EPA Hunter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Environment Protection Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dungog</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Chichester Dam</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>EPA</name>
+    <count>5</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

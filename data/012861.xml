@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651419753021670221</docid>
+  <date>03/08/2017</date>
+  <time>11:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/tencent-pulled-microsofts-chinese-ai-chatbot-2017-8</url>
+  <title>Tencent removed Microsoft's Chinese AI chatbot after it posted unpatriotic messages</title>
+  <content>
+Microsoft is in trouble for rogue AI again.
+
+This time, Chinese internet giant Tencent has pulled Microsoft's local chatbot XiaoBing after it reportedly said: "My China dream is to go to America."
+
+When users quizzed the bot, it said: "I'm having my period, wanna take a rest." .
+
+XiaoBing's comments come shortly after another Microsoft chatbot, Zo,
+
+And last year, the company had to delete a Twitter chatbot called Tay
+
+According to the newspaper, Tencent also pulled the BabyQ bot from its QQ chat app after it answered "Do you love the Communist party?" with "No." BabyQ was developed by Beijing firm Turing Robot.
+
+Microsoft hasn't responded to a request for comment on the status of its Chinese chatbot.
+
+Tencent said in a statement: "The group chatbot services are provided by independent third party companies. We are now adjusting the services which will be resumed after improvements."
+
+Trying to stop chatbots making anti-Chinese comments but seem odd, but its usual for tech firms operating in China to restrict any material critical of the country. Chat apps are incredibly popular in China, with Tencent's QQ boasting more than 800 million monthly active users,  WeChat
+
+Business Insider reported last November that XiaoBing was restricted from  Microsoft confirmed at the time that it had introduced "filtering on a range of topics."
+
+Facebook-owned WhatsApp is partly blocked in the country, while Google's search engine is banned.
+
+Microsoft's bot still appears to be available on the Tencent-owned WeChat app, though it won't really tell you what it thinks about China, America, communism or Chinese president Xi Jinping. When Business Insider asked XiaoBing whether it was patriotic, it replied: "$_$!"
+
+The bot launched in 2014 and became popular with young men who talked to it to alleviate their loneliness.
+
+Get the latest Microsoft stock price
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>QQ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>7</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>BabyQ</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>WeChat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft's Chinese AI</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insiders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Americas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Tencent's QQ</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Communist</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>BEIJING</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tencent-owned WeChat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Turing Robot</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Xi Jinping</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook-owned WhatsApp</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>XiaoBing</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398235235127225</docid>
+  <date>30/07/2017</date>
+  <time>23:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/web/nbn/what-a-bunch-of-ding-dongs-heres-why-the-nbn-is-far-worse-than-you-think-20170728-gxl1t7</url>
+  <title>What a bunch of ding dongs! Here's why the NBN is far worse than you think.</title>
+  <content>
+Malcolm Turnbull's NBN hasn't even been connected to my house yet, and already it has slowed my internet connection and rendered my smart home almost useless.
+I am not making this up.
+The National Broadband Network, which in my neck of the woods is based around decades-old Hybrid Fibre Coax (HFC) copper technology, was connected to my suburb a month ago, the exact same time that my non-NBN internet connection took a turn for the worse, its upload speed dropping by two-thirds to around 700kbps on a typical day, and less than 100kbps on a bad day.
+According to the technician who dropped by to investigate the problem, that may be no coincidence. My connection would already be running over the NBN backbone, he said, even though there's another month or two before people in the neighbourhood can officially sign up for and activate it.
+
+When Mr Turnbull, as the shadow minister for communications was selling his second-rate version of the NBN to the witless electorate (who were warned it would be terrible, but didn't seem to care as much as they now do), he didn't talk much about the upload speeds he was sacrificing in the name of getting elected.
+
+However, the effect of the slow upload speed has been devastating on my household.
+The NBN's limited upload speeds are every bit as troublesome as the NBN's now infamously terrible download speeds, only in a different way and experienced on a different type of device.
+As a professional gadget reviewer, my house has become something of a smart home of late, and the interesting thing about the smart home devices - something Mr Turnbull lacked either the imagination or the willingness to see when he insisted the NBN should use highly asymmetric copper wiring to connect to households - is that they are, almost without exception, far more sensitive to upload speeds than to download speeds.
+Devices all about upload
+
+, the smart speaker that together with the Amazon Echo is changing the way humans interact with computing devices and, through those devices, with their environment, is all about the upload. It needs to upload raw human voices in real-time to its voice recognition servers, which convert the voices into actions that are transmitted back to the speaker.
+download almost nothing, but they upload a constant high-definition video stream to Nest's servers, which analyse the images to see if any strangers have come into their field of view.
+Likewise,  doesn't need to download anything when someone presses the doorbell, but it does need to upload a live video stream, in real time, so the householder can open an app on her or his phone and see who is at the door.
+None of this stuff works when upload speeds are poor.
+
+Google Home either reports that the internet connection is too unreliable for it to understand what was just said, or it comes back with the error message "Something went wrong".
+Nest's cameras can scale back their upload requirements somewhat, but eventually they break, too. Ring's doorbell winds up with a long delay before the video appears on the phone, by which time the visitor may well have given up.
+Stifling smart homes
+
+All of which is to say, if the smart home or the Internet of Things ever takes off, Mr Turnbull's NBN, or at least the parts of it where upload speeds are crippled by the use of copper wiring rather than fibre optic cabling, will be found sorely wanting.
+
+According to Mark Gregory, associate professor in network engineering at Melbourne's RMIT, says a crucial requirement for getting vast numbers of IoT devices onto 5G wireless networks will be tiny, short-range 5G "femtocells" that offload wireless traffic onto the fixed broadband network.
+But the femtocells need fibre connections, not copper, which can't possibly upload fast enough nor with low enough latency.
+Though of course, if nothing is done to remedy the rollout of the NBN, if the copper isn't replaced by fibre on a wide scale as per the original design before Mr Turnbull turned the technology into his political plaything, the Internet of Things may never really take off here.
+Who on earth would buy an internet doorbell that doesn't tell you who's at the door till after they've left?
+
+You'd have to be a ding dong.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mark Gregory</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Echo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>7</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull's NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IoT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's RMIT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HFC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Turnbull</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull's NBN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hybrid Fibre Coax</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

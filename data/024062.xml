@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651446330279662120</docid>
+  <date>07/08/2017</date>
+  <time>18:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/08/04/11/vic-man-charged-over-murder-of-24-year-old</url>
+  <title>Vic man charged over murder of 24-year-old</title>
+  <content>
+A 35-year-old Victorian man is due to appear in court charged over the death of a 24-year-old man in West Footscray.
+The man, who is of no fixed address, has been charged with one count of murder over the incident on Saturday night.
+He faced an out-of-session court hearing and was remanded in custody to appear in Melbourne Magistrates' Court on Tuesday.
+A 31-year-old Brunswick woman who had been interviewed by investigators was released pending further inquiries.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Brunswick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West Footscray</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

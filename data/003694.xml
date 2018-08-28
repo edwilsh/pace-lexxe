@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404712045921289</docid>
+  <date>01/08/2017</date>
+  <time>00:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/game-of-thrones-content-believed-stolen-hbo-data-hack/8762624</url>
+  <title>Game of Thrones content reportedly stolen in HBO data hack</title>
+  <content>
+Related Story:
+
+Related Story:
+
+US cable channel HBO said hackers had stolen upcoming programming, and Entertainment Weekly reported that the theft included a script for an unaired episode of the hit fantasy show Game of Thrones.
+HBO declined to comment on the specific programming stolen in the hack.
+"As most of you have probably heard by now, there has been a cyber incident directed at the company which has resulted in some stolen proprietary information, including some of our programming," HBO chairman Richard Plepler wrote in a message to employees, which the company shared with reporters.
+The company declined to comment on reports that unbroadcast episodes and scripts were among the data hacked, citing an "ongoing investigation" by unspecified law enforcement officials.
+Entertainment Weekly reported that hackers stole 1.5 terabytes of data and had already posted online unbroadcast episodes of Ballers and Room 104, along with "a script or treatment" for next week's episode of Game of Thrones.
+Reuters also received an e-mail on Sunday from a person claiming to have stolen HBO data, including Game of Thrones.
+The show is now in its seventh season and will wrap up with an eighth season.
+Reuters
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Room 104</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HBO</name>
+    <count>5</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Entertainment Weekly</name>
+    <count>2</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>Game of Thrones</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Richard Plepler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reuters</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

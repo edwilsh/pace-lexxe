@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407937566418825</docid>
+  <date>01/08/2017</date>
+  <time>13:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/brand/rear-window/lachlan-murdoch-makes-a-cameo-at-global-hq-20170801-gxn2zf</url>
+  <title>Lachlan Murdoch makes a cameo at Global HQ</title>
+  <content>
+What's going on at News Corp? That's the question buzzing about town at the moment with heir apparent Lachlan Murdoch back in town and rumours swirling of something big going down.
+Murdoch jnr was spotted exiting the private dining room at Global HQ in Sydney on Tuesday lunch time, closely followed by Chris Dore, the editor of his Sydney tabloid, The Daily Telegraph.
+Whatever could they have been chatting about? The list of possibilities is endless - with imminent/not-so-imminent media reform and Lachie's play for Channel Ten but two items that could have been discussed over skirt steak and horseradish. We'll keep digging.
+Also spotted chowing down at Rockpool were the Qantas/ARU wonder-twin pairing of Olivia Wirth and Bill Pulver. The current Wallabie-Qantas sponsorship deal expires in 2019. Probably too early for that conversation to be taking place - we'll write it off then as a friendly catch-up.
+
+Meanwhile, down south-aways, the Naked CEO himself, Alex Malley, was spied at a breakfast meeting at the Docklands end of Collins Street, close to the offices of KPMG and several other law firms. Alas, our spies didn't quite make out who he was talking to. Maybe a Centrelink advisor?
+</content>
+  <sindexList>
+  <sindex>
+    <name>Centrelink</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chris Dore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bill Pulver</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Global HQ</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>News Corp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockpool</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Murdoch</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Qantas/ARU</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Olivia Wirth</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Channel Ten</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Collins Street</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wallabie-Qantas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alex Malley</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>KPMG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lachlan Murdoch</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Naked CEO</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Daily Telegraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lachie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

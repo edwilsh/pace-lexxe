@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416308457838400</docid>
+  <date>02/08/2017</date>
+  <time>21:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/07/39/roof-of-melbourne-train-catches-fire</url>
+  <title>Roof of Melbourne train catches fire</title>
+  <content>
+The roof of a Melbourne train has caught fire and forced passengers to rush to the back carriage.
+A witness told AAP she saw the train's connection to the power lines exploding and the top of the first carriage catch fire on Thursday morning.
+Passengers inside rushed to the third carriage to escape the blaze, which is at this stage contained to the roof.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

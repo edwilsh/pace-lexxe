@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418546135836247</docid>
+  <date>03/08/2017</date>
+  <time>06:30</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/heres-another-indication-that-the-global-economy-is-improving-2017-8</url>
+  <title>Here's another indication that the global economy is improving</title>
+  <content>
+There have been plenty of good news stories on the global economy in 2017. Here's another.
+
+It's from the International Air Transport Association (IATA), and shows annual growth in freight tonne kilometers (FTKs) by region over the first half of the year. (FTKs are calculated by multiplying cargo weight by kilometers traveled.)
+
+Pretty impressive chart, right?
+
+At 10.4%, annualised growth in the first half of the year was the strongest since 2010, coinciding with the recovery from the global financial crisis.
+
+An impressive stat, bolstered by the fact that FTKs increased in all geographic regions, led by Europe and Asia-Pacific, which contributed two-thirds to total global growth.
+
+IATA said that available freight tonne kilometres (AFTKs) - air freight capacity - rose by a smaller 3.6% over the first half of the year.
+
+So global air freight grew at the fastest pace since 2010 in the first half of the year, outstripping supply growth, with all regions contributing to the improvement.
+
+That's yet another indicator that the global economy is on the mend.
+
+IATA agrees.
+
+"The resurgence in air freight demand over the past year or so has been set against a stronger global economic and trade backdrop," it says.
+
+"This is particularly evident in signs of growing order books for global manufacturers.
+
+"Indeed, the new export orders component of the  remains close to a six-year high and crucially above the notional 50-mark that indicates rising orders."
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>International Air Transport Association</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Asia Pacific</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>FTKs</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IATA</name>
+    <count>3</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>AFTKs</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

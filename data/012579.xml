@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418838193617809</docid>
+  <date>03/08/2017</date>
+  <time>07:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/equity-markets/whats-behind-the-neverending-rise-of-the-dow-jones-industrial-average-20170803-gxobws</url>
+  <title>What's behind the never-ending rise of the Dow Jones Industrial Average?</title>
+  <content>
+Talk to any professional investor about the significance of the Dow Jones Industrial Average reaching a record high 22,000, and they'll probably tell you it's no big deal.
+But there is a level of frustration that since Donald Trump was elected President of the United States, the Wall Street blue-chip index has risen 20 per cent compared with a 9 per cent gain in the major S&P ASX 200 Index over the same time.
+Of more concern to local investors since the beginning of June has been the whip-saw, computer-led trading that has seen the index go through the 5700 level 12 times.
+So far in 2017 there have been 32 record highs for the Dow, so it does wear thin after a while, and the law of compound interest means that at some stage it will reach levels such as 36,000 and beyond.
+
+It's just a matter of time and, of course, depends on growth, earnings and dividends.
+
+More interesting is the reason why the
+It's just the sort of angst analysts were warning about in the lead-up to the November 2016 election, and had them forecasting a Trump win would be bad for shares.
+Of course, that never happened and it didn't take long before Wall Street realised Trump's policies of tax cuts and infrastructure spending were going to be good for shares but bad for bonds.
+In contrast to the move up in the Dow when Trump was elected in November, sharemarket investors have now really given up hope for any of the planned tax cuts and infrastructure spending going through. But the Dow keeps heading higher.
+
+Ironically enough, it's currency traders who keep selling the US dollar - in reaction to all the political turmoil and the likely failure of those grand plans - who are now helping the Dow.
+There are only 30 stocks in the Dow, and it has more than it's fair share of companies that export goods - think Boeing, Caterpillar and Microsoft - so a lower US dollar helps them.
+Trump turmoil
+
+Boeing has been one of the best performers over the past few weeks and since Trump was elected the gain in the S&P 500 hasn't quite matched that of the Dow, although an increase of 16 per cent is still impressive.
+
+The US dollar index, like the bond market, is falling and reacting more to the Trump turmoil than the sharemarket is.
+When Trump was elected, the US dollar was buying about €0.90, and not long after as much as €0.96, but now one greenback buys €0.84.
+At the same time, the US dollar index has dropped to a 15-month low, while the yield on the 10-year US Treasury bond has fallen back to 2.25 per cent from a post-election high of 2.6 per cent.
+The fall in borrowing costs has also been aided by the Federal Reserve, which now appears to be holding rates steady rather then raising them any time soon.
+
+Although that 10-year yield is still higher than the 1.86 per cent at which those bonds were changing hands when Trump was elected, the recent fall is due to the political turmoil.
+Remember also that it was the US dollar's rally straight after Trump's election that sparked concerns it would cause havoc in financial markets. Not now.
+Also helping the Dow is the flow of money into shares from passive investors, as well as US corporate earnings and the global economy that is still growing faster than many expected.
+The June quarter reporting season in the US has been a good one, with almost 300 companies now reporting their latest numbers.
+
+So far, almost 80 per cent of them have beaten earnings expectations and 75 per cent have reported better revenue than expected.
+The key 22,000 level also shows just how far the bull market has come. When the rally began in March 2009 the Dow was more than 15,000 points below where it stands today.
+If the index makes the same sort of gain it did when Barack Obama was president, then the Dow will be closer to 50,000 points.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Federal Reserve</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 2009</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>November 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Caterpillar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Boeing</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US Treasuries</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>9</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow Jones Industrial Average</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>P/ASX 200 Index</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>9</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>President of the United</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Barack Obama</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

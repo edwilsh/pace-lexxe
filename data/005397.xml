@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406348428486442</docid>
+  <date>01/08/2017</date>
+  <time>07:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/truckie-faces-trial-over-highway-cyclist-death/3207516/</url>
+  <title>Truckie faces trial over highway cyclist death</title>
+  <content>
+A TRUCK driver who is charged with causing the death a cyclist on the Warrego Hwy told police he tried to steer away from the bike in the moments leading up to the impact, a court has heard.
+
+Aaron Richard Sutton was driving a large truck that collided with Malcolm Kamp's bicycle near the Kholo exit in June 2011.
+
+Mr Kamp died at the scene as a result of his injuries.
+
+Day one of a trial in Ipswich District Court today heard Mr Kamp was riding on the fog line on the highway when the truck hit him.
+
+Crown prosecutor Noel Needham said it was the Crown case Mr Sutton did not leave enough space when he attempted to overtake the bicycle or he did not wait for a safe time to do so.
+
+The court heard Mr Sutton told police he "believed he started to move over but it must have been too late".
+
+Mr Sutton pleaded not guilty to one count of dangerous operation of a motor vehicle causing death.
+
+The trial continues.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Crown</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kholo</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Kamp</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Warrego Hwy</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ipswich District Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Noel Needham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Sutton</name>
+    <count>3</count>
+    <score>-18</score>
+  </sindex>
+  <sindex>
+    <name>Aaron Richard Sutton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2011</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Kamp</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412365677780516</docid>
+  <date>02/08/2017</date>
+  <time>06:31</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/finance/business/breaking-news/aldi-enters-tv-cooking-shows-battleground/news-story/8c97ff474388fea4eac7ddb1dbf77827</url>
+  <title>Aldi enters TV cooking shows battleground</title>
+  <content>
+Simone ZiaziarisAustralian Associated Press
+
+Share
+
+Supermarket chain Aldi has signed up to its first TV cooking show sponsorship deal as the German retailer escalates its market share fight with local behemoths Coles and Woolworths.
+Aldi will feature its pantry on Channel Seven's new production, Hell's Kitchen, hosted by celebrity chef Marco Pierre White.
+Mr White is a former guest judge on rival Ten Network program, MasterChef, which has had a partnership deal for the past nine years with Coles.
+Aldi's deal with Hell's Kitchen follows its sponsorship of Nine Network renovation show, The Block, in 2015.
+The discount retailer has stepped up its media strategy, with new a branding campaign launched in May adding to sponsorship of kids' soccer.
+In May Aldi said it had almost 10 per cent of Australia's $80 billion plus supermarket sector.
+In the past 12 months, Aldi has also increased its range by about 100 new products and spent more than $75 million on lowering grocery prices during the first months of 2017.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australia's $80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May Aldi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Simone ZiaziarisAustralian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Masterchef</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woolworths</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coles</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ten Network</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Aldi</name>
+    <count>5</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mr White</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Channel Seven</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hell's Kitchen</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marco Pierre White</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

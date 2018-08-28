@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423734456432336</docid>
+  <date>04/08/2017</date>
+  <time>02:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/east/thieves-wearing-plastic-bags-on-their-shoes-force-their-way-into-a-house-in-oakleigh-east/news-story/da8c6de68ddc5074e8218422026f16e6</url>
+  <title>Thieves on the run after burglary</title>
+  <content>
+THIEVES wearing plastic bags on their shoes are on the run after they broke into a house in Oakleigh East.
+Detectives are looking for two men and an unknown driver who forced their way into a Dublin St house on August 1, between 11am and noon.
+CCTV footage shows two men getting out of a silver Audi A5 and breaking through the front door of the house.
+The thieves took off with several items, including watches and clothing.
+Police described the car as possibly being a 2010 model, with black registration plates which had white numbers and letters, the first of which was A.
+Both of the men are described as being aged in their 20s to 30s, about 180cm, with a medium build and short hair.
+One was wearing a black jacket, black pants, black-patterned hat and a black glove on one hand and red glove on the other.
+He also wore a grey bandana covering his face, as well as grey plastic bags on both shoes.
+The second man was wearing a red Adidas jumper with a blue drawstring pulled over his face, black beanie, black gloves and dark Nike shoes with material covering them.
+Details of the third person who was driving the car were unknown.
+Anyone with information is urged to phone  on 1800 333 000.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Nike</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dublin St</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Audi A5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CCTV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adidas</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Oakleigh East</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405579629328280</docid>
+  <date>01/08/2017</date>
+  <time>04:11</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/queensland/hot-days-and-cold-nights-send-temperatures-crazy/news-story/115f25d1147469fedeed6875282e3696</url>
+  <title>State's weather records tumble</title>
+  <content>
+QUEENSLAND has recorded its hottest July on record despite the state also shivering through the coldest day in two years.
+Bureau of Meteorology figures released on Tuesday show the mean temperature across the state was 2.65C above the long-term average of 15.94 per cent.
+Maximum average temperatures were also more than 3 per cent above the average of 22.95C, with more than 40 weather stations in coastal and outback regions topping or equalling their record mean maximum temperature.
+Mackay and St George broke warm-weather records, with the mercury in St George reaching 28.7C on July 30 - well above the July average of 19.5C.
+The minimum temperatures across the state were generally above average but Brisbane and Warwick in the southeast recorded their lowest temperature since 2015 on July 24.
+Meteorologist David Crock says high temperatures should continue for the rest of winter and well into spring.
+"The three-month climate outlook from August until October certainly suggests that warmer-than-average conditions will continue," he told AAP. However, he said it was too early to tell if Queensland was in for a scorching summer.
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>July 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mackay</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>St George</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Warwick</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>David Crock</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

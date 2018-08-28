@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405940406586497</docid>
+  <date>01/08/2017</date>
+  <time>05:35</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/research-finds-disturbing-suicide-search-trends-following-release-of-netflixs-13-reasons-why/</url>
+  <title>Research Finds Disturbing Suicide Search Trends Following Release Of Netflix's 13 Reasons Why</title>
+  <content>
+13 Reasons Why, Netflix's recent drama about the suicide of a teen, was a big hit when it premiered in March, but it also inspired fierce debate among critics about whether its depiction of suicide was irresponsible. Now, new research shows a significant uptick in suicide-related searches after the show premiered, a finding that one expert says confirms his worst fears.
+
+Image: Netflix
+
+The research letter was published on Monday in the . John W. Ayers, a computational epidemiologist based at San Diego State University, spearheaded the research after learning about the controversy surrounding the show. He found more than 600,000 news articles and more than 11 million tweets about 13 Reasons Why during the three weeks after the show's premiere. "There was a tremendous amount of debate going on all based on deeply personal experiences that wasn't going anywhere," Ayers told Wired. He hoped to be able to deliver some hard data about the show's influence.
+
+13 Reasons Why tells the story of a high school student who has left behind a series of cassette tapes explaining how various people in her life were responsible for her suicide. The show was  for not following the World Health Organisation's  for responsible depictions of suicide, as well as its lack of discussion about mental illness. Critics worried that its treatment of the subject would do more harm than good for young and vulnerable viewers.
+
+Ayers and his team decided to take a look at Google search data relating to suicide in the weeks following 13 Reasons Why's premiere. The researchers gathered  between the show's March 31 premiere date and April 18. Former NFL star Aaron Hernandez's suicide occurred on April 19, so they decided to make that the cut off date. From the :
+
+To create a dataset of average searches relating to suicide, the team pulled data from January 15 to March 30 and used an autoregressive integrated moving average () algorithm to create a forecast of expected searches. The discrepancy between expected and actual suicide-related searches following the show's premiere was startling.
+
+On average, the searches were 19 per cent higher than forecast model. On one day, April 18, the searches were 44 per cent higher. But the volume wasn't the most concerning part for Ayers. He found that the increase in searches that related to suicidal ideation were the . "How to commit suicide" showed a 26 per cent increase, while "suicide songs" was over 50 per cent higher than the forecast.
+
+CDC info on its free  of deaths by cause only goes through 2015, so Ayers isn't able to definitively show whether or not suicides increased after the show's release. But previous  has shown a correlation between "searches for explicitly suicidal terms with conventional measures of self-reported suicide risk in estimating completed suicides".
+
+Still, the show's creators and defenders have argued that the show could raise awareness and help prevent suicide. The team's data did find upticks in searches for "suicide hotline number" (21 per cent) and "suicide prevention" (23 per cent).
+
+This research isn't going to resolve the debate about Netflix's approach to 13 Reasons Why. Ayers tells  that he believes the show should be taken off the air, because it's simply "not worth the risk". That's unlikely to happen, as a  is already in production and scheduled for release in 2018.
+
+But the data is something for its creators to take into account as they work on the new episodes. The streaming service  a trigger warning and information for suicide prevention in May. Now that the producers have received so much feedback, they could make a concerted effort to follow the WHO's , and bring in professional medical experts to help make the show as responsible as possible. Some of the data indicates that 13 Reasons Why may have helped some viewers. That's all more reason to get it right the second time around.
+
+If depression is affecting you or someone you know, call  on 13 11 14. A list of international suicide hotlines can be found .
+
+[ via , ]
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Diego State University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>World Health Organisation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NFL</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>John W. Ayers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 15</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ayers</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>March 31</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 30</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 18</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April 19</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Reasons Why</name>
+    <count>7</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Aaron Hernandez</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netflix</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Research Finds Disturbing Suicide Search Trends Following Release Of Netflix</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>CDC</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

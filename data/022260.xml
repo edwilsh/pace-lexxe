@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443152003804864</docid>
+  <date>07/08/2017</date>
+  <time>05:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/news/breaking-news/body-found-on-rocks-at-tasmanian-bay/news-story/39b88b0702b02a182609dc7793232da6</url>
+  <title>Body found on rocks at Tasmanian bay</title>
+  <content>
+A man's body has been discovered on rocks at a bay south of Hobart.
+Police say a member of the public made the grisly find at Abels Bay in Tasmania's south on Monday.
+They believe the body belongs to a man aged in his 40s.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hobart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Abels Bay</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tasmanian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

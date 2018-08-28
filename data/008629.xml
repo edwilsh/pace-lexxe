@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412408627454366</docid>
+  <date>02/08/2017</date>
+  <time>06:41</time>
+  <isTopNews>true</isTopNews>
+  <source>Sydney Morning Herald</source>
+  <url>http://www.smh.com.au/nsw/sydney-traffic-truck-rollover-causes-chaos-on-eastern-distributor-and-southern-cross-drive-20170802-gxnvk9.html</url>
+  <title>Sydney traffic: Truck rollover causes chaos on Eastern Distributor and Southern Cross Drive</title>
+  <content>
+Drivers heading out of the city are in for an afternoon of heavy traffic after a truck rolled over on Southern Cross Drive.
+All southbound lanes were closed after the incident near Gardeners Road at 2.15pm but two have since reopened.Photo: livetraffic.com
+One lane remains closed and "heavy" traffic is backed up to the beginning of the Eastern Distributor, Transport for NSW said. 
+Drivers have been advised to avoid the area if possible and expect "significant delays" of up to 30 minutes if heading south.
+
+KENSINGTON: All lanes open on Eastern Distributor, lanes 2 & 3 southbound have re-opened on Southern Cross Dr with lane 1 still closed.
+
+Buses in Randwick and Kensington are delayed up to 25 minutes.
+No one is believed to have been hurt. Police are investigating.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Kensington</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Randwick</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern Cross Drive</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Southern Cross Dr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gardeners Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Distributor</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

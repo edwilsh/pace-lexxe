@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425847580376185</docid>
+  <date>04/08/2017</date>
+  <time>10:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/google-wants-to-use-artificial-intelligence-to-hide-crashing-android-apps-on-the-play-store-2017-8</url>
+  <title>Google wants to use artificial intelligence to hide crashing Android apps on the Play Store</title>
+  <content>
+According  (which we first saw ), Google is planning to use machine learning algorithms to analyse "performance data, user engagement, and user ratings" on the Play Store's apps, and downgrade buggy, crashing ones to stop them from rising to the top of listings.
+
+This means that the most visible apps in the Play Store will be less likely to crash, behave weirdly, or even ask for more permissions than they should.
+
+The search giant had already put artificial intelligence algorithms in place to , but it's now acting upon its findings to actually curate Android's digital store.
+
+Two months ago, Google also , which expands on what was known as the Play Store's "Editor's Choice". There are now several human-curated categories of rotating apps that Googlers tweak every now and then to highlight apps that they think are good.
+
+The only problem the new machine learning-driven algorithms have is that, because they act somewhat independently, there is no way for developers to know whether their app is getting downgraded and why.
+
+Get the latest Google stock price
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Googler</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Play Store</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Editor's Choice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

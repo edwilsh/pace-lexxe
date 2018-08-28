@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405227442005321</docid>
+  <date>01/08/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/millennium-makes-breakthrough-nullagine-gold-project/</url>
+  <title>Millennium makes 'breakthrough' at Nullagine gold project - Australian Mining</title>
+  <content>
+Latest News
+
+Millennium Minerals says it has achieved a key breakthrough in its strategy to grow the production profile and mine life of the Nullagine gold project in Western Australia.
+An expansion study has identified economic advantages of an alternate processing route for Nullagine's mineral resource of more than 850,000 ounces, according to Millennium.
+The new processing solution involves integrating a flotation circuit capable of treating sulphide ores through Millennium's 2 million tonne per annum (Mtpa) carbon-in-leach (CIL) plant.
+Millennium's original plan involved building a standalone flotation circuit capable of processing 0.5Mtpa of sulphide ore.
+The company reported that key outcomes from the study included recoveries of up to 90 per cent through conventional CIL treatment of fresh ore from at least two deposits, and recoveries averaging 89 per cent using conventional sulphide flotation techniques.
+Millennium chief executive Peter Cash said the processing results amounted to a significant breakthrough for the company, with the potential to deliver a step-change in its growth profile at Nullagine.
+He believes the study helps establish a pathway for developing Nullagine into an operation producing more than 100,000 ounces a year, with a five-year mine life.
+"The identification of an integrated processing solution is a major step forward, which puts in place the most important foundation required to complete the expansion study," Cash said.
+"The ability to process any ore type at Nullagine in the future as and when our mining schedule determines will give us unparalleled ability to exploit the vast resource inventory across the project."
+Millennium estimated the plant modification would cost $40-46 million.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter Cash</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Millennium's 2</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Millennium</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mtpa</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Millennium Minerals</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Nullagine</name>
+    <count>6</count>
+    <score>11</score>
+  </sindex>
+  <sindex>
+    <name>CIL</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

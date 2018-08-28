@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417343544974468</docid>
+  <date>03/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/03/11/46/ibrahim-sister-avoids-jail-over-gun-plot</url>
+  <title>Ibrahim sister avoids jail over gun plot</title>
+  <content>
+The sister of former bikie boss Sam Ibrahim, who admitted plotting with her de facto partner to supply guns, has avoided jail time for her crime.
+Jazz Dior, 46, and Elvis Mileski, 44, on Thursday were sentenced to 18-month jail terms to be served by way of an intensive correction orders in the community.
+The couple had pleaded guilty in the District Court in Sydney to one charge of conspiracy with each other to unlawfully supply firearms in early 2014.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sam Ibrahim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jazz Dior, 46</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Elvis Mileski, 44</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>District Court</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Ibrahim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411377835288265</docid>
+  <date>02/08/2017</date>
+  <time>02:41</time>
+  <isTopNews>false</isTopNews>
+  <source>Life Hacker</source>
+  <url>https://www.lifehacker.com.au/2017/08/looking-at-the-big-megatrends-in-technology/</url>
+  <title>Looking At The Big Megatrends In Technology</title>
+  <content>
+This afternoon, I'll be presenting at the Australian Institute of Superannuation Trustees' Ideas Exchange conference. It's an interesting gig as my job will be to help a bunch of non-IT people navigate the rapidly changing world of technology. With so much happening, I decided that the best way to help them was to strip away the minutiae of seemingly daily updates and get to the big trends influencing the way businesses work today.
+
+Megatrend 1 - Always on and everywhere
+
+The concepts of "business hours" and "acceptable outages" are disappearing.
+
+When we plan our technology investments, we need to design them to be available and accessible 24 hours per day, seven days per week every day of the year. And those systems need to be accessible wherever people are.
+
+Megatrend 2 - You can't assume the end point
+
+There was a time where you could design systems and businesses processes on the assumption you knew what kind of device end users would have.
+
+With BYOD and CYOD (Choose your own Device), people are using anything from a 4-inch smartphone to a big-screen TV as the display interface when they work. Keyboards and mice are giving way to multi-touch interfaces and applications could need to be accessed from Windows, macOS, Android, iOS, or Chrome OS.
+
+When choosing new systems, it's important to make them as platform-independent as possible.
+
+Megatrend 3 - DIY is dying
+
+While we often talk about the cloud, what we are really are thinking about is replacing on-premises technology with an outsourced provider who delivers the application and data over the internet.
+
+Most businesses have neither the expertise nor finances to invest in servers and networks. The ability to use cloud services, whether they are SaaS, PaaS or IaaS (my theory is that almost all cloud services can be categorised into these three groups despite what the hype and marketing machines say), means we no longer need to buy or build our own software and hardware.
+
+This will drive the need for some new skills such as contract management and integration between different providers.
+
+It also means the way applications are developed and delivered is changing. While the move from one application per server is well and truly done, having given way to virtualisation, we are now seeing the disintegration of the server operating system into containers that only exist for as long as they are needed.
+
+And those containers are being delivered by cloud service providers.
+
+Megatrend 4 - Engagement is critical
+
+We often think about the influence of social networks but what we are really thinking about, in business terms, is engagement.
+
+Customers want to connect with the businesses they interact with in new ways. That means modern businesses need to engage in social media. That's more than having a Facebook page and Twitter account. It's about providing chat (potentially with a chatbot) and other forms of online communication.
+
+For staff, the days of everyone working independently are dead. When investing in new productivity applications, business need to explore tools that allow staff to interact in real-time and when they are in different locations.
+
+The people that need to communicate and collaborate, whether they are your staff or customers could be anywhere in the world working in their own time zone.
+
+Megatrend 5 - Privacy and security are core business for everyone
+
+There are no excuses. If you hold any customer data that could be classified as PII you are on the hook with the new mandatory breach notification laws that come into effect next year. And, if you work in other countries you'll be subject to their laws when it comes to protecting information and data sovereignty.
+
+It's easy to be distracted by major security events that hit the news. WannaCry and NotPetya are just the latest chapters in the story.
+
+But when you distill those incidents down, there are a number of critical activities businesses can do to ensure they are doing all that is reasonable to protect data.
+
+The  is a good place to start. I'd also add that auditing your systems to know what you are storing is critical so that appropriate processes and plans can be put into place to protect that data.
+
+Are there other big picture things I should cover?
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PaaS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NotPetya</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Big Megatrends In Technology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>macOS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iOS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WannaCry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chrome OS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BYOD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CYOD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PII</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Institute of Superannuation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IaaS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>DIY</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Trustees' Ideas Exchange</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

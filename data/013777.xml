@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651421419469017836</docid>
+  <date>03/08/2017</date>
+  <time>17:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/03/32/vic-priest-due-in-court-over-child-porn</url>
+  <title>Vic priest due in court over child porn</title>
+  <content>
+An Anglican parish priest is expected to face a Melbourne court on child pornography charges after police raided a church and house.
+The 52-year-old was arrested on Thursday when officers searched a Sunshine church and house, part of a 12-month investigation by the Joint Anti Child Exploitation Team.
+He was charged with transmitting child pornography and related offences and bailed to appear in Melbourne Magistrates' Court on Friday
+The Anglican Diocese of Melbourne on Thursday confirmed the man arrested was a priest and said he had been "stood down by the archbishop with immediate effect".
+"Archbishop Philip Freier said the church abhorred the abuse and exploitation of children and would co-operate fully with police," a church statement said.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Joint Anti Child Exploitation Team</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anglican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Magistrates' Court</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anglican Diocese of Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Archbishop Philip Freier</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  </sindexList>
+</snippet>

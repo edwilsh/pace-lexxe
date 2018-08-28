@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413821671722440</docid>
+  <date>02/08/2017</date>
+  <time>12:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Townsville Bulletin</source>
+  <url>http://www.townsvillebulletin.com.au/news/breaking-news/vic-tyre-yard-ignores-fire-risk-warnings/news-story/2df8a5d5a32115fdefaf20b1659bfc8a</url>
+  <title>Vic tyre yard ignores fire risk warnings</title>
+  <content>
+A Victorian tyre yard deemed a "very high fire risk" may be taken over by authorities after its owners repeatedly failed to reduce the size of its massive stockpile.
+The CFA on Wednesday said the tyre yard in Stawell, in the state's west, had not complied with its notices to act and reduce the fire risk.
+The fire authority says it poses a high risk to community safety.
+It has also been issued three notices by the Environment Protection Authority, which have also been ignored, requiring it to reduce the stockpile.
+Both agencies say they are disappointed the yard's owners have taken no real steps to manage the site and have given them seven days to make changes or the site will be taken over.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Stawell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vic</name>
+    <count>1</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Environment Protection Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CFA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

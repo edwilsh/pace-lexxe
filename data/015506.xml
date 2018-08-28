@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424726593891948</docid>
+  <date>04/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/16/22/man-charged-over-sydney-police-pursuits</url>
+  <title>Man charged over Sydney police pursuits</title>
+  <content>
+A man allegedly crashed into a police car during a pursuit in Sydney's east.
+Police say the driver crashed into the back of the stationery vehicle in the early hours of Friday morning after police tried to pull him over for travelling 55hm/h in a 40km/h zone.
+The 43-year-old was arrested at Maroubra after police deployed road spikes, and has since been charged with two counts of police pursuit, one count of driving in a dangerous manner and one count of resisting arrest.
+The Botany man was refused bail to appear at Parramatta Local Court on Friday.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Maroubra</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Botany</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Parramatta Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

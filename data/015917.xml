@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424425946176812</docid>
+  <date>04/08/2017</date>
+  <time>05:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/04/15/10/men-accused-of-kidnap-attempted-murder</url>
+  <title>Men accused of kidnap, attempted murder</title>
+  <content>
+A 35-year-old man is in a serious condition after he was allegedly kidnapped, put in the back of a ute and significantly burned.
+Police say he was with a 36-year-old man when they were both grabbed in northern NSW on July 23.
+However, the 36-year-old managed to escape by jumping from the moving ute and hiding in nearby bushland.
+About 7.30pm that night, a motorist noticed the 35-year-old and a spot fire on the side of the road, and a burnt-out white Holden Commodore utility was later found at the scene, police say.
+The man, who had significant burns, was airlifted to Royal Brisbane Hospital where he remains in a serious condition.
+Police investigating the incident this week charged a 29-year-old man and a 28-year-old man.
+They say further arrests are expected.
+
+Related Articles
+
+Both men were charged with attempted murder and kidnapping.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 23</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Royal Brisbane Hospital</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Holden Commodore</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

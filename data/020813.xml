@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438882806263748</docid>
+  <date>06/08/2017</date>
+  <time>13:25</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/little-known-google-products-services-2017-7</url>
+  <title>6 Google products and services you never even knew existed</title>
+  <content>
+You likely use Google search and Google Maps on a regular basis, but there are a lot of products and services from the company that aren't as well known. Did you know you could take a virtual tour of the Met Museum in New York or explore the Milky Way from your desk? Here's a look at a few things you probably weren't aware of but will be happy to learn exist.
+
+Get the latest Google stock price
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Milky Way</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Map</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>New York</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Met Museum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411240396332391</docid>
+  <date>02/08/2017</date>
+  <time>02:09</time>
+  <isTopNews>true</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/australian-stocks-sensitive-to-currency-july-2017-8</url>
+  <title>These Australian stocks felt the impact of the rising dollar in July</title>
+  <content>
+The rise in the Aussie dollar over July weighed on some Australian stocks more than others.
+
+The AUD rose by around 4% in July alone and broke through US80 cents, taking its gains for the calendar year above 10%.
+
+"The stocks most negatively exposed to a sustained trending higher AUD are obviously contained within the global earners index," Morgan Stanley analysts said in a client note.
+
+The bank's global earners index monitors Australian stocks that source a large amount of income in overseas markets. The list includes Macquarie Bank, CSL and global insurer QBE.
+
+This chart shows how the global earners index under-performed in July:
+
+Looking at the broader ASX200, Morgan Stanley said that the health care sector fell by 7.5% in July after climbing by more than 20% in the six months to June.
+
+That led the market in the first half of the year, with the second-best performing industrials sector also falling by 3.1% in July.
+
+Those losses were offset by gains in two of the biggest sectors on the index - banks and miners.
+
+According to Morgan Stanley, banks rose by 0.64% across the month while the mining climbed by 0.77% as commodity prices rose in July.
+
+The big banks got a boost after the market assessed the bank regulator APRA's definition of "unquestionably strong" capital levels wouldn't mean having to raise more capital externally.
+
+The net effect of those gains against the falls in the global earners index, healthcare and industrial stocks was that the Australian market was little-changed in July.
+
+The ASX200 closed the month at 5,702.80, just down from 5,721 at the end of June.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QBE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ASX 200</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AUD</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>8</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CSL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

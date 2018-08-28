@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416179608817085</docid>
+  <date>02/08/2017</date>
+  <time>21:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4830121/how-fraudsters-are-stealing-more-from-us-than-ever/?cs=7</url>
+  <title>Online credit card fraud on the rise, accounting for 78 per cent of total card fraud in Australia</title>
+  <content>
+In every $1000, card fraud accounted for 74.7 cents. Photo: Jessica Shapiro
+
+There has been a massive increase in online credit card fraud, with transactions made using stolen card details hitting $417.6 million in 2016 more than doubling since 2011.
+Industry body Australian Payments Network has revealed that transactions made using stolen credit card details accounted for 78 per cent of more than $530 million in total netted by fraudsters last year.
+The 2016 Australian Payments Fraud Data Report also found a 13 per cent increase in card skimming fraud, executed through "ghost terminals," false terminals made to look like real card readers that are not connected to the payments network.
+For every $1000 spent on credit cards, fraud accounted for 74.7 cents, up from 66.9 cents in 2015 and 43.8 cents in 2012.
+Australian Payments Network chief executive officer Leila Fourie said the figures showed just how quickly perpetrators had followed Australian consumers to online platforms, where spending is now growing five times faster than traditional retail spending.
+"As Australia transitions towards even higher levels of online payments, customers and merchants need to increase security awareness," she said, adding that Australia compared favourably to Britain and US.
+"Australia is well-advanced in fraud prevention technology, thanks to the industry's leading investment in [chip technology], tokenisation and online customer authentication tools."
+Dr Fourie said "biometrics, geolocation and social media" could all be used in the roll-out of risk-based customer authentication.
+According to the report, card transaction activity increased by more than 10 per cent last year, to $714.5 billion, of which total fraud accounted for $534 million, or 0.074 per cent.
+It estimates that by 2020, only one-fifth of transactions will involve the input of card details in internet browsers, amid the growth of mobile wallets and sophisticated shopping carts.The figures follow last month's Reserve Bank announcement that card payments overtook cash for the first time in 2016, accounting for 52 per cent of all payments.
+Suzanne Steele, managing director of credit reporting agency Experian Australia, said it was more important than ever that the industry moved "from a culture of remediation to one of prevention".
+In the past year, Experian Australia screened more than 3300 fraud events worldwide every second.
+"To date, the strategies employed by many Australian banks and credit providers to combat fraud have placed emphasis on a reactive approach, identifying and blocking the weak points in the system that are allowing fraudsters to slip through the net."
+She said a purely reactive approach was no longer sufficient, as banks and credit providers prepared for the long-awaited implementation of the National Payments Platform in the next six months, which will see inter-bank transactions clear within a matter of seconds instead of days, removing "the luxury of 24 hours or more to stop fraudulent transactions."
+"Fraud prevention approaches must be holistic, utilising detection and prevention technologies that enable businesses to be nimble and reactive to emerging fraud threats, without impacting genuine customer experience," said Ms Steele.
+According to Australian Payments Network, recent increases in card fraud have been driven by identity theft and large scale data breaches, through malware or phishing attacks, while the widespread adoption of chip technology has made it harder for criminals to operate in the face to face environment.
+The report recommended merchants collect payments through a fully hosted payment gateway provider, avoid shipping re-saleable goods to non-residential addresses, like P.O. boxes and hotel rooms, and only make refunds to the card used to pay for the goods.
+
+Consumers can safeguard their online transactions by keeping computer security software up to date, reporting suspicious statement transactions to their card provider and only providing their card details on secure websites, which sport the "locked padlock" symbol.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Experian Australia</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Leila Fourie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Steele</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Payments Network</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>4</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>P.O</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>National Payments Platform</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australian Payments Fraud Data Report</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jessica Shapiro</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dr Fourie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Suzanne Steele</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

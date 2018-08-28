@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404974038930675</docid>
+  <date>01/08/2017</date>
+  <time>01:50</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/house-prices-rise-again-in-july-melbourne-posts-3-per-cent-uptick-20170731-gxmp42</url>
+  <title>House prices rise again in July, Melbourne posts 3 per cent uptick</title>
+  <content>
+Melbourne house prices have risen 3.1 per cent in July driving up most of the 1.5 per cent increase in house prices across capital cities for for the month.
+Corelogic's latest hedonic home value index shows Sydney's house prices rose 1.4 per cent, Canberra's prices shot up 2.4 per cent but Brisbane fell 0.6 per cent.
+"The recent bounce in capital gains may be partially due to a recovery from the seasonal slump in values recorded in April and May," head of research Tim Lawless said.
+"However, other factors, such as stamp duty concessions for first home buyers in New South Wales and Victoria, may also be having a positive impact on market demand." 
+
+Corelogic
+
+"It's still too early to measure the effect of first-home buyer incentives, which went live on July 1. However historically, the first-time buyer segment has been very responsive to stimulus measures."
+
+, driven mostly by strong population growth, Mr Lawless said. Melbourne has recorded over 70 per cent auction clearance rates, against Sydney's sub-70 per cent.
+"Melbourne appears to be benefiting from consistently high population growth which is creating strong demand for housing, as well as consistently high jobs growth and more affordable housing options relative to Sydney," he said.
+In Canberra, the strong 2.4 per cent rise was consistent across houses and apartments and the reverse is true for Brisbane. Both houses and unit prices fell by 0.6 per cent in Brisbane.
+Broader cooling
+
+While June and July posted house price rises, looking at broader quarterly and yearly trends, house prices have already started to cool, Corelogic said.
+The rolling quarterly pace of capital gains across the combined capitals has fallen to 2.2 per cent at the end of July, from 3.6 per cent in February.
+Sydney's quarterly growth to the end June has dropped to 2.2 per cent, from 5 per cent earlier this year, while Melbourne's quarterly rises have eased to 4.2 per cent from 5.5 per cent.
+The Australian Prudential Regulation Authority's tightening of investor loans will take some time to take effect, as seen in the last round of regulatory changes in 2014, Corelogic said.
+
+It took nine to 12 months before the market responded to APRA's 10 per cent cap on banks' investor loan growth.
+The latest  were implemented at the end of March.
+to step up further tightening at this stage, Mr Lawless said.
+Credit aggregates from the Reserve Bank showed promising signs of slowing investor loan growth prompting regulators to stay in the "wait and watch" mode.
+
+In the year to date, Sydney house prices have risen 12.4 per cent while Melbourne has risen nearly 16 per cent. While high, they are lower than year to date numbers for Sydney in 2015, which rose as high as 18 per cent.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>New South Wales</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tim Lawless</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Lawless</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>APRA's 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>6</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Canberra</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

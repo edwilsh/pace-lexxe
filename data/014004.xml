@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422888347860966</docid>
+  <date>03/08/2017</date>
+  <time>23:21</time>
+  <isTopNews>true</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/tanker-catches-fire-paralyses-m1-through-brisbane/3208684/</url>
+  <title>Tanker catches fire, paralyses M1 through Brisbane</title>
+  <content>
+POLICE are urging commuters to stay clear of the M1 at Loganholme after an oil tanker carrying a "volatile substance" reportedly burst into flames.
+
+Emergency services were called to the incident about 8.40am and it is understood one firecrew is currently fight the blaze with three more on the way.
+
+The extent of the fire remains unknown, but police have warned commuters to avoid the southbound lanes.
+
+"The southbound lanes are currently closed, with traffic being diverted off at the Bryant Road exit," police said in a statement.
+
+"The northbound lanes may also be required for emergency services, so drivers can expect delays."
+
+Police have also asked occupants of nearby businesses to evacuate amid fears the tanker is carrying a "volatile substance".
+
+Motorists should exit of Bryants Rd.
+
+More to come.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bryant Road</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>M1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bryants Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Loganholme</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

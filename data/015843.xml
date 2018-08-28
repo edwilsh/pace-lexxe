@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424597744870980</docid>
+  <date>04/08/2017</date>
+  <time>05:59</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/state/nsw/2017/08/04/qantas-a380-flight-forced-turn-back-sydney-way-dallas-engineering-issue/</url>
+  <title>Qantas A380 flight forced to turn back to Sydney on its way to Dallas after a 'technical issue'</title>
+  <content>
+A Qantas A380 flight has been forced to turn around on its way to Dallas after reportedly experiencing a "technical issue".
+Sky News is reporting Flight QF7, which departed Sydney International Airport at 1.4pm on Friday bound for Dallas Fort Worth in the US, was dumping fuel off the coast of Woollongong about 3.20pm ahead of its landing back in Sydney.
+In a second incident, a Qantas 747 was also experiencing engineering issues on its way to Johanesburg. QF63 was reportedly also dumping fuel and had landed a short time ago back in Sydney.
+QF63 Sydney to Johannesburg was a few hours into its flight when an issue was discovered, a Qantas spokeswoman told AAP.
+It is not known at this stage whether it was a full flight nor how many cabin crew were on board but the A380 can carry 371 passengers in economy, 35 in reclining economy seats, 64 in flatbeds and 14 passengers in open suits in first class.
+AAP understands both planes are returning to Sydney to be inspected.
+More to come.
+A380  OQD as QF7 to  has a tech issue and is returning to .
+- A380 fanclub (@a380fanclub)
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>OQD</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas 747</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney International Airport</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63 Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Woollongong</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Qantas A380</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Johanesburg</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sky News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-Fort Worth</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Flight QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

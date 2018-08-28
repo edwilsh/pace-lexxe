@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445269422719840</docid>
+  <date>07/08/2017</date>
+  <time>14:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/leader/north/whittlesea-multicar-homes-behind-growing-congestion/news-story/155b96f2a0de7705b287acf109cb0af2</url>
+  <title>Four-car homes behind traffic chaos</title>
+  <content>
+AN INFLUX of traffic on Whittlesea roads is being driven by the rise of four-car homes.
+New Census data shows that Whittlesea properties are among the state's leaders for multi-car dwellings, with 4569 households owning four or more vehicles, trailing only Casey, Yarra Ranges, Hume and Geelong.
+Almost 40,000 households in the municipality have more than one car, while just 2910 homes are without any vehicles.
+Unsurprisingly, houses in the outer suburbs of Melbourne typically contained more cars, due to the greater commute and a lack of access to public transport.
+A rise in the number of cars has been labelled as one of the main reasons behind increased congestion.
+Epping Rd and Plenty Rd - both listed as the worst roads in Whittlesea for congestion in last year's RACV Redspot Survey - are regularly reduced to a crawl during morning and afternoon peaks, while others such as Cooper St, Yan Yean Rd and Bridge Inn Rd are a continued source of frustration.
+About 500,000 new vehicles have hit Victorian roads in the past five years, including 33,000 in Whittlesea.
+A total of 139,509 vehicles were registered in the municipality in 2016.
+Mernda driver Teresa de Jesus said busier roads meant members of her four-car family often struggled to park at their own home.
+Ms de Jesus said her husband got up at 4.30am to catch a train, only to find parking already full at the station.
+"I had to drive into the city the other day and I was just stuck in traffic," she said.
+Wollert's Spilios Alexopoulos said the crush was heavily impacting life.
+"It's a nightmare, it's getting worse in terms of numbers of cars and the roads don't change," Mr Alexopoulos said.
+Whittlesea Mayor Ricky Kirkham said the outer suburbs were falling behind because of congestion.
+"Outer Melbourne is at risk of becoming the Third World in a first-world country," he said.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Yan Yean Rd</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ms</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bridge Inn Rd</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Plenty Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Whittlesea Mayor Ricky Kirkham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RACV Redspot Survey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Third World</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Epping Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hume</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mr Alexopoulos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Casey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Teresa</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mernda</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jesus</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Yarra Ranges</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geelong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>New Census</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollert's Spilios Alexopoulos</name>
+    <count>1</count>
+    <score>-3.3</score>
+  </sindex>
+  <sindex>
+    <name>Whittlesea</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cooper St</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

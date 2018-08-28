@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442378909681281</docid>
+  <date>07/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/blood-cross-escapes-penalties-in-data-breach-investigation-470264</url>
+  <title>Blood Cross escapes penalties in data breach investigation</title>
+  <content>
+The Australian Red Cross Blood Service and its website contractor have escaped penalties from the country's privacy watchdog over a 2016 data breach that exposed the data of 550,000 donors.
+
+In late October last year the Blood Service revealed its website partner Precedent had inadvertently exposed a  entered by donors as part of the appointment booking process.
+
+A Precedent employee tasked with enhancing a feature on the Blood Service's Donate Blood site accidently saved a backup of the site's user acceptance testing (UAT) database to a publicly accessible portion of the web server that hosted the UAT environment. 
+
+The database contained information on the 550,000 prospective donors who had booked an appointment to donate blood between 2010 and 5 September 2016.
+
+The contents of the exposed file contained people's names, genders, physical and email addresses, phone numbers, date and country of birth, as well as sensitive medical information like blood type and instances of high-risk sexual behaviour.
+
+An anonymous individual discovered the file while scanning IP address ranges and notified security researcher Troy Hunt, who alerted Australia's computer emergency response team AusCERT.
+
+Privacy commissioner Timothy Pilgrim at the time said his office would , which - due to its scale and severity - is considered Australia's biggest and most sensitive data breach to date.
+
+The OAIC today announced the results of its 10-month investigation [], finding that the Blood Service was not directly responsible for the breach but did contribute to it.
+
+It said the processes the Blood Service had in place to protect personal information were mostly adequate, but it breached Australian privacy principles by storing the Donate Blood website data indefinitely and by not ensuring information held by third parties was properly protected.
+
+However, the privacy commissioner commended the organisation for its response to the incident.
+
+"The Blood Service responded quickly and effectively when it was notified of the data breach, and worked swiftly to implement steps to mitigate against future data breaches of this nature," Pilgrim said in his report.
+
+"The commissioner acknowledges the substantial work done by the Blood Service to communicate with the community in a transparent manner, assist individuals concerned about the incident, and to further protect donor information since this incident.
+
+"The commissioner believes the community can have confidence in the Blood Service's commitment to the security of their personal information."
+
+Pilgrim said the steps the Blood Service took post-breach to rectify the situation had been "appropriate". He has accepted an enforceable undertaking outlining the Blood Service's commitment to review certain new measures.
+
+The Blood Service reviewed its information handling practices following the breach, destroyed historical data from the Donate Blood website database, and took steps to ensure personal information collected through the site is deleted fornightly.
+
+It has also limited the types of personal information collected through the site, and made policy and governance changes to ensure privacy and security is at the forefront of third-party and internal arrangements.
+
+"The commissioner considers this an appropriate conclusion to the investigation," Pilgrim said.
+
+"This incident is an important reminder that you cannot outsource privacy obligations. All organisations must put in place reasonable measures to ensure their third party providers' compliance with appropriate privacy and data security practices and procedures."
+
+Precedent
+
+The OAIC conducted a related review [] into Precedent's role in the breach, finding that the firm had somewhat more seriously contravened Australia's privacy legislation.
+
+Precedent had failed to protect donor data and had improperly disclosed the information, it said.
+
+The firm had not met its own internal safeguards by failing to implement IP authentication for all client environments and by not creating a risk register for the project.
+
+Additionally, the OAIC said there was no need for Precedent to use live data for the testing site, or to locate the UAT environment on a server that was partially accessible to the public.
+
+Precedent also had no monitoring or auditing processes in place to track database backups and access - meaning it was not aware the data file was publicly accessible for 50 days.
+
+"On this basis, the commissioner's view is that Precedent failed to adequately mitigate against the foreseeable risk of human error resulting in a data breach," it said.
+
+"Precedent did not take reasonable steps to protect the personal information held on the Donate Blood system from misuse and loss and from unauthorised access, modification or disclosure, in contravention of APP 11.1."
+
+However, the OAIC noted that Precedent had been "constructive and co-operative" with the privacy regulator.
+
+"Precedent acted appropriately in response to the data breach and the commissioner acknowledges the extensive remedial action Precedent has taken since the incident," its report states.
+
+"The commissioner also acknowledges Precedent's cooperation, timely responses and openness to consider recommendations throughout this investigation."
+
+The privacy watchdog said Precedent had proposed an "appropriate set of measures to enhance its protection of personal information", and the OAIC had accepted an enforceable understanding from the firm.
+
+"The findings of this report include important lessons for other organisations, illustrating how a number of security deficiencies can create a situation in which human error can trigger a data breach," it said.
+
+"Organisations should have sufficient protections in place to ensure that even if there is a failure at one point, the protections inherent in the other levels will prevent the breach from occurring."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IP</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Timothy Pilgrim</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Red Cross Blood Service</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Troy Hunt</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AusCERT</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>October</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UAT</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>APP 11.1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>3</count>
+    <score>-0.67</score>
+  </sindex>
+  <sindex>
+    <name>Donate Blood</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>OAIC</name>
+    <count>5</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>September 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pilgrim</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Blood Service's Donate Blood</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Blood Services</name>
+    <count>9</count>
+    <score>5</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417176041247570</docid>
+  <date>03/08/2017</date>
+  <time>01:11</time>
+  <isTopNews>true</isTopNews>
+  <source>Coffs Coast Advocate</source>
+  <url>http://www.coffscoastadvocate.com.au/news/tigerair-is-offering-return-flights-for-1/3208265/</url>
+  <title>Tigerair is offering return flights for $1</title>
+  <content>
+FANCY a return flight for just $1? Beginning today Tigerair are offering round trips for any domestic route for an unbelievable price - but you'll have to get in quick.
+Tigerair have launched their 'Pay to Go, Come back for $1' promotion today beginning from 12pm, and it will run until midday August 5 or until sold out.
+But there are a few catches.
+There a just 13,000 tickets available, and the sale is only applicable to travel between January and March next year.
+The $1 tickets are Light fares so additional charges will apply for extras such as check-in baggage, travel insurance and seat selection.
+For the Coffs Harbour to Sydney route a total of 100 seats are available for $65 travelling between January 29 to March 26.
+For the Coffs Harbour to Melbourne route 120 seats are available for $99 travelling between January 29 and March 19.
+</content>
+  <sindexList>
+  <sindex>
+    <name>January 29</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>March 19</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 26</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>March</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tigerair</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

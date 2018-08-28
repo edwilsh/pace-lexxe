@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407804422429608</docid>
+  <date>01/08/2017</date>
+  <time>12:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/breaking-news/uk-urges-silicon-valley-tackle-militants/news-story/3c5a34c5ada7e34ae90c953e7f3b2843</url>
+  <title>UK urges Silicon Valley: tackle militants</title>
+  <content>
+Britain's interior minister will use a visit to Silicon Valley to ask Facebook, Microsoft, Twitter and YouTube to step up efforts to counter or remove content that incites militants.
+After four militant attacks in Britain that killed 36 people this year, senior ministers have repeatedly demanded internet companies do more to suppress extremist content and allow access to encrypted communications.
+In the face of resistance from the industry, Prime Minister Theresa May - a former interior minister - proposed trying to regulate cyberspace after a deadly attack on London Bridge in June.
+Home Secretary Amber Rudd will meet executives of social media and internet service providers in San Francisco at the Global Internet Forum to Counter Terrorism, whose partners are Facebook, Alphabet Inc's Google, Microsoft and Twitter.
+The forum was set up to co-ordinate the companies' efforts on removing militant content.
+"Terrorists and extremists have sought to misuse your platforms ... This Forum is a crucial way to start turning the tide," Rudd will say, according to a statement from the interior ministry.
+"The responsibility for tackling this threat at every level lies with both governments and with industry."
+A source familiar with Rudd's trip said she had scheduled a meeting with representatives of YouTube, Alphabet's video sharing platform. She met Facebook, which owns messaging platform WhatsApp, on Monday, the company said.
+The industry says it wants to help governments remove extremist or criminal material but also has to balance the demands of state security with the freedoms enshrined in democratic societies.
+"Our mission is to substantially disrupt terrorists' ability to use the internet in furthering their causes, while also respecting human rights," Twitter said in a statement.
+While internet companies are eager to remove obviously extremist content posted on their platforms they face a logistical challenge in identifying and then swiftly removing such material.
+Rudd said three quarters of Islamic State propaganda was shared within three hours of publication, underscoring the need for speed in taking down extremist posts.
+"Often, by the time we react, the terrorists have already reached their audience," she wrote in an article in the Daily Telegraph, adding that end-to-end encrypted messages were hindering security services from stopping potential plotters.
+End-to-end encryption on services such as WhatsApp ensures only the sender and receiver can read a message as the key is kept on the devices. Without access to the devices, security services cannot read the messages.
+Britain's MI5 security service has said it needs access to encrypted communications to foil attacks.
+In the United States, the Federal Bureau of Investigation has pushed for full access to encrypted communications and devices but Congress has so far refused.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UK</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Secretary Amber Rudd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Bureau of Investigation</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Britain's MI5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Counter-terrorism</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Britain</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alphabet Inc's Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Global Internet Forum</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prime Minister Theresa May</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>WhatsApp</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>YouTube</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Silicon Valley</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>London Bridge</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rudd</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daily Telegraph</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

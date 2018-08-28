@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651407967631190613</docid>
+  <date>01/08/2017</date>
+  <time>13:27</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/markets/lics-caught-up-in-franking-chaos-from-company-tax-reduction-20170801-gxmsth</url>
+  <title>LICs caught up in franking chaos from company tax reduction</title>
+  <content>
+Listed investment companies are being forced to revise their historic dividend statements to shareholders in an escalating accounting nightmare that has engulfed the sector.
+Businesses - including LICs - with turnover below $10 million qualify for , instead of the 30 per cent previously payable under  and introduced this year. These are retrospective, effective July 1, 2016.
+The legislation has immediate and retrospective implications for the rate at which a listed investment company's dividend is franked.  because tax is payable on a company's current-year turnover, whereas franking is based on the past year's turnover, exposing a mismatch.
+The origins of the policy were to ease the burden on small and medium businesses.LICs are hearing differing advice on whether turnover is defined on a gross or net basis. Nor can they definitively anticipate what rate of franking they will be able to offer in the next year. Irrespective of the technicalities, the changes mean a reduction in income for shareholders, including retirees, who are reliant upon equities and specialised LICs in a low interest rate environment.
+
+"Here we have a tax cut for companies, that is effectively funded by their shareholders. It's almost incongruous to cut the tax rate for the companies, and not give it to shareholders," said Gabriel Radzyminski from Sandon Capital Investments. "It's their capital that's paying for the company's tax cut, and for what benefit?"
+
+A LIC's primary income is simply the proceeds of investing.
+"For the LIC sector, fully franked dividends are important to investors, ultimately, it's about performance and cost. It does cause some complications but I don't think it's going to change the attractiveness of the LIC sector," said Geoff Driver, of AFIC. "Having said all of that with retrospective legislation, there's invariably complications."
+The $103 million Wealth Defender Equities, backed by Perennial Value Management, became at least the third LIC to be caught up in the changes.
+On Tuesday, Wealth Defender told shareholders that it fell under the threshold for 2016-17. That means the dividend statement issued with respect to its 2015-16 final dividend, paid on September 30, 2016 (and during the 2016-17 fiscal year) was invalid.
+
+"The implementation of the changes have led to some unwelcome complications," Wealth Defender said in an ASX filing. "Dividends paid in the 2017 financial year and those in future may only be franked at the new 27.5 per cent rate, instead of the prior 30 per cent rate, while Wealth Defender remains under the threshold."
+It's not the first to discover this.
+Sandon Capital initially revised its franking advice, believing that it would fall beneath the $10 million turnover threshold. But upon using gross turnover, which it is instructed is the correct measure, it found on July 3 that it exceeded the threshold and its original statements were still intact.
+The $90 million Century Australia Investments, backed by Wilson Asset Management, learned on Monday that it did qualify for the retrospective changes, which affect three dividend payments the company has made since September 2016 (Century paid a special dividend in April this year).
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Gabriel Radzyminski</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Century Australia Investments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LIC</name>
+    <count>4</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>July 3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wealth Defender Equities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wealth Defender</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sandon Capital</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wilson Asset Management</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Sandon Capital Investments</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Geoff Driver, of AFIC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LICs</name>
+    <count>4</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>September 30, 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perennial Value Management</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 1, 2016</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

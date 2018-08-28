@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410089345077196</docid>
+  <date>01/08/2017</date>
+  <time>21:41</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/apple-revenue-rises-on-iphone-boost/news-story/1d5e07a1613965e7151b64deb87f3faf</url>
+  <title>Apple revenue rises on iPhone boost</title>
+  <content>
+Apple has reported a 7.2 per cent rise in quarterly revenue, buoyed by better-than-expected sales of its iPhones ahead of the smartphone's 10th-anniversary edition launch later this year.
+On Tuessday the company said iPhone sales rose 1.6 per cent to 41.03 million in the third quarter ended July 1, above analysts' average estimate of 40.7 million units, according to financial data and analytics firm FactSet StreetAccount. Apple sold 40.4 million iPhones a year earlier.
+Many customers wait for Apple to launch its new smartphones before deciding on upgrading or replacing their current devices, which usually results in iPhone demand tapering in the months before a release.
+The company forecast total revenue of between $US49 billion ($A61 billion) and $US52 billion for the current quarter, while analysts on average were expecting $US49.21 billion, according to Thomson Reuters I/B/E/S.
+Analysts on average expect the company to sell 45.55 million iPhones in the current quarter, according to FactSet. Apple sold 45.51 million iPhones in the year-ago quarter.
+Apple's fourth quarter generally includes first-weekend sales of the company's latest devices.
+The company's net income rose to $US8.72 billion, or $US1.67 per share, in the three months ended July 1, from $US7.80 billion, or $US1.42 per share, a year earlier.
+Revenue rose to $US45.41 billion from $US42.36 billion in the quarter, typically the company's weakest. Analysts on average had expected $US44.89 billion.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Thomson Reuters I/B/E/S</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US8.72</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuessday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US45.41</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FactSet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>7</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US49.21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.67</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US1.42</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US42.36</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FactSet StreetAccount</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US44.89</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US7.80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$52</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US49</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

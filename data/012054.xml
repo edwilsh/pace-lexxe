@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418026444784875</docid>
+  <date>03/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/business/banking-and-finance/financial-services/austrac-launches-action-against-cba-over-624m-in-suspect-transactions-20170803-gxoifs</url>
+  <title>CBA in hot water over $624 million in suspect transactions</title>
+  <content>
+by
+James Frost
+
+The financial intelligence regulatory agency AUSTRAC has launched civil proceedings against the Commonwealth Bank of Australia for failing to report thousands of suspicious transactions valued at more than half a billion dollars.
+AUSTRAC alleges there were some 53,700 contraventions of the Anti-Money Laundering and Counter-Terrorism Financing Act which requires banks to report cash transactions involving more than $10,000.
+The regulator alleges the bulk of the deposits were made using the bank's intelligent deposit machines which the bank failed to adequately assess before rolling them out in 2012. The breaches are alleged to have occurred between 2012 and 2015.
+AUSTRAC also alleges that even after Australia's largest bank became aware of the suspected money laundering or structuring that it did not take steps to mitigate or manage the risks. It also says the bank failed to report suspicious matters either on time or at all for transactions totalling another $77 million.
+
+Commonwealth Bank issued a statement that it was working closely with AUSTRAC and have cooperated fully with all their requests. 
+
+"We take our regulatory obligations extremely seriously and we are one of the largest reporters to AUSTRAC. On an annual basis we report over four million transactions to AUSTRAC in an effort to identify and combat any suspicious activity as quickly and efficiently as we can.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Anti-Money Laundering</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AUSTRAC</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Frost</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Counter-Terrorism Financing Act</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

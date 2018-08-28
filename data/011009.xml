@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417257645627224</docid>
+  <date>03/08/2017</date>
+  <time>01:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Canberra Times</source>
+  <url>http://www.canberratimes.com.au/business/consumer-affairs/small-business-owner-has-to-pay-bank-for-fraudulent-card-transactions-on-his-website-20170802-gxo5rd.html</url>
+  <title>'Ultimate kick in the teeth': The reality of credit card fraud for small business</title>
+  <content>
+Danny Marcuson was not surprised to learn that online transactions using stolen credit card details were on the rise.
+In the past 18 months, the e-commerce small business owner has had to cough up about $10,000 accounting for purchases made with stolen card details on his two websites.
+
+Up Next
+
+Bitcoin splits in two
+
+02:30
+
+More BusinessDay Videos
+
+Previous slide
+Next slide
+
+Cash no longer king in Australia
+
+Credit cards have replaced cash as the most used method of payment in Australia. 'Tap and go' payments have led the change.
+
+"Card-not-present" fraud, or fraud committed with the stolen details of a valid card, , a figure that has more than doubled since 2011.
+Industry body Australian Payments Network says the rise in card fraud reflects the pace at which perpetrators have followed Australian consumers to online retail platforms.Photo: Supplied
+To Mr Marcuson's frustration, every time a "card-not-present" fraud is committed on his wholesale make-up website Cosmetic Capital, it is his responsibility to reconcile the fraudulent funds.
+He has paid back about $6000 for 20 separate fraudulent transactions in the past 18 months, plus another $4000 for fraud that has been committed on another website he owns.
+
+"If you check out with a credit card, NAB accepts payment, approves the card and the funds hit our account. Then we send out the goods," he said.
+"However, anywhere up to a few months later, the bank can send us a letter saying that the card was used fraudulently.
+"Then they automatically deduct the amount received for the goods and hand us an additional $25 'chargeback' fee, to cover the cost of the transaction."
+Mr Marcuson described the additional fee was "the ultimate kick in the teeth".
+An NAB spokesman said merchants may incur a fee to offset costs associated with chargebacks where there is a dispute with a card transaction.
+"NAB considers a range of circumstances when managing cases of fraud, and may waive this fee for merchants where deemed appropriate."
+It is understood the cost of recovery for disputed transactions can be greater than the chargeback fee of $25.
+On the Cosmetic Capital website, shoppers can also pay using AfterPay and PayPal.
+If a fraudulent payment is made through either payment platform, merchants are protected through the site's own fraud activity cover.
+In most bricks-and-mortar retail scenarios, the bank will wear the cost of any fraud, a fact that Mr Marcuson said he cannot understand.
+"The bank has told us this is because a customer has to enter a PIN code in store, but that's not true any more ... not with tap and go."
+A Westpac spokeswoman confirmed that, under its agreement, when a card is presented at the time of a transaction and it is processed using a PIN or "tap and go", the liability for a fraudulent transaction resides with the issuer.
+"However, for any 'card-not-present' transaction where the purchase is fraudulent, the liability ... remains with the merchant. This means the issuer may recover the value ... via a chargeback," she said.
+As part of its Merchant Agreement, the Commonwealth Bank of Australia reserves the right to issue a chargeback fee under a variety of scenarios, including if the payment was illegal or the cardholder did not authorise the payment.
+In a letter responding to Mr Marcuson in June this year, federal Minister for Small Business Michael McCormack acknowledged that online platforms had exposed small business to new risks, but maintained that chargeback rules were set by financial providers.
+"Card scheme rules typically apply liability to the side of the transaction where lower security has been adopted. This is designed to encourage ... more secure technology," he wrote.
+Since fraudulent transactions started increasing on Cosmetic Capital, Mr Marcuson has introduced a filter system for transactions with different payment methods, and a checklist to determine if an order may be fraudulent.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Merchant Agreement</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NAB</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Payments Network</name>
+    <count>1</count>
+    <score>-0.67</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AfterPay</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westpac</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paypal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BusinessDay Videos</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Commonwealth Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Small Business Michael McCormack</name>
+    <count>1</count>
+    <score>1.8</score>
+  </sindex>
+  <sindex>
+    <name>Danny Marcuson</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mr Marcuson</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Cosmetic Capital</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  </sindexList>
+</snippet>

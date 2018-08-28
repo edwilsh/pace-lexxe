@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422428786351565</docid>
+  <date>03/08/2017</date>
+  <time>21:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/uber-reportedly-rented-hundreds-of-faulty-vehicles-to-drivers-and-at-least-one-blew-up/</url>
+  <title>Uber Rented Hundreds Of Faulty Vehicles To Drivers And At Least One Blew Up</title>
+  <content>
+Image:
+
+Let's all say it together: Ugh, Uber, ugh! We're like five minutes into the company's "180 Days of Change" apology tour and more awful Uber news is already coming out. The Wall Street Journal reports that the multi-billion dollar startup rented dangerously faulty cars to hundreds of drivers in Singapore, after the model had been recalled. According to internal messages obtained by the paper, Uber knew about the recall, too.
+
+The brazen behaviour really fits well with the "move fast, break things" mantra. Essentially, Uber made Singapore the first Asian city where its service would be available, but the company had trouble finding drivers, because owning a car in Singapore is prohibitively expensive. As a slapdash solution, Uber then reportedly set up a separate company that bought cars in bulk from shady importers who operate in a grey area of the law. The cars were cheaper this way.
+
+We haven't even gotten to the bad stuff yet. Last year, Uber apparently bought over 1,100 Honda Vezels from one of these grey-market companies, even though the model had been recalled for a faulty electronic component that could overheat and cause a fire. You can guess what happened next. The Journal describes an incident in January 2017:
+
+Thankfully, the driver wasn't injured, but Uber quickly heard about the incident. Did they pull all of the faulty vehicles off the road? Nah, that would be too expensive. Instead, the company allegedly told drivers with Honda Vezels to take their vehicle in for service without specifying the problem. In February, when Uber threw a party celebrating the conclusion of the PR and safety nightmare, the Journal reports that "65 per cent of the defective Vezels still hadn't had the faulty parts replaced." Uber says all of them are fixed now.
+
+But man, what a mess. This isn't your typical Uber-is-a-shitty-company story, either. If these claims are true, it seems Uber actually put people's lives at risk in order to save money. The company reportedly gambled with minivans that could spontaneously combust, because it would be a big pain to fix them, and well, the drivers and passengers would probably be fine. Then it had a party while these explode-y cars were still driving people around! (If you haven't deleted your Uber account already, today's a great day to take action. .)
+
+Uber sent us the following statement:
+
+[]
+
+WATCH MORE: Car News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>PR</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wall Street Journal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Least One Blew Up</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Car News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vezel</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Journal</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Honda Vezel</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SINGAPORE</name>
+    <count>3</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Uber Rented Hundreds Of Faulty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vehicles To Drivers</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Days of Change</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>January 2017</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Uber</name>
+    <count>12</count>
+    <score>-5</score>
+  </sindex>
+  </sindexList>
+</snippet>

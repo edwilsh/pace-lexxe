@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410166654489913</docid>
+  <date>01/08/2017</date>
+  <time>21:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/three-jlms-launch-years-biggest-equity-raising-for-yancoal-20170801-gxngvf</url>
+  <title>Three JLMs launch year's biggest equity raising for Yancoal</title>
+  <content>
+Yancoal Australia has kicked off the year's biggest entitlement offer and associated placement, worth up to $US2.35 billion. 
+Brokers Morgan Stanley, JPMorgan and CICC sent terms to fund managers early on Wednesday morning, outlining the structure and terms. 
+According to the terms, Yancoal will offer existing shareholders 23.6 new share for every one share they already own. 
+New shares will be issued at US10¢ each, which was a 67.9 per cent discount to Yancoal's last close of 39¢ based on the Australian dollar trading at US80¢. 
+
+While it is the year's biggest equity raising, almost all of the offer is expect to be taken up by Yancoal's parent Yanzhou and the pre-committed investors. 
+
+The offer was not underwritten by the brokers, however investors were told that $US2.45 billion had been pre-committed. 
+Yanzhou, Yancoal's majority shareholder, will take up $US1 billion of its rights, while the shortfall from its component will be taken up by Glencore Coal ($US300 million), and two other investors will step in for $US1 billion combined.
+The two investors were named as International High Grade Fund B, L.P. (or such other entity determined by China Cinda Asset Management Co., Ltd, and Shandong Lucion Investment Holdings Group., Co Ltd. 
+
+The offer was to open on August 10 and close on August 25. The new shares were expected to commence trading on September 1. 
+Yancoal management is due to front investors on a call at 11.30am Wednesday. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>L.P</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ltd</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Shandong Lucion Investment Holdings Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal</name>
+    <count>6</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JLMs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Co Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China Cinda Asset Management Co</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glencore Coal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>International High Grade Fund B</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yanzhou</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 25</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal Australia</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>US$300</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.35</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.45</name>
+    <count>1</count>
+    <score>0.67</score>
+  </sindex>
+  <sindex>
+    <name>CICC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US80</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

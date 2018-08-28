@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399304681998224</docid>
+  <date>31/07/2017</date>
+  <time>03:50</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/13/41/sa-woman-admits-to-racist-rant-on-bus</url>
+  <title>SA woman admits to racist rant on bus</title>
+  <content>
+A woman who went on a racist rant on an Adelaide bus engaged in behaviour that "cannot be condoned in a civilised society", a court has heard.
+Stacey Marie Thomason pleaded guilty to an abusive language charge in the Adelaide Magistrates Court in relation to the verbal attack on a woman and her young child on a bus in November last year.
+In sentencing Thomason to 200 hours of community service work on Monday, Magistrate David McLeod said the 31-year-old had directed a racial slur at an Asian woman and had also called her a "f*****g c***" in front of other passengers.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide Magistrates Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stacey Marie Thomason</name>
+    <count>1</count>
+    <score>-10</score>
+  </sindex>
+  <sindex>
+    <name>Magistrate David McLeod</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thomason</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

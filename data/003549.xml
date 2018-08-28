@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404501592520711</docid>
+  <date>01/08/2017</date>
+  <time>00:00</time>
+  <isTopNews>true</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/iron-ore-price-fire/</url>
+  <title>Iron ore price on fire - Australian Mining</title>
+  <content>
+Latest News
+
+The doom-and-gloom surrounding the future of the price for iron ore remains on the back burner after its value spiked more than 7 per cent over night.
+Iron ore has been  by the Department of Industry, Innovation and Science in 2018.
+If the commodity's recent form is any guide, its value needs to fall substantially by next year for that to happen.
+The latest trading session was another impressive one for iron ore, with it surging 7.2 per cent to $US73.70 a tonne, its largest jump since November 2016.
+News out of China was the main reason for the significant increase in the iron ore price, a Patersons Securities note explained.
+"Chinese iron ore futures prices ratcheted higher in Monday Asian markets, as the July official manufacturing PMI data for the globe's number-two economy revealed further expansion in its steel sector," Patersons reported.
+Iron ore's performance has been positive for several weeks now.  for the first time since April.
+In February, iron ore reached its 2018 high above $US90 a tonne, only to fall below $US53 a tonne in June.
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US73.70</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>February</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Patersons Securities</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PMI</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Paterson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monday Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Department of Industry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US90</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$53</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

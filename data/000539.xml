@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651398574537547752</docid>
+  <date>31/07/2017</date>
+  <time>01:00</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/sydney-couple-to-face-terrorplot-trial/news-story/166c6e97637cb76e02a2535b2e35e18d</url>
+  <title>Sydney couple to face terror-plot trial</title>
+  <content>
+A young Sydney couple has been ordered to stand trial on charges related to plotting a terrorist attack.
+Alo-Bridget Namoa had allegedly once described herself and her husband, Sameh Bayda, as an "Islamic Bonnie and Clyde" and wrote him a "goodbye love note" saying she wanted to have his child as a memento.
+In the Downing Centre Local Court on Monday, magistrate Susan Horan committed the two 20-year-olds to stand trial in the Supreme Court where the case will be mentioned on September 1.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Clyde</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>September 1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alo-Bridget Namoa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sameh Bayda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic Bonnie</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Susan Horan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Downing Centre Local Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

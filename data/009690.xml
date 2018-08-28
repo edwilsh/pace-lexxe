@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414216808722909</docid>
+  <date>02/08/2017</date>
+  <time>13:42</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/personal-finance/shares/theres-almost-no-chance-young-investors-will-lose-money-over-40-years-20170801-gxnhb9</url>
+  <title>The biggest investment risk you can take is avoiding shares. These figures show you why.</title>
+  <content>
+by
+Tanza Loudenback
+
+Many people - especially young people - avoid the  because they fear risk.
+But that fear may be misplaced,  performed by personal finance website NerdWallet.
+Using a common risk assessment tool - called a  - NerdWallet ran 10,000 possible outcomes for investors, based on historical S&P 500 and Treasury returns, and the volatility (riskiness) of those returns.
+The results?
+
+Tanya Lake
+
+A 25-year-old earning a starting salary of $US40,456 ($50,766), adjusted annually for inflation and saving 15 per cent each year has more than a 99 per cent chance of maintaining at least their initial investment - the same as a traditional savings account - over 40 years.
+
+Investors also had a 95 per cent chance of earning nearly three times their initial investment, while traditional savers had less than a 3 per cent chance.
+Not one of the 10,000 simulations resulted in a sharemarket investor losing their initial investment.
+"This analysis shows that the effects of even significant downturns can be smoothed out by a long-term investment strategy, if the investor is willing to stay the course," Arielle O'Shea, investing and retirement specialist at NerdWallet, told Business Insider.
+Given the potential opportunity cost associated with avoiding the sharemarket - which could be as much as $US3.3 million over 40 years,  - as well as the benefits of compound interest over four decades, the bigger risk may be not investing at all.
+
+'These are compelling odds'
+
+But the tide may be turning. According , 78 per cent of millennial investors plan to take on more risk this year. And nearly a third say they are moving their cash into investments, according to  from E-Trade.
+And while  that past market performance doesn't guarantee you'll earn the average historical return of 10 per cent in the future, the value of investing in stocks over a long period of time is still significant.
+When you invest in your 20s, no matter the amount, two things happen: you take advantage of  and your investments have time to bounce back from downturns in the market.
+
+It's important to note that the outcomes of NerdWallet's simulation are dependent on diversification of stocks, including the type of mutual funds, like  and  (ETFs), offered in . The figures were not adjusted for inflation, but did account for a 0.70 per cent annual investment fee.
+"A lot of young investors have grown up in market downturns, which can scare them out of investing in the market," O'Shea said. "But these are compelling odds, and they should give investors peace of mind - if they're willing to stay invested and ride out any waves."
+This story first appeared in Business Insider. Read it  or follow  on Facebook.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>O'Shea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Treasury</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Arielle O'Shea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US40,456 ($50,766</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>P 500</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NerdWallet</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tanza Loudenback</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ETFs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>US3.3</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>E-Trade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tanya Lake</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

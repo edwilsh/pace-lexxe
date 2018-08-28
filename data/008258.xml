@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411841691762701</docid>
+  <date>02/08/2017</date>
+  <time>04:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/mining/coal/yancoal-to-raise-3b-to-fund-coal--allied-deal-20170802-gxnmtw</url>
+  <title>Yancoal to raise $3b to fund Coal & Allied deal</title>
+  <content>
+Yancoal believes it can extract as much as $140 million in synergies from its acquisition of Rio Tinto's Coal & Allied business, which will also bring a suite of new investors onto its share registry.
+Yancoal announced details for its $US2.5 billion ($3.1 billion) capital raising on Wednesday. The raising, the largest on the ASX this year, will fund t
+The Chinese company that owns the bulk of Yancoal, which is called Yanzhou, had previously committed to inject $US1 billion into the raising, and Yancoal has also secured $US300 million of equity from Swiss commodities giant Glencore, which
+But Yancoal also revealed on Wednesday that it will bring in a number of new investors as part of the raising.
+
+Chinese merchant bank Cinda Asset Management will join Glencore in taking up $US300 million in stock, while finance group Shandong Lucion Investment Holdings will take up $US200 million.
+
+Coal group Shandong Taizhong Energy will take up $US100 million of shares, while mining and commodities group General Nice Development will buy $US50 million of shares.
+The attitude of Yancoal minority shareholders, Noble Group and Senrigan Capital Group, towards the rights issue remains unclear. The pair will be heavily diluted through the deal.
+Yancoal says the deal will make it Australia's largest pure-play coal miner, only behind Glencore and BHP in terms of annual coal production.
+The company said the deal will result in synergies of between $120 million and $145 million, with the bulk of those savings - as much as $85 million - coming from procurement cost savings, such as the optimisation of equipment across the mines, and improved purchasing power.
+
+Another $35 million in cost savings is expected to come from the elimination of duplicated corporate overheads, while Yancoal also says it can earn $25 million through the marketing of different coal blends.
+The size of the synergies underline why Glencore, which initially lost the auction for Coal & Allied, was so keen to get a piece of the deal. Glencore has mines adjacent to HVO, so will be well placed to extract savings of its own.
+Yancoal said demand for thermal coal would be underpinned by the push to build so-called super critical and ultra super-cricial power plants in Asia, which generate fewer carbon emissions but require higher quality coal.
+The company expects the thermal coal price will be remain around $US69 a tonne to $US78 a tonne across the remainder of 2017, and says the push by Chinese regulators to monitor and potentially restrict the output of domestic coal producers should support prices.
+
+Newcastle thermal coal is currently hovering around $U93 a tonne, having been as high as $US119 a tonne in November 2016.
+Yancoal chairman Xiyong Li said the deal will "redefine our position within the global coal marketplace and strengthen Yancoal Australia for the future."
+Brokers Morgan Stanley, JPMorgan and CICC are handling the deal, which has not been underwritten and opens on August 10.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US$100</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$119</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BHP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>General Nice Development</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Senrigan Capital Group</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Shandong Lucion Investment Holdings</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>U93</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal</name>
+    <count>11</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Xiyong Li</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HVO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JPMorgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Noble Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Morgan Stanley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rio Tinto's Coal</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Cinda Asset Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asia</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Newcastle</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swiss</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Shandong Taizhong Energy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Glencore</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Yanzhou</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>August 10</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yancoal Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ASX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$300</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US2.5</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US200</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>CICC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US78</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US69</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US50</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

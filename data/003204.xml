@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402908159625565</docid>
+  <date>31/07/2017</date>
+  <time>17:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/news/world/deutsche-banks-long-and-winding-road-20170731-gxm8cq</url>
+  <title>Deutsche Bank's long and winding road  </title>
+  <content>
+by
+The Lex Column
+
+German cars are well known for their performance and build quality.
+The country's banks rather less so.
+Deutsche Bank once aimed for rapid revenue growth buttressed by the reliability of the German economy. The global financial crisis put paid to that.
+Years of rebuilding its balance sheet has left it with too little return on its capital base. Top-line growth is once again the priority for investors.
+
+Knowing this, market-watchers are highly sensitive to how Deutsche's revenues move in each quarterly report.
+
+Analysts, much like car mechanics, ran their diagnostics to reveal the failings: equities, for example, did poorly, particularly prime brokerage.
+Other bits of good news were ignored. Provisions against loan losses continue to fall. This pre-tax cost fell to €79m in the period, well below the five-year quarterly run rate of €357m. More than €4bn of provisions for future credit losses sit on the balance sheet, unused.
+, plus no clear sign of bad loan recoveries improving, keeps investors focused on organic profits, not recoveries.
+Worse, Deutsche does not see credit costs falling further this year.
+
+In the meantime, lifting revenues is partly out of Deutsche's control. Higher interest rates and a steeper yield curve could add €1bn to its top line, thinks UBS.
+Deutsche cannot do much there. It could possibly reap another €1bn from market share gains in businesses such as investment banking and asset management, the latter due for an IPO.
+Strong US rivals, though, will fight hard. Squeezing more from a formerly moribund domestic German banking sector, in the middle of a consolidation, requires better economic growth in its home country.
+It looks to be a tough haul for Deutsche.
+
+Drivers of performance cars like long, winding roads. Equity portfolio managers less so.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Lex Column</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche Bank</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IPO</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>UBS</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Deutsche</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

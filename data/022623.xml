@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442988795045301</docid>
+  <date>07/08/2017</date>
+  <time>05:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Ipswich Queensland Times</source>
+  <url>http://www.qt.com.au/news/cats-skipper-expects-simple-surgery-on-ankle/3209662/</url>
+  <title>Cats skipper expects 'simple' surgery on ankle</title>
+  <content>
+GEELONG captain Joel Selwood says surgery on his ankle will be "simple" following a syndesmosis ankle injury suffered against Sydney on Friday night.
+
+Selwood has been ruled out for the remainder of the home-and-away season, with the Cats confident the captain will be back for finals.
+
+The midfielder gave an update on his injury this morning.
+
+"Obviously I didn't get the scan results I was hoping for on the weekend," he said in a video for 20FOUR.
+
+"The ankle was actually feeling not too bad on Saturday but after catching up with the specialist we decided we'll have surgery.
+
+"It's as simple as a tighten up of the ankle so I'll go and have that done and miss the remainder of the home-and-away season but be ready for what's next after that."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Joel Selwood</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Geelong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Selwood</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

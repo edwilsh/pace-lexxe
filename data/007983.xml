@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411412195027209</docid>
+  <date>02/08/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/business/aurizon-jobs-foreign-drivers-may-be-recruited-despite-recent-redundancies/news-story/af0afa8993fdc7397d49926698214251</url>
+  <title>Foreign drivers may be recruited despite sackings</title>
+  <content>
+AURIZON could bring foreign train drivers to Australia, new Federal Government documents have revealed.
+Aurizon's Western Australian subsidiary, Australia Western Railroad Pty Ltd, has been included in a list of new labour agreements released after calls for transparency of the visa system,  reports.
+Reports suggest foreign workers could be offered permanent residency as part of the agreement.
+Company-specific agreements can be made on a case-by-case basis where a "genuine skills or labour shortage for an occupation exists" and cannot be filled by Australian workers or other migration arrangements.
+"Employers are required to have made recent, genuine efforts to recruit, employ or engage Australian citizens or Australian permanent residents," the government's website states.
+Train drivers are not on the Federal Government's list of eligible skilled occupations for 457 visas.
+It comes after Aurizon announced in June it would close its Rockhampton rollingstock workshop resulting in the loss of 181 jobs.
+Another 126 workers are expected to lose their jobs at Bluff, Gladstone and Stanwell, including train drivers.
+Aurizon has been contacted for comment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Aurizon</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>3</count>
+    <score>8</score>
+  </sindex>
+  <sindex>
+    <name>Stanwell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rockhampton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Aurizon's Western Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Federal Government</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australia Western Railroad Pty Ltd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gladstone</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

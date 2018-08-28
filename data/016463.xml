@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425113140955556</docid>
+  <date>04/08/2017</date>
+  <time>07:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/news/eastbound-lanes-closed-on-m5-east-causing-long-delays/news-story/e5a3801193330c0e6ba1b8ea5dd8a5c7</url>
+  <title>Peak-hour nightmare on Sydney roads</title>
+  <content>
+PEOPLE should expect nightmare peak-hour commutes on the M5 motorway after an overheight truck struck the tunnel entrance of the M5 East.
+Extreme delays are expected for those travelling towards the city this afternoon.
+M5 East closed eastbound lanes but they have now been reopened, according to Live Traffic NSW. The truck was moved shortly after the incident.
+The truck hit the tunnel entrance at Bexley North before 5.30pm and there is currently heavy traffic.
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>M5</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>East</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>M5 East</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bexley North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Live Traffic NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

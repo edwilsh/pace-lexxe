@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442512053669088</docid>
+  <date>07/08/2017</date>
+  <time>03:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/melbournes-four-north-east-link-options/news-story/6a1e9d48e2b11d85c4e84a5a78b72a20</url>
+  <title>Melbourne's four North East Link options</title>
+  <content>
+FILLING THE GAP IN MELBOURNE'S NORTH EAST LINK
+The proposed routes for Melbourne's "missing" freeway link, which will complete the Metropolitan Ring Road by connecting the ring road to either the Eastern Freeway or EastLink.
+OPTION A
+* Starts at Greensborough and connects with Eastern Freeway near Bulleen Road, 11km long, 4km of tunnel, estimated $6.1 billion cost
+OPTION B
+* Starts at Greensborough and connects to East Link via the Ringwood Bypass, no Eastern Freeway upgrades necessary, 24km long, 17km of tunnel, estimated $19 billion cost
+OPTION C:
+Starts at Greensborough and connects to East Link via Reynolds Road, 26km long, 13km of tunnel, estimated $16.9 billion cost
+OPTION D:
+Starts at Greensborough and connects to EastLink via the proposed Healesville Freeway Reserve, 40km long, 16km of tunnel, estimated $23 billion cost
+DECISION:
+* A decision on the preferred route is expected to be made by the end of 2017
+* Labor has previously promised to take the project to voters at the 2018 state election.
+SOURCE: Victorian government
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Healesville Freeway Reserve</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bulleen Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ringwood Bypass</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Labour</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>East Link</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reynolds Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eastern Freeway</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>EastLink</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Victorian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North East Link</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GAP IN MELBOURNE'S NORTH EAST LINK</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GREENSBOROUGH</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Metropolitan Ring Road</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442378909681229</docid>
+  <date>07/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/cisco-deletes-meraki-customer-data-in-config-bungle-470259</url>
+  <title>Cisco deletes Meraki customer data in config bungle</title>
+  <content>
+Network equipment giant Cisco has owned up to an embarrassing blunder for its Meraki management platform that has led to customer data being deleted in the service offering's cloud storage.
+
+Cisco said its Meraki engineers made a configuration change error on the North American object storage service.
+
+"On August 3rd, 2017, our engineering team made a configuration change that applied an erroneous policy to our North American object storage service and caused certain data uploaded prior to 11:20AM Pacific time on August 3 to be deleted," Cisco .
+
+Lost data includes customer Meraki dashboard custom splash page themes and organisation logos, floor plans, and device placement photos.
+
+Custom enterprise apps in the Cisco Meraki System Manager have also been deleted, as have user voice menus, music on hold, contact images and voice mail greetings.
+
+Customers are advised to wait while Cisco engineers work to rectify the error before uploading new data to the Meraki service.
+
+The company said it is working out what tools it can build to help customers identify the data they have lost from the Cisco Meraki cloud.
+
+Cisco's  service is a cloud-based management platform for networking devices, security cameras, and mobility as well as security appliances.
+
+The Westfield chain of shopping malls and Accor Hotels are among Cisco Meraki customers.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Meraki</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Cisco Meraki</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Accor Hotels</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North American</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Cisco</name>
+    <count>6</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Pacific</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>August 3</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Cisco Meraki System Manager</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Westfield</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

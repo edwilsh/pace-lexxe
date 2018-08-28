@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443542845835488</docid>
+  <date>07/08/2017</date>
+  <time>07:30</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/business/breaking-news/metal-bank-intersects-gold-at-triumph/news-story/ac05b064d0c91e51ee4dc014b8b38f34</url>
+  <title>Metal Bank intersects gold at Triumph</title>
+  <content>
+Metal Bank has intersected significant high-grade Au-Ag mineralisation from an initial RC drilling at the Triumph project.
+Four initial drill holes were completed within the corridor with high-grade gold intersected including 18m @ 4.0g/t Au, 15g/t Ag from surface (Big Hans prospect) and 3m @ 6.5g/t Au, 13g/t Ag from 6m (Super Hans prospect).
+This program represents the first modern gold exploration to be undertaken across the broad target zone.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>AG</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>AU</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>RC</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Super Hans</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Au-Ag</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Big Hans</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405227442005245</docid>
+  <date>01/08/2017</date>
+  <time>02:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/rxp-services-ready-to-buy-the-works-20170801-gxmuf4</url>
+  <title>RXP Services ready to buy The Works</title>
+  <content>
+Melbourne technology and digital services company RXP Services has agreed terms to buy Sydney creative agency The Works, sources told Street Talk on Tuesday. 
+It's understood RXP will pay $25 million upfront, with more available to The Works' vendors under a two-year earn out agreement. 
+The deal valued The Works at eight-times earnings, and is expected to be accretive to RXP Services on an earnings per share basis. 
+RXP is seeking to raise $16.9 million at 80.5¢ a share to cover the acquisition. 
+
+The deal is expected to be announced on Wednesday. 
+</content>
+  <sindexList>
+  <sindex>
+    <name>RXP Services</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>RXP</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Street Talk</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

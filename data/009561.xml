@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651413259030995061</docid>
+  <date>02/08/2017</date>
+  <time>09:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/real-estate/goodman-sells-macquarie-park-office-tower-for-95m-20170802-gxnj2d</url>
+  <title>Goodman sells suburban tower for $95m</title>
+  <content>
+by
+Larry Schlesinger and Su-Lin Tan
+
+Goodman Group has sold a recently completed Macquarie Park office building to a wealthy  local investor for $95.3 million in an off-market deal.
+The 12,000-square-metre, six-level building at 8 Khartoum Road was developed by Goodman who secured Fuji Xerox and sister company Fuji Film as its main tenants until 2027.
+Fuji Xerox was forced to relocate after Goodman sold the document company's former offices at nearby 101 Waterloo Road for a reported $200 million to Chinese-backed JQZ and joint venture partner, Hong-Kong listed Redco Properties Group.
+The developers are undertaking the 680-apartment Prime project on the 1.715-hectare site.
+
+A spokeswoman for Goodman declined to comment. A spokeswoman for Fuji Xerox confirmed the company had moved from 101 Waterloo Road to 8 Khartoum Road.
+
+The Fairfax Media-owned Pricefinder property database confirms 8 Khartoum Road sold recently for an undisclosed sum.
+Colliers International's Jon Chomley represented Goodman with commercial buyers agents Prosper Group acting for the buyer. Both declined to comment.
+Hub of residential development
+
+Macquarie Park, which lies 15 kilometres north west of the Sydney CBD, has become a hub of residential development in recent years with Meriton, Toga,  and Romeciti all snapping up land in the precinct for mega prices.
+
+Despite all this residential activity, it remains Sydney's second largest business district with a number of high profile corporate tenants including Canon, Aristocrat, Konica Minolta, CSC and Sanofi. Goodman is the dominant owner in the precinct with 15 business parks.
+According to the latest Property Council Office Market Report, Macquarie Park is struggling to retain tenants with the vacancy rate increasing to 8.5 per cent from 7.9 per cent over the first six months of the year with negative demand for all office grades, except A grade. 
+"Macquarie Park demand continues to slow, yet committed government investment in better local infrastructure should stimulate renewed demand," Property Council NSW executive director Jane Fitzgerald said.
+"A number of key tenants from the Macquarie Park market have relocated to other markets indicating competing markets are proving more attractive for tenants at this point in time."
+
+According to the PCA report, B-grade office vacancy rose to 15.4 per cent from 14.2 per cent over the six-month period, C-grade went up to 12 per cent from 10.7 per cent while A-grade vacancy is now 6.2 per cent, up from 5.7 per cent. 
+Both 101 Waterloo Road and 8 Khartoum Road are in prime locations, sitting next to AMP Capital's Macquarie Centre and minutes away from the train station.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Canon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goodman</name>
+    <count>6</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Larry Schlesinger</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fuji Film</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>C-grade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese-backed JQZ</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Toga</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Khartoum Road</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Redco Properties Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Council NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sanofi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fuji Xerox</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PCA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie Park</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Waterloo Road</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Meriton</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>B-grade</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Konica Minolta</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Colliers International's Jon Chomley</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Romeciti</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMP Capital's Macquarie Centre</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jane Fitzgerald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney CBD</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Su-Lin Tan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Fairfax Media-owned Pricefinder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Property Council Office Market Report</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Goodman Group</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>CSC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Prosper Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

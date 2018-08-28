@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651440879966075710</docid>
+  <date>06/08/2017</date>
+  <time>21:10</time>
+  <isTopNews>true</isTopNews>
+  <source>Sunshine Coast Daily</source>
+  <url>http://www.sunshinecoastdaily.com.au/news/opinion-how-suncentral-can-learn-from-the-nbns-fai/3209358/</url>
+  <title>OPINION: How SunCentral can learn from the NBN's failure</title>
+  <content>
+IN SOME ways the SunCentral development at Maroochydore is like the Sunshine Coast's version of the NBN - before the NBN went to custard.
+It's a project that evokes an exciting vision of the future - a high-tech development in the heart of the Coast that could forge a new era of cultural and economic development.
+The dream is of a residential and business hub with exciting work opportunities and funky living for a high-salaried tech class now ensconced in West End in Brisbane, Surry Hills in Sydney, and Carlton in Melbourne
+But it's also a project with risk. It's a "build it and they will come" affair, but you can never really know if they will come until they've already arrived.
+So the temptation is to look for certainty. You look at things like having the council headquarters there, a university campus, an aged-care facility, even though not all of these necessarily fit the vision.
+A university campus would probably work well, and some kind of council office might be a good idea, but how does the full council HQ work into the vision? And is aged care what you want in an area you might hope builds a reputation for its vibrant night life?
+We're not saying any of these are necessarily bad, merely that it is critical to hold to the vision for SunCentral.
+To return to the analogy, the NBN was an exciting vision that changed track because of fears around cost. That change left us with a dog's breakfast of an internet service that, depending who you ask, has ended up more expensive than it would have anyway.
+If the NBN's most useful function now is as a cautionary tale, let's be sure to learn from it. If we want to dream big, then plan properly to start with and follow the dream through.
+Five dates through August for community to have its say on rock wall
+"I then said, 'Hey Ryan' ... (and he) started to run."
+Teen suffered head and shoulder injuries from the accident
+Crash causes nightmare for Sunday drivers on Bruce Hwy
+Upcoming shows target tastes from Shakespeare to Ten Tenors
+There's a live music gig to suit all music tastes in our Gig Guide
+Get off the couch and get social with our 10 Things To Do
+The news came after the couple attended Splendour in the Grass
+An intimate safari is on the couple's agenda
+Blue Murder was the original true crime blockbuster.
+Fiery larrikin Peter FitzSimons had the audience in stitches.
+What The Health slammed by experts
+Former newsreader Tracey Spicer bares all for autobiography.
+Garth Prowd's vision made huge impact on Sunshine Coast community
+Home sells in just one day
+Winners in Master Builders regional housing and construction awards
+Ray and Gert will celebrate 70 years of marrive this week
+</content>
+  <sindexList>
+  <sindex>
+    <name>August</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Things To Do</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>HQ</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Garth Prowd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>5</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Blue Murder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Maroochydore</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>West End</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Coast</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ten Tenors</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tracey Spicer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunshine Coast</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>SunCentral</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Gert</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Master Builder</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Gig Guide</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Hey Ryan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rays</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Shakespeare</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peter FitzSimons</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Surry Hills</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bruce Hwy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Carlton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417004242553185</docid>
+  <date>03/08/2017</date>
+  <time>00:31</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/amazon-jobs-day-2017-8</url>
+  <title>We visited Amazon's massive US jobs fair at a warehouse in New Jersey, where people lined up around the block hoping to score a job</title>
+  <content>
+On Wednesday,  hosted a colossal, nation-wide jobs fair - Amazon is billing it as the largest in the US.
+
+In an effort to fill 50,000 warehouse jobs at the company, the online retail giant invited people across the county to tour 10 of its warehouses and apply for these jobs in person.
+
+The Robbinsville, New Jersey, warehouse alone had 1,500 jobs up for grabs, . When we stopped by, we watched as hundreds of people turned out to try to snag a role.
+
+Here's what we saw during Amazon Jobs Day at the Robbinsville warehouse:
+
+NOW WATCH: Ideas videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Amazon</name>
+    <count>2</count>
+    <score>9</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Robbinsville</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Jersey</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Amazon Jobs Day</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

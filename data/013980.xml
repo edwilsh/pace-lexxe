@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422845398187133</docid>
+  <date>03/08/2017</date>
+  <time>23:11</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/04/flames-engulf-dubais-86-storey-residential-torch-tower</url>
+  <title>Flames engulf Dubai's 86-storey residential Torch tower</title>
+  <content>
+Dubai's 86-storey Torch tower, one of the world's tallest residential buildings, is on fire.
+
+15 MINS AGO  UPDATED 2 MINS AGO
+
+Fire is engulfing a high-rise residential tower in Dubai, sending plumes of smoke into the air and debris falling below.
+
+Firefighters from four Civil Defence stations are at the Torch Tower in Dubai's popular Marina neighbourhood. The building has been evacuated.
+
+Dubai Police Commander in Chief & Dubai Civil Defence Director General on site following measures to control the fire at the Torch Tower
+- Dubai Media Office (@DXBMediaOffice)
+
+A statement from the Dubai government on Twitter says no injuries have been reported as yet.
+
+The skyscraper is one of the world's tallest residential towers reaching more than 80 storeys high. It caught fire in early 2015 with no major casualties reported in that blaze.
+
+More to come
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Torch Tower</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>DXBMediaOffice</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai</name>
+    <count>3</count>
+    <score>-5</score>
+  </sindex>
+  <sindex>
+    <name>UPDATED 2 MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Civil Defense</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai Police Commander</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Twitter</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Dubai Media Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dubai Civil Defence Director General</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Marina</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

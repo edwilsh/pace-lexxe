@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423605607411008</docid>
+  <date>04/08/2017</date>
+  <time>02:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Northern Territory News</source>
+  <url>http://www.ntnews.com.au/business/breaking-news/rba-still-sees-growth-upside-at-3pct-a-yr/news-story/a4e4557c9611113e52a288350439c30c</url>
+  <title>RBA still sees growth upside at 3pct a yr</title>
+  <content>
+The Australian economy is chugging along as expected and remains on track to expand at around three per cent a year, the central bank says.
+The Reserve Bank of Australia's quarterly Statement on Monetary Policy released on Friday contained a few positive adjustments to its earlier outlook.
+"The economy is expected to grow at an annual rate of around three per cent over the next couple of years, which is a bit higher than estimates of potential growth," it said.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monetary Policy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Reserve Bank of Australia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RBA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

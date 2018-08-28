@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651418838193617813</docid>
+  <date>03/08/2017</date>
+  <time>07:38</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-03/wa-investor-defaults-show-what-would-happen-in-a-downturn/8771122</url>
+  <title>What will happen to property investors when the economy rolls over? Just look west, it isn't pretty</title>
+  <content>
+Want to know what happens to the property market when the economy eventually rolls over?
+
+Key points:
+
+Reversing a long term trend, investor defaults are outpacing-owner occupier defaults in WA
+Investors hit by tumbling rents and property values, while costs are rising
+Almost one quarter of Perth and half of regional WA investment properties sold at a loss in Q1 2017
+
+Look west, and for property investors it is not a pretty picture, according to the global credit ratings agency Moody's.
+Moody's has studied the rising tide of defaults in Western Australia and found problems with investment mortgages are growing at a far greater rate than owner-occupier loans.
+It reverses both the WA and Australia-wide trend where historically the default rate for housing investment loans is substantially lower than the owner-occupier market.
+The defaults have been rising steadily in the west since 2013 as the slowdown in the resources sector drags down the rest of the state.
+Over that period the rate of investment loan defaults has more than trebled, compared to a doubling in owner-occupier mortgages.
+"Our analysis shows that the default rate for housing investment loans in Western Australia has increased significantly over the past four years and is now higher than the default rate for owner-occupier mortgages, which reverses the situation prior to the economic downturn in the state," the Moody's report co-authored by senior analysts John Paul Truijens and Georgij Ludmirskij said.
+
+APRA's tightening has made investments riskier
+
+The Moody's team found investors' reliance on rental income and rising house prices made them more vulnerable in a downturn.
+On top of that, while the tougher regulations imposed by the Australian Prudential Regulation Authority have slowed growth in investment loans, it has made existing stock riskier.
+"Such measures also limit access to credit, which means there are fewer refinancing options for the existing stock of housing investment loans," the report reads.
+Typically, during economic downturns interest rates are cut, but in  and the only movement seems to be .
+Investment loans have been hiked aggressively by around 60 basis points making repayments far more onerous.
+Moody's found while loan repayment and property costs are rising in WA, rental returns are tumbling, leading to significant cash flow losses.
+From a negative gearing point of view, that would be less of a problem as long house prices are rising. In WA they are falling.
+
+Rents for a typical three-bedroom home in Perth have tumbled more than 20 per cent from 2013 peak.
+"In contrast to housing investors, owner-occupiers do not rely on rental income to meet loan repayments and are therefore not exposed to a downturn in the rental market," the report reads.
+"Furthermore, owner-occupiers are less reliant on house price appreciation, given that the property serves foremost as their residence and not as an investment where prices need to rise to offset cashflow losses."
+
+And there little good news for investors under duress about cutting their losses and heading for the exits in a downturn.
+Judging by results from the west in the first three months of the year, if you're thinking of bailing out it may already be too late.
+Percentage of properties sold at a loss - Q1 2017
+
+MarketOwner-occupierInvestment
+Australia7pc12pc
+Perth20pc26pc
+Regional WA27pc45pc
+Source: CoreLogic/Moody's
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>WA</name>
+    <count>5</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Georgij Ludmirskij</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Furthermore</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Perth</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Perth20</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APRA</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Australian Prudential Regulation Authority</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Australia-wide</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>MarketOwner-occupierInvestment</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WA27</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Paul Truijens</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Q1 2017</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>CoreLogic/Moody</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moody</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

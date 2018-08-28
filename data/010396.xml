@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651416145249077763</docid>
+  <date>02/08/2017</date>
+  <time>21:11</time>
+  <isTopNews>true</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/03/us-russia-sanctions-bill-what-it</url>
+  <title>The US Russia sanctions bill: What is in it?</title>
+  <content>
+The sanctions bill that President Donald Trump signed Wednesday caused a stir in Washington by underlining tensions between Congress and the White House over how to handle Russia.
+
+4 MINS AGO 
+
+But now that it is law, what exactly is in it?
+
+Perhaps the most important provisions, and certainly the most contested, relate to limits on President Donald Trump's authority to cancel existing sanctions.
+
+Former president Barack Obama imposed sanctions targeting individuals and firms connected to Russian cyberespionage and its intervention in Ukraine. 
+
+Constraints 
+
+These executive orders are now enshrined in the law, and if Trump wants to waive them -- perhaps as part of talks to improve ties with the Kremlin -- he will have to consult Congress.
+
+These include an updated executive order in December last year targeting the Russian intelligence agencies accused of seeking to interfere in the 2016 White House race -- which Trump won.
+
+The new law also requires new sanctions targeting Russians identified by the US government as involved in cyberattacks, political subversion in Europe, corruption, rights abuses, the arming of Syria or -- crucially -- investment in the oil sector.
+
+It orders the US State Department to look at measures to help Ukraine find new sources of energy -- and thus shake off its reliance on gas from its Russian foe.
+
+In most cases the authority to decide which Russian targets fall foul of the new sanctions law still rests with the president and his advisers -- and it is not clear to what extent Trump will use this.
+
+Related reading
+
+Targets 
+
+But the text of the bills makes Congress' concerns clear -- and draws a roadmap to tougher measures.
+
+The law, for example, demands that the administration draw up a report within 180 days to identify "political figures and oligarchs in the Russian Federation, as determined by their closeness to the Russian regime and their net worth."
+
+These elite figures are to be listed, along with their family assets and income streams, and thus could be targeted in future rounds of sanctions.
+
+A separate report is ordered to "identify, investigate, map and disrupt illicit financial flows linked to the Russian Federation if such flows affect the United States financial system or those of major allies of the United States."
+
+The bill also accuses Russia of using corruption and subterfuge to disrupt political life in Europe and the former Soviet republics in Eurasia.
+
+Russian actions, it alleges, "sow distrust in democratic institutions and actors, promote xenophobic and illiberal views, and otherwise undermine European unity."  
+
+The law mandates the US government to spend $250 million over the 2018 and 2019 financial year to counter Russian propaganda and dirty tricks in the region.
+
+Related reading
+
+Iran and North Korea 
+
+The bill also directs Trump to impose tougher sanctions on Iran's ballistic missile program and expands sanctions targeting the covert wing of the Iranian Revolutionary Guards to the entire corps.
+
+And it toughens sanctions on North Korea, including new rules to prevent foreign banks from opening US accounts to assist North Korean entities, while asking the State Department to revisit the question of whether to designate Pyongyang a state sponsor of terrorism.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>2</count>
+    <score>-8</score>
+  </sindex>
+  <sindex>
+    <name>Iranian Revolutionary Guard</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Eurasia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>8</count>
+    <score>-7</score>
+  </sindex>
+  <sindex>
+    <name>Russian Federation</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iran</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ukraine</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>White House</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>US State Department</name>
+    <count>1</count>
+    <score>0.33</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>4</count>
+    <score>7</score>
+  </sindex>
+  <sindex>
+    <name>US-Russia</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>December</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>State Department</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Barack Obama</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Washington</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

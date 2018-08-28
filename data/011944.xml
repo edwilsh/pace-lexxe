@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651417863236025181</docid>
+  <date>03/08/2017</date>
+  <time>03:51</time>
+  <isTopNews>false</isTopNews>
+  <source>SBS</source>
+  <url>http://www.sbs.com.au/news/article/2017/08/03/two-dead-nine-hurt-us-school-explosion</url>
+  <title>Two dead, nine hurt in US school explosion</title>
+  <content>
+Two bodies have been found after an explosion at a school in Minneapolis, which injured nine other people.
+
+19 MINS AGO 
+
+Two people have been killed and nine injured when a gas explosion ripped through a Christian private school in Minneapolis, starting a fire and causing a building to collapse.
+
+The body of a school employee who had been missing for most of Wednesday after the blast at Minnehaha Academy was recovered that evening, Minneapolis Fire Chief John Fruetel told a news conference.
+
+Fruetel declined to identify either victim pending notification of next of kin.
+
+The Minneapolis Star-Tribune reported that the remains removed earlier in the day belonged to Ruth Berg, a 47-year-old receptionist at the school who was engaged to be married.
+
+Family members earlier told local news channel KARE that John Carlson, an 81-year-old custodian, was missing and that no one had been able to reach him.
+
+The nine people who were injured were taken to local hospitals, and one was in critical condition, Fruetel said.
+
+Authorities say there are early indications that a ruptured gas line may have led to the explosion and that it was caused by contractors working at the school. The academy confirmed on Facebook that there had been a gas leak and explosion at its Upper School.
+
+"This is a day of extraordinary heartbreak in Minneapolis," Mayor Betsy Hodges told the news conference.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Minnehaha Academy</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Upper School</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>John Carlson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KARE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mayor Betsy Hodges</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minneapolis Star Tribune</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MINNEAPOLIS</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>MINS AGO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Fruetel</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Minneapolis Fire Chief John Fruetel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ruth Berg</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444745436699253</docid>
+  <date>07/08/2017</date>
+  <time>12:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/foxconn-executive-iphone-8-wont-be-cheap-2017-8</url>
+  <title>A Foxconn executive has apparently said the iPhone 8 'won't be cheap'</title>
+  <content>
+Luo Zhongsheng, an executive at Taiwanese manufacturing giant Foxconn, published a (now deleted) comment on Weibo claiming that Apple's upcoming "iPhone 8" won't come cheap, .
+
+The problem lies with the iPhone's organic light-emitting diode (OLED) display, which Apple tweaked specifically to accommodate the phone's new design.
+
+If the rumours -  - are correct, it will feature a so-called "notch" at the top, which places the front sensors in the top centre of the screen and leaves extra space at the sides.
+
+Zhongsheng said the extra work required for this firm would lower the device's production yield - essentially meaning it will take longer and be more expensive to produce.
+
+"The OLED's (production) yield is only 60%," Zhongsheng wrote in his post, confirming  the same figure. "Cutting the display into this special shape looks really difficult, and the cost won't be cheap. I estimate that the iPhone 8 won't be cheap."
+
+In addition to Zhongsheng's comment, some new pictures of what seems to be a copper gold iPhone 8 appeared on Weibo. There's no way to confirm that these are real, and no iPhone has previously used this colour.
+
+So far, rumours have suggested the iPhone 8 will come in traditional black and white, and possibly .
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>iPhone 8</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Weibo</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>OLED</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Luo Zhongsheng</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Foxconn</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Taiwanese</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iPhone</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Zhongsheng</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

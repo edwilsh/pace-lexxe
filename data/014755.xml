@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422879757926224</docid>
+  <date>03/08/2017</date>
+  <time>23:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/national/brisbane-traffic-evacuations-serious-delays-as-tanker-catches-fire-on-the-m1/news-story/c12000e287f491e6235444387a6a40b9</url>
+  <title>Evacuations, delays as tanker catches fire</title>
+  <content>
+POLICE are urging commuters to stay clear of the M1 at Loganholme after an oil tanker carrying a "volatile substance" reportedly burst into flames.
+Emergency services were called to the incident about 8.40am and it is understood one firecrew is currently fight the blaze with three more on the way.
+
+Police are asking occupants of nearby businesses to leave as a precaution - the tanker is carrying a volatile substance.
+
+The extent of the fire remains unknown, but police have warned commuters to avoid the southbound lanes.
+"The southbound lanes are currently closed, with traffic being diverted off at the Bryant Road exit," police said in a statement.
+"The northbound lanes may also be required for emergency services, so drivers can expect delays."
+Police have also asked occupants of nearby businesses to evacuate amid fears the tanker is carrying a "volatile substance".
+Motorists should exit at Bryants Rd.
+More to come.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bryant Road</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>M1</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bryants Rd</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Loganholme</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

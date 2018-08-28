@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441476966537352</docid>
+  <date>06/08/2017</date>
+  <time>23:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/programs/pacific-beat/2017-08-07/pngs-exotic-bird-population-endures-despite/8780438</url>
+  <title>PNG's exotic bird population endures despite logging, palm oil plantations</title>
+  <content>
+Rare species of birds found only on the island of New Britain, east of PNG's mainland have proved to be more resilient to logging and the disruption caused by palm oil plantations than expected. A team from Perth's Edith Cowan University, Dr Robert Davis, travelled to the island expecting to find a rare bird population in dire straits, but surprisngly a number of species had adapted well to their changing environment.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dr Robert Davis</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PNG</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Perth's Edith Cowan University</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>New Britain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

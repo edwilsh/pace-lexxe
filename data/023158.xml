@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444053946952576</docid>
+  <date>07/08/2017</date>
+  <time>09:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/news/breaking-news/186-migrants-storm-spanish-border-post/news-story/8592896dd3a9eed29337f9d00f2bcac2</url>
+  <title>186 migrants storm Spanish border post</title>
+  <content>
+One hundred and eighty-six migrants have stormed a pedestrian border post to enter Spain's North African enclave of Ceuta from Morocco, the Red Cross says.
+Attempts to cross by force at pedestrian border posts are unusual as they are normally heavily policed. The thousands of sub-Saharan African migrants living illegally in Morocco normally try to scale the border fences surrounding Ceuta and Melilla, Spain's other North African enclave, in their bid to enter Europe.
+Ceuta's Red Cross tweeted that four migrants were taken to a city hospital for injuries after the crossing early on Monday.
+Spain's Europa Press news agency said one police officer was injured.
+Comment from the Interior Ministry in Ceuta was not immediately available.
+On entering, the migrants head for temporary migrant accommodation centres. They are eventually repatriated or let go.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Europe</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melilla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ceuta</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Spain</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spain's North African</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Spain's Europa Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Interior Ministry</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Morocco</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Saharan African</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>North African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ceuta's Red Cross</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spanish</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Red Cross</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

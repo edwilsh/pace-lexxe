@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424769543565620</docid>
+  <date>04/08/2017</date>
+  <time>06:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Mercury</source>
+  <url>http://www.themercury.com.au/news/breaking-news/sydney-plot-to-kill-accused-bailed/news-story/19b86cc384dfe5bf97e39fbf0a36fa66</url>
+  <title>Sydney plot to kill accused bailed</title>
+  <content>
+A man accused of taking part in a plot to kill the husband of his wife's friend in Sydney's southwest has been freed on bail.
+NSW District Court judge Christopher Robison agreed to grant bail with strict conditions to Fady Houda, 24, after he had spent more than two and half years in custody following his arrest over the alleged kill plot.
+Houda, his wife Monique Hayes, 25, and prison officer Sharon Yarnton, 50, have denied trying to murder Yarnton's husband, Dean, in a planned car fire or explosion at Picnic Point in February 2015. They will stand trial in June 2018.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Sharon Yarnton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Fady Houda</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Houda</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>February 2015</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Picnic Point</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Yarnton</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Deans</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>June 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Monique Hayes, 25</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Christopher Robison</name>
+    <count>1</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>NSW District Court</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

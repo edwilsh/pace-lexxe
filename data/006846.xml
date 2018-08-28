@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410252553837700</docid>
+  <date>01/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/national/helicopter-crashes-into-power-lines/news-story/0c7b248c53a63520408685b3a7d0308b</url>
+  <title>Helicopter crashes into power lines</title>
+  <content>
+BREAKING: A helicopter with two occupants has crashed into power lines near Cloncurry in northwest Queensland.
+Emergency crews including firefighters and ambulance officers are rushing to the scene.
+The helicopter is believed to have clipped power lines and crashed.
+The incident was reported about 7.40am today.
+The crash took place north of Cloncurry near Sedan Dip Road.
+A fire has reportedly broken out at the scene of the crash.
+The helicopter was believed to have been involved in a mustering operation before clipping power lines and crashing.
+A second helicopter nearby is reportedly en route to a nearby station to gather firefighting equipment.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Cloncurry</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Sedan Dip Road</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

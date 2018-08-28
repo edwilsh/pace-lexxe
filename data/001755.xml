@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399991876774748</docid>
+  <date>31/07/2017</date>
+  <time>06:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/07/31/16/19/woman-died-after-violent-sex-court-told</url>
+  <title>Woman died after violent sex, court told</title>
+  <content>
+A man on trial over the 2011 manslaughter of a "blind drunk" woman on a northern NSW beach "repeatedly and vigorously" sexually assaulted her, a jury has heard.
+Accused man Adrian Attwater later told police "girls will be girls, boys will be boys", an interview played at the NSW Supreme Court in Coffs Harbour on Monday reveals.
+Lynette Daley, 33, died at Ten Mile Beach in 2011 after an Australian Day camping trip with her on-again-off-again boyfriend Attwater, 42, and his friend Paul Maris, 47.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Paul Maris</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Attwater</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Day</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NSW Supreme Court</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ten Mile Beach</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Adrian Attwater</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Coffs Harbour</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Lynette Daley, 33</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405961881423288</docid>
+  <date>01/08/2017</date>
+  <time>05:40</time>
+  <isTopNews>false</isTopNews>
+  <source>News.com.au</source>
+  <url>http://www.news.com.au/national/breaking-news/sas-dignity-party-announces-nominations/news-story/0eabd6b149dd3d20bfc877d25830db16</url>
+  <title>SA's Dignity Party announces nominations</title>
+  <content>
+Australian Associated Press
+
+Share
+
+Dignity Party MP Kelly Vincent will be supported by a speech pathologist and a former South Sudanese refugee in her bid to retain the party's sole upper house seat at next year's South Australian election.
+In second spot on the ticket will be Diana Bleby, a speech pathologist, while Esther Simbi, a social worker and former refugee from South Sudan, will run in fourth spot.
+Ms Vincent, who has cerebral palsy, was one of youngest woman elected to an Australian parliament in 2010 under tragic circumstances.
+She was the party's second nomination, with their first candidate dying days before the election.
+The party faces a tough fight to win seats with a push by Senator Nick Xenophon to establish a new state-based political party - SA Best - which aims to attract disgruntled voters.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Australians</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Party MP Kelly Vincent</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>South Sudanese</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Australian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA's Dignity Party</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SA Best</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Esther Simbi</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>South Sudan</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Senator Nick Xenophon</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Diana Bleby</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Ms Vincent</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Associated Press</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

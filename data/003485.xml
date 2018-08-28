@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404372743499509</docid>
+  <date>31/07/2017</date>
+  <time>23:30</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/vimy-secures-6m-advance-mulga-rock-dfs/</url>
+  <title>Vimy secures $6m to advance Mulga Rock DFS - Australian Mining</title>
+  <content>
+Latest News
+
+Vimy Resources has raised $6 million to fund a definitive feasibility study (DFS) it is progressing at the Mulga Rock uranium project in Western Australia.
+The capital raising, which consists 43 million shares at $0.14 each, has been secured through a placement to sophisticated and institutional investors.
+Vimy plans to use the funds to complete the DFS at Mulga Rock, including assessing high-grade mining scenarios and staged capital implementation plans.
+It will complete an updated ore reserve using a new resource model announced earlier this month.
+The company will also run financials for the DFS with new metal throughputs and submit the remaining secondary permit applications to ensure the project is construction ready by mid-2018.
+Vimy managing director Mike Young said the company was happy with the overwhelming response from investors, who appreciate the positive outlook for uranium and its place in the world as the best source of clean energy.
+"Our Mulga Rock deposit is world-class, and is on target to be one of the few uranium projects on earth that will be 'mine-ready' in 2018," Young said.
+"I'm particularly proud of our team who continually over-deliver on our promises, and I thank Morgans for conducting such a successful process."
+Mulga Rock comprises 90.1Mlbs of U3O8 and will have the capacity to produce 1360 tonnes per annum of uranium oxide for up to 17 years, according to Vimy.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mlbs of U</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>O8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Western Australia</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Morgan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Vimy Resources</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mulga Rock</name>
+    <count>3</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Mike Young</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mulga Rock DFS</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>DFS</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Vimy</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  </sindexList>
+</snippet>

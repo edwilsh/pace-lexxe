@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414075074798812</docid>
+  <date>02/08/2017</date>
+  <time>13:09</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/us-companies-add-178000-jobs/news-story/38e8c771347656759a44f50f372d628d</url>
+  <title>US companies add 178,000 jobs</title>
+  <content>
+US businesses added a solid 178,000 jobs in July, evidence employers remain confident enough about future demand to keep hiring.
+Payroll processor ADP said on Wednesday the biggest gains were in fields such as education and health care and shipping.
+Manufacturers actually cut 4000 jobs, while construction firms added 6000. Mining, which includes oil and gas drilling, gained 3000 jobs.
+The figures provide some reassurance the US economy remains healthy.
+Consumer spending slowed last month as Americans cut back sharply on car purchases but the overall economy grew at a decent 2.6 per cent annual pace in the April-June quarter.
+Analysts predict the government's jobs report, to be released Friday, will show a robust 190,000 jobs were added, according to data provider FactSet.
+</content>
+  <sindexList>
+  <sindex>
+    <name>FactSet</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>ADP</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>April-June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

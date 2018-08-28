@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434175522066776</docid>
+  <date>05/08/2017</date>
+  <time>19:09</time>
+  <isTopNews>false</isTopNews>
+  <source>Courier Mail</source>
+  <url>http://www.couriermail.com.au/questnews/logan/petition-calls-for-logan-to-turn-on-tap-at-eagleby-wetlands/news-story/c94e2e4fe60bbce8c0ca5bc37d3408af</url>
+  <title>Calls for wetlands clean-up</title>
+  <content>
+A PETITION asking Logan City Council to clean up the waterways at the Eagleby Wetlands is online.
+The petition, run by wetlands resident Roger Taufel, calls on Logan City Council to get rid of weeds clogging gullies, pipes, ponds and walkways and to "turn the tap back on".
+Mr Taufel said Logan did not implement a plan designed by the Gold Coast, which was the authority until it was handed to Logan in 2008.
+"Logan City Council rejected this paid-for-plan, and shortly after turned off a tap that fed clean water and topped up the wetlands from the nearby waste water treatment plant, destroying the environment that attracted the birds. That water is piped directly into the adjoining Albert River next to the Wetlands, so it must be clean."
+Read the petition at
+</content>
+  <sindexList>
+  <sindex>
+    <name>LOGAN</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Logan City Council</name>
+    <count>3</count>
+    <score>-0.33</score>
+  </sindex>
+  <sindex>
+    <name>Albert River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Eagleby Wetlands</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Roger Taufel</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gold Coast</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Taufel</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

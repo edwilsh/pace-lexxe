@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651425521162855905</docid>
+  <date>04/08/2017</date>
+  <time>09:34</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/facebooks-latest-solution-to-fake-news-more-machines-baby/</url>
+  <title>Facebook's Latest Solution To Fake News? More Machines, Baby</title>
+  <content>
+Take a shot every time Facebook evades editorial accountability.
+
+On Thursday,  that it is going to use "updated machine learning" algorithms in order to better spot and counter misinformation on its platform. The company says it will use its existing third-party fact checkers to review stories that the new algorithm flags, and their reports may be shown below flagged stories in a section called Related Articles.
+
+The  - a list of suggested links offering varying perspectives - is technically not new. Facebook started publicly testing the feature , but now the company is rolling out the feature more widely in the US, Germany, France, and Netherlands,  on Thursday. These are countries where Facebook already has fact checking partnerships in place.
+
+Image: Facebook
+
+Facebook says its objective with Related Articles and updated machine learning tech is to offer users more context on the validity of a story they see in their feed. The company aims to help users make better judgment calls as to whether or not they should believe a potential hoax, or share it to their network.
+
+But it's also just another way for Facebook to continue acting like a news outlet  without directly accepting any journalistic responsibility.
+
+"We don't want to be and are not the arbiters of the truth," Facebook News Feed integrity product manager Tessa Lyons told TechCrunch. "The fact checkers can give the signal of whether a story is true or false."
+
+But while Facebook does not want to be seen as the authority over what stories are permitted on its platform, it is. By delegating the subjective work to non-Facebook employees and leaning on machine learning technology, Facebook still gets to wield its influence as an editorial outlet without being labelled as one. And if any mistakes are made - like if a politically-charged story is wrongly flagged as a hoax, or if Facebook accidentally recommends fake news - Facebook can now more easily shift blame to a glitch or a third-party.
+
+Facebook hasn't shared why its updated machine learning algorithm is now more capable than it once was - or if a previous version was ever widely in use on users' Newsfeeds before today. But the company is seemingly hell-bent on trying to fix its misinformation problem (the one Mark Zuckerberg ) out in the open. The shady part is, Facebook wants to do this without being held directly responsible for how it handles a potential hoax. Facebook isn't calling the shots, the machines are.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>France</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>TechCrunch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook</name>
+    <count>14</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Related Articles</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook's Latest Solution To Fake News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mark Zuckerberg</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Tessa Lyons</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Facebook's News Feed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Netherlands</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

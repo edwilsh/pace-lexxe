@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414551816179805</docid>
+  <date>02/08/2017</date>
+  <time>15:00</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/samsung-huawei-smartphone-beauty-filters-whiten-your-skin-2017-8</url>
+  <title>How popular smartphones make your skin look 'whiter' in selfies</title>
+  <content>
+If you own a phone which runs Android, the chances are it has a camera setting you don't know about.
+
+Popular smartphones like the Samsung Galaxy S8, the Galaxy S7, the Huawei P9, and many others often feature something called "Beauty" or "Beauty mode" when you turn on the front camera to take a selfie.
+
+Theoretically, it does what it says on the tin: airbrushing magic to make you look prettier in photos. Usually, it makes your skin look smoother and your eyes brighter.
+
+When I played around with Beauty mode on my Huawei P9, I found it also whitened my skin. It's especially noticeable on anyone who's dark-skinned, like I am.
+
+I experimented with several other popular phones to see how extreme the beauty settings are, and you can see the results of my experiment below.
+
+A caveat: different phones have different default settings. The default white balance setting on one phone might make you and your surroundings look washed out compared to another phone. So I compared "Beauty" selfies with normal selfies taken on the same device. I took photos at a similar time of day, inside an office with plenty of natural light.
+
+I started with my own phone, the Huawei P9, which has a fairly complicated set of beauty filter settings.
+
+You can set the following attributes anywhere between 1 and 10, where 10 is the most extreme version: "Smooth", "Whiten", "Enlarge eyes", "Brighten eyes", and "Thinner face".
+
+This is what it looked like when I set everything at 10. (Grab the slider bar and move it sideways to compare the photos.)
+
+A normal Huawei P9 photo vs a "Beauty" Huawei P9 photo
+
+Clearly, this is the most exaggerated version of the filter. But if you wanted to, you could put each setting at 2 or 3, making your face look slightly whiter and slightly thinner.
+
+It's not just high-end smartphones either. Here's a how a selfie turned out on the Moto G5, which costs around £160 ($US211) and features a 5-megapixel front camera.
+
+A normal Moto G5 photo vs a "Beauty filter" Moto G5 photo
+
+I also tried the Sony Xperia X Compact, another mid-range phone which has a "soft skin" beauty mode. The effect isn't quite as exaggerated as all the others though.
+
+A normal Sony Xperia X Compact photo vs a "soft skin" Sony Xperia X Compact photo
+
+Like Huawei, Samsung included some weird face-thinning settings along with its beauty filter. Its camera can make your eyes bigger and, of course, your skin whiter too.
+
+A normal Samsung S7 Edge photo vs a "Beauty Face" selfie Samsung S7 Edge photo
+
+Finally, I tried the Huawei P10, the successor to the Huawei P9.
+
+The P10 also has lots of complicated beauty settings - the most dramatic I found were the filters you apply after you've taken a selfie. You can turn up how soft your skin appears or ... how white you are. Here's a normal photo compared with a photo where I turned the whiteness up to full.
+
+A normal Huawei P10 photo vs a white filtered Huawei P10 photo
+
+We also tried taking selfies on the iPhone 7 and the Google's Pixel XL but neither had adjustable beauty settings in selfie mode.
+
+A normal iPhone 7 photo
+
+Samsung and Huawei are the two biggest Android smartphone vendors globally, and both actively show off the fact you can use their devices to make your eyes bigger and your skin whiter.
+
+In a demo application,  Huawei  Together, the two firms account for a third of the entire smartphone market,  That's millions of consumers with phones whose selfie filters suggest whiter skin equals more beautiful.
+
+This isn't the only example of technology apparently reinforcing negative ideas about race.
+
+Black phone users noticed that Snapchat's augmented reality filters
+
+FaceApp
+
+And Microsoft launched a chatbot last year
+
+All of this is particularly difficult for dark-skinned women who have to contend with the fact that some Asian, South Asian and African cultures already view their complexion negatively. We don't need our phones to do it too.
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Huawei P10</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>iPhone 7</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>P10</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Galaxy S7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung S7 Edge</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huawei P9</name>
+    <count>6</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>South Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FaceApp</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung Galaxy S8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Snapchat</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google's Pixel XL</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Huawei</name>
+    <count>3</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Android</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Moto G5</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sony Xperia X Compact</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>African</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Asian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Samsung</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>US$211</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

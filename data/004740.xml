@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651406000536129700</docid>
+  <date>01/08/2017</date>
+  <time>05:49</time>
+  <isTopNews>false</isTopNews>
+  <source>New Daily</source>
+  <url>http://thenewdaily.com.au/news/world/2017/08/01/trump-dictated-sons-statement-russian-meeting/</url>
+  <title>Donald Trump dictated son's 'misleading' Russian lawyer statement</title>
+  <content>
+US President Donald Trump dictated a statement, later shown to be misleading, in which his son Donald Trump Jr said a meeting he had with a Russian lawyer in June 2016 was not related to his father's presidential campaign, The Washington Post has reported.
+Donald Trump Jr released emails in July that showed he eagerly agreed last year to meet a woman he was told was a Russian government lawyer who might have damaging information about Democratic presidential candidate Hillary Clinton as part of Moscow's official support for his father.
+The New York Times was first to report the meeting.
+The Washington Post said Trump advisers discussed the new disclosure and agreed that Donald Trump Jr should issue a truthful account of the episode so that it "couldn't be repudiated later if the full details emerged".
+The President, who was flying home from Germany on July 8, changed the plan and "personally dictated a statement in which Donald Trump Jr said he and the Russian lawyer had "primarily discussed a program about the adoption of Russian children", The Post said, citing unnamed people with knowledge of the deliberations.
+It said the statement, issued to The New York Times as it prepared to publish the story, emphasised that the subject of the meeting was "not a campaign issue at the time".
+A lawyer for Mr Trump, Jay Sekulow, issued a statement in response to The Post report: "Apart from being of no consequence, the characterisations are misinformed, inaccurate, and not pertinent."
+US investigators are probing whether there was collusion between the Kremlin and Trump's Republican presidential campaign.
+US intelligence agencies have concluded that Moscow sought to hurt Mrs Clinton and help Mr Trump in the 2016 election.
+Russia denies any interference, and Mr Trump has denied collusion with Russia.
+The President applauded his son's "transparency" after he released the email exchanges on July 11.
+"It remains unclear exactly how much the president knew at the time of the flight about (Donald) Trump Jr's meeting," the Washington Post said.
+David Sklansky, a professor of criminal law at Stanford Law School, said that if Mr Trump, as reported by The Post, helped craft a misleading public statement about the meeting, he may have bolstered a potential obstruction of justice case against himself.
+To build a criminal obstruction of justice case, federal law requires prosecutors to show that a person acted with "corrupt" intent. A misleading public statement could be used as evidence of corrupt intent, Professor Sklansky said.
+"Lying usually isn't a crime," he said. But "it could be relevant in determining whether something else the president did, like firing (former FBI Director James) Comey, was done corruptly".
+</content>
+  <sindexList>
+  <sindex>
+    <name>Moscow</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Jay Sekulow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russian</name>
+    <count>5</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>July 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump's Republican</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stanford Law School</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July 11</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hillary Clinton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>David Sklansky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Comey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Professor Sklansky</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Germany</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Mr. Trump</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>New York Times</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>FBI Director James</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Washington Post</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June 2016</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Russia</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Trump Jr</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kremlin</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump Jr</name>
+    <count>4</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Mrs. Clinton</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651435421062593212</docid>
+  <date>05/08/2017</date>
+  <time>23:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/06/09/50/blizzards-and-thunder-to-hit-victoria</url>
+  <title>Blizzards and thunder to hit Victoria</title>
+  <content>
+Blizzards are expected to hit Victoria's eastern alpine areas while thunderstorms and hail could batter Melbourne.
+Up to half a metre of snow is expected to fall at Mt Hotham, Mt Bulla and Falls Creek with wind gusts of more than 100km/h, Bureau of Meteorology forecaster Dean Stewart says.
+"There will be plenty snow up in the eastern alpine regions today with the wind set to create blizzard conditions," Mr Stewart said.
+Melbourne can expect rain throughout the day with an unstable atmosphere creating conditions for possible thunderstorms and hail.
+"There is a risk of thunderstorm and hail activity through much of the state including in Melbourne," he said.
+Mr Stewart said the worst of the wind had passed Melbourne overnight with winds of up to 80km/h recorded by some stations.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Mr Stewart</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Victoria</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Hotham</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>4</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Dean Stewart</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Falls Creek</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt Bulla</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bureau of Meteorology</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

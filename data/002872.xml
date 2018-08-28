@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402272504453356</docid>
+  <date>31/07/2017</date>
+  <time>15:21</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/how-easy-clone-crack-rfid-security-badge-hackers-07-2017-2017-8</url>
+  <title>Hackers showed us how easy it is to secretly clone a security badge</title>
+  <content>
+Almost everyone uses an RFID badge to get into their office or apartment, and it's a lot easier than you might think for someone to steal the data on your card to gain access. A group of white hat hackers called  cloned one of our work IDs to show us just how quickly they can do it from as far as 3-6 feet away.
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RFID</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

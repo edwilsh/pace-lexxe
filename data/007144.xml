@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410639100901736</docid>
+  <date>01/08/2017</date>
+  <time>23:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/world/2017/08/02/09/34/grounded-airliner-passengers-call-911-because-of-heat</url>
+  <title>Desperate airline passengers stuck on Canadian runway call 911</title>
+  <content>
+Passengers stuck on a plane for hours at a Canadian airport during which they endured "inhuman" conditions were reprimanded for calling emergency services.
+Video posted by travellers aboard Air Transat Flight 157 from Belgium shows the unbearable interior of the plane when it was forced to divert to Ottawa on Monday due to thunderstorms. 
+After an eight-hour flight the jet sat on the tarmac for six more hours with its air conditioning and lights turned off and passengers were barred from getting off, The Montreal Gazette reports.
+Footage shows people fanning themselves with magazines to beat the heat.
+In their frustration, some travellers called the emergency 911 line and ambulances and police cars attended the runway incident.
+While paramedics boarded the plane and water bottles given out, authorities told the passengers there was nothing they could do.
+But the emergency calls resulted in a curt response from the plane's captain. Over the address system, he asked them not to call 911.
+
+Related Articles
+
+CBC News later reported that Air Transat said passengers were unable to leave the aircraft because of the large number of planes diverted to Ottawa. The air conditioning and lights were turned off because of refuelling, according to the carrier.
+On social media, passengers described the conditions as "inhuman" and "unbearable".
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Monday</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>CBC News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Air Transat</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Canadian</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Air Transat Flight 157</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Belgium</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ottawa</name>
+    <count>2</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Montreal Gazette</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

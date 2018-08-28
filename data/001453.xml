@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651399691229059776</docid>
+  <date>31/07/2017</date>
+  <time>05:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Cairns Post</source>
+  <url>http://www.cairnspost.com.au/news/breaking-news/kim-celebrates-missile-with-grand-banquet/news-story/5dabbcca8e72653d90ff19e63b2476fe</url>
+  <title>Kim celebrates missile with grand banquet</title>
+  <content>
+The North Korean leader and his wife have held a grand banquet to celebrate the July 28 launch of an intercontinental missile, which was attended by officers responsible for the launch and officials from the ruling Workers' Party of Korea.
+Among those attending the banquet held by Kim Jong-un in Pyongyang were Ri Man-gon, vice-chairman of the Central Committee of the Workers' Party of Korea, and Kim Rak-gyom, head of North Korea's Strategic Rocket Forces, the Rodong Sinmun newspaper and state news agency KCNA reports.
+The event also featured an orchestra performance and a choir.
+"The great success in the second test-fire of Hwasong-14 has established a new world political structure with socialist Korea as its axis," Ri said during his speech, according to KCNA.
+He also urged the country "to ceaselessly produce new-type ballistic rockets ... and to make a series of successes in the field of defense scientific research."
+North Korea on Friday successfully launched its second intercontinental ballistic missile.
+The Hwasong-14 missile flew 998 kilometres for about 47 minutes and reached a maximum altitude of 3,724.9 kilometres before falling into the Sea of Japan, also called the "East Sea" by the two Koreas.
+After the test, Pyongyang claimed that the rocket could reach any part of the United States.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Pyongyang</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Ri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea's Strategic Rocket Forces</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KCNA</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>North Korea</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Kim</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>July 28</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kim Jong-un</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>North Korean</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Korea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ri Man-gon</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Kim Rak-gyom</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rodong Sinmun</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hwasong-14</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Central Committee of the Workers</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Sea of Japan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>East Sea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Party of Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Workers' Party of Korea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

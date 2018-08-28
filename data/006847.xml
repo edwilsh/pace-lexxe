@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410252553837730</docid>
+  <date>01/08/2017</date>
+  <time>22:19</time>
+  <isTopNews>true</isTopNews>
+  <source>Perth Now</source>
+  <url>http://www.perthnow.com.au/news/world/british-jihadi-threatens-rome-istanbul-trump-in-propaganda-video/news-story/8cd1b462212625eb8ffcf1dfd55f9141</url>
+  <title>British jihadi's threat to Trump</title>
+  <content>
+'WE will slaughter you in your own houses': An Islamic State jihadist with a British accent has threatened President Trump and warned of fresh terror attacks.
+With the self-proclaimed Caliphate on its knees in Iraq and Syria, a short video clip released by Islamic State propagandists on social media shows a young man with a British accent threatening attacks on Italy and Turkey.
+The fighter is standing in what appears to be a heavy machinegun position defending the besieged 'capital' of the Caliphate, the Syrian city of Raqqa.
+The jihadi calls President Trump 'the new Pharaoh' - a reference to the biblical oppressors of the Old Testament.
+
+'This is a message to the new pharaoh of today, Donald Trump. You may have your eyes on Raqqa and Mosul but we have our eyes on Constantinople and Rome," he asserts.
+"(With God's permission), we will slaughter you in your own houses."
+It's not the first time these capitals of the medieval world have been referred to in Islamic State propaganda. Both featured prominently during the Crusading era.
+But the finger-jabbing jihadi's defiant words appear born of desperation.
+Syrian Democratic Forces (SDF) troops are slowly advancing through the outer suburbs of Raqqa, Islamic State's last major stronghold.
+The US-backed forces encircled the capital, breaching the fortified defences and moving closer to the heart of the city. Officials are predicting a long, tough battle, estimating that more than 2000 militants are holed up with their families and tens of thousands of civilians in the city's centre.
+The 50,000-strong city's southern outskirts have largely been secured since the assault began in June. Fresh advances are beginning in the east and west.
+Syrian Kurdish forces claim they have captured several Islamic State fighters from Sweden.
+The Ekot news program says jihadi fighters from other countries are also being held by the People's Protection Units, or YPG, the Kurdish militia that forms the backbone of the Syrian Democratic Forces.
+Ekot didn't provide details on how many jihadi fighters from Sweden are being held.
+Sweden's security service, known by its initials SAPO, has said that up to 300 people from Sweden have joined radical Muslims in the past six years. There was no immediate comment from the Swedish Foreign Ministry.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Constantinople</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SAPO</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syrian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sweden</name>
+    <count>4</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Italy</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Kurdish</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Turkey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Raqqa</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Pharaohs</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mosul</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Iraq</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ekot</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SDF</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Muslim</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Trump</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Islamic State</name>
+    <count>5</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syria</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Rome</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>YPG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Syrian Kurdish</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US-backed</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>God</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Old Testament</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Swedish Foreign Ministry</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Syrian Democratic Forces</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>People's Protection Units</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>President Trump</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  </sindexList>
+</snippet>

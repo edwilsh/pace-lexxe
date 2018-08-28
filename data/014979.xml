@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651423605607410992</docid>
+  <date>04/08/2017</date>
+  <time>02:08</time>
+  <isTopNews>false</isTopNews>
+  <source>Brisbane Times</source>
+  <url>http://www.brisbanetimes.com.au/business/property/law-institute-to-offload-bourke-street-office-20170804-gxp7k9.html</url>
+  <title>Law Institute to offload Bourke Street office</title>
+  <content>
+The Law Institute of Victoria has moved to sell its Melbourne headquarters in Bourke Street, a building it has occupied for nearly 40 years.
+The LIV will divest the nine-storey office tower and seek a leaseback arrangement from the buyer while it looks for a replacement space in the city, chief executive Nerida Wallace said.Photo: Arsineh Houspian
+ Options around the possibility of purchasing or leasing a property in the Melbourne legal precinct in the short to medium-term were being explored by the LIV, Ms Wallace said.
+The 2261-square-metre office is expected to fetch more than $30 million. The LIV purchased it for $1.5 million in 1978.
+A final decision to sell would be contingent on whether the LIV can get maximum value for the property in the current strong market conditions, Ms Wallace said.
+The institute was working with consultants Charter Keck Cramer but has not appointed agents.
+The LIV office is opposite the flashy headquarters of the RACV club, also on Bourke.
+Two weeks ago the former home of Kozminsky jewellers, down the street at 421 Bourke, changed hands for $7.6 million, snapped up by Melbourne's Giannarelli family.
+Directly opposite Kozminsky's, Gross Waddell is selling the home of Auski on the corner of Bourke Street and Hardware Lane.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Bourke Street</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Liv</name>
+    <count>5</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne's Giannarelli</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Auski</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Law Institute of Victoria</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Bourke</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RACV</name>
+    <count>1</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>Kozminsky</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hardware Lane</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nerida Wallace</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Wallace</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Arsineh Houspian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Charter Keck Cramer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gross Waddell</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

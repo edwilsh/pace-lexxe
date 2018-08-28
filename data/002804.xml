@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651402049166149089</docid>
+  <date>31/07/2017</date>
+  <time>14:29</time>
+  <isTopNews>false</isTopNews>
+  <source>The Adviser</source>
+  <url>http://www.adelaidenow.com.au/sport/football/manchester-united-fined-after-player-phil-jones-verbally-abused-a-uefa-antidoping-officer/news-story/cf4aed44c03d8f5aec121c292e913901</url>
+  <title>Man Utd fined for anti-doping breach</title>
+  <content>
+MANCHESTER United player Phil Jones has been banned for two European matches for verbally abusing a UEFA anti-doping officer.
+Both Jones and teammate Daley Blind have also been fined £4,500 ($5,900).
+Jones was understood to have been verbally abusive towards a doping control officer after he was requested to attend drug-testing after the final against Ajax in Stockholm on May 24.
+He will now miss the UEFA Super Cup match against Real Madrid next week and United's first Champions League group stage match in September.
+It is understood Blind was reluctant to take a test as requested because he wanted to celebrate with his team-mates, whose 2-0 victory over Ajax ensured their qualification for this season's Champions League.
+There is no suggestion that either player is guilty of doping.
+Manchester United have also been fined £8,900 because of the rule breaches.
+The club have three days to appeal against the decisions.
+This story was first published in
+</content>
+  <sindexList>
+  <sindex>
+    <name>Real Madrid</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UEFA</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Phil Jones</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jones</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Utd</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>UEFA Super Cup</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stockholm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Daley Blind</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ajax</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Manchester United</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Champions League</name>
+    <count>2</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>September</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>May 24</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

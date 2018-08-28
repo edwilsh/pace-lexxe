@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651441262218169766</docid>
+  <date>06/08/2017</date>
+  <time>22:39</time>
+  <isTopNews>true</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/08/18/service-station-melbourne-hillside-armed-men-thieves-crime</url>
+  <title>Armed gang rob three service stations in Melbourne</title>
+  <content>
+A gang of armed thieves are on the run this morning after ransacking three service stations armed with bats and knives in Melbourne's north west on the weekend.
+The first robbery occurred at 3am on Saturday when seven men smashed their way into a service station on the Melton Highway in Hillside.
+They tried to access the cigarette cabinets but failed and instead took off with the shop attendant's car.
+Thirty minutes later the same men targeted another service station in Laverton North. Armed with a knife, baseball bat and hammers the thugs stole cigarettes and a cash register just before 3.30am.
+The attendant was forcced to lock himself in a back room. He was uninjured.
+The last incident occurred in Rockback at 3.30am on Sunday. Six men armed with hammers stole the cash register and cigarettes before fleeing in a black SUV and a silver sedan.
+Attendants and shoppers have been left traumatised by the brazen attacks, which are believed to be linked.
+
+Related Articles
+
+(C)   Nine Digital Pty Ltd 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Laverton North</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sunday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SUV</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melton Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nine Digital Pty Ltd 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Rockback</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

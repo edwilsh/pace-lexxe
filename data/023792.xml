@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651445303782458980</docid>
+  <date>07/08/2017</date>
+  <time>14:20</time>
+  <isTopNews>false</isTopNews>
+  <source>The Age</source>
+  <url>http://www.theage.com.au/small-business/smallbiz-tech/binary-beer-to-put-an-end-to-the-pub-with-no-beer-20170807-gxqx0b.html</url>
+  <title>The Aussie invention ensuring pubs never run out of beer</title>
+  <content>
+With a background in computer science and engineering and a home-brewing hobby, Binary Beers is the combination of Michael Burton's two passions.  
+Burton co-founded the start-up with his wife Brooke Burton a few years ago with the aim of measuring how much beer is left in a keg, the location of the keg and the temperature of the brew. Photo: Binary Beer
+As a home brewer Burton says "my biggest problem has been kegs run out when you least expect it".
+Burton and his wife sold their car and house to fund the start-up but it was not until Burton joined the University of Wollongong's start-up hub iAccelerate this year that he realised the broader application of his idea.Photo: Binary Beer
+"I realised this is not just a home brew problem, this is a global problem for commercial brewers," he says. "It's ."
+Burton discovered beer kegs were running out and it was taking days before a replacement arrived, or beers were sitting around for too long, affecting quality.
+
+"We set about developing sensors that attach to the beer keg that track the location and the temperature of the beer so we can guarantee the beer being sold is fresh," Burton says. 
+
+You will now receive updates from
+
+My Small Business Newsletter
+
+My Small Business Newsletter
+
+Get the latest news and updates emailed straight to your inbox.
+
+Burton worked with a team of five University of Wollongong students headed up by James Rule to develop sensors that can cost as little as $30 each and use a LoRAWAN network to transmit data about each keg.Photo: Binary Beer
+The network operates out of the Internet of Things project set up by the University of Wollongong's SMART Infrastructure Facility and Burton says it is preferable to Wi-Fi which would require user names and passwords for each keg.
+"It's open source technology so everyone can use it without paying for it," he says.
+Less than nine months after joining iAcclerate, Burton's first smart kegs have gone out into the world holding beer from Wollongong craft brewery Five Barrel Brewing.
+﻿​Phillip O'Shea, co-owner and head brewer at Five Barrel, says kegs can cause headaches for brewers. 
+I realised this is not just a home brew problem this is a global problem for commercial brewers.
+Michael Burton
+
+"The problems you can have is that they can go missing, and knowing where a keg is at all times is pretty valuable and knowing the temperature and volume of the keg is also really handy," he says. "Preferably kegs are stored cold, and if they are stored warm for a long period of time it can affect the quality of keg."
+Five Barrel has been in operation for just under two years with turnover of $350,000 last year. 
+"We have been able to see some of the data on the kegs we have sent out, which shows the people we are dealing with are handling our beer appropriately which is nice to see," O'Shea says. "The key with this is going to be the data and then the predictability of volumes and things like that. It will help venues keep a small inventory of products to make sure they don't over order and it will help us in planning our production schedules." 
+This will be particularly helpful for craft brewers like Five Barrel. 
+"Our capacity is 1200 litres and we have been at capacity for about a month, but we have just installed two new tanks," O'Shea says. "We are mindful of not growing too quickly but we were slammed last month." 
+Burton has already had talks with some of the biggest of the world's brewers, including Heineken and Anheuser-Busch.
+"After the trial we have to turn this prototype into a commercial product, then we will be looking for ways to send this into the marketplace on a much larger scale," he says.
+"We've been in contact with some of the bigger brewers, including international brewers, so it would be wonderful to work with some of Australia's bigger brewers including CUB and Lion Nathan and start connecting our sensors to thousands of kegs at a time rather than two." 
+Follow MySmallBusiness on ,  and . 
+</content>
+  <sindexList>
+  <sindex>
+    <name>O'Shea</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Heineken</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>LoRAWAN</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>University of Wollongong</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SMART Infrastructure Facility</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Michael Burton</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Small Business Newsletter</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Five Barrel Brewing</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Lion Nathan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Binary Beer</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brooke Burton</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iAcclerate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iAccelerate</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Phillip O'Shea</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Five Barrel</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>James Rule</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>MySmallBusiness</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Burton</name>
+    <count>10</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Aussie</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Internet of Things</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anheuser-Busch</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

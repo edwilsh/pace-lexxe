@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410986993257905</docid>
+  <date>02/08/2017</date>
+  <time>01:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-02/curious-campaign-what-have-you-always-wondered-about-adelaide/8766418</url>
+  <title>What have you always wondered about Adelaide?</title>
+  <content>
+Do you have a burning question about our city, its surrounds, its people or our culture?
+ABC Adelaide is proud to announce Curious Adelaide, a new project inviting you to have a say in the stories we cover.
+and we'll get a journalist to track down the answer.
+Each month, we'll take some of the best questions and give you the chance to vote on which one we should cover.
+We'll publish the answer on a Friday.
+If you're question gets a guernsey, you might even become part of the story telling process by joining a journalist on the road researching and interviewing the people who have the answers.
+It's journalism powered by the people.
+What are you curious about?
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adelaide</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Curious Adelaide</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ABC Adelaide</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  </sindexList>
+</snippet>

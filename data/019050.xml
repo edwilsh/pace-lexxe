@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651434927141349757</docid>
+  <date>05/08/2017</date>
+  <time>22:04</time>
+  <isTopNews>false</isTopNews>
+  <source>Gizmodo</source>
+  <url>https://www.gizmodo.com.au/2017/08/exclusive-heres-the-full-10-page-anti-diversity-screed-circulating-internally-at-google/</url>
+  <title>Exclusive: Here's The Full 10-Page Anti-Diversity Screed Circulating Internally At Google</title>
+  <content>
+A software engineer's 10-page screed against Google's diversity initiatives is going viral inside the company, being shared on an internal meme network and Google+. The document's existence was first reported by Motherboard and Gizmodo has obtained it in full.
+
+Photo: AP
+
+In the memo, which is the personal opinion of a male Google employee and is titled "Google's Ideological Echo Chamber", the author argues that women are underrepresented in tech not because they face bias and discrimination in the workplace, but because of inherent psychological differences between men and women.
+
+"We need to stop assuming that gender gaps imply sexism", he writes, going on to argue that Google's educational programs for young women may be misguided.
+
+The post comes as Google battles a  by the US Department of Labour, which has found that Google routinely pays women less than men in comparable roles.
+
+Gizmodo has reached out to Google for comment on the memo and how the company is addressing employee concerns regarding its content. We will update this article if we hear back.
+
+The text of the post is reproduced in full below, with some minor formatting modifications. Two charts and several hyperlinks are also omitted.
+
+WATCH MORE: Tech News
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Photo</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>WATCH MORE</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Gizmodo</name>
+    <count>2</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>Google's Ideological Echo Chamber</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Tech News</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Full 10-Page Anti-Diversity Screed Circulating Internally At Google</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US Department of Labor</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Google</name>
+    <count>7</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

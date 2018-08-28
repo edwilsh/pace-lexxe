@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651443280852826120</docid>
+  <date>07/08/2017</date>
+  <time>06:29</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/07/16/19/man-gunned-down-at-nsw-nightclub-court</url>
+  <title>Man gunned down at NSW nightclub: court</title>
+  <content>
+A wounded father-of-two ran back inside a Wollongong nightclub with a gunman hot on his heels, a NSW jury has heard.
+Dragan Sekuljica was fatally shot execution-style by a balaclava-clad gunman in an alleged contract killing at Splashes nightclub in the early hours of September 8, 2007.
+Accused gunman Tevi Koloamatangi, 47, and accused planner Zlatan Popovic, 45, are standing trial at the NSW Supreme Court in Darlinghurst after pleading not guilty to his murder.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>Darlinghurst</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  <sindex>
+    <name>NSW</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>September 8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dragan Sekuljica</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Zlatan Popovic</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tevi Koloamatangi, 47</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>NSW Supreme Court</name>
+    <count>1</count>
+    <score>-6</score>
+  </sindex>
+  </sindexList>
+</snippet>

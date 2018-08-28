@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651403556699698537</docid>
+  <date>31/07/2017</date>
+  <time>20:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-01/brisbane-mount-saint-michaels-college-abuse-allegation/8761488</url>
+  <title>Brisbane girls school Mt St Michael's College receives historical sexual abuse complaint</title>
+  <content>
+An exclusive Brisbane girls school has revealed it received a formal complaint of historical sexual assault, dating back 40 years.
+Mt St Michael's College, an all-girls Catholic high school in the inner suburb of Ashgrove, has written to former students about the allegations.
+The letter, signed by principal Sharon Volp, said the abuse allegedly occurred between a student and a former staff member in the 1970s.
+"With great sadness, I need to confirm that we have received a formal complaint regarding an allegation of sexual abuse in respect to one of our students and a former staff member going back to the period 1976-1978," the letter reads.
+"The matter has been reported to the police and the relevant authorities.
+"I find the abuse of children distressing and abhorrent and as principal, I would like to assure everyone that we have in place the most stringent protocols for the protection of children and proper measures in place to respond to and support anyone who comes forward with an issue."
+The school has asked anyone with concerns about past or present inappropriate behaviour of anyone associated with Mt St Michael's to refer the matter to police and to contact Ms Volp and/or the Queensland Catholic Church Standards Office.
+"I ask that you keep all of the members of our community, both past and present, in your thoughts and prayers," Ms Volp wrote.
+The ABC has contacted Mt St Michael's College and the police for comment.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ashgrove</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ms Volp</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Catholic</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Brisbane</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Queensland Catholic Church Standards Office</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mt St Michael</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Mt St Michael's College</name>
+    <count>3</count>
+    <score>-2.7</score>
+  </sindex>
+  <sindex>
+    <name>ABC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sharon Volp</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

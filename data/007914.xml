@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651411322000712347</docid>
+  <date>02/08/2017</date>
+  <time>02:28</time>
+  <isTopNews>true</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/victoria/melbourne-airport-extreme-landings-caught-on-camera/news-story/70693b82a24b69052ba5741efe9adecc</url>
+  <title>Planes battle wild winds at Tulla</title>
+  <content>
+LANDING a passenger jet is difficult enough.
+Doing it in 100km/h winds would given even the calmest pilot sweaty palms.
+Aircraft landing at Melbourne Airport were rocked around by wild winds on .
+Footage on  shows the tough conditions that made landing at Tullamarine a challenge for commercial pilots and a frightening experience for passengers.
+Amazing landings at Melbourne Airport.
+
+Amazing landings at Melbourne Airport
+
+Jetstar passenger Therese Allaoui told the Herald Sun she was stuck on the tarmac at Melbourne Airport for more than an hour on Saturday after returning from a holiday in Bali because of the winds.
+"Everyone's pretty restless now and they've started handing out water and turned the entertainment on for free so people are occupied while it all happens," Ms Allaoui said.
+"We were told that because of the strong winds, the planes haven't been able to refuel or unpack the luggage which is why we can't disembark the plane.
+"The plane is bouncing around on the tarmac, it's almost like we're on a rollercoaster or some sort of theme park ride."
+Gusts of up to 130km/h swept through the state on Saturday morning, prompting severe weather warnings as a strong cold front crossed the state.
+The State Emergency Service received more than 800 calls for help.
+Of the calls, 300 were for building damage.
+</content>
+  <sindexList>
+  <sindex>
+    <name>Ms Allaoui</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Therese Allaoui</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jetstar</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tullamarine</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>State Emergency Service</name>
+    <count>1</count>
+    <score>0.67</score>
+  </sindex>
+  <sindex>
+    <name>Tulla</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne Airport</name>
+    <count>4</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Bali</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Saturday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Herald Sun</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401993331572880</docid>
+  <date>31/07/2017</date>
+  <time>14:16</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/business/technology/pagerduty-incident-manager-to-launch-in-australia/news-story/139542dc989d479bf676ebe223351f14</url>
+  <title>PagerDuty to launch Down Under</title>
+  <content>
+San Francisco-based PagerDuty, a company that provides software to manage digital operations and resolve incidents faster, is launching in Australia.
+With more than 800 users already in the APAC region, the start-up manages a quarter of a million incidents a day around the world.
+The tech outfit picked up $US43.8 million in a round led by Accel Partners in April. Investors include Andreessen Horowitz, Bessemer Venture Partners, and the start-up's chief executive Jennifer Tejada said that key to consistent uptime was better use of machine and human intelligence.
+PagerDuty software raises the alarm for engineers in the case of an outage, no matter how small.
+Ms Tejada said that most of the company's customers relied on the it for mission-critical services.
+"We are leveraging MI and data science across the board and we have a lot of big companies that use us for network operations and use us for diagnostics," Ms Tejada told The Australian. "We want to run incident response at a military-level precision."
+Companies tailor their PagerDuty service based on their needs and the software can be used either as a stand-alone tool that can be accessed via web and mobile devices, or as a platform integrated into an organisation's existing tools as part of its incident response workflow.
+One reason businesses such as PagerDuty are becoming more popular is because the information technology role has shifted from ensuring things keep ticking along in the background to keeping frontline services running in time.
+Customers are generally satisfied when things run smoothly but can be severely affected when there is an outage.
+From major telco outages in recent years to the wide-scale disruption of Melbourne's train services last month, IT troubles in the back means poor service for customers and plenty of vitriol on social media.
+"This is natural evolution of where every organisation is going through a disruption of some kind, and there are so many things that are happening at the same time, whether it's mobile or the cloud," Ms Tejada said.
+"So there's an evolution of how a developer works as well and the IT team now serves many masters."
+According to PagerDuty's latest survey, more than three quarters of Australian consumers will leave a digital (website or mobile) app or service in one minute or less if it is unresponsive or slow.
+The research also highlights the tangible cost of an outage, with nearly a third of respondents reporting that one hour of IT downtime costs their companies between $500,000 to more than $10 million.
+The findings, based on a two-part survey of more than 200 IT personnel in development and operations and more than 300 consumers in Australia, also revealed that resolving consumer-impacting incidents took IT teams at least five times longer than the period consumers are willing to wait.
+PagerDuty's APAC MD David Wall said providing consistent digital experience was easier said than done as back-end IT became more complex.
+</content>
+  <sindexList>
+  <sindex>
+    <name>April</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>MI</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Australians</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Andreessen Horowitz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Accel Partners</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>San Francisco-based PagerDuty</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US43.8</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australia</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>APAC</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Bessemer Venture Partners</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PagerDuty's APAC MD David Wall</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Jennifer Tejada</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>PagerDuty</name>
+    <count>5</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Melbourne</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Ms Tejada</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

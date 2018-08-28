@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651412533181508136</docid>
+  <date>02/08/2017</date>
+  <time>07:10</time>
+  <isTopNews>false</isTopNews>
+  <source>Channel 9 News</source>
+  <url>http://www.9news.com.au/national/2017/08/02/16/53/truck-driver-killed-in-riverina-crash</url>
+  <title>Truck driver killed in Riverina crash</title>
+  <content>
+A man has died after his truck veered off the roadway and crashed into a tree in the Riverina region of NSW.
+Emergency services were called to the Sturt Highway in Narrandera at about 1.50pm on Wednesday following reports of a crash.
+Initial investigations show the truck hit a tree, killing the driver who was aged in his 40s or 50s.
+He is yet to be formally identified and police investigations continue.
+A crime scene has been established and part of the highway closed.
+(C)  AAP 2017
+</content>
+  <sindexList>
+  <sindex>
+    <name>NSW</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Narrandera</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sturt Highway</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>AAP 2017</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Riverina</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

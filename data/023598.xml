@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651444419019179001</docid>
+  <date>07/08/2017</date>
+  <time>10:54</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/bitcoin-price-nvidia-advanced-micro-devices-hedge-funds-2017-8</url>
+  <title>Bitcoin's meteoric rise is costing some investors billions</title>
+  <content>
+Companies that make the semiconductors for cryptocurrency mining have been a hot-button topic in the investment world, with the fate of their stocks closely tied to the prices of bitcoin and Ethereum
+
+Hedge fund Carlson Capital has a fund that's lost 14.2% this year due to bad short wagers on Nvidia and Advanced Micro Devices
+
+The meteoric rise of  is rippling through financial markets, and not everyone is enjoying the ride.
+
+The scorching-hot cryptocurrency has tentacles that stretch into many different parts of the investment landscape, and some traders are finding out the hard way how much influence it can wield.
+
+Just ask the unfortunate souls who have been trying to short chip makers and learning the hard way that their share prices are closely linked to interest in bitcoin. The stocks of companies like  and  (AMD), which make chips used in the mining of bitcoin - a process that involves heaps of computers solving complex equations - have surged alongside the cryptocurrency, destroying the short positions.
+
+Short sellers betting against those two companies have lost a combined $US1.8 billion this year as Nvidia has skyrocketed 57% and AMD has climbed 16%, according to data provided by financial analytics firm .
+
+And the fallout is already beginning.
+
+Dallas-based hedge fund Carlson Capital's $US1 billion  lost 14.2% this year through July, and blamed  for the hit, according to a client update reviewed by Business Insider.
+
+The fund chose chipmakers as its top short theme earlier this year, citing "high inventories, double ordering, massive capex supply responses and actual pockets of weakening demand in smartphones, autos, and the Chinese optical market."
+
+Needless to say, that hasn't translated into weak share prices - and now Carlson has an axe to grind with the massively popular cryptocurrencies they see keeping the space afloat to an unsustainable degree.
+
+"The sector has turned into something of a bubble characterised best by the surge in GPU stocks, Advanced Micro Devices and Nvidia, driven by a cryptocurrency mania," portfolio managers Richard Maraviglia and Matthew Barkoff, wrote in the fund's second-quarter investor letter. "We believe the other side of this incredibly powerful consensus move in technology will be very profitable for us but to date, it has been a significant drag on performance."
+
+As for those directly trading bitcoin, the ride has been bumpy, but ultimately quite lucrative. It's up almost 200% in 2017 alone, minting big profits for those traders willing to take a chance on such a speculative entity.
+
+But by no means does the burgeoning cryptocurrency mania start and end with bitcoin. There's also , which has been gobbling up market share, surging from 5% of the cryptocurrency market in January to 30% as of June 22. In fact, up until June, Ethereum was on track to surpass bitcoin as the world's largest digital currency.
+
+Regardless of whether bitcoin, Ethereum, or another vehicle strikes your fancy, the process of mining for new blocks requires the same kinds of semiconductors. So as cryptocurrencies go, so do the stock prices of the companies making those chips.
+
+And as Carlson doubles down on its bearish chipmaker stance, other hedge funds are proving happy to chase the runaway performance of cryptocurrencies.
+
+Last Friday, activist investor , and said that it's pushing for a higher price in the company's pending $US38 billion sale to Qualcomm.
+
+Elliott did not specifically cite the white-hot cryptocurrency industry and its effect on chipmakers in a regulatory filing. After all, semiconductors are also crucial components for smartphones, a familiar stomping ground for the world's biggest company. So any bet on the industry can also be read as a play on Apple.
+
+Ultimately, even if Elliott's investment has nothing to do with cryptocurrencies, there are some market watchers that will interpret it that way.
+
+And that line of thinking represents the new reality facing investors of all types: This is an area of the market that's attracting and churning through billions of dollars, so either adjust to it or risk getting caught off-guard.
+
+Get the latest Bitcoin price
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>US1.8</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Qualcomm</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dallas-based</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nvidia</name>
+    <count>3</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Elliott</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ethereum</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$1</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>January</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Matthew Barkoff</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Carlson Capital</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Richard Maraviglia</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Advanced Micro Devices</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>GPU</name>
+    <count>1</count>
+    <score>4</score>
+  </sindex>
+  <sindex>
+    <name>June 22</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMD</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Carlson</name>
+    <count>2</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>US$38</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

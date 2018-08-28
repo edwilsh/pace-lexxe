@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651424511845523852</docid>
+  <date>04/08/2017</date>
+  <time>05:39</time>
+  <isTopNews>false</isTopNews>
+  <source>Illawarra Mercury</source>
+  <url>http://www.illawarramercury.com.au/story/4834798/qantas-flights-return-to-sydney-after-separate-issues/?cs=7</url>
+  <title>Qantas flights return to Sydney after separate issues</title>
+  <content>
+Two Qantas flights have returned to Sydney after they suffered separate issues on international routes.
+QF63, on its way to Johannesburg in South Africa, departed Sydney just before 11am and got to Tasmania before it turned back.
+QF7, heading to Dallas in the United States, departed at 1.40pm and turned around shortly after, circling in the ocean off Wollongong as it dumped fuel.
+
+It is understood one of the planes has a cracked windscreen.
+More to come
+The story  first appeared on .
+</content>
+  <sindexList>
+  <sindex>
+    <name>Dallas</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Qantas</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Wollongong</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>United States</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tasmania</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>South Africa</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF7</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>JOHANNESBURG</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>QF63</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Sydney</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

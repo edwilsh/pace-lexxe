@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651405270391678901</docid>
+  <date>01/08/2017</date>
+  <time>02:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Mining</source>
+  <url>https://www.australianmining.com.au/news/rpmglobal-unveils-digital-tool-underground-mining/</url>
+  <title>RPMGlobal unveils digital tool for underground mining - Australian Mining</title>
+  <content>
+Latest News
+
+RPMGlobal (RPM) has launched Underground Metals Solution (UGMS), a scheduling tool tailored for underground mines.
+Integrating with RPM's industry leading Enterprise Planning Platform, UGMS features automated planning and scheduling, allowing mining engineers to focus solely on achieving the scheduling outcomes needed, in the comfort of knowing that all of the underlying logic has been built into the models.
+RPM's solution architects have focused on embedding logical workflows with backfill functionality in the intelligence layer so that the solution automatically determines what is practically possible to achieve.
+Unique to RPM's intelligence layer within UGMS is dynamic haulage, product optimiser, and parametric design functionality.
+RPM chief executive and managing director Richard Mathews said the company was not just doing the same thing and expected a different result in today's mining environment.
+"We have truly defined the digital mining landscape with mine planning being the lynchpin of the Digital Mine, integrated with our Enterprise Planning Platform," Mathews said.
+"It is through this approach that we are enabling mining companies to rethink what is possible. By applying RPM's Enterprise Platform to operations, mining companies can unlock the real value out of their operations to increase production, decrease costs and deliver shareholder value."
+He added: "We have been working with our customers to take the world's leading scheduling solution into underground metals mines. UGMS engulfs a multi-disciplinary approach because underground mining is just that - multi-disciplinary.
+"Put simply, underground mine planning involves determining the optimum schedule for the pool of underground resources to extract the most out of the ore, at the lowest cost, and with the greatest safety."
+UGMS provides a singular view of the traditionally complicated, siloed activities of stoping, backfill and development to deliver breakthrough productivity, safety and revenue gains in underground mining.
+The tool has been designed with an emphasis on providing users with a singular view of these three crucial functions to form the holy grail of underground mining.
+Mathews' continued: "The UGMS intelligence layer features capability we believe no other technology vendor can provide. This intelligence layer is made up of pre-defined logic, which, when combined with the tacit knowledge of mining engineers, delivers breakthrough strategic insight.
+"The dynamic haulage within UGMS doesn't just look at haulage from a production perspective. The solution calculates the cost and implication of haulage decisions to the entire operation, creating part of the singular view effect."
+</content>
+  <sindexList>
+  <sindex>
+    <name>RPM's Enterprise Platform</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UGMS</name>
+    <count>7</count>
+    <score>5</score>
+  </sindex>
+  <sindex>
+    <name>Richard Mathews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Digital Mine</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>RPMGlobal</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Enterprise Planning Platform</name>
+    <count>2</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Mathew</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Australian Mining</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Underground Metals Solution</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

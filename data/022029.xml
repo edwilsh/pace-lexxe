@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651442636607722029</docid>
+  <date>07/08/2017</date>
+  <time>03:59</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/technology/how-i-learned-to-stop-worrying-and-love-my-broadband-despite-the-nbn-20170803-gxombm</url>
+  <title>How I learned to stop worrying and love my broadband, despite the NBN</title>
+  <content>
+Is the NBN getting you down?
+Are you awaking irritable and still tired each morning, afraid that Malcolm Turnbull's version of the National Broadband Network has condemned you, your children and possibly your children's children to broadband speeds that are marginal at best right now, but that will lag far behind the rest of the world in years to come?
+Lord knows the NBN has been getting me down, and I don't even have it yet.
+Ever since the NBN appeared in my suburb, my already very sketchy broadband speed has , especially for uploads. Many of the smart home gadgets in my house, ranging from Google Home to security cameras, now refuse to work, not all of the time, but all too often.
+
+NBN Co insists it's not its fault, and that my ISP must be to blame. My ISP, which sent out a technician who couldn't find anything wrong with my connection, suggested that it may not be a coincidence that the connection went dodgy soon after the NBN took over the local backbone.
+
+, I'm left standing between two fingers pointing at each other, which in effect means they're pointing at me to fix it.
+So, in the hope that some of you might find this useful, here's what I've done . . .
+Toxic mix
+
+In the natural order of things, fixed broadband should always be faster than wireless broadband. That's just the fact we've all grown up with.
+
+But such is the shemozzle that is the NBN, a toxic mix of old technologies and politicised cost structures that encourage ISPs to under-service their customers, that wireless broadband is currently faster than the NBN.
+On Telstra's 4GX network we've seen download speeds of 350 megabits per second, more than triple what the NBN is making available in my suburb, and upload speeds of 50mbps, 25 per cent higher than the best the NBN has to offer (presuming you even get that speed when you pay for it).
+I mention this because there exists home Wi-Fi routers, , that let you use a 4G wireless connection in conjunction with your fixed broadband connection, to smooth over the NBN's rough edges.
+I've plugged an old 4G phone into the Synology's USB port, set the phone so it shares its internet connection over USB (a setting typically known as "USB tethering"), and then told the Synology to use that wireless connection whenever the fixed broadband connection drops out.
+
+If that's too dangerous for you (given the cost of wireless broadband, and the fact that just a few hours of viewing Stan on your TV could blow your monthly 4G limit), you can also set the Synology so it only uses the 4G connection for certain devices and not others, depending on their IP address.
+You can set it so the TV always uses the fixed broadband connection, for instance, but your work laptop always gets routed over the 4G connection, so you can still get your work done even on a Friday night when the NBN has ground to a standstill.
+Pre-order connection
+
+The next step in my strategy has been to pre-order an NBN connection from a service provider that, according to all reports, doesn't actually grind to a halt on a Friday night.
+
+I'm talking about Aussie Broadband, the company that appears to be doing more than most to ensure NBN users get the speeds they've paid for.
+Aussie Broadband does this leasing (or sometimes building) dedicated fibre back-haul connections to each of the NBN's 121 Point of Interconnect (POI) hubs, so that on a Friday night, when ISPs that are on shared fibre back-haul are all contending for the same bandwidth that connects the POI to the broader internet, Aussie Broadband customers don't have to fight with their neighbours for speed.
+At the same time, Aussie Broadband officials say, they take a conservative approach to buying the contended NBN bandwidth that runs from the home to the POI, and turn away new customers rather than have them overload that bandwidth.
+Ironically it is also the , in accusing its ISP peers of not doing their fair share of the lifting in ensuring a good NBN experience.
+
+Colleagues of mine who have switched to Aussie Broadband swear by them. I'm hoping to switch over to them in the next month or so, and I'll publish my results when I do. 
+The final stage in my cunning plan to live with the NBN is to move house, either to some suburb that has the proper fibre-to-the-home NBN connection that nature and Stephen Conroy always intended so that at least, when the cost structures get sorted out, the technology will be ready for truly fast internet; or to some other country where the internet wasn't ruined by politicians.
+Hong Kong is looking nice.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>IP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Synology's USB</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN's 121 Point of Interconnect</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>NBN</name>
+    <count>17</count>
+    <score>13</score>
+  </sindex>
+  <sindex>
+    <name>Telstra's 4GX</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ISP</name>
+    <count>3</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>National Broadband Network</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>USB</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Hong Kong</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>ISPs</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Aussie Broadband</name>
+    <count>5</count>
+    <score>-0.5</score>
+  </sindex>
+  <sindex>
+    <name>Synology</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Google Home</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Friday</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stan</name>
+    <count>1</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>G</name>
+    <count>5</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>NBN Co</name>
+    <count>1</count>
+    <score>0.5</score>
+  </sindex>
+  <sindex>
+    <name>Lord</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Malcolm Turnbull</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Wi-Fi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Stephen Conroy</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Pre-orders</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

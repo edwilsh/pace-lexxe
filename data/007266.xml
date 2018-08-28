@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410853849269884</docid>
+  <date>02/08/2017</date>
+  <time>00:39</time>
+  <isTopNews>false</isTopNews>
+  <source>The Australian</source>
+  <url>http://www.theaustralian.com.au/news/latest-news/death-of-liu-xiaobo-mysterious-ai-weiwei/news-story/7000d0d6996a9aa96b4aaea60ff4ef19</url>
+  <title>Death of Liu Xiaobo mysterious: Ai Weiwei</title>
+  <content>
+Chinese artist Ai Weiwei has described the recent death of Nobel Peace Prize winner Liu Xiaobo as "quite mysterious".
+"Liu Xiaobo was my friend. His criticism was much softer (than mine). He was a peaceful man," Ai said, as he told reporters in Buenos Aires about an exhibition he is due to open in the Argentinian capital in November.
+"He spent nine years in jail and suddenly it was reported he had cancer in the worse stage (and died). It is quite mysterious," Ai said.
+The artist also accused the West of not doing enough to defend Liu, who died while still under police guard in a Chinese hospital on July 13.
+It was easier for nations to make business deals with China, he said, adding that the country didn't have a "human rights culture".
+Liu, a writer and activist, was jailed in 2009 for subverting state power but was awarded the Nobel Peace Prize a year later for his work in campaigning for human rights in China.
+The Ai retrospective at the Proa Foundation in Buenos Aires will open on November 18 and run until February 2018. Ai exhibitions are also set to take place in Brazil and Chile.
+</content>
+  <sindexList>
+  <sindex>
+    <name>AI</name>
+    <count>4</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liu</name>
+    <count>2</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Brazil</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Proa Foundation</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>BUENOS AIRES</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>West</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>July 13</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ai Weiwei</name>
+    <count>2</count>
+    <score>-3</score>
+  </sindex>
+  <sindex>
+    <name>February 2018</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>November 18</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chile</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>China</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>November</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Argentinian</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Liu Xiaobo</name>
+    <count>3</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Chinese</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Nobel Peace Prize</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  </sindexList>
+</snippet>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651422750908905073</docid>
+  <date>03/08/2017</date>
+  <time>22:49</time>
+  <isTopNews>false</isTopNews>
+  <source>Australia Broadcasting Corp</source>
+  <url>http://www.abc.net.au/news/2017-08-04/tokyo-tsukiji-fish-market-fire/8773560</url>
+  <title>Tokyo's Tsukiji fish market: Fire breaks out at popular tourist site</title>
+  <content>
+Related Story:
+
+Dozens of firefighters have battled a fire at Tokyo's world-famous Tsukiji fish market, an area packed with tiny seafood vendors, sushi restaurants and tourists.
+Efforts to bring the fire under control continued late on Thursday evening.
+Clouds of grey smoke and orange flames rose from a row of wooden stores in an area called "the outer market." The street outside was filled with fire engines.
+Pedestrians walked briskly by, covering their noses and mouths with towels.
+The Tokyo Fire Department said no-one was injured or trapped because the fire broke out after the shops closed.
+
+Tsukiji market is popular among tourists. Its inner market, where  and other dishes, was not affected.
+"First there was only smoke, then it kept getting worse," Kiyoshi Kimura, president of the popular sushi restaurant Sushizanmai, told TV Asahi.
+Tsukiji market is at the centre of a dispute over its relocation. The Tokyo city government's plan to move the fish market to another site has been delayed because of the contamination of underground water at the new complex in Toyosu.
+In June, Tokyo Governor Yuriko Koike announced a plan to go ahead with the inner market's move to Toyosu, while turning Tsukiji into a food theme park. The outer market will stay.
+
+AP
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>AP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>TV Asahi</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Governor Yuriko Koike</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tsukiji</name>
+    <count>4</count>
+    <score>3</score>
+  </sindex>
+  <sindex>
+    <name>Toyosu</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Sushizanmai</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo Fire Department</name>
+    <count>1</count>
+    <score>1.3</score>
+  </sindex>
+  <sindex>
+    <name>Kiyoshi Kimura</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>June</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tokyo's Tsukiji</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  </sindexList>
+</snippet>

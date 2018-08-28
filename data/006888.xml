@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651410342748152652</docid>
+  <date>01/08/2017</date>
+  <time>22:40</time>
+  <isTopNews>false</isTopNews>
+  <source>Herald Sun</source>
+  <url>http://www.heraldsun.com.au/news/breaking-news/native-alaska-hunters-kill-protected-whale/news-story/19e93bc459e59520be88f562a386c063</url>
+  <title>Native Alaska hunters kill protected whale</title>
+  <content>
+A grey whale making a rare sojourn up an Alaska river has been killed by Native hunters in boats who peppered the massive, federally protected animal with gunfire and harpoons.
+The 11.2 metre whale was then retrieved from the Kuskokwim River and cut up for distribution among Alaska Natives in the Yup'ik village of Napaskiak.
+Honorary chief Chris Larson told Anchorage TV station KTVA that the whale was "like a gift" to the community.
+Gray whales are off limits to Alaska hunters, including Alaska Natives. But many in the region believe the river brought subsistence food and it would be against Yup'ik culture not to accept it.
+Federal officials are investigating what they say appears to be the unauthorised harvest of a gray whale on Thursday.
+Originally published as
+</content>
+  <sindexList>
+  <sindex>
+    <name>Chris Larson</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Napaskiak</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Anchorage TV</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Alaska</name>
+    <count>3</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Alaska Native</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Yup</name>
+    <count>2</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Kuskokwim River</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Thursday</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>KTVA</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Grey</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

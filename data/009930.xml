@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651414225398657749</docid>
+  <date>02/08/2017</date>
+  <time>13:44</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>http://www.businessinsider.com.au/stock-market-today-dow-hits-22000-for-first-time-2017-8</url>
+  <title>The Dow hits 22,000 for the first time</title>
+  <content>
+The  has crossed the 22,000 level for the first time, supported by Apple's rally after its second-quarter earnings outperformance.
+
+The closely followed index is trading up 0.2% on Wednesday, running its year-to-date gain to about 11% as traders have shrugged off the inability of President Donald Trump to pass any major pieces of legislation and have instead focused on earnings growth.
+
+on Tuesday  for fiscal-third-quarter profits and revenue, and issued strong guidance for its fourth quarter. It shares rallied to a record on Wednesday, rising 6% to as high as $US159.65.
+
+The market's gains this week came despite mostly disappointing economic data. Personal income, ISM manufacturing, and construction spending all missed the mark while personal spending and core PCE prices matched estimates.
+
+Traders also shrugged off a lacklustre auto sales report for the month July, which showed the  by a wide margin. And,  showed that employers added 178,000 jobs in July, fewer than forecast.
+
+NOW WATCH: Money & Markets videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>ISM</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>President Donald Trump</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>PCE</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Wednesday</name>
+    <count>2</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Apple</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>US159.65</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

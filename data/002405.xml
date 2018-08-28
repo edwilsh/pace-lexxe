@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651401108568291709</docid>
+  <date>31/07/2017</date>
+  <time>10:50</time>
+  <isTopNews>false</isTopNews>
+  <source>IT News</source>
+  <url>http://www.itnews.com.au/news/hackers-claim-to-have-infiltrated-mandiant-469767</url>
+  <title>Hackers claim to have infiltrated Mandiant</title>
+  <content>
+Cybersecurity company Mandiant appears to have had its IT systems compromised by hackers, with sensitive information belonging to one of its security analysts posted on the internet.
+
+Anonymous hackers  they have had access to Mandiant's internal networks since 2016, publishing 32 megabytes of data belonging to one of the company's analysts, Adi Peretz, as proof.
+
+The hack has been dubbed Operation .
+
+Peretz's Microsoft account login details are in the data archive sighted by iTnews, along with his contacts, screenshots of the Windows Find My Device geolocator, client correspondence and presentations. 
+
+Among the clients in the data archive is the Israeli Defence Force (IDF).
+
+The hackers also defaced Peretz's LinkedIn , and claim to have remotely wiped his mobile devices.
+
+At this stage, it is not known who conducted the attack, which appears to be motivated by a desire to get even with security analysts who investigate cyber crime.
+
+Further leaks from Mandiant might appear, the hackers threatened.
+
+"This leak was just a glimpse of how deep we breached into Mandiant, we might publish more critical data in the future," they wrote.
+
+Mandiant has been contacted for comment.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Adi Peretz</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>IDF</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Mandiant</name>
+    <count>6</count>
+    <score>-4</score>
+  </sindex>
+  <sindex>
+    <name>Israeli Defense Forces</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>iTnews</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peretz's LinkedIn</name>
+    <count>1</count>
+    <score>-2</score>
+  </sindex>
+  <sindex>
+    <name>Windows Find My Device</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Peretz's Microsoft</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

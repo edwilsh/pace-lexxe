@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651404587491868113</docid>
+  <date>01/08/2017</date>
+  <time>00:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://afr.com/street-talk/tide-turns-for-downer-edi-macquarie-upgrades-20170731-gxmpbg</url>
+  <title>Tide turns for Downer EDI, Macquarie upgrades</title>
+  <content>
+As Downer EDI closes in on Spotless Group, the company seems to be winning back some key supporters. 
+Macquarie analysts jumped back on the Downer bandwagon on Tuesday morning, upgrading the stock to "outperform" from "neutral" and backing management to extract more cost savings from Spotless than initially expected. 
+"Upon acquiring SPO, DOW will undertake a broad based review of SPO including corporate structure, assets, businesses, employees and operations," the analysts said in a note to clients on Tuesday. 
+"If DOW has >90% of SPO then it has full control in relation to this review and implementation of review findings; however if less than 90%, it would need to engage with the SPO board in relation to review (unwieldy but still workable).
+
+Anthony Macdonald (AFR)
+
+"DOW's review is expected to take at least 3 months. We think this is likely to see the existing $30m cost savings target increased (SPO's estimate of $60m = 2% acquired sales); however we expect that a portion will be required to re-invest in the base SPO business in order to drive revenue growth." 
+
+The comments came as Downer's ownership increased to 83 per cent of Spotless shares, and extended its offer until the close of business on August 7. 
+Downer shares last traded at $6.36 which, while lower than the $7-plus they were trading pre the Spotless deal, is better than the sub-$6 a share range soon after. 
+Macquarie expects Downer to make 45¢ earnings per share in the 2018 financial year, including Spotless, which it said was more than the 39¢ consensus forecast. 
+The broker had an "outperform" recommendation on Downer until March 21 this year, when it downgraded the stock to "neutral". The downgrade coincided with the Spotless bid. 
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Downer</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Anthony Macdonald</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Downer EDI</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spotless Group</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>March 21</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>SPO</name>
+    <count>6</count>
+    <score>6</score>
+  </sindex>
+  <sindex>
+    <name>Macquarie</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>August 7</name>
+    <count>1</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>Dow</name>
+    <count>3</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>AFR</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Spotless</name>
+    <count>5</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Tuesday</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

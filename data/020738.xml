@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651438826971688225</docid>
+  <date>06/08/2017</date>
+  <time>13:12</time>
+  <isTopNews>false</isTopNews>
+  <source>Australian Financial Review</source>
+  <url>http://www.afr.com/business/banking-and-finance/financial-services/industry-funds-risk-institutionalisation-says-john-nolan-20170803-gxoy73</url>
+  <title>Industry funds risk institutionalisation</title>
+  <content>
+The founder of asset consultant JANA and head of REST Super's investment committee, John Nolan, has warned that industry super funds are at risk of being captured by the executive ranks and forgetting they exist for members.
+Mr Nolan, who established John A Nolan and Associates in 1987, which has grown to advise super funds with more than $350 billion at their disposal, compared the rise of the multibillion industry fund sector with mutual companies that lost their way, such as AMP and National Mutual.
+"You now have another generation of mutuals in the context of super funds. The issue you have with mutuals is that over time they have a tendency to be captured by management and forget what they are there for. That's the challenge for industry funds over the medium term," Mr Nolan said.
+Mr Nolan said he was not interested in the politics of superannuation. He said his views were guided by his interest in delivering members with superior returns, however he reiterated that if funds weren't able to maintain links to the past they would be unlikely to prosper in the future.
+
+"Ian Silk is an enormously capable executive. He was the chief executive of ARF and when ARF and STAR merged he became the chief executive of AustralianSuper. I haven't spoken to Ian for many years but I know that for as long as Ian is in charge it won't wander too far from its core purpose."
+
+Mr Nolan also expressed concern about the rise of personalised investment choices, which were putting the $1.3 trillion pool of superannuation at risk.
+More than $650 billion is . Most large industry funds now allow investors to dictate the individual asset class mix and some allow members to select individual companies.
+Mr Nolan said the Poseidon boom and bust of 1969-70 - which saw shares in the speculative nickel mining company rise from 80¢ to a high of $280 before crashing - could have been catastrophic if investors were able to direct their super funds at the time.
+"There are structural flaws [in the superannuation system]. If, for example you have a boom in the future when large numbers of individuals direct their savings into the boom, they could inflate the boom even further.
+
+"There's no cooling off period, I can change my asset allocation, I could change my fund effectively at my whim.could get dragged into the human nature aspect, which could be to the detriment of society."
+Turning to the nitty gritty of funds management, Mr Nolan said the industry needed to stop dragging its heels and provide vehicles that catered for different levels of taxation. Mr Nolan founded Warakirri Asset Management in 1993 with the intention of providing funds tailored to tax circumstances.
+Mr Nolan said that there was too little transparency when it came to tax considerations and that because it wasn't measured, many fund managers ignored it. He said the idea that a manager could conceivably sell a company after holding it for 44 days and forfeit franking credits, or sell one day short of a year and pay full capital gains tax, was outrageous.
+"Apart from Warakirri and the managers of some large superannuation funds, most managers fail to segregate the money they manage based on the different tax rates of their investors. On zero tax, a buyback is a much different animal compared to if you are on 47 per cent. For one it's sensible, the other it's often dumb. If you don't know the tax rate you can't make rational decisions."
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Warakirri Asset Management</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>POSEIDON</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Ian</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>John Nolan</name>
+    <count>1</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>REST Super</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Ian Silk</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>Mr Nolan</name>
+    <count>8</count>
+    <score>-1</score>
+  </sindex>
+  <sindex>
+    <name>National Mutual</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Jana</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  <sindex>
+    <name>John A Nolan</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AustralianSuper</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Warakirri</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>AMP</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>ARF</name>
+    <count>2</count>
+    <score>0</score>
+  </sindex>
+  </sindexList>
+</snippet>

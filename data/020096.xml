@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+  <docid>4651437830539266553</docid>
+  <date>06/08/2017</date>
+  <time>09:20</time>
+  <isTopNews>false</isTopNews>
+  <source>Business Insider</source>
+  <url>https://www.businessinsider.com.au/amazon-patents-mobile-drone-stations-on-trains-vans-boats-2017-8</url>
+  <title>Amazon is thinking about building mobile drone stations on trains, vans, and boats</title>
+  <content>
+Amazon is heavily investing in drones, and one day hopes to use the unmanned aerial vehicles (UAVs) to revolutionise deliveries.
+
+Right now, it's all still early stages - but public patent filings can offer us tantalising glimpses of what Amazon's engineers are thinking about and experimenting as they develop the tech.
+
+For example, a key problem facing any drone deliveries is batteries and maintenance. When your drones are in the shop getting fixed, they're not helping you make any money - so how do you keep them charged and in the air for as long as possible?
+
+One possible answer: An ambitious fleet of mobile maintenance facilities based on trains, in vehicles, and on boats.
+
+, Amazon reveals it is thinking about exactly this (emphasis ours):
+
+"Intermodal vehicles may be loaded with items and an aerial vehicle, and directed to travel to areas where demand for the items is known or anticipated. The intermodal vehicles may be coupled to locomotives, container ships, road tractors or other vehicles, and equipped with systems for loading one or more items onto the aerial vehicle, and for launching or retrieving the aerial vehicle while the intermodal vehicles are in motion. The areas where the demand is known or anticipated may be identified on any basis, including but not limited to past histories of purchases or deliveries to such areas, or events that are scheduled to occur in such areas. Additionally, intermodal vehicles may be loaded with replacement parts and/or inspection equipment, and configured to conduct repairs, servicing operations or inspections on aerial vehicles within the intermodal vehicles, while the intermodal vehicles are in motion."
+
+In plain English? Amazon is exploring the idea of building special facilities that can store, repair, and deploy drones, and pre-emptively moving products and drones to areas of anticipated demand (based on seasonal trends, say, or a special event in the area) before launching them.
+
+Some caveats apply to all this. For a start: There's no guarantee Amazon ultimately builds this. Big tech companies file thousands of patents a year, and not all of them make it into finished products.
+
+And Amazon's drone ambitions are still in their infancy. It has , but it still seems a long way off commercial deliveries - much less building a sophisticated network of mobile infrastructure to support those deliveries.
+
+Still, the patent - and others like it - offers us a window into the kind of problems Amazon's employees are grappling with, and how they might ultimately hope to solve them.
+
+For example, Amazon has previously filed for  - or as it calls it, a"multi-level fulfillment center for unmanned aerial vehicles."
+
+And as Business Insider first reported in July,  in order to try and sell you more stuff. If it spots one of your trees is dying, it might recommend some fertiliser to you with an advert on its website, for example.
+
+An Amazon spokesperson declined to comment.
+
+Here's the full patent filing describe the mobile maintenance facilities:
+
+Read more:
+
+NOW WATCH: Tech Insider videos
+
+Business Insider Emails & Alerts
+
+Site highlights each day to your inbox.
+
+</content>
+  <sindexList>
+  <sindex>
+    <name>Amazon</name>
+    <count>10</count>
+    <score>2</score>
+  </sindex>
+  <sindex>
+    <name>Tech Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Business Insider</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>Insider Emails</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>July</name>
+    <count>1</count>
+    <score>0</score>
+  </sindex>
+  <sindex>
+    <name>UAVs</name>
+    <count>1</count>
+    <score>1</score>
+  </sindex>
+  </sindexList>
+</snippet>

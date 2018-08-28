@@ -1,2 +1,2 @@
 # pace-lexxe
-Classification ML project for Lexxe Group
+Classification ML project for Lexxe
